@@ -221,6 +221,7 @@
 
     async function openItem(id, type) {
       modalContainer.classList.remove('hidden');
+      modalContainer.classList.remove('hidden');
       document.body.classList.add('overflow-hidden');
 
       // Set temporary state
@@ -233,18 +234,22 @@
 
       try {
         const itemType = type === 'movies' ? 'movies' : 'tv';
-        const detailRes = await fetch(`./${itemType}/${id}.json`).then(r => r.json());
+        const detailRes = await fetch('./' + itemType + '/' + id + '.json').then(function(r) { return r.json(); });
         
-        const title = detailRes.title || detailRes.name;
-        const overview = detailRes.overview || 'No synopsis available.';
-        const date = detailRes.releaseDate || detailRes.firstAirDate || '-';
-        const posterUrl = detailRes.posterPath ? `https://image.tmdb.org/t/p/w500${detailRes.posterPath}` : 'https://placehold.co/500x750/0c0c0c/555?text=No+Poster';
+        const isMovie = type === 'movies';
+        const dataObj = isMovie ? detailRes.movie : detailRes.tvShow;
+        
+        const title = isMovie ? dataObj.title : dataObj.name;
+        const overview = dataObj.overview || 'No synopsis available.';
+        const date = (isMovie ? dataObj.releaseDate : dataObj.firstAirDate) || '-';
+        const posterUrl = dataObj.posterPath ? 'https://image.tmdb.org/t/p/w500' + dataObj.posterPath : 'https://placehold.co/500x750/0c0c0c/555?text=No+Poster';
+        const popularityVal = dataObj.popularity ? dataObj.popularity.toFixed(1) : '-';
         
         modalTitle.innerText = title;
         modalOverview.innerText = overview;
         modalDate.innerText = date;
         modalPoster.src = posterUrl;
-        modalPopularity.innerText = detailRes.popularity ? detailRes.popularity.toFixed(1) : '-';
+        modalPopularity.innerText = popularityVal;
 
         // Load stream sources select options
         const streams = detailRes.streamingLinks || [];
