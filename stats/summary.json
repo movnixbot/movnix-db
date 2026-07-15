@@ -1,42 +1,50 @@
 {
-  "totalMovies": 10,
-  "totalTvShows": 21,
-  "totalEpisodes": 2093,
+  "totalMovies": 21,
+  "totalTvShows": 23,
+  "totalEpisodes": 2258,
   "movieGenres": [
     {
       "name": "Drama",
-      "count": 11
+      "count": 26
+    },
+    {
+      "name": "Adventure",
+      "count": 8
+    },
+    {
+      "name": "Comedy",
+      "count": 7
+    },
+    {
+      "name": "Action",
+      "count": 6
     },
     {
       "name": "Thriller",
+      "count": 6
+    },
+    {
+      "name": "Science Fiction",
+      "count": 5
+    },
+    {
+      "name": "Family",
       "count": 4
     },
     {
       "name": "Horror",
-      "count": 3
-    },
-    {
-      "name": "Action",
-      "count": 3
-    },
-    {
-      "name": "Comedy",
-      "count": 3
-    },
-    {
-      "name": "Adventure",
-      "count": 3
-    },
-    {
-      "name": "Science Fiction",
-      "count": 2
-    },
-    {
-      "name": "Family",
-      "count": 2
+      "count": 4
     },
     {
       "name": "Fantasy",
+      "count": 3
+    },
+    {
+      "name": "Animation",
+      "count": 2
+    },
+    {
+      "name": "Mystery",
       "count": 2
     },
     {
@@ -44,9 +52,13 @@
       "count": 1
     },
     {
-      "name": "Mystery",
+      "name": "Music",
+      "count": 1
+    },
+    {
+      "name": "History",
       "count": 1
     }
   ],
-  "generatedAt": "2026-07-15T00:00:38.851Z"
+  "generatedAt": "2026-07-15T01:00:11.606Z"
 }
