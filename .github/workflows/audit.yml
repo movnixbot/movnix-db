@@ -1,0 +1,27 @@
+name: Automated Database Audit
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Database Auditor
+        run: node scripts/audit.js
+
+      - name: Commit and Push Clean Files
+        run: |
+          git config --global user.name "MovnixBot Auditor"
+          git config --global user.email "bot@movnix.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automated database audit - cleaned dead links [skip ci]" && git push origin main)
