@@ -16,9 +16,9 @@ This repository acts as a highly optimized, flat-file JSON API database powered 
 ## 📊 Database Statistics
 
 * 🎬 **Total Movies**: `21`
-* 📺 **Total TV Series**: `21`
-* 🎞️ **Total Episodes**: `2093`
-* 🏷️ **Total Genres**: `181`
+* 📺 **Total TV Series**: `23`
+* 🎞️ **Total Episodes**: `2258`
+* 🏷️ **Total Genres**: `239`
 
 ---
 
@@ -48,5 +48,4 @@ To easily search and query this database in your JavaScript/TypeScript projects,
 npm install movnix-sdk
 ```
 
----
 *Last updated: ${new Date().toUTCString()} | Generated and published by [MovnixBot Daemon](https://github.com/movnixbot/movnix-bot)*
