@@ -361,5 +361,250 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1418308/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1418308,
+    "hash": "88f9cb91fd4b3b9821fe257e7135ba815daa5cf6ac4dee30e9f2db665809afdc",
+    "summary_one_sentence": "A group of friends unleashes a vengeful spirit from an ancient board game in a remote temple and must end the deadly game to survive.",
+    "summary_short": "A group of friends discovers an ancient board game hidden in a remote temple. When they cast the die, a vengeful spirit is released and the game becomes a deadly trap. They must uncover how to end the game before they are killed one by one. The situation grows more dangerous as the spirit hunts them through the temple.",
+    "summary_long": "A group of friends travels to a remote temple seeking adventure and stumbles upon an ancient board game concealed within its ruins. Curious and unaware of the danger, they begin to play, and the moment the die is cast, a vengeful spirit is unleashed from the game. The spirit quickly turns the playful activity into a deadly trap, targeting each player with supernatural violence. As friends start disappearing or dying, the remaining survivors realize the game will not stop until it claims them all. Panic sets in as they search the temple for clues about the game's origin and the spirit's curse. They learn through fragmented inscriptions that the game was sealed away centuries ago to contain the malicious entity. The group attempts multiple strategies to break the connection, but the spirit adapts and grows stronger with each turn. Tensions rise and alliances fracture under the pressure of imminent death. In the end, the survivors must solve the game's hidden rule to close the portal and banish the spirit before none remain. Only by sacrificing their desire to win can they hope to escape the temple alive.",
+    "synopsis": "Ghost Board follows a group of friends who discover a mysterious ancient board game in a remote temple. Upon playing it, they accidentally release a vengeful spirit that turns the game into a lethal supernatural ordeal. Trapped and hunted, the friends must work together to understand the game's rules and find a way to end it before they are all claimed by the spirit. The film blends horror, thriller, and drama as it explores friendship, fear, and survival against an unseen evil.",
+    "keywords": [
+      "vengeful spirit",
+      "ancient board game",
+      "remote temple",
+      "deadly trap",
+      "supernatural curse",
+      "group of friends",
+      "survival horror",
+      "unexpected summoning",
+      "paranormal threat",
+      "mysterious artifact",
+      "race against death",
+      "hidden danger",
+      "occult ritual",
+      "trapped victims",
+      "desperate escape"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Supernatural",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Friendship",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The group confronts the spirit in a final, desperate attempt to break the game's deadly hold and stop the killings.",
+      "conflict": "After casting the die, a vengeful spirit is released from the game, transforming it into a lethal trap that threatens the group's lives.",
+      "resolution": "They manage to end the game and survive, though changed by the ordeal, and the spirit is sealed away once more.",
+      "introduction": "A group of friends discovers an ancient board game concealed within a remote temple during their exploration.",
+      "risingAction": "As the game progresses, the friends face escalating supernatural dangers and realize they must uncover the rules to end the game before it claims them one by one."
+    },
+    "characters": [
+      {
+        "name": "Win Sakulsaengprapha",
+        "role": "Hero",
+        "description": "A friend who takes the lead in figuring out how to end the deadly game and protect the group from the vengeful spirit."
+      },
+      {
+        "name": "Panisara Rikulsurakan",
+        "role": "Supporting Character",
+        "description": "A friend who aids the hero and contributes to solving the mystery of the board game."
+      },
+      {
+        "name": "Neennara Boonnithipaisit",
+        "role": "Supporting Character",
+        "description": "A friend caught in the trap who supports the group's survival efforts."
+      },
+      {
+        "name": "Nattawat Sumploy",
+        "role": "Supporting Character",
+        "description": "A friend who helps the group navigate the dangers of the unleashed spirit."
+      },
+      {
+        "name": "Pawat Ketsrisakda",
+        "role": "Comic Relief",
+        "description": "A friend whose humor lightens tension amid the deadly game."
+      },
+      {
+        "name": "Ongart Cheamcharoenpornkul",
+        "role": "Supporting Character",
+        "description": "A friend working with others to escape the temple's curse."
+      },
+      {
+        "name": "Natee Ngamneawprom",
+        "role": "Mentor",
+        "description": "An experienced figure who provides crucial knowledge about the ancient board game and spirit."
+      },
+      {
+        "name": "Panjai Sirisuwan",
+        "role": "Villain",
+        "description": "The vengeful spirit unleashed by the game, determined to claim the players as victims."
+      },
+      {
+        "name": "Manita Chobchuen",
+        "role": "Supporting Character",
+        "description": "A friend who faces the deadly trap alongside the group and aids their survival."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Friends Group",
+        "target": "Vengeful Spirit",
+        "description": "Antagonist/Hunters (spirit pursues the friends as prey)"
+      },
+      {
+        "source": "Friend 1",
+        "target": "Friend 2",
+        "description": "Close friends / companions"
+      },
+      {
+        "source": "Friend 1",
+        "target": "Friend 3",
+        "description": "Close friends / companions"
+      },
+      {
+        "source": "Friend 2",
+        "target": "Friend 3",
+        "description": "Close friends / companions"
+      },
+      {
+        "source": "Friends Group",
+        "target": "Ancient Board Game",
+        "description": "Unwitting summoners / victims of the game's curse"
+      }
+    ],
+    "seo": {
+      "slug": "ghost-board",
+      "jsonLd": {
+        "name": "Ghost Board",
+        "@type": "Movie",
+        "genre": "Horror",
+        "@context": "https://schema.org",
+        "description": "A group of friends stumbles upon an ancient board game hidden in a remote temple. Once the die is cast, a vengeful spirit is unleashed, turning the game into a deadly trap. To survive, they must figure out how to end it before they become its next victims."
+      },
+      "keywords": [
+        "Ghost Board movie",
+        "horror board game film"
+      ],
+      "canonical": "https://movnix.com/movie/ghost-board",
+      "metaTitle": "Ghost Board - Ancient Board Game Unleashes Deadly Spirit | Horror Movie",
+      "openGraph": {
+        "og:title": "Ghost Board",
+        "og:description": "An ancient board game unleashes a vengeful spirit in this deadly horror thriller. Will they survive the game?"
+      },
+      "twitterCard": {
+        "twitter:title": "Ghost Board",
+        "twitter:description": "A remote temple board game turns deadly when a spirit is unleashed. Survive the trap in Ghost Board."
+      },
+      "metaDescription": "Friends find an ancient board game in a temple. A vengeful spirit is unleashed, turning play into a deadly trap. Can they survive?"
+    },
+    "faq": [
+      {
+        "answer": "The film is titled Ghost Board.",
+        "question": "What is the title of the film?"
+      },
+      {
+        "answer": "A group of friends stumbles upon an ancient board game hidden in a remote temple. Once the die is cast, a vengeful spirit is unleashed, turning the game into a deadly trap. To survive, they must figure out how to end it before they become its next victims.",
+        "question": "What is the overview of the story?"
+      },
+      {
+        "answer": "No, Ghost Board is a standalone film and not part of an established franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Ghost Board.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is supernatural horror.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The main characters are a group of friends who discover the ancient board game during their visit to a remote temple.",
+        "question": "Who are the main characters in the movie?"
+      },
+      {
+        "answer": "The story primarily takes place in and around a remote temple where the ancient board game is found.",
+        "question": "Where does the story primarily take place?"
+      },
+      {
+        "answer": "The deadly events are triggered when one of the friends casts the die of the ancient board game, unleashing a vengeful spirit.",
+        "question": "What triggers the deadly events in the film?"
+      },
+      {
+        "answer": "To survive, the characters must figure out how to end the game before the vengeful spirit claims them as its next victims.",
+        "question": "How can the characters survive the game?"
+      },
+      {
+        "answer": "No, due to its supernatural horror themes, violence, and deadly scenarios, it is not suitable for younger audiences.",
+        "question": "Is Ghost Board suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Central premise involves a vengeful spirit, deadly curse, and survival against supernatural threat; strong horror atmosphere."
+      },
+      "language": {
+        "score": 3,
+        "description": "Possible mild profanity under fear or stress, but no indication of frequent or strong language."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Deadly supernatural traps and implied deaths of characters by a vengeful spirit, though graphic detail is unspecified."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drugs, alcohol, or substances mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity from life-threatening situation, fear of death, and urgency to survive."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-17 15:01:19.966054",
+    "updated_at": "2026-07-17 15:01:19.966054"
+  }
 }
