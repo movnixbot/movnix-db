@@ -363,5 +363,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1656220/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1656220,
+    "hash": "439b0e248540f521a423ebfca0891bc57ddf079ffee980c0a9caa84e9b3d15a2",
+    "summary_one_sentence": "A group of young Berliners crowdfund a ship to rescue refugees in the Mediterranean, challenging their own beliefs about law and justice.",
+    "summary_short": "A group of young Berliners, unwilling to ignore the deaths of refugees crossing the sea to Europe, launch a crowdfunding campaign to buy an old ship. Inexperienced but passionate, they sail into the Mediterranean to save lives. Their mission quickly confronts them with legal and moral dilemmas. The experience tests their understanding of justice and the limits of civilian action.",
+    "summary_long": "In Berlin, a group of young activists are devastated by news of thousands of refugees dying at sea while trying to reach Europe. Unable to stand by, they organize a crowdfunding campaign to purchase an old ship for rescue missions. Despite having no maritime or humanitarian experience, their courage and passion drive them forward. They outfit the vessel and set sail into the dangerous waters of the Mediterranean. Upon encountering overloaded boats and desperate passengers, they begin rescuing people directly at sea. However, they soon face resistance from authorities and ambiguous international laws regarding civilian rescues. Their actions draw scrutiny and legal threats, forcing them to question what is lawful versus what is morally right. Internal conflicts emerge as the group grapples with the consequences of their mission. Over time, their understanding of justice, responsibility, and activism is profoundly transformed. The journey becomes as much about self-discovery as it is about saving lives.",
+    "synopsis": "23 000 Lives follows a group of idealistic young Berliners who are moved to action by the ongoing refugee crisis in the Mediterranean. Pooling resources through crowdfunding, they acquire an old ship and venture into international waters to conduct search-and-rescue operations. The documentary-style drama explores their transition from inexperienced volunteers to frontline responders. As they confront the harsh realities of migration, border politics, and maritime law, the group must navigate impossible choices. The film examines themes of empathy, civil disobedience, and the personal cost of standing up for human lives.",
+    "keywords": [
+      "mediterranean refugee crisis",
+      "humanitarian mission",
+      "crowdfunding campaign",
+      "civilian rescue operation",
+      "young activists",
+      "berliners",
+      "illegal immigration",
+      "moral dilemma",
+      "law vs justice",
+      "sea rescue",
+      "grassroots movement",
+      "political activism",
+      "courage under pressure",
+      "inexperienced protagonists",
+      "migrant boat crossings"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Humanitarianism",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Justice vs Law",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Courage",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Activism",
+        "confidence": 0.9
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.7
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Their mission brings them into direct confrontation with questions of law and justice, testing their convictions and the limits of their actions.",
+      "conflict": "They launch a crowdfunding campaign to buy an old ship and face the challenge of undertaking dangerous Mediterranean rescues as untrained volunteers.",
+      "resolution": "The group is left to reconcile their humanitarian goals with the legal realities they faced, with the outcome of their understanding and efforts revealed by the story's end.",
+      "introduction": "A group of young Berliners, unable to ignore the deaths of refugees at sea, are moved to act despite having no prior experience in rescue operations.",
+      "risingAction": "After acquiring the vessel, they venture into the Mediterranean and begin saving people, but encounter growing tension with legal and political authorities."
+    },
+    "characters": [
+      {
+        "name": "Louis Hofmann",
+        "role": "Hero",
+        "description": "One of the young Berliners who leads the crowdfunding and rescue mission, driven by courage and compassion."
+      },
+      {
+        "name": "Mala Emde",
+        "role": "Hero",
+        "description": "A passionate young Berliner who helps organize the campaign and joins the Mediterranean rescue effort."
+      },
+      {
+        "name": "Katharina Stark",
+        "role": "Supporting Character",
+        "description": "Part of the group of young activists supporting the ship mission."
+      },
+      {
+        "name": "Frederick Lau",
+        "role": "Supporting Character",
+        "description": "A member of the Berlin crew contributing to the rescue operation."
+      },
+      {
+        "name": "Maria Dragus",
+        "role": "Supporting Character",
+        "description": "Supports the mission and faces the moral tests alongside the group."
+      },
+      {
+        "name": "Trevor Magaya",
+        "role": "Supporting Character",
+        "description": "Supporting figure within the narrative of the rescue mission."
+      },
+      {
+        "name": "Kathy Etoa",
+        "role": "Supporting Character",
+        "description": "Supporting figure assisting the young activists."
+      },
+      {
+        "name": "Saibon Wang",
+        "role": "Supporting Character",
+        "description": "Supporting figure in the crowdfunding and sea mission."
+      },
+      {
+        "name": "Joone Dankou",
+        "role": "Supporting Character",
+        "description": "Supporting figure involved with the group's efforts."
+      },
+      {
+        "name": "Merlin Von Garnier",
+        "role": "Supporting Character",
+        "description": "Supporting figure among the young Berliners taking action."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Young Berliners (Group)",
+        "target": "Refugees",
+        "description": "Rescuers/Rescued"
+      },
+      {
+        "source": "Young Berliners (Group)",
+        "target": "Crowdfunding Supporters",
+        "description": "Organizers/Backers"
+      },
+      {
+        "source": "Young Berliners (Group)",
+        "target": "Authorities/Legal System",
+        "description": "Activists/Adversaries (challenging law and justice)"
+      },
+      {
+        "source": "Young Berliners (Group Member)",
+        "target": "Young Berliners (Group Member)",
+        "description": "Fellow Activists/Comrades"
+      }
+    ],
+    "seo": {
+      "slug": "23-000-lives",
+      "jsonLd": {
+        "name": "23 000 Lives",
+        "@type": "Movie",
+        "about": "Refugee sea rescue",
+        "genre": "Documentary",
+        "@context": "https://schema.org",
+        "description": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexperienced but driven by passion and courage, they launch a crowdfunding campaign to buy an old ship. Venturing into the Mediterranean, they embark on a mission to save thousands of people. But their efforts soon put their understanding of law and justice to the test."
+      },
+      "keywords": [
+        "23 000 Lives",
+        "refugee rescue documentary",
+        "Mediterranean sea rescue",
+        "Berlin activists film"
+      ],
+      "canonical": "https://movnix.com/movie/23-000-lives",
+      "metaTitle": "23 000 Lives - Refugee Rescue Documentary Film",
+      "openGraph": {
+        "og:title": "23 000 Lives - A Refugee Rescue Mission",
+        "og:description": "Follow young Berliners who buy a ship to save refugees in the Mediterranean, challenging law and justice."
+      },
+      "twitterCard": {
+        "twitter:title": "23 000 Lives - Refugee Rescue at Sea",
+        "twitter:description": "Young activists crowdfund a ship to rescue Mediterranean refugees in this gripping documentary."
+      },
+      "metaDescription": "Young Berliners crowdfund a ship to save Mediterranean refugees, testing law and justice in this brave documentary."
+    },
+    "faq": [
+      {
+        "answer": "The title is '23 000 Lives'.",
+        "question": "What is the title of this work?"
+      },
+      {
+        "answer": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexperienced but driven by passion and courage, they launch a crowdfunding campaign to buy an old ship. Venturing into the Mediterranean, they embark on a mission to save thousands of people. But their efforts soon put their understanding of law and justice to the test.",
+        "question": "What is the overview of the story?"
+      },
+      {
+        "answer": "No, '23 000 Lives' is not part of a franchise; it is a standalone story based on real-life inspired events.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "There is no information indicating a post-credit scene; as a serious documentary-style or narrative film on a humanitarian mission, it likely does not include one.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is documentary or docudrama with strong elements of humanitarian drama and social activism.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The main characters are a group of young Berliners who are inexperienced but passionate, and who launch a crowdfunding campaign to buy a ship to rescue refugees.",
+        "question": "Who are the main characters in the story?"
+      },
+      {
+        "answer": "The main action takes place in Berlin (where the campaign starts) and the Mediterranean Sea (where the rescue mission occurs).",
+        "question": "Where does the main action take place?"
+      },
+      {
+        "answer": "They are motivated by the inability to stand by and watch countless refugees lose their lives at sea while trying to reach Europe, driven by passion and courage.",
+        "question": "What motivates the group to take action?"
+      },
+      {
+        "answer": "Their central conflict is that their rescue efforts put their understanding of law and justice to the test, implying legal and moral challenges with authorities.",
+        "question": "What central conflict do they face?"
+      },
+      {
+        "answer": "Yes, the story is inspired by real-life civilian sea rescue initiatives by European activists, though specific characters and events may be dramatized.",
+        "question": "Is the story based on real events?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "No horror elements or frightening imagery; only somber real-world themes."
+      },
+      "language": {
+        "score": 2,
+        "description": "Likely minimal or mild language; no indication of frequent strong profanity."
+      },
+      "violence": {
+        "score": 4,
+        "description": "References to refugee deaths at sea and perilous conditions, but no graphic or explicit violence depicted."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No mention or implication of substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or references present in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes of life-and-death rescue, moral dilemmas, and refugee suffering."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 1,
+      "science": 2,
+      "suspense": 7,
+      "violence": 4
+    },
+    "created_at": "2026-07-17 18:01:01.507209",
+    "updated_at": "2026-07-17 18:01:01.507209"
+  }
 }
