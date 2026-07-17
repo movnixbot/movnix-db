@@ -6,18 +6,17 @@
     "originalTitle": "ゴールデンカムイ 網走監獄襲撃編",
     "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
     "releaseDate": "2026-03-13",
-    "runtime": 139,
+    "runtime": 124,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 18.1924,
+    "popularity": 29.0343,
     "voteAverage": 7.9,
-    "voteCount": 7,
+    "voteCount": 12,
     "homepage": "https://www.netflix.com/title/82116953",
-    "posterPath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+    "posterPath": "/836hM2OzkTOY8Vrv152ZczW1oj7.jpg",
     "backdropPath": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "collectionId": 1397203,
-    "certification": "R"
+    "collectionId": 1397203
   },
   "collection": {
     "tmdbId": 1397203,
@@ -32,12 +31,16 @@
       "name": "Action"
     },
     {
-      "tmdbId": 12,
-      "name": "Adventure"
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 36,
       "name": "History"
+    },
+    {
+      "tmdbId": 12,
+      "name": "Adventure"
     },
     {
       "tmdbId": 1,
@@ -82,7 +85,7 @@
   ],
   "images": [
     {
-      "filePath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+      "filePath": "/836hM2OzkTOY8Vrv152ZczW1oj7.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -135,6 +138,13 @@
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gdJIbo8prqF5K6X0zLTVN4shpge.jpg",
+      "width": 536,
+      "height": 750,
+      "aspectRatio": 0.715,
       "type": "poster"
     },
     {
@@ -222,6 +232,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/8K6znMUDT6IAuxsdRc640QMA2gq.jpg",
+      "width": 1200,
+      "height": 1680,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
       "filePath": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
       "width": 2000,
       "height": 1125,
@@ -233,7 +250,7 @@
     {
       "source": "tmdb",
       "ratingValue": 7.9,
-      "votesCount": 7
+      "votesCount": 12
     },
     {
       "source": "crawled",
@@ -492,7 +509,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
