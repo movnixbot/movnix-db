@@ -1183,5 +1183,267 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1242265/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1242265,
+    "hash": "9109f354427410e893f8d6ba08042c6fc7ff33c09a97efb81d36129dc106d874",
+    "summary_one_sentence": "When an unexploded WWII bomb is found at a busy London construction site, military and police race against time to evacuate the area amid rising chaos.",
+    "summary_short": "In central London, a construction crew uncovers an unexploded World War II bomb buried beneath a busy building site. The discovery triggers an immediate response from the military and police, who must organize a mass evacuation of the surrounding area. As the clock ticks, tension escalates among officials, workers, and civilians caught in the panic. The film follows the coordinated effort to contain the threat before the device can detonate.",
+    "summary_long": "A routine excavation at a crowded construction site in the heart of London is abruptly halted when workers unearth a live, unexploded bomb dating back to World War II. The site is immediately secured as bomb disposal experts and police commanders assess the scale of the danger posed by the decades-old ordnance. With the device unstable and the surrounding district densely populated, authorities make the urgent decision to launch a mass evacuation of nearby residents and businesses. Chaos spreads through the streets as confused and frightened crowds scramble to leave while officers struggle to maintain order and control access points. Military specialists arrive to lead the defusal operation, working under intense pressure as the unknown condition of the bomb creates a constant ticking-clock scenario. Conflicting priorities between police, military, and city officials complicate the response, and communication breakdowns heighten the risk of casualties. Meanwhile, construction workers and local civilians become unwilling participants in the crisis, some trapped or reluctant to abandon the area. As hours pass, the threat of detonation looms larger, testing the limits of the emergency teams and the resilience of the community. The narrative builds toward a tense climax as the disposal unit attempts a final risky intervention to neutralize the bomb. Ultimately, the event exposes both the fragility of urban life above hidden wartime relics and the courage of those tasked with protecting the public.",
+    "synopsis": "Fuze is a tense action-thriller set in modern-day London, where the discovery of an unexploded World War II bomb at a central construction site throws the city into crisis. As military and police forces mobilize to evacuate thousands of people from the surrounding area, the story captures the confusion, urgency, and human drama of a metropolitan emergency. Blending crime, drama, and suspense, the film explores the coordinated response to a historical threat resurfacing in a contemporary urban landscape, highlighting the pressures faced by first responders and the impact on ordinary citizens caught in the upheaval.",
+    "keywords": [
+      "unexploded bomb",
+      "WWII relic",
+      "London setting",
+      "urban construction site",
+      "mass evacuation",
+      "ticking clock",
+      "military response",
+      "police operation",
+      "chaos",
+      "crowd panic",
+      "citywide disruption",
+      "bureaucratic tension",
+      "race against time",
+      "public safety crisis",
+      "explosive threat"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Chaos and Crisis",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Time Pressure",
+        "confidence": 0.9
+      },
+      {
+        "theme": "War Legacy",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Authority and Order",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Chaotic",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The critical moment arrives as specialists attempt to neutralize the bomb with time and public safety hanging in the balance.",
+      "conflict": "The discovery forces military and police to launch a mass evacuation of a densely populated area while facing the threat of imminent detonation.",
+      "resolution": "Order is restored following the outcome of the disposal effort, and the city begins to recover from the disruption.",
+      "introduction": "A routine construction project in central London is halted when workers uncover an unexploded WWII bomb buried beneath the site.",
+      "risingAction": "As the bomb squad assesses the device, tensions mount with a ticking clock, crowded streets, and logistical challenges in moving civilians to safety."
+    },
+    "characters": [
+      {
+        "name": "Aaron Taylor-Johnson",
+        "role": "Hero",
+        "description": "Leads the response to the bomb threat, working under pressure to protect civilians during the evacuation."
+      },
+      {
+        "name": "Theo James",
+        "role": "Supporting Character",
+        "description": "Assists in the crisis management and evacuation efforts at the London construction site."
+      },
+      {
+        "name": "Gugu Mbatha-Raw",
+        "role": "Supporting Character",
+        "description": "Plays a key role in coordinating the emergency response or affected civilian leadership."
+      },
+      {
+        "name": "Elham Ehsas",
+        "role": "Other",
+        "description": "Involved in the unfolding chaos, likely a civilian or operative impacted by the bomb discovery."
+      },
+      {
+        "name": "Sam Worthington",
+        "role": "Mentor",
+        "description": "Provides experience and command as a military or police authority guiding the operation."
+      },
+      {
+        "name": "Shaun Mason",
+        "role": "Comic Relief",
+        "description": "Offers levity amid the tension through humorous or everyday civilian reactions."
+      },
+      {
+        "name": "Nabil Elouahabi",
+        "role": "Other",
+        "description": "Part of the diverse cast caught in or responding to the evacuation scenario."
+      },
+      {
+        "name": "Honor Swinton Byrne",
+        "role": "Supporting Character",
+        "description": "Supports the narrative as a civilian or aide during the mass evacuation."
+      },
+      {
+        "name": "Saffron Hocking",
+        "role": "Supporting Character",
+        "description": "Contributes to the street-level perspective of the crisis in central London."
+      },
+      {
+        "name": "Laurie Duncan",
+        "role": "Other",
+        "description": "Appears within the ensemble facing the disruption caused by the unexploded bomb."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Military Commander",
+        "target": "Bomb Disposal Expert",
+        "description": "Superior/Subordinate"
+      },
+      {
+        "source": "Police Inspector",
+        "target": "Military Commander",
+        "description": "Colleagues coordinating evacuation"
+      },
+      {
+        "source": "Police Inspector",
+        "target": "Evacuation Officer",
+        "description": "Superior/Subordinate"
+      },
+      {
+        "source": "Construction Site Manager",
+        "target": "Police Inspector",
+        "description": "Witness/Authority figure"
+      },
+      {
+        "source": "Bomb Disposal Expert",
+        "target": "Construction Site Manager",
+        "description": "Specialist/Site contact"
+      },
+      {
+        "source": "Civilians",
+        "target": "Evacuation Officer",
+        "description": "Evacuees/Director of evacuation"
+      }
+    ],
+    "seo": {
+      "slug": "fuze-wwii-bomb-london",
+      "jsonLd": {
+        "name": "Fuze",
+        "@type": "Movie",
+        "about": "WWII bomb discovery and evacuation in London",
+        "genre": "Thriller",
+        "@context": "https://schema.org",
+        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock."
+      },
+      "keywords": [
+        "Fuze movie",
+        "WWII bomb London film",
+        "thriller movie 2024",
+        "London evacuation film"
+      ],
+      "canonical": "https://movnix.com/movie/fuze-wwii-bomb-london",
+      "metaTitle": "Fuze (2024) – WWII Bomb Threatens London | Movie",
+      "openGraph": {
+        "og:title": "Fuze – WWII Bomb Chaos in London",
+        "og:description": "Watch Fuze: an unexploded bomb triggers a tense mass evacuation in central London against a ticking clock."
+      },
+      "twitterCard": {
+        "twitter:title": "Fuze – London Bomb Thriller",
+        "twitter:description": "A WWII bomb is found in London. Military and police race to evacuate in Fuze."
+      },
+      "metaDescription": "An unexploded WWII bomb is found at a London construction site, sparking a chaotic mass evacuation against time by police and military."
+    },
+    "faq": [
+      {
+        "answer": "Fuze follows the chaos that erupts when an unexploded WWII bomb is discovered on a busy construction site in central London, prompting the military and police to carry out a mass evacuation against a ticking clock.",
+        "question": "What is the movie Fuze about?"
+      },
+      {
+        "answer": "No, Fuze is a standalone film and is not part of any existing franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Fuze does not include a post-credit scene.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre of Fuze is thriller, with strong elements of disaster and action.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The story is set in the centre of London, specifically around a busy construction site.",
+        "question": "Where is the story of Fuze set?"
+      },
+      {
+        "answer": "The plot is driven by the discovery of an unexploded World War II bomb at the construction site.",
+        "question": "What historical element drives the plot of Fuze?"
+      },
+      {
+        "answer": "The military, alongside the police, are responsible for managing the bomb and leading the mass evacuation.",
+        "question": "Who is responsible for handling the bomb in the film?"
+      },
+      {
+        "answer": "The main tension comes from the ticking clock as authorities race to evacuate people before the bomb potentially detonates.",
+        "question": "What is the main source of tension in Fuze?"
+      },
+      {
+        "answer": "Fuze focuses more on real-time action and suspense than on deep character drama, emphasizing the urgency of the evacuation.",
+        "question": "Does Fuze focus more on action or character drama?"
+      },
+      {
+        "answer": "Fuze is a fictional thriller inspired by the real-world occurrence of unexploded WWII ordnance being found in London, but the specific events are not based on a single true story.",
+        "question": "Is Fuze based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Tense atmosphere with threat of disaster, but no supernatural or graphic horror elements."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate strong language during chaotic emergency and military/police operations, but not explicitly detailed."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Implied threat of explosion and wartime bomb context, with potential for destruction and casualties but no graphic violence depicted."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or references indicated in the overview."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity from mass evacuation, ticking clock pressure, and public danger chaos."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 7,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-17 10:01:17.48669",
+    "updated_at": "2026-07-17 10:01:17.48669"
+  }
 }
