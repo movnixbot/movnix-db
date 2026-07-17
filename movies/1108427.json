@@ -2350,5 +2350,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1108427/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1108427,
+    "hash": "fa5f88aad05ae71471a4cfce58f7ed0f401d2f766e26f43f50f748b2e0bd915e",
+    "summary_one_sentence": "A spirited teenage girl named Moana teams up with a boastful demigod to voyage across the ocean and restore life to her island.",
+    "summary_short": "Moana is a teenage girl from the island of Motunui who has always felt drawn to the sea. When her island's resources begin to fail, she answers the Ocean's call and sets out beyond the reef. She recruits Maui, a legendary demigod, to help her return a sacred relic and lift an ancient curse. Together they face monsters and storms, discovering their own strengths and saving her people.",
+    "summary_long": "Moana, the daughter of the chief of Motunui, has been drawn to the ocean since childhood, though her father forbids voyaging past the reef. As the island's fish and crops begin to die, Moana learns from her grandmother that the demigod Maui stole the heart of the goddess Te Fiti, causing darkness to spread. Guided by the Ocean, Moana sails out to find Maui and convince him to return the heart. She locates the arrogant but insecure demigod and they begin a turbulent journey aboard her small boat. Along the way they battle coconut pirates, escape a giant crab, and navigate Maui's struggles with his magical fishhook. Moana helps Maui rediscover his identity and reclaim his powers after losing the hook to a volcanic demon. They reach Te Fiti only to find the island gone, realizing the demon is the wounded goddess herself. Moana returns the heart by connecting with Te Fiti's true spirit, healing the land and sea. She returns home a skilled wayfinder, reviving her people's lost voyaging culture and prosperity.",
+    "synopsis": "Moana is an animated adventure about a brave teenage girl chosen by the ocean to save her island. With her father opposed to open-sea travel, she secretly answers a calling to seek out the demigod Maui and restore a lost sacred relic. Their journey is filled with humor, danger, and self-discovery as they cross vast waters and encounter mythical creatures. The film celebrates Polynesian culture, courage, and the bond between humans and nature, offering an uplifting story for all ages.",
+    "keywords": [
+      "teen protagonist",
+      "ocean calling",
+      "island setting",
+      "demigod companion",
+      "mythological voyage",
+      "self-discovery journey",
+      "restoring prosperity",
+      "polynesian culture",
+      "talking ocean",
+      "hero's quest",
+      "coming of age",
+      "supernatural guidance",
+      "ancestral legacy",
+      "musical adventure",
+      "overcoming fear"
+    ],
+    "themes": [
+      {
+        "theme": "Self-Discovery",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Environmental Restoration",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Courage",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Community/Responsibility",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Inspirational",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Hopeful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Moana confronts a powerful force tied to the island's plight and must prove her courage and identity to restore balance.",
+      "conflict": "The island's resources are failing, and Moana must defy her father's wishes to stay safe on the island in order to seek answers beyond the reef.",
+      "resolution": "The ocean's harmony is renewed, Moana returns home transformed, and her people embrace a new era of voyaging and prosperity.",
+      "introduction": "Moana, a teenage girl on the island of Motunui, feels a deep connection to the ocean and learns of a calling that sets her apart from her community's traditions.",
+      "risingAction": "Moana sets out across the ocean, encounters the demigod Maui, and the two face trials and challenges as they journey toward a mythical destination to repair what was broken."
+    },
+    "characters": [
+      {
+        "name": "Moana",
+        "role": "Hero",
+        "description": "Teenage girl who answers the Ocean's call and voyages beyond the reef to restore prosperity to her people."
+      },
+      {
+        "name": "Maui",
+        "role": "Anti Hero",
+        "description": "Infamous demigod who joins Moana on her journey; flawed and self-serving at times but aids the quest."
+      },
+      {
+        "name": "Chief Tui",
+        "role": "Supporting Character",
+        "description": "Moana's father and chief of Motunui who protects his people and initially opposes voyaging beyond the reef."
+      },
+      {
+        "name": "Sina",
+        "role": "Supporting Character",
+        "description": "Moana's mother who offers quiet support and understanding of her daughter's calling."
+      },
+      {
+        "name": "Tamatoa",
+        "role": "Villain",
+        "description": "Giant coconut crab who hoards treasure and serves as a self-absorbed antagonist in the realm of monsters."
+      },
+      {
+        "name": "Gramma Tala",
+        "role": "Mentor",
+        "description": "Moana's grandmother who encourages her to follow the Ocean's call and shares island lore."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Moana",
+        "target": "Maui",
+        "description": "Companions on a voyage; initially reluctant partners who become friends"
+      },
+      {
+        "source": "Moana",
+        "target": "Chief Tui",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Moana",
+        "target": "Sina",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Moana",
+        "target": "Ocean",
+        "description": "Chosen by the Ocean; guiding mystical connection"
+      },
+      {
+        "source": "Maui",
+        "target": "Ocean",
+        "description": "The Ocean assists and tests Maui during the journey"
+      },
+      {
+        "source": "Moana",
+        "target": "Te Fiti",
+        "description": "Quest objective; Moana restores Te Fiti's heart"
+      },
+      {
+        "source": "Maui",
+        "target": "Te Fiti",
+        "description": "Stole Te Fiti's heart in the past; later helps restore it"
+      },
+      {
+        "source": "Te Fiti",
+        "target": "Te Ka",
+        "description": "Te Ka is the corrupted, heartless form of Te Fiti"
+      }
+    ],
+    "seo": {
+      "slug": "moana-2016-ocean-adventure",
+      "jsonLd": {
+        "name": "Moana",
+        "@type": "Movie",
+        "about": "A teenage girl's voyage with a demigod to save her island",
+        "genre": "Animation",
+        "@context": "https://schema.org",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
+      },
+      "keywords": [
+        "Moana movie",
+        "Disney Moana",
+        "Maui demigod",
+        "ocean adventure film"
+      ],
+      "canonical": "https://movnix.com/movie/moana-2016-ocean-adventure",
+      "metaTitle": "Moana (2016) - Official Movie Overview & Ocean Adventure",
+      "openGraph": {
+        "og:title": "Moana - Disney's Ocean Adventure Film",
+        "og:description": "Join Moana and Maui on an epic journey beyond the reef to restore prosperity to Motunui."
+      },
+      "twitterCard": {
+        "twitter:title": "Moana | Voyage Beyond the Reef",
+        "twitter:description": "Watch Moana and demigod Maui embark on a magical journey to save her island people."
+      },
+      "metaDescription": "Teenage Moana voyages beyond her reef with demigod Maui to restore prosperity to Motunui in this unforgettable Disney animated journey."
+    },
+    "faq": [
+      {
+        "answer": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "question": "What is the movie Moana about?"
+      },
+      {
+        "answer": "Yes, Moana is part of the Disney animated feature franchise and has a sequel, Moana 2, along with related shorts and series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the original Moana (2016) does not have a post-credit scene.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is animated musical adventure.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The main characters are Moana, a teenage girl from Motunui, and Maui, an infamous demigod.",
+        "question": "Who are the main characters in Moana?"
+      },
+      {
+        "answer": "Moana was produced by Walt Disney Animation Studios.",
+        "question": "What studio produced Moana?"
+      },
+      {
+        "answer": "Moana was released in the United States on November 23, 2016.",
+        "question": "When was Moana released?"
+      },
+      {
+        "answer": "The movie is set on the Polynesian island of Motunui and the surrounding ocean.",
+        "question": "What is the setting of Moana?"
+      },
+      {
+        "answer": "Moana is voiced by Auli'i Cravalho in the original English-language version.",
+        "question": "Who provides the voice for Moana?"
+      },
+      {
+        "answer": "The running time of Moana is approximately 107 minutes.",
+        "question": "What is the running time of Moana?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Brief mildly scary moments with mythic creatures, suitable for most children."
+      },
+      "language": {
+        "score": 1,
+        "description": "Occasional mild insults or exclamations, no strong profanity."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild cartoon action and peril, such as stormy seas and a few creature confrontations, with no graphic harm."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drugs, alcohol, or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Some emotionally charged family moments and self-discovery, but generally uplifting."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 6,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 3,
+      "romance": 0,
+      "science": 0,
+      "suspense": 5,
+      "violence": 3
+    },
+    "created_at": "2026-07-17 08:15:20.651357",
+    "updated_at": "2026-07-17 08:15:20.651357"
+  }
 }
