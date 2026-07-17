@@ -405,5 +405,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/977942/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 977942,
+    "hash": "04e26f3e53ae028505e7f41ece7b663180f34b8652d8cb2634a1fb92745b54b8",
+    "summary_one_sentence": "During the 1381 English Peasants' Revolt, a farmer rises to lead the rebellion against the forces of 14-year-old King Richard II.",
+    "summary_short": "The Uprising is a historical action drama set during the English Peasants' Revolt of 1381. A humble farmer is thrust into leadership as oppressed villagers rise against the Crown. The rebellion pits commoners against the royal forces of the young King Richard II. The film explores themes of justice, sacrifice, and the cost of defiance.",
+    "summary_long": "In 1381, widespread discontent among English peasants erupts into open rebellion against heavy taxation and feudal oppression. A local farmer, weary of injustice, emerges as an unlikely leader among the revolt's ranks. As the uprising gains momentum, he organizes villagers and marches toward London to confront the Crown. Opposing them is the army of King Richard II, who is only fourteen years old and guided by older advisors. The farmer must navigate internal divisions among the rebels while facing brutal retaliation from royal forces. Skirmishes and sieges test the resolve of the commoners, many of whom have never wielded weapons before. Tensions rise as the rebellion threatens the stability of the realm and forces the king's council to respond. The farmer becomes a symbol of resistance, but also a target for those who wish to crush the revolt. As the conflict reaches its climax, loyalty and betrayal shape the outcome of the struggle. The film closes on the heavy toll of the rebellion and its place in history.",
+    "synopsis": "The Uprising is a historical drama and war film depicting the English Peasants' Revolt of 1381. It follows a farmer who becomes a central figure in the rebellion against the Crown during the reign of the young King Richard II. Blending action and period drama, the story portrays the struggles of ordinary people rising against systemic oppression. The film captures the atmosphere of medieval England and the human stories behind a pivotal moment in history.",
+    "keywords": [
+      "medieval england",
+      "peasants' revolt",
+      "1381",
+      "class uprising",
+      "anti monarchy",
+      "rustic protagonist",
+      "reluctant leader",
+      "historical rebellion",
+      "feudal oppression",
+      "child king",
+      "richard ii",
+      "crowd combat",
+      "period warfare",
+      "social injustice",
+      "grassroots revolt"
+    ],
+    "themes": [
+      {
+        "theme": "Rebellion",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Leadership",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Class Struggle",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Power and Authority",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The rebellion reaches a decisive confrontation with the king's representatives, forcing a moment of reckoning between the peasants' demands and the power of the Crown.",
+      "conflict": "The peasantry's grievances against heavy taxation and unfair laws ignite open rebellion, placing the farmer in opposition to the Crown and its forces loyal to the young King Richard II.",
+      "resolution": "The uprising's fate is sealed through negotiation, betrayal, or suppression, leaving the farmer and the revolt transformed by their clash with the realm.",
+      "introduction": "A humble farmer in 1381 England lives under the burdens of feudal oppression, unaware that the simmering discontent of the peasantry will draw him into history.",
+      "risingAction": "The farmer emerges as a voice and organizer among the rebels, uniting villages and marching toward London as tensions with royal authority escalate."
+    },
+    "characters": [
+      {
+        "name": "Andrew Garfield",
+        "role": "Hero",
+        "description": "A farmer who becomes the leader of the Peasants' Revolt against the Crown, driving the rebellion forward."
+      },
+      {
+        "name": "Jamie Bell",
+        "role": "Supporting Character",
+        "description": "A fellow rebel or ally who supports the farmer-leader in the uprising."
+      },
+      {
+        "name": "Stephen Dillane",
+        "role": "Mentor",
+        "description": "An experienced figure who guides or advises the rebel leader during the revolt."
+      },
+      {
+        "name": "Tom Hollander",
+        "role": "Villain",
+        "description": "A representative of the Crown or nobility opposing the peasants' rebellion."
+      },
+      {
+        "name": "Cosmo Jarvis",
+        "role": "Anti Hero",
+        "description": "A morally ambiguous fighter whose methods challenge both sides in the conflict."
+      },
+      {
+        "name": "Thomasin McKenzie",
+        "role": "Supporting Character",
+        "description": "A villager or family member affected by the revolt who aids the cause."
+      },
+      {
+        "name": "Jonny Lee Miller",
+        "role": "Supporting Character",
+        "description": "A rebel or townsman contributing to the uprising's organization."
+      },
+      {
+        "name": "Woody Norman",
+        "role": "Comic Relief",
+        "description": "A young boy whose light moments ease the tension of the rebellion."
+      },
+      {
+        "name": "Katherine Waterston",
+        "role": "Supporting Character",
+        "description": "A peasant woman who stands with the rebels and provides perspective on their struggles."
+      },
+      {
+        "name": "Stanley Townsend",
+        "role": "Other",
+        "description": "A local official or neutral party navigating the chaos of the revolt."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Farmer (Rebel Leader)",
+        "target": "King Richard II",
+        "description": "Rebel leader vs. Crown authority / Adversaries"
+      },
+      {
+        "source": "Farmer (Rebel Leader)",
+        "target": "Peasants",
+        "description": "Leader / Followers"
+      },
+      {
+        "source": "King Richard II",
+        "target": "Crown Forces",
+        "description": "Commander / Troops"
+      },
+      {
+        "source": "Farmer (Rebel Leader)",
+        "target": "Crown Forces",
+        "description": "Rebels vs. Opposing military force / Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "the-uprising-1381-peasants-revolt",
+      "jsonLd": {
+        "name": "The Uprising",
+        "@type": "Movie",
+        "about": "English Peasants' Revolt of 1381",
+        "genre": "Historical Drama",
+        "@context": "https://schema.org",
+        "description": "During the English Peasants' Revolt in 1381, a farmer becomes a leader of the rebellion against the Crown forces of a then-14-year-old King Richard II."
+      },
+      "keywords": [
+        "The Uprising movie",
+        "English Peasants' Revolt 1381"
+      ],
+      "canonical": "https://movnix.com/movie/the-uprising-1381-peasants-revolt",
+      "metaTitle": "The Uprising (1381) – Peasants' Revolt Film | King Richard II",
+      "openGraph": {
+        "og:title": "The Uprising – 1381 Peasants' Revolt Against King Richard II",
+        "og:description": "A farmer rises as rebel leader in the 1381 English Peasants' Revolt against young King Richard II's crown forces."
+      },
+      "twitterCard": {
+        "twitter:title": "The Uprising – 1381 Peasants' Revolt Film",
+        "twitter:description": "Follow a farmer's rise as rebel leader against King Richard II in the 1381 English Peasants' Revolt."
+      },
+      "metaDescription": "A farmer leads the 1381 English Peasants' Revolt against 14-year-old King Richard II's forces in The Uprising. Watch the rebellion unfold."
+    },
+    "faq": [
+      {
+        "answer": "It follows a farmer who becomes a leader during the 1381 English Peasants' Revolt against the forces of 14-year-old King Richard II.",
+        "question": "What is the movie The Uprising about?"
+      },
+      {
+        "answer": "No, The Uprising is a standalone historical drama and is not part of any franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in The Uprising.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is historical drama with elements of war and rebellion.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "King Richard II is depicted as a then-14-year-old monarch during the revolt.",
+        "question": "Who is the main historical figure depicted as a teenager in the film?"
+      },
+      {
+        "answer": "The film is set in the year 1381 during the English Peasants' Revolt.",
+        "question": "When is the film set?"
+      },
+      {
+        "answer": "A farmer rises to become the leader of the peasant rebellion against the Crown.",
+        "question": "Who leads the rebellion in the story?"
+      },
+      {
+        "answer": "Yes, it is based on the real historical event known as the Peasants' Revolt of 1381.",
+        "question": "Is The Uprising based on real events?"
+      },
+      {
+        "answer": "The Uprising has a runtime of approximately 2 hours and 10 minutes.",
+        "question": "What is the runtime of the movie?"
+      },
+      {
+        "answer": "It focuses on both the armed uprising and the tense negotiations between rebels and the young king's court.",
+        "question": "Does the film focus on battles or political negotiation?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "No supernatural horror; only mild historical grimness and period brutality."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely occasional period-appropriate insults and coarse speech, but not frequent modern profanity."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Depicts a historical armed rebellion with battles, killings, and suppression of revolt by Crown forces."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal references to ale or period drinking, not a focus."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Themes of class struggle, rebellion, and confrontation with the monarchy create strong emotional tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 2,
+      "science": 0,
+      "suspense": 7,
+      "violence": 9
+    },
+    "created_at": "2026-07-17 19:01:22.861201",
+    "updated_at": "2026-07-17 19:01:22.861201"
+  }
 }
