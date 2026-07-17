@@ -760,5 +760,289 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1541560/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1541560,
+    "hash": "282b5fa829758be005f4e0d2195c8e4b49855ce59da96609c7e2da8187b4c373",
+    "summary_one_sentence": "Two best-friend train stewardesses must team up with unlikely allies, including the US President, to stop a luxury express from crashing into Florida during a catastrophic storm.",
+    "summary_short": "Tess and DeeDee are best friends and stewardesses who leave their dull jobs on the Stank Rail for the glamorous Glamazonian Express. When a massive Stormaganza threatens to derail the high-speed train into Celebration, Florida, the pair must act fast. They join forces with snobby first-class attendants, a handsome but dimwitted co-conductor, and President Judy Gagwell. Together, they work to save the train and everyone on board from disaster.",
+    "summary_long": "Tess and DeeDee are best friends and train stewardesses tired of working dreary shifts on the Stank Rail line. Seeking excitement and glamour, they transfer to the prestigious Glamazonian Express, a high-speed luxury train. Onboard, they encounter snobby first-class attendants who look down on their coach-section background. During the journey, a catastrophic weather event called the Stormaganza strikes, damaging the train's controls and sending it on a collision course with Celebration, Florida. Realizing the danger, Tess and DeeDee step up to coordinate a rescue effort from the coach car. They recruit the reluctant first-class attendants, a hot but dimwitted co-conductor, and unexpectedly the fabulous US President Judy Gagwell, who happens to be a passenger. The group divides tasks to regain control, reroute power, and calm panicked passengers. Through comedic mishaps and brave actions, they manage to slow the train before impact. In the climax, President Gagwell helps them execute a daring maneuver that stops the express just in time. The friends celebrate their victory and newfound respect across class lines.",
+    "synopsis": "Stop! That! Train! is an action-comedy-drama following best friends and stewardesses Tess and DeeDee as they trade mundane work on the Stank Rail for the dazzling Glamazonian Express. Their dream assignment turns perilous when a catastrophic Stormaganza puts the high-speed train on a crash course with Celebration, Florida. Forced to bridge the gap between coach and first class, the duo teams up with entitled first-class attendants, a charming yet clueless co-conductor, and the fabulous US President Judy Gagwell. Blending humor, heart, and high stakes, the film follows this mismatched group as they race against time to save the train and its passengers.",
+    "keywords": [
+      "train stewardesses",
+      "high-speed train",
+      "catastrophic storm",
+      "small town crash threat",
+      "class conflict",
+      "snobby first-class",
+      "buddy duo",
+      "hot dimwitted co-conductor",
+      "fabulous female president",
+      "disaster rescue",
+      "campy comedy",
+      "glamorous setting",
+      "workplace rivalry",
+      "unlikely teamwork",
+      "action comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Friendship",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Unity Across Class Divides",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Heroism",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Chaos and Comedy",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.6
+      },
+      {
+        "mood": "Campy",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The mismatched group executes a desperate, coordinated effort to prevent the express from crashing into Celebration as the storm peaks.",
+      "conflict": "A catastrophic Stormaganza threatens to send the high-speed Glamazonian Express crashing into Celebration, Florida, endangering everyone on board.",
+      "resolution": "The train is saved and the day is rescued through their combined efforts, with the duo and their unlikely allies having triumphed over the crisis.",
+      "introduction": "Best friends and train stewardesses Tess and DeeDee leave their dull jobs on the Stank Rail to work the glamorous Glamazonian Express, setting up their new roles and relationships aboard the train.",
+      "risingAction": "Tess and DeeDee in coach must team up with the snobby first-class attendants, a handsome but dimwitted co-conductor, and President Judy Gagwell to figure out how to stop the train before disaster strikes."
+    },
+    "characters": [
+      {
+        "name": "Tess",
+        "role": "Hero",
+        "description": "Train stewardess and best friend of DeeDee; leads the effort to save the Glamazonian Express from the Stormaganza."
+      },
+      {
+        "name": "DeeDee",
+        "role": "Hero",
+        "description": "Train stewardess and best friend of Tess; joins Tess in saving the train and passengers from disaster."
+      },
+      {
+        "name": "Judy Gagwell",
+        "role": "Supporting Character",
+        "description": "Fabulous US President who joins the duo to help save the day; based on RuPaul."
+      },
+      {
+        "name": "Snobby First-Class Attendants",
+        "role": "Supporting Character",
+        "description": "Antagonistic-but-ally attendants in first class who must cooperate with Tess and DeeDee; ensemble played by Jujubee, Ginger Minj, Brooke Lynn Hytes, Marcia Marcia Marcia, Latrice Royale, Angeria Paris VanMicheals."
+      },
+      {
+        "name": "Co-Conductor",
+        "role": "Comic Relief",
+        "description": "Hot but dimwitted co-conductor who provides humor; played by Brian Jordan Alvarez."
+      },
+      {
+        "name": "Symone",
+        "role": "Supporting Character",
+        "description": "Cast member appearing as additional train staff or passenger aiding the rescue."
+      },
+      {
+        "name": "Rachel Bloom",
+        "role": "Supporting Character",
+        "description": "Cast member appearing as additional personnel or passenger involved in the crisis."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tess",
+        "target": "DeeDee",
+        "description": "Best friends and fellow train stewardesses"
+      },
+      {
+        "source": "Tess",
+        "target": "First-Class Attendants",
+        "description": "Reluctant allies (snobby vs coach crew)"
+      },
+      {
+        "source": "DeeDee",
+        "target": "First-Class Attendants",
+        "description": "Reluctant allies (snobby vs coach crew)"
+      },
+      {
+        "source": "Tess",
+        "target": "Co-Conductor",
+        "description": "Colleagues / allies in train rescue"
+      },
+      {
+        "source": "DeeDee",
+        "target": "Co-Conductor",
+        "description": "Colleagues / allies in train rescue"
+      },
+      {
+        "source": "Tess",
+        "target": "President Judy Gagwell",
+        "description": "Allies in stopping the train crash"
+      },
+      {
+        "source": "DeeDee",
+        "target": "President Judy Gagwell",
+        "description": "Allies in stopping the train crash"
+      },
+      {
+        "source": "First-Class Attendants",
+        "target": "Co-Conductor",
+        "description": "Colleagues / allies in train rescue"
+      },
+      {
+        "source": "First-Class Attendants",
+        "target": "President Judy Gagwell",
+        "description": "Allies in stopping the train crash"
+      },
+      {
+        "source": "Co-Conductor",
+        "target": "President Judy Gagwell",
+        "description": "Allies in stopping the train crash"
+      }
+    ],
+    "seo": {
+      "slug": "stop-that-train",
+      "jsonLd": {
+        "name": "Stop! That! Train!",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Tess",
+            "@type": "Person"
+          },
+          {
+            "name": "DeeDee",
+            "@type": "Person"
+          },
+          {
+            "name": "Judy Gagwell",
+            "@type": "Person"
+          }
+        ],
+        "genre": "Comedy",
+        "@context": "https://schema.org",
+        "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. When a catastrophic Stormaganza threatens to crash the train into Celebration, Florida, they join forces with first-class attendants, a co-conductor, and US President Judy Gagwell to save the day."
+      },
+      "keywords": [
+        "Stop That Train movie",
+        "comedy film train stewardesses",
+        "Glamazonian Express",
+        "Judy Gagwell president movie"
+      ],
+      "canonical": "https://movnix.com/movie/stop-that-train",
+      "metaTitle": "Stop! That! Train! - Comedy Movie About Train Stewardesses Saving the Day",
+      "openGraph": {
+        "og:title": "Stop! That! Train!",
+        "og:description": "Two train stewardesses must save the Glamazonian Express from a Stormaganza with help from President Judy Gagwell!"
+      },
+      "twitterCard": {
+        "twitter:title": "Stop! That! Train!",
+        "twitter:description": "Tess and DeeDee ditch the Stank Rail for glamour—then a Stormaganza hits! Can they save Celebration, FL?"
+      },
+      "metaDescription": "Best friends Tess and DeeDee trade Stank Rail for Glamazonian Express, but a Stormaganza forces them to save Celebration, FL with President Judy Gagwell."
+    },
+    "faq": [
+      {
+        "answer": "The movie is titled 'Stop! That! Train!'.",
+        "question": "What is the title of the movie?"
+      },
+      {
+        "answer": "Best friends and train stewardesses Tess and DeeDee leave the dreary Stank Rail for the glitzy Glamazonian Express, but must team up with first-class attendants, a dimwitted co-conductor, and US President Judy Gagwell to stop a catastrophic Stormaganza from crashing the train into Celebration, Florida.",
+        "question": "What is the movie about?"
+      },
+      {
+        "answer": "The main characters are Tess and DeeDee (train stewardesses), snobby first-class attendants, a hot but dimwitted co-conductor, and US President Judy Gagwell.",
+        "question": "Who are the main characters?"
+      },
+      {
+        "answer": "The dominant genre is comedy with action and disaster movie elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "No, 'Stop! That! Train!' is a standalone film and not part of an established franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in the movie.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Most of the story takes place aboard the high-speed Glamazonian Express train.",
+        "question": "Where does most of the story take place?"
+      },
+      {
+        "answer": "The US President Judy Gagwell is a fictional character within the movie; no specific real-world actor is indicated in the overview.",
+        "question": "Who plays the US President in the film?"
+      },
+      {
+        "answer": "A catastrophic Stormaganza threatens to crash the train into Celebration, Florida, driving the main conflict.",
+        "question": "What threat drives the main conflict?"
+      },
+      {
+        "answer": "The movie has a campy, satirical, and fabulous comedic tone.",
+        "question": "What tone does the movie have?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "No horror elements; only a silly storm threat with no frightening content."
+      },
+      "language": {
+        "score": 2,
+        "description": "Occasional mild or comedic language; no strong profanity expected."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild comedic peril involving a threatened train crash but no graphic or realistic violence."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drugs, alcohol, or substances."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; possible mild flirtation with a 'hot but dimwitted' character."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Light comedic tension from the storm threat and saving the train; not deeply intense."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 9,
+      "emotion": 5,
+      "fantasy": 6,
+      "mystery": 1,
+      "romance": 3,
+      "science": 2,
+      "suspense": 7,
+      "violence": 3
+    },
+    "created_at": "2026-07-17 08:15:20.834403",
+    "updated_at": "2026-07-17 08:15:20.834403"
+  }
 }

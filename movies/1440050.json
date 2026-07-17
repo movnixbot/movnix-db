@@ -931,5 +931,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1440050/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1440050,
+    "hash": "e8222528a3a34b1b15e9dd9a027eb1cf0718bf3cfdcb29bd7d548bf96d56959b",
+    "summary_one_sentence": "After his wife's sudden business success sends her away on a long trip, lifelong breadwinner Nate Wilcox must learn to be a stay-at-home dad for the first time.",
+    "summary_short": "Nate Wilcox has always been the financial provider for his family. When his wife Katie appears on Shark Tank and lands a major deal, she must leave for an extended business trip. Nate is suddenly thrust into the role of a first-time stay-at-home dad, responsible for running the household and caring for the kids. The comedy-drama follows his awkward but heartfelt adjustment to his new domestic role.",
+    "summary_long": "Nate Wilcox has spent his adult life as the sole breadwinner for his family, comfortably handling the financial responsibilities while his wife Katie managed the home. Everything changes when Katie gets the chance to pitch her product on Shark Tank and secures a once-in-a-lifetime investment deal. The terms of the deal require Katie to travel for a prolonged business trip to launch and scale her new venture. With little choice, Nate steps in as a first-time stay-at-home dad to their children. At first, Nate struggles with the daily chaos of parenting, household chores, and keeping a routine together. He faces humorous failures in cooking, school drop-offs, and managing sibling conflicts. Over time, Nate begins to find confidence and joy in his new role, bonding more deeply with his kids. The family navigates the challenges of reversed traditional roles with warmth and comedy. By the end, Nate gains a new appreciation for the work of running a home, and the couple grows closer through their changed dynamic.",
+    "synopsis": "The Breadwinner is a comedy-drama about role reversal in a modern family. When Katie Wilcox lands a life-changing deal on Shark Tank that sends her away on a long business trip, her husband Nate—who has always been the family's financial provider—must become a stay-at-home dad for the first time. The series explores Nate's humorous and heartfelt journey as he learns to manage the household, care for the kids, and discover a side of family life he never knew. Blending family warmth with comedic situations, it highlights the challenges and rewards of swapping traditional parenting roles.",
+    "keywords": [
+      "stay-at-home dad",
+      "role reversal",
+      "family dynamics",
+      "domestic comedy",
+      "first-time parenting",
+      "breadwinner shift",
+      "working mother",
+      "Shark Tank deal",
+      "suburban family",
+      "fish-out-of-water",
+      "gender role subversion",
+      "co-parenting",
+      "career versus family",
+      "single-parenting temporarily",
+      "heartfelt comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.7
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Role Reversal",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Parenting",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Gender Roles",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.7
+      },
+      {
+        "mood": "Comedic",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "Nate faces a pivotal home crisis that forces him to fully rely on his growth as a caregiver and make a decisive stand for his family's well-being.",
+      "conflict": "Nate struggles to adapt to the unfamiliar role of stay-at-home dad, facing domestic chaos and self-doubt about his ability to manage the household.",
+      "resolution": "Nate finds a new sense of balance and confidence in his dual role, and the family adjusts to their changed dynamic by the time Katie returns.",
+      "introduction": "Nate Wilcox, a lifelong breadwinner, sees his wife Katie secure a major Shark Tank deal that requires her to leave for an extended business trip, leaving him at home with the kids for the first time.",
+      "risingAction": "Through a series of comedic and challenging parenting mishaps, Nate gradually learns new skills and begins to bond with his children while juggling home responsibilities."
+    },
+    "characters": [
+      {
+        "name": "Nate Wilcox",
+        "role": "Hero",
+        "description": "Lifelong breadwinner forced to become a first-time stay-at-home dad; central protagonist adapting to new family role."
+      },
+      {
+        "name": "Katie Wilcox",
+        "role": "Supporting Character",
+        "description": "Nate's wife who lands a Shark Tank deal and leaves on a long business trip, prompting Nate's new role."
+      },
+      {
+        "name": "Stella Grace Fitzgerald",
+        "role": "Supporting Character",
+        "description": "One of the Wilcox children Nate must care for as a stay-at-home dad."
+      },
+      {
+        "name": "Birdie Borria",
+        "role": "Supporting Character",
+        "description": "One of the Wilcox children Nate must care for as a stay-at-home dad."
+      },
+      {
+        "name": "Charlotte Ann Tucker",
+        "role": "Supporting Character",
+        "description": "One of the Wilcox children Nate must care for as a stay-at-home dad."
+      },
+      {
+        "name": "Colin Jost",
+        "role": "Other",
+        "description": "Cast member in a supporting or guest capacity within the family or outside world."
+      },
+      {
+        "name": "Will Forte",
+        "role": "Other",
+        "description": "Cast member in a supporting or guest capacity within the family or outside world."
+      },
+      {
+        "name": "Martin Herlihy",
+        "role": "Other",
+        "description": "Cast member in a supporting or guest capacity within the family or outside world."
+      },
+      {
+        "name": "Zach Cherry",
+        "role": "Comic Relief",
+        "description": "Cast member providing humorous moments in Nate's adjustment to domestic life."
+      },
+      {
+        "name": "Kumail Nanjiani",
+        "role": "Other",
+        "description": "Cast member in a supporting or guest capacity within the family or outside world."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nate Wilcox",
+        "target": "Katie Wilcox",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Nate Wilcox",
+        "target": "Children Wilcox",
+        "description": "Father/Children"
+      },
+      {
+        "source": "Katie Wilcox",
+        "target": "Children Wilcox",
+        "description": "Mother/Children"
+      }
+    ],
+    "seo": {
+      "slug": "the-breadwinner",
+      "jsonLd": {
+        "name": "The Breadwinner",
+        "@type": "Movie",
+        "about": "Role reversal, family, parenting",
+        "genre": "Comedy",
+        "@context": "https://schema.org",
+        "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad."
+      },
+      "keywords": [
+        "The Breadwinner movie",
+        "stay-at-home dad comedy",
+        "Shark Tank film"
+      ],
+      "canonical": "https://movnix.com/movie/the-breadwinner",
+      "metaTitle": "The Breadwinner (2024) – Stay-at-Home Dad Comedy Movie",
+      "openGraph": {
+        "og:title": "The Breadwinner – A Stay-at-Home Dad Comedy",
+        "og:description": "When Katie hits it big on Shark Tank, Nate becomes a first-time stay-at-home dad in The Breadwinner."
+      },
+      "twitterCard": {
+        "twitter:title": "The Breadwinner Movie",
+        "twitter:description": "Nate goes from breadwinner to stay-at-home dad in this funny family comedy."
+      },
+      "metaDescription": "After Katie's Shark Tank deal, Nate becomes a first-time stay-at-home dad. Watch The Breadwinner, a funny family role-reversal story."
+    },
+    "faq": [
+      {
+        "answer": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip, lifelong breadwinner Nate Wilcox must fend for his family as a first-time stay-at-home dad.",
+        "question": "What is the movie The Breadwinner about?"
+      },
+      {
+        "answer": "The main characters are Nate Wilcox, the lifelong breadwinner turned stay-at-home dad, and his wife Katie, who leaves on a business trip after a Shark Tank deal.",
+        "question": "Who are the main characters in The Breadwinner?"
+      },
+      {
+        "answer": "No, The Breadwinner is a standalone film and is not part of any franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in The Breadwinner.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is comedy-drama, focusing on family and parenting.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The provided overview does not specify a director for The Breadwinner.",
+        "question": "Who directed The Breadwinner?"
+      },
+      {
+        "answer": "The provided overview does not mention a release date for The Breadwinner.",
+        "question": "When was The Breadwinner released?"
+      },
+      {
+        "answer": "The plot is inspired by Katie landing a deal on the TV show Shark Tank, which leads to her business trip.",
+        "question": "What platform or show inspired the plot of The Breadwinner?"
+      },
+      {
+        "answer": "Nate faces the challenge of being a first-time stay-at-home dad and managing the household after being the lifelong breadwinner.",
+        "question": "What challenges does Nate face in the movie?"
+      },
+      {
+        "answer": "No, The Breadwinner is a fictional story and not based on a true story.",
+        "question": "Is The Breadwinner based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or frightening content indicated."
+      },
+      "language": {
+        "score": 0,
+        "description": "No language concerns suggested by the family-friendly premise."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence depicted or referenced in the overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or references mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content implied in the stay-at-home dad scenario."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild comedic adjustment challenges as a new stay-at-home parent."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 2,
+      "comedy": 8,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 3,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-07-17 08:15:20.812054",
+    "updated_at": "2026-07-17 08:15:20.812054"
+  }
 }
