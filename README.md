@@ -17,8 +17,8 @@ This repository acts as a highly optimized, flat-file JSON API database powered 
 
 * 🎬 **Total Movies**: `37`
 * 📺 **Total TV Series**: `36`
-* 🎞️ **Total Episodes**: `3357`
-* 🏷️ **Total Genres**: `3102`
+* 🎞️ **Total Episodes**: `3367`
+* 🏷️ **Total Genres**: `3149`
 
 ---
 
