@@ -8,7 +8,7 @@
     "firstAirDate": "2026-07-11",
     "lastAirDate": "2026-07-12",
     "status": "Returning Series",
-    "popularity": 54.6596,
+    "popularity": 46.9056,
     "voteAverage": 5.3,
     "voteCount": 3,
     "type": "Scripted",
@@ -525,6 +525,27 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/uGJzieYN5izDinjimfFQqsdBx1H.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/j1qzmWF1FTSzqzROKEZuGDiHLsQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/92VhTE0OivfqXFhNPndUGfRH4VB.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -633,6 +654,11 @@
       "type": ""
     },
     {
+      "iso_3166_1": "FR",
+      "title": "Syndic de choc",
+      "type": ""
+    },
+    {
       "iso_3166_1": "KR",
       "title": "Apateu",
       "type": "Transliterated Title"
@@ -656,11 +682,6 @@
       "iso_3166_1": "SA",
       "title": "مهمة في مجمع سكني",
       "type": ""
-    },
-    {
-      "iso_3166_1": "US",
-      "title": "Apartment",
-      "type": "Literal Title"
     }
   ],
   "externalIds": {
@@ -672,7 +693,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
