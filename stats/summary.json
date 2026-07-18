@@ -1,11 +1,15 @@
 {
-  "totalMovies": 38,
+  "totalMovies": 39,
   "totalTvShows": 40,
   "totalEpisodes": 4334,
   "movieGenres": [
     {
       "name": "Drama",
-      "count": 52
+      "count": 53
+    },
+    {
+      "name": "Thriller",
+      "count": 12
     },
     {
       "name": "Action",
@@ -16,12 +20,12 @@
       "count": 11
     },
     {
-      "name": "Thriller",
-      "count": 11
-    },
-    {
       "name": "Adventure",
       "count": 9
+    },
+    {
+      "name": "Horror",
+      "count": 7
     },
     {
       "name": "Family",
@@ -32,15 +36,11 @@
       "count": 6
     },
     {
-      "name": "Horror",
-      "count": 6
-    },
-    {
-      "name": "Fantasy",
+      "name": "Mystery",
       "count": 5
     },
     {
-      "name": "Mystery",
+      "name": "Fantasy",
       "count": 5
     },
     {
@@ -72,5 +72,5 @@
       "count": 1
     }
   ],
-  "generatedAt": "2026-07-18T08:00:10.599Z"
+  "generatedAt": "2026-07-18T09:00:11.373Z"
 }
