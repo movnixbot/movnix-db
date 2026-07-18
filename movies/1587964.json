@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.1446,
+    "popularity": 7.8235,
     "voteAverage": 1,
     "voteCount": 1,
     "homepage": "https://www.hulu.com/movie/they-fight-a1bba82e-2550-4ffc-81df-b973b9c85339",
@@ -110,6 +110,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/z9xdzOLP4Wp3hpgmRF4SwaJNqCF.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
       "type": "poster"
     },
     {
@@ -311,11 +318,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney+",
+          "logo": "/tHtNW975SmVydaBULhEaOqPTmo8.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": []
     }
   },
