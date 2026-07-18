@@ -295,5 +295,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1473505/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1473505,
+    "hash": "d274c2353362d1843d7f895f312542845b2ae2fda8bf0618b3ace897cbb6679e",
+    "summary_one_sentence": "A group of friends headed to a Texas music festival accepts a ride from a charming van driver, only to find themselves fighting for survival when people begin to disappear.",
+    "summary_short": "A group of friends is traveling to a music festival in Texas when they hitch a ride with a charismatic van driver. The trip takes a dark turn as members of the group start to vanish without explanation. What began as a carefree journey becomes a desperate struggle to survive. The mysterious driver emerges as the true threat behind the disappearing passengers.",
+    "summary_long": "A group of friends sets out on a road trip to attend a popular music festival in Texas, looking forward to a weekend of fun and music. Along the way, they are picked up by a magnetic and charming van driver who offers them a ride to the event. At first, the driver's presence energizes the group and the atmosphere feels exciting and spontaneous. However, as the journey continues, the friends begin to notice that some people are quietly disappearing from the trip. Tension builds as the group realizes the vanishings are connected to their enigmatic driver. Paranoia sets in, and the friends turn against one another while trying to make sense of what is happening. The road to the festival becomes a trap, with survival now the only goal. The driver's true nature is revealed through chilling actions that leave the group fractured. In the end, the music festival is forgotten as the remaining friends fight to escape with their lives.",
+    "synopsis": "Kill Trip follows a group of friends bound for a Texas music festival who accept a ride from a captivating van driver. The upbeat road trip sours when travelers start mysteriously vanishing, forcing the group into a tense fight for survival. Blending horror, thriller, and drama elements, the film explores trust, fear, and the danger of strangers as the real headline becomes staying alive.",
+    "keywords": [
+      "road trip horror",
+      "van driver antagonist",
+      "vanishing victims",
+      "survival thriller",
+      "texas setting",
+      "music festival backdrop",
+      "group of friends",
+      "isolated roadway",
+      "mysterious stranger",
+      "cabin fever tension",
+      "slasher suspense",
+      "psychological dread",
+      "character disappearance",
+      "rural texas",
+      "cat-and-mouse chase"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Trust/Betrayal",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Friendship",
+        "confidence": 0.6
+      },
+      {
+        "theme": "Mystery/Disappearance",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The friends confront the threat head-on in a desperate fight to escape the driver's grasp before becoming the next victims.",
+      "conflict": "People connected to the group begin to disappear, revealing that the journey is far more dangerous than expected.",
+      "resolution": "The survivors regroup and the immediate danger is left behind, though the experience leaves lasting scars.",
+      "introduction": "A group of friends heads to a Texas music festival and accepts a ride from a charismatic van driver, setting a carefree tone for the trip.",
+      "risingAction": "Tension mounts as the friends realize the van driver may be linked to the vanishings and they must figure out how to stay alive."
+    },
+    "characters": [
+      {
+        "name": "Tate Christensen",
+        "role": "Hero",
+        "description": "One of the friends traveling to the festival who must step up to survive when people start vanishing."
+      },
+      {
+        "name": "Diletta Guglielmi",
+        "role": "Supporting Character",
+        "description": "A friend in the group on the road trip, aiding in the survival effort."
+      },
+      {
+        "name": "Stelio Savante",
+        "role": "Villain",
+        "description": "The magnetic van driver responsible for the disappearances, making survival the real conflict."
+      },
+      {
+        "name": "Corin Nemec",
+        "role": "Supporting Character",
+        "description": "A member of the friend group caught in the deadly situation."
+      },
+      {
+        "name": "Brian Latimer",
+        "role": "Supporting Character",
+        "description": "Part of the traveling friends facing the threat on the trip."
+      },
+      {
+        "name": "Samaire Armstrong",
+        "role": "Supporting Character",
+        "description": "A friend among the group whose survival is at stake."
+      },
+      {
+        "name": "John Ford Coley",
+        "role": "Supporting Character",
+        "description": "Associated with the festival or trip, caught up in the vanishing events."
+      },
+      {
+        "name": "Todd Jenkins",
+        "role": "Comic Relief",
+        "description": "Provides levity within the group before and during the crisis."
+      },
+      {
+        "name": "Brittany Mcvicker",
+        "role": "Supporting Character",
+        "description": "A friend in the group dealing with the unfolding danger."
+      },
+      {
+        "name": "Maya Hendricks",
+        "role": "Supporting Character",
+        "description": "A member of the friend group thrust into the survival scenario."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Friends Group",
+        "target": "Van Driver",
+        "description": "Strangers who become captor and captives"
+      },
+      {
+        "source": "Friend 1",
+        "target": "Friend 2",
+        "description": "Friends traveling together"
+      },
+      {
+        "source": "Friend 2",
+        "target": "Friend 3",
+        "description": "Friends traveling together"
+      },
+      {
+        "source": "Friend 3",
+        "target": "Friend 1",
+        "description": "Friends traveling together"
+      },
+      {
+        "source": "Van Driver",
+        "target": "Missing Victims",
+        "description": "Perpetrator and victims"
+      }
+    ],
+    "seo": {
+      "slug": "kill-trip",
+      "jsonLd": {
+        "name": "Kill Trip",
+        "@type": "Movie",
+        "genre": "Thriller",
+        "@context": "https://schema.org",
+        "description": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival."
+      },
+      "keywords": [
+        "Kill Trip movie",
+        "Texas music festival thriller"
+      ],
+      "canonical": "https://movnix.com/movie/kill-trip",
+      "metaTitle": "Kill Trip (2024) – Texas Road Thriller Movie",
+      "openGraph": {
+        "og:title": "Kill Trip – Survival Thriller Movie",
+        "og:description": "Friends bound for a Texas festival disappear one by one. The real headliner is survival in Kill Trip."
+      },
+      "twitterCard": {
+        "twitter:title": "Kill Trip – Texas Festival Thriller",
+        "twitter:description": "A van ride to a Texas music festival turns deadly. Watch Kill Trip, a gripping survival thriller."
+      },
+      "metaDescription": "A group of friends heads to a Texas music festival but vanishes one by one. Survive the ride in Kill Trip, a tense survival thriller."
+    },
+    "faq": [
+      {
+        "answer": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver, but when people start vanishing, survival becomes the real headliner.",
+        "question": "What is the movie Kill Trip about?"
+      },
+      {
+        "answer": "The dominant genre is thriller with strong horror and survival elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "No, Kill Trip is a standalone film and is not part of any franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Kill Trip.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story is primarily set on the road in Texas, heading toward a music festival.",
+        "question": "Where is the story primarily set?"
+      },
+      {
+        "answer": "The main characters are a group of friends traveling to a festival and the mysterious van driver they meet.",
+        "question": "Who are the main characters?"
+      },
+      {
+        "answer": "The danger begins after the friends accept a ride from the van driver and people start vanishing.",
+        "question": "What triggers the danger in the film?"
+      },
+      {
+        "answer": "No, Kill Trip is a fictional story and is not based on real events.",
+        "question": "Is Kill Trip based on a true story?"
+      },
+      {
+        "answer": "The tone is tense, suspenseful, and increasingly dark as the survival threat grows.",
+        "question": "What is the tone of the movie?"
+      },
+      {
+        "answer": "It focuses more on psychological tension and suspense than on physical action.",
+        "question": "Does the film focus more on action or psychological tension?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Premise of people vanishing with a mysterious driver suggests strong psychological and possibly supernatural horror tension."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate profanity among friends in danger, though not explicitly detailed in overview."
+      },
+      "violence": {
+        "score": 8,
+        "description": "People vanishing and a survival scenario imply high levels of violence, threats, and likely graphic harm or death."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible mild substance use implied by music festival road trip context, not explicitly stated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense survival themes with friends disappearing and life-threatening situations."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-18 16:01:08.166293",
+    "updated_at": "2026-07-18 16:01:08.166293"
+  }
 }
