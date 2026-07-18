@@ -10,23 +10,24 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 12.2554,
-    "voteAverage": 4,
-    "voteCount": 2,
+    "popularity": 85.4888,
+    "voteAverage": 5.909,
+    "voteCount": 11,
     "homepage": "https://mock-movie-website.com/movies/1668364",
-    "posterPath": "/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
-    "backdropPath": "/5NoP8obTAXVPv6RcK5wGd2rVt8.jpg",
-    "collectionId": null
+    "posterPath": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+    "backdropPath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+    "collectionId": null,
+    "certification": "R"
   },
   "collection": null,
   "genres": [
     {
-      "tmdbId": 18,
-      "name": "Drama"
-    },
-    {
       "tmdbId": 9648,
       "name": "Mystery"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 1,
@@ -35,17 +36,25 @@
   ],
   "companies": [],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Trailer [Dubbed]",
+      "key": "siUPiUaSWvc",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
-      "filePath": "/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+      "filePath": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
     },
     {
-      "filePath": "/5NoP8obTAXVPv6RcK5wGd2rVt8.jpg",
+      "filePath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -73,9 +82,23 @@
       "type": "poster"
     },
     {
+      "filePath": "/zlkrceHEBXkRQnluW8ZG9wMQgty.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lyJJS1Jg47LSa9a2oygMIXDvDcP.jpg",
       "width": 800,
       "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3JQXDOlqsonCT51WLM65zXCVL2D.jpg",
+      "width": 960,
+      "height": 1440,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -101,18 +124,67 @@
       "type": "poster"
     },
     {
+      "filePath": "/iHcyv2w6KBlnCtcpAmgsLpA85ny.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zuv0kksLAhlDjksYHrFUOyDvcYb.jpg",
+      "width": 536,
+      "height": 750,
+      "aspectRatio": 0.715,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qSi09KODKYvzwsBdPFiBNzrbfeN.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hzyByMOgLeYwu13fusOwIPJwMNV.jpg",
+      "width": 1200,
+      "height": 1800,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/5NoP8obTAXVPv6RcK5wGd2rVt8.jpg",
       "width": 1354,
       "height": 762,
       "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tXgAdNWi85yDssXy0653hVJ7Smt.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
       "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4,
-      "votesCount": 2
+      "ratingValue": 5.909,
+      "votesCount": 11
     },
     {
       "source": "imdb",
@@ -249,7 +321,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
