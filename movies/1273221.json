@@ -10,9 +10,9 @@
     "budget": "30000000",
     "revenue": "228436956",
     "status": "Released",
-    "popularity": 333.6422,
-    "voteAverage": 5.4,
-    "voteCount": 465,
+    "popularity": 339.8036,
+    "voteAverage": 5.394,
+    "voteCount": 469,
     "homepage": "https://www.scarymovie.film",
     "posterPath": "/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
     "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
@@ -2582,8 +2582,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.4,
-      "votesCount": 465
+      "ratingValue": 5.394,
+      "votesCount": 469
     },
     {
       "source": "imdb",
@@ -2998,5 +2998,284 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1273221/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1273221,
+    "hash": "ff70ee60b7ed9964c89ffd975fdf3d9f84f592ea312e9f24ad72062c6b096182",
+    "summary_one_sentence": "The Core Four reunite twenty-six years after escaping a masked killer to face him again while parodying horror movie franchises.",
+    "summary_short": "Scary Movie follows the Core Four, who narrowly escaped a masked killer twenty-six years earlier. Now, the familiar killer has returned and targets them once more. The film satirizes popular horror movie IPs as the group fights to survive. It blends comedy, horror, and drama in a self-aware spoof sequel.",
+    "summary_long": "Twenty-six years after the Core Four outran a masked killer who bore a suspicious resemblance to figures from classic horror films, they have attempted to move on with their lives. However, the killer resurfaces and places the group back in his crosshairs, forcing them to confront their past trauma. As the murders begin again, the Core Four realizes no horror movie franchise is safe from the killer's rampage. They reunite to defend themselves and uncover why the killer has returned after so long. Along the way, the film parodies iconic scenes and tropes from numerous horror IPs. The group faces both external threats and internal conflicts as old dynamics resurface. Comedic beats undercut the tension as the characters break the fourth wall and reference genre clichés. Eventually, they must use their knowledge of horror conventions to outsmart the killer. The story balances scares with satire and character drama. In the end, the Core Four confront the killer in a finale that mocks and honors the genre they inhabit.",
+    "synopsis": "Scary Movie is a comedy-horror-drama that brings back the Core Four, a group who escaped a masked killer twenty-six years prior. When the killer returns, they find themselves targeted once again in a chaotic spoof that leaves no horror movie IP untouched. The film mixes laugh-out-loud parody with genuine character moments as the friends reunite to survive. Fans of the franchise and horror genres will recognize nods to countless films while enjoying a fresh, self-aware adventure.",
+    "keywords": [
+      "meta horror",
+      "slasher parody",
+      "masked killer",
+      "horror movie spoof",
+      "self-aware comedy",
+      "ensemble cast",
+      "legacy sequel",
+      "crosshair hunt",
+      "franchise satire",
+      "jump scare mockery",
+      "campy gore",
+      "core four reunion",
+      "genre deconstruction",
+      "absurd violence",
+      "pop culture references"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.6
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.4
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The Core Four confront the masked killer in a chaotic showdown where multiple horror IPs collide and the group must use their experience to survive the final trap.",
+      "conflict": "The masked killer returns and targets the Core Four again, while various horror movie franchises become vulnerable to the threat, forcing the group to confront old fears.",
+      "resolution": "The immediate threat is neutralized and the Core Four reflect on their survival, leaving the door open for future horror parodies while restoring a fragile peace.",
+      "introduction": "The Core Four, now older, are reintroduced twenty-six years after surviving a masked killer, living seemingly normal lives until eerie signs suggest the past is resurfacing.",
+      "risingAction": "As attacks escalate and parodies of famous horror tropes unfold, the Core Four regroup, uncover clues about the killer's renewed motive, and face escalating danger across multiple genre spoofs."
+    },
+    "characters": [
+      {
+        "name": "Cindy Campbell",
+        "role": "Hero",
+        "description": "Survivor of the original massacre and member of the Core Four; returns to face the masked killer again."
+      },
+      {
+        "name": "Brenda Meeks",
+        "role": "Supporting Character",
+        "description": "Member of the Core Four; loyal friend who reunites with the group under threat."
+      },
+      {
+        "name": "Shorty Meeks",
+        "role": "Comic Relief",
+        "description": "Brenda's brother; provides humor through absurd behavior and stoner antics."
+      },
+      {
+        "name": "Ray Wilkins",
+        "role": "Supporting Character",
+        "description": "Member of the Core Four; returns to confront the killer alongside the group."
+      },
+      {
+        "name": "The Masked Killer",
+        "role": "Villain",
+        "description": "Familiar masked slasher who targets the Core Four twenty-six years later."
+      },
+      {
+        "name": "Dan Campbell",
+        "role": "Supporting Character",
+        "description": "Relative within the Campbell family circle; appears in the new installment."
+      },
+      {
+        "name": "Other Core Four Member",
+        "role": "Supporting Character",
+        "description": "Additional returning survivor among the Core Four facing the killer."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cindy Campbell",
+        "target": "Bobby Prinze",
+        "description": "Former love interest / Survivor ally"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "Ray Wilkins",
+        "description": "Survivor friend / Former suspect"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "Brenda Meeks",
+        "description": "Best friend / Core Four member"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "The Masked Killer",
+        "description": "Victim / Pursuer"
+      },
+      {
+        "source": "Bobby Prinze",
+        "target": "Ray Wilkins",
+        "description": "Survivor friend / Core Four member"
+      },
+      {
+        "source": "Bobby Prinze",
+        "target": "Brenda Meeks",
+        "description": "Survivor friend / Core Four member"
+      },
+      {
+        "source": "Bobby Prinze",
+        "target": "The Masked Killer",
+        "description": "Victim / Pursuer"
+      },
+      {
+        "source": "Ray Wilkins",
+        "target": "Brenda Meeks",
+        "description": "Survivor friend / Core Four member"
+      },
+      {
+        "source": "Ray Wilkins",
+        "target": "The Masked Killer",
+        "description": "Victim / Pursuer"
+      },
+      {
+        "source": "Brenda Meeks",
+        "target": "The Masked Killer",
+        "description": "Victim / Pursuer"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "Bobby Prinze",
+        "description": "Core Four member"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "Ray Wilkins",
+        "description": "Core Four member"
+      },
+      {
+        "source": "Cindy Campbell",
+        "target": "Brenda Meeks",
+        "description": "Core Four member"
+      }
+    ],
+    "seo": {
+      "slug": "scary-movie-2025",
+      "jsonLd": {
+        "name": "Scary Movie",
+        "@type": "Movie",
+        "genre": "Comedy",
+        "@context": "https://schema.org",
+        "keywords": "Core Four, masked killer, horror spoof",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe."
+      },
+      "keywords": [
+        "scary movie",
+        "core four",
+        "masked killer",
+        "horror spoof",
+        "scary movie 2025"
+      ],
+      "canonical": "https://movnix.com/movie/scary-movie-2025",
+      "metaTitle": "Scary Movie (2025) - Core Four Return in Horror Spoof | Movnix",
+      "openGraph": {
+        "og:title": "Scary Movie - Core Four Back in Killer's Crosshairs",
+        "og:description": "26 years later the Core Four return in this horror spoof where no IP is safe. Watch the terror unfold."
+      },
+      "twitterCard": {
+        "twitter:title": "Scary Movie (2025) - Horror Spoof Sequel",
+        "twitter:description": "The Core Four return to face a familiar masked killer. No horror movie IP is safe in Scary Movie."
+      },
+      "metaDescription": "26 years later, the Core Four face a familiar masked killer in Scary Movie. No horror IP is safe in this meta comedy slasher sequel."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Scary Movie is a long-running comedy-horror spoof franchise, and this film brings back the Core Four from earlier entries.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "As of current information, no official confirmation exists, but given the franchise's style, a post-credit gag is possible.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is comedy-horror with strong parody and satire elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The Core Four are the main group of characters who originally escaped a masked killer 26 years ago and are targeted again in this film.",
+        "question": "Who are the Core Four?"
+      },
+      {
+        "answer": "Yes, the movie spoofs many horror movie IPs and includes meta references to various popular horror franchises.",
+        "question": "Does the movie reference other horror films?"
+      },
+      {
+        "answer": "Yes, the film features a suspiciously familiar masked killer who previously targeted the Core Four 26 years earlier.",
+        "question": "Is the masked killer the same as in earlier movies?"
+      },
+      {
+        "answer": "Not strictly, but watching earlier films helps you understand the Core Four and the recurring killer references.",
+        "question": "Do I need to watch previous Scary Movie films first?"
+      },
+      {
+        "answer": "The tone is satirical, absurd, and self-aware, mixing scares with over-the-top comedy.",
+        "question": "What is the tone of the movie?"
+      },
+      {
+        "answer": "Likely yes, as previous Scary Movie films are known for crude humor, violence, and teen/adult content.",
+        "question": "Is the movie rated for mature audiences?"
+      },
+      {
+        "answer": "Yes, the story expands the cast with new victims and targets while bringing back the original four leads.",
+        "question": "Are new characters introduced alongside the Core Four?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong horror parody elements including a returning masked killer and meta slasher tropes with likely intense scenes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and crude humor expected from the Scary Movie series."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Implied and referenced masked killer attacks with likely graphic horror violence typical of the Scary Movie franchise."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate substance references consistent with teen/young adult comedy horror."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate sexual humor and references typical of the franchise's parody style."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderately intense threat and survival tension with comedic relief."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 6,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 2,
+      "mystery": 7,
+      "romance": 2,
+      "science": 1,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-18 21:01:08.397994",
+    "updated_at": "2026-07-18 21:01:08.397994"
+  }
 }
