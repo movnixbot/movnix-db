@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 39.6813,
-    "voteAverage": 3.857,
-    "voteCount": 7,
+    "popularity": 50.9393,
+    "voteAverage": 3.9,
+    "voteCount": 20,
     "homepage": "https://www.netflix.com/title/81660283",
     "posterPath": "/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
     "backdropPath": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
@@ -180,6 +180,41 @@
       "type": "poster"
     },
     {
+      "filePath": "/1QIwTxYC05NNyodxbwNAdGjytFf.jpg",
+      "width": 1680,
+      "height": 2520,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7oTpvYq4xxzWQcZ9PTjZqOfvIGm.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/v2sHwUUvLSZgqAzlpCWOIWjLWQy.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tpYT9AXw4XuMp0o5OYVNeHS2Gtx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6K6AOzltCpLPj5P2JjWWbfw2gvO.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
       "width": 2560,
       "height": 1440,
@@ -253,8 +288,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 3.857,
-      "votesCount": 7
+      "ratingValue": 3.9,
+      "votesCount": 20
     },
     {
       "source": "crawled",
@@ -473,7 +508,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
