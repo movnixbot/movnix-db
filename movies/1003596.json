@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 32.5868,
+    "popularity": 24.1495,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.marvel.com/movies/avengers-doomsday",
@@ -285,6 +285,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/2Z6kVMOOJKZEnXYSBGnMAFjK7V.jpg",
+      "width": 1632,
+      "height": 2400,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
       "filePath": "/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
       "width": 3840,
       "height": 2160,
@@ -545,7 +552,7 @@
     {
       "tmdbPersonId": 57027,
       "name": "Louis D'Esposito",
-      "profilePath": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg",
+      "profilePath": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -677,5 +684,266 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1003596/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1003596,
+    "hash": "68b6f315d8008970c914575a9026006b6980226f227e5429d3d5ff73fccaf121",
+    "summary_one_sentence": "Heroes from three separate universes are forced into a deadly confrontation as they face an unprecedented existential threat.",
+    "summary_short": "Avengers: Doomsday brings together beloved heroes from three distinct universes who find themselves on a deadly collision course. As tensions rise, they must confront an existential threat unlike anything they have ever encountered. The story blends science fiction, action, and drama as alliances are tested. Ultimately, survival depends on unity across worlds.",
+    "summary_long": "In Avengers: Doomsday, the fabric of reality fractures as heroes from three distinct universes are pulled into the same conflict. Initially unaware of one another, these champions operate in their own worlds until mysterious forces set them on a deadly collision course. As battles erupt between confused allies and enemies, a far greater danger emerges from the shadows. This existential threat seeks to unravel all existence across the multiverses, surpassing any foe they have faced before. The heroes gradually realize that their only hope lies in setting aside differences and working together. Across sprawling sci-fi landscapes, they form uneasy alliances and share vital knowledge of their powers. Dramatic personal sacrifices are made as the threat grows more consuming with each encounter. In a climactic stand, the united heroes launch a desperate final assault to save what remains. Though scarred, they manage to push back the doom and stabilize their worlds. The film closes with a cautious peace and the hint of future multiversal challenges.",
+    "synopsis": "Avengers: Doomsday is a science fiction action-adventure drama that unites iconic heroes from three separate universes. When a mysterious force draws them into conflict, they must overcome distrust and rivalry to face a threat that endangers all of existence. Packed with large-scale battles, emotional character moments, and multiversal spectacle, the film explores unity in the face of annihilation.",
+    "keywords": [
+      "multiverse collision",
+      "existential threat",
+      "hero team-up",
+      "cross-universe conflict",
+      "deadly confrontation",
+      "cosmic stakes",
+      "beloved characters",
+      "science fiction action",
+      "epic adventure",
+      "dramatic tension",
+      "apocalyptic threat",
+      "interdimensional crisis",
+      "superhero ensemble",
+      "survival conflict"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Existential Threat",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Conflict/Collision",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Unity Across Worlds",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The heroes from all three universes confront the existential threat together in a decisive, universe-spanning confrontation that determines the fate of their worlds.",
+      "conflict": "The heroes are set on a deadly collision course as their universes intersect, and they become aware of an existential threat that endangers all of existence.",
+      "resolution": "The immediate threat is ended and the surviving heroes begin to understand their new interconnected reality, leaving the door open for future bonds across universes.",
+      "introduction": "Three groups of beloved heroes from separate universes are introduced in their own worlds, living seemingly normal lives before an unseen disturbance begins to connect their realities.",
+      "risingAction": "Tensions escalate as the heroes confront misunderstandings between groups, uncover the scale of the threat, and attempt uneasy alliances while the danger grows closer."
+    },
+    "characters": [
+      {
+        "name": "Robert Downey Jr.",
+        "role": "Villain",
+        "description": "Reprising a antagonistic role (likely Doctor Doom), posing the existential threat to heroes across universes."
+      },
+      {
+        "name": "Chris Evans",
+        "role": "Hero",
+        "description": "Returns as a heroic figure (likely Captain America variant) fighting the cross-universe threat."
+      },
+      {
+        "name": "Chris Hemsworth",
+        "role": "Hero",
+        "description": "Plays Thor, a powerful hero defending his universe from doom."
+      },
+      {
+        "name": "Pedro Pascal",
+        "role": "Hero",
+        "description": "Likely Mister Fantastic, a heroic leader uniting forces against the threat."
+      },
+      {
+        "name": "Paul Rudd",
+        "role": "Comic Relief",
+        "description": "Plays Ant-Man, providing levity amid the deadly collision of universes."
+      },
+      {
+        "name": "Anthony Mackie",
+        "role": "Hero",
+        "description": "The new Captain America, stepping up against the existential danger."
+      },
+      {
+        "name": "Florence Pugh",
+        "role": "Supporting Character",
+        "description": "Plays Yelena, aiding the heroes in the multiversal crisis."
+      },
+      {
+        "name": "Vanessa Kirby",
+        "role": "Supporting Character",
+        "description": "Likely Invisible Woman, supporting the heroic ensemble."
+      },
+      {
+        "name": "Ebon Moss-Bachrach",
+        "role": "Supporting Character",
+        "description": "Likely The Thing, a loyal ally in the fight."
+      },
+      {
+        "name": "Wyatt Russell",
+        "role": "Anti Hero",
+        "description": "Plays John Walker, a morally conflicted operative among the heroes."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Hero Universe 1",
+        "target": "Hero Universe 2",
+        "description": "Rivals/Forced Adversaries"
+      },
+      {
+        "source": "Hero Universe 1",
+        "target": "Hero Universe 3",
+        "description": "Rivals/Forced Adversaries"
+      },
+      {
+        "source": "Hero Universe 2",
+        "target": "Hero Universe 3",
+        "description": "Rivals/Forced Adversaries"
+      },
+      {
+        "source": "Hero Universe 1",
+        "target": "Existential Threat",
+        "description": "Enemy/Target of Conflict"
+      },
+      {
+        "source": "Hero Universe 2",
+        "target": "Existential Threat",
+        "description": "Enemy/Target of Conflict"
+      },
+      {
+        "source": "Hero Universe 3",
+        "target": "Existential Threat",
+        "description": "Enemy/Target of Conflict"
+      }
+    ],
+    "seo": {
+      "slug": "avengers-doomsday",
+      "jsonLd": {
+        "name": "Avengers: Doomsday",
+        "@type": "Movie",
+        "about": "Multiverse crossover event featuring heroes from three distinct universes facing an existential threat.",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "@context": "https://schema.org",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+      },
+      "keywords": [
+        "Avengers Doomsday",
+        "Marvel crossover movie",
+        "multiverse heroes",
+        "Avengers film 2025"
+      ],
+      "canonical": "https://movnix.com/movie/avengers-doomsday",
+      "metaTitle": "Avengers: Doomsday - Heroes Collide Across Three Universes",
+      "openGraph": {
+        "og:title": "Avengers: Doomsday",
+        "og:description": "Heroes from three universes collide in a deadly showdown against an existential threat. Experience the multiverse event."
+      },
+      "twitterCard": {
+        "twitter:title": "Avengers: Doomsday",
+        "twitter:description": "Three universes of heroes. One existential threat. Avengers: Doomsday is the ultimate multiverse collision."
+      },
+      "metaDescription": "Beloved heroes from three universes face a deadly collision course and an existential threat in Avengers: Doomsday. Watch the epic saga."
+    },
+    "faq": [
+      {
+        "answer": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "question": "What is Avengers: Doomsday about?"
+      },
+      {
+        "answer": "Yes, Avengers: Doomsday is part of the Marvel Cinematic Universe (MCU) franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "While not officially confirmed, Marvel films traditionally include post-credit scenes, so it is highly likely Avengers: Doomsday will have one or more.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is superhero action with strong science fiction and adventure elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The film brings together beloved heroes from three distinct universes, though specific universe names have not been detailed in the overview.",
+        "question": "Which universes are featured in the film?"
+      },
+      {
+        "answer": "The overview mentions beloved heroes from three universes but does not name specific characters.",
+        "question": "Who are the main characters in Avengers: Doomsday?"
+      },
+      {
+        "answer": "They face an existential threat unlike anything they have ever encountered, putting their survival and realities at risk.",
+        "question": "What kind of threat do the heroes face?"
+      },
+      {
+        "answer": "As a typical Marvel superhero film, it is likely rated PG-13 with action violence, but parental guidance is advised.",
+        "question": "Is Avengers: Doomsday suitable for children?"
+      },
+      {
+        "answer": "The overview does not provide a release date for the film.",
+        "question": "When is Avengers: Doomsday expected to release?"
+      },
+      {
+        "answer": "The overview confirms beloved heroes return from three universes, suggesting familiar actors may reprise roles, but no specifics are given.",
+        "question": "Will previous Avengers actors return for this movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements; possible brief tense or eerie moments but no sustained fright."
+      },
+      "language": {
+        "score": 4,
+        "description": "Some mild to moderate language typical of Marvel ensemble films."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Likely high levels of superhero action violence including battles, destruction, and threats of death across universes."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Essentially no substance use indicated by the overview."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content expected based on overview."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional stakes with existential threat and collision of beloved heroes from distinct universes."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 3,
+      "emotion": 6,
+      "fantasy": 8,
+      "mystery": 5,
+      "romance": 2,
+      "science": 7,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-17 08:15:20.641812",
+    "updated_at": "2026-07-17 08:15:20.641812"
+  }
 }
