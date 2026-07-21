@@ -10,9 +10,9 @@
     "budget": "100000000",
     "revenue": "689469075",
     "status": "Released",
-    "popularity": 184.1851,
-    "voteAverage": 7.129,
-    "voteCount": 1567,
+    "popularity": 155.4359,
+    "voteAverage": 7.116,
+    "voteCount": 1584,
     "homepage": "https://www.20thcenturystudios.com/movies/the-devil-wears-prada-2",
     "posterPath": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
     "backdropPath": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
@@ -62,6 +62,13 @@
       "site": "YouTube",
       "size": 1080,
       "type": "Behind the Scenes"
+    },
+    {
+      "name": "Out Now to Buy or Rent",
+      "key": "kce10WFrICE",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
     },
     {
       "name": "Andy Sachs",
@@ -3202,6 +3209,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/dq89xZlVbRabfzPnrkwMoP38wvQ.jpg",
+      "width": 1350,
+      "height": 2000,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6Xc9GhkSgFsbkgEtp3MLfmllGy2.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
       "width": 3840,
       "height": 2160,
@@ -3704,13 +3725,20 @@
       "height": 1089,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/mKYiwxABawFcKXIMnaLQga3gstO.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.129,
-      "votesCount": 1567
+      "ratingValue": 7.116,
+      "votesCount": 1584
     },
     {
       "source": "imdb",
@@ -3869,21 +3897,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 5065,
-      "name": "David Frankel",
-      "profilePath": "/hfIjLMo8Upl6MXhn1YcoDoXeeZn.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 28,
       "name": "Wendy Finerman",
       "profilePath": "/hHtIO8eapQ20cP3UfxhjjPnsz23.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5065,
+      "name": "David Frankel",
+      "profilePath": "/hfIjLMo8Upl6MXhn1YcoDoXeeZn.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
