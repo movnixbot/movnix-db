@@ -10,9 +10,9 @@
     "budget": "25000000",
     "revenue": "3200000",
     "status": "Released",
-    "popularity": 13.2412,
-    "voteAverage": 6.7,
-    "voteCount": 80,
+    "popularity": 31.8723,
+    "voteAverage": 6.8,
+    "voteCount": 86,
     "homepage": "https://a24films.com/films/the-death-of-robin-hood",
     "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
     "backdropPath": "/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
@@ -176,6 +176,13 @@
       "filePath": "/3nbmbDYOCKaLnS19YNw3l8Sxzgl.jpg",
       "width": 1280,
       "height": 1920,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -523,6 +530,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/5FJsyRUuLsyt2lZrDHbqFE4tJXN.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "width": 3840,
       "height": 2160,
@@ -738,13 +752,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/rYDD12cjOdUVlCpdufVBXB5G6h9.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.7,
-      "votesCount": 80
+      "ratingValue": 6.8,
+      "votesCount": 86
     },
     {
       "source": "imdb",
@@ -894,24 +915,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 2580328,
-      "name": "Michael Sarnoski",
-      "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2580328,
-      "name": "Michael Sarnoski",
-      "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 554,
       "name": "Aaron Ryder",
       "profilePath": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
@@ -936,6 +939,24 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2580328,
+      "name": "Michael Sarnoski",
+      "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2580328,
+      "name": "Michael Sarnoski",
+      "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
