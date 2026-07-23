@@ -1,29 +1,503 @@
 {
   "tvShow": {
     "tmdbId": 281281,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt35495063",
+    "name": "Elite Force",
+    "originalName": "GIGN",
+    "overview": "Following an unprecedented attack on the GIGN, an officer—just as he is leaving the force—will carry out a mission that rivals the intensity of that attack.",
+    "firstAirDate": "2026-07-22",
+    "lastAirDate": "2026-07-22",
+    "status": "Returning Series",
+    "popularity": 49.662,
+    "voteAverage": 6.7,
+    "voteCount": 9,
+    "type": "Scripted",
+    "posterPath": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+    "backdropPath": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "677c1ff055d4b38f93672db6",
+      "air_date": "2026-07-22",
+      "episodes": [
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 5881381,
+          "name": "Episode 1",
+          "overview": "David, a high-ranking GIGN officer, is preparing to leave field operations. But a new recruit's graduation and a shocking attack threaten his plans.",
+          "production_code": "",
+          "runtime": 55,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/66tcm3jBg5AFUunr6iWjDINbN5c.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7549002,
+          "name": "Episode 2",
+          "overview": "Devastated by the previous night's events and under new scrutiny, the squad tracks down a suspect. On a mission, Max disobeys a direct order from David.",
+          "production_code": "",
+          "runtime": 53,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/9KxmBRUcGXpOC8S3oRdHHZje2Kf.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7549036,
+          "name": "Episode 3",
+          "overview": "After the forest shootout, David pockets key evidence. Max continues to question his father's death, and a hospital visit takes an ominous turn.",
+          "production_code": "",
+          "runtime": 43,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/480WpYGLoGSoiE0S2uQkmSqoPaD.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7549042,
+          "name": "Episode 4",
+          "overview": "Having linked the mastermind behind the attacks to an old operation, David goes on a rogue mission – but he's not the only one searching for answers.",
+          "production_code": "",
+          "runtime": 45,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/sp3SeKiLkOk5zCVwM1f8V9qFjpM.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 5,
+          "episode_type": "standard",
+          "id": 7549045,
+          "name": "Episode 5",
+          "overview": "David faces the consequences of his actions. Brought in for questioning, he tries to protect Max, and finally tells his godson the whole truth.",
+          "production_code": "",
+          "runtime": 51,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/jm2EbD568qLF0aj2KRWLPZ5xjKa.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 6,
+          "episode_type": "finale",
+          "id": 7549050,
+          "name": "Episode 6",
+          "overview": "As news of a hostage situation reaches the squad, they race to launch a rescue mission and take down a skilled assassin who has nothing left to lose.",
+          "production_code": "",
+          "runtime": 49,
+          "season_number": 1,
+          "show_id": 281281,
+          "still_path": "/Amj7n5TTqmohgtZ2rrRfgJuqS8G.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Season 1",
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "overview": "",
+      "id": 436573,
+      "poster_path": "/4cPiptzvcccUUtkS18z5e3fS9Uw.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "tmdbId": 80,
+      "name": "Crime"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 12648,
+      "name": "Labyrinthe Films",
+      "logoPath": null,
+      "originCountry": "FR"
+    }
+  ],
   "keywords": [],
   "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "images": [
+    {
+      "filePath": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4QfkoVxU4Wspqx07ocSTtTLCVrz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uQaXsUheuuV0pnHoCuNk9hyrwKF.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wwWygCWIbMVJ3QeeDlvqwlrBfTw.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gOMeaNpXAu4hE7iowA9LD5eSHX0.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iViI7hvIuU9Wr46FrKyfjxntPCW.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kAaiFRKIbUAE9LyFhreHe0XymvW.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4uh8mjAwKOpTrlu4nldsBf0ZOuU.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8nDtdxMK7lNhOuf6GUSEjUxf7UV.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jD9METcDjTHloclVxc7ggDBuDwm.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/52XKUPhETdtdv0NKnGGfe1B8GuQ.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vQdH60N1xXzKnym1qsYaDpzwNYL.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hi8pfZYRVU64tIXU4yGlXpGJWbX.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tdxhVAWSpMXvkMurtRYgq0CZ09R.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wrT6na3x03SSlFde9N1tanxkzlx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fADawTbDDjzIO5k7ILDPR6MqqRS.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2JKEvQqH3UzDygTSS9c0b9QwH06.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yqavGt058YB6o2SOJunH0ZJYn6h.jpg",
+      "width": 2000,
+      "height": 1125,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6.7,
+      "votesCount": 9
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 25089,
+      "name": "Tomer Sisley",
+      "profilePath": "/2Tqiq9ajbiA0OGbpQDorROU2SO7.jpg",
+      "character": "Sylvain Caron",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 239118,
+      "name": "Guillaume Gouix",
+      "profilePath": "/caQHHQaVmfHHvbchMxB9kJ6JSDm.jpg",
+      "character": "Cédric",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 1179888,
+      "name": "Philip Schurer",
+      "profilePath": "/fVC2tOp44gVsrGzUqB745PzgZzk.jpg",
+      "character": "Victor/Terrorist",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 1122960,
+      "name": "Nicolas Wanczycki",
+      "profilePath": "/xksvgEBrpOB26BCga8JDqHZRRqZ.jpg",
+      "character": "Alexis Mayard",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2316851,
+      "name": "Leanna Chea",
+      "profilePath": "/6J7wYP48i2qAYjlcxf8RaQh2MoC.jpg",
+      "character": "Tanya",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 19888,
+      "name": "Géraldine Pailhas",
+      "profilePath": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg",
+      "character": "Mélanie",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 3527580,
+      "name": "Tristan Zanchi",
+      "profilePath": "/aiEGGbEWSTvth4PAlRQySWLxlsy.jpg",
+      "character": "Max",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 83813,
+      "name": "Thierry Neuvic",
+      "profilePath": "/e0CvOz6q1hqunt57lrIzY4mtWnT.jpg",
+      "character": "Christophe",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 23670,
+      "name": "Grégori Derangère",
+      "profilePath": "/hGil5CTnudDlDaCdvIWfGT7jsdG.jpg",
+      "character": "Général",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 1132641,
+      "name": "Kévin Azaïs",
+      "profilePath": "/pGNCpHE36I4hIxZKJnKWQN2qQ0y.jpg",
+      "character": "Valère",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 2149295,
+      "name": "Elodie Menant",
+      "profilePath": "/vKvRUkqxkBzGh17au496lWFsRIs.jpg",
+      "character": "Chloé",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 2053685,
+      "name": "Nelly Lawson",
+      "profilePath": "/jMWSq5p5bpaOgxfkR23ZbcGtKNd.jpg",
+      "character": "Raphaëlle",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 3450010,
+      "name": "Marley Duboscq",
+      "profilePath": "/fJ9JUPQiir2LYFOHopzoBRl7OLY.jpg",
+      "character": "Petit Jean",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 84439,
+      "name": "Julien Leclercq",
+      "profilePath": "/xP2OPVSMg2S19A1KzECnaqswqh8.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1398142,
+      "name": "Julien Madon",
+      "profilePath": "/dPgD3WOORtJROP2GqiyxUT02AWy.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 84439,
+      "name": "Julien Leclercq",
+      "profilePath": "/xP2OPVSMg2S19A1KzECnaqswqh8.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "CN",
+      "title": "精英部队",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": "tt35495063",
+    "wikidataId": "Q133868511",
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
