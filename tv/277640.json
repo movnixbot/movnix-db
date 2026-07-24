@@ -1,29 +1,463 @@
 {
   "tvShow": {
     "tmdbId": 277640,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt34688214",
+    "name": "Pompeii: Out of Time with Tom Hiddleston",
+    "originalName": "Pompeii: Out of Time with Tom Hiddleston",
+    "overview": "A historical exploration about the eruption of Vesuvius in 79 A.D. and the preserved Roman city it left behind.",
+    "firstAirDate": "2026-07-22",
+    "lastAirDate": "2026-07-22",
+    "status": "Ended",
+    "popularity": 13.8599,
+    "voteAverage": 6.8,
+    "voteCount": 4,
+    "type": "Miniseries",
+    "posterPath": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+    "backdropPath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
+    "certification": "TV-PG"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "673dc46d890efff9f66972c2",
+      "air_date": "2026-07-22",
+      "episodes": [
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 5773776,
+          "name": "Tremors",
+          "overview": "Tom asks: Will anyone recognize the warning signs before it's too late?",
+          "production_code": "",
+          "runtime": 41,
+          "season_number": 1,
+          "show_id": 277640,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7401133,
+          "name": "Eruption",
+          "overview": "As chaos erupts, who will flee, and who will step up to lead?",
+          "production_code": "",
+          "runtime": 44,
+          "season_number": 1,
+          "show_id": 277640,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-22",
+          "episode_number": 3,
+          "episode_type": "finale",
+          "id": 7401140,
+          "name": "Survival",
+          "overview": "In the final moments, what does it truly mean to survive?",
+          "production_code": "",
+          "runtime": 47,
+          "season_number": 1,
+          "show_id": 277640,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Miniseries",
+      "networks": [
+        {
+          "id": 43,
+          "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+          "name": "National Geographic",
+          "origin_country": "US"
+        }
+      ],
+      "overview": "",
+      "id": 429404,
+      "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 99,
+      "name": "Documentary"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 7521,
+      "name": "National Geographic",
+      "logoPath": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 300352,
+      "name": "Plimsoll Productions",
+      "logoPath": "/Nz3InTx0kRU5AGVEu2x2xYb4ua.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 305344,
+      "name": "Ithaca",
+      "logoPath": null,
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 4183,
+      "name": "Diamond Docs",
+      "logoPath": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "key": "7k52aJRs3gA",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/p0gMi8uj1sZfvda7KpUZJFWzbPe.jpg",
+      "width": 569,
+      "height": 750,
+      "aspectRatio": 0.759,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jHsfPi37H9MuaZyLorybiY8I14a.jpg",
+      "width": 800,
+      "height": 1180,
+      "aspectRatio": 0.678,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iKiD6DqHLKF4Kfr3mJyJCD103kk.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xQDK1MM5pEPiJrJGwuRXBP7O8nC.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/a2sV7yeD2YOn9gXTwtCe8xwQGup.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/e8h4ZotuVeB1A5DXYVctt0UuqPc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7XlSQ9raz6635PBEaCGCP9MYIwf.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fE1dOhVC8PctIspY2ziqLuio5rr.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7Ddo0ZbIeUzNe3zFdUN1ckXs8r6.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3RwxSNpv29hAfJ5yAZyFZXkMrtO.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zXwMYWLe0me6K1xoz1Lzxb0pa7d.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nhXp3GPTUmN9Mnu528OaIJDsSYw.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yTMKIbN3ITfGtCOijoN7Tg5VLMI.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jGSMDiQAdRBgI53ZLC5PTEf3oTQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/dW83gL7WIfIcmL2RtK9bbUnFnpu.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tq8t3YkCEikb9yK9GwhJnTfdwQp.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yzkebA7NDUUSWi34ZCInzL7tsp.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8fAdHI4mQxMnN3GjzZ1yMVZpyMn.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/z7Tmc8mwG3WXk4slb32j5dkSQmU.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4O72ZTgNSodawRM9LAHoy6c7mzh.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6.8,
+      "votesCount": 4
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 91606,
+      "name": "Tom Hiddleston",
+      "profilePath": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+      "character": "Self - Host",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 2927638,
+      "name": "Kevin R. Wright",
+      "profilePath": "/qKlpTCliuOmIO3L9hu1b5sFzOGG.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 91606,
+      "name": "Tom Hiddleston",
+      "profilePath": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2756851,
+      "name": "Grant Mansfield",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2053226,
+      "name": "Alan Eyres",
+      "profilePath": "/zRCXIGLP1bGee3oLbeM4C0wnlxD.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1245956,
+      "name": "Helen Flint",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1072699,
+      "name": "Tom Barbor-Might",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4234488,
+      "name": "Carolyn Payne",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 6366391,
+      "name": "Hannah Joy Cooney",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1245956,
+      "name": "Helen Flint",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 94816,
+      "name": "Mark Monroe",
+      "profilePath": "/pNqFadHJzvaTrfY1iiuYR31v4Sw.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IL",
+      "title": "פומפיי: מרוץ נגד הזמן עם טום הידלסטון",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Помпеи: Вне времени",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Surviving Pompeii",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Surviving Pompeii with Tom Hiddleston",
+      "type": "working title"
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Pompeii: Out of Time",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": "tt34688214",
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
