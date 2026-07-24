@@ -1,18 +1,18 @@
 {
   "movie": {
     "tmdbId": 1620682,
-    "imdbId": null,
+    "imdbId": "tt43617119",
     "title": "Love in Slow Motion",
     "originalTitle": "أحبك من زمان",
     "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?",
     "releaseDate": "2026-07-23",
-    "runtime": 139,
+    "runtime": 93,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.9061,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 17.6303,
+    "voteAverage": 4,
+    "voteCount": 2,
     "homepage": "https://www.netflix.com/title/82029270",
     "posterPath": "/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
     "backdropPath": "/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
@@ -36,7 +36,15 @@
   ],
   "companies": [],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Love in Slow Motion | Official Trailer | Netflix",
+      "key": "oCg2wXznjLo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
@@ -74,6 +82,41 @@
       "type": "poster"
     },
     {
+      "filePath": "/wfVLppbdB6YJdwJFeOXSOo6RUxQ.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
+      "filePath": "/74rQCJYybpdbu81ztR2V0BQOrCO.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tKP38jaiHUUz1F5sXsrhXMK4Sjj.jpg",
+      "width": 1680,
+      "height": 2520,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/R6jDMJOrChWK598bAJolOTAZ5L.jpg",
+      "width": 1080,
+      "height": 1620,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
       "width": 1920,
       "height": 1080,
@@ -86,9 +129,35 @@
       "height": 1080,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/lgOAFRBi1T5Pd9mYzhRnom1PPqL.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vRusFha1Ou1oqMlJb901rNDzfNc.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 4,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -169,12 +238,30 @@
       "order": 7
     },
     {
+      "tmdbPersonId": 6365981,
+      "name": "Cuba",
+      "profilePath": null,
+      "character": "Cuba",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
       "tmdbPersonId": 4669913,
       "name": "Elie El Semaan",
       "profilePath": "/dWK66OoCY0nTUecS1mR9L9faVnH.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2989992,
+      "name": "Eiad Saleh",
+      "profilePath": "/z6WKUH777ZAvusXwH06R9QtlNxo.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
@@ -183,10 +270,15 @@
       "iso_3166_1": "KW",
       "title": "Ahebak Min Zaman",
       "type": "transliteration"
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "真心慢动作",
+      "type": ""
     }
   ],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt43617119",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
