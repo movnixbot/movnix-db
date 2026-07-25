@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 45.2828,
-    "voteAverage": 6,
-    "voteCount": 17,
+    "popularity": 55.3823,
+    "voteAverage": 6.3,
+    "voteCount": 22,
     "homepage": "https://www.netflix.com/title/81701598",
     "posterPath": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
     "backdropPath": "/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg",
@@ -321,13 +321,62 @@
       "height": 1620,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/pDoA21pCHNeJAbq3dTfWDJ2m4M8.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/arRr8AupVTXLlgJcSm6hqoriY8X.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/j3azQh7oXP87Kgbx36nVwLxnfFm.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/e2c6sQ7zjAJ8OySEC87rsnhhSM0.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7PzTJ8HTX6lE4XE5fM323YvnNj5.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5JEeS70jwolhJfsNFBhxo1DTZRI.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/bBAcuSF63vnFB9Yun4aakdotW0a.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 17
+      "ratingValue": 6.3,
+      "votesCount": 22
     },
     {
       "source": "crawled",
@@ -508,7 +557,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "TH",
+      "title": "เอลีซ: หญิงสาวในเงาโศก",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt37042085",
     "wikidataId": null,
@@ -518,7 +573,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
