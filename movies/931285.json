@@ -10,9 +10,9 @@
     "budget": "80000000",
     "revenue": "129470110",
     "status": "Released",
-    "popularity": 112.2908,
-    "voteAverage": 7.98,
-    "voteCount": 2084,
+    "popularity": 109.3763,
+    "voteAverage": 7.979,
+    "voteCount": 2098,
     "homepage": "https://www.mortalkombatmovie.com",
     "posterPath": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
     "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
@@ -3451,8 +3451,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.98,
-      "votesCount": 2084
+      "ratingValue": 7.979,
+      "votesCount": 2098
     },
     {
       "source": "imdb",
@@ -3701,7 +3701,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max",
+          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Apple TV Store",
@@ -3710,7 +3715,16 @@
       ]
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max Amazon Channel",
+          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
