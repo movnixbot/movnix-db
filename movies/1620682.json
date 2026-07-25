@@ -10,14 +10,13 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 17.6303,
-    "voteAverage": 4,
-    "voteCount": 2,
+    "popularity": 24.0686,
+    "voteAverage": 4.4,
+    "voteCount": 5,
     "homepage": "https://www.netflix.com/title/82029270",
-    "posterPath": "/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
+    "posterPath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
     "backdropPath": "/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
-    "collectionId": null,
-    "certification": "PG"
+    "collectionId": null
   },
   "collection": null,
   "genres": [
@@ -38,7 +37,7 @@
   "keywords": [],
   "videos": [
     {
-      "name": "Love in Slow Motion | Official Trailer | Netflix",
+      "name": "Official Trailer",
       "key": "oCg2wXznjLo",
       "site": "YouTube",
       "size": 1080,
@@ -47,7 +46,7 @@
   ],
   "images": [
     {
-      "filePath": "/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
+      "filePath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -64,6 +63,13 @@
       "filePath": "/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
       "width": 1080,
       "height": 1620,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -103,17 +109,24 @@
       "type": "poster"
     },
     {
-      "filePath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/R6jDMJOrChWK598bAJolOTAZ5L.jpg",
       "width": 1080,
       "height": 1620,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/mjR9MAuIvW3KWj8V3Ya5mfjMVTM.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1fqFyMYJE5PjoH8Bhdejh4zjHvQ.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
       "type": "poster"
     },
     {
@@ -155,8 +168,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4,
-      "votesCount": 2
+      "ratingValue": 4.4,
+      "votesCount": 5
     },
     {
       "source": "crawled",
@@ -275,6 +288,11 @@
       "iso_3166_1": "CN",
       "title": "真心慢动作",
       "type": ""
+    },
+    {
+      "iso_3166_1": "IT",
+      "title": "Amore al rallentatore",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -290,7 +308,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
