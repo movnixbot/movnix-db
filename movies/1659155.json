@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 35.9388,
-    "voteAverage": 5,
-    "voteCount": 6,
+    "popularity": 51.4192,
+    "voteAverage": 5.8,
+    "voteCount": 9,
     "homepage": "https://www.netflix.com/title/81783055",
     "posterPath": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
     "backdropPath": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
@@ -187,8 +187,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5,
-      "votesCount": 6
+      "ratingValue": 5.8,
+      "votesCount": 9
     },
     {
       "source": "crawled",
@@ -252,6 +252,15 @@
       "order": 5
     },
     {
+      "tmdbPersonId": 2997263,
+      "name": "Armando Pita",
+      "profilePath": null,
+      "character": "Uncle",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
       "tmdbPersonId": 981313,
       "name": "Roger Gual",
       "profilePath": "/kPKfTmRJv8N5KooNsXmC8snh5jZ.jpg",
@@ -304,7 +313,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
