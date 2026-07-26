@@ -8,9 +8,9 @@
     "firstAirDate": "2026-07-22",
     "lastAirDate": "2026-07-22",
     "status": "Returning Series",
-    "popularity": 73.2496,
-    "voteAverage": 6.917,
-    "voteCount": 18,
+    "popularity": 85.5645,
+    "voteAverage": 6.9,
+    "voteCount": 24,
     "type": "Scripted",
     "posterPath": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
     "backdropPath": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
@@ -367,13 +367,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/ffW0oNfJmkaAlnL5O4VpX23OuSN.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.917,
-      "votesCount": 18
+      "ratingValue": 6.9,
+      "votesCount": 24
     }
   ],
   "credits": [
@@ -538,7 +545,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
