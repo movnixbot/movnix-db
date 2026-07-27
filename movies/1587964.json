@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.8235,
-    "voteAverage": 1,
-    "voteCount": 1,
+    "popularity": 10.2736,
+    "voteAverage": 3.8,
+    "voteCount": 4,
     "homepage": "https://www.hulu.com/movie/they-fight-a1bba82e-2550-4ffc-81df-b973b9c85339",
-    "posterPath": "/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+    "posterPath": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
     "backdropPath": "/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
     "collectionId": null,
     "certification": "R"
@@ -78,7 +78,7 @@
   ],
   "images": [
     {
-      "filePath": "/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+      "filePath": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -90,6 +90,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
@@ -144,8 +151,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 1,
-      "votesCount": 1
+      "ratingValue": 3.8,
+      "votesCount": 4
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6.2,
+      "votesCount": 19
     },
     {
       "source": "crawled",
@@ -158,7 +170,7 @@
       "tmdbPersonId": 459980,
       "name": "André Holland",
       "profilePath": "/riYqFOgYLYH4Hw8p2JYTw5lXGDE.jpg",
-      "character": "Walt Manigan",
+      "character": "Walt",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -203,7 +215,7 @@
       "tmdbPersonId": 34,
       "name": "Mykelti Williamson",
       "profilePath": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg",
-      "character": null,
+      "character": "Coach Mac",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -211,7 +223,7 @@
     {
       "tmdbPersonId": 5840150,
       "name": "Tory J. Malone",
-      "profilePath": null,
+      "profilePath": "/nhvRBVcJaH1Lf4ReYhd6BbtFpc1.jpg",
       "character": "Twin",
       "job": "Actor",
       "department": "Acting",
@@ -221,7 +233,7 @@
       "tmdbPersonId": 1507385,
       "name": "J. Alphonse Nicholson",
       "profilePath": "/3Z0rqaMX65Lh4SFtEZz2cdHUHW5.jpg",
-      "character": null,
+      "character": "Turk",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -230,7 +242,7 @@
       "tmdbPersonId": 1704660,
       "name": "Tinashe Kajese",
       "profilePath": "/xL68RNuAsTOsm89DP5rOHBC24i2.jpg",
-      "character": null,
+      "character": "Chanel",
       "job": "Actor",
       "department": "Acting",
       "order": 8
@@ -239,7 +251,7 @@
       "tmdbPersonId": 1170657,
       "name": "Amanda Warren",
       "profilePath": "/zoI2ejKVCDs7dy7RL1hGVOHOaXo.jpg",
-      "character": null,
+      "character": "Michelle",
       "job": "Actor",
       "department": "Acting",
       "order": 9
@@ -248,10 +260,19 @@
       "tmdbPersonId": 74957,
       "name": "Andre Royo",
       "profilePath": "/tJzftaUtVvZs2RkFt2iQlQ5QWEh.jpg",
-      "character": null,
+      "character": "G. Antonio",
       "job": "Actor",
       "department": "Acting",
       "order": 10
+    },
+    {
+      "tmdbPersonId": 98418,
+      "name": "Joel Steingold",
+      "profilePath": "/tESl7jKTF6oFwurkvnvDWrvkL24.jpg",
+      "character": "Principal Moore",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
     },
     {
       "tmdbPersonId": 648685,
