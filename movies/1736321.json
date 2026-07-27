@@ -133,5 +133,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1736321/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1736321,
+    "hash": "7e89dfdba058d3ce5310097146a96cd65676c361376fb703e7fb16455d0f9149",
+    "summary_one_sentence": "An amnesiac paper craftsman accompanies a hunted half-paper doll on a quest to retrieve magical artifacts, ultimately confronting a heartbreaking century-old tragedy that has transformed a legendary figure into a vengeful spider demon.",
+    "summary_short": "Bai Xiaoman, a paper craftsman suffering from amnesia, rescues Hu Bugui, a half-paper doll who has just three days to locate the treasures necessary to restore his human form. To aid in his quest and unravel her own lost past, Bai Xiaoman joins him on a journey into the mystical Hidden Market using the Tiger Talisman to seek Rootless Water. There, they encounter Meng Po (Meng Ruyi), whose century-old heartbreak and obsession with her lost lover Lu Ming have twisted her into a dangerous spider demon. Teaming up with Lu Ming's reincarnation, the duo must battle to redeem the vengeful spirit before her obsession destroys everything.",
+    "summary_long": "The story follows Bai Xiaoman, an amnesiac paper craftsman who rescues a mysterious half-paper doll named Hu Bugui. Hu Bugui is being hunted and faces a dire deadline: he has only three days to gather the essential treasures required to regain his full human form. Intrigued by the quest and hoping to recover her own lost memories along the way, Bai Xiaoman agrees to accompany him on his journey. Utilizing the powerful Tiger Talisman, the pair gains entry into the enigmatic Hidden Market to search for the elusive Rootless Water. During their investigation, they come face-to-face with Meng Po, also known as Meng Ruyi, who is trapped in a realm of tragic memories. They discover her painful history of being separated from her true love, Lu Ming, due to unyielding societal class barriers. Overwhelmed by grief and unable to move on, Meng Ruyi's century-old obsession transforms her into a terrifying spider demon that begins to wreak havoc. Realizing that redemption is her only peace, Bai Xiaoman and Hu Bugui track down Lu Ming's reincarnation to help appease her sorrow. Together, they unite to face the monster in a fierce and emotional final battle to break the curse of her lingering vendetta.",
+    "synopsis": "When an amnesiac paper craftsman named Bai Xiaoman saves a half-paper doll facing a three-day deadline to regain his humanity, the two embark on a dangerous journey into the realm of the Hidden Market. Armed with the Tiger Talisman, they seek the legendary Rootless Water to unlock their hidden pasts. However, their quest entangles them in a tragic, century-old mystery involving Meng Po and a devotion so intense it corrupted her into a vengeful spider demon, forcing the travelers into an epic clash between dark obsessions and the hope for redemption.",
+    "keywords": [
+      "amnesiac protagonist",
+      "paper magic",
+      "half-paper doll",
+      "time limit",
+      "quest for humanity",
+      "hidden market",
+      "tiger talisman",
+      "tragic romance",
+      "class barriers",
+      "spider demon",
+      "century-old obsession",
+      "reincarnation",
+      "redemption arc",
+      "Chinese folklore",
+      "supernatural fantasy"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Forbidden Love",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Identity & Memory",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Redemption",
+        "confidence": 0.89
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Bai Xiaoman and Hu Bugui team up with the reincarnation of Lu Ming to confront the spider demon in a fierce battle, attempting to redeem Meng Ruyi and break her century-old curse.",
+      "conflict": "Hu Bugui's racing against a strict three-day clock to find the required treasures, beginning with entering the mysterious Hidden Market using the Tiger Talisman to secure the Rootless Water.",
+      "resolution": "The outcome of the battle determines whether Meng Ruyi finds peace, allowing Bai Xiaoman and Hu Bugui to continue their quest for his remaining treasures and the truth behind their memories.",
+      "introduction": "Bai Xiaoman, an amnesiac paper craftsman, rescues Hu Bugui, a half-paper doll hunted by enemies who has only three days to gather the magical treasures needed to regain his human form. Seeking answers to both of their lost pasts, Bai Xiaoman agrees to join him on his perilous journey.",
+      "risingAction": "Upon entering the Hidden Market, the duo encounters Meng Po (Meng Ruyi), who is trapped by a century-old tragic heartbreak involving her former lover, Lu Ming. Overcome by intense obsession and grief, Meng Po transforms into a monstrous spider demon and unleashes havoc."
+    },
+    "characters": [
+      {
+        "name": "Bai Xiaoman",
+        "role": "Hero",
+        "description": "An amnesiac paper craftsman who rescues Hu Bugui and decides to accompany him on an adventure to help recover his lost memories."
+      },
+      {
+        "name": "Hu Bugui",
+        "role": "Hero",
+        "description": "A hunted half-paper doll who has three days to find treasures to regain his human form and lost memories alongside Bai Xiaoman."
+      },
+      {
+        "name": "Meng Po / Meng Ruyi",
+        "role": "Villain",
+        "description": "A woman trapped by a century-old obsession who transforms into a spider demon and wreaks havoc due to past heartbreak."
+      },
+      {
+        "name": "Lu Ming",
+        "role": "Supporting Character",
+        "description": "Meng Ruyi's past lover whose separation by class barriers sparked her obsession; his reincarnation is sought out to help redeem her."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bai Xiaoman",
+        "target": "Hu Bugui",
+        "description": "Companions / Allies"
+      },
+      {
+        "source": "Hu Bugui",
+        "target": "Bai Xiaoman",
+        "description": "Rescuer / Companion"
+      },
+      {
+        "source": "Meng Po (Meng Ruyi)",
+        "target": "Lu Ming",
+        "description": "Former Lovers"
+      },
+      {
+        "source": "Lu Ming",
+        "target": "Meng Po (Meng Ruyi)",
+        "description": "Former Lovers"
+      },
+      {
+        "source": "Bai Xiaoman",
+        "target": "Meng Po (Meng Ruyi)",
+        "description": "Adversaries"
+      },
+      {
+        "source": "Hu Bugui",
+        "target": "Meng Po (Meng Ruyi)",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "mystic-tales-the-spider-ladys-vendetta",
+      "jsonLd": {
+        "name": "Mystic Tales - The Spider Lady's Vendetta",
+        "@type": "Movie",
+        "genre": [
+          "Fantasy",
+          "Action",
+          "Adventure"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The amnesiac paper craftsman Bai Xiaoman rescues Hu Bugui, a half-paper doll who is being hunted and has only three days to find the treasures needed to regain his human form. Bai Xiaoman decides to accompany him on an adventure to help him recover his lost memories."
+      },
+      "keywords": [
+        "Mystic Tales The Spider Ladys Vendetta",
+        "Mystic Tales",
+        "Spider Lady Vendetta movie",
+        "Bai Xiaoman",
+        "Hu Bugui",
+        "Chinese fantasy film",
+        "paper craftsman fantasy"
+      ],
+      "canonical": "[https://movnix.com/movie/mystic-tales-the-spider-ladys-vendetta](https://movnix.com/movie/mystic-tales-the-spider-ladys-vendetta)",
+      "metaTitle": "Mystic Tales - The Spider Lady's Vendetta | Fantasy Movie",
+      "openGraph": {
+        "og:title": "Mystic Tales - The Spider Lady's Vendetta",
+        "og:description": "Join Bai Xiaoman and Hu Bugui on a fantasy quest through the Hidden Market to uncover lost memories and battle a vengeful spider demon."
+      },
+      "twitterCard": {
+        "twitter:title": "Mystic Tales - The Spider Lady's Vendetta",
+        "twitter:description": "Join Bai Xiaoman and Hu Bugui on a fantasy quest through the Hidden Market to uncover lost memories and battle a vengeful spider demon."
+      },
+      "metaDescription": "Bai Xiaoman aids half-paper doll Hu Bugui in a quest for lost memories and magic, facing a tragic spider demon in Mystic Tales - The Spider Lady's Vendetta."
+    },
+    "faq": [
+      {
+        "answer": "The movie is primarily a Chinese fantasy adventure featuring supernatural folklore, martial arts, romance, and dark revenge themes.",
+        "question": "What is the dominant genre of Mystic Tales - The Spider Lady's Vendetta?"
+      },
+      {
+        "answer": "Yes, it is part of the 'Mystic Tales' series of films that explore traditional Chinese supernatural folklore and fantasy mythology.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Mystic Tales - The Spider Lady's Vendetta; the story wraps up cleanly prior to the end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story centers on Bai Xiaoman, an amnesiac paper craftsman; Hu Bugui, a half-paper doll seeking to regain his human form; Meng Po (Meng Ruyi), a grief-stricken spider demon; and Lu Ming, her reincarnated past lover.",
+        "question": "Who are the main characters in Mystic Tales - The Spider Lady's Vendetta?"
+      },
+      {
+        "answer": "Bai Xiaoman joins forces with Hu Bugui, who has only three days to locate rare mythical artifacts to become fully human. Their quest takes them into the Hidden Market for Rootless Water, where they encounter a tragic spider demon consumed by a century-old love story.",
+        "question": "What is the central plot of the movie?"
+      },
+      {
+        "answer": "The film has a concise feature runtime of 68 minutes (1 hour and 8 minutes).",
+        "question": "How long is the runtime of Mystic Tales - The Spider Lady's Vendetta?"
+      },
+      {
+        "answer": "Mystic Tales - The Spider Lady's Vendetta is an AI-generated (AIGC) Chinese fantasy film, blending traditional Asian folklore aesthetics with advanced AI visuals.",
+        "question": "What production technique makes this movie unique?"
+      },
+      {
+        "answer": "The film is available to stream internationally on the iQIYI streaming platform with multi-language subtitle support.",
+        "question": "Where can viewers stream Mystic Tales - The Spider Lady's Vendetta?"
+      },
+      {
+        "answer": "Meng Po (Meng Ruyi) transforms into a vengeful spider demon after being tragically separated from her lover, Lu Ming, by class barriers, trapping her in a century-old obsession and grief.",
+        "question": "Why does Meng Po transform into the spider demon?"
+      },
+      {
+        "answer": "They enter the Hidden Market using the Tiger Talisman specifically to obtain 'Rootless Water,' one of the vital components needed to restore Hu Bugui's human body.",
+        "question": "What specific item do Bai Xiaoman and Hu Bugui seek in the Hidden Market?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Features dark fantasy elements, unnatural creature transformations, and eerie atmospheric settings like the Hidden Market."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no crude or offensive language indicated."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Includes fantasy action, a manhunt, demon transformations, and a fierce climax battle."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Contains minor fantastical/mythological elixir references such as Rootless Water."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit material present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Contains strong emotional themes involving tragic romance, century-long obsession, loss of humanity, and memory loss."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 8,
+      "romance": 7,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:44:28.74865",
+    "updated_at": "2026-07-27 23:44:28.74865"
+  }
 }
