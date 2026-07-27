@@ -464,5 +464,161 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1484913/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1484913,
+    "hash": "b6055164e2170d3ac19561aa486479c88f387ad719d67d51d1a3de56a12ce600",
+    "summary_one_sentence": "A compelling dramatic narrative explores the complex emotional journeys and personal struggles of its central characters as they navigate sudden adversity.",
+    "summary_short": "This dramatic feature delves deep into the intricate dynamics of human relationships and personal adversity. As the central characters navigate unforeseen hardships, their emotional resilience is put to the ultimate test. Through poignant moments and high-stakes conflict, the story uncovers profound truths about forgiveness and growth. Ultimately, it offers a moving reflection on the power of hope and human connection.",
+    "summary_long": "Set against a backdrop of personal conflict, the story follows a group of individuals struggling to reconcile their past mistakes with an uncertain future. When an unexpected crisis strikes their community, long-buried secrets begin to surface, threatening to tear apart their fragile bonds. Each character must confront their own inner demons as emotional tensions escalate to a boiling point. As choices become increasingly difficult, moral compromises test their loyalty to one another. Midway through the narrative, a pivotal revelation forces everyone to re-examine their motivations and true desires. Despite the mounting pressure, small acts of compassion offer a glimmer of redemption amidst the turmoil. The climax brings powerful confrontations that demand honest reconciliation and personal accountability. In the aftermath, the characters begin the slow, realistic process of healing and rebuilding their fractured lives. The film concludes on a reflective note, emphasizing the enduring strength found in vulnerability.",
+    "synopsis": "A rich, spoiler-free dramatic overview highlighting a character-driven journey through redemption, moral dilemmas, and emotional growth when unexpected life changes challenge a group's core relationships.",
+    "keywords": [
+      "character study",
+      "emotional conflict",
+      "existential dread",
+      "family tension",
+      "moral dilemma",
+      "slow burn",
+      "melancholy",
+      "human condition",
+      "interpersonal drama",
+      "tragic past",
+      "redemption arc",
+      "slice of life"
+    ],
+    "themes": [
+      {
+        "theme": "Data Extraction & Processing",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Digital Illusion / Reality",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Neutral",
+        "confidence": 0.5
+      }
+    ],
+    "story_structure": {
+      "climax": "The narrative reaches its peak emotional and dramatic moment during a decisive confrontation where the core conflict must be directly faced.",
+      "conflict": "A central challenge or threat emerges, forcing the protagonist out of their comfort zone and establishing the primary stakes.",
+      "resolution": "The dust settles following the climactic turning point, outlining the aftermath and establishing a new normal for the main characters.",
+      "introduction": "The story establishes the protagonist's daily life, world setting, and baseline state before an unexpected event disrupts the status quo.",
+      "risingAction": "Complications intensify as the characters attempt to address the challenge, encountering escalating obstacles, heightened tension, and personal setbacks."
+    },
+    "characters": [],
+    "relationships": [],
+    "seo": {
+      "slug": "mock-movie",
+      "jsonLd": {
+        "name": "Mock Movie",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "mock movie",
+        "watch mock movie",
+        "mock movie plot",
+        "mock movie overview",
+        "movnix"
+      ],
+      "canonical": "[https://movnix.com/movie/mock-movie](https://movnix.com/movie/mock-movie)",
+      "metaTitle": "Mock Movie - Watch Online & Full Movie Details | Movnix",
+      "openGraph": {
+        "og:title": "Mock Movie - Watch Online & Full Details | Movnix",
+        "og:description": "Explore plot summaries, cast details, and streaming options for Mock Movie on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Mock Movie - Watch Online & Full Details | Movnix",
+        "twitter:description": "Explore plot summaries, cast details, and streaming options for Mock Movie on Movnix."
+      },
+      "metaDescription": "Explore plot summaries, cast details, and streaming options for Mock Movie on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre depends on the specific film, but it typically falls into primary categories such as Drama, Action, Comedy, Sci-Fi, or Thriller as outlined in the film's overview.",
+        "question": "What is the dominant genre of this movie?"
+      },
+      {
+        "answer": "You can check the movie overview or series metadata to confirm whether this title is a standalone release, a sequel, a prequel, or part of a larger cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Whether a film includes mid-credits or post-credits scenes varies by production. Major blockbuster releases and franchise entries frequently feature bonus scenes at the end of the credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Films are often original screenplays or adapted from existing materials like novels, memoirs, or historic events. Review the source details in the film's synopsis to confirm its origin.",
+        "question": "Is this movie based on a true story or a book?"
+      },
+      {
+        "answer": "The director's name can be found in the primary metadata credits on the movie page or full cast and crew list.",
+        "question": "Who directed the movie?"
+      },
+      {
+        "answer": "The total duration is specified in the movie details section, usually ranging between 90 minutes and 180 minutes for standard theatrical feature films.",
+        "question": "What is the runtime of the movie?"
+      },
+      {
+        "answer": "Content ratings (such as PG, PG-13, or R) are assigned by official rating boards based on factors like violence, language, and mature themes present in the film.",
+        "question": "What is the age or content rating for this movie?"
+      },
+      {
+        "answer": "The primary cast members are listed under the top billing or cast section of the movie details page.",
+        "question": "Who are the main lead actors starring in the film?"
+      },
+      {
+        "answer": "Filming locations vary across productions and can involve soundstages, real-world urban locations, or international scenic spots as listed in the production notes.",
+        "question": "Where was the movie filmed?"
+      },
+      {
+        "answer": "Streaming availability depends on licensing agreements in your region. You can check major streaming services or digital storefronts to find where it is currently hosted.",
+        "question": "Is the movie available on streaming platforms?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No content provided to evaluate horror elements."
+      },
+      "language": {
+        "score": 0,
+        "description": "No content provided to evaluate strong language."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No content provided to evaluate violence."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No content provided to evaluate substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No content provided to evaluate sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 0,
+        "description": "No content provided to evaluate emotional intensity."
+      }
+    },
+    "movie_dna": {
+      "drama": 0,
+      "action": 0,
+      "comedy": 0,
+      "emotion": 0,
+      "fantasy": 0,
+      "mystery": 0,
+      "romance": 0,
+      "science": 0,
+      "suspense": 0,
+      "violence": 0
+    },
+    "created_at": "2026-07-27 23:50:31.380247",
+    "updated_at": "2026-07-27 23:50:31.380247"
+  }
 }
