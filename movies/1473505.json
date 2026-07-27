@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.2613,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 5.0751,
+    "voteAverage": 7.5,
+    "voteCount": 2,
     "homepage": "https://killtripmovie.com/",
     "posterPath": "/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg",
     "backdropPath": "/9NkPCbhywlcINLUKQOGNHNp1ALk.jpg",
@@ -90,6 +90,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7.5,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -266,7 +271,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
