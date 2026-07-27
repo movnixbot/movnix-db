@@ -415,5 +415,257 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1377237/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1377237,
+    "hash": "953f2f3013d8dc3c2c8af8aac8d5a9986b377db21401514fb1219ac50ebfa22b",
+    "summary_one_sentence": "A former soldier must outrun a ruthless cartel and navigate deep betrayal to deliver a critical medical package in time to save a young child's life.",
+    "summary_short": "When a vital medical delivery is hijacked by a lethal drug cartel, a former soldier finds himself thrust into a high-stakes race against the clock. Hunted by relentless mercenaries and unsure of who to trust, he must draw on his combat skills to survive the relentless pursuit. With corrupt allies closing in, every decision counts as time rapidly runs out for an innocent child. Ultimately, he must overcome insurmountable odds to complete his life-saving mission.",
+    "summary_long": "Haunted by his past, a former soldier takes on what seems like a straightforward transport job: delivering a critical medical payload needed to save a gravely ill child. However, the stakes escalate instantly when a powerful cartel ambushes the transfer, seeking the cargo for their own sinister motives. Forced into a high-octane game of cat and mouse across hostile territory, the veteran must rely on his tactical training and sharp instincts to stay one step ahead. Along the way, he uncovers a web of corruption, realizing that figures within his own inner circle are secretly aiding the syndicate. As the chase intensifies, he faces explosive confrontations, lethal betrayals, and narrowing escape routes. Despite sustaining injuries and running low on resources, his commitment to protecting the helpless child never wavers. In a pulse-pounding final showdown, he confronts his pursuers head-on to clear a path to the hospital. Ultimately, his bravery and resilience culminate in a desperate, final dash to deliver the cure before the clock reaches zero.",
+    "synopsis": "Runner is a high-octane thriller centered on a former soldier tasked with an urgent, life-saving delivery: transporting a critical medical shipment essential for a dying child. What begins as a race against time quickly devolves into a brutal battle for survival when a ruthless cartel targets the package. Caught between dangerous syndicate enforcers and unexpected betrayals within his own network, the protagonist must navigate a treacherous landscape where trust is a liability and speed is his only defense. Combining intense action sequences with gripping drama and sharp comedic beats, the film delivers a tense, edge-of-your-seat pursuit focused on redemption, resilience, and the relentless drive to protect an innocent life.",
+    "keywords": [
+      "race against time",
+      "former soldier",
+      "high-stakes delivery",
+      "cartel target",
+      "betrayal",
+      "survival chase",
+      "child in peril",
+      "relentless pursuit",
+      "one man army",
+      "high-octane action",
+      "deadly cargo",
+      "action thriller",
+      "desperate mission"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Betrayal",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Duty and Loyalty",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Cornered near his destination with time nearly exhausted, the protagonist makes a final, dangerous stand against the cartel's enforcers and the traitor to secure the passage of the medical delivery.",
+      "conflict": "A ruthless cartel learns of the urgent delivery and moves to intercept the valuable cargo, sparking a deadly pursuit across hostile territory while the clock ticks down.",
+      "resolution": "With the threat neutralized, the cargo reaches the child in time, leaving the protagonist to reckon with the aftermath of the betrayal and step back into the shadows.",
+      "introduction": "A former soldier leads a quiet, post-military life until he takes on a high-stakes assignment to transport a critical medical shipment needed to save an innocent child's life.",
+      "risingAction": "As the protagonist navigates relentless ambushes and tight deadlines, he discovers signs of internal betrayal, realizing that enemies within his own network are coordinating with the cartel to ensure he fails."
+    },
+    "characters": [
+      {
+        "name": "Hank Malone",
+        "role": "Hero",
+        "description": "A former soldier and courier who risks everything in a high-stakes race against time to transport a critical medical delivery and save a child's life."
+      },
+      {
+        "name": "Damian Zaldívar",
+        "role": "Villain",
+        "description": "The ruthless head of a dangerous crime syndicate who relentlessly pursues the medical shipment to sell it on the black market."
+      },
+      {
+        "name": "Ben Bishop",
+        "role": "Comic Relief",
+        "description": "A medical courier who partners with Hank to navigate the chaotic delivery and provide key assistance along the journey."
+      },
+      {
+        "name": "Kate Baker",
+        "role": "Supporting Character",
+        "description": "A key ally who assists Hank and Ben as danger escalates from the pursuing cartel."
+      },
+      {
+        "name": "Scarlett Crabtree",
+        "role": "Other",
+        "description": "The innocent young child in desperate need of the life-saving transplant."
+      },
+      {
+        "name": "Adriana Barraza",
+        "role": "Mentor",
+        "description": "A grounded supporting figure providing guidance and aid to protect the innocent child."
+      },
+      {
+        "name": "Luke",
+        "role": "Villain",
+        "description": "A formidable cartel enforcer working under Zaldívar to intercept the delivery."
+      },
+      {
+        "name": "Julie",
+        "role": "Supporting Character",
+        "description": "An associate involved in the high-stakes logistics of the emergency medical transfer."
+      },
+      {
+        "name": "Monica",
+        "role": "Supporting Character",
+        "description": "A medical professional monitoring the critical timer for the transplant operation."
+      },
+      {
+        "name": "Adam Fraser",
+        "role": "Supporting Character",
+        "description": "A secondary figure tied to the surrounding conflict and high-velocity chase."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Former Soldier",
+        "target": "Ruthless Cartel",
+        "description": "Enemies / Hunted and Hunters"
+      },
+      {
+        "source": "Former Soldier",
+        "target": "Innocent Child",
+        "description": "Protector / Lifesaver"
+      },
+      {
+        "source": "Former Soldier",
+        "target": "Traitorous Allies",
+        "description": "Victim of Betrayal"
+      },
+      {
+        "source": "Ruthless Cartel",
+        "target": "Innocent Child",
+        "description": "Threat / Threatener"
+      }
+    ],
+    "seo": {
+      "slug": "runner",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/runner](https://movnix.com/movie/runner)",
+        "name": "Runner",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him the target of a ruthless cartel. With betrayal closing in from every side, he must survive the chase and deliver his cargo before an innocent child runs out of time."
+      },
+      "keywords": [
+        "Runner movie",
+        "Runner film synopsis",
+        "action thriller movie",
+        "cartel thriller",
+        "medical delivery race",
+        "Runner plot overview",
+        "action movie 2026"
+      ],
+      "canonical": "[https://movnix.com/movie/runner](https://movnix.com/movie/runner)",
+      "metaTitle": "Runner (Movie) - Synopsis, Plot & Release Details | Movnix",
+      "openGraph": {
+        "og:title": "Runner - Official Movie Details & Synopsis",
+        "og:description": "A former soldier races against a ruthless cartel to deliver life-saving medicine before time runs out. Get the plot details and updates on Runner."
+      },
+      "twitterCard": {
+        "twitter:title": "Runner - Action Thriller Movie Plot & Overview",
+        "twitter:description": "A former soldier faces a ruthless cartel in a high-stakes race against time to save a child's life. Read the full synopsis for Runner."
+      },
+      "metaDescription": "A former soldier races against a ruthless cartel to deliver critical medicine and save an innocent child. Discover the plot, trailer, and details for Runner."
+    },
+    "faq": [
+      {
+        "answer": "Runner is primarily an action thriller with strong element of suspense and high-stakes drama.",
+        "question": "What is the dominant genre of Runner?"
+      },
+      {
+        "answer": "The film follows a former soldier who must navigate a dangerous city while carrying a critical medical delivery needed to save an innocent child's life, all while being hunted by a ruthless cartel and facing betrayal on all sides.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "No, Runner is an original standalone story and is not currently part of any film franchise, sequel, or cinematic universe.",
+        "question": "Is Runner part of an existing franchise?"
+      },
+      {
+        "answer": "No, there are no post-credits or mid-credits scenes. The story concludes completely before the credits roll.",
+        "question": "Is there a post-credits scene in Runner?"
+      },
+      {
+        "answer": "The main protagonist is a former military veteran who relies on his tactical training, endurance, and street smarts to survive the relentless pursuit.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "The core themes include sacrifice, redemption, resilience against overwhelming odds, and moral duty under extreme pressure.",
+        "question": "What are the primary themes explored in Runner?"
+      },
+      {
+        "answer": "The primary threat comes from a ruthless drug cartel determined to intercept the critical delivery, along with corrupt figures orchestrating betrayals behind the scenes.",
+        "question": "Who is the main antagonist in the movie?"
+      },
+      {
+        "answer": "Due to intense action sequences, violence, high stress situations, and mature thriller elements, Runner is intended for teen and adult audiences.",
+        "question": "Is Runner suitable for younger audiences?"
+      },
+      {
+        "answer": "The movie takes place over a brief, intense window of time across urban environments and dangerous territory controlled by criminal syndicates.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The stakes are urgent and deeply personal because a child's life directly depends on the delivery arriving on time, giving every second of the race fatal consequences.",
+        "question": "What makes the stakes so high in this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited to tension and peril typical of action thrillers."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to strong language likely present given the high-stakes cartel theme."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence implied by cartel conflict, armed chase scenarios, and brutal threats."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Moderate drug references or involvement linked to cartel elements and illegal operations."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by a race-against-time plot involving a dying child and constant betrayal."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 2,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 23:49:59.383805",
+    "updated_at": "2026-07-27 23:49:59.383805"
+  }
 }
