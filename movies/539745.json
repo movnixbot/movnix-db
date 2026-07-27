@@ -1051,5 +1051,299 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/539745/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 539745,
+    "hash": "f986f86184fb420316e1eba6c5571556b29d8faa054b1a7a63bc47ea76b3f33d",
+    "summary_one_sentence": "When mistreated farm animals overthrow their human master to build an egalitarian society, the power-hungry pigs gradually subvert the revolution into an even harsher totalitarian regime.",
+    "summary_short": "Neglected and mistreated by their farmer, the animals of Manor Farm revolt and establish a self-governed society founded on the principle of complete equality among all creatures. However, as the pigs step into leadership roles, personal ambitions and rivalries quickly undermine the ideals of the revolution. Propaganda, censorship, and fear tactics are weaponized to suppress opposition and consolidate absolute authority. Ultimately, the new regime becomes indistinguishable from the oppressive human rule they fought so hard to overthrow.",
+    "summary_long": "Driven to rebellion by the neglect and cruelty of Farmer Jones, the livestock of Manor Farm successfully drive him away and rename their home Animal Farm. Under the guidance of two prominent pigs, Snowball and Napoleon, the animals establish 'Animalism' and construct a set of commandments prioritizing animal equality and freedom. Initial productivity and morale run high as the community works together to build a windmill and secure their future. Tensions soon arise between the visionary Snowball and the cunning Napoleon, culminating in Napoleon using a pack of vicious dogs to violently banish his rival. With Snowball gone, Napoleon assumes total control, scapegoating his former ally for every misfortune and gradually altering the core commandments to suit his desires. As the workload increases and rations shrink for the working animals, the pigs grant themselves special privileges, human comforts, and absolute political power. Dissent is ruthlessly crushed through show trials and public executions, leaving the remaining animals intimidated and disillusioned. By the end, the original principles of the rebellion are erased, replaced by a single decree that 'some animals are more equal than others.'",
+    "synopsis": "An animated allegory based on George Orwell's classic novel, 'Animal Farm' explores the promises and perils of popular revolution. Following a successful revolt against their human owner, a community of farm animals attempts to establish a utopian society based on equality and shared labor. However, as leadership consolidates among the farm's cunning pigs, noble ideals succumb to corruption, manipulation, and tyranny, offering a poignant look at how power can betray a movement's founding dreams.",
+    "keywords": [
+      "allegory",
+      "political satire",
+      "totalitarianism",
+      "corrupted revolution",
+      "propaganda",
+      "class struggle",
+      "dystopian",
+      "anthropomorphic animals",
+      "power corruption",
+      "farm setting",
+      "authoritarianism",
+      "betrayal",
+      "manipulation of truth"
+    ],
+    "themes": [
+      {
+        "theme": "Corruption of Power",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Propaganda and Manipulation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Betrayal of Revolutionary Ideals",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Class Warfare and Inequality",
+        "confidence": 0.9
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Cynical",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A devastating betrayal occurs when Boxer, the farm's most loyal worker, falls ill and is sold off, exposing the leadership's complete corruption.",
+      "conflict": "The animals successfully expel their neglectful owner, Mr. Jones, and establish Animalism, but ideological rivalries emerge over how the farm should be run.",
+      "resolution": "The pigs adopt the habits, clothing, and oppressive behaviors of humans, leaving the other animals unable to tell the new rulers apart from the old tyrants.",
+      "introduction": "On Manor Farm, an old boar named Major inspires the overworked animals to dream of a self-governed society free from human exploitation.",
+      "risingAction": "Napoleon ousts his chief rival, takes control of the farm, and slowly alters the core principles of Animalism to consolidate his authority and privilege."
+    },
+    "characters": [
+      {
+        "name": "Lucky",
+        "role": "Hero",
+        "description": "An idealist piglet and central protagonist who seeks genuine equality and freedom on the farm."
+      },
+      {
+        "name": "Napoleon",
+        "role": "Villain",
+        "description": "A power-hungry pig who usurps control of the rebellion and rules the farm as a tyrant."
+      },
+      {
+        "name": "Old Major",
+        "role": "Mentor",
+        "description": "An elder boar whose vision of animal liberation inspires the initial revolution."
+      },
+      {
+        "name": "Boxer",
+        "role": "Supporting Character",
+        "description": "A loyal, hardworking cart-horse dedicated to the farm's cause despite being exploited."
+      },
+      {
+        "name": "Squealer",
+        "role": "Supporting Character",
+        "description": "Napoleon's manipulative propaganda minister who rewrites history to justify tyranny."
+      },
+      {
+        "name": "Snowball",
+        "role": "Anti Hero",
+        "description": "An intelligent, rival pig leader whose idealistic revolutionary ideas conflict with Napoleon."
+      },
+      {
+        "name": "Benjamin",
+        "role": "Other",
+        "description": "A cynical donkey who remains skeptical of political promises and revolutionary propaganda."
+      },
+      {
+        "name": "Carl",
+        "role": "Comic Relief",
+        "description": "An easily manipulated, repetitive farm sheep who blindly chants revolutionary slogans."
+      },
+      {
+        "name": "Mr. Jones",
+        "role": "Villain",
+        "description": "The cruel and neglectful human owner of Manor Farm whose poor treatment sparks the uprising."
+      },
+      {
+        "name": "Mr. Whymper",
+        "role": "Supporting Character",
+        "description": "A human solicitor hired by Napoleon to act as an intermediary between Animal Farm and human society."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Old Major",
+        "target": "Snowball",
+        "description": "Ideological Inspiration"
+      },
+      {
+        "source": "Old Major",
+        "target": "Napoleon",
+        "description": "Ideological Inspiration"
+      },
+      {
+        "source": "Snowball",
+        "target": "Napoleon",
+        "description": "Rivals / Political Opponents"
+      },
+      {
+        "source": "Napoleon",
+        "target": "Squealer",
+        "description": "Leader and Propaganda Spokesman"
+      },
+      {
+        "source": "Napoleon",
+        "target": "Boxer",
+        "description": "Ruler and Exploited Worker"
+      },
+      {
+        "source": "Snowball",
+        "target": "Boxer",
+        "description": "Comrades-in-arms"
+      },
+      {
+        "source": "Mr. Jones",
+        "target": "The Animals",
+        "description": "Oppressive Former Master"
+      },
+      {
+        "source": "Boxer",
+        "target": "Clover",
+        "description": "Close Friends / Fellow Workhorses"
+      },
+      {
+        "source": "Benjamin",
+        "target": "Boxer",
+        "description": "Devoted Friends"
+      },
+      {
+        "source": "Napoleon",
+        "target": "The Dogs",
+        "description": "Master and Enforcers"
+      },
+      {
+        "source": "Napoleon",
+        "target": "Mr. Frederick",
+        "description": "Hostile Neighbors / Business Partners"
+      },
+      {
+        "source": "Napoleon",
+        "target": "Mr. Pilkington",
+        "description": "Rivals / Alliance Partners"
+      }
+    ],
+    "seo": {
+      "slug": "animal-farm",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/animal-farm](https://movnix.com/movie/animal-farm)",
+        "name": "Animal Farm",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed."
+      },
+      "keywords": [
+        "animal farm movie",
+        "animal farm summary",
+        "george orwell animal farm",
+        "animal farm adaptation",
+        "political allegory film"
+      ],
+      "canonical": "[https://movnix.com/movie/animal-farm](https://movnix.com/movie/animal-farm)",
+      "metaTitle": "Animal Farm (Movie) - Plot Summary, Reviews & Where to Watch",
+      "openGraph": {
+        "og:title": "Animal Farm - The Classic Allegorical Tale",
+        "og:description": "When animals revolt for freedom, pig leadership turns dream into tyranny. Read the full overview and details for Animal Farm."
+      },
+      "twitterCard": {
+        "twitter:title": "Animal Farm - Movie Overview & Details",
+        "twitter:description": "A farm revolt against human tyranny devolves into total oppression. Discover the story of Animal Farm."
+      },
+      "metaDescription": "A farm animal revolution against tyranny devolves into pig-led oppression. Explore Animal Farm's story, themes, and viewing details."
+    },
+    "faq": [
+      {
+        "answer": "Animal Farm is primarily an allegorical political drama and satirical animation.",
+        "question": "What is the dominant genre of Animal Farm?"
+      },
+      {
+        "answer": "No, Animal Farm is a standalone adaptation based on George Orwell's novella and is not part of a cinematic franchise or connected universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Animal Farm does not contain any post-credits scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Yes, it is an adaptation of George Orwell's classic 1945 allegorical novella of the same name.",
+        "question": "Is Animal Farm based on a book?"
+      },
+      {
+        "answer": "The story follows farm animals who overthrow their abusive human owner to establish an egalitarian society, only for a power-hungry group of pigs to hijack the revolution and form a new dictatorship.",
+        "question": "What is the central story premise of Animal Farm?"
+      },
+      {
+        "answer": "The narrative is a direct allegory for the 1917 Russian Revolution and the subsequent rise of Stalinist totalitarianism in the Soviet Union.",
+        "question": "What historical real-world events does Animal Farm represent?"
+      },
+      {
+        "answer": "The key themes include political corruption, the manipulation of propaganda, the abuse of power, class division, and the betrayal of revolutionary ideals.",
+        "question": "What major political and social themes are explored?"
+      },
+      {
+        "answer": "While it features animated animals, the story deals with dark themes like betrayal, state violence, propaganda, and oppression, making it better suited for older children, teens, and adults.",
+        "question": "Is Animal Farm suitable for young children?"
+      },
+      {
+        "answer": "The revolution is initially led by Old Major (an idealist pig), followed by Snowball and Napoleon, who eventually compete for total control over the farm.",
+        "question": "Who are the primary leaders of the animal revolution?"
+      },
+      {
+        "answer": "It highlights the ultimate hypocrisy of the governing pigs, who subverted the original commandment of animal equality to justify their own elite privileges and tyrannical rule.",
+        "question": "What does the phrase 'All animals are equal, but some animals are more equal than others' mean?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low horror element, but features unsettling and chilling totalitarian themes, psychological intimidation, and grim betrayals."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no profanity or explicit foul language."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy thematic violence, including animal slaughters, executions, public purges, and violent battles with humans."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild substance use, primarily involving pigs drinking alcohol (beer and whiskey) to excess as a sign of corruption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from betrayal, oppressive totalitarian control, crushing tragic events, and loss of freedom."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 4,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 7,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 7,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:49:58.543775",
+    "updated_at": "2026-07-27 23:49:58.543775"
+  }
 }
