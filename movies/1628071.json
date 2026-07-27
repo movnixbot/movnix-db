@@ -402,5 +402,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1628071/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1628071,
+    "hash": "3479b62948085c63aee29102e798b678f2d184515e09f31371dfa2d4297bfef6",
+    "summary_one_sentence": "Framed for murder while protecting Hong Kong factory workers from corrupt British merchants and ruthless triads, grandmaster Ip Man must survive lethal prison traps to clear his name and fight for justice.",
+    "summary_short": "In 1950s Hong Kong, greedy British merchants team up with local triads to forcefully demolish factories, threatening the livelihood of innocent workers. Wing Chun master Ip Man steps up to oppose the destruction, making himself a target for powerful enemies who frame him for murder. Thrown into prison, he must navigate deadly traps orchestrated by his foes behind bars. Ip Man relies on his martial arts prowess and unwavering resolve to survive, expose the conspiracy, and restore peace.",
+    "summary_long": "Set against the backdrop of 1950s Hong Kong, a dangerous alliance forms between corrupt British merchants and local triad bosses aiming to forcibly demolish factories for territorial expansion. Seeing the local working class pushed to the brink, legendary grandmaster Ip Man intervenes to defend the community against relentless corporate and criminal greed. As Ip Man becomes a formidable symbol of resistance, his enemies conspire to neutralize him by orchestrating a deadly setup. He is framed for a murder he did not commit and swiftly dispatched to a heavily guarded prison facility. Behind bars, the corruption runs deep, and the triads leverage their influence to turn the inmate population and wardens into lethal instruments. Facing ambush after ambush in confined prison corridors, Ip Man must utilize his supreme Wing Chun skills to survive constant assassination attempts. Meanwhile, his allies on the outside work against the clock to unearth evidence that could expose the conspiracy uniting high-ranking British officials with underground syndicates. Driven by a relentless sense of justice, Ip Man overcomes physical trials and betrayal to survive the incarceration. Ultimately, he breaks free from the trap to confront the masterminds, clearing his name and protecting the people of Hong Kong.",
+    "synopsis": "Set in 1950s Hong Kong, Ip Man: Kung Fu Legend follows the legendary Wing Chun master as he stands against a coalition of greedy British merchants and ruthless local triads intent on forcibly demolishing factories and exploiting working-class citizens. When Ip Man steps up to protect the vulnerable community, he becomes the prime target of a treacherous plot. Framed for murder and sent to prison, he finds himself trapped in a hostile environment where deadly traps and attacks await him around every corner. Ip Man must rely on his formidable martial arts skills, quick thinking, and unyielding spirit to survive incarceration, clear his name, and defeat the dark forces threatening the city.",
+    "keywords": [
+      "1950s hong kong",
+      "colonial hong kong",
+      "martial arts master",
+      "framed for murder",
+      "prison survival",
+      "triad corruption",
+      "wrongfully accused",
+      "working class champion",
+      "deadly traps",
+      "hand-to-hand combat",
+      "clearing one's name",
+      "corporate conspiracy",
+      "heroic bloodshed"
+    ],
+    "themes": [
+      {
+        "theme": "Justice and Integrity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Corruption and Oppression",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Ip Man faces off against orchestrated attacks within the prison walls, using his martial arts skills and resilience to overcome the lethal trials set by the triads.",
+      "conflict": "Ip Man steps forward to defend vulnerable workers against the ruthless alliance, putting himself directly in the crosshairs of powerful enemies from both the authorities and the underworld.",
+      "resolution": "After surviving the prison assault, Ip Man fights to escape danger, expose the conspirators behind the frame-up, and clear his name.",
+      "introduction": "In 1950s Hong Kong, legendary martial artist Ip Man witnesses corrupt British merchants team up with local triads to aggressively seize land and demolish factories.",
+      "risingAction": "Targeted by his foes, Ip Man is framed for murder and sent to prison, where he must navigate a hostile environment filled with deadly traps and coordinated attempts on his life."
+    },
+    "characters": [
+      {
+        "name": "Ip Man",
+        "role": "Hero",
+        "description": "A righteous Wing Chun master who stands up for vulnerable factory workers in 1950s Hong Kong, facing down corporate corruption and triad traps to clear his name."
+      },
+      {
+        "name": "James",
+        "role": "Villain",
+        "description": "A corrupt British merchant who conspires with local triads to forcibly demolish factories and seize territory without regard for public welfare."
+      },
+      {
+        "name": "Parker",
+        "role": "Villain",
+        "description": "A ruthless foreign enforcer working alongside merchants and criminal groups to suppress opposition and frame Ip Man."
+      },
+      {
+        "name": "Lei Yihu / Triad Boss",
+        "role": "Villain",
+        "description": "A ruthless triad leader allied with foreign interests who orchestrates deadly traps for Ip Man behind prison walls."
+      },
+      {
+        "name": "Hong Kong Factory Workers",
+        "role": "Supporting Character",
+        "description": "The displaced local working-class citizens whose plight drives Ip Man to resist triad exploitation and corporate greed."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ip Man",
+        "target": "Hong Kong Factory Workers",
+        "description": "Protector / Defender"
+      },
+      {
+        "source": "Ip Man",
+        "target": "British Merchants",
+        "description": "Adversaries / Opponents"
+      },
+      {
+        "source": "Ip Man",
+        "target": "Chinese Triads",
+        "description": "Enemies / Framed by"
+      },
+      {
+        "source": "British Merchants",
+        "target": "Chinese Triads",
+        "description": "Corrupt Allies / Co-conspirators"
+      },
+      {
+        "source": "Chinese Triads",
+        "target": "Hong Kong Factory Workers",
+        "description": "Oppressors / Extortionists"
+      }
+    ],
+    "seo": {
+      "slug": "ip-man-kung-fu-legend",
+      "jsonLd": {
+        "name": "Ip Man: Kung Fu Legend",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Martial Arts",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. Ip Man stands up for the workers, only to be framed for murder and sent to prison where deadly traps await."
+      },
+      "keywords": [
+        "Ip Man Kung Fu Legend",
+        "Ip Man movie",
+        "Wing Chun martial arts",
+        "Hong Kong action film",
+        "Ip Man synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/ip-man-kung-fu-legend](https://movnix.com/movie/ip-man-kung-fu-legend)",
+      "metaTitle": "Ip Man: Kung Fu Legend - Martial Arts Action Film Overview",
+      "openGraph": {
+        "og:title": "Ip Man: Kung Fu Legend - Full Movie Overview & Story",
+        "og:description": "Ip Man stands up against corrupt triads in 1950s Hong Kong. Framed for murder, he must survive deadly prison traps to clear his name."
+      },
+      "twitterCard": {
+        "twitter:title": "Ip Man: Kung Fu Legend - Martial Arts Legend Returns",
+        "twitter:description": "Ip Man fights corrupt forces in 1950s Hong Kong. Framed for murder, can he escape deadly prison traps and clear his name?"
+      },
+      "metaDescription": "In 1950s Hong Kong, Ip Man battles corrupt triads and British merchants. Framed for murder, can he survive prison and clear his name?"
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of the film is Action, specifically Martial Arts and Historical Drama.",
+        "question": "What is the dominant genre of Ip Man: Kung Fu Legend?"
+      },
+      {
+        "answer": "Yes, while it is independent from the mainstream Donnie Yen-led Ip Man quadrilogy, it is part of the broader Ip Man cinematic universe and serves as a follow-up to director Li Liming's 2019 film, Ip Man: Kung Fu Master.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the movie does not feature any additional scenes during or after the end credits.",
+        "question": "Is there a post-credit scene in Ip Man: Kung Fu Legend?"
+      },
+      {
+        "answer": "Martial artist and actor Dennis To (To Yue-Hong) stars as Ip Man, reprising his role from earlier Ip Man spin-off projects.",
+        "question": "Who plays the titular character of Ip Man in the film?"
+      },
+      {
+        "answer": "Set in 1950s Hong Kong, the plot follows Ip Man as he stands up for factory workers against corrupt British merchants and Chinese triads. After opposing their illegal demolitions, he is framed for murder and sent to prison, where he must survive deadly traps set by the triads to clear his name.",
+        "question": "What is the primary plot of Ip Man: Kung Fu Legend?"
+      },
+      {
+        "answer": "The film heavily features Wing Chun, the traditional Southern Chinese kung fu style famously taught and popularized by Ip Man.",
+        "question": "What main martial arts fighting style is displayed in the movie?"
+      },
+      {
+        "answer": "The film takes place in post-war 1950s Hong Kong during a period of civil unrest and corruption.",
+        "question": "Where and when does the story take place?"
+      },
+      {
+        "answer": "The movie is loosely inspired by the real-life Wing Chun grandmaster Ip Man, but the narrative involving prison traps, murder framing, and specific triad plots is a highly fictionalized martial arts story.",
+        "question": "Is Ip Man: Kung Fu Legend based on a true story?"
+      },
+      {
+        "answer": "The film was directed by Chinese director Li Liming.",
+        "question": "Who directed Ip Man: Kung Fu Legend?"
+      },
+      {
+        "answer": "Yes, the movie features traditional kung fu choreography, intense fight sequences—including candle fights and prison brawls—and classic martial arts heroic themes.",
+        "question": "Is this film suitable for fans of classic martial arts cinema?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, though deadly prison traps and intense situations create mild suspense."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical of triad and action drama settings."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Frequent martial arts fighting, physical altercations with triads, deadly traps within prison, and violent forced factory demolitions."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor potential depictions of alcohol or tobacco usage consistent with 1950s period settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual references mentioned or implied."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High suspense and tension involving false imprisonment, murder framing, and life-threatening danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-27 23:49:58.583265",
+    "updated_at": "2026-07-27 23:49:58.583265"
+  }
 }
