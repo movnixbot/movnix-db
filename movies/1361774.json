@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 51.7527,
-    "voteAverage": 6.3,
-    "voteCount": 26,
+    "popularity": 75.0623,
+    "voteAverage": 6.207,
+    "voteCount": 41,
     "homepage": "https://tv.apple.com/movie/umc.cmc.5tugaz9vt498ajn7q64ypaqxn",
     "posterPath": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
     "backdropPath": "/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
@@ -224,6 +224,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/baNFmDgcogr9IOw6TuB7NXNsyOK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/l4yMiidb0SUmsnqvImfguZOTDpr.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/d0v51GXz60Lwa7YkTc5bSbNeqsu.jpg",
       "width": 2000,
       "height": 3000,
@@ -388,13 +402,6 @@
       "filePath": "/aaPyiUW3sGue12zBXsdpcfJPxLo.jpg",
       "width": 1000,
       "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/baNFmDgcogr9IOw6TuB7NXNsyOK.jpg",
-      "width": 2000,
-      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -661,8 +668,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 26
+      "ratingValue": 6.207,
+      "votesCount": 41
     },
     {
       "source": "crawled",
@@ -928,5 +935,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1361774/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1361774,
+    "hash": "d6eb9d6263803642c3ce09f4f6934b71e365410e78dc5875dcdaceb6b9b27ea2",
+    "summary_one_sentence": "To rescue his failing country club and gain his father's long-sought approval, a failed tennis pro breaks a deeply personal vow by taking up pickleball.",
+    "summary_short": "A washed-up tennis professional finds himself at a desperate crossroads when the country club he loves faces impending financial ruin. In a bid to save the business and finally earn the respect of his demanding father, he must face his pride head-on. To achieve his goals, he is forced to break a sacred vow and cross over into the wildly popular world of pickleball. This unexpected journey tests his values, his relationships, and his definition of success.",
+    "summary_long": "The Dink follows a fallen tennis prodigy whose career ended in disappointment, leaving him struggling to find purpose and connection. His life takes a critical turn when the local country club, a bedrock of his family's heritage and his own identity, falls into severe financial trouble. Desperate to prevent its foreclosure and win over his stern, traditionalist father who has always viewed him as a failure, the former pro searches for any viable solution. He realizes that the club's survival hinges on embracing the booming, yet fiercely mocked, sport of pickleball. Doing so requires him to shatter a personal oath he swore years ago to never pick up a paddle. As he begrudgingly enters the competitive pickleball circuit, he confronts intense rivalries, unusual team dynamics, and his own elitist snobbery. Along the way, the quirky world of pickleball forces him to rediscover his love for athletic camaraderie and re-evaluate his toxic relationship with his father. Through comedic mishaps and high-stakes matches, he learns to embrace humility, unity, and a new kind of redemption.",
+    "synopsis": "The Dink is a comedic drama that explores legacy, family expectations, and the clash of traditional sports culture with modern crazes. Centered on a former tennis pro desperate to salvage a bankrupt country club and earn his father's elusive approval, the story takes a sharp turn when he is forced to do the unthinkable: play pickleball. As he navigates the quirky, fast-paced world of paddle sports, he must overcome his own ingrained biases, mend strained family ties, and find redemption both on and off the court.",
+    "keywords": [
+      "washed-up athlete",
+      "pickleball",
+      "tennis pro",
+      "father-son relationship",
+      "earning respect",
+      "sports comedy",
+      "underdog story",
+      "country club",
+      "saving the club",
+      "desperation",
+      "sacred vow",
+      "rivalry",
+      "redemption arc"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Desperation and Redemption",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity and Pride",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Absurdist",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The pressure culminates in a definitive, high-stakes tournament match where he must put everything on the line, testing both his adapted skills and his emotional resilience.",
+      "conflict": "To secure the club's survival and salvage his reputation, he is forced to confront a deep personal boundary and break a sacred vow by entering the world of pickleball.",
+      "resolution": "The tournament's outcome redefines his relationship with his father, settles the fate of the country club, and forces him to embrace a new perspective on his athletic identity.",
+      "introduction": "A washed-up tennis professional struggles to find purpose while desperately trying to save a failing country club and win the elusive respect of his father.",
+      "risingAction": "As he reluctantly begins training, he must navigate the unfamiliar culture of the sport, face intense skepticism from his tennis peers, and overcome initial failures while preparing for a high-stakes tournament."
+    },
+    "characters": [
+      {
+        "name": "Dustin \"Dusty\" Boyd",
+        "role": "Hero",
+        "description": "A washed-up, former child tennis prodigy who reluctantly turns to pickleball to rehab an injury, save his father's struggling club, and earn his approval."
+      },
+      {
+        "name": "Chuck Boyd",
+        "role": "Villain",
+        "description": "Dusty's rigid, unsupportive father and country club owner who ruthlessly pushes his son and views pickleball as a corrupting epidemic."
+      },
+      {
+        "name": "Candace",
+        "role": "Mentor",
+        "description": "An welcoming older pickleball player who becomes Dusty's partner, introducing him to the game's unique rules and low-key charms while shifting his rigid identity."
+      },
+      {
+        "name": "PJ",
+        "role": "Comic Relief",
+        "description": "Dusty's loyal assistant and enthusiastic one-man cheering section who provides eccentric comedic support throughout his journey."
+      },
+      {
+        "name": "Andy Roddick",
+        "role": "Supporting Character",
+        "description": "Dusty's former childhood nemesis who appears as himself, serving as a reminder of Dusty's past athletic failures."
+      },
+      {
+        "name": "Skip",
+        "role": "Supporting Character",
+        "description": "A vocal country club member who leads the neighborhood pickleball players demanding more court space."
+      },
+      {
+        "name": "Dr. Stone",
+        "role": "Supporting Character",
+        "description": "The quirky physician who diagnoses Dusty's wrist injury and prescribes pickleball as an alternative form of rehabilitation."
+      },
+      {
+        "name": "Marisa",
+        "role": "Supporting Character",
+        "description": "A local club regular entangled in the ongoing turf war between the tennis traditionalists and pickleball players."
+      },
+      {
+        "name": "John McEnroe",
+        "role": "Other",
+        "description": "A legendary tennis icon appearing as himself to represent the elite, traditional tennis culture looking down on pickleball."
+      },
+      {
+        "name": "Mitch",
+        "role": "Other",
+        "description": "An intense country club veteran fiercely dedicated to maintaining the traditional status quo of the tennis courts."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bobby Hooks",
+        "target": "Arthur Hooks",
+        "description": "Father and son; Bobby seeks his father's long-sought approval and respect."
+      },
+      {
+        "source": "Bobby Hooks",
+        "target": "Nicky",
+        "description": "Doubles partners turned bitter rivals; Nicky is the reigning pickleball champion Bobby must defeat."
+      },
+      {
+        "source": "Bobby Hooks",
+        "target": "Coach",
+        "description": "Mentor and protege; the unconventional coach who teaches Bobby the secrets of pickleball."
+      },
+      {
+        "source": "Bobby Hooks",
+        "target": "Country Club Board / Members",
+        "description": "Protagonist and beneficiaries; Bobby is fighting to save their struggling club from financial ruin."
+      }
+    ],
+    "seo": {
+      "slug": "the-dink",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-dink](https://movnix.com/movie/the-dink)",
+        "name": "The Dink",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Sports"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball."
+      },
+      "keywords": [
+        "The Dink movie",
+        "The Dink film",
+        "pickleball movie",
+        "tennis pro comedy",
+        "The Dink plot",
+        "The Dink synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-dink](https://movnix.com/movie/the-dink)",
+      "metaTitle": "The Dink - Official Movie Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "The Dink - Official Movie Overview",
+        "og:description": "Desperate to save a struggling country club, a washed-up tennis pro breaks his sacred vow to do the unthinkable: play pickleball."
+      },
+      "twitterCard": {
+        "twitter:title": "The Dink - Official Movie Overview",
+        "twitter:description": "Desperate to save a struggling country club, a washed-up tennis pro breaks his sacred vow to do the unthinkable: play pickleball."
+      },
+      "metaDescription": "A washed-up tennis pro breaks his sacred vow to play pickleball and save a struggling country club. Discover plot details, cast, and news on The Dink."
+    },
+    "faq": [
+      {
+        "answer": "The movie follows Dusty Boyd, a washed-up former tennis prodigy desperate to save a struggling country club and win the respect of his rigid father. After suffering an injury, he is forced to take up pickleball for physical rehabilitation, leading him to embrace the sport he once looked down upon.",
+        "question": "What is the main plot of The Dink?"
+      },
+      {
+        "answer": "No, The Dink is a standalone original sports comedy and is not connected to any existing movie franchise or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is sports comedy, combining underdog athletic story elements with comedic character dynamics.",
+        "question": "What is the dominant genre of The Dink?"
+      },
+      {
+        "answer": "Jake Johnson stars in the lead role as Dusty Boyd, alongside a supporting cast that includes Mary Steenburgen, Ed Harris, Ben Stiller, and Aaron Chen.",
+        "question": "Who stars in the lead role of The Dink?"
+      },
+      {
+        "answer": "The film was directed by Josh Greenbaum, from a screenplay written by Sean Clements.",
+        "question": "Who directed The Dink?"
+      },
+      {
+        "answer": "No, there is no major post-credits scene teasing a continuation, though the credits feature bonus comedic moments and outtakes from the cast.",
+        "question": "Is there a post-credits scene in The Dink?"
+      },
+      {
+        "answer": "The Dink is an Apple Original Film and is available to stream exclusively on Apple TV+.",
+        "question": "Where can I watch or stream The Dink?"
+      },
+      {
+        "answer": "Yes, former professional tennis stars Andy Roddick and John McEnroe make cameo appearances playing versions of themselves.",
+        "question": "Are real professional tennis players featured in the movie?"
+      },
+      {
+        "answer": "The movie was produced by Ben Stiller and John Lesher through Red Hour Films, alongside Rob Paris, Mike Witherill, and Jake Johnson.",
+        "question": "Who produced The Dink?"
+      },
+      {
+        "answer": "In pickleball, a 'dink' is a soft, controlled shot hit over the net that lands in the opponent's non-volley zone, making the title a direct reference to the sport featured in the film.",
+        "question": "What does the title 'The Dink' refer to?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present in a lighthearted sports comedy premise."
+      },
+      "language": {
+        "score": 3,
+        "description": "Likely includes mild to moderate profanity typical of contemporary comedic films."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal violence expected, likely limited to mild slapstick comedy standard for a sports comedy."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible mild social drinking or casual alcohol presence in a country club setting."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "May contain mild suggestive humor or romantic subplot themes, but no explicit content."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional intensity revolving around comedic family pressure and personal redemption."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 4,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 3,
+      "science": 0,
+      "suspense": 2,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 17:56:06.62814",
+    "updated_at": "2026-07-27 11:00:29.436"
+  }
 }
