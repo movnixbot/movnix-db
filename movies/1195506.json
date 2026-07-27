@@ -2333,5 +2333,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1195506/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1195506,
+    "hash": "8238bbacf708d8945a9f7842340c07069843d7041f073757a43607d886ff7b60",
+    "summary_one_sentence": "When the girl of his dreams is taken hostage during a violent bank heist, a mild-mannered assistant bank manager utilizes his rare inability to feel physical pain to embark on a bloody rescue mission.",
+    "summary_short": "Nathan Caine is an introverted assistant bank manager living with a rare genetic condition that renders him entirely unable to feel physical pain. His cautious, sheltered life changes dramatically when he falls for his charismatic co-worker, Sherry, only for her to be abducted during a Christmas Eve bank robbery. Realizing the police are stretched thin, Nathan decides to pursue the ruthless criminals himself. Utilizing his sensory condition as an unconventional advantage, Nathan endures brutal physical trauma in order to save the woman he loves.",
+    "summary_long": "Nathan Caine lives a carefully controlled, risk-averse life due to Congenital Insensitivity to Pain with Anhidrosis (CIPA), a condition that prevents him from feeling physical injury. His quiet routine is upended when he connects with his vibrant bank co-worker, Sherry Margrave, who encourages him to venture out of his comfort zone. However, their nascent romance is disrupted on Christmas Eve when a gang of armed robbers storms the bank, murders the manager, and takes Sherry hostage. Determined to save her, Nathan steals a police cruiser and embarks on a relentless, chaotic pursuit across San Diego. Lacking formal combat training, Nathan turns his medical condition into a brutal asset, ignoring deep burns, broken bones, and bullet wounds to overpower adversaries along the way. With the help of his online gaming friend Roscoe, Nathan tracks the crew to an auto repair shop where he uncovers a shocking twist: Sherry is actually the mastermind's sister and an inside accomplice to the heist. Despite learning of her betrayal, Nathan realizes Sherry had a change of heart and genuinely fell for him during their time together. In a desperate final showdown, Nathan fights off her psychopathic brother, enduring immense physical destruction before putting an end to the threat. Following the ordeal and a lengthy hospital recovery in a full-body cast, Nathan accepts house arrest while continuing his bond with Sherry as she serves her sentence.",
+    "synopsis": "Nathan Caine is a mild-mannered assistant manager at a San Diego credit union who leads an exceptionally cautious life wrapped in cotton wool. Because of a rare genetic condition known as CIPA (Congenital Insensitivity to Pain with Anhidrosis), Nathan cannot feel physical pain or temperature, forcing him to strictly manage everyday routines to avoid accidentally injuring himself. Sheltered and timid, his social world consists mainly of playing video games with his distant online friend Roscoe.\n\nEverything changes when Sherry Margrave, a charismatic new co-worker, takes an interest in him. Their heartwarming connection coaxes Nathan out of his shell, but their blossoming romance is brutally interrupted when a gang of heavily armed bank robbers storms their credit union. After executing the bank manager, the robbers grab Sherry as a hostage and flee into the city.\n\nDriven by love and desperation, Nathan refuses to wait for law enforcement. Launching a chaotic one-man rescue operation, he pursues the dangerous crew across the city. Though he possesses no martial arts skills or weapons training, Nathan leverages his total immunity to physical agony—reaching into deep fryers, shrugging off gunshot wounds, and ignoring severe fractures—turning what was once a life-limiting affliction into a unpredictable weapon against a deadly syndicate.",
+    "keywords": [
+      "congenital insensitivity to pain",
+      "kidnapping",
+      "bank robbery",
+      "everyman hero",
+      "rescue mission",
+      "one-man army",
+      "office worker hero",
+      "damsel in distress",
+      "dark comedy",
+      "graphic violence",
+      "workplace romance",
+      "body injury resistance"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Love and Devotion",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Turning Weakness into Strength",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark Comedy",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Determined",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Nate confronts the kidnappers in a high-stakes, brutal showdown where he must push his body past its absolute limits to overcome overwhelming odds.",
+      "conflict": "The peaceful routine is shattered when his love interest is violently kidnapped, forcing Nate out of his comfort zone and into a dangerous rescue mission.",
+      "resolution": "With the immediate threat neutralized, Nate comes to terms with his unique condition and secures a new future with the person he risked everything to save.",
+      "introduction": "Nate, a man born with a rare condition that prevents him from feeling physical pain, leads a quiet, cautious life alongside the girl of his dreams.",
+      "risingAction": "As Nate pursues the captors through escalating obstacles and threats, he realizes his physical condition allows him to endure extreme hazards that would stop anyone else, using it as an unconventional weapon."
+    },
+    "characters": [
+      {
+        "name": "Nate Caine",
+        "role": "Hero",
+        "description": "An introverted bank worker who cannot feel physical pain, using his rare condition as a unique advantage to save the girl he loves."
+      },
+      {
+        "name": "Simon Greenly",
+        "role": "Villain",
+        "description": "A ruthless bank robber who orchestrates the heist and kidnaps Nate's love interest."
+      },
+      {
+        "name": "Sherry Margrave",
+        "role": "Supporting Character",
+        "description": "Nate's co-worker and love interest whose abduction sets the events of the movie into motion."
+      },
+      {
+        "name": "Roscoe Dixon",
+        "role": "Comic Relief",
+        "description": "Nate's loyal gaming friend who provides humorous support and assists him on his rescue mission."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nate",
+        "target": "Girl of his dreams",
+        "description": "Love Interest / Rescuer and Hostage"
+      },
+      {
+        "source": "Nate",
+        "target": "Bank Heist Kidnappers",
+        "description": "Enemies / Antagonists"
+      }
+    ],
+    "seo": {
+      "slug": "novocaine",
+      "jsonLd": {
+        "name": "Novocaine",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When the girl of his dreams is kidnapped, Nate turns his inability to feel pain into an unexpected strength."
+      },
+      "keywords": [
+        "Novocaine",
+        "Novocaine movie",
+        "Novocaine synopsis",
+        "Nate inability to feel pain",
+        "action movie",
+        "thriller film"
+      ],
+      "canonical": "[https://movnix.com/movie/novocaine](https://movnix.com/movie/novocaine)",
+      "metaTitle": "Novocaine (2025) - Movie Overview, Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Novocaine - Movie Overview & Synopsis",
+        "og:description": "When the girl of his dreams is kidnapped, Nate turns his inability to feel pain into an unexpected strength."
+      },
+      "twitterCard": {
+        "twitter:title": "Novocaine - Movie Overview & Synopsis",
+        "twitter:description": "When the girl of his dreams is kidnapped, Nate turns his inability to feel pain into an unexpected strength."
+      },
+      "metaDescription": "When the girl of his dreams is kidnapped, Nate turns his inability to feel pain into an unexpected strength in Novocaine. Read full synopsis on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "No, Novocaine is a standalone, original action-comedy film and is not part of any pre-existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Novocaine does not have any mid-credits or post-credits scenes after the main story concludes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre of Novocaine is action comedy, featuring dark humor mixed with intense physical action.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Jack Quaid stars as the protagonist, Nathan 'Nate' Caine.",
+        "question": "Who plays the lead role of Nate?"
+      },
+      {
+        "answer": "Nate suffers from Congenital Insensitivity to Pain with Anhidrosis (CIPA), a genetic disorder that prevents his nervous system from detecting physical pain.",
+        "question": "What medical condition does Nate have in the film?"
+      },
+      {
+        "answer": "Yes, Congenital Insensitivity to Pain (CIPA) is a very real and extremely rare medical condition where individuals cannot feel physical pain or extreme temperature.",
+        "question": "Is Nate's condition in the movie based on a real medical condition?"
+      },
+      {
+        "answer": "The film was co-directed by Dan Berk and Robert Olsen.",
+        "question": "Who directed Novocaine?"
+      },
+      {
+        "answer": "No, Novocaine is a completely fictional story based on an original screenplay written by Lars Jacobson.",
+        "question": "Is Novocaine based on a book or true story?"
+      },
+      {
+        "answer": "Novocaine is rated R due to strong, graphic action violence, persistent language, and crude material.",
+        "question": "What is the age rating for Novocaine?"
+      },
+      {
+        "answer": "Nate's love interest, Sherry Margrave, is portrayed by Amber Midthunder.",
+        "question": "Who plays Nate's love interest, Sherry?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild to moderate body horror and squirm-inducing moments related to physical injury, though framed within an action thriller context."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language typical of an R-rated action/thriller premise."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence and physical harm given the protagonist's inability to feel pain, leading to intense fighting and graphic self-injury or combat scenarios."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild depictions or references to alcohol, prescription medication, or medical insensitivity themes."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minimal to mild sexual content, primarily romantic motivation and mild innuendo or brief intimacy."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional stakes centered around the kidnapping of a loved one, high-risk peril, and desperate rescue efforts."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 3,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 5,
+      "romance": 7,
+      "science": 3,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 05:09:07.062166",
+    "updated_at": "2026-07-28 05:09:07.062166"
+  }
 }
