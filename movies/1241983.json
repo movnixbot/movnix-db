@@ -1545,5 +1545,256 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1241983/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1241983,
+    "hash": "c2ce6cd3dd8bfdab780dfba21c2929e4dd08857abc3e184d77e19c7c3fd68837",
+    "summary_one_sentence": "In early 20th-century America, day laborer Robert Grainier experiences love, devastating loss, and the profound passage of time as the rapid expansion of modern industrialization reshapes the Pacific Northwest.",
+    "summary_short": "Set against the majestic backdrop of the Pacific Northwest in the early 1900s, Robert Grainier builds a simple life as a logger and railroad worker while starting a family with his beloved wife, Gladys. While away at work to support his family, a catastrophic wildfire sweeps through his valley, tragically destroying his home and leaving his wife and daughter missing. Overwhelmed by grief, Robert rebuilds his cabin in solitude and learns to navigate the quiet aches of memory amidst a rapidly modernizing world. Through decades of physical labor, solitary reflection, and fleeting encounters, he finds a subtle, enduring connection to the changing wilderness around him.",
+    "summary_long": "Orphaned at a young age, Robert Grainier grows into adulthood in the lush forests of the Pacific Northwest, securing work in logging and railroad construction during the dawn of the 20th century. He marries Gladys Olding, and together they build a modest log cabin along the Moyie River to raise their young daughter, Kate. To provide for his family, Robert takes on seasonal contracts that keep him away for long stretches, during which he witnesses both the brutal sacrifices of industrial labor and the casual cruelties of fellow workers. Disaster strikes when a massive wildfire engulfs the valley, obliterating his home and leaving his wife and child lost to the flames. Devastated, Robert returns to the ash-filled ruins and slowly rebuilds the cabin with his own hands as a sanctuary for his lingering grief. As the years pass, he faces the economic shifts following World War I, ultimately retiring from logging as newer machinery and younger crews make his traditional methods obsolete. He lives a solitary existence in the woods, occasionally haunted by visions of his lost family and the spirits of those he met along his journey. In his final years, Robert witnesses the dizzying pace of modern progress—from space travel broadcasts to his own thrilling ride in a biplane—before passing away peacefully in his sleep. His journey stands as a quiet tribute to an unsung life lived in harmony with nature and amidst the relentless march of time.",
+    "synopsis": "Based on Denis Johnson's acclaimed novella, 'Train Dreams' presents a sweeping yet intimate portrait of Robert Grainier, an ordinary laborer living in the Pacific Northwest during the first half of the 20th century. As railways push through dense forests and modern industrialization reshapes the American landscape, Robert seeks a peaceful life working as a logger and building a home with his wife and child. However, when sudden tragedy strikes, he is forced to navigate profound personal grief while isolated in the vast wilderness. Blending ethereal naturalism with a poignant meditation on memory, progress, and solitude, the film explores how one quiet soul endures the monumental transformations of a rapidly changing country.",
+    "keywords": [
+      "early 20th century",
+      "Pacific Northwest",
+      "American frontier",
+      "logging industry",
+      "railroad expansion",
+      "industrialization",
+      "forest fire",
+      "grief and loss",
+      "solitude",
+      "changing world",
+      "contemplative",
+      "tragic loss",
+      "character study",
+      "melancholy",
+      "historical drama"
+    ],
+    "themes": [
+      {
+        "theme": "Love and Loss",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Era of Monumental Change",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Isolation and Solitude",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Poignant",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "In his later years, Grainier experiences a surreal and haunting encounter with a mysterious feral presence in the woods, forcing him to confront the ghost of his past and his place in nature.",
+      "conflict": "Rapid industrialization transforms the wilderness around him, bringing personal tragedy and deep existential grief when a devastating forest fire forever alters his life and surroundings.",
+      "resolution": "Grainier lives out his final days in quiet seclusion, observing a bizarre traveling wolf-boy performance that brings a strange, reflective sense of closure to a life shaped by the passage of time.",
+      "introduction": "Robert Grainier, a day laborer and logger in the American West, settles into a modest life, marries his love Gladys, and builds a cabin in the Idaho panhandle during the early 20th century.",
+      "risingAction": "Grainier navigates decades of solitary labor on the expansion of the railways, grappling with loss, encounters with local legends, and the shifting landscape of a modernizing nation."
+    },
+    "characters": [
+      {
+        "name": "Robert Grainier",
+        "role": "Hero",
+        "description": "A quiet, hardworking logger and day laborer who stoically navigates love, tragedy, and immense loss in the rapidly changing American West."
+      },
+      {
+        "name": "Gladys Grainier",
+        "role": "Supporting Character",
+        "description": "Robert's beloved wife whose warmth, resilience, and tragic fate deeply shape Robert's emotional life and long-standing memories."
+      },
+      {
+        "name": "Arn Peeples",
+        "role": "Mentor",
+        "description": "An eccentric, experienced logger and explosives expert who shares unorthodox wisdom and philosophical perspective on nature and life with Robert."
+      },
+      {
+        "name": "Apostle Frank",
+        "role": "Comic Relief",
+        "description": "A talkative and quirky fellow logger whose endless rambling provides moments of levity amidst the brutal daily life in the logging camps."
+      },
+      {
+        "name": "Ignatius Jack",
+        "role": "Supporting Character",
+        "description": "A local storekeeper and dependable friend to Robert, offering steady companionship throughout his life."
+      },
+      {
+        "name": "Claire Thompson",
+        "role": "Supporting Character",
+        "description": "An independent former nurse who interacts with Robert as frontier society modernizes around them."
+      },
+      {
+        "name": "The Narrator",
+        "role": "Other",
+        "description": "The omniscient storytelling voice that articulates Robert's internal reflections, history, and the vast historical backdrop."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Robert Grainier",
+        "target": "Gladys Grainier",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Robert Grainier",
+        "target": "Kate Grainier",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Gladys Grainier",
+        "target": "Kate Grainier",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Robert Grainier",
+        "target": "Arn Peeples",
+        "description": "Coworkers / Fellow Loggers"
+      },
+      {
+        "source": "Robert Grainier",
+        "target": "Kootenai Bob",
+        "description": "Acquaintances"
+      },
+      {
+        "source": "Robert Grainier",
+        "target": "Eddie Sauer",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Eddie Sauer",
+        "target": "Claire Thompson",
+        "description": "Suitor / Acquaintances"
+      }
+    ],
+    "seo": {
+      "slug": "train-dreams",
+      "jsonLd": {
+        "name": "Train Dreams",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
+      },
+      "keywords": [
+        "Train Dreams",
+        "Train Dreams movie",
+        "logger drama",
+        "early 20th century movie",
+        "Train Dreams synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/train-dreams](https://movnix.com/movie/train-dreams)",
+      "metaTitle": "Train Dreams - Movie Synopsis, Cast & Overview",
+      "openGraph": {
+        "og:title": "Train Dreams - Movie Overview & Details",
+        "og:description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
+      },
+      "twitterCard": {
+        "twitter:title": "Train Dreams - Official Movie Page",
+        "twitter:description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
+      },
+      "metaDescription": "Follow the life of a logger experiencing love, loss, and monumental change in early 20th-century America in Train Dreams."
+    },
+    "faq": [
+      {
+        "answer": "No, Train Dreams is a standalone historical drama and is not part of any franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Train Dreams. The story fully concludes before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre of Train Dreams is historical period drama, featuring strong elements of tragedy and post-Western themes.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Train Dreams is based on the 2011 novella of the same name written by Denis Johnson. While the main character is fictional, the setting and historic atmosphere accurately portray early 20th-century Pacific Northwest labor history.",
+        "question": "Is Train Dreams based on a book or a true story?"
+      },
+      {
+        "answer": "The film features Joel Edgerton as Robert Grainier, alongside Felicity Jones, William H. Macy, Kerry Condon, and Clifton Collins Jr.",
+        "question": "Who stars in Train Dreams?"
+      },
+      {
+        "answer": "The movie was directed by Clint Bentley, who also co-wrote the screenplay adaptation alongside Greg Kwedar.",
+        "question": "Who directed Train Dreams?"
+      },
+      {
+        "answer": "The story follows Robert Grainier, a logger and railroad builder in the Pacific Northwest, through decades of personal devotion, tragedy, and isolation as the American frontier transforms into a modern industrial society.",
+        "question": "What is the story of Train Dreams about?"
+      },
+      {
+        "answer": "While set in the American West, it is considered a post-Western or frontier drama, focusing on the quiet, contemplative life of a working-class logger rather than traditional gunfights or cowboy tropes.",
+        "question": "Is Train Dreams a traditional Western?"
+      },
+      {
+        "answer": "Following its limited theatrical release in late 2025, Train Dreams is available for streaming on Netflix.",
+        "question": "Where can you watch Train Dreams?"
+      },
+      {
+        "answer": "Train Dreams is rated R for language, violent material, and mature thematic elements, with a runtime of approximately 102 minutes.",
+        "question": "What is the age rating and runtime of Train Dreams?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild, eerie atmosphere featuring haunting dreams and ominous premonitions, but no explicit horror tropes or jump scares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent and mild profanity with minimal foul language overall."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Sporadic, localized violence including workplace logging accidents, a shooting, and a man being thrown off a railroad trestle."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Depictions of characters occasionally drinking wine or whiskey and smoking tobacco pipes."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Brief, non-explicit scene depicting implied sexual intimacy between a married couple without full nudity."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity centered on profound grief, devastating loss, loneliness, and heavy melancholy."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 2,
+      "mystery": 3,
+      "romance": 7,
+      "science": 0,
+      "suspense": 2,
+      "violence": 3
+    },
+    "created_at": "2026-07-27 23:49:58.796532",
+    "updated_at": "2026-07-27 23:49:58.796532"
+  }
 }
