@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 24.0686,
+    "popularity": 31.5814,
     "voteAverage": 4.4,
     "voteCount": 5,
     "homepage": "https://www.netflix.com/title/82029270",
@@ -33,7 +33,14 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 106997,
+      "name": "Eagle Films Arabia",
+      "logoPath": "/p2gEsXwCtg9JDXyS7WKTJHh8Gax.png",
+      "originCountry": "LB"
+    }
+  ],
   "keywords": [],
   "videos": [
     {
@@ -217,7 +224,7 @@
     {
       "tmdbPersonId": 5954211,
       "name": "Noha Nabil",
-      "profilePath": null,
+      "profilePath": "/kn50Bci8F5XThGLIEsckussOpBe.jpg",
       "character": null,
       "job": "Actor",
       "department": "Acting",
@@ -304,7 +311,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
@@ -347,5 +359,208 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1620682/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1620682,
+    "hash": "971973d577c8d5d251e90acc6a98f566e794d6934e2b796d88961cb131122a77",
+    "summary_one_sentence": "When her best friend gets engaged, chronically single Haya is forced to confront her hidden feelings and realize that true love might have been standing beside her all along.",
+    "summary_short": "Haya has always been comfortably single, relying on her tight-knit bond with her best friend Jawad. However, her world is completely upended when Jawad unexpectedly announces his engagement. Forced to navigate a wave of unexpected jealousy and grief, Haya must decide whether to keep her feelings hidden or risk everything to confess her love before it's too late.",
+    "summary_long": "Haya has spent years content in her chronically single lifestyle, safe in the comfortable routine of her deep friendship with Jawad. Everything changes in an instant when Jawad announces his engagement, leaving Haya blindsided and emotionally unmoored. As the wedding preparations begin, Haya tries her best to play the supportive best friend, but every milestone only heightens her sense of loss. She slowly comes to the painful realization that her feelings for Jawad run far deeper than friendship. Comedic misadventures and awkward double dates ensue as Haya attempts to move on, only to find herself drawn back to Jawad at every turn. Jawad, too, begins to sense a shift in their dynamic, leading to moments of unspoken tension and growing confusion over his own upcoming marriage. Navigating the delicate balance between loyalty and desire, Haya is pushed to a breaking point as the wedding day approaches. Ultimately, she must find the courage to confront her true emotions and discover if Jawad feels the same way before his future is sealed.",
+    "synopsis": "Love in Slow Motion is a heartwarming romantic comedy-drama that explores the delicate transition from platonic friendship to unexpected romance. When Haya's life as a contentedly single woman is disrupted by her best friend Jawad's sudden engagement, she is thrust into a journey of self-discovery and emotional vulnerability. Balancing laugh-out-loud moments of romantic missteps with poignant reflections on timing and devotion, the narrative captures the sweet, agonizing realization that the person you were meant to be with may have been right beside you all along.",
+    "keywords": [
+      "friends to lovers",
+      "friend zone",
+      "unrequited love",
+      "chronically single",
+      "slow burn romance",
+      "best friends",
+      "jealousy",
+      "realization of feelings",
+      "engagement drama",
+      "romantic realization",
+      "love triangle",
+      "relationship anxiety"
+    ],
+    "themes": [
+      {
+        "theme": "Friend Zone to Lovers",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Unrequited Love",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fear of Being Alone",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Self-Discovery",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Romantic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "As the wedding draws near, a crucial moment forces Haya to confront the reality of Jawad's upcoming marriage and make a choice about declaring her true feelings.",
+      "conflict": "Jawad announces his engagement, causing Haya's world to unravel as she confronts unexpected feelings and realizes she may be in love with her best friend.",
+      "resolution": "Haya gains clarity on her emotional journey and finds a new, authentic direction for her life and her relationship with Jawad.",
+      "introduction": "Haya leads a content, chronically-single life anchored by her deep, comfortable friendship with Jawad.",
+      "risingAction": "Haya navigates the emotional awkwardness of wedding preparations while trying to process her hidden feelings and decide whether to risk her friendship by speaking up."
+    },
+    "characters": [
+      {
+        "name": "Haya",
+        "role": "Hero",
+        "description": "A chronically-single woman who realizes her true feelings for her best friend when he suddenly gets engaged, prompting her to attempt to win him back."
+      },
+      {
+        "name": "Jawad",
+        "role": "Supporting Character",
+        "description": "Haya's longtime best friend and love interest whose unexpected engagement sets the story's main romantic conflict into motion."
+      },
+      {
+        "name": "Zeina",
+        "role": "Other",
+        "description": "A successful, boisterous actress whose engagement to Jawad triggers Haya's realization and mission."
+      },
+      {
+        "name": "Supporting Ensemble (Fatma Al Sherif, Shoug Al-Hadi, Elie Mitri, Mahira Abdel Aziz, Neshan Der Haroutiounian)",
+        "role": "Comic Relief",
+        "description": "Friends, relatives, and social figures in Haya and Jawad's orbit who fuel the comedic chaos around the central romance."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Haya",
+        "target": "Jawad",
+        "description": "Best Friends / Unrequited Romantic Interest"
+      }
+    ],
+    "seo": {
+      "slug": "love-in-slow-motion",
+      "jsonLd": {
+        "name": "Love in Slow Motion",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?"
+      },
+      "keywords": [
+        "Love in Slow Motion",
+        "Love in Slow Motion movie",
+        "friends to lovers movie",
+        "romantic comedy",
+        "Love in Slow Motion synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/love-in-slow-motion](https://movnix.com/movie/love-in-slow-motion)",
+      "metaTitle": "Love in Slow Motion - Movie Plot, Cast & Synopsis",
+      "openGraph": {
+        "og:title": "Love in Slow Motion | Watch Plot & Synopsis",
+        "og:description": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?"
+      },
+      "twitterCard": {
+        "twitter:title": "Love in Slow Motion | Watch Plot & Synopsis",
+        "twitter:description": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?"
+      },
+      "metaDescription": "When Haya's best friend Jawad gets engaged, her world unravels. Discover if true love was in the friend zone all along in Love in Slow Motion."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is romantic comedy, focusing on the humor, heartaches, and tropes associated with the classic 'friends to lovers' narrative.",
+        "question": "What is the dominant genre of Love in Slow Motion?"
+      },
+      {
+        "answer": "The story follows Haya, a chronically single woman whose life is turned upside down when her best friend Jawad gets engaged, forcing her to confront her true feelings for him.",
+        "question": "What is the main plot of Love in Slow Motion?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not part of an existing movie franchise or cinematic universe.",
+        "question": "Is Love in Slow Motion part of a franchise or a sequel?"
+      },
+      {
+        "answer": "No, it is an original story written specifically for the screen.",
+        "question": "Is Love in Slow Motion based on a book?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes, so you do not need to stay after the credits finish.",
+        "question": "Is there a post-credit scene in Love in Slow Motion?"
+      },
+      {
+        "answer": "The main characters are Haya, a perpetually single woman, and Jawad, her long-time best friend whose sudden engagement triggers the central conflict.",
+        "question": "Who are the primary main characters in the movie?"
+      },
+      {
+        "answer": "Availability depends on your region, but it is typically available on major digital streaming platforms and for rental or purchase on VOD services.",
+        "question": "Where can I watch Love in Slow Motion?"
+      },
+      {
+        "answer": "It is generally rated PG-13 for mild romantic themes, light language, and suggestive humor, making it suitable for teens and adults.",
+        "question": "What age rating or content advice does Love in Slow Motion have?"
+      },
+      {
+        "answer": "The movie explores themes of fear of commitment, unrequited love, the thin line between friendship and romance, and the challenges of growing up.",
+        "question": "What are the major themes explored in Love in Slow Motion?"
+      },
+      {
+        "answer": "Yes, its blend of lighthearted comedy, relatable relationship dynamics, and sweet romantic moments makes it a great choice for date night.",
+        "question": "Is Love in Slow Motion suitable for a date night movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary themes present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild, lighthearted comedic language typical of a romantic comedy premise."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence depicted or implied in the premise."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Potential social drinking in typical adult romantic comedy settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic themes and references to dating/engagement, with no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional distress involving unrequited love, jealousy, and romantic confusion."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 1,
+      "comedy": 7,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 9,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-07-27 17:57:21.472783",
+    "updated_at": "2026-07-27 11:00:07.275"
+  }
 }
