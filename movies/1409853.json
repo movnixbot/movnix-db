@@ -421,5 +421,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1409853/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1409853,
+    "hash": "7f27f23c9667055c88d298530792a955fd7736bc8a14b549821336303ae85b14",
+    "summary_one_sentence": "On his final day before retirement, Detective Shaw must solve three murders in a race against time to rescue his buried-alive son before his oxygen runs out.",
+    "summary_short": "Detective Shaw's final day on the police force takes a harrowing turn when he receives devastating news: a ruthless serial killer has kidnapped his son and buried him alive. To uncover his son's hidden location, Shaw is forced to navigate a twisted game created by the killer, requiring him to solve three seemingly unconnected murder cases before time runs out. With every passing hour depleting his son's finite oxygen supply, the veteran detective must rely on every instinct to unravel the clues. It becomes a frantic, high-stakes race against the clock where failure means losing the person who matters to him most.",
+    "summary_long": "Detective Shaw is looking forward to a peaceful life as he prepares to clock out for the very last time on his final day before retirement. However, his plans are shattered when a chilling message from a notorious serial killer reveals that his son has been buried alive in an undisclosed location. The sadistic culprit offers Shaw a single, terrifying chance to save his child: he must successfully solve three separate, gruesome murders within a strict time limit. Driven by desperation and fatherly love, Shaw dives headfirst into the cases, desperately searching for the underlying thread that connects these violent acts. As he pushes through city streets, interrogates witnesses, and decodes cryptic clues, the psychological toll begins to weigh heavily on him. The police force rallies around him, but the killer remains two steps ahead, constantly mocking Shaw's frantic efforts. With his son’s oxygen steadily depleting in a underground coffin, every second counts and every mistake could prove fatal. Shaw is forced to cross professional boundaries and face his own past mistakes as the investigation reaches its fever pitch. In a heart-pounding race against time, the detective must outsmart a criminal mastermind before his son draws his final breath.",
+    "synopsis": "Neglected is a high-octane thriller centered on Detective Shaw, a seasoned investigator standing on the threshold of retirement. What should have been a routine farewell turns into a horrifying nightmare when a relentless serial killer target's Shaw's own family, burying his son alive in a secret subterranean grave. To receive the coordinates that will save his child's life, Shaw must unravel a labyrinthine web of crime by solving three intricate murder cases left behind as morbid puzzles. As the clock ticks down and the pressure mounts, the narrative weaves high-stakes action, intense drama, and suspenseful detective work to explore the desperate lengths a father will go to protect his son.",
+    "keywords": [
+      "retiring detective",
+      "race against time",
+      "buried alive",
+      "serial killer",
+      "ticking clock",
+      "one last job",
+      "desperate father",
+      "cat and mouse",
+      "claustrophobia",
+      "murder investigation",
+      "high stakes",
+      "kidnapping"
+    ],
+    "themes": [
+      {
+        "theme": "Parental Love",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Race Against Time",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Urgent",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "With time running out and oxygen expiring, Shaw faces the final confrontation to force the location of the hidden grave out of the suspect.",
+      "conflict": "A suspect surrenders at the precinct with a chilling ultimatum, revealing he has buried Shaw's teenage son alive with a limited supply of oxygen.",
+      "resolution": "Shaw locates and rescues his son just in time, leading to a personal awakening about his family priorities and his role in law enforcement.",
+      "introduction": "Veteran Detective Shaw prepares to conclude his career on his last day before retirement, burdened by strained family relationships.",
+      "risingAction": "Shaw races against the clock to investigate three linked murder scenes, decoding cryptic clues and navigating psychological mind games to track down his son's location."
+    },
+    "characters": [
+      {
+        "name": "Detective Shaw",
+        "role": "Hero",
+        "description": "A veteran detective on the brink of retirement who must race against time to solve three murders and save his kidnapped son."
+      },
+      {
+        "name": "AJ / The Kid",
+        "role": "Villain",
+        "description": "A calculated serial killer who surrenders to the police and subjects Detective Shaw to psychological warfare and a deadly countdown."
+      },
+      {
+        "name": "Captain Haas",
+        "role": "Mentor",
+        "description": "Shaw's senior commanding officer at the precinct who offers guidance and oversight during the high-pressure crisis."
+      },
+      {
+        "name": "Detective Keyes",
+        "role": "Supporting Character",
+        "description": "A grounded and sharp fellow detective who assists Shaw in deciphering the killer's clues."
+      },
+      {
+        "name": "Aaron Shaw",
+        "role": "Supporting Character",
+        "description": "Detective Shaw's teenage son who is buried alive, serving as the central motivation behind Shaw's race against the clock."
+      },
+      {
+        "name": "Sloan",
+        "role": "Supporting Character",
+        "description": "A key figure linked to the past homicide cases and secrets that Detective Shaw must uncover."
+      },
+      {
+        "name": "Deacon",
+        "role": "Supporting Character",
+        "description": "An individual involved in the chain of events surrounding the serial killer's mystery."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Detective Shaw",
+        "target": "Shaw's Son",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Serial Killer",
+        "target": "Detective Shaw",
+        "description": "Antagonist/Target"
+      },
+      {
+        "source": "Serial Killer",
+        "target": "Shaw's Son",
+        "description": "Captor/Victim"
+      }
+    ],
+    "seo": {
+      "slug": "neglected",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/neglected](https://movnix.com/movie/neglected)",
+        "name": "Neglected",
+        "@type": "Movie",
+        "genre": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air."
+      },
+      "keywords": [
+        "Neglected movie",
+        "Detective Shaw",
+        "crime thriller movie",
+        "serial killer movie",
+        "buried alive thriller",
+        "Neglected plot summary"
+      ],
+      "canonical": "[https://movnix.com/movie/neglected](https://movnix.com/movie/neglected)",
+      "metaTitle": "Neglected (2026) - Race Against Time Thriller | Watch on Movnix",
+      "openGraph": {
+        "og:title": "Neglected - A Race Against Time Crime Thriller",
+        "og:description": "Detective Shaw's final day becomes his worst nightmare when a serial killer buries his son alive. Can he solve three murders in time?"
+      },
+      "twitterCard": {
+        "twitter:title": "Neglected - Official Movie Page",
+        "twitter:description": "A retiring detective races against the clock to solve three murders and save his buried-alive son."
+      },
+      "metaDescription": "On his last day before retirement, Detective Shaw must solve three murders to save his buried-alive son. Will he find him before time runs out?"
+    },
+    "faq": [
+      {
+        "answer": "No, 'Neglected' is a standalone crime thriller film and is not part of an existing movie franchise or cinematic universe.",
+        "question": "Is Neglected part of a franchise?"
+      },
+      {
+        "answer": "No, 'Neglected' does not feature any post-credits or mid-credits scenes. The narrative fully wraps up before the credits roll.",
+        "question": "Is there a post-credits scene in Neglected?"
+      },
+      {
+        "answer": "The dominant genre of 'Neglected' is a suspenseful crime thriller with action, mystery, and psychological thriller elements.",
+        "question": "What is the dominant genre of Neglected?"
+      },
+      {
+        "answer": "The film stars Josh Duhamel as Detective Shaw, Dylan Sprouse as AJ (the killer/teenager), Til Schweiger as Capt. Haas, and Elena Sanchez as Detective Keyes.",
+        "question": "Who stars in Neglected?"
+      },
+      {
+        "answer": "The film is directed by David Lipper, who also co-wrote the screenplay alongside Nicholas Ferwerda and Adam G. Levine.",
+        "question": "Who directed Neglected?"
+      },
+      {
+        "answer": "On his final day before retirement, Detective Shaw is confronted by a blood-soaked teenager who reveals he has buried Shaw's son alive. Shaw is forced into a race against time to solve three murder cases within a tight deadline to obtain the location where his son is buried.",
+        "question": "What is the main plot premise of Neglected?"
+      },
+      {
+        "answer": "The film is rated R due to violence, bloody images, brief intense thrill sequences, and strong language.",
+        "question": "What is the official age rating for Neglected?"
+      },
+      {
+        "answer": "No, 'Neglected' is an original story written for the screen by Nicholas Ferwerda, David Lipper, and Adam G. Levine, rather than an adaptation of a book or true events.",
+        "question": "Is Neglected based on a true story or a book?"
+      },
+      {
+        "answer": "The film explores themes of systemic failures in foster care, child neglect and abuse, parental sacrifice, and accountability within local institutions.",
+        "question": "What are the core themes explored in Neglected?"
+      },
+      {
+        "answer": "Depending on regional distribution, 'Neglected' is available through select theatrical releases and major digital video-on-demand (VOD) platforms.",
+        "question": "Where can viewers watch Neglected?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Includes dark, claustrophobic themes of being buried alive and psychological horror elements related to a serial killer."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely features moderate to strong language standard for crime and detective thrillers."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts a high-stakes thrill plot involving serial murders and a child buried alive, implying intense peril and thematic violence."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal or no direct drug or alcohol abuse indicated in the core premise."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or themes referenced in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Extremely high emotional stakes involving a parent racing against time to save their own child from death."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 1,
+      "suspense": 10,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:47:48.991598",
+    "updated_at": "2026-07-27 23:47:48.991598"
+  }
 }

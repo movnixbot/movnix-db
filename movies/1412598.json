@@ -605,5 +605,218 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1412598/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1412598,
+    "hash": "f6fd1136d18b6fb20434bd2885106a32ff8756e4ec8739d970ec7832946eed2f",
+    "summary_one_sentence": "While vacationing in Thailand to process a personal trauma, best friends Maddie and Trish find themselves trapped on a tiny rock in a remote lagoon, hunted by a vengeful killer whale named Ceto.",
+    "summary_short": "Following a personal tragedy that left her with hearing loss, Maddie is taken on an island getaway to Thailand by her best friend Trish to help her heal. After meeting a local guide named Josh, the pair take a jet ski out to a remote, secluded lagoon for an afternoon excursion. Their relaxing trip quickly turns into a nightmare when they are stranded in open water and relentlessly targeted by Ceto, a dangerous, traumatized killer whale that escaped a local marine park. Trapped on a tiny rock with no immediate way to call for help, the friends must outsmart the hyper-intelligent sea predator to survive.",
+    "summary_long": "Maddie is struggling to process grief and hearing loss following a violent robbery that claimed the life of her prospective boyfriend, Chad. Attempting to pull her out of isolation, her best friend Trish organizes a luxury vacation for them in Thailand. While exploring the local nightlife, they meet a friendly local named Josh who offers to take them on an excursion to an isolated lagoon. Unknown to them, Ceto, a traumatized captive killer whale from a nearby rundown marine theme park, has escaped into the same body of water after a violent incident. When the trio arrives at the lagoon on a jet ski, Ceto launches a violent attack, destroying their transport, killing Josh, and stranding Maddie and Trish in the water. The two women manage to drag themselves onto a tiny, barren rock protrusion in the middle of the lagoon, out of reach from the water's edge. With Maddie unable to hear clearly and Trish injured, tension and long-buried personal secrets between the two friends come to light while they remain stranded. Ceto continuously stalks the perimeter of their refuge, using her immense size and intelligence to circle and block potential escape routes. As supplies dwindle and desperation mounts, Maddie must confront both her past grief and the immediate threat in order to formulate a dangerous escape strategy. Ultimately, Maddie relies on her remaining senses and survival instincts to outwit the vengeful sea predator and fight her way back to safety.",
+    "synopsis": "In Killer Whale, best friends Maddie and Trish travel to the scenic coast of Thailand for a getaway meant to help Maddie recover from a traumatic ordeal that resulted in severe hearing loss. Hoping to restore her friend's spirit, Trish arranges a boat trip with local guide Josh to an isolated, off-the-grid lagoon. However, their dream vacation takes a terrifying turn when they enter the territory of Ceto, an aggressive orca with a history of captivity trauma that recently escaped a local marine park. After their watercraft is destroyed, leaving them isolated without communication or equipment, Maddie and Trish become trapped on a tiny rock outcrop surrounded by deep water. As the highly intelligent apex predator circles and waits for them to re-enter the water, the two friends must battle exposed elements, physical injuries, and psychological panic in a high-stakes fight for survival.",
+    "keywords": [
+      "creature feature",
+      "survival thriller",
+      "killer whale",
+      "trapped",
+      "remote lagoon",
+      "aquatic horror",
+      "best friends",
+      "isolation",
+      "man vs nature",
+      "deadly marine life",
+      "fight for survival",
+      "waterborne danger",
+      "claustrophobic setting"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Friendship",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a breaking point during a high-stakes, life-or-death confrontation in the water, where Maddie and Trish must execute a risky, last-ditch effort to outmaneuver Ceto and make a break for safety.",
+      "conflict": "An unforeseen accident or lapse in safety leaves Maddie and Trish trapped in the water inside the lagoon, unable to reach dry land as Ceto's presence becomes an immediate, deadly threat.",
+      "resolution": "The ordeal comes to a decisive close as the immediate threat subsides, allowing the survivors to process the harrowing ordeal and the lasting impact of their fight for survival.",
+      "introduction": "Best friends Maddie and Trish travel to a secluded coastal area, where they encounter Ceto, a captive or habituated killer whale residing in a remote lagoon.",
+      "risingAction": "As the environment limits their movement, the friends must improvise survival strategies, withstand physical exhaustion, and navigate Ceto's increasingly aggressive predatory behaviors while desperately seeking an escape."
+    },
+    "characters": [
+      {
+        "name": "Maddie",
+        "role": "Hero",
+        "description": "A cellist struggling with grief and hearing loss who must find the strength to survive when trapped in the lagoon with a deadly killer whale."
+      },
+      {
+        "name": "Ceto",
+        "role": "Villain",
+        "description": "A captive and vengeful killer whale driven to aggression against humans after years of mistreatment and confinement."
+      },
+      {
+        "name": "Trish",
+        "role": "Anti Hero",
+        "description": "Maddie's best friend whose past reckless secret caused Maddie's tragic trauma, though she ultimately tries to redeem herself to save Maddie."
+      },
+      {
+        "name": "Josh",
+        "role": "Supporting Character",
+        "description": "An expat in Thailand who joins Maddie and Trish on their outing to the remote lagoon before being targeted by Ceto."
+      },
+      {
+        "name": "Chad",
+        "role": "Supporting Character",
+        "description": "Maddie's deceased boyfriend whose death during a botched robbery motivates Maddie's emotional struggle throughout the movie."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Maddie",
+        "target": "Trish",
+        "description": "Best Friends"
+      },
+      {
+        "source": "Maddie",
+        "target": "Ceto",
+        "description": "Prey / Enemy"
+      },
+      {
+        "source": "Trish",
+        "target": "Ceto",
+        "description": "Prey / Enemy"
+      }
+    ],
+    "seo": {
+      "slug": "killer-whale",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/killer-whale](https://movnix.com/movie/killer-whale)",
+        "name": "Killer Whale",
+        "@type": "Movie",
+        "genre": "Thriller",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto."
+      },
+      "keywords": [
+        "Killer Whale movie",
+        "Killer Whale plot",
+        "Maddie and Trish",
+        "Ceto killer whale",
+        "thriller movie lagoon"
+      ],
+      "canonical": "[https://movnix.com/movie/killer-whale](https://movnix.com/movie/killer-whale)",
+      "metaTitle": "Killer Whale (2026) - Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Killer Whale - Trapped in the Lagoon",
+        "og:description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto."
+      },
+      "twitterCard": {
+        "twitter:title": "Killer Whale - Trapped in the Lagoon",
+        "twitter:description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto."
+      },
+      "metaDescription": "Best friends Maddie and Trish become trapped in a remote lagoon with a dangerous killer whale named Ceto. Watch the thrill unfold in Killer Whale."
+    },
+    "faq": [
+      {
+        "answer": "Killer Whale is primarily a survival thriller and aquatic creature horror film.",
+        "question": "What is the dominant genre of Killer Whale?"
+      },
+      {
+        "answer": "No, Killer Whale is a standalone survival thriller and is not connected to any existing film franchise.",
+        "question": "Is Killer Whale part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene after the movie concludes.",
+        "question": "Is there a post-credits scene in Killer Whale?"
+      },
+      {
+        "answer": "The story follows best friends Maddie and Trish on a trip to Thailand, where they end up stranded on a rock in an isolated lagoon hunted by a vengeful captive orca named Ceto.",
+        "question": "What is the main premise of Killer Whale?"
+      },
+      {
+        "answer": "The film stars Virginia Gardner as Maddie and Mel Jarnson as Trish, and was directed by Australian filmmaker Jo-Anne Brechin.",
+        "question": "Who stars in Killer Whale and who directed it?"
+      },
+      {
+        "answer": "After years of psychological distress, mistreatment, and captivity at a local marine theme park, Ceto becomes confused and aggressive when confined within the lagoon's rocky perimeter.",
+        "question": "Why is the killer whale Ceto attacking the main characters?"
+      },
+      {
+        "answer": "No, Killer Whale is a completely fictional story, though it draws inspiration from real-world debates regarding captive marine mammals.",
+        "question": "Is Killer Whale based on a true story?"
+      },
+      {
+        "answer": "Principal photography took place on location in Thailand as well as Queensland, Australia, utilizing specialized water tanks for aquatic filming.",
+        "question": "Where was Killer Whale filmed?"
+      },
+      {
+        "answer": "The screenplay was written by director Jo-Anne Brechin alongside co-writer Katharine McPhee.",
+        "question": "Who wrote the screenplay for Killer Whale?"
+      },
+      {
+        "answer": "Killer Whale shares thematic and narrative similarities with aquatic stranded-survival thrillers like The Shallows, 47 Meters Down, and Fall.",
+        "question": "What other survival movies is Killer Whale similar to?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Sustained suspense, claustrophobic atmosphere, creature-feature terror, and jump scares in an isolated environment."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language driven by high stress and panic during life-threatening situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Moderate to high threat of physical harm and animal attack violence as characters fight for survival against a apex predator."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance abuse; minimal to non-existent relevance to the plot."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or romantic themes depicted in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving mortal peril, panic, isolation, and friendship tested under survival stress."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 2,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:47:24.52011",
+    "updated_at": "2026-07-27 23:47:24.52011"
+  }
 }
