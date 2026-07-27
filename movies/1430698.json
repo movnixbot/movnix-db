@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.9147,
+    "popularity": 78.7012,
     "voteAverage": 6,
-    "voteCount": 7,
+    "voteCount": 9,
     "homepage": "https://mock-movie-website.com/movies/1430698",
     "posterPath": "/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
     "backdropPath": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
@@ -131,9 +131,44 @@
       "type": "poster"
     },
     {
+      "filePath": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/smWXWClSfyyHnuRCfg5DJM84INR.jpg",
+      "width": 832,
+      "height": 1259,
+      "aspectRatio": 0.661,
+      "type": "poster"
+    },
+    {
       "filePath": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
       "width": 1280,
       "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/762cUyaeCywX2t7NyS37cslXR1s.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/r5DA2GsbKojdhwk9lXfPsWNU2No.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -142,7 +177,7 @@
     {
       "source": "tmdb",
       "ratingValue": 6,
-      "votesCount": 7
+      "votesCount": 9
     },
     {
       "source": "crawled",
@@ -265,6 +300,10 @@
         {
           "name": "Apple TV Store",
           "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
         }
       ]
     }
