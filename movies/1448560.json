@@ -627,5 +627,264 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1448560/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1448560,
+    "hash": "42b3af377e3a3466285b147960476876cd1eeeee2f7821d4edc9fb9f1fe1104b",
+    "summary_one_sentence": "When her eight-year-old daughter is kidnapped, an elite ex-black ops commander reunites with her former team to pull off a dangerous heist and save the child within a twelve-hour window.",
+    "summary_short": "An ex-black ops team is forced back into action when their former leader's eight-year-old daughter is abducted by a ruthless crime boss. To satisfy the steep ransom, the operatives must pull off a high-stakes heist against London's most dangerous criminal empire. Navigating lethal streets amidst a citywide riot, the crew has just twelve hours to complete the job and save the young girl's life. The race against time forces the team to confront past conflicts while executing a desperate rescue mission.",
+    "summary_long": "Wildcat centers on Ada, a retired black ops operative whose quiet life is shattered when her eight-year-old daughter, Charlotte, is kidnapped by dangerous underworld figures. The abduction stems from debts run up by Ada's reckless brother, leaving Ada with no choice but to assemble her former special forces crew, including her ex-partner Roman. To raise the massive ransom required to free Charlotte, the team devises a risky plan to pull off a daring heist targeting London's most powerful criminal syndicate. As a massive citywide riot erupts across the streets, the chaos provides both cover and deadly obstacles for their covert operation. With a strict twelve-hour deadline ticking down, the team navigates heavy gunfire, deceptive double-crosses, and lethal enemy combatants to execute the theft. Tensions run high among the group as old romantic history and lingering rivalries resurfare amidst the high-octane violence. Balancing brute tactical force with stealth, Ada and her unit must turn their target against the kidnappers to ensure Charlotte's safe return. Ultimately, the team risks everything in an explosive showdown, proving that their loyalty to one another and Ada's daughter is unbreakable.",
+    "synopsis": "Wildcat is a pulse-pounding action thriller that follows Ada, a skilled former black ops commander who has traded her military lifestyle for a quiet life raising her eight-year-old daughter, Charlotte. When a powerful crime lord kidnaps Charlotte to settle a dangerous debt, Ada is driven back into the shadow world she left behind. Realizing she cannot save her daughter alone, Ada calls upon her trusted ex-team—an elite unit of tactical specialists, including her formidable ex-partner, Roman. Together, they outline a desperate rescue plan: orchestrating an impossible heist to steal a massive target from London's most feared criminal kingpin to pay the ransom. Set against the chaotic backdrop of a violent citywide riot, the team must navigate lawless streets, heavily armed gangs, and a ticking twelve-hour clock. Blending intense martial arts action, heist strategy, and high-stakes drama, Wildcat follows a group of battle-tested soldiers risking their lives in a perilous race to bring a child home safe.",
+    "keywords": [
+      "black ops veterans",
+      "one last job",
+      "high-stakes heist",
+      "father protecting daughter",
+      "race against time",
+      "team reunion",
+      "child in peril",
+      "desperate measures",
+      "mercenary team",
+      "family stakes",
+      "tactical action",
+      "gritty action",
+      "life-or-death stakes"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Comradeship and Loyalty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Desperation and Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The heist reaches its critical tipping point where the team must make split-second decisions and overcome a final, dangerous obstacle to secure what they came for.",
+      "conflict": "Desperate to save the young girl's life, the leader brings his former operatives back together to plan and execute a high-stakes, dangerous heist.",
+      "resolution": "With the immediate threat neutralized, the team assesses the aftermath, securing the young girl's future and reaffirming their bond of loyalty.",
+      "introduction": "An ex-black ops team lives separate lives until a dire crisis strikes their former leader, whose eight-year-old daughter faces a life-threatening situation.",
+      "risingAction": "The team reassembles and navigates tight preparation, escalating threats, personal tensions, and unpredictable complications as they break into their target facility."
+    },
+    "characters": [
+      {
+        "name": "Ada",
+        "role": "Hero",
+        "description": "A former black ops team leader forced out of retirement to execute a high-stakes heist to rescue her kidnapped eight-year-old daughter."
+      },
+      {
+        "name": "Frasier Mahoney",
+        "role": "Villain",
+        "description": "A ruthless crime boss in the East London underworld who abducts Ada's daughter to force her into stealing for him."
+      },
+      {
+        "name": "Roman",
+        "role": "Supporting Character",
+        "description": "An ex-black ops operative and Ada's former romantic partner who re-teams with her to lend tactical expertise to the mission."
+      },
+      {
+        "name": "Edward",
+        "role": "Comic Relief",
+        "description": "Ada's bumbling, trouble-prone brother whose massive unpaid debt to Mahoney sets the entire crisis in motion."
+      },
+      {
+        "name": "Christina Vine",
+        "role": "Villain",
+        "description": "A powerful and intimidating crime lord who owns the jewelry store targeted during the heist."
+      },
+      {
+        "name": "Curtis",
+        "role": "Supporting Character",
+        "description": "A skilled former mercenary who owes Ada a life debt and provides muscle and firepower during the heist."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ada",
+        "target": "Charlotte",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Ada",
+        "target": "Roman",
+        "description": "Ex-romantic Partners & Former Black Ops Teammates"
+      },
+      {
+        "source": "Ada",
+        "target": "Edward",
+        "description": "Siblings"
+      },
+      {
+        "source": "Ada",
+        "target": "Curtis",
+        "description": "Former Black Ops Teammates"
+      },
+      {
+        "source": "Edward",
+        "target": "Frasier Mahoney",
+        "description": "Thief & Target of Retaliation"
+      },
+      {
+        "source": "Frasier Mahoney",
+        "target": "Charlotte",
+        "description": "Kidnapper / Captive"
+      },
+      {
+        "source": "Ada",
+        "target": "Frasier Mahoney",
+        "description": "Adversaries (Rescuer vs. Kidnapper)"
+      },
+      {
+        "source": "Ada",
+        "target": "Christina Vine",
+        "description": "Heist Target / Rival Crime Boss"
+      },
+      {
+        "source": "Ada",
+        "target": "Cia",
+        "description": "Former Commander / Informant"
+      }
+    ],
+    "seo": {
+      "slug": "wildcat",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/wildcat](https://movnix.com/movie/wildcat)",
+        "name": "Wildcat",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter."
+      },
+      "keywords": [
+        "Wildcat movie",
+        "Wildcat plot",
+        "black ops heist movie",
+        "action thriller",
+        "Wildcat overview"
+      ],
+      "canonical": "[https://movnix.com/movie/wildcat](https://movnix.com/movie/wildcat)",
+      "metaTitle": "Wildcat (2026) - Watch Movie & Plot Overview",
+      "openGraph": {
+        "og:title": "Wildcat - Action Thriller Movie",
+        "og:description": "An ex-black ops team reunites for a desperate heist to save their leader's eight-year-old daughter."
+      },
+      "twitterCard": {
+        "twitter:title": "Wildcat - Action Thriller Movie",
+        "twitter:description": "An ex-black ops team reunites for a desperate heist to save their leader's eight-year-old daughter."
+      },
+      "metaDescription": "An ex-black ops team reunites for a high-stakes heist to save their leader's 8-year-old daughter. Learn more about Wildcat."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Wildcat is action-thriller, blending intense heist elements with military black-ops fiction.",
+        "question": "What is the dominant genre of Wildcat?"
+      },
+      {
+        "answer": "No, Wildcat is a standalone action film and is not part of any pre-existing movie franchise or cinematic universe.",
+        "question": "Is Wildcat part of an existing franchise?"
+      },
+      {
+        "answer": "No, Wildcat does not feature any mid-credits or post-credits scenes, so the story fully concludes when the main credits roll.",
+        "question": "Is there a post-credit scene in Wildcat?"
+      },
+      {
+        "answer": "Wildcat stars Kate Beckinsale as the lead character, alongside Lewis Tan, Alice Krige, Charles Dance, Rasmus Hardiker, and Bailey Patrick.",
+        "question": "Who stars in Wildcat?"
+      },
+      {
+        "answer": "The movie was directed by James Nunn, working from a screenplay written by Dominic Burns.",
+        "question": "Who directed Wildcat?"
+      },
+      {
+        "answer": "The movie centers on a former black ops team that reunites to pull off a dangerous heist within 12 hours during a citywide riot to save the life of their leader's eight-year-old daughter.",
+        "question": "What is the main plot of Wildcat?"
+      },
+      {
+        "answer": "Wildcat has an official runtime of approximately 1 hour and 39 minutes (99 minutes).",
+        "question": "What is the runtime of Wildcat?"
+      },
+      {
+        "answer": "Wildcat is rated R (or 18 / R-16 internationally) due to strong violence, action intensity, and coarse language throughout.",
+        "question": "What is the age rating for Wildcat?"
+      },
+      {
+        "answer": "No, Wildcat is an original fictional action-thriller created specifically for the screen and written by Dominic Burns.",
+        "question": "Is Wildcat based on a true story or a novel?"
+      },
+      {
+        "answer": "Wildcat is available in theaters as well as on major digital video-on-demand (VOD) platforms such as Apple TV and Prime Video.",
+        "question": "Where can I watch Wildcat?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements; tension is driven by action suspense rather than supernatural or horror themes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent use of strong profanity and coarse language throughout high-stress situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Frequent action violence, gunplay, and tactical combat consistent with an ex-military heist plot."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate references, including casual alcohol consumption and smoking."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content, nudity, or romance-focused themes depicted."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional stakes involving extreme peril to a young child and desperate life-or-death motives."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-27 23:50:49.733551",
+    "updated_at": "2026-07-27 23:50:49.733551"
+  }
 }
