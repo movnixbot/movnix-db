@@ -989,5 +989,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1140521/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1140521,
+    "hash": "3f432ede2e89be7f89a474fc06a6df9d26266124165417df7a9e004daf258fc4",
+    "summary_one_sentence": "When a modern family moves to the countryside, their children discover an enchanted tree that leads to fantastical lands and helps restore their fading family bond.",
+    "summary_short": "Relocating to the peaceful countryside, a modern family hopes for a fresh start away from their busy lives. The children soon discover a extraordinary, magical tree in the nearby woods inhabited by eccentric, whimsical characters. As the tree's uppermost branches open portals to ever-changing, fantastical realms, the children embark on incredible adventures. Through these shared extraordinary experiences, the family rediscover their connection and rekindle their love for one another.",
+    "summary_long": "In an effort to reconnect and escape the hectic pace of modern life, a family relocates to a quiet countryside home. Exploring their new surroundings, the children wander into an enchanted forest where they stumble upon the legendary Magic Faraway Tree. The giant tree is home to a colorful array of eccentric, magical residents who warmly welcome the young newcomers. Most astonishingly, the very top of the tree serves as a portal to ever-shifting, fantastical lands that arrive above the clouds. Eager for adventure, the children climb through the doorway and find themselves transported into imaginative worlds full of wonder and unpredictable challenges. Each voyage forces the siblings to rely on their creativity, bravery, and teamwork to navigate the strange landscapes and return home safely. Along the way, their parents slowly begin to notice the remarkable changes in their children's spirit and imagination. As the magical journeys unfold, the family learns to slow down, listen to one another, and rediscover the joy of shared wonder. Ultimately, the magical tree provides more than just thrilling escapes—it gives the family the renewed unity and strength they desperately needed.",
+    "synopsis": "The Magic Faraway Tree is a heartwarming family drama infused with whimsical fantasy and grand adventure. After leaving the city behind to start anew in the countryside, a modern family finds themselves navigating the initial strain of fitting into an unfamiliar world. Curiosity leads the family's children into the heart of a mysterious local forest, where they encounter a towering, enchanted tree filled with delightful and quirky inhabitants. The magical tree features extraordinary lands at its summit that constantly rotate and change, opening doors to untamed realms of wonder and mystery. As the children venture into these incredible spaces, they encounter challenges that test their courage and spark their imaginations. Packed with charming world-building, uplifting themes of wonder, and a deep focus on family connection, this captivating journey explores how extraordinary magic can heal everyday lives and bring loved ones closer together.",
+    "keywords": [
+      "magical tree",
+      "portal fantasy",
+      "countryside setting",
+      "fantastical lands",
+      "eccentric characters",
+      "family bonding",
+      "childhood wonder",
+      "whimsical adventure",
+      "enchanted forest",
+      "relocation",
+      "magical realm",
+      "sibling dynamic",
+      "whimsical worldbuilding"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.65
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Whimsical",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Enchanting",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The children and their magical friends must unite and use their collective wits and resourcefulness to rescue their companions and escape from a particularly treacherous land before its portal shifts away forever.",
+      "conflict": "The children must learn to navigate the unpredictable nature of the Faraway Tree, its eccentric magical residents, and the ever-changing, sometimes perilous lands that appear at the top.",
+      "resolution": "Having safely returned home, the children hold a deeper appreciation for their enchanted surroundings, while their shared magical adventures bring their family closer together.",
+      "introduction": "The Jo, Bessie, and Fanny move to the countryside with their parents, where they discover the Enchanted Wood and the majestic Magic Faraway Tree in their backyard.",
+      "risingAction": "As the siblings forge friendships with Moon-Face, Silky, and Saucepan Man, they embark on repeated journeys into diverse magical lands, facing temporary setbacks, mischievous creatures, and unexpected obstacles along the way."
+    },
+    "characters": [
+      {
+        "name": "Jo, Beth, and Frannie",
+        "role": "Hero",
+        "description": "The curious and adventurous siblings who discover the magical tree and drive the journey through fantastical realms."
+      },
+      {
+        "name": "Moon-Face",
+        "role": "Mentor",
+        "description": "A welcoming and knowledgeable resident of the Faraway Tree who introduces the children to its magical ways and lands."
+      },
+      {
+        "name": "Silky the Fairy",
+        "role": "Supporting Character",
+        "description": "A kind and gentle tree dweller who befriends the children and assists them on their magical travels."
+      },
+      {
+        "name": "Saucepan Man",
+        "role": "Comic Relief",
+        "description": "An eccentric tree resident covered in clanking pots and pans, prone to silly rhyming misunderstandings."
+      },
+      {
+        "name": "Dame Snap",
+        "role": "Villain",
+        "description": "A strict and formidable antagonist who poses a threat to the children and the peaceful residents of the tree."
+      },
+      {
+        "name": "Tim and Polly",
+        "role": "Supporting Character",
+        "description": "The modern parents who relocate their family to the countryside, seeking to rebuild their bond."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jo",
+        "target": "Bessie",
+        "description": "Siblings"
+      },
+      {
+        "source": "Jo",
+        "target": "Fanny",
+        "description": "Siblings"
+      },
+      {
+        "source": "Bessie",
+        "target": "Fanny",
+        "description": "Siblings"
+      },
+      {
+        "source": "Jo, Bessie, and Fanny",
+        "target": "Moon-Face",
+        "description": "Close Friends & Magical Guides"
+      },
+      {
+        "source": "Moon-Face",
+        "target": "Silky the Fairy",
+        "description": "Best Friends & Tree Neighbors"
+      },
+      {
+        "source": "Moon-Face",
+        "target": "The Saucepan Man",
+        "description": "Close Friends & Companion Explorers"
+      },
+      {
+        "source": "Silky the Fairy",
+        "target": "Bessie",
+        "description": "Close Friends"
+      },
+      {
+        "source": "The Saucepan Man",
+        "target": "Jo, Bessie, and Fanny",
+        "description": "Eccentric Friend & Adventure Companion"
+      },
+      {
+        "source": "Dame Washalot",
+        "target": "Tree Residents",
+        "description": "Upstairs Neighbor (known for throwing dirty washwater down the tree)"
+      },
+      {
+        "source": "Angry Pixie",
+        "target": "Tree Visitors",
+        "description": "Irritable Neighbor (frequently annoyed by passersby)"
+      }
+    ],
+    "seo": {
+      "slug": "the-magic-faraway-tree",
+      "jsonLd": {
+        "name": "The Magic Faraway Tree",
+        "@type": "Movie",
+        "genre": [
+          "Family",
+          "Fantasy",
+          "Adventure"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures."
+      },
+      "keywords": [
+        "The Magic Faraway Tree",
+        "The Magic Faraway Tree movie",
+        "family fantasy movie",
+        "Enid Blyton adaptation",
+        "magical adventure movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-magic-faraway-tree](https://movnix.com/movie/the-magic-faraway-tree)",
+      "metaTitle": "The Magic Faraway Tree - Movie Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "The Magic Faraway Tree - Whimsical Family Adventure",
+        "og:description": "Discover a magical tree in the countryside that transports a modern family to fantastical lands, rekindling their family bond."
+      },
+      "twitterCard": {
+        "twitter:title": "The Magic Faraway Tree - Family Adventure Movie",
+        "twitter:description": "A modern family discovers a magical tree leading to fantastical lands and unforgettable adventures."
+      },
+      "metaDescription": "A family relocates to the countryside and discovers a magical tree with eccentric residents, embarking on adventures to fantastical lands."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a fantasy adventure and family film, combining whimsical magical elements with a heartfelt story about family reconnection.",
+        "question": "What is the dominant genre of The Magic Faraway Tree?"
+      },
+      {
+        "answer": "Yes, it is a modern live-action film adaptation based on Enid Blyton's classic children's book series 'The Faraway Tree', originally published between 1939 and 1951.",
+        "question": "Is The Magic Faraway Tree based on a book?"
+      },
+      {
+        "answer": "It serves as a standalone feature adaptation of Enid Blyton's iconic series, though official sequel developments were announced following its initial theatrical release.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film stars Andrew Garfield and Claire Foy as parents Tim and Polly Thompson, alongside an ensemble including Nicola Coughlan (Silky), Nonso Anozie (Moonface), Jessica Gunning (Dame Washalot), Dustin Demri-Burns (Saucepan Man), Jennifer Saunders, and Rebecca Ferguson (Dame Snap).",
+        "question": "Who are the primary cast members?"
+      },
+      {
+        "answer": "The film features a brief mid-credits sequence showcasing additional playful antics from the residents of the Faraway Tree, though there is no major teaser sequence at the very end of the credits.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "The movie was directed by Ben Gregor, with a screenplay written by Simon Farnaby, known for co-writing Wonka and Paddington 2.",
+        "question": "Who directed and wrote the screenplay?"
+      },
+      {
+        "answer": "The movie carries a PG rating, making it suitable for children, families, and adults looking for nostalgic, wholesome fantasy entertainment.",
+        "question": "What is the age rating and target audience for the film?"
+      },
+      {
+        "answer": "After a high-tech city family relocates to a rustic countryside home, their children venture into the nearby forest and discover an enchanted tree populated by magical beings. Traveling to fantastical lands atop the tree, the family rediscover their love and connection for one another.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "The movie received its UK theatrical release on March 27, 2026, followed by a theatrical rollout in North America on August 21, 2026.",
+        "question": "When was the movie released?"
+      },
+      {
+        "answer": "As they climb the Faraway Tree, the children are transported into ever-changing magical realms floating at its peak, including the Land of Goodies, the Land of Spells, the Land of Do-As-You-Please, and the strict Land of Dame Snap.",
+        "question": "What magical lands do the children explore?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Mild fantastical elements that may hold brief, light suspense for very young viewers."
+      },
+      "language": {
+        "score": 0,
+        "description": "Clean language appropriate for all ages with no profanity or vulgarity."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or graphic actions present; gentle fantasy adventure."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No depiction or reference to drugs, alcohol, or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romance-related themes."
+      },
+      "emotionalIntensity": {
+        "score": 1,
+        "description": "Wholesome, heartwarming tone focusing on family bonding and playful imagination."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 5,
+      "comedy": 6,
+      "emotion": 7,
+      "fantasy": 10,
+      "mystery": 5,
+      "romance": 0,
+      "science": 0,
+      "suspense": 4,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 23:49:58.676658",
+    "updated_at": "2026-07-27 23:49:58.676658"
+  }
 }
