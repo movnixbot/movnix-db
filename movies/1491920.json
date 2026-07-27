@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 118.3086,
-    "voteAverage": 5.9,
-    "voteCount": 10,
+    "popularity": 66.3909,
+    "voteAverage": 6.267,
+    "voteCount": 15,
     "homepage": "https://mock-movie-website.com/movies/1491920",
     "posterPath": "/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
-    "backdropPath": "/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
-    "collectionId": null
+    "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+    "collectionId": null,
+    "certification": "13+"
   },
   "collection": null,
   "genres": [
@@ -68,7 +69,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+      "filePath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -208,6 +209,27 @@
       "type": "poster"
     },
     {
+      "filePath": "/yEE6P2O9zvb8EYuMM6aNh1MMSh1.jpg",
+      "width": 911,
+      "height": 1350,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/AdOyOl9uCc7CPVJ6WijpAEmfxr2.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
       "width": 1280,
       "height": 721,
@@ -227,13 +249,20 @@
       "height": 768,
       "aspectRatio": 1.779,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/yj6bku4UhatfkcV22Q4DY1ynj04.jpg",
+      "width": 3840,
+      "height": 2159,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.9,
-      "votesCount": 10
+      "ratingValue": 6.267,
+      "votesCount": 15
     },
     {
       "source": "crawled",
@@ -290,7 +319,7 @@
     {
       "tmdbPersonId": 3564490,
       "name": "Ai Mi",
-      "profilePath": "/iC3qFWSfopItdRhpnXMxYiOOAjK.jpg",
+      "profilePath": "/uiKBA66FDdYU4E2KJD0XUYWIsGl.jpg",
       "character": "Chusan",
       "job": "Actor",
       "department": "Acting",
@@ -316,8 +345,8 @@
     },
     {
       "tmdbPersonId": 6329585,
-      "name": "胡予安",
-      "profilePath": null,
+      "name": "Hu Yu'an",
+      "profilePath": "/sZiDCGt30X7nwd3oykGWPB1yIM3.jpg",
       "character": "Sangbiao",
       "job": "Actor",
       "department": "Acting",
@@ -325,8 +354,8 @@
     },
     {
       "tmdbPersonId": 6329586,
-      "name": "倪好",
-      "profilePath": null,
+      "name": "Ni Hao",
+      "profilePath": "/7AoIYKNuL8ga2mQEBBQUybtbfkl.jpg",
       "character": "Sisi",
       "job": "Actor",
       "department": "Acting",
@@ -334,8 +363,8 @@
     },
     {
       "tmdbPersonId": 3324233,
-      "name": "赵丽娜",
-      "profilePath": "/imzFZnPk6WScr9z1zUWhcDUmYTL.jpg",
+      "name": "Zhao Lina",
+      "profilePath": "/tvhgeBS1NotzyMH9vPJch3HrEfp.jpg",
       "character": "Jury president",
       "job": "Actor",
       "department": "Acting",
@@ -369,8 +398,8 @@
       "order": 13
     },
     {
-      "tmdbPersonId": 4840054,
-      "name": "Min Chen",
+      "tmdbPersonId": 1467409,
+      "name": "Chen Min",
       "profilePath": null,
       "character": "Banzhu",
       "job": "Actor",
@@ -397,8 +426,8 @@
     },
     {
       "tmdbPersonId": 6338565,
-      "name": "He Yingxuan",
-      "profilePath": null,
+      "name": "Hunny Ho",
+      "profilePath": "/mn3EPqXFOuXFULyJKlJuvlcAwF3.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -475,5 +504,250 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1491920/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1491920,
+    "hash": "6de46dd71102487078b886ca9f2a0e1b723830b7e28113ceb797440736bc4ae0",
+    "summary_one_sentence": "A Kung Fu Women's Soccer Team must overcome highly skilled opponents, external pressure, and on-field schemes using their martial arts skills in the Supreme Invincible Cup.",
+    "summary_short": "The Supreme Invincible Cup soccer tournament is about to start with top teams competing in a major showdown. The Kung Fu Women's Soccer Team faces a brutal opening draw against strong opponents amid growing external pressure. On the field, they encounter repeated schemes and tactics from rivals. They must rely on their kung fu abilities to turn the tide and survive the competition.",
+    "summary_long": "The Supreme Invincible Cup, an unprecedented soccer tournament, is about to begin with many top teams preparing for a fierce showdown. The Kung Fu Women's Soccer Team quickly finds themselves handed a hellish script as they are matched against highly skilled opponents from the very start. External pressure mounts on the team from fans, media, and possibly organizers who doubt their chances. On the field, rival teams employ a series of schemes and underhanded tactics to gain advantage against the kung fu players. The women must adapt their martial arts training to the rules and physical demands of soccer to compete. Tensions rise as each match brings new challenges and strategic battles both on and off the pitch. Despite the odds, the team's unique kung fu techniques begin to shift momentum in critical moments. They face internal and external doubts while learning to work as a cohesive unit. The story builds toward whether their unconventional style can overcome the tournament's toughest contenders. Ultimately, the narrative questions if kung fu can truly turn the tide on the green field against pure soccer prowess.",
+    "synopsis": "Kung Fu Soccer is a drama-comedy-action film following the Kung Fu Women's Soccer Team as they enter the highly anticipated Supreme Invincible Cup. Faced with a difficult bracket, skilled adversaries, and mounting outside pressure, the team must navigate a tournament filled with rival schemes and intense competition. Blending martial arts with soccer, the story explores whether their kung fu background can help them defy expectations and succeed on the field.",
+    "keywords": [
+      "kung fu soccer",
+      "female soccer team",
+      "tournament underdog",
+      "comedic action",
+      "martial arts on field",
+      "sports rivalry",
+      "external pressure",
+      "on-field schemes",
+      "turn the tide",
+      "green field battle",
+      "hellish matchup",
+      "team camaraderie",
+      "action comedy",
+      "comeback story"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Underdog Struggle",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Competition",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Team Unity",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Deception / Schemes",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "In a critical match against overwhelming odds, the team must use their kung fu mastery to turn the tide on the field in a decisive showdown.",
+      "conflict": "The Kung Fu Women's Soccer Team faces a brutal opening draw against highly skilled opponents, with external pressure and on-field schemes threatening their participation.",
+      "resolution": "The outcome reveals whether the Kung Fu Women's Soccer Team overcomes the schemes and pressure to succeed in the tournament.",
+      "introduction": "The Supreme Invincible Cup is about to start, gathering top teams for a major tournament, and the Kung Fu Women's Soccer Team prepares to compete.",
+      "risingAction": "As matches progress, the team encounters escalating challenges and cunning tactics from rivals, forcing them to rely on kung fu skills to survive each game."
+    },
+    "characters": [
+      {
+        "name": "Zhang Xiaofei",
+        "role": "Supporting Character",
+        "description": "Part of the Kung Fu Women's Soccer Team facing a hellish tournament script; supports the team's struggle."
+      },
+      {
+        "name": "Dilraba Dilmurat",
+        "role": "Hero",
+        "description": "Key member of the Kung Fu Women's Soccer Team using kung fu to help turn the tide on the field."
+      },
+      {
+        "name": "Zhang Yixing",
+        "role": "Supporting Character",
+        "description": "Team member or ally assisting the women's soccer team with skills and strategy."
+      },
+      {
+        "name": "Carina Lau",
+        "role": "Mentor",
+        "description": "Experienced figure guiding or mentoring the Kung Fu Women's Soccer Team through pressure and schemes."
+      },
+      {
+        "name": "Takeru Satoh",
+        "role": "Supporting Character",
+        "description": "Opponent or ally in the tournament showdown with the top teams."
+      },
+      {
+        "name": "Ai Mi",
+        "role": "Supporting Character",
+        "description": "Member of the Kung Fu Women's Soccer Team or related cast in the cup competition."
+      },
+      {
+        "name": "Xueye",
+        "role": "Supporting Character",
+        "description": "Participant in the Supreme Invincible Cup among the cast."
+      },
+      {
+        "name": "Sisley Choi Si-Pui",
+        "role": "Supporting Character",
+        "description": "Part of the tournament cast, either opponent or team member."
+      },
+      {
+        "name": "Hu Yu'an",
+        "role": "Supporting Character",
+        "description": "Cast member in the soccer tournament narrative."
+      },
+      {
+        "name": "Ni Hao",
+        "role": "Comic Relief",
+        "description": "Provides levity amid the intense and scheming tournament atmosphere."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kung Fu Women's Soccer Team",
+        "target": "Opponent Teams",
+        "description": "Rivals/Competitors"
+      },
+      {
+        "source": "Kung Fu Women's Soccer Team",
+        "target": "External Pressure Sources",
+        "description": "Antagonistic/Pressuring"
+      },
+      {
+        "source": "Kung Fu Women's Soccer Team",
+        "target": "Supreme Invincible Cup Organizers",
+        "description": "Participants/Tournament Hosts"
+      }
+    ],
+    "seo": {
+      "slug": "kung-fu-soccer",
+      "jsonLd": {
+        "name": "Kung Fu Soccer",
+        "@type": "Movie",
+        "genre": "Sports Comedy",
+        "@context": "https://schema.org",
+        "description": "The Supreme Invincible Cup begins as the Kung Fu Women's Soccer Team faces skilled opponents and pressure, using kung fu to turn the tide."
+      },
+      "keywords": [
+        "Kung Fu Soccer",
+        "kung fu women's soccer team",
+        "Supreme Invincible Cup",
+        "sports comedy movie"
+      ],
+      "canonical": "https://movnix.com/movie/kung-fu-soccer",
+      "metaTitle": "Kung Fu Soccer - Kung Fu Women's Team Battle in Supreme Invincible Cup",
+      "openGraph": {
+        "og:title": "Kung Fu Soccer",
+        "og:description": "The Kung Fu Women's Soccer Team uses martial arts to overcome schemes in the Supreme Invincible Cup."
+      },
+      "twitterCard": {
+        "twitter:title": "Kung Fu Soccer",
+        "twitter:description": "A kung fu women's soccer team fights top rivals and field schemes in the Supreme Invincible Cup."
+      },
+      "metaDescription": "Watch Kung Fu Soccer: a women's team uses martial arts to fight schemes and top rivals in the Supreme Invincible Cup soccer showdown."
+    },
+    "faq": [
+      {
+        "answer": "The title is 'Kung Fu Soccer'.",
+        "question": "What is the title of this work?"
+      },
+      {
+        "answer": "The 'Supreme Invincible Cup' is about to begin with top teams facing off. The Kung Fu Women's Soccer Team gets a difficult start against skilled opponents with external pressure and on-field schemes, and must use kung fu to turn the tide.",
+        "question": "What is the overview of the story?"
+      },
+      {
+        "answer": "There is no information indicating that 'Kung Fu Soccer' is part of a franchise; it appears to be a standalone story.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No details are provided about a post-credit scene, so it is unknown if one exists.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is a mix of sports and martial arts comedy/drama, combining soccer with kung fu elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The Kung Fu Women's Soccer Team is the main team featured.",
+        "question": "Who is the main team featured in the story?"
+      },
+      {
+        "answer": "They compete in the 'Supreme Invincible Cup'.",
+        "question": "What tournament do they compete in?"
+      },
+      {
+        "answer": "They face highly skilled opponents, mounting external pressure, and repeated schemes on the field from the very start.",
+        "question": "What challenges does the Kung Fu Women's Soccer Team face?"
+      },
+      {
+        "answer": "They attempt to use their kung fu skills to turn the tide on the soccer field.",
+        "question": "How do they attempt to overcome their difficulties?"
+      },
+      {
+        "answer": "No, the overview ends with the question of whether they can use kung fu to turn the tide, leaving the outcome unresolved.",
+        "question": "Is the outcome of the tournament revealed in the overview?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present"
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal or no strong language expected in a sports comedy"
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild comedic martial arts and sports physicality, no graphic harm"
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or references indicated"
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated"
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate competitive pressure and underdog struggle themes"
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 9,
+      "comedy": 7,
+      "emotion": 5,
+      "fantasy": 6,
+      "mystery": 3,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 4
+    },
+    "created_at": "2026-07-18 21:01:15.548975",
+    "updated_at": "2026-07-18 21:01:15.548975"
+  }
 }

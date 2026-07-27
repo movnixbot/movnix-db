@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 203.5161,
-    "voteAverage": 6.843,
-    "voteCount": 86,
+    "popularity": 241.7979,
+    "voteAverage": 7,
+    "voteCount": 120,
     "homepage": "https://mock-movie-website.com/movies/1668364",
     "posterPath": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
     "backdropPath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
@@ -187,6 +187,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/4MDIN4b2BUt4COZTR2LKJFM2Thd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
       "width": 1920,
       "height": 1080,
@@ -218,8 +225,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.843,
-      "votesCount": 86
+      "ratingValue": 7,
+      "votesCount": 120
     },
     {
       "source": "imdb",
@@ -236,7 +243,7 @@
     {
       "tmdbPersonId": 947296,
       "name": "Ludwika Paleta",
-      "profilePath": "/dcozq8kwFH1XEu547PZ6OpJcznz.jpg",
+      "profilePath": "/bz8oDcROtIe8k1yokobo27jDMNX.jpg",
       "character": "Lucero",
       "job": "Actor",
       "department": "Acting",
@@ -245,7 +252,7 @@
     {
       "tmdbPersonId": 72128,
       "name": "José María Yázpik",
-      "profilePath": "/1IjbKEx6ExJy7LRaK3cBHJyosUt.jpg",
+      "profilePath": "/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg",
       "character": "Fernando",
       "job": "Actor",
       "department": "Acting",
@@ -412,7 +419,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
