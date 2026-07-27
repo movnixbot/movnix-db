@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 29.0343,
-    "voteAverage": 7.9,
-    "voteCount": 12,
+    "popularity": 13.0504,
+    "voteAverage": 7.3,
+    "voteCount": 21,
     "homepage": "https://www.netflix.com/title/82116953",
-    "posterPath": "/836hM2OzkTOY8Vrv152ZczW1oj7.jpg",
+    "posterPath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdropPath": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
     "collectionId": 1397203
   },
@@ -85,7 +85,7 @@
   ],
   "images": [
     {
-      "filePath": "/836hM2OzkTOY8Vrv152ZczW1oj7.jpg",
+      "filePath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -99,6 +99,34 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/2hInkj878sjY7zfN9LUwtq4K4je.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oqgPvSQinaoTsTSYMbU8EAZpNfH.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pLnfjqYvC1MFL7y1JKvpxkRQVYd.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
       "width": 1000,
       "height": 1500,
@@ -107,6 +135,13 @@
     },
     {
       "filePath": "/2NbNO2TYT9p6iTRbhn1uwAQKubV.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/i828R4W8KbdEh3kJVLgA2IGwa0L.jpg",
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
@@ -190,34 +225,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/2hInkj878sjY7zfN9LUwtq4K4je.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/oqgPvSQinaoTsTSYMbU8EAZpNfH.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/pLnfjqYvC1MFL7y1JKvpxkRQVYd.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/12WF032B2EvMQwJp1WOH0ihbKKT.jpg",
       "width": 1024,
       "height": 1536,
@@ -239,9 +246,23 @@
       "type": "poster"
     },
     {
+      "filePath": "/pY44IjFr3KMe4arWh6TjsB24zCx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
       "width": 2000,
       "height": 1125,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/9gdDr94dI0Rfo96kbLkkGTKXoOd.jpg",
+      "width": 1920,
+      "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -249,8 +270,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.9,
-      "votesCount": 12
+      "ratingValue": 7.3,
+      "votesCount": 21
     },
     {
       "source": "crawled",
@@ -498,6 +519,16 @@
       "iso_3166_1": "KR",
       "title": "골든 카무이 3: 아바시리 감옥습격편",
       "type": ""
+    },
+    {
+      "iso_3166_1": "DE",
+      "title": "Golden Kamuy - The Abashiri Prison Raid",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Golden Kamuy: Assault on Abashiri Prison",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -557,5 +588,315 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1397201/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1397201,
+    "hash": "7452af6111cda0605a45c6630e3670f55224a3d2cf014689bacb90e6b4cc38ac",
+    "summary_one_sentence": "Rival factions clash in a brutal struggle over tattooed prisoners as their pursuit of hidden gold leads them to storm Abashiri Prison in search of the man with all the answers.",
+    "summary_short": "Multiple groups are locked in a violent pursuit of escaped prisoners bearing tattooed maps to hidden treasure. As alliances blur and enemies emerge, the conflict escalates into a fierce battle over these captives. The struggle ultimately converges on Abashiri Prison, where Noppera-bo, the key figure holding crucial secrets, is imprisoned. The raid becomes a decisive confrontation to uncover the truth behind the tattoos and the gold.",
+    "summary_long": "In the harsh frontier of post-Russo-Japanese War Hokkaido, several factions compete to collect escaped convicts whose tattooed bodies form a map to a hidden Ainu gold cache. Saichi Sugimoto and Asirpa continue their quest to find the prisoners while being pursued by ruthless soldiers and criminals. Toshizo Hijikata and his band of former samurai also scheme to seize the tattooed men for their own ends. As the groups close in on the prisoners, loyalties are tested and violent skirmishes break out over who controls the captives. The search reveals that Noppera-bo, the mysterious figure who orchestrated the tattoo scheme, possesses the final answers everyone seeks. Noppera-bo is revealed to be incarcerated at the heavily guarded Abashiri Prison in northern Hokkaido. Determined to extract the truth, Sugimoto's group and their rivals launch a daring raid on the prison. The assault triggers chaotic battles within the prison walls as each side fights to reach the prisoner first. Friends and foes become indistinguishable amid the bloodshed and shifting alliances. The Abashiri raid becomes the explosive culmination of the treasure hunt, setting the stage for the final revelations.",
+    "synopsis": "Golden Kamuy -The Abashiri Prison Raid- follows competing factions in early 20th-century Hokkaido as they hunt for escaped prisoners marked with tattoos that reveal the location of a hidden fortune. Tensions rise as the treasure seekers, soldiers, and surviving samurai clash in brutal confrontations where alliances are uncertain. The chase leads them to the isolated and formidable Abashiri Prison, where the enigmatic Noppera-bo is held. This arc brings the various hunters together for a high-stakes prison raid driven by the desire for gold and the truth behind the tattooed map.",
+    "keywords": [
+      "tattooed prisoners",
+      "hidden treasure map",
+      "Abashiri Prison",
+      "post-Russo-Japanese War",
+      "Hokkaido wilderness",
+      "Ainu culture",
+      "survival skills",
+      "prison raid",
+      "faction conflict",
+      "mysterious antagonist",
+      "Noppera-bo",
+      "hunting pursuit",
+      "brutal combat",
+      "loyalty and betrayal",
+      "historical adventure"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Greed / Pursuit of Wealth",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Betrayal / Trust",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Prison / Confinement",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Mystery / Secrets",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The confrontation reaches its peak at Abashiri Prison as groups converge to reach Noppera-bo and seize control of the truth behind the tattoos.",
+      "conflict": "Rival groups clash over the tattooed prisoners, with shifting loyalties making it unclear who can be trusted as friend or foe.",
+      "resolution": "The outcome of the raid determines who gains access to Noppera-bo and shifts the balance of power among the competing factions, opening the next phase of the hunt.",
+      "introduction": "Various factions are introduced as they pursue their own goals tied to the tattooed prisoners and the hidden fortune, setting the stage for a tense pursuit.",
+      "risingAction": "The escalating battles and pursuit drive all parties toward Abashiri Prison, where the elusive Noppera-bo is imprisoned and believed to hold the key to everything."
+    },
+    "characters": [
+      {
+        "name": "Kento Yamazaki",
+        "role": "Hero",
+        "description": "Leads the pursuit of the tattooed prisoners and fights to uncover the truth behind the skins."
+      },
+      {
+        "name": "Anna Yamada",
+        "role": "Supporting Character",
+        "description": "Assists the main group with their mission and provides key support in the conflict."
+      },
+      {
+        "name": "Gordon Maeda",
+        "role": "Supporting Character",
+        "description": "Part of a group chasing the prisoners, contributing to the multi-sided battle."
+      },
+      {
+        "name": "Asuka Kudo",
+        "role": "Supporting Character",
+        "description": "Joins the chaotic pursuit and aids in the raid on Abashiri Prison."
+      },
+      {
+        "name": "Shuntaro Yanagi",
+        "role": "Villain",
+        "description": "Opposes the protagonists in the fierce struggle over the tattooed men."
+      },
+      {
+        "name": "Akihisa Shiono",
+        "role": "Supporting Character",
+        "description": "Fights alongside or against others in the race to Abashiri Prison."
+      },
+      {
+        "name": "Yuma Yamoto",
+        "role": "Comic Relief",
+        "description": "Provides lighter moments amid the tense prison raid and battles."
+      },
+      {
+        "name": "Ryohei Otani",
+        "role": "Supporting Character",
+        "description": "Participates in the mission and the confrontation at Abashiri."
+      },
+      {
+        "name": "Maryjun Takahashi",
+        "role": "Supporting Character",
+        "description": "Involved in the overlapping pursuits surrounding the prisoners."
+      },
+      {
+        "name": "Yuki Sakurai",
+        "role": "Other",
+        "description": "Appears among the cast in the raid with an unspecified faction role."
+      },
+      {
+        "name": "Noppera-bo",
+        "role": "Other",
+        "description": "The mysterious man locked in Abashiri who holds all answers about the tattooed prisoners."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Saichi Sugimoto",
+        "target": "Asirpa",
+        "description": "Allies/Hunting Partners"
+      },
+      {
+        "source": "Saichi Sugimoto",
+        "target": "Toshihiko Tsurumi",
+        "description": "Former Comrade/Ally"
+      },
+      {
+        "source": "Saichi Sugimoto",
+        "target": "Tokushiro Tsukishima",
+        "description": "Rivals/Adversaries"
+      },
+      {
+        "source": "Saichi Sugimoto",
+        "target": "Hyakunosuke Ogata",
+        "description": "Rivals/Adversaries"
+      },
+      {
+        "source": "Asirpa",
+        "target": "Saichi Sugimoto",
+        "description": "Allies/Hunting Partners"
+      },
+      {
+        "source": "Tokushiro Tsukishima",
+        "target": "Hyakunosuke Ogata",
+        "description": "Allies within 7th Division Faction"
+      },
+      {
+        "source": "Tokushiro Tsukishima",
+        "target": "Saichi Sugimoto",
+        "description": "Rivals/Adversaries"
+      },
+      {
+        "source": "Hyakunosuke Ogata",
+        "target": "Saichi Sugimoto",
+        "description": "Rivals/Adversaries"
+      },
+      {
+        "source": "Noppera-bo",
+        "target": "Tattooed Prisoners",
+        "description": "Creator of Tattoo Map / Captor of Secrets"
+      },
+      {
+        "source": "Saichi Sugimoto",
+        "target": "Noppera-bo",
+        "description": "Target of Pursuit / Seeks Answers"
+      },
+      {
+        "source": "Asirpa",
+        "target": "Noppera-bo",
+        "description": "Target of Pursuit / Seeks Answers"
+      },
+      {
+        "source": "Tokushiro Tsukishima",
+        "target": "Noppera-bo",
+        "description": "Target of Pursuit / Seeks Gold"
+      },
+      {
+        "source": "Hyakunosuke Ogata",
+        "target": "Noppera-bo",
+        "description": "Target of Pursuit / Seeks Gold"
+      }
+    ],
+    "seo": {
+      "slug": "golden-kamuy-the-abashiri-prison-raid",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/golden-kamuy-the-abashiri-prison-raid",
+        "name": "Golden Kamuy -The Abashiri Prison Raid-",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Historical"
+        ],
+        "@context": "https://schema.org",
+        "description": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away..."
+      },
+      "keywords": [
+        "Golden Kamuy",
+        "Abashiri Prison Raid",
+        "Noppera-bo",
+        "tattooed prisoners",
+        "anime movie"
+      ],
+      "canonical": "https://movnix.com/movie/golden-kamuy-the-abashiri-prison-raid",
+      "metaTitle": "Golden Kamuy -The Abashiri Prison Raid- | Movie Overview & Battle for Tattooed Prisoners",
+      "openGraph": {
+        "og:url": "https://movnix.com/movie/golden-kamuy-the-abashiri-prison-raid",
+        "og:type": "video.movie",
+        "og:title": "Golden Kamuy -The Abashiri Prison Raid-",
+        "og:description": "A fierce battle over tattooed prisoners leads to Abashiri Prison and the truth behind Noppera-bo."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Golden Kamuy -The Abashiri Prison Raid-",
+        "twitter:description": "Groups clash over tattooed prisoners and hunt Noppera-bo in Abashiri Prison. Stream the movie now."
+      },
+      "metaDescription": "Watch Golden Kamuy: The Abashiri Prison Raid. Groups clash over tattooed prisoners and hunt Noppera-bo in Abashiri Prison. Friend or foe?"
+    },
+    "faq": [
+      {
+        "answer": "It depicts a fierce battle among various groups pursuing tattooed prisoners, leading them to Abashiri Prison where Noppera-bo, the man with all the answers, is incarcerated.",
+        "question": "What is Golden Kamuy -The Abashiri Prison Raid- about?"
+      },
+      {
+        "answer": "Yes, it is based on the Golden Kamuy manga and anime franchise created by Satoru Noda.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No official information confirms a post-credit scene; as a standard theatrical release it is not known to include one.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is historical action adventure with survival and treasure-hunt elements.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Noppera-bo is the man locked away in Abashiri Prison who holds all the answers regarding the tattooed prisoners and their hidden gold.",
+        "question": "Who is Noppera-bo?"
+      },
+      {
+        "answer": "The main groups include Saichi Sugimoto and Asirpa, the 7th Division soldiers, and various escaped convicts and Ainu involved in the conflict.",
+        "question": "Who are the main groups fighting over the tattooed prisoners?"
+      },
+      {
+        "answer": "The story leads all factions to Abashiri Prison in Hokkaido, Japan, during the early 20th century.",
+        "question": "Where does the story primarily take place?"
+      },
+      {
+        "answer": "The tattooed prisoners collectively hold a map leading to a hidden stash of Ainu gold, making them the central objective of the conflict.",
+        "question": "What is the significance of the tattooed prisoners?"
+      },
+      {
+        "answer": "While prior viewing or reading helps, the film provides enough context about the mission and characters for new audiences to follow.",
+        "question": "Is prior knowledge of the Golden Kamuy series required to understand the movie?"
+      },
+      {
+        "answer": "The movie explores who is friend and who is foe as each group pursues its own mission amid the battle over the tattooed prisoners.",
+        "question": "What central question does the movie explore?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Some dark and tense prison atmosphere but no explicit horror elements"
+      },
+      "language": {
+        "score": 5,
+        "description": "Occasional strong language likely present in conflict-driven dialogue"
+      },
+      "violence": {
+        "score": 8,
+        "description": "Fierce battles and pursuit of tattooed prisoners involving weapons and physical combat"
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal or no substance use referenced"
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview"
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High tension over friend-or-foe uncertainty and high-stakes prison raid"
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 8,
+      "comedy": 3,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 2,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-17 08:15:20.826276",
+    "updated_at": "2026-07-17 08:15:20.826276"
+  }
 }
