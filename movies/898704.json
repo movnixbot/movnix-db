@@ -609,5 +609,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/898704/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 898704,
+    "hash": "25c3ef9fac53c42ca7e81d9679882fd3c02a315d7eee5b6d3d5268884e6c3001",
+    "summary_one_sentence": "In 7th-century Arabia, Princess Hind transforms into a formidable warrior and allies with a legendary bandit to unite warring tribes against the tyrannical Emperor Kisra at the historic Battle of Dhi Qar.",
+    "summary_short": "Set in 7th-century Arabia, Princess Hind refuses to submit to the cruel demands of the ruthless Emperor Kisra. Forged into a fierce warrior, she seeks the aid of the legendary bandit Hanzala to rally divided and hostile tribes under one banner. Together, they prepare for the monumental Battle of Dhi Qar, a conflict destined to alter the trajectory of Arabian history. Ultimately, her defiance inspires a legendary struggle for freedom, honor, and tribal unity.",
+    "summary_long": "In the vast and unforgiving landscape of 7th-century Arabia, the tyrannical Emperor Kisra seeks to expand his oppressive dominion over the region's scattered tribes. Standing in his way is Princess Hind, a noble woman who refuses to capitulate to his ruthless demands and cruel ambitions. Stripped of her peaceful life, Hind undergoes a grueling transformation to become a skilled and fearless warrior dedicated to defending her realm. Recognizing that her people cannot survive Kisra's overwhelming force alone, she seeks out Hanzala, a legendary and elusive bandit whose tactical brilliance is matched only by his formidable combat skills. Despite deep-seated rivalries and centuries of division among the local clans, Hind and Hanzala embark on a perilous campaign to unite the warring tribes into a cohesive alliance. As Emperor Kisra's massive armies march across the desert, Hind must earn the trust of skepticism-filled chieftains and forge them into a unified army. Their efforts culminate in the historic Battle of Dhi Qar, a clash where strategy, sheer courage, and newly forged bonds are put to the ultimate test against an empire's overwhelming power. Through sacrifice and unyielding resolve, the desert warriors mount a heroic last stand that reshapes the balance of power in the ancient world forever.",
+    "synopsis": "Set against the sweeping backdrop of 7th-century Arabia, Desert Warrior follows the epic story of Princess Hind, a royal who defies the formidable Emperor Kisra to fight for her people's independence. As Kisra's aggressive expansion threatens to subjugate the region, Hind embraces the path of a warrior, aligning with the renowned bandit Hanzala to bridge ancient rivalries and rally the fractured Arabian tribes. This historical action drama explores themes of leadership, unity, and defiance, leading up to the legendary Battle of Dhi Qar—a pivotal confrontation that proved even the mightiest empire could be challenged when desperate factions stand together.",
+    "keywords": [
+      "warrior princess",
+      "7th-century Arabia",
+      "desert warfare",
+      "uniting warring tribes",
+      "battle of dhi qar",
+      "rebellion against empire",
+      "legendary bandit",
+      "tyrannical ruler",
+      "epic last stand",
+      "female-led resistance",
+      "historical epic",
+      "tribal alliance",
+      "defiance against oppression"
+    ],
+    "themes": [
+      {
+        "theme": "Rebellion & Defiance",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Unity & Alliance",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Legacy & Destiny",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heroic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The newly unified tribes face off against Emperor Kisra's formidable forces in the monumental and historic Battle of Dhi Qar.",
+      "conflict": "Defying Kisra's tyranny, Hind refuses to submit and commits to becoming a warrior to fight for her people's freedom.",
+      "resolution": "The outcome of the pivotal battle forever alters the power dynamics of the region and reshapes the course of history for the Arab tribes.",
+      "introduction": "In 7th-century Arabia, Princess Hind lives under the growing shadow of the ruthless Emperor Kisra's oppressive rule.",
+      "risingAction": "Aided by the legendary bandit Hanzala, Hind undergoes intense training and embarks on a complex mission to unite fiercely divided, warring tribes."
+    },
+    "characters": [
+      {
+        "name": "Princess Hind",
+        "role": "Hero",
+        "description": "An Arabian princess who defies Emperor Kisra, trains as a warrior, and unites the Arab tribes to fight for their freedom."
+      },
+      {
+        "name": "Hanzala",
+        "role": "Anti Hero",
+        "description": "A legendary and mysterious desert bandit with a hidden past who aids Princess Hind in her fight against the empire."
+      },
+      {
+        "name": "Emperor Kisra II",
+        "role": "Villain",
+        "description": "The ruthless ruler of the Sasanian Empire who seeks to capture Hind and subjugate the Arab tribes."
+      },
+      {
+        "name": "King Al-Numan",
+        "role": "Mentor",
+        "description": "Princess Hind's father, the deposed king whose legacy and wisdom guide Hind's stand against imperial tyranny."
+      },
+      {
+        "name": "Jalabzeen",
+        "role": "Villain",
+        "description": "A mercenary tracker and military leader deployed by Emperor Kisra to hunt down Hind and Hanzala."
+      },
+      {
+        "name": "Hani",
+        "role": "Supporting Character",
+        "description": "A key tribal leader who joins Princess Hind and Hanzala to forge an alliance for the Battle of Dhi Qar."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Princess Hind",
+        "target": "Hanzala",
+        "description": "Allies / Co-leaders"
+      },
+      {
+        "source": "Princess Hind",
+        "target": "Emperor Kisra",
+        "description": "Enemies / Oppressor and Rebel"
+      },
+      {
+        "source": "Hanzala",
+        "target": "Emperor Kisra",
+        "description": "Enemies"
+      },
+      {
+        "source": "Jalabzeen",
+        "target": "Emperor Kisra",
+        "description": "Military Commander / Subordinate"
+      },
+      {
+        "source": "Jalabzeen",
+        "target": "Princess Hind",
+        "description": "Hunter and Quarry / Enemies"
+      },
+      {
+        "source": "Princess Hind",
+        "target": "King Numan",
+        "description": "Father / Daughter"
+      }
+    ],
+    "seo": {
+      "slug": "desert-warrior",
+      "jsonLd": {
+        "name": "Desert Warrior",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "History",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history."
+      },
+      "keywords": [
+        "Desert Warrior",
+        "Desert Warrior movie",
+        "Princess Hind",
+        "Battle of Dhi Qar",
+        "Emperor Kisra",
+        "Hanzala",
+        "7th century Arabia movie",
+        "historical action drama"
+      ],
+      "canonical": "[https://movnix.com/movie/desert-warrior](https://movnix.com/movie/desert-warrior)",
+      "metaTitle": "Desert Warrior - Epic Arabian Historical Action Movie",
+      "openGraph": {
+        "og:title": "Desert Warrior | Official Movie Overview",
+        "og:description": "Witness Princess Hind and Hanzala unite warring Arabian tribes against Emperor Kisra in the historic Battle of Dhi Qar."
+      },
+      "twitterCard": {
+        "twitter:title": "Desert Warrior Movie",
+        "twitter:description": "In 7th-century Arabia, Princess Hind leads a high-stakes rebellion against Emperor Kisra in the Battle of Dhi Qar."
+      },
+      "metaDescription": "Princess Hind and legendary bandit Hanzala unite warring tribes to defy Emperor Kisra in the epic 7th-century Battle of Dhi Qar."
+    },
+    "faq": [
+      {
+        "answer": "No, Desert Warrior is a standalone historical action epic and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is Desert Warrior part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Desert Warrior; the story concludes fully before the end credits.",
+        "question": "Is there a post-credit scene in Desert Warrior?"
+      },
+      {
+        "answer": "The dominant genres of the film are historical action, drama, and war epic.",
+        "question": "What is the dominant genre of Desert Warrior?"
+      },
+      {
+        "answer": "Yes, it is inspired by real 7th-century Arabian history, specifically leading up to the Battle of Dhi Qar where Arab tribes famously united against the Sasanian Empire.",
+        "question": "Is Desert Warrior based on a true story or historical events?"
+      },
+      {
+        "answer": "Aiysha Hart stars as Princess Hind, Anthony Mackie plays the legendary bandit Hanzala, and Sir Ben Kingsley plays Emperor Kisra.",
+        "question": "Who plays the lead characters in Desert Warrior?"
+      },
+      {
+        "answer": "The movie was directed by Rupert Wyatt, who previously directed films such as Rise of the Planet of the Apes and The Gambler.",
+        "question": "Who directed Desert Warrior?"
+      },
+      {
+        "answer": "Desert Warrior is rated R for strong violence, battle sequences, and bloody images.",
+        "question": "What is the age rating for Desert Warrior?"
+      },
+      {
+        "answer": "The film follows Princess Hind as she flees the ruthless Emperor Kisra, trains to become a warrior alongside the bandit Hanzala, and unites rival desert tribes to make a historical stand at the Battle of Dhi Qar.",
+        "question": "What is the central plot of Desert Warrior?"
+      },
+      {
+        "answer": "The movie was filmed primarily on location in Saudi Arabia, notably across the NEOM and Tabuk regions.",
+        "question": "Where was Desert Warrior filmed?"
+      },
+      {
+        "answer": "Desert Warrior was shot in the English language, despite its setting in 7th-century Arabia.",
+        "question": "What language is the movie filmed in?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild suspense and combat peril, along with depictions of hyena attacks and battlefield corpses."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity and period-specific insults."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Frequent and graphic combat violence, including intense swordplay, arrow wounds, neck snapping, poisoning, and bloody battlefield casualties."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Brief depictions of characters smoking pipes in historical settings."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Thematic references to forced concubinage and brief non-sexual shirtless scenes."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Sustained high intensity driven by wartime peril, family loss, and high-stakes struggles for freedom."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 3,
+      "romance": 3,
+      "science": 0,
+      "suspense": 7,
+      "violence": 7
+    },
+    "created_at": "2026-07-27 23:49:59.294083",
+    "updated_at": "2026-07-27 23:49:59.294083"
+  }
 }
