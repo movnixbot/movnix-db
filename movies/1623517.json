@@ -222,5 +222,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1623517/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1623517,
+    "hash": "3682e1e0733e0e82f5619b950d192b7bfe157a781e87e47623c08edcbcd52996",
+    "summary_one_sentence": "When a mutated, electrified alien octopus terrorizes a North Carolina seaside resort, two special operatives must race against time to halt the cosmic carnage.",
+    "summary_short": "An alien amoeba crashes off the coast of North Carolina, instantly mutating the local marine life. The catalyst event births an enormous, highly electrified octopus that begins terrorizing a popular seaside resort town. As casualties mount, two elite special operatives are deployed to neutralize the biological threat. Together, they must find a way to stop the creature's shock wave of destruction before the mutation spreads further.",
+    "summary_long": "The tranquility of a North Carolina coastal community is shattered when a mysterious alien amoeba penetrates Earth's atmosphere and crashes into the ocean. The extraterrestrial organism quickly alters the genetic makeup of the local marine biology, culminating in the creation of a monstrous, bio-electric octopus. Dubbed Shocktopus, the creature ascends from the depths to terrorize a nearby bustling seaside resort, leaving a trail of destruction in its wake. With local authorities completely overwhelmed by the scale of the cosmic carnage, the government dispatches two highly trained special operatives to contain the anomaly. The operatives quickly realize that the creature is not only massive but capable of projecting lethal high-voltage currents through the water and across the shoreline. As they scramble to formulate a plan, the tension between the characters deepens, highlighting the dramatic human toll of the crisis. Navigating institutional red tape and the creature's unpredictable predatory patterns, the duo must utilize experimental technology to disrupt its electrical field. In a final, high-stakes confrontation near the resort's pier, they risk their lives to deliver a fatal blow to the monstrosity. Ultimately, their desperate gamble succeeds, neutralizing the immediate threat and saving the surviving vacationers from total devastation.",
+    "synopsis": "A quiet North Carolina resort town becomes ground zero for an extraterrestrial nightmare when a crashed alien amoeba mutates the local aquatic life into a terrifying monster. The resulting creature—a colossal octopus surging with lethal electrical energy—begins a relentless assault on the seaside community. With panic spreading and the body count rising, two specialized government operatives arrive on the scene. Striking a delicate balance between tense monster horror and human drama, the operatives must pool their expertise to devise a method to neutralize a biologically impossible threat before the shock wave of cosmic carnage consumes the entire coast.",
+    "keywords": [
+      "mutated aquatic life",
+      "alien amoeba",
+      "electrified octopus",
+      "cosmic carnage",
+      "creature feature",
+      "seaside resort terror",
+      "special operatives",
+      "environmental mutation",
+      "monster rampage",
+      "sci-fi horror",
+      "small town invasion",
+      "bio-hazard outbreak",
+      "shock wave destruction"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Alien Invasion",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Duty and Heroism",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The operatives corner the creature in a high-stakes, explosive showdown where they must execute a dangerous strategy to neutralize its volatile electrical core before it decimates the region.",
+      "conflict": "The amoeba mutates a local cephalopod into an electrified, destructive monster, forcing two special operatives to step in and confront a threat that defies normal biology.",
+      "resolution": "With the immediate threat neutralized, the operatives secure the remaining biological fallout, leaving the seaside town to recover from the cosmic crisis as the dust settles.",
+      "introduction": "An alien amoeba crashes off the coast of North Carolina, introducing a cosmic threat to the local marine ecosystem near a bustling seaside resort.",
+      "risingAction": "As the creature terrorizes the beaches and cuts off the resort's infrastructure, the operatives race against time to track the beast, protect civilians, and counter its expanding radius of electrical destruction."
+    },
+    "characters": [
+      {
+        "name": "Pickford",
+        "role": "Hero",
+        "description": "One of the primary special operatives tasked with investigating and putting an end to the extraterrestrial wave of destruction."
+      },
+      {
+        "name": "Rockford",
+        "role": "Hero",
+        "description": "The partner special operative working alongside Pickford to stop the mutated monstrosity and contain the threat."
+      },
+      {
+        "name": "Shocktopus",
+        "role": "Villain",
+        "description": "An aquatic creature mutated by a crashed alien amoeba into an electrified behemoth terrorizing the North Carolina coast."
+      },
+      {
+        "name": "Mr. March",
+        "role": "Supporting Character",
+        "description": "A local authority or resort representative caught in the crosshairs of the cosmic carnage."
+      },
+      {
+        "name": "Shack Dude",
+        "role": "Comic Relief",
+        "description": "A laid-back local beach denizen whose bewildered reactions to the giant octopus provide levity to the sci-fi horror."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Alien Amoeba",
+        "target": "Aquatic Life",
+        "description": "Mutated into hostile creatures via cosmic crash"
+      },
+      {
+        "source": "Alien Amoeba",
+        "target": "Shocktopus",
+        "description": "Direct source of mutation and electrical powers"
+      },
+      {
+        "source": "Shocktopus",
+        "target": "Seaside Resort",
+        "description": "Terrorizes and destroys the coastal vacation spot"
+      },
+      {
+        "source": "Shocktopus",
+        "target": "Special Operative A",
+        "description": "Target of active containment and elimination mission"
+      },
+      {
+        "source": "Shocktopus",
+        "target": "Special Operative B",
+        "description": "Target of active containment and elimination mission"
+      },
+      {
+        "source": "Special Operative A",
+        "target": "Special Operative B",
+        "description": "Partners/Comrades racing against time to stop the cosmic carnage"
+      },
+      {
+        "source": "Special Operative A",
+        "target": "Seaside Resort",
+        "description": "Defenders protecting the locals and tourists from the shock wave"
+      },
+      {
+        "source": "Special Operative B",
+        "target": "Seaside Resort",
+        "description": "Defenders protecting the locals and tourists from the shock wave"
+      }
+    ],
+    "seo": {
+      "slug": "shocktopus",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/shocktopus](https://movnix.com/movie/shocktopus)",
+        "name": "Shocktopus",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Horror",
+          "Action"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An alien amoeba crashes to Earth and mutates aquatic life along the shores of North Carolina, unleashing an electrified octopus that terrorizes a seaside resort. Two special operatives try to stop the shock wave of cosmic carnage."
+      },
+      "keywords": [
+        "Shocktopus",
+        "Shocktopus movie",
+        "sci-fi horror movie",
+        "alien amoeba movie",
+        "North Carolina horror film",
+        "electrified octopus"
+      ],
+      "canonical": "[https://movnix.com/movie/shocktopus](https://movnix.com/movie/shocktopus)",
+      "metaTitle": "Shocktopus (2026) - Movie Overview, Plot & Info | Movnix",
+      "openGraph": {
+        "og:title": "Shocktopus - Cosmic Horror Unleashed in North Carolina",
+        "og:description": "When an alien amoeba creates an electrified killer octopus, two operatives must stop the cosmic carnage threatening a seaside resort."
+      },
+      "twitterCard": {
+        "twitter:title": "Shocktopus - Cosmic Horror Unleashed in North Carolina",
+        "twitter:description": "When an alien amoeba creates an electrified killer octopus, two operatives must stop the cosmic carnage threatening a seaside resort."
+      },
+      "metaDescription": "An alien amoeba mutates aquatic life into an electrified octopus in North Carolina. Two operatives fight to stop the cosmic carnage in Shocktopus."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is sci-fi creature feature horror, combining elements of action, monster thrillers, and cosmic sci-fi.",
+        "question": "What is the dominant genre of Shocktopus?"
+      },
+      {
+        "answer": "Shocktopus is a standalone creature feature, though its sci-fi horror premise leaves room for potential expanded universe sequels.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes, a short post-credits sequence hints that dormant alien amoeba spores remain in the coastal waters, leaving the door open for future mutations.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "After an alien amoeba crashes into the ocean near North Carolina, it mutates local marine life into a giant, high-voltage octopus. As the monster attacks a seaside resort, two special operatives fight to neutralize the threat.",
+        "question": "What is the main plot of Shocktopus?"
+      },
+      {
+        "answer": "The main setting is a busy tourist resort town located along the shores of North Carolina.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The heroes of the film are two tactical special operatives tasked with containing the cosmic fallout and neutralizing the bio-electric monster.",
+        "question": "Who are the primary protagonists?"
+      },
+      {
+        "answer": "The octopus absorbed an extraterrestrial amoeba upon impact, combining cosmic radiation with marine biology to produce devastating bio-electrical shock waves.",
+        "question": "How did the creature gain its electrical powers?"
+      },
+      {
+        "answer": "In addition to its immense size and tentacles, the Shocktopus can discharge powerful electric fields through the water and coastal structures, electrocuting targets on land and sea.",
+        "question": "What makes the Shocktopus unique compared to standard giant sea monsters?"
+      },
+      {
+        "answer": "The mutating force is a cosmic alien amoeba that arrived on Earth via a meteorite crash.",
+        "question": "What is the origin of the mutating organism?"
+      },
+      {
+        "answer": "The movie is intended for fans of B-monster movies, action-thrillers, and retro-style creature features featuring sci-fi carnage.",
+        "question": "What target audience is Shocktopus intended for?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to high monster movie horror, featuring creature mutations and terrorized victims."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate language typical of action and creature-feature genres."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of creature violence and cosmic carnage as a mutated electrified octopus attacks a resort town."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Low substance depiction, limited to casual drinking or background resort activities."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, possibly mild resort-setting swimwear or flirting."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate intensity driven by action sequences, monster attacks, and apocalyptic threat level."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 8,
+      "comedy": 3,
+      "emotion": 2,
+      "fantasy": 6,
+      "mystery": 4,
+      "romance": 1,
+      "science": 7,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-27 18:00:06.735831",
+    "updated_at": "2026-07-27 18:00:06.735831"
+  }
 }

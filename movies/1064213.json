@@ -2838,5 +2838,266 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1064213/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1064213,
+    "hash": "96d0ac45e4f88bca07ba41bddcb73bf0b291fbdbaecd9678079b9bdd66456e42",
+    "summary_one_sentence": "A young Brooklyn sex worker's impulsive marriage to the son of a Russian oligarch turns into a chaotic scramble for survival when his furious parents dispatch henchmen to force an annulment.",
+    "summary_short": "Anora, a young Uzbek-American sex worker from Brooklyn, meets Vanya, the spoiled, immature son of a wealthy Russian oligarch. After a whirlwind, week-long romance fueled by drugs and luxury in Las Vegas, the two impulsively get married. However, their neon-lit fairytale quickly implodes when Vanya's parents find out and immediately send a trio of eccentric henchmen to New York to secure an annulment at all costs.",
+    "summary_long": "Anora, who goes by Ani, works at a Brooklyn strip club where her knowledge of Russian helps her connect with Vanya, the reckless son of a powerful Russian oligarch. Smitten by Ani, Vanya hires her exclusively for a week of lavish partying, culminating in a spontaneous trip to Las Vegas where they impulsively marry. Their hedonistic bubble bursts when Vanya's furious parents learn of the union and order their local fixers—Toros, Garnick, and Igor—to handle the situation. When the henchmen storm Vanya's mansion, a cowardly Vanya flees into the night, leaving Ani to fiercely defend her new marriage alone. The fixers force a resistant Ani into a car to track Vanya down across Brighton Beach's nightclubs and diners before his parents arrive from Russia. As the chaotic search stretches into the cold morning, Ani is forced to confront the harsh reality of Vanya's spinelessness and her own vulnerability. When the oligarchs finally arrive, they swiftly pressure Vanya into compliance, completely erasing Ani's brief illusion of a Cinderella ending. In the aftermath, Igor drives a devastated, emotionally shattered Ani back home, where a sudden moment of raw vulnerability erupts between them.",
+    "synopsis": "Anora is a darkly comedic yet poignant urban fairytale that subverts the classic Cinderella trope. The story follows Ani, a young sex worker from Brooklyn, whose life takes a wild turn when she meets and marries the impetuous son of a Russian oligarch. When the groom's powerful parents catch wind of the marriage, they fly to New York determined to tear the union apart, triggering a frantic, night-long odyssey across the city. The film balances sharp humor with emotional grit as it explores themes of class disparity, exploitation, and the fleeting illusion of upward mobility.",
+    "keywords": [
+      "cinderella story",
+      "sex worker",
+      "impulsive marriage",
+      "russian oligarch",
+      "class divide",
+      "marriage of convenience",
+      "brooklyn setting",
+      "culture clash",
+      "familial interference",
+      "marriage annulment",
+      "escapist fantasy",
+      "chaotic comedy",
+      "dark comedy drama",
+      "power dynamics"
+    ],
+    "themes": [
+      {
+        "theme": "Class Warfare and Socioeconomic Divide",
+        "confidence": 0.98
+      },
+      {
+        "theme": "The Illusion of the Fairytale (Cinderella Myth)",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy and Parental Control",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival and Autonomy",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "Anora faces the reality of her situation during an intense confrontation with Vanya's formidable family and the cold machinery of their wealth.",
+      "conflict": "In a sudden lapse of reality, Anora and Vanya impulsively get married in Las Vegas, but the news reaches Vanya's powerful family in Russia, who immediately move to annul the union.",
+      "resolution": "Stripped of her illusions, Anora is left to navigate the emotional aftermath and reclaim her sense of agency in the wake of the broken fairytale.",
+      "introduction": "Anora, a young Brooklyn sex worker, meets Vanya, the impulsive and ultra-wealthy son of a Russian oligarch, leading to a whirlwind romance.",
+      "risingAction": "When his parents' henchmen arrive to handle the situation, Vanya flees, forcing Anora and the fixers into a frantic search across New York City to find him before his parents arrive."
+    },
+    "characters": [
+      {
+        "name": "Anora \"Ani\" Mikheeva",
+        "role": "Hero",
+        "description": "A resilient, outspoken sex worker from Brooklyn who impulsively marries a wealthy client and fights to defend her dignity and fairytale dreams when his family moves to destroy her marriage."
+      },
+      {
+        "name": "Ivan \"Vanya\" Zakharov",
+        "role": "Anti Hero",
+        "description": "The immature and reckless son of a Russian oligarch who marries Ani on a whim but quickly cower and flees when forced to confront his powerful parents."
+      },
+      {
+        "name": "Igor",
+        "role": "Supporting Character",
+        "description": "A quiet, empathetic henchman hired to manage Vanya who develops a genuine understanding and bond with Ani during the chaotic search."
+      },
+      {
+        "name": "Toros",
+        "role": "Villain",
+        "description": "An aggressive, pragmatic family fixer tasked by Vanya's parents with locating Vanya and getting the marriage annulled by any means necessary."
+      },
+      {
+        "name": "Garnik",
+        "role": "Comic Relief",
+        "description": "An easily overwhelmed and bumbling associate of Toros who contributes humor to the absurd, high-stress search for Vanya."
+      },
+      {
+        "name": "Galina Zakharova",
+        "role": "Villain",
+        "description": "Vanya's cold and ruthless mother who flies in from Russia determined to invalidate Ani's marriage and protect her family's wealth and status."
+      },
+      {
+        "name": "Nikolai Zakharov",
+        "role": "Supporting Character",
+        "description": "Vanya's powerful oligarch father who enforces his wife's demands and ensures his son falls back in line with family expectations."
+      },
+      {
+        "name": "Lulu",
+        "role": "Supporting Character",
+        "description": "Ani's friend and fellow exotic dancer at the club who provides camaraderie and support within her daily work life."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anora 'Ani'",
+        "target": "Ivan 'Vanya' Zakharov",
+        "description": "Husband/Wife (Impulsive Marriage)"
+      },
+      {
+        "source": "Ivan 'Vanya' Zakharov",
+        "target": "Nikolai Zakharov",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Ivan 'Vanya' Zakharov",
+        "target": "Galina Zakharova",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Anora 'Ani'",
+        "target": "Igor",
+        "description": "Enforcer / Reluctant Companion"
+      },
+      {
+        "source": "Toros",
+        "target": "Nikolai Zakharov",
+        "description": "Fixer / Employer"
+      },
+      {
+        "source": "Toros",
+        "target": "Garnick",
+        "description": "Associates / Henchmen"
+      },
+      {
+        "source": "Toros",
+        "target": "Igor",
+        "description": "Boss / Henchman"
+      },
+      {
+        "source": "Anora 'Ani'",
+        "target": "Galina Zakharova",
+        "description": "Antagonists / In-laws"
+      }
+    ],
+    "seo": {
+      "slug": "anora",
+      "jsonLd": {
+        "name": "Anora",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled."
+      },
+      "keywords": [
+        "Anora",
+        "Anora movie",
+        "Anora synopsis",
+        "Anora plot",
+        "Anora overview",
+        "Sean Baker Anora"
+      ],
+      "canonical": "[https://movnix.com/movie/anora](https://movnix.com/movie/anora)",
+      "metaTitle": "Anora Movie Synopsis & Overview | Movnix",
+      "openGraph": {
+        "og:title": "Anora - Movie Overview & Synopsis",
+        "og:description": "A Brooklyn sex worker impulsively marries the son of a Russian oligarch, triggering a frantic effort by his parents to get the marriage annulled."
+      },
+      "twitterCard": {
+        "twitter:title": "Anora - Movie Overview & Synopsis",
+        "twitter:description": "A Brooklyn sex worker impulsively marries the son of a Russian oligarch, triggering a frantic effort by his parents to get the marriage annulled."
+      },
+      "metaDescription": "A Brooklyn sex worker impulsively marries the son of a Russian oligarch, triggering a frantic effort by his parents to get the marriage annulled."
+    },
+    "faq": [
+      {
+        "answer": "Anora is primarily a romantic comedy-drama and thriller, directed by Sean Baker.",
+        "question": "What is the dominant genre of Anora?"
+      },
+      {
+        "answer": "No, Anora is a fictional story written and directed by Sean Baker.",
+        "question": "Is Anora based on a true story?"
+      },
+      {
+        "answer": "No, Anora is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the credits.",
+        "question": "Is there a post-credit scene in Anora?"
+      },
+      {
+        "answer": "Mikey Madison stars as Anora (Ani), the Brooklyn sex worker at the center of the film.",
+        "question": "Who stars as the lead character in Anora?"
+      },
+      {
+        "answer": "The film was written, directed, and edited by acclaimed indie filmmaker Sean Baker.",
+        "question": "Who directed Anora?"
+      },
+      {
+        "answer": "Anora won the prestigious Palme d'Or at the 2024 Cannes Film Festival.",
+        "question": "What award did Anora win at the Cannes Film Festival?"
+      },
+      {
+        "answer": "The film is rated R for strong sexual content, graphic nudity, pervasive language, and drug use.",
+        "question": "What is the age rating for Anora?"
+      },
+      {
+        "answer": "The film is primarily set in Brooklyn, New York, focusing on areas like Brighton Beach and Manhattan.",
+        "question": "Where does the story of Anora take place?"
+      },
+      {
+        "answer": "The dialogue in the film is a mix of English and Russian.",
+        "question": "What language is spoken in Anora?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements present beyond intense tension in specific comedic-thriller sequences."
+      },
+      "language": {
+        "score": 9,
+        "description": "Pervasive strong profanity and explicit sexual slang throughout."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate physical altercations, shoving, and scuffles during attempts to restrain characters, but lacking extreme graphic violence or gore."
+      },
+      "substance": {
+        "score": 7,
+        "description": "Frequent heavy alcohol consumption, recreational drug use (including cocaine), and partying."
+      },
+      "sexualContent": {
+        "score": 9,
+        "description": "Explicit depictions of sex work, lap dances, graphic nudity, and frequent simulated sexual activity."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional stress, frantic pacing, prolonged arguments, and thematic distress regarding power dynamics and exploitation."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 7,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 5,
+      "science": 0,
+      "suspense": 5,
+      "violence": 3
+    },
+    "created_at": "2026-07-27 18:00:36.074532",
+    "updated_at": "2026-07-27 18:00:36.074532"
+  }
 }
