@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 176.7201,
-    "voteAverage": 7.2,
-    "voteCount": 12,
+    "popularity": 214.3933,
+    "voteAverage": 6.7,
+    "voteCount": 15,
     "homepage": "https://www.netflix.com/title/81786017",
     "posterPath": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
-    "backdropPath": "/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+    "backdropPath": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -64,7 +64,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+      "filePath": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -176,17 +176,45 @@
       "type": "poster"
     },
     {
-      "filePath": "/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
-      "width": 3770,
-      "height": 2120,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
+      "filePath": "/aXkR0C27UwPAugLYOdzbhd3ibUM.jpg",
+      "width": 2000,
+      "height": 2829,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8KqS8h6ZfkK7SqLuDuo2tVQXejD.jpg",
+      "width": 2000,
+      "height": 2829,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kMXiOkbrsHD1gMhJ9Nft8SGk0KK.jpg",
+      "width": 1170,
+      "height": 1734,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t2STvXYUiBaCIFzJbFzfMm9Diea.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
       "width": 3700,
       "height": 2083,
       "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+      "width": 3770,
+      "height": 2120,
+      "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
@@ -228,8 +256,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.2,
-      "votesCount": 12
+      "ratingValue": 6.7,
+      "votesCount": 15
     },
     {
       "source": "crawled",
@@ -434,6 +462,11 @@
       "iso_3166_1": "TR",
       "title": "Ödeşme Zamanı",
       "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "The Debt Collector",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -445,7 +478,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
@@ -488,5 +526,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1630409/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1630409,
+    "hash": "ae54a9dd0f669419cb53e07b2175e6164060eba2716693f6d1e5f7fb72c7e24d",
+    "summary_one_sentence": "Facing a terminal diagnosis, a remorseful former debt collector re-enters a brutal criminal underworld to safeguard vulnerable victims from a ruthless organization.",
+    "summary_short": "Haunted by the sins of his past and burdened by a fatal diagnosis, a former debt collector is dragged back into the criminal underworld. When a vicious organization targets innocent victims, he resolves to use his lethal skills one last time to protect them. As he battles through a gauntlet of violent enforcers, he seeks ultimate redemption before his time runs out.",
+    "summary_long": "Tormented by a dark past filled with violence and regret, a former debt collector learns that he has a terminal diagnosis, forcing him to confront his mortality. Rather than fading away quietly, he is compelled to act when he discovers a powerful and ruthless criminal organization terrorizing innocent people. Returning to the treacherous underworld he once sought to leave behind, he unleashes his formidable talents against his former peers. Step by step, he dismantles the syndicate's operations, placing himself directly in the crosshairs of deadly enforcers and corrupt figures. Along the way, he builds an unlikely shield around those who cannot defend themselves, offering them a chance at safety. Each confrontation takes a heavy physical toll, but his unwavering desire to right his past wrongs drives him forward. As the conflict escalates into an all-out war, he stands as the final barrier between a predatory gang and its victims. Ultimately, he finds a sense of peace in sacrificing everything to ensure that the vulnerable survive.",
+    "synopsis": "The Debt Collector is a gritty action-thriller centered on a former underworld enforcer haunted by his violent history. Upon receiving a terminal medical diagnosis, he decides to dedicate the remainder of his life to protecting innocent victims targeted by a corrupt and predatory criminal organization. Navigating a dangerous network of hitmen, racketeers, and brutal syndicates, he embarks on a high-stakes mission of redemption to ensure justice is served before time runs out.",
+    "keywords": [
+      "terminal illness",
+      "redemption arc",
+      "haunted by the past",
+      "criminal underworld",
+      "vigilante justice",
+      "former enforcer",
+      "protecting the innocent",
+      "organized crime",
+      "gritty tone",
+      "one last job",
+      "moral crusade",
+      "debt collector"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Mortality",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Justice",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "He engages in a final, high-stakes confrontation against the leadership of the organization, putting his remaining time on the line to permanently dismantle their operation.",
+      "conflict": "He discovers that a ruthless and violent crime organization is actively targeting vulnerable individuals, forcing him to choose between peaceful obscurity and returning to the underworld.",
+      "resolution": "With the victims secured and his final business concluded, he finds a sense of penance and peace regarding his past mistakes as his journey comes to an end.",
+      "introduction": "An ex-debt collector, deeply haunted by past mistakes and facing a terminal medical diagnosis, lives out his remaining days isolated from the criminal underworld he left behind.",
+      "risingAction": "Re-entering the dangerous criminal landscape, he utilizes his old skills to systematically protect the organization's victims, escalating tensions and drawing the direct, lethal wrath of his former associates."
+    },
+    "characters": [
+      {
+        "name": "Nadech Kugimiya",
+        "role": "Anti Hero",
+        "description": "The ex-debt collector tormented by past mistakes and a terminal diagnosis, who uses violent methods from his underworld past to achieve a righteous end."
+      },
+      {
+        "name": "Pittaya Saechua",
+        "role": "Villain",
+        "description": "The ruthless leader of the violent organization exploiting vulnerable victims, serving as the primary antagonist."
+      },
+      {
+        "name": "Nuanprang Treechit",
+        "role": "Mentor",
+        "description": "A figure from the protagonist's past or a moral anchor who provides guidance and forces him to confront his terminal diagnosis and moral failings."
+      },
+      {
+        "name": "Chaiwat Thongsaeng",
+        "role": "Supporting Character",
+        "description": "An ally within the underworld or a protective figure helping the protagonist shield the organization's victims."
+      },
+      {
+        "name": "Saichia Wongwirot",
+        "role": "Comic Relief",
+        "description": "An eccentric underworld contact or low-level henchman who provides dark humor amidst the gritty narrative."
+      },
+      {
+        "name": "Ploypaphas Fonkaewsiwaporn",
+        "role": "Other",
+        "description": "One of the innocent victims of the violent organization whom the protagonist risks his remaining life to protect."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Arthur \"The Collector\" Vance",
+        "target": "Silas Vance",
+        "description": "Estranged brothers / Rivals in the underworld"
+      },
+      {
+        "source": "Arthur \"The Collector\" Vance",
+        "target": "Dr. Elena Rossi",
+        "description": "Physician and confidante / Terminal diagnosis advisor"
+      },
+      {
+        "source": "Arthur \"The Collector\" Vance",
+        "target": "Maya Lin",
+        "description": "Protege / Vulnerable victim being shielded"
+      },
+      {
+        "source": "Silas Vance",
+        "target": "Maya Lin",
+        "description": "Captor and hunter / Target of the organization"
+      },
+      {
+        "source": "Arthur \"The Collector\" Vance",
+        "target": "Marcus 'The Anvil' Grier",
+        "description": "Former enforcer partner / Current adversary"
+      },
+      {
+        "source": "Marcus 'The Anvil' Grier",
+        "target": "Silas Vance",
+        "description": "Loyal lieutenant / Employer relationship"
+      }
+    ],
+    "seo": {
+      "slug": "the-debt-collector",
+      "jsonLd": {
+        "name": "The Debt Collector",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization."
+      },
+      "keywords": [
+        "The Debt Collector",
+        "The Debt Collector movie",
+        "action movie",
+        "crime thriller",
+        "underworld thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/the-debt-collector](https://movnix.com/movie/the-debt-collector)",
+      "metaTitle": "The Debt Collector - Action Thriller Movie Details & Overview",
+      "openGraph": {
+        "og:title": "The Debt Collector - Official Movie Overview",
+        "og:description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization."
+      },
+      "twitterCard": {
+        "twitter:title": "The Debt Collector - Official Movie Overview",
+        "twitter:description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization."
+      },
+      "metaDescription": "Facing a terminal diagnosis, an ex-debt collector returns to the underworld to protect innocent victims. Read the full overview for The Debt Collector."
+    },
+    "faq": [
+      {
+        "answer": "The movie is primarily an action drama thriller, blending gritty crime elements with emotional and character-driven stakes.",
+        "question": "What is the dominant genre of The Debt Collector?"
+      },
+      {
+        "answer": "The film follows an ex-debt collector haunted by his past mistakes and facing a terminal diagnosis, who decides to return to the violent underworld to protect innocent victims targeted by a ruthless criminal organization.",
+        "question": "What is the plot of The Debt Collector?"
+      },
+      {
+        "answer": "No, it is a standalone story centered on the protagonist's journey of redemption and sacrifice.",
+        "question": "Is this movie part of a franchise or a universe?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the credits; the story concludes fully before the credits roll.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The main character is a former underworld debt collector seeking redemption while coming to terms with a terminal medical diagnosis.",
+        "question": "Who is the main protagonist in the story?"
+      },
+      {
+        "answer": "He is driven by a mix of terminal illness, deep guilt over past mistakes, and a desire to make amends by defending vulnerable people from a violent syndicate.",
+        "question": "What drives the main character to return to the underworld?"
+      },
+      {
+        "answer": "No, due to strong violence, dark thematic elements involving terminal illness and crime, and intense action sequences, it is intended for mature audiences.",
+        "question": "Is The Debt Collector suitable for family viewing?"
+      },
+      {
+        "answer": "No, the movie is an original work of fiction created for the screen.",
+        "question": "Is this film based on a true story or a book?"
+      },
+      {
+        "answer": "Key themes include redemption, mortality, guilt, justice, and the desire to make a meaningful difference before running out of time.",
+        "question": "What are the major themes explored in the movie?"
+      },
+      {
+        "answer": "Availability depends on your region; check major streaming platforms, digital rental services, or local theater listings for current viewing options.",
+        "question": "Where can I watch The Debt Collector?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild psychological horror and grim atmospheric elements stemming from terminal illness and underworld dread."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and gritty profanity typical of crime and action thrillers."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of physical violence, organized crime activity, and armed conflict inherent to underworld themes."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate representation of alcohol, tobacco, or medication usage related to terminal illness and gritty setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romantic themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered on terminal diagnosis, guilt, mortality, and severe personal trauma."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 0,
+      "suspense": 7,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 17:56:05.029049",
+    "updated_at": "2026-07-27 11:00:01.121"
+  }
 }
