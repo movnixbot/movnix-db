@@ -413,5 +413,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1475803/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1475803,
+    "hash": "6810ef154c9dd6507e87e9d1d77d866ca8f756083faaa0e8582d3a74dc5386b2",
+    "summary_one_sentence": "Set against India's 1990 economic crisis, a reluctant bureaucrat unexpectedly appointed as the RBI Governor must navigate immense political pressure to save the nation from financial ruin.",
+    "summary_short": "During India's severe 1990 economic crisis, reluctant bureaucrat Raman is unexpectedly thrust into the role of Governor of the Reserve Bank of India. With the nation standing on the brink of bankruptcy, he faces skyrocketing inflation, acute fuel shortages, and widespread public panic. Raman must make high-stakes financial decisions while resisting intense political meddling to stabilize the economy. Ultimately, his desperate maneuvering becomes the thin line preventing a total national collapse.",
+    "summary_long": "In 1990, India faces one of the most perilous financial crises in its history, pushed to the absolute edge of national bankruptcy. Amid skyrocketing inflation, dwindling fuel reserves, and mounting social panic, the government unexpectedly appoints Raman, a reluctant bureaucrat, as the new Governor of the Reserve Bank of India. Raman inherits a failing monetary system and a central bank ill-equipped to handle the unprecedented turbulence. As foreign exchange reserves plummet to critical levels, he is forced to confront tough, controversial economic choices to keep the nation afloat. Powerful political figures attempt to pressure and manipulate his decision-making for their own short-term gains, threatening to undermine his efforts. With time rapidly running out and public trust eroding, Raman must outmaneuver political adversaries who care more about optics than survival. He rallies a small team of trusted insiders to execute bold financial maneuvers despite overwhelming odds. Balancing personal integrity against immense systemic pressure, Raman battles the ticking clock to secure vital economic relief. His high-wire act becomes a desperate fight not just for policy success, but for the fundamental stability and future of the nation.",
+    "synopsis": "Set against the backdrop of India's historical 1990 economic crisis, Governor is a high-stakes dramatic thriller following Raman, a reluctant bureaucrat unexpectedly appointed to head the Reserve Bank of India. As the country teeters on the brink of complete bankruptcy, Raman is forced to navigate rising inflation, critical resource shortages, and escalating civil panic. To save the nation from systemic collapse, he must make agonizing decisions while standing up against immense political pressure and corrupt establishment interests in a tense race against time.",
+    "keywords": [
+      "1990s India",
+      "economic crisis",
+      "Reserve Bank of India",
+      "bureaucracy",
+      "reluctant hero",
+      "bankruptcy",
+      "political pressure",
+      "financial thriller",
+      "inflation",
+      "systemic collapse",
+      "high stakes decision making",
+      "race against time",
+      "economic reform"
+    ],
+    "themes": [
+      {
+        "theme": "Economic Crisis & Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty vs. Reluctance",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Political Pressure & Power Struggles",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Systemic Failure & Leadership",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "With time running out before total financial collapse, Raman must execute a desperate, controversial economic decision that will either stabilize the national currency or cause an unprecedented fiscal meltdown.",
+      "conflict": "With the nation on the brink of bankruptcy, Raman is forced to confront mounting political interference, soaring inflation, and severe foreign exchange shortages while lacking a clear political mandate.",
+      "resolution": "The immediate threat of national insolvency is averted, leaving Raman to oversee the long and arduous journey toward structural economic recovery and modern financial stability.",
+      "introduction": "Raman, a reluctant bureaucrat, is unexpectedly thrust into the position of RBI Governor as India faces a devastating economic crisis in 1990.",
+      "risingAction": "As fuel supplies dwindle and public panic intensifies, Raman must implement radical, high-stakes financial maneuvers and manage intense pressure from international lenders and warring political factions."
+    },
+    "characters": [
+      {
+        "name": "A. Ramanan",
+        "role": "Hero",
+        "description": "A reluctant bureaucrat unexpectedly appointed as the Governor of the RBI, who navigates immense political pressure to pull India back from economic collapse."
+      },
+      {
+        "name": "Aditi Verma",
+        "role": "Supporting Character",
+        "description": "An ambitious and inquisitive journalist seeking to uncover truths and flaws within the financial leadership during the nation's crisis."
+      },
+      {
+        "name": "Deputy Governor C. Rangarajan (C.R.)",
+        "role": "Supporting Character",
+        "description": "A skeptical central bank official who initially doubts Ramanan's abilities but ultimately works alongside him to manage the financial system."
+      },
+      {
+        "name": "Vandita",
+        "role": "Supporting Character",
+        "description": "Ramanan's supportive wife who acts as an emotional anchor during his high-stress administrative tenure."
+      },
+      {
+        "name": "Finance Minister Sinha",
+        "role": "Supporting Character",
+        "description": "A politician putting heavy pressure on the central bank during the severe economic downturn."
+      },
+      {
+        "name": "Deepak Bindra",
+        "role": "Supporting Character",
+        "description": "A focused data analyst at the RBI assisting in tracking crucial economic metrics during the crisis."
+      },
+      {
+        "name": "Patil",
+        "role": "Comic Relief",
+        "description": "An RBI peon whose lighthearted interactions bring brevity to an otherwise intense bureaucratic setting."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Raman",
+        "target": "Prime Minister / Finance Ministry Officials",
+        "description": "Political Allies / Adversaries"
+      },
+      {
+        "source": "Raman",
+        "target": "RBI Bureaucrats & Economists",
+        "description": "Leader / Subordinates"
+      },
+      {
+        "source": "Raman",
+        "target": "International Financial Institutions (IMF / World Bank)",
+        "description": "Negotiator / Foreign Creditors"
+      }
+    ],
+    "seo": {
+      "slug": "governor",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/governor](https://movnix.com/movie/governor)",
+        "name": "Governor",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Set against India's 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy."
+      },
+      "keywords": [
+        "Governor movie",
+        "Governor 1990 economic crisis",
+        "India RBI Governor movie",
+        "Raman RBI Governor drama",
+        "Indian political thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/governor](https://movnix.com/movie/governor)",
+      "metaTitle": "Governor (2026) - Watch Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Governor - Official Movie Details & Synopsis",
+        "og:description": "When India stands on the brink of bankruptcy during the 1990 crisis, a reluctant bureaucrat must navigate political pressure to prevent national collapse."
+      },
+      "twitterCard": {
+        "twitter:title": "Governor - Official Movie Details",
+        "twitter:description": "Set during India's 1990 economic crisis, a reluctant bureaucrat becomes RBI Governor to save the nation from bankruptcy."
+      },
+      "metaDescription": "Set during India's 1990 economic crisis, a reluctant bureaucrat becomes RBI Governor to save the nation from bankruptcy. Discover the dramatic story."
+    },
+    "faq": [
+      {
+        "answer": "Set against India's 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the Reserve Bank of India (RBI). As the nation faces imminent bankruptcy, rising inflation, and severe fuel shortages, Raman must navigate political pressure to stabilize the country.",
+        "question": "What is the main plot of Governor?"
+      },
+      {
+        "answer": "The dominant genre of Governor is financial political drama, combined with elements of historical drama and thriller.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "No, Governor is a standalone film and is not part of any cinematic universe or existing franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Governor. The story fully concludes prior to the credit roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Governor is inspired by the historical backdrop of India's real-life 1990-1991 balance of payments crisis, though character details and specific narrative arcs are dramatized.",
+        "question": "Is Governor based on a true story?"
+      },
+      {
+        "answer": "The protagonist is Raman, a reluctant government bureaucrat who is suddenly thrust into high-stakes financial leadership as the RBI Governor during a national emergency.",
+        "question": "Who is the central character of the film?"
+      },
+      {
+        "answer": "The story is set in the year 1990, a pivotal era when India was on the verge of economic collapse and foreign exchange depletion.",
+        "question": "What historical time period does Governor depict?"
+      },
+      {
+        "answer": "Raman must contend with skyrocketing inflation, running out of national fuel reserves, widespread social panic, and heavy political opposition while trying to prevent economic collapse.",
+        "question": "What main obstacles does the protagonist face?"
+      },
+      {
+        "answer": "The film explores themes of bureaucratic integrity, crisis management under severe pressure, economic policy, patriotism, and political compromise.",
+        "question": "What core themes are explored in Governor?"
+      },
+      {
+        "answer": "Governor is ideal for audiences who enjoy political thrillers, financial dramas, historical period pieces, and intense stories centered around decision-making during national crises.",
+        "question": "Who is the target audience for Governor?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or offensive language noted."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence described in the overview; the focus is on economic and political crisis."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or references mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate thematic tension around national bankruptcy, political pressure, and economic collapse."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-07-27 23:47:43.472807",
+    "updated_at": "2026-07-27 23:47:43.472807"
+  }
 }
