@@ -824,5 +824,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1316719/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1316719,
+    "hash": "d43a108465113c7ee2179c9f20b6fb8a97385719598ea135c52105936b5709dc",
+    "summary_one_sentence": "While managing a documentary about his blind artisan father, Im Dong-hwan receives shocking news that his long-lost mother's remains have been uncovered after forty years, propelling him into a dark investigation of his family's hidden past.",
+    "summary_short": "Im Dong-hwan assists a film crew in creating a documentary about his blind father, a renowned stamp engraver celebrated for his craftsmanship. The production takes a disturbing turn when authorities notify Dong-hwan that the remains of his mother, who vanished forty years prior, have finally been found. Accompanied by the documentary journalist, Dong-hwan launches an inquiry into her mysterious past and disappearance. As they retrace old steps, Dong-hwan uncovers buried family trauma and sinister secrets that shatter his understanding of his childhood.",
+    "summary_long": "Im Dong-hwan spends his days managing the business affairs of his blind father, Im Yeong-gyu, an extraordinarily gifted seal engraver whose life is being profiled for a TV documentary. During production, Dong-hwan receives a chilling phone call reporting that his mother’s remains have been discovered forty years after her unexplained disappearance. Having grown up believing his mother simply abandoned the family, Dong-hwan is forced to re-evaluate his entire childhood. Encouraged by the persistent documentary journalist, he embarks on an intense investigation to uncover the truth behind her death. Together, they begin interviewing acquaintances from his parents' past, including former employers and colleagues. As they dig deeper, Dong-hwan discovers unsettling discrepancies and a complete absence of photographic evidence of his mother. The investigation gradually exposes a web of long-buried lies, deep-seated guilt, and heavy trauma surrounding his father's early career. Ultimately, Dong-hwan's relentless pursuit forces him to confront horrifying moral compromises that shaped his family's legacy.",
+    "synopsis": "Directed by Yeon Sang-ho, *The Ugly* is a gripping mystery thriller centered on generational grief, hidden truth, and psychological suspense. Im Dong-hwan lives a routine life supporting his father, Im Yeong-gyu, a blind master seal-engraver whose incredible talent garners media attention. When a journalist begins filming a documentary about his father's life, Dong-hwan expects a celebration of resilience. However, the project is thrown into chaos when authorities reveal that the remains of Dong-hwan's mother—who allegedly abandoned her family forty years ago—have been found. Driven by a need for closure and joined by the inquisitive filmmaker, Dong-hwan embarks on a harrowing journey into his parents' history, uncovering dark secrets that challenge everything he knows about his family.",
+    "keywords": [
+      "cold case investigation",
+      "missing mother",
+      "dark family secrets",
+      "documentary crew",
+      "blind artist",
+      "dual timelines",
+      "perception of beauty",
+      "societal cruelty",
+      "unresolved trauma",
+      "murder mystery",
+      "1970s South Korea",
+      "moral ambiguity",
+      "family tragedy",
+      "truth seeking"
+    ],
+    "themes": [
+      {
+        "theme": "Family Traumas and Secrets",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Search for Truth",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Mystery",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "As the investigation delves into the past, Dong-hwan uncovers deeply buried truths about his family's history, confronting disturbing secrets surrounding both his parents and the reality behind his mother's disappearance.",
+      "conflict": "Dong-hwan receives a sudden phone call announcing that the skeletal remains of his long-lost mother, who was believed to have abandoned the family forty years ago, have been discovered, sparking a investigation into her mysterious death.",
+      "resolution": "Faced with the uncomfortable revelations about human cruelty, societal judgment, and his own lineage, Dong-hwan comes to a nuanced understanding of his family's traumatic legacy.",
+      "introduction": "Im Dong-hwan assists a documentary crew filming a profile on his revered, blind father, Yeong-gyu, who is celebrated for overcoming his disability as a master seal engraver.",
+      "risingAction": "Accompanied by an ambitious TV producer, Dong-hwan conducts a series of interviews with relatives and former coworkers, uncovering painful accounts of systemic prejudice regarding his mother's appearance while tracing potential suspects behind her demise."
+    },
+    "characters": [
+      {
+        "name": "Im Dong-hwan",
+        "role": "Hero",
+        "description": "The protagonist driven to unravel the dark family secrets and mystery surrounding his mother's death."
+      },
+      {
+        "name": "Dong-hwan's Father",
+        "role": "Supporting Character",
+        "description": "A blind worker whose past and relationship with the missing mother centralize the core family secret."
+      },
+      {
+        "name": "Documentary Crew Lead",
+        "role": "Supporting Character",
+        "description": "Filming Dong-hwan's father, providing the backdrop and lens through which the past begins to unravel."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Im Dong-hwan",
+        "target": "Im Yeong-gyu",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Im Dong-hwan",
+        "target": "Jung Young-hee",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Im Yeong-gyu",
+        "target": "Jung Young-hee",
+        "description": "Husband/Wife (Murderer/Victim)"
+      },
+      {
+        "source": "Im Dong-hwan",
+        "target": "Kim Su-jin",
+        "description": "Documentary Producer/Subject's Son & Investigative Partners"
+      },
+      {
+        "source": "Jung Young-hee",
+        "target": "Baek Ju-sang",
+        "description": "Factory Chief/Whistleblower (Adversaries)"
+      },
+      {
+        "source": "Im Yeong-gyu",
+        "target": "Baek Ju-sang",
+        "description": "Former Employee/Tyrannous Boss"
+      }
+    ],
+    "seo": {
+      "slug": "the-ugly",
+      "jsonLd": {
+        "name": "The Ugly",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "One day while overseeing a documentary crew filming his blind father at work, Im Dong-hwan gets a phone call that his missing mother’s remains have been found after forty years. Determined to find the truth of her disappearance, Dong-hwan embarks on a twisted odyssey through his family’s traumatic past, uncovering dark secrets along the way."
+      },
+      "keywords": [
+        "The Ugly movie",
+        "The Ugly film synopsis",
+        "Im Dong-hwan",
+        "mystery thriller film",
+        "Korean drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-ugly](https://movnix.com/movie/the-ugly)",
+      "metaTitle": "The Ugly - Official Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "The Ugly - Official Movie Synopsis",
+        "og:description": "After 40 years, Im Dong-hwan uncovers dark family secrets following the discovery of his missing mother's remains in this gripping mystery."
+      },
+      "twitterCard": {
+        "twitter:title": "The Ugly - Official Movie Synopsis",
+        "twitter:description": "After 40 years, Im Dong-hwan uncovers dark family secrets following the discovery of his missing mother's remains in this gripping mystery."
+      },
+      "metaDescription": "When his missing mother's remains are found after 40 years, Im Dong-hwan uncovers dark family secrets in a twisted odyssey. Read the full overview."
+    },
+    "faq": [
+      {
+        "answer": "The Ugly is primarily a mystery thriller and psychological drama centered around a dark investigation into generational grief and family trauma.",
+        "question": "What is the dominant genre of The Ugly?"
+      },
+      {
+        "answer": "No, The Ugly is a standalone South Korean feature film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is The Ugly part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the film concludes.",
+        "question": "Does The Ugly have a post-credit scene?"
+      },
+      {
+        "answer": "The film was directed by renowned South Korean filmmaker Yeon Sang-ho, known for directing Train to Busan and Peninsula.",
+        "question": "Who directed The Ugly?"
+      },
+      {
+        "answer": "South Korean actor Park Jeong-min stars as the protagonist, Im Dong-hwan.",
+        "question": "Who stars as the lead character, Im Dong-hwan?"
+      },
+      {
+        "answer": "While overseeing a documentary about his blind father, Dong-hwan receives a phone call informing him that his mother's remains have been discovered forty years after her disappearance.",
+        "question": "What triggers Im Dong-hwan's investigation in the story?"
+      },
+      {
+        "answer": "The film has a total running time of approximately 1 hour and 42 minutes (102 minutes).",
+        "question": "What is the runtime of The Ugly?"
+      },
+      {
+        "answer": "The original audio language of The Ugly is Korean, with official subtitles available in English and other languages depending on the distribution platform.",
+        "question": "What language is the movie filmed in?"
+      },
+      {
+        "answer": "No, the storyline is a fictional mystery drama created by writer-director Yeon Sang-ho.",
+        "question": "Is The Ugly based on a true story?"
+      },
+      {
+        "answer": "The film explores themes of generational trauma, guilt, family secrets, societal standards of appearance, and the painful pursuit of long-buried truths.",
+        "question": "What core themes are explored in The Ugly?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Psychological tension, unsettling themes of family trauma, and the discovery of human remains after 40 years create a creepy, unnerving atmosphere."
+      },
+      "language": {
+        "score": 2,
+        "description": "Minimal explicit language indicated in the brief overview, though dramatic themes may imply occasional mild coarse language."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Themes surrounding murder, a long-missing person, and uncovering a dark, traumatic family past, though specific graphic physical violence is not detailed in the summary."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance use mentioned, though realistic adult drama may include minor background alcohol or tobacco use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes mentioned or implied."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional weight dealing with grief, long-buried family secrets, traumatic pasts, and the discovery of a deceased parent."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-28 05:36:37.382208",
+    "updated_at": "2026-07-28 05:36:37.382208"
+  }
 }
