@@ -10,9 +10,9 @@
     "budget": "70000000",
     "revenue": "27225194",
     "status": "Released",
-    "popularity": 50.8329,
-    "voteAverage": 7.508,
-    "voteCount": 533,
+    "popularity": 53.9236,
+    "voteAverage": 7.554,
+    "voteCount": 574,
     "homepage": "https://www.inthegrey.film",
     "posterPath": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
     "backdropPath": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
@@ -930,8 +930,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.508,
-      "votesCount": 533
+      "ratingValue": 7.554,
+      "votesCount": 574
     },
     {
       "source": "imdb",
@@ -1165,6 +1165,11 @@
       "iso_3166_1": "FI",
       "title": "In the grey - miljardikeikka",
       "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "In the Grey",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -1262,5 +1267,215 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1122573/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1122573,
+    "hash": "effdc733494b8f4a92fee1244c8fcc7c8bd89874367bf21cc7362e18e99810c2",
+    "summary_one_sentence": "When a ruthless despot steals a billion-dollar fortune, a covert team of elite operatives emerges from the shadows to execute an impossible heist to retrieve it.",
+    "summary_short": "Operating entirely in the shadows, a covert team of elite operatives is recruited for a dangerous mission after a ruthless despot steals a billion-dollar fortune. Tasked with reclaiming the fortune, the squad must plan and execute an impossible heist in hostile territory. As the operation unfolds, it rapidly devolves into a deadly game of strategy, deception, and raw survival. To complete the mission and stay alive, the team must rely on their lethal skills and trust each other through escalating chaos.",
+    "summary_long": "Living off the grid, an elite team of covert operatives is forced back into action when a ruthless despot pulls off a massive theft, seizing a fortune worth a billion dollars. Recognizing that conventional intelligence agencies cannot intervene, a secret authority deploys this specialist squad to take back the stolen assets. What starts as a meticulously calculated heist soon turns into a deadly game of cat-and-mouse as unforeseen complications arise. Infiltrating deep into hostile territory, the operatives are forced to navigate lethal traps, shifting loyalties, and heavy resistance. As pressure mounts and the perimeter collapses, the mission shifts from a discreet recovery operation to an intense battle for survival. The team must adapt on the fly, using advanced tactical strategies and brute force to outsmart an adversary who commands endless resources. Every choice carries fatal consequences as they push their physical and psychological limits to accomplish the impossible. Ultimately, this high-stakes thriller tests not only their tactical mastery, but the bonds of trust that keep them alive.",
+    "synopsis": "In the Grey follows a secretive squad of top-tier operatives who operate in the dark corners of global intelligence. When a tyrant manages to steal a billion-dollar fortune, the team is tasked with executing a near-impossible heist to recover the funds before they can be used for destruction. Blending explosive action, intense drama, and psychological suspense, the film tracks the team as they navigate high-tech defense systems, lethal mercenaries, and psychological mind games, highlighting the extreme measures required to achieve justice outside the boundaries of the law.",
+    "keywords": [
+      "covert operatives",
+      "elite team",
+      "impossible heist",
+      "stolen fortune",
+      "tactical warfare",
+      "ruthless despot",
+      "shadow operations",
+      "deception and betrayal",
+      "cat-and-mouse game",
+      "high-stakes heist",
+      "deadly game",
+      "espionage thriller",
+      "mercenaries"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Deception and Strategy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Justice and Retribution",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Duty and Loyalty",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The heist erupts into an all-out battle for survival where the team must outwit their target in a final, explosive confrontation.",
+      "conflict": "A ruthless despot steals a billion-dollar fortune, forcing the team to accept an impossible high-stakes heist to retrieve it.",
+      "resolution": "The aftermath of the deadly confrontation settles, leaving the operatives to deal with the consequences of the heist and return to the shadows.",
+      "introduction": "An elite team of covert operatives lives in the shadows, operating completely off the grid.",
+      "risingAction": "The operatives execute a complex recovery mission that quickly devolves into a deadly game of strategy and deception as they navigate unexpected traps."
+    },
+    "characters": [
+      {
+        "name": "Henry Cavill's Character",
+        "role": "Hero",
+        "description": "The elite leader of the covert team, driving the high-stakes heist with lethal precision and tactical brilliance."
+      },
+      {
+        "name": "Jake Gyllenhaal's Character",
+        "role": "Anti Hero",
+        "description": "A cynical, morally grey operative within the team who excels in deception and high-risk strategy."
+      },
+      {
+        "name": "Carlos Bardem's Character",
+        "role": "Villain",
+        "description": "The ruthless despot who stole the billion-dollar fortune, serving as the deadly antagonist the team must outmaneuver."
+      },
+      {
+        "name": "Eiza González's Character",
+        "role": "Supporting Character",
+        "description": "A highly skilled specialist on the team, providing essential combat and technical expertise to survive the heist."
+      },
+      {
+        "name": "Fisher Stevens's Character",
+        "role": "Comic Relief",
+        "description": "The team's tech expert or handler who uses dry wit and nervous energy to cut through the life-or-death tension."
+      },
+      {
+        "name": "Rosamund Pike's Character",
+        "role": "Mentor",
+        "description": "The shadowy handler or intelligence officer who orchestrates the mission from the background and guides the team."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Covert Team of Elite Operatives",
+        "target": "Ruthless Despot",
+        "description": "Adversaries / Target of Heist"
+      }
+    ],
+    "seo": {
+      "slug": "in-the-grey",
+      "jsonLd": {
+        "name": "In the Grey",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival."
+      },
+      "keywords": [
+        "In the Grey movie",
+        "action heist film",
+        "action thriller 2025",
+        "elite operatives movie",
+        "In the Grey synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/in-the-grey](https://movnix.com/movie/in-the-grey)",
+      "metaTitle": "In the Grey Movie - Watch the Ultimate Action Heist Thriller",
+      "openGraph": {
+        "og:title": "In the Grey (Movie) - Official Overview & Thrills",
+        "og:description": "An elite operative team takes on an impossible billion-dollar heist. Strategy, deception, and survival collide in In the Grey."
+      },
+      "twitterCard": {
+        "twitter:title": "In the Grey Movie - High-Stakes Action Thriller",
+        "twitter:description": "Catch the covert operatives of In the Grey as they attempt an impossible billion-dollar heist against a ruthless despot."
+      },
+      "metaDescription": "A covert team of elite operatives risks everything to reclaim a stolen billion-dollar fortune in the high-stakes action thriller, In the Grey."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genres of the film are action and thriller.",
+        "question": "What is the dominant genre of In the Grey?"
+      },
+      {
+        "answer": "No, In the Grey is currently a standalone original film written and directed by Guy Ritchie.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes at the end of the film.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film was written, produced, and directed by acclaimed filmmaker Guy Ritchie.",
+        "question": "Who directed In the Grey?"
+      },
+      {
+        "answer": "The main ensemble cast features Henry Cavill, Jake Gyllenhaal, Eiza González, and Rosamund Pike.",
+        "question": "Who are the primary actors starring in the movie?"
+      },
+      {
+        "answer": "The film has a relatively brisk running time of approximately 97 minutes.",
+        "question": "What is the official runtime of the movie?"
+      },
+      {
+        "answer": "The movie is rated R for sequences of strong violence, pervasive language, and a sexual reference.",
+        "question": "What is the MPAA maturity rating for the film?"
+      },
+      {
+        "answer": "The story revolves around a covert team of elite clandestine operatives living in the shadows who are deployed to pull off an impossible heist and recover a stolen one-billion-dollar fortune from a ruthless despot.",
+        "question": "What is the main plot of the story?"
+      },
+      {
+        "answer": "The film was officially released in North American theaters on May 15, 2026.",
+        "question": "When was In the Grey released in theaters?"
+      },
+      {
+        "answer": "The movie was primarily filmed on location in Spain, notably around the Canary Islands including Tenerife.",
+        "question": "Where did the principal photography for the movie take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements expected, focused on action-thriller tension rather than supernatural or psychological terror."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical for a gritty, high-stakes action thriller."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence anticipated from action sequences involving elite operatives, a ruthless despot, and a deadly heist scenario."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate substance use, potentially featuring social drinking or casual smoking associated with criminal/underworld settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Very low potential for sexual content based on the plot overview, though minor suggestive themes may occur."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity driven by themes of deception, betrayal, survival, and high-stakes strategy."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 9,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 2,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 17:57:31.686131",
+    "updated_at": "2026-07-27 10:59:19.066"
+  }
 }
