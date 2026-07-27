@@ -1042,5 +1042,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1148365/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1148365,
+    "hash": "189ddcc0c50e94eb6e13f964e4900fe3f81550c18f5b674002b70b0f956de30b",
+    "summary_one_sentence": "When a long-estranged group of childhood friends unexpectedly reunites, they are thrust into a high-stakes global conspiracy that forces them to save the world.",
+    "summary_short": "A nostalgic reunion between childhood friends turns chaotic when they accidentally discover an international threat. Blending action and comedy, the group must rely on their old bond and unique skill sets to stay ahead of dangerous enemies. As tensions rise, they learn that saving the planet requires confronting their past unresolved drama. Ultimately, their chaotic adventure tests the limits of their friendship in an unexpected race against time.",
+    "summary_long": "Years after drifting apart, a group of former childhood friends gathers for what was supposed to be a simple nostalgic reunion. However, their quiet gathering is upended when a bizarre series of coincidences draws them into the crosshairs of a ruthless international criminal network. Clueless yet determined, the group finds themselves fleeing armed operatives while trying to piece together the global conspiracy they accidentally uncovered. Along the way, long-buried personal grievances and unresolved dramatic tensions resurface, threatening to break the team apart from within. To survive, they are forced to rediscover the trust and camaraderie that defined their youth. Navigating high-speed chases, dangerous locations, and bizarre setbacks, they slowly gain the upper hand against their formidable enemies. Each friend brings a unique, unexpected skill to the table, turning their haphazard squad into a surprisingly effective force. In a climax that spans international borders, they put everything on the line to thwart the villains' catastrophic plot. Ultimately, the dangerous ordeal not only saves the world but permanently cements their revitalized lifelong friendship.",
+    "synopsis": "Matchbox: The Movie is an action-packed adventure comedy that follows a group of adult friends who haven't seen each other in years. What begins as a grounded, emotional attempt to reconnect over childhood memories rapidly escalates when the group stumbles into a covert international plot. Forced to outrun dangerous covert operatives, this unlikely team of ordinary people must rely on their shared past, quick wit, and renewed bonds to navigate a globe-trotting mission. Combining lighthearted comedic moments with high-octane action and genuine character drama, the film explores how the strength of old friendships can overcome even the most extraordinary threats.",
+    "keywords": [
+      "childhood friends reunion",
+      "saving the world",
+      "accidental heroes",
+      "international conspiracy",
+      "secret plot",
+      "reconnecting friends",
+      "action comedy",
+      "high stakes adventure",
+      "misguided adventure",
+      "reluctant heroes",
+      "group dynamics",
+      "unexpected danger"
+    ],
+    "themes": [
+      {
+        "theme": "Friendship and Reunion",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Heroism and Duty",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The friends face off in a final high-stakes confrontation against the masterminds of the plot to prevent global catastrophe.",
+      "conflict": "During their reunion, the friends accidentally stumble upon a high-stakes, dangerous international conspiracy, putting them directly in the crosshairs of global threats.",
+      "resolution": "With the world saved and the threat neutralized, the friends return to safety, their childhood bond newly revitalized and stronger than ever.",
+      "introduction": "A group of former childhood friends reconnect after years apart to catch up on their lives and relive old memories.",
+      "risingAction": "Forced into an unfamiliar world of espionage and peril, the group must rely on their long-dormant teamwork, outsmart dangerous operatives, and navigate escalating obstacles across multiple locations."
+    },
+    "characters": [
+      {
+        "name": "Sean (played by John Cena)",
+        "role": "Hero",
+        "description": "An undercover CIA agent and former leader of the childhood friends whose return pulls the group into an international pursuit to save the world."
+      },
+      {
+        "name": "Played by Jessica Biel",
+        "role": "Supporting Character",
+        "description": "One of Sean's reconnecting childhood friends who gets drawn into the action-packed global mission."
+      },
+      {
+        "name": "Played by Sam Richardson",
+        "role": "Comic Relief",
+        "description": "A member of the reunited friend group providing humor and levity amidst high-stakes danger."
+      },
+      {
+        "name": "Played by Arturo Castro",
+        "role": "Comic Relief",
+        "description": "A childhood friend whose comedic reactions contrast with the dangerous espionage world they stumble into."
+      },
+      {
+        "name": "Played by Teyonah Parris",
+        "role": "Supporting Character",
+        "description": "A key member of the reunited friends who uses her resourcefulness to help navigate the plot."
+      },
+      {
+        "name": "Played by Danai Gurira",
+        "role": "Supporting Character",
+        "description": "A formidable action-capable ally who assists the group during their cross-continental adventure."
+      },
+      {
+        "name": "Played by Corey Stoll",
+        "role": "Villain",
+        "description": "The antagonist orchestrating the international threat that the friends must expose and stop."
+      },
+      {
+        "name": "Played by Bill Camp",
+        "role": "Mentor",
+        "description": "A seasoned authority figure providing intelligence and guidance to Sean and his allies."
+      },
+      {
+        "name": "Played by Golshifteh Farahani",
+        "role": "Supporting Character",
+        "description": "An international operative allied with the group in their globetrotting mission."
+      },
+      {
+        "name": "Played by Daniel Bernhardt",
+        "role": "Other",
+        "description": "An opposing physical enforcer working for the villainous syndicate."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sean",
+        "target": "Ted",
+        "description": "Childhood Friends / Allies"
+      },
+      {
+        "source": "Sean",
+        "target": "Crosby",
+        "description": "Childhood Friends / Allies"
+      },
+      {
+        "source": "Ted",
+        "target": "Crosby",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Sean",
+        "target": "Charmaine",
+        "description": "Childhood Friends / Allies"
+      },
+      {
+        "source": "Sean",
+        "target": "Mosier",
+        "description": "Adversaries / Antagonist"
+      }
+    ],
+    "seo": {
+      "slug": "matchbox-the-movie",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/matchbox-the-movie](https://movnix.com/movie/matchbox-the-movie)",
+        "name": "Matchbox: The Movie",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world."
+      },
+      "keywords": [
+        "Matchbox The Movie",
+        "Matchbox movie",
+        "Matchbox film",
+        "action comedy movie",
+        "international spy plot movie"
+      ],
+      "canonical": "[https://movnix.com/movie/matchbox-the-movie](https://movnix.com/movie/matchbox-the-movie)",
+      "metaTitle": "Matchbox: The Movie - Official Synopsis & Overview",
+      "openGraph": {
+        "og:title": "Matchbox: The Movie - Reunited Friends Must Save the World",
+        "og:description": "When childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot and must save the world."
+      },
+      "twitterCard": {
+        "twitter:title": "Matchbox: The Movie - Reunited Friends Must Save the World",
+        "twitter:description": "When childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot and must save the world."
+      },
+      "metaDescription": "Reunited childhood friends unravel an international plot to save the world in Matchbox: The Movie. Discover news, updates, and details."
+    },
+    "faq": [
+      {
+        "answer": "The movie follows a group of former childhood friends who reconnect, only for their reunion to take an unexpected turn when they stumble upon a dangerous international plot that forces them to save the world.",
+        "question": "What is the plot of Matchbox: The Movie?"
+      },
+      {
+        "answer": "The film is primarily an action-comedy, blending high-stakes adventure and international intrigue with comedic friend group dynamics.",
+        "question": "What is the dominant genre of Matchbox: The Movie?"
+      },
+      {
+        "answer": "While inspired by the iconic toy brand, 'Matchbox: The Movie' is designed as a standalone action-adventure story, though it has the potential to launch a broader franchise.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "Yes, there is a mid-credits scene that provides an extra dose of humor and hints at potential future adventures for the group.",
+        "question": "Is there a post-credit scene in Matchbox: The Movie?"
+      },
+      {
+        "answer": "The film is intended as a crowd-pleasing action adventure, targeting a PG-13 rating for thematic action sequences and mild language.",
+        "question": "What age rating is expected for Matchbox: The Movie?"
+      },
+      {
+        "answer": "No, the movie is a completely fictional story inspired by the famous line of die-cast toy vehicles.",
+        "question": "Is Matchbox: The Movie based on a true story?"
+      },
+      {
+        "answer": "The story begins with a small-town reunion but quickly scales into a global adventure with locations spanning across several countries.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Yes, the film incorporates classic vehicle designs and car-chase aesthetics that pay homage to the original Matchbox brand heritage.",
+        "question": "Are the iconic toy cars actually featured in the film?"
+      },
+      {
+        "answer": "It is crafted for general audiences, appealing to fans of action-comedy ensembles as well as adults looking for a fun, nostalgic adventure.",
+        "question": "Who is the intended audience for this movie?"
+      },
+      {
+        "answer": "The film is planned for an initial exclusive theatrical release before becoming available on digital on-demand and major streaming services.",
+        "question": "Will Matchbox: The Movie be available on streaming platforms?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, limited to light tension and peril during action sequences."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity and action-oriented banter."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate action violence including gunplay, explosions, and physical altercations typical of international adventure films."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional social drinking or background usage of alcohol."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic subplots and subtle suggestive humor with no explicit content."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate suspense and fast-paced adventure excitement."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 6,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 2,
+      "suspense": 7,
+      "violence": 5
+    },
+    "created_at": "2026-07-27 23:49:59.432327",
+    "updated_at": "2026-07-27 23:49:59.432327"
+  }
 }
