@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 203.239,
-    "voteAverage": 7.815,
-    "voteCount": 92,
+    "popularity": 154.4789,
+    "voteAverage": 7.609,
+    "voteCount": 110,
     "homepage": "https://mock-movie-website.com/movies/1318621",
     "posterPath": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
     "backdropPath": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
@@ -38,6 +38,10 @@
     {
       "tmdbId": 10770,
       "name": "TV Movie"
+    },
+    {
+      "tmdbId": 12,
+      "name": "Adventure"
     },
     {
       "tmdbId": 1,
@@ -67,6 +71,12 @@
       "tmdbId": 301764,
       "name": "Disney Kids & Family",
       "logoPath": "/ajjamIKaJPMSRBoNShIpf2l0OzC.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 196864,
+      "name": "Bear Claw Productions",
+      "logoPath": "/hGbesRYgkR4SHQib5syHjIYi9QE.png",
       "originCountry": "US"
     }
   ],
@@ -313,13 +323,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/5lpbVRg99l3VkYyXOiZraNgNlXv.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/rqj4cFAua0vwazt6MyzuWK9Y5TS.jpg",
       "width": 2000,
       "height": 3000,
@@ -404,6 +407,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/2q3eLuBDABhAUwHtvKTegt1ytak.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/qnVzkcji0hztBXLWmvqTCUhOgSj.jpg",
       "width": 2000,
       "height": 3000,
@@ -453,9 +463,23 @@
       "type": "poster"
     },
     {
+      "filePath": "/rVdBmJhLXnlgpCUf21xifzrRGF5.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/hPnG8uiOiSsftLbCdVWFTaQbdAV.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5lpbVRg99l3VkYyXOiZraNgNlXv.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -492,13 +516,6 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/rVdBmJhLXnlgpCUf21xifzrRGF5.jpg",
-      "width": 1023,
-      "height": 1537,
-      "aspectRatio": 0.666,
       "type": "poster"
     },
     {
@@ -806,6 +823,13 @@
       "filePath": "/g5oSDU0AZNQXyMmG7dIqa4l6BK3.jpg",
       "width": 1365,
       "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vdinbUYC5xnH1VSAi7js4QCpX0s.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -1233,8 +1257,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.815,
-      "votesCount": 92
+      "ratingValue": 7.609,
+      "votesCount": 110
     },
     {
       "source": "crawled",
