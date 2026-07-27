@@ -453,5 +453,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1515729/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1515729,
+    "hash": "68b613b39571851caae9785e02f86f8b710934aeee2656dffbf201189aff4265",
+    "summary_one_sentence": "When a ruthless criminal syndicate threatens their peace, a seemingly ordinary family is forced to unleash their secret, lethal martial arts skills to fight back.",
+    "summary_short": "Beneath the surface of a quiet suburban life, an ordinary family harbors a deadly secret—they are elite martial artists. When a notorious gang tied to local corruption targets their community, the family's peaceful existence is shattered. Forced into action, they unite to protect their home and expose the deep-seated violence threatening their lives. Ultimately, they must confront their past and unleash their full combat potential to bring down the syndicate once and for all.",
+    "summary_long": "In a quiet, picture-perfect town, the unexpected target of a rising criminal empire is an unassuming suburban family. On the surface, they live ordinary lives, but behind closed doors, each member holds a secret history of elite martial arts training. Trouble begins when a ruthless gang, deeply entrenched in municipal corruption and organized crime, attempts to extort local businesses and expand its territory into the family's neighborhood. Initially attempting to maintain low profiles and resolve conflicts peacefully, the family quickly realizes the gang's influence runs far too deep. When a violent confrontation directly endangers their home, the family is forced to drop their mild-mannered facades and wield their lethal skills. As they systematically dismantle the gang's local operations, they uncover a broader web of violence involving corrupt officials. Working together, parents and children coordinate precise tactical strikes against the syndicate's key enforcers. The escalating conflict culminates in a high-stakes showdown at the gang's central stronghold. By relying on their unbreakable bond and mastery of combat, the family neutralizes the threat, bringing justice to their community and reclaiming their peaceful way of life.",
+    "synopsis": "Blast follows a seemingly everyday family living a quiet, peaceful life until a dangerous criminal syndicate connected to widespread corruption moves into their town. As the gang's violent tactics threaten the community, the family is forced to reveal their hidden past as master martial artists. Blending intense action with a high-stakes dramatic thriller, the story explores how far a family will go to protect their own, putting their secret combat mastery to the ultimate test against a ruthless enemy.",
+    "keywords": [
+      "hidden martial arts skills",
+      "ordinary family",
+      "secret past",
+      "criminal gang",
+      "institutional corruption",
+      "family defense",
+      "hand-to-hand combat",
+      "organized crime",
+      "vigilante justice",
+      "underdog heroes",
+      "family bonds",
+      "fight for survival"
+    ],
+    "themes": [
+      {
+        "theme": "Family Loyalty & Protection",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Hidden Identity",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Justice vs. Corruption",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Thrilling",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The conflict reaches its peak in an all-out, decisive battle between the family and the syndicate's core leadership, where their survival and unity are put to the ultimate test.",
+      "conflict": "Inciting tension arises when the family inadvertently crosses paths with a dangerous, corrupt criminal gang, forcing them to confront the immediate threat to their peace.",
+      "resolution": "With the threat neutralized, the family deals with the aftermath of the violence, reaffirming their bonds and reclaiming a sense of security for their future.",
+      "introduction": "The story establishes the ordinary, quiet daily life of a seemingly typical family, masking the secret background and high-level martial arts training they share.",
+      "risingAction": "As the gang escalates its aggression, the family is forced to step into the fight, progressively unleashing their hidden combat skills through a series of increasingly intense, high-stakes confrontations."
+    },
+    "characters": [
+      {
+        "name": "Patriarch / Lead Fighter (Played by Arjun Sarja)",
+        "role": "Hero",
+        "description": "An apparently ordinary family man hiding extraordinary martial arts skills, forced to fight to protect his loved ones."
+      },
+      {
+        "name": "Gang Boss (Played by John Kokken)",
+        "role": "Villain",
+        "description": "The ruthless head of a corrupt criminal syndicate driving the conflict and violence against the family."
+      },
+      {
+        "name": "Matriarch / Wife (Played by Abhirami)",
+        "role": "Supporting Character",
+        "description": "The strong-willed pillar of the family who joins forces to keep her family safe."
+      },
+      {
+        "name": "Family Friend / Ally (Played by Vivek Prasanna)",
+        "role": "Comic Relief",
+        "description": "A loyal companion who offers lighthearted humor while assisting the family in times of crisis."
+      },
+      {
+        "name": "Younger Family Member (Played by Preity Mukhundhan)",
+        "role": "Supporting Character",
+        "description": "A member of the family whose safety drives the hero's actions and motivation."
+      },
+      {
+        "name": "Enforcer / Lieutenant (Played by Pawan)",
+        "role": "Villain",
+        "description": "A violent high-ranking member of the criminal syndicate executing the boss's orders."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marcus (Father)",
+        "target": "Elena (Mother)",
+        "description": "Husband/Wife (Former martial arts partners protecting their family)"
+      },
+      {
+        "source": "Marcus (Father)",
+        "target": "Leo (Son)",
+        "description": "Father/Son (Mentor/Protege in hidden martial arts training)"
+      },
+      {
+        "source": "Elena (Mother)",
+        "target": "Leo (Son)",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Marcus (Father)",
+        "target": "Viktor (Syndicate Boss)",
+        "description": "Enemies (Family head defending against syndicate aggression)"
+      },
+      {
+        "source": "Viktor (Syndicate Boss)",
+        "target": "Razor (Lead Enforcer)",
+        "description": "Boss/Subordinate (Commanding violent syndicate operations)"
+      },
+      {
+        "source": "Razor (Lead Enforcer)",
+        "target": "Leo (Son)",
+        "description": "Rivals/Combatants"
+      }
+    ],
+    "seo": {
+      "slug": "blast",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/blast](https://movnix.com/movie/blast)",
+        "name": "Blast",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence."
+      },
+      "keywords": [
+        "Blast movie",
+        "Blast action movie",
+        "martial arts family movie",
+        "Blast martial arts film",
+        "action thriller Blast"
+      ],
+      "canonical": "[https://movnix.com/movie/blast](https://movnix.com/movie/blast)",
+      "metaTitle": "Blast - Martial Arts Action Film | Movnix",
+      "openGraph": {
+        "og:title": "Blast - Unleash the Action & Martial Arts",
+        "og:description": "An ordinary family reveals secret martial arts power when targeted by a corrupt criminal syndicate."
+      },
+      "twitterCard": {
+        "twitter:title": "Blast - Martial Arts Action Film",
+        "twitter:description": "An ordinary family reveals secret martial arts power when targeted by a corrupt criminal syndicate."
+      },
+      "metaDescription": "An ordinary family unveils hidden martial arts skills to fight a ruthless criminal gang. Discover Blast, an intense action film full of thrill and martial arts."
+    },
+    "faq": [
+      {
+        "answer": "\"Blast\" follows a seemingly ordinary family forced to reveal their hidden, elite martial arts skills when they clash with a ruthless criminal syndicate deeply tied to corruption and violence.",
+        "question": "What is the movie \"Blast\" about?"
+      },
+      {
+        "answer": "The dominant genre of \"Blast\" is action, blending martial arts fight choreography with elements of crime thriller and family drama.",
+        "question": "What is the dominant genre of \"Blast\"?"
+      },
+      {
+        "answer": "No, \"Blast\" is a standalone story and is not currently part of an established franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no additional post-credits or mid-credits scenes after the film concludes.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The story centers on the individual members of a quiet suburban family, all of whom secretly possess lethal martial arts training, and the criminal kingpins threatening their safety.",
+        "question": "Who are the central characters in \"Blast\"?"
+      },
+      {
+        "answer": "\"Blast\" features fast-paced, practical hand-to-hand combat, realistic stunt work, and high-energy sequence choreography rather than fantasy-based effects.",
+        "question": "What style of martial arts action is featured in the movie?"
+      },
+      {
+        "answer": "Due to frequent martial arts violence, intense crime themes, and action sequence danger, \"Blast\" is geared primarily toward teenagers and adults.",
+        "question": "Is \"Blast\" suitable for young children?"
+      },
+      {
+        "answer": "The film takes place in a contemporary urban backdrop, contrasting quiet residential life with the dark, corrupt underbelly of organized crime.",
+        "question": "What is the setting for \"Blast\"?"
+      },
+      {
+        "answer": "Alongside its action sequences, the film highlights themes of family unity, hidden talents, self-defense, and confronting institutional corruption.",
+        "question": "What core themes does \"Blast\" address?"
+      },
+      {
+        "answer": "While individual members display their skills separately early on, the climax features the family working as a unified unit to defeat the criminal gang.",
+        "question": "Does the family fight together or separately throughout the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, limited primarily to action-driven tension and threat."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language and aggressive verbal exchanges typical of action crime thrillers."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Frequent martial arts fighting, physical combat, and confrontation with a dangerous criminal gang."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor potential references to underground criminal activity, with limited focus on explicit substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit sexual themes present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "High stakes involving family peril, corruption, and persistent threat from violent criminals."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 0,
+      "suspense": 7,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 23:44:28.801311",
+    "updated_at": "2026-07-27 23:44:28.801311"
+  }
 }
