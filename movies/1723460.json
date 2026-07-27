@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.534,
-    "voteAverage": 7,
-    "voteCount": 5,
+    "popularity": 17.368,
+    "voteAverage": 7.3,
+    "voteCount": 20,
     "homepage": "https://www.netflix.com/title/81923353",
     "posterPath": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
     "backdropPath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
@@ -105,9 +105,100 @@
       "type": "poster"
     },
     {
+      "filePath": "/jTbpTfNfHYIKmnciYRgzvcveuNe.jpg",
+      "width": 600,
+      "height": 900,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/q20rITMCPeA4qz5kxIwkx5RiyuH.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
       "width": 1561,
       "height": 878,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/AjkfEwkDsr3Cp9wfdrlgNzaX4gb.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/nS76MtzDh2S0b5rtcTlWntWQofj.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/oJbIL33WeWDcoeKpmpGXPArYKR.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/kHIBNJ7rZDTyjRImmXPDgjK3YTJ.jpg",
+      "width": 3414,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/boJCiQH5zmNgSHewiQFBezZrsFW.jpg",
+      "width": 3414,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/t7afFRcE0Va17l0Urdzffc8nJXM.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lTNnCPBZxI7Bjza5IjsUXhfpvMf.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/dxIbElczQnK5peokKgZLp3rhNm9.jpg",
+      "width": 3414,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/oBeVqbYz9052hFW4hhyqd4RPpOH.jpg",
+      "width": 3414,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uSyceLWnQgyGJkJMeF4N6PI8oEA.jpg",
+      "width": 3413,
+      "height": 1920,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/A2HMNvtefr7WuScGxShYQGQVedt.jpg",
+      "width": 3413,
+      "height": 1920,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -115,8 +206,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 5
+      "ratingValue": 7.3,
+      "votesCount": 20
     },
     {
       "source": "crawled",
@@ -154,7 +245,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
@@ -197,5 +293,216 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1723460/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1723460,
+    "hash": "d40dfd98474e46c199440c2b0c38d7157fddcaaff9488589a6c548e2bda3feff",
+    "summary_one_sentence": "A newly married US marshal finds his life unraveling when a barrage of sinister emails transforms into a dark revenge campaign orchestrated by his obsessed ex-girlfriend.",
+    "summary_short": "A Toxic Love Story explores a chilling real-life drama that unfolds when a newly married US marshal becomes the target of an escalating cyber-harassment campaign. As mysterious, threatening emails flood in, what initially appears to be random intimidation rapidly mutates into a calculated plot for revenge. Investigating the digital trail uncovers a web of obsession centered around the marshal's ex-girlfriend. This harrowing documentary dramatizes the destructive fallout of bitter past relationships in the modern digital age.",
+    "summary_long": "A Toxic Love Story is a dramatic documentary that reconstructs the shocking narrative of a newly married US marshal whose domestic peace is suddenly shattered by anonymous harassment. The turmoil begins with a series of vague, menacing emails delivered to both the marshal and his new bride, creating an atmosphere of constant paranoia. As time passes, the digital threats escalate in frequency and malice, moving from eerie messages to dangerous real-world interference. Federal investigators step in to trace the digital breadcrumbs, working through encrypted accounts and spoofed IP addresses to identify the culprit. The psychological toll on the newlywed couple grows immense as the harasser demonstrates intimate knowledge of their personal schedules and routines. Ultimately, the investigation reveals the perpetrator to be the marshal's former girlfriend, who refused to accept the end of their relationship. Driven by jealousy, her complex revenge plot aimed to systematically dismantle his career, marriage, and peace of mind. Through dramatic reenactments, intimate interviews, and digital evidence logs, the documentary examines the dangerous intersection of romantic fixation and modern cyber-stalking. The film concludes by exposing the far-reaching legal and emotional consequences of a love turned deadly.",
+    "synopsis": "A Toxic Love Story is an unsettling documentary drama that delves into the dark side of romantic obsession and cyber-stalking. Following a newly married US marshal whose quiet life is disrupted by a relentless campaign of threatening emails, the film explores how modern technology can be weaponized into a powerful tool for vengeance. As investigators race against time to unmask the source of the intimidation, they uncover a deeply personal vendetta rooted in a former romance. Grounded in psychological drama, the film offers a sobering look at how past relationships can cast long, dangerous shadows over a hopeful future.",
+    "keywords": [
+      "revenge plot",
+      "toxic relationship",
+      "cyberstalking",
+      "threatening emails",
+      "obsession",
+      "jealousy",
+      "ex-girlfriend",
+      "US marshal",
+      "true crime",
+      "marital drama",
+      "stalker",
+      "escalating tension",
+      "law enforcement",
+      "harassment"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Jealousy & Obsession",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Betrayal & Past Relationships",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Protection & Duty",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "The escalating plot culminates in a direct, high-stakes confrontation where the marshal must make a critical choice to permanently neutralize the threat and secure his family's survival.",
+      "conflict": "The threats are traced back to the marshal's unstable ex-girlfriend, transforming the digital harassment into a tangible, deeply personal revenge plot that directly threatens his marriage and safety.",
+      "resolution": "With the immediate danger resolved, the marshal and his wife are left to process the emotional trauma and pick up the pieces, determined to rebuild their lives and strengthen their marriage in the aftermath.",
+      "introduction": "A newly married US marshal attempts to settle into his new life, but the shadows of his past loom large as a series of anonymous, threatening emails begins to target him and his new spouse.",
+      "risingAction": "As the ex-girlfriend's tactics grow increasingly hostile and sophisticated, the marshal must use his professional skills to protect his wife, leading to a tense game of cat-and-mouse that pushes his resourcefulness and vows to the limit."
+    },
+    "characters": [
+      {
+        "name": "The US Marshal",
+        "role": "Hero",
+        "description": "The newly married protagonist who must protect his new life and face the escalating threat from his past."
+      },
+      {
+        "name": "The Ex-Girlfriend",
+        "role": "Villain",
+        "description": "The antagonist driven by rejection who orchestrates the threatening emails and the dangerous revenge plot."
+      },
+      {
+        "name": "The New Wife",
+        "role": "Supporting Character",
+        "description": "The marshal's spouse who becomes the target of the vendetta and motivates the hero's protective actions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "US Marshal",
+        "target": "Ex-girlfriend",
+        "description": "Ex-partners / Target and Stalker"
+      },
+      {
+        "source": "US Marshal",
+        "target": "New Wife",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Ex-girlfriend",
+        "target": "New Wife",
+        "description": "Rivals / Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "a-toxic-love-story",
+      "jsonLd": {
+        "name": "A Toxic Love Story",
+        "@type": "Movie",
+        "genre": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend."
+      },
+      "keywords": [
+        "a toxic love story",
+        "toxic love story movie",
+        "us marshal thriller movie",
+        "revenge thriller film",
+        "romantic thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/a-toxic-love-story](https://movnix.com/movie/a-toxic-love-story)",
+      "metaTitle": "A Toxic Love Story (2026) - Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "A Toxic Love Story - Official Movie Overview",
+        "og:description": "When threatening emails escalate into a deadly revenge plot, a newly married US marshal must face his ex-girlfriend."
+      },
+      "twitterCard": {
+        "twitter:title": "A Toxic Love Story - New Thriller Movie",
+        "twitter:description": "Threatening emails turn into a dangerous revenge plot for a US marshal and his ex-girlfriend."
+      },
+      "metaDescription": "A string of threatening emails escalates into a dangerous revenge plot involving a newly married US marshal and his ex-girlfriend in A Toxic Love Story."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is a psychological thriller, blending elements of romantic drama with a high-stakes suspense and crime narrative.",
+        "question": "What is the dominant genre of A Toxic Love Story?"
+      },
+      {
+        "answer": "No, it is a standalone feature film with a self-contained story.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes; the story concludes entirely before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The conflict centers on a newly married US marshal who becomes the target of an escalating revenge plot orchestrated by his vengeful ex-girlfriend, starting with threatening emails.",
+        "question": "What is the central conflict of the plot?"
+      },
+      {
+        "answer": "It is an original screenplay fictionally depicting the dangers of obsession and cyber-stalking, rather than a direct adaptation of a specific book or real-life event.",
+        "question": "Is the film based on a book or a true story?"
+      },
+      {
+        "answer": "The main characters are the newly married US marshal, his new wife who gets caught in the crossfire, and his unstable ex-girlfriend who drives the revenge plot.",
+        "question": "Who are the primary characters in the movie?"
+      },
+      {
+        "answer": "The film explores themes of obsession, cyber-harassment, domestic jeopardy, infidelity aftermath, and psychological manipulation.",
+        "question": "What are the mature themes present in this film?"
+      },
+      {
+        "answer": "Yes, because the protagonist is a US marshal, the escalation of the revenge plot leads to physical confrontations, tactical law enforcement responses, and high-tension suspense sequences.",
+        "question": "Does the movie contain significant action sequences?"
+      },
+      {
+        "answer": "The tone is dark, tense, and suspenseful, maintaining an atmosphere of paranoia as the antagonist's threats become reality.",
+        "question": "What is the tone of the movie?"
+      },
+      {
+        "answer": "The story is primarily set in the United States, balancing the domestic life of the newlyweds with the professional, high-security world of the US Marshals Service.",
+        "question": "Where does the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "The psychological tension of receiving threatening emails and being stalked by an ex creates a suspenseful, mildly frightening atmosphere."
+      },
+      "language": {
+        "score": 4,
+        "description": "A thriller focused on betrayal and revenge typically features moderate profanity and aggressive verbal exchanges."
+      },
+      "violence": {
+        "score": 6,
+        "description": "The premise involves an escalating revenge plot targeting a US marshal, implying targeted threats and potential physical danger or confrontations."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Standard adult thrillers may include casual social drinking or minor substance references, but it is not a primary focus."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "The romantic history between the main characters and the focus on a toxic past relationship suggests mild sexual references or thematic elements."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by themes of betrayal, stalking, obsession, and the disruption of a new marriage."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 7,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 08:19:27.87059",
+    "updated_at": "2026-07-27 10:59:29.579"
+  }
 }
