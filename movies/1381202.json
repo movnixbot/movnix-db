@@ -402,5 +402,266 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1381202/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1381202,
+    "hash": "86af7c9e3eb4be95e84f34c3de43b76a0bc2f0965ff9dbc06fa076a57e23d895",
+    "summary_one_sentence": "When a groundbreaking extraterrestrial discovery puts them in the crosshairs of a ruthless, unknown pursuer, two astrophysicists must flee across the countryside with their family to survive.",
+    "summary_short": "Astrophysicists Daniel and Michelle make a monumental cosmic discovery, only to find their lives upended when a relentless assailant targets their family. Forced into a harrowing flight through the countryside, they must navigate both physical danger and growing psychological dread. As the threat closes in, the distinction between cosmic revelation and human paranoia begins to shatter. Ultimately, the family faces a tense, emotional confrontation that tests the very limits of their survival, science, and trust.",
+    "summary_long": "Astrophysicists Daniel and Michelle achieve the ultimate scientific breakthrough when they uncover definitive evidence of extraterrestrial life. However, their triumph is immediately cut short when a covert, anonymous assailant targets them, forcing the couple and their family to abandon their home. Fleeing into the remote countryside, every shadow becomes a potential ambush as their stalker relentlessly tracks their every move. With little idea of who is pursuing them or why, internal strain begins to fracture the family, turning psychological pressure into acute paranoia. As high-stakes survival takes center stage, Daniel and Michelle struggle to protect their children while trying to safeguard the sensitive data they uncovered. The boundary between a world-altering alien revelation and grounded human malice blurs, raising doubts about what is truly real. Each step of their desperate journey escalates the tension, forcing them to rely on pure instinct and scientific ingenuity to stay one step ahead. The relentless chase eventually culminates in a gripping, emotionally charged showdown in the wilderness. In the end, the family is forced to confront not only their lethal stalker, but also the daunting reality of what their cosmic discovery means for humanity's future.",
+    "synopsis": "The Outer Threat is a high-stakes sci-fi thriller and drama that follows married astrophysicists Daniel and Michelle after they stumble upon a monumental extraterrestrial discovery. Before they can share their findings with the world, an anonymous, lethal assailant launches a targeted attack, forcing the couple and their family to go on the run. Driven across the isolated countryside with virtually no allies, they must dodge a ruthless adversary while wrestling with the overwhelming implications of their research. As isolation and fear take their toll, intense paranoia sets in, making it difficult to distinguish between tangible danger and psychological dread. Combining suspenseful survival elements with intimate family drama, the story explores how far ordinary people will go to protect their loved ones when confronted with extraordinary truths.",
+    "keywords": [
+      "extraterrestrial discovery",
+      "astrophysicists",
+      "family on the run",
+      "relentless pursuer",
+      "countryside chase",
+      "cosmic revelation",
+      "paranoia",
+      "survival thriller",
+      "emotional drama",
+      "cat-and-mouse",
+      "scientific mystery",
+      "psychological tension",
+      "unseen threat",
+      "hunted family"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family and Protection",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Paranoia vs. Truth",
+        "confidence": 0.9
+      },
+      {
+        "theme": "The Unknown and Scientific Discovery",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Paranoid",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Cornered by their relentless pursuer, the family faces a tense, emotional confrontation that forces Daniel and Michelle to confront both the true nature of their pursuer and the reality of their discovery.",
+      "conflict": "The family's safety is abruptly shattered when a relentless, anonymous assailant targets them, forcing them to flee their home and go on the run through the countryside.",
+      "resolution": "In the aftermath of the confrontation, the family reckons with the emotional toll of their ordeal while processing how the experience has irrevocably reshaped their understanding of science, survival, and each other.",
+      "introduction": "Astrophysicists Daniel and Michelle make a groundbreaking extraterrestrial discovery, establishing their scientific achievement while introducing their quiet family life.",
+      "risingAction": "As the pursuit intensifies across isolated landscapes, the physical danger compounds with mounting psychological strain, blurring the line between an actual cosmic threat and escalating human paranoia."
+    },
+    "characters": [
+      {
+        "name": "Daniel",
+        "role": "Hero",
+        "description": "An obsessive astrophysicist whose groundbreaking extraterrestrial discovery triggers a high-stakes crisis, forcing him to protect his family while navigating the consequences of his actions."
+      },
+      {
+        "name": "Michelle",
+        "role": "Hero",
+        "description": "A grounded and practical astrophysicist who prioritizes protecting her family and survival skills over reckless scientific curiosity."
+      },
+      {
+        "name": "Sam",
+        "role": "Supporting Character",
+        "description": "A enigmatic stranger met along the road who highlights the paranoia and moral choices of average people during the crisis."
+      },
+      {
+        "name": "Francois (Frankie)",
+        "role": "Supporting Character",
+        "description": "The intelligent and resourceful son of Michelle, using practical survival skills to assist his family on the run."
+      },
+      {
+        "name": "Ming",
+        "role": "Mentor",
+        "description": "Michelle's estranged, highly intelligent father whom the family seeks out for answers and guidance regarding the cosmic phenomenon."
+      },
+      {
+        "name": "Ted",
+        "role": "Other",
+        "description": "Daniel's dismissive boss who initially brushes off the groundbreaking discovery."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Daniel",
+        "target": "Michelle",
+        "description": "Husband/Wife & Co-Researchers"
+      },
+      {
+        "source": "Daniel",
+        "target": "Their Family",
+        "description": "Father & Protector"
+      },
+      {
+        "source": "Michelle",
+        "target": "Their Family",
+        "description": "Mother & Protector"
+      },
+      {
+        "source": "Anonymous Assailant",
+        "target": "Daniel",
+        "description": "Relentless Pursuer"
+      },
+      {
+        "source": "Anonymous Assailant",
+        "target": "Michelle",
+        "description": "Relentless Pursuer"
+      },
+      {
+        "source": "Anonymous Assailant",
+        "target": "Their Family",
+        "description": "Threat & Hunter"
+      }
+    ],
+    "seo": {
+      "slug": "the-outer-threat",
+      "jsonLd": {
+        "name": "The Outer Threat",
+        "@type": "Movie",
+        "genre": [
+          "Sci-Fi",
+          "Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Daniel",
+            "@type": "Person"
+          },
+          {
+            "name": "Michelle",
+            "@type": "Person"
+          }
+        ],
+        "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival."
+      },
+      "keywords": [
+        "The Outer Threat",
+        "The Outer Threat movie",
+        "sci-fi thriller",
+        "extraterrestrial discovery",
+        "alien movie",
+        "Daniel and Michelle",
+        "sci-fi survival movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-outer-threat](https://movnix.com/movie/the-outer-threat)",
+      "metaTitle": "The Outer Threat (2026) - Sci-Fi Thriller Movie | Movnix",
+      "openGraph": {
+        "og:title": "The Outer Threat - Sci-Fi Thriller",
+        "og:description": "When a cosmic discovery puts their family in danger, two astrophysicists race across the countryside to outrun a relentless pursuer."
+      },
+      "twitterCard": {
+        "twitter:title": "The Outer Threat - Sci-Fi Thriller",
+        "twitter:description": "When a cosmic discovery puts their family in danger, two astrophysicists race across the countryside to outrun a relentless pursuer."
+      },
+      "metaDescription": "Astrophysicists Daniel and Michelle flee a mysterious pursuer after a shocking extraterrestrial discovery in the tense sci-fi thriller, The Outer Threat."
+    },
+    "faq": [
+      {
+        "answer": "The Outer Threat follows astrophysicists Daniel and Michelle after they make a groundbreaking extraterrestrial discovery. They are forced to flee their home with their family as a mysterious and relentless assailant pursues them across the countryside.",
+        "question": "What is the plot of The Outer Threat?"
+      },
+      {
+        "answer": "The movie is primarily a Sci-Fi Thriller, blending elements of psychological suspense, survival drama, and cosmic mystery.",
+        "question": "What is the dominant genre of The Outer Threat?"
+      },
+      {
+        "answer": "No, The Outer Threat is an original, standalone film and is not part of an established franchise or cinematic universe.",
+        "question": "Is The Outer Threat part of a franchise?"
+      },
+      {
+        "answer": "The narrative centers on astrophysicists Daniel and Michelle, their family members who flee alongside them, and the anonymous assailant relentlessly pursuing them.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "No, there is no post-credits or mid-credits scene in The Outer Threat; the story concludes fully before the credits roll.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "No, the movie is a fictional story created as an original screenplay and is not based on real-life events or an existing novel.",
+        "question": "Is The Outer Threat based on a true story or a book?"
+      },
+      {
+        "answer": "The film explores themes of human paranoia versus scientific reality, the instinct for family survival, and the emotional toll of confronting cosmic revelations beyond human comprehension.",
+        "question": "What core themes does the film explore?"
+      },
+      {
+        "answer": "Rather than focusing solely on global devastation or epic space battles, the film grounds its sci-fi premise in an intimate, tense family chase where psychological paranoia is as dangerous as the threat itself.",
+        "question": "What makes the conflict in The Outer Threat unique?"
+      },
+      {
+        "answer": "While the movie focuses on a family unit, it features intense pursuit sequences, psychological suspense, and thematic thriller violence, making it more suitable for teens and adults.",
+        "question": "Is The Outer Threat suitable for family viewing?"
+      },
+      {
+        "answer": "Streaming availability depends on regional distribution rights; check major digital retailers and subscription platforms for local theatrical and home video release dates.",
+        "question": "Where can I watch or stream The Outer Threat?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Moderate psychological terror and thrill; persistent dread, high tension, and intense feelings of paranoia."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild infrequent language typical of a suspense or thriller narrative under stress."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence; dynamic threat of pursuit by an armed or dangerous assailant through countryside environments."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity; themes of family endangerment, flight from danger, cosmic uncertainty, and psychological breakdown under pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 6,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 8,
+      "romance": 2,
+      "science": 8,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-27 23:49:58.878149",
+    "updated_at": "2026-07-27 23:49:58.878149"
+  }
 }
