@@ -8,9 +8,9 @@
     "firstAirDate": "2026-07-22",
     "lastAirDate": "2026-07-22",
     "status": "Ended",
-    "popularity": 15.3904,
-    "voteAverage": 6,
-    "voteCount": 5,
+    "popularity": 38.0919,
+    "voteAverage": 6.333,
+    "voteCount": 6,
     "type": "Miniseries",
     "posterPath": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
     "backdropPath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
@@ -32,7 +32,7 @@
           "runtime": 41,
           "season_number": 1,
           "show_id": 277640,
-          "still_path": null,
+          "still_path": "/uJwfl2r5k9jCkgMjQhAYryzn6y2.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -49,7 +49,7 @@
           "runtime": 44,
           "season_number": 1,
           "show_id": 277640,
-          "still_path": null,
+          "still_path": "/gQVJWMvZPHxtx6GTGl06eMJLDHE.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -66,7 +66,7 @@
           "runtime": 47,
           "season_number": 1,
           "show_id": 277640,
-          "still_path": null,
+          "still_path": "/evfBSnahESyTiaZfFGC4CW4owPf.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -155,6 +155,20 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9Her3G05m7FAwmU2edYpsiLx6zn.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3SDm2QKZhjo1FF3NTjksExEku5I.jpg",
+      "width": 848,
+      "height": 1264,
+      "aspectRatio": 0.671,
       "type": "poster"
     },
     {
@@ -249,6 +263,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/mCU8FbD491MGubE4OG9w2XFBywp.jpg",
+      "width": 848,
+      "height": 1264,
+      "aspectRatio": 0.671,
+      "type": "poster"
+    },
+    {
+      "filePath": "/C39nT7l4ICNGH7BktFo5fgYKHr.jpg",
+      "width": 1280,
+      "height": 1920,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
       "width": 3840,
       "height": 2160,
@@ -310,13 +338,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/jQmfoIH6P0lSlexpZdYrnUQWoBF.jpg",
+      "width": 1600,
+      "height": 900,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 5
+      "ratingValue": 6.333,
+      "votesCount": 6
     }
   ],
   "credits": [
@@ -427,6 +462,11 @@
       "type": ""
     },
     {
+      "iso_3166_1": "MX",
+      "title": "Pompeya Mas alla del tiempo con Tom Hiddleston",
+      "type": "Documental"
+    },
+    {
       "iso_3166_1": "RU",
       "title": "Помпеи: Вне времени",
       "type": ""
@@ -456,12 +496,39 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney+",
+          "logo": "/tHtNW975SmVydaBULhEaOqPTmo8.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Disney Plus",
+          "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        },
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
