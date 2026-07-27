@@ -8,7 +8,7 @@
     "firstAirDate": "2026-07-24",
     "lastAirDate": "2026-07-24",
     "status": "Returning Series",
-    "popularity": 19.4732,
+    "popularity": 31.6872,
     "voteAverage": null,
     "voteCount": null,
     "type": "Scripted",
@@ -262,6 +262,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/yzHBCDWwaEyfFYE06LDV2gfpV6U.jpg",
+      "width": 536,
+      "height": 750,
+      "aspectRatio": 0.715,
+      "type": "poster"
+    },
+    {
       "filePath": "/mQFlpu6IH7dRIjLYZbflzn4H6uV.jpg",
       "width": 1920,
       "height": 1080,
@@ -431,11 +438,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
