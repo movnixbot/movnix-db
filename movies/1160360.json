@@ -1254,5 +1254,297 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1160360/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1160360,
+    "hash": "29191a99a315d6eaae96b8069237744139eabe602b3e9e648529b8e0ef86ece8",
+    "summary_one_sentence": "Overwhelmed by her young daughter's severe feeding disorder and an absent husband, psychotherapist Linda spirals into psychological burnout as her personal and professional lives violently collide.",
+    "summary_short": "Linda is a worn-down psychotherapist whose life rapidly unravels under overwhelming personal and logistical pressures. While acting as the sole caregiver for her young daughter who suffers from a complex pediatric feeding disorder, her apartment ceiling unexpectedly collapses, forcing them into a temporary motel stay. Compounded by demanding therapy clients and a distant husband who criticizes her from afar, Linda pushes herself beyond her emotional limits. Her chaotic journey explores the harrowing realities of isolation, maternal responsibility, and mental exhaustion.",
+    "summary_long": "Linda, a practicing psychotherapist, struggles to manage an increasingly chaotic life while acting as the sole daily caretaker for her young daughter. Her child suffers from a severe pediatric feeding disorder that requires daily hospital visits and nightly tube feedings, leaving Linda perpetually exhausted. Her husband is away working as a ship captain, offering little real assistance and instead criticizing her over distant phone calls. The situation turns dire when a major leak causes her apartment ceiling to cave in, driving Linda and her daughter to live out of a motel. At work, Linda's emotional reserve breaks down, impacting her ability to effectively treat her patients. During one volatile session, an anxious patient abruptly runs off and abandons her baby in Linda's care, pushing Linda even closer to the edge. Escaping into late-night walks, Linda forms brief, unpredictable encounters with a fellow motel guest while seeking relief. As her relationships with her family, patients, and her own therapist rapidly deteriorate, Linda is forced to confront her deepest fears and complete psychological exhaustion. Ultimately, the film charts a gripping and unfiltered collapse of a woman trying to hold everything together against impossible odds.",
+    "synopsis": "Directed by Mary Bronstein, *If I Had Legs I'd Kick You* is a tense and raw psychological drama following Linda (Rose Byrne), a mother and psychotherapist pushed to her absolute limit. Facing the intense demands of managing her child's complex feeding illness without support from her long-distance husband, Linda's life takes a turn for the worse when home structural issues displace them to a local motel. As the boundaries between her duty to her patients and her own crumbling mental stability begin to blur, Linda navigates an unflinching, darkly comic, and emotional exploration of maternal overload, isolation, and burnout.",
+    "keywords": [
+      "maternal burnout",
+      "mental breakdown",
+      "caregiving crisis",
+      "pediatric illness",
+      "psychological strain",
+      "therapist-patient dynamic",
+      "absent husband",
+      "missing person",
+      "motherhood trauma",
+      "motel setting",
+      "female isolation",
+      "spiraling protagonist",
+      "fever dream"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Caregiver Burden",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Psychological Collapse",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical confrontation forces Linda to face the overwhelming reality of her emotional breaking point and the unravelling support system around her.",
+      "conflict": "Her mounting stress intensifies due to a surrounding missing person case and an increasingly volatile, hostile dynamic developing with her therapist.",
+      "resolution": "Linda is left to process the aftermath of the crisis, confronting the difficult truths about her situation and the uncertain path forward.",
+      "introduction": "Linda's life is introduced in a state of growing instability as she struggles to manage her child's mysterious illness alongside the absence of her husband.",
+      "risingAction": "As Linda attempts to regain control, personal boundaries erode, paranoid tensions surface, and the pressures from her domestic life and therapeutic relationship collide."
+    },
+    "characters": [
+      {
+        "name": "Linda",
+        "role": "Anti Hero",
+        "description": "An overwhelmed psychotherapist struggling to care for her ill daughter while her life spirals out of control."
+      },
+      {
+        "name": "Linda's Therapist",
+        "role": "Mentor",
+        "description": "A stoic, increasingly weary professional who tries to hold Linda accountable and push her toward self-help."
+      },
+      {
+        "name": "Caroline",
+        "role": "Supporting Character",
+        "description": "Linda's unstable, paranoid therapy patient who suffers from severe maternal anxiety and OCD."
+      },
+      {
+        "name": "Charles",
+        "role": "Supporting Character",
+        "description": "Linda's distant husband, a ship captain who communicates almost exclusively via frustrating phone calls."
+      },
+      {
+        "name": "James",
+        "role": "Supporting Character",
+        "description": "A motel worker who offers an intriguing, subtle presence during Linda and her daughter's stay."
+      },
+      {
+        "name": "Linda's Daughter",
+        "role": "Supporting Character",
+        "description": "A young girl with a pediatric feeding disorder whose cryptic illness drives much of Linda's stress."
+      },
+      {
+        "name": "Dr. Spring",
+        "role": "Supporting Character",
+        "description": "A strict doctor who presses Linda to properly address her daughter's medical needs."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Linda",
+        "target": "Child",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Linda",
+        "target": "Charles",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Linda",
+        "target": "Therapist",
+        "description": "Patient/Therapist"
+      },
+      {
+        "source": "Linda",
+        "target": "Caroline",
+        "description": "Therapist/Patient"
+      },
+      {
+        "source": "Linda",
+        "target": "James",
+        "description": "Acquaintances / Motel Superintendent and Guest"
+      },
+      {
+        "source": "Linda",
+        "target": "Dr. Spring",
+        "description": "Child's Doctor/Parent"
+      },
+      {
+        "source": "Linda",
+        "target": "Stephen",
+        "description": "Therapist/Patient"
+      },
+      {
+        "source": "Linda",
+        "target": "Diana",
+        "description": "Motel Clerk / Guest"
+      }
+    ],
+    "seo": {
+      "slug": "if-i-had-legs-id-kick-you",
+      "jsonLd": {
+        "name": "If I Had Legs I'd Kick You",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Rose Byrne",
+            "@type": "Person"
+          },
+          {
+            "name": "Conan O'Brien",
+            "@type": "Person"
+          },
+          {
+            "name": "Christian Slater",
+            "@type": "Person"
+          },
+          {
+            "name": "A$AP Rocky",
+            "@type": "Person"
+          },
+          {
+            "name": "Danielle Macdonald",
+            "@type": "Person"
+          }
+        ],
+        "genre": [
+          "Drama",
+          "Comedy",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "director": {
+          "name": "Mary Bronstein",
+          "@type": "Person"
+        },
+        "description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+        "datePublished": "2025-10-10"
+      },
+      "keywords": [
+        "If I Had Legs I'd Kick You",
+        "If I Had Legs I'd Kick You movie",
+        "Rose Byrne film",
+        "Mary Bronstein director",
+        "If I Had Legs I'd Kick You 2025",
+        "A24 drama films",
+        "If I Had Legs I'd Kick You synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/if-i-had-legs-id-kick-you](https://movnix.com/movie/if-i-had-legs-id-kick-you)",
+      "metaTitle": "If I Had Legs I'd Kick You (2025) - Movie Synopsis & Cast",
+      "openGraph": {
+        "og:title": "If I Had Legs I'd Kick You - Movie Overview & Details",
+        "og:description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, an absent husband, and a missing person."
+      },
+      "twitterCard": {
+        "twitter:title": "If I Had Legs I'd Kick You - Movie Synopsis",
+        "twitter:description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, an absent husband, and a missing person."
+      },
+      "metaDescription": "Linda navigates her child's illness, an absent husband, and a missing person while her life crashes down. Starring Rose Byrne. Directed by Mary Bronstein."
+    },
+    "faq": [
+      {
+        "answer": "No, 'If I Had Legs I'd Kick You' is a standalone psychological drama film and is not part of any cinematic franchise, universe, or sequel line.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes in 'If I Had Legs I'd Kick You'. The story concludes fully before the credits start rolling.",
+        "question": "Is there a post-credits scene in If I Had Legs I'd Kick You?"
+      },
+      {
+        "answer": "The dominant genre is psychological drama mixed with dark comedy, focusing on the mental breakdown and personal struggles of a mother and therapist under immense pressure.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "The film stars Rose Byrne as Linda, along with a supporting cast that includes Conan O'Brien, Christian Slater, Danielle Macdonald, and A$AP Rocky.",
+        "question": "Who stars in If I Had Legs I'd Kick You?"
+      },
+      {
+        "answer": "The movie was written and directed by filmmaker Mary Bronstein.",
+        "question": "Who wrote and directed If I Had Legs I'd Kick You?"
+      },
+      {
+        "answer": "The film was distributed by A24.",
+        "question": "Which studio distributed the movie?"
+      },
+      {
+        "answer": "The film follows Linda, a therapist whose life spirals out of control as she manages her child's pediatric feeding disorder, an apartment ceiling collapse, an absent husband working away, and strained client relationships.",
+        "question": "What is the primary plot of the movie?"
+      },
+      {
+        "answer": "No, it is an original fictional screenplay written directly for the screen by director Mary Bronstein.",
+        "question": "Is If I Had Legs I'd Kick You based on a book or a true story?"
+      },
+      {
+        "answer": "The film is rated R for strong language, drug content, and adult thematic material.",
+        "question": "What content rating does the film have?"
+      },
+      {
+        "answer": "The film premiered at the Sundance Film Festival in January 2025 before receiving a theatrical release by A24 in October 2025.",
+        "question": "When was If I Had Legs I'd Kick You released?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Features psychological horror elements, jump scares, distressing body/medical situations, and unsettling hallucination sequences."
+      },
+      "language": {
+        "score": 8,
+        "description": "Frequent and persistent strong profanity, including over 40 uses of explicit expletives and derogatory language."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Includes minor physical altercations, depictions of injury detail such as a compound fracture, a graphic incident involving a pet animal, and disturbing discussions of violence."
+      },
+      "substance": {
+        "score": 7,
+        "description": "Frequent depictions of heavy alcohol consumption, tobacco smoking, recreational marijuana use, and discussions of illicit prescription/hard drug acquisition."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual content, limited to mild romantic flirting, brief dream references, and indirect sexual comments."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high emotional distress focusing on acute mental breakdowns, pediatric medical crises, intense parental pressure, and suicide attempts."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-07-27 23:50:49.815653",
+    "updated_at": "2026-07-27 23:50:49.815653"
+  }
 }

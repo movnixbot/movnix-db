@@ -463,5 +463,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/964849/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 964849,
+    "hash": "1e15ebaf6164090dd5a53adf23e4754d31f881a977c416e8dad19fe8fa259765",
+    "summary_one_sentence": "A new mother's dream of raising a family in a remote Finnish forest turns into a nightmare when she becomes convinced her newborn child is not human.",
+    "summary_short": "Saga and her British husband, Jon, relocate to her isolated childhood home in the Finnish wilderness with hopes of creating an idyllic family life. However, after giving birth to their firstborn, Saga notices disturbing physical and behavioral traits in the infant that defy explanation. While Jon and those around them dismiss her fears as severe postpartum psychosis, Saga is left to face the horrific truth about her baby completely alone. As the ancient forest encroaches on their secluded home, the growing rift in their marriage threatens to destroy them all.",
+    "summary_long": "Seeking a fresh start to raise a family, Saga and her husband Jon move from the UK into her late grandmother's dilapidated house, isolated deep within a lush Finnish forest. Shortly after settling in, Saga becomes pregnant, but the joy of expected parenthood rapidly dissolves following the birth of their son, Kuura. Immediately, Saga notices terrifying anomalies in the child, from a unnervingly hairy back and razor-sharp nails to an insatiable craving for blood rather than milk. As Kuura grows at an unnaturally rapid pace and displays animalistic aggression, Saga realizes the child may be tied to the sinister legend of the forest's creatures. Jon, often away for work, remains blissfully oblivious and attributes his wife's escalating terror and feral behavior to postpartum psychosis. With nobody believing her, Saga grows increasingly isolated and overwhelmed by the demands of caring for the monstrous newborn. The ancient forest around the house begins to breach the property, mirroring the descent into madness within the household walls. As Jon comes to view Saga as a dangerous threat to their son, their marriage completely fractures under the strain. Saga is left to navigate a desperate struggle for survival, forced to grapple with the disturbing nature of her newborn while losing her grip on reality.",
+    "synopsis": "Hoping for a peaceful setting to begin their new chapter as parents, Saga and her British husband Jon relocate to an isolated rural home once owned by her grandmother, nestled deep in the Finnish forest. The couple's idyllic dreams quickly begin to crumble after the birth of their first child. Saga experiences a chilling suspicion that something is profoundly and unnaturally wrong with her newborn, noticing disturbing behaviors and traits that point toward a sinister origin tied to local folklore. Unable to convince Jon or anyone else—who all write off her paranoia as severe postpartum exhaustion—Saga is forced to grapple with the horrifying reality on her own as her marriage, sanity, and family fall apart.",
+    "keywords": [
+      "Finnish forest",
+      "folk horror",
+      "psychological horror",
+      "domestic horror",
+      "postpartum paranoia",
+      "maternal anxiety",
+      "changeling trope",
+      "evil baby",
+      "creepy child",
+      "remote setting",
+      "isolation",
+      "marital strain",
+      "paranoia",
+      "atmospheric horror"
+    ],
+    "themes": [
+      {
+        "theme": "Maternal Anxiety & Paranoia",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets & Isolation in Relationships",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fear of the Supernatural",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Parenthood & Psychological Dread",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Psychological Thriller",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The psychological and supernatural tension peaks in a desperate confrontation where Saga must face the horrifying reality of the child and take drastic action to survive.",
+      "conflict": "Saga begins to harbor a chilling suspicion about the true nature of their infant, a unsettling belief that Jon does not share or notice.",
+      "resolution": "The aftermath of the truth coming to light leaves the couple's relationship permanently altered as they reckon with the devastating fallout of what was uncovered in the forest.",
+      "introduction": "Saga and her husband Jon move to a remote Finnish forest to start a new chapter in their lives as they welcome their newborn child.",
+      "risingAction": "As Saga's terrifying realizations deepen in isolation, the unspoken truth creates a growing rift between her and Jon, straining their marriage and pushing her to fight the threat alone."
+    },
+    "characters": [
+      {
+        "name": "Saga",
+        "role": "Hero",
+        "description": "A new mother living in isolated Finnish woods who grapples with postpartum isolation and the terrifying reality that something is monstrously wrong with her newborn."
+      },
+      {
+        "name": "Jon",
+        "role": "Supporting Character",
+        "description": "Saga's well-meaning British husband who attempts to keep their dream family intact but remains oblivious to the dark supernatural nature of their child."
+      },
+      {
+        "name": "Kuura (The Newborn)",
+        "role": "Villain",
+        "description": "Saga and Jon's unsettling baby, whose inhuman traits and connection to dark Finnish folklore drive a wedge through the family."
+      },
+      {
+        "name": "Saga's Mother",
+        "role": "Mentor",
+        "description": "Saga's mother, who provides a grounding yet unsettling link to Saga's upbringing and the deep Finnish mythology of the surrounding forest."
+      },
+      {
+        "name": "Jon's Parents",
+        "role": "Comic Relief",
+        "description": "Jon's well-intentioned British parents whose visits bring cultural friction, awkward civility, and light levity to the mounting horror."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Saga",
+        "target": "Jon",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Saga",
+        "target": "Newborn",
+        "description": "Mother/Child (Suspicious/Fearful)"
+      },
+      {
+        "source": "Jon",
+        "target": "Newborn",
+        "description": "Father/Child"
+      }
+    ],
+    "seo": {
+      "slug": "nightborn",
+      "jsonLd": {
+        "name": "Nightborn",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "fi",
+        "description": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+        "countryOfOrigin": "FI"
+      },
+      "keywords": [
+        "Nightborn",
+        "Nightborn movie",
+        "Finnish horror movie",
+        "Finnish thriller",
+        "psychological horror",
+        "Saga and Jon",
+        "horror cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/nightborn](https://movnix.com/movie/nightborn)",
+      "metaTitle": "Nightborn Movie - Official Trailer, Synopsis & Release Info",
+      "openGraph": {
+        "og:title": "Nightborn - A Chilling Psychological Horror Film",
+        "og:description": "In a Finnish forest, Saga's joy of becoming a parent turns to horror as a terrible secret about her newborn threatens to tear her family apart."
+      },
+      "twitterCard": {
+        "twitter:title": "Nightborn - Official Movie Details",
+        "twitter:description": "A new chapter turns terrifying in a remote Finnish forest. Discover the story behind Nightborn."
+      },
+      "metaDescription": "In a remote Finnish forest, a mother's joy turns to dread over a terrifying secret about her newborn. Read the synopsis and details for Nightborn."
+    },
+    "faq": [
+      {
+        "answer": "Nightborn is primarily a psychological horror and fantasy drama film that blends elements of supernatural mystery with themes of new parenthood.",
+        "question": "What is the dominant genre of Nightborn?"
+      },
+      {
+        "answer": "No, Nightborn is a standalone feature film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no additional bonus or post-credit scenes after the credits roll.",
+        "question": "Is there a post-credit scene in Nightborn?"
+      },
+      {
+        "answer": "The film is directed by Finnish director Hanna Bergholm (known for 'Hatching') and stars Seidi Haarla as Saga alongside Rupert Grint as her husband Jon.",
+        "question": "Who directs Nightborn and who stars in the lead roles?"
+      },
+      {
+        "answer": "The story follows Saga and Jon, a couple who move into Saga's childhood home in a remote Finnish forest to start a family. After their baby is born, Saga develops a chilling suspicion that their newborn child is not human, driving a wedge between her and her unsuspecting husband.",
+        "question": "What is the central premise of Nightborn?"
+      },
+      {
+        "answer": "No, Nightborn is an original fictional screenplay co-written by director Hanna Bergholm and screenwriter Ilja Rautsi.",
+        "question": "Is Nightborn based on a book or a true story?"
+      },
+      {
+        "answer": "The story is set in an isolated house in the Finnish wilderness and features dialogue in both English and Finnish.",
+        "question": "Where is the movie set and what language is spoken?"
+      },
+      {
+        "answer": "Nightborn made its world premiere in the Main Competition section at the 76th Berlin International Film Festival in February 2026.",
+        "question": "Where did Nightborn make its world premiere?"
+      },
+      {
+        "answer": "No, as a dark horror drama featuring unsettling supernatural elements, intense psychological tension, and distressing maternal horror, it is intended for mature audiences.",
+        "question": "Is Nightborn suitable for children?"
+      },
+      {
+        "answer": "The movie explores themes of postpartum anxiety, isolation, communication breakdowns in marriage, and the unsettling fear of maternal alienation wrapped in Scandinavian folklore.",
+        "question": "What key themes are explored in Nightborn?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong atmospheric horror, chilling psychological tension, and disturbing unnatural elements surrounding a newborn in an isolated forest setting."
+      },
+      "language": {
+        "score": 1,
+        "description": "No explicit strong language present in the overview."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Minimal explicit physical violence mentioned in the summary, though psychological conflict and implicit physical threats to or involving a newborn create potential mild violence."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance use referenced in the summary."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content depicted or referenced in the summary."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered on postpartum psychological distress, paranoia, marital rift, and existential dread regarding a child."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 6,
+      "mystery": 9,
+      "romance": 3,
+      "science": 1,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-27 23:49:57.637045",
+    "updated_at": "2026-07-27 23:49:57.637045"
+  }
 }
