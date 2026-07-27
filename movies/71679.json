@@ -1901,5 +1901,293 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/71679/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 71679,
+    "hash": "4f472d4974a25ba1d39e69d86ed691a921ae018fab8d7f24206a08a74a854f80",
+    "summary_one_sentence": "Alice fights her way through Umbrella's underground simulation facility to escape and join the ultimate battle for humanity's survival.",
+    "summary_short": "Awakening inside Umbrella's premier clandestine testing facility, Alice learns that the deadly T-virus has completely ravaged the globe. Joined by an unlikely strike team organized by her former nemesis, Ada Wong and Albert Wesker, she must navigate virtual simulations of major world cities infested with biological weapons. To reach the surface, Alice faces off against mind-controlled former allies in a relentless bid to save the remaining human race.",
+    "summary_long": "Following the attack on the Arcadia, Alice is captured by the Umbrella Corporation and awakens in a high-tech facility deep within the Russian Arctic. She is freed from her cell by Ada Wong, who reveals that Albert Wesker organized her rescue because humanity needs Alice to survive. The facility operates massive, realistic simulations of cities like Tokyo, New York, and Moscow to showcase viral outbreaks to foreign buyers. As Alice and Ada navigate these deadly virtual environments, a rescue team led by Leon S. Kennedy moves inward to meet them. Standing in their way is a mind-controlled Jill Valentine, who commands a squad of familiar, cloned allies reprogrammed to terminate Alice. Throughout her escape, Alice protects a young clone named Becky, who believes Alice is her mother, adding a personal stake to her survival. After intense battles against giant Executioners, Lickers, and armed clones, the team manages to destroy the facility. Confronted on the ice by Jill and Rain, Alice manages to remove Jill's control scarab and defeat the upgraded super-clone of Rain. With the rescue team secured, Alice is brought to Washington, D.C., where Wesker restores her superhuman abilities to prepare for humanity's final stand.",
+    "synopsis": "The Umbrella Corporation's deadly T-virus has swept across the globe, turning the vast majority of the human population into legions of flesh-eating Undead. Alice awakens inside the heart of Umbrella's most secret operations facility, where she unveils deeper mysteries about her past while attempting a perilous escape. Without a safe haven, she navigates simulated viral outbreaks modeled after major metropolitan hubs like Tokyo, New York, and Moscow. Aided by new allies, iconic operatives, and familiar faces, Alice must fight through waves of altered biological weapons and former friends turned enemies to reach the surface and prevent the complete extinction of mankind.",
+    "keywords": [
+      "zombie apocalypse",
+      "bio-weapon outbreak",
+      "genetically modified heroine",
+      "clone betrayal",
+      "underground research facility",
+      "virtual simulation environment",
+      "survival horror",
+      "stylized gun fu",
+      "corporate conspiracy",
+      "mind control device",
+      "global destruction",
+      "post-apocalyptic action",
+      "flesh-eating undead",
+      "badass female lead",
+      "high-tech dystopia"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity & Truth",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Alliances & Betrayal",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Alice reaches the culmination of her escape effort, encountering a mind-blowing revelation that drastically shifts her understanding of her mission and allies.",
+      "conflict": "Determined to bring down those responsible, Alice must navigate deadly simulated environments modeled after major cities like Tokyo, New York, and Moscow to escape the hostile complex.",
+      "resolution": "Surviving the ordeal within the facility, Alice stands alongside her allies, prepared to face an Earth on the brink of total oblivion.",
+      "introduction": "Alice awakens trapped within Umbrella's clandestine subterranean facility, discovering the T-virus has devastated the global population while unearthing glimpses of her mysterious past.",
+      "risingAction": "Joined by unexpected allies and familiar faces, Alice battles through intense combat simulations and relentless undead hordes against a ticking clock."
+    },
+    "characters": [
+      {
+        "name": "Alice",
+        "role": "Hero",
+        "description": "The protagonist fighting to survive and defeat the Umbrella Corporation to save humanity."
+      },
+      {
+        "name": "Jill Valentine",
+        "role": "Villain",
+        "description": "Under the mind control of the Umbrella Corporation, she leads the forces hunting Alice."
+      },
+      {
+        "name": "Ada Wong",
+        "role": "Supporting Character",
+        "description": "An operative who assists Alice in escaping the Umbrella facility under Albert Wesker's orders."
+      },
+      {
+        "name": "Becky",
+        "role": "Supporting Character",
+        "description": "A young deaf girl whom Alice protects as a mother figure during the escape."
+      },
+      {
+        "name": "Leon S. Kennedy",
+        "role": "Supporting Character",
+        "description": "Leader of the strike team sent to rescue Alice from the underground complex."
+      },
+      {
+        "name": "Luther West",
+        "role": "Supporting Character",
+        "description": "A trusted ally and member of the strike team helping Alice escape."
+      },
+      {
+        "name": "Rain Ocampo (Clone)",
+        "role": "Villain",
+        "description": "Cloned versions of Rain created by Umbrella, with one serving as a primary antagonist."
+      },
+      {
+        "name": "Albert Wesker",
+        "role": "Anti Hero",
+        "description": "A former antagonist who orchestrates Alice's rescue to unite against the rogue AI Red Queen."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Alice",
+        "target": "Ada Wong",
+        "description": "Allies / Field Operatives"
+      },
+      {
+        "source": "Alice",
+        "target": "Becky",
+        "description": "Protective Adoptive Mother / Daughter"
+      },
+      {
+        "source": "Alice",
+        "target": "Albert Wesker",
+        "description": "Former Enemies / Reluctant Tactical Allies"
+      },
+      {
+        "source": "Alice",
+        "target": "Jill Valentine",
+        "description": "Former Allies / Mind-Controlled Enemies"
+      },
+      {
+        "source": "Alice",
+        "target": "Leon S. Kennedy",
+        "description": "Allies / Rescue Team Leader"
+      },
+      {
+        "source": "Alice",
+        "target": "Luther West",
+        "description": "Allies / Friends"
+      },
+      {
+        "source": "Alice",
+        "target": "Rain Ocampo (Clone)",
+        "description": "Enemies (Bad Rain) / Allies (Good Rain)"
+      },
+      {
+        "source": "Ada Wong",
+        "target": "Albert Wesker",
+        "description": "Operative / Handler"
+      },
+      {
+        "source": "Leon S. Kennedy",
+        "target": "Albert Wesker",
+        "description": "Subordinate Mercenary / Mission Commander"
+      },
+      {
+        "source": "Jill Valentine",
+        "target": "Red Queen",
+        "description": "Enforcer / Controlling Artificial Intelligence"
+      },
+      {
+        "source": "Leon S. Kennedy",
+        "target": "Barry Burton",
+        "description": "Teammates / Rescue Crew"
+      },
+      {
+        "source": "Leon S. Kennedy",
+        "target": "Luther West",
+        "description": "Teammates / Rescue Crew"
+      }
+    ],
+    "seo": {
+      "slug": "resident-evil-retribution",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/resident-evil-retribution](https://movnix.com/movie/resident-evil-retribution)",
+        "name": "Resident Evil: Retribution",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Horror",
+          "Sci-Fi"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The Umbrella Corporation’s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race’s last and only hope, Alice, awakens in the heart of Umbrella’s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun."
+      },
+      "keywords": [
+        "Resident Evil Retribution",
+        "Resident Evil Retribution movie",
+        "Alice Umbrella Corporation",
+        "T-virus movie",
+        "Resident Evil action horror",
+        "Milla Jovovich Resident Evil"
+      ],
+      "canonical": "[https://movnix.com/movie/resident-evil-retribution](https://movnix.com/movie/resident-evil-retribution)",
+      "metaTitle": "Resident Evil: Retribution (2012) - Watch Movie & Synopsis",
+      "openGraph": {
+        "og:title": "Resident Evil: Retribution - Official Movie Overview",
+        "og:description": "Alice awakens in Umbrella's clandestine facility and embarks on a global fight for human survival across Tokyo, New York, Washington, D.C., and Moscow."
+      },
+      "twitterCard": {
+        "twitter:title": "Resident Evil: Retribution - Action & Horror Movie",
+        "twitter:description": "The countdown has begun. Alice fights her way through Umbrella's most secret facility to save humanity from total oblivion."
+      },
+      "metaDescription": "Alice fights to escape Umbrella's secret facility and stop the T-virus outbreak across Tokyo, NY, and Moscow in Resident Evil: Retribution."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is the fifth installment in the live-action Resident Evil film franchise, following Resident Evil: Afterlife (2010) and preceding Resident Evil: The Final Chapter (2016).",
+        "question": "Is Resident Evil: Retribution part of a movie franchise?"
+      },
+      {
+        "answer": "The dominant genres of the movie are action, horror, and science fiction.",
+        "question": "What is the dominant genre of Resident Evil: Retribution?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene in Resident Evil: Retribution, though the film ends with a dramatic cliffhanger leading directly into the next movie.",
+        "question": "Is there a post-credits scene in Resident Evil: Retribution?"
+      },
+      {
+        "answer": "Alice, played by Milla Jovovich, is the primary protagonist continuing her struggle against the Umbrella Corporation.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Alice awakens inside a clandestine Umbrella Corporation testing facility and must fight her way out through simulated cityscapes while uncovering secrets about her past and fighting the T-virus outbreak.",
+        "question": "What is the primary storyline of Resident Evil: Retribution?"
+      },
+      {
+        "answer": "The underground Umbrella facility features simulated versions of Tokyo, New York, Washington, D.C., and Moscow.",
+        "question": "Which major global cities appear in the movie's simulated environments?"
+      },
+      {
+        "answer": "Yes, fan-favorite characters from the video games make their live-action debuts in this film, including Ada Wong, Leon S. Kennedy, and Barry Burton.",
+        "question": "Are popular characters from the video game franchise introduced in this movie?"
+      },
+      {
+        "answer": "The movie was written and directed by Paul W. S. Anderson, who directed several other entries in the Resident Evil film series.",
+        "question": "Who directed Resident Evil: Retribution?"
+      },
+      {
+        "answer": "The primary threat is the Umbrella Corporation's unleashed T-virus, which turns humans into flesh-eating Undead and creates aggressive bio-organic monsters.",
+        "question": "What is the main threat to humanity featured in the film?"
+      },
+      {
+        "answer": "Yes, the movie features returning characters and clones of past allies and enemies, including Jill Valentine, Carlos Olivera, Rain Ocampo, and Luther West.",
+        "question": "Do familiar allies and enemies from previous Resident Evil movies return?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong horror elements driven by legions of flesh-eating zombies, grotesque monsters, jump scares, and a pervasive apocalyptic atmosphere."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong profanity and mild vulgarities spoken during high-stress action sequences."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Frequent and stylized action violence, including gunfights, hand-to-hand combat, explosions, and violent encounters with undead creatures and mutants, resulting in blood and gore."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal substance use; occasional background references or non-explicit depictions without promotion."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual content; some characters wear tight-fitting, revealing attire, but no explicit sexual situations or nudity are present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Sustained high-stakes tension, peril, and intense action sequences depicting the human race on the brink of extinction."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 10,
+      "comedy": 1,
+      "emotion": 2,
+      "fantasy": 2,
+      "mystery": 4,
+      "romance": 0,
+      "science": 7,
+      "suspense": 6,
+      "violence": 9
+    },
+    "created_at": "2026-07-27 23:50:49.652634",
+    "updated_at": "2026-07-27 23:50:49.652634"
+  }
 }
