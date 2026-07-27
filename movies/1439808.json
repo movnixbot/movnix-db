@@ -615,5 +615,268 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1439808/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1439808,
+    "hash": "ce834181db53cf45e264138dfb377a340f790b7f13169a22ccb05a518596534b",
+    "summary_one_sentence": "In a depression-era setting, young dreamer Orpheus embarks on a perilous journey to the industrial underworld of Hadestown to rescue his true love, Eurydice, from the iron grip of Hades.",
+    "summary_short": "Struggling against harsh climate and poverty, young Eurydice is tempted by the wealthy yet ruthless King Hades to sell her soul for security in the bleak subterranean factory of Hadestown. Devastated by her departure, her lover Orpheus—a musician endowed with the power to restore spring—uses his music to trek into the underworld and bargain for her freedom. Hades strikes a brutal bargain testing the couple's faith as they try to return to the world above. Ultimately, Hadestown weaves ancient myth with modern blues and folk music to explore love, doubt, and resilience.",
+    "summary_long": "Set in a grueling, depression-era landscape where seasons are out of balance due to the troubled marriage of Hades and Persephone, young lovers Orpheus and Eurydice struggle to survive. Orpheus is a visionary musician writing a song to bring harmony back to the world, while Eurydice is a pragmatic realist focused on immediate survival. Desperate to escape starvation during a bitter winter, Eurydice succumbs to Hades' promise of shelter and signs a contract to work in Hadestown, a heavily fortified industrial underworld. Upon realizing what Eurydice has done, Orpheus sets out on a dangerous journey on foot to reach Hadestown and reclaim his love. His extraordinary song touches Persephone and the overworked souls of the underworld, inspiring a spark of rebellion against Hades' autocratic rule. Shaken by Orpheus's music, Hades agrees to let Eurydice leave, but under one sinister condition: Orpheus must lead her out, and if he turns around to check if she is following before stepping into the light, she belongs to Hadestown forever. The trek back is plagued by doubt and isolation, testing Orpheus's resolve to its limits. Just as he steps into the sunlight, overwhelmed by fear, he turns around to look at Eurydice, tragically sealing her fate to remain in the underworld forever.",
+    "synopsis": "Guided by Hermes and accompanied by the haunting commentary of the Fates, Hadestown reimagines the ancient Greek myth of Orpheus and Eurydice alongside the complex dynamic of Hades and Persephone. Set against a backdrop reminiscent of the American Great Depression, the musical explores themes of love, climate disruption, labor exploitation, and the enduring power of art and hope in the face of despair.",
+    "keywords": [
+      "greek mythology",
+      "industrial underworld",
+      "tragic romance",
+      "power of music",
+      "poverty and desperation",
+      "deal with the devil",
+      "labor exploitation",
+      "seasonal cycle",
+      "dystopian factory town",
+      "folk jazz",
+      "heroic quest",
+      "climate decay",
+      "grief and doubt"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Love and Devotion",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Poverty and Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Power and Industry",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Trust and Doubt",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Hades grants Orpheus a chance to lead Eurydice back to the surface world under one strict condition: Orpheus must walk ahead of her and never look back to check if she is following.",
+      "conflict": "Facing severe poverty and harsh winter weather, Eurydice struggles to survive while Orpheus is absorbed in writing a song to heal the world, leading her to make a desperate choice when offered security in Hadestown.",
+      "resolution": "The journey reaches its tragic conclusion, leaving the characters and audience to reflect on the nature of love, doubt, and the importance of telling the story anyway.",
+      "introduction": "In a depression-era setting, Orpheus, a gifted young musician, falls in love with Eurydice, a resilient runaway, while the troubled marriage of the underworld's ruler Hades and goddess Persephone disrupts the natural seasons.",
+      "risingAction": "Realizing Eurydice is trapped in Hadestown under an inescapable contract, Orpheus embarks on a dangerous journey to the underworld and attempts to inspire the captive workers and soften Hades' heart with his music."
+    },
+    "characters": [
+      {
+        "name": "Orpheus",
+        "role": "Hero",
+        "description": "An idealistic young musician who embarks on a perilous journey to the underworld to save his true love."
+      },
+      {
+        "name": "Eurydice",
+        "role": "Hero",
+        "description": "A pragmatic young woman struggling against poverty who makes a desperate deal to enter Hadestown."
+      },
+      {
+        "name": "Hermes",
+        "role": "Mentor",
+        "description": "The wise narrator and guide who helps Orpheus navigate his journey to the underworld."
+      },
+      {
+        "name": "Hades",
+        "role": "Villain",
+        "description": "The ruler of Hadestown who lures vulnerable souls into industrial bondage, though driven by tragic complexity."
+      },
+      {
+        "name": "Persephone",
+        "role": "Supporting Character",
+        "description": "The goddess of spring whose tumultuous marriage with Hades mirrors and influences the world above and below."
+      },
+      {
+        "name": "The Fates",
+        "role": "Other",
+        "description": "A trio of destiny-weaving figures who whisper doubt, guide choice, and shape the characters' destinies."
+      },
+      {
+        "name": "The Workers Chorus",
+        "role": "Supporting Character",
+        "description": "The anonymized souls trapped in Hadestown who represent the labor force and join Orpheus's call for freedom."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Orpheus",
+        "target": "Eurydice",
+        "description": "Tragic Lovers"
+      },
+      {
+        "source": "Hades",
+        "target": "Persephone",
+        "description": "Husband and Wife / Distanced Rulers"
+      },
+      {
+        "source": "Hermes",
+        "target": "Orpheus",
+        "description": "Mentor and Guide"
+      },
+      {
+        "source": "Hades",
+        "target": "Eurydice",
+        "description": "Captor and Contractual Boss"
+      },
+      {
+        "source": "Persephone",
+        "target": "Eurydice",
+        "description": "Sympathizer and Refuge Provider"
+      },
+      {
+        "source": "Hermes",
+        "target": "Eurydice",
+        "description": "Protector and Narrator"
+      },
+      {
+        "source": "The Fates",
+        "target": "Eurydice",
+        "description": "Manipulators / Voices of Temptation"
+      },
+      {
+        "source": "The Fates",
+        "target": "Orpheus",
+        "description": "Tormentors / Voices of Doubt"
+      }
+    ],
+    "seo": {
+      "slug": "hadestown-the-musical",
+      "jsonLd": {
+        "name": "Hadestown: The Musical",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orpheus, a struggling musician, ventures down below to bring her back."
+      },
+      "keywords": [
+        "Hadestown",
+        "Hadestown The Musical",
+        "Orpheus and Eurydice",
+        "Hadestown synopsis",
+        "Hades and Persephone",
+        "Broadway musical"
+      ],
+      "canonical": "[https://movnix.com/movie/hadestown-the-musical](https://movnix.com/movie/hadestown-the-musical)",
+      "metaTitle": "Hadestown: The Musical - Story, Synopsis & Overview | Movnix",
+      "openGraph": {
+        "og:title": "Hadestown: The Musical - Story & Overview",
+        "og:description": "Discover the tragic love story of Orpheus and Eurydice in the industrial underworld of Hadestown."
+      },
+      "twitterCard": {
+        "twitter:title": "Hadestown: The Musical - Overview",
+        "twitter:description": "Follow Orpheus' journey into the underworld to bring Eurydice back in Hadestown: The Musical."
+      },
+      "metaDescription": "Follow Orpheus into the underworld to rescue Eurydice in Hadestown: The Musical. A tragic, award-winning tale of love, fate, and redemption."
+    },
+    "faq": [
+      {
+        "answer": "Hadestown is a stage musical that intertwines two ancient Greek myths: the tragic romance of Orpheus and Eurydice, and the complex relationship between Hades, king of the underworld, and Persephone, goddess of spring. Set in a climate-ravaged, depression-era world, Eurydice travels to the industrial underworld of Hadestown seeking stability, prompting Orpheus to embark on a quest to bring her back.",
+        "question": "What is Hadestown about?"
+      },
+      {
+        "answer": "Hadestown is a live stage musical, not a movie. It originated as a theatrical concept album and stage production by Anaïs Mitchell before being developed into an acclaimed Broadway musical.",
+        "question": "Is Hadestown a movie or a stage musical?"
+      },
+      {
+        "answer": "No, Hadestown is a standalone theatrical production. While it draws upon classic Greek mythology, it is not connected to any movie universe, spin-off series, or broader franchise.",
+        "question": "Is Hadestown part of a franchise?"
+      },
+      {
+        "answer": "No, because Hadestown is a live stage show rather than a film, it does not feature post-credits scenes. However, after the curtain call, the cast customarily performs a brief encore song called 'We Raise Our Glasses' to toast the story, the audience, and Orpheus.",
+        "question": "Is there a post-credits scene in Hadestown?"
+      },
+      {
+        "answer": "Musically, Hadestown blends American folk, New Orleans jazz, blues, and indie rock. Thematically, it falls under mythic drama, tragedy, and romantic musical theater.",
+        "question": "What is the dominant genre of Hadestown?"
+      },
+      {
+        "answer": "Hadestown was written by singer-songwriter Anaïs Mitchell, who wrote the music, lyrics, and book. The Broadway production was developed and directed by Rachel Chavkin.",
+        "question": "Who created and wrote Hadestown?"
+      },
+      {
+        "answer": "The main characters include Orpheus, Eurydice, Hades, Persephone, Hermes (who acts as the narrator), and the Fates, who serve as a chorus commenting on the characters' choices.",
+        "question": "Which mythological figures appear in Hadestown?"
+      },
+      {
+        "answer": "Notable numbers include 'Way Down Hadestown,' 'Wait for Me,' 'All I've Ever Known,' 'Why We Build the Wall,' and 'Road to Hell.'",
+        "question": "What are some of the most notable songs from Hadestown?"
+      },
+      {
+        "answer": "Hadestown is generally recommended for ages 8 and up. While it deals with mature themes like grief, poverty, and mortality, it contains no explicit violence or profanity.",
+        "question": "Is Hadestown suitable for children?"
+      },
+      {
+        "answer": "Yes, the Broadway production won eight Tony Awards in 2019, including Best Musical and Best Original Score, as well as the Grammy Award for Best Musical Theater Album in 2020.",
+        "question": "Has Hadestown won any major awards?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mildly eerie underworld setting and dystopian imagery without traditional horror or jump scares."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild to moderate profanity."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal physical violence, limited to mild thematic conflict, oppression, and industrial hardship."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate references to alcohol consumption, wine, and partying in songs."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic and sensual suggestive themes, with no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity exploring tragic themes of poverty, desperation, grief, heartbreak, and loss."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 9,
+      "mystery": 2,
+      "romance": 10,
+      "science": 0,
+      "suspense": 7,
+      "violence": 2
+    },
+    "created_at": "2026-07-27 23:49:58.770517",
+    "updated_at": "2026-07-27 23:49:58.770517"
+  }
 }
