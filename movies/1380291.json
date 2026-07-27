@@ -1089,5 +1089,267 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1380291/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1380291,
+    "hash": "7fed9fadb7bbb6b224a87eaa2d44056df6736def741e7d77975713b24c96193b",
+    "summary_one_sentence": "Reluctantly pulled back into espionage, Jack Ryan teams up with trusted CIA allies and a sharp MI6 officer to expose a rogue black-ops unit executing a deadly global conspiracy.",
+    "summary_short": "When an international covert mission unravels, Jack Ryan is reluctantly drawn back into the dangerous world of high-stakes espionage. Teaming up with seasoned CIA allies Mike November and James Greer, along with sharp MI6 operative Emma Marlowe, he faces a deadly new threat. Together, they must dismantle a rogue black-ops unit operating in the shadows. Racing against time, Jack finds himself in a deeply personal fight where the fate of global security hangs in the balance.",
+    "summary_long": "Jack Ryan is reluctantly pulled back into active espionage when a covert international mission goes disastrously wrong. The failed operation uncovers a sinister shadow syndicate embedded within elite military structures, operating a dangerous global conspiracy. To counter the threat, Jack joins forces with his trusted CIA allies James Greer and Mike November. They are joined by Emma Marlowe, a sharp MI6 officer possessing vital intelligence on the rogue faction. As the team tracks the target across international borders, they realize they are up against a highly trained rogue black-ops unit. The conflict grows deeply personal as the rogue group targets those closest to Jack to force his retreat. Navigating high-stakes ambushes, betrayal, and intense political pressure, Jack and his team race against the clock to bring down the network. In a tense final confrontation, Jack must leverage every skill to neutralize the rogue unit and expose the truth to the world.",
+    "synopsis": "Tom Clancy's Jack Ryan: Ghost War follows the iconic intelligence operative as he is drawn back into field duty following a compromised covert mission. Discovering that a dangerous conspiracy is being executed by a rogue black-ops unit, Jack unifies a trusted circle of allies—including James Greer, Mike November, and MI6 officer Emma Marlowe. Together, they navigate a high-stakes, globe-trotting game of espionage, combining tactical action with tense geopolitical drama in a deeply personal struggle for global stability.",
+    "keywords": [
+      "espionage thriller",
+      "covert operations",
+      "conspiracy",
+      "rogue military unit",
+      "black ops",
+      "race against time",
+      "cia agent",
+      "mi6",
+      "international intrigue",
+      "reluctant hero",
+      "personal stakes",
+      "tactical action",
+      "geopolitical thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Duty vs. Reluctance",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Conspiracy and Betrayal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Comradeship and Alliance",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Race Against Time",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Action-packed",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "In a high-stakes tactical showdown in Dubai, Ryan and his team confront the leaders of the rogue faction directly while racing against time to extract critical server data that will dismantle the illegal shadow network once and for all.",
+      "conflict": "A covert intelligence exchange goes tragically wrong, revealing that a rogue black-ops program known as Project Starling has been reactivated by a dangerous former operative operating outside official oversight.",
+      "resolution": "With the rogue operatives eliminated and the internal corruption exposed, global security is restored, leading to major leadership transitions within the intelligence community and new career possibilities for Ryan.",
+      "introduction": "Jack Ryan, having stepped away from active CIA service to live a quieter civilian life, is reluctantly drawn back into active intelligence work when a routine favor for James Greer in Dubai spirals out of control.",
+      "risingAction": "Teaming up with trusted allies Mike November, James Greer, and MI6 officer Emma Marlowe, Ryan races across international borders to uncover the extent of the conspiracy, survive deadly ambushes, and identify deep-seated institutional betrayals before major global targets are attacked."
+    },
+    "characters": [
+      {
+        "name": "Jack Ryan",
+        "role": "Hero",
+        "description": "A former Marine and reluctant intelligence officer who is drawn out of civilian life to investigate a high-stakes covert conspiracy and defeat a rogue unit."
+      },
+      {
+        "name": "James Greer",
+        "role": "Mentor",
+        "description": "The experienced CIA Deputy Director and Jack's long-time supervisor whose past involvement with Project Starling serves as the catalyst for the conflict."
+      },
+      {
+        "name": "Liam Crown",
+        "role": "Villain",
+        "description": "The rogue operative leading the revived off-the-books black-ops program, serving as the primary antagonist driving the deadly plot."
+      },
+      {
+        "name": "Emma Marlowe",
+        "role": "Supporting Character",
+        "description": "A sharp, highly capable MI6 officer who collaborates with Jack Ryan and his team to expose the international cover-up."
+      },
+      {
+        "name": "Mike November",
+        "role": "Supporting Character",
+        "description": "A resourceful former CIA station chief and trusted ally who provides critical field support and tactical backup during the mission."
+      },
+      {
+        "name": "Elizabeth Wright",
+        "role": "Supporting Character",
+        "description": "The high-ranking CIA Director navigating bureaucratic pressures and security threats linked to the conspiracy."
+      },
+      {
+        "name": "Andrew Spear",
+        "role": "Villain",
+        "description": "A corrupt MI6 official secretly working alongside the rogue black-ops unit to undermine internal security."
+      },
+      {
+        "name": "Nigel Cooke",
+        "role": "Other",
+        "description": "A key intelligence contact whose possession of sensitive black-ops files initiates the central conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jack Ryan",
+        "target": "Mike November",
+        "description": "Trusted CIA Allies / Operatives"
+      },
+      {
+        "source": "Jack Ryan",
+        "target": "James Greer",
+        "description": "Trusted CIA Allies / Mentor & Colleague"
+      },
+      {
+        "source": "Jack Ryan",
+        "target": "Emma Marlowe",
+        "description": "Allies / Intelligence Partners (CIA & MI6)"
+      },
+      {
+        "source": "Jack Ryan",
+        "target": "Rogue Black-Ops Unit",
+        "description": "Enemies / Targets of Investigation"
+      },
+      {
+        "source": "Mike November",
+        "target": "James Greer",
+        "description": "CIA Allies / Operatives"
+      },
+      {
+        "source": "Emma Marlowe",
+        "target": "Mike November",
+        "description": "Allies / Joint Operations (MI6 & CIA)"
+      },
+      {
+        "source": "Emma Marlowe",
+        "target": "James Greer",
+        "description": "Allies / Joint Operations (MI6 & CIA)"
+      }
+    ],
+    "seo": {
+      "slug": "tom-clancys-jack-ryan-ghost-war",
+      "jsonLd": {
+        "name": "Tom Clancy's Jack Ryan: Ghost War",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller",
+          "Espionage"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight."
+      },
+      "keywords": [
+        "Tom Clancy",
+        "Jack Ryan Ghost War",
+        "Jack Ryan movie",
+        "Mike November",
+        "James Greer",
+        "Emma Marlowe",
+        "action thriller movie",
+        "espionage film"
+      ],
+      "canonical": "[https://movnix.com/movie/tom-clancys-jack-ryan-ghost-war](https://movnix.com/movie/tom-clancys-jack-ryan-ghost-war)",
+      "metaTitle": "Tom Clancy's Jack Ryan: Ghost War - Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Tom Clancy's Jack Ryan: Ghost War",
+        "og:description": "Jack Ryan teams up with CIA & MI6 allies to stop a rogue black-ops unit in a high-stakes conspiracy. Get the full overview."
+      },
+      "twitterCard": {
+        "twitter:title": "Tom Clancy's Jack Ryan: Ghost War",
+        "twitter:description": "Jack Ryan teams up with CIA & MI6 allies to stop a rogue black-ops unit in a high-stakes conspiracy. Get the full overview."
+      },
+      "metaDescription": "Jack Ryan teams up with CIA and MI6 allies to battle a rogue black-ops unit in Tom Clancy's Jack Ryan: Ghost War. Read the full action-packed synopsis!"
+    },
+    "faq": [
+      {
+        "answer": "Yes. It is part of the larger Tom Clancy Ryanverse franchise and serves as a feature film continuation of the Amazon Prime Video television series 'Tom Clancy's Jack Ryan'.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is action-thriller, specifically fitting into the spy thriller and political thriller subgenres.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "No, there is no mid-credit or post-credit scene. The story fully wraps up before the credits begin to roll.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "John Krasinski plays Jack Ryan, reprising his role from the 'Tom Clancy's Jack Ryan' television series.",
+        "question": "Who plays the lead character, Jack Ryan?"
+      },
+      {
+        "answer": "Jack is joined by returning CIA allies Mike November (Michael Kelly) and James Greer (Wendell Pierce), along with a new MI6 partner, officer Emma Marlowe (Sienna Miller).",
+        "question": "Which key allies join Jack Ryan on this mission?"
+      },
+      {
+        "answer": "Jack Ryan and his team are battling a dangerous rogue black-ops unit that stems from an unraveled international covert mission.",
+        "question": "What main threat is Jack Ryan fighting against in this story?"
+      },
+      {
+        "answer": "No, it is an original storyline developed for the screen based on characters created by Tom Clancy, rather than a direct adaptation of one of his books.",
+        "question": "Is this film based directly on a Tom Clancy novel?"
+      },
+      {
+        "answer": "No, it is intended for mature audiences due to intense sequences of violence, action, suspense, and strong language common to spy thrillers.",
+        "question": "Is this film suitable for all ages?"
+      },
+      {
+        "answer": "While watching the Prime Video series offers helpful context for character dynamics, the movie provides a standalone mission that new viewers can follow without prior knowledge.",
+        "question": "Do viewers need to watch the previous Jack Ryan series before watching this film?"
+      },
+      {
+        "answer": "The film is available for streaming globally as an Amazon Original movie on Amazon Prime Video.",
+        "question": "Where can viewers watch Tom Clancy's Jack Ryan: Ghost War?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited to tense suspense, peril, and occasional dark, high-stakes thriller environments."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity and aggressive military/espionage jargon throughout intense situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Frequent intense action violence including gunfights, explosions, tactical combat, and lethal physical altercations involving rogue black-ops units."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual consumption of alcohol and smoking in social or stressful espionage contexts."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Virtually no sexual content; brief romantic undertones or mild flirtatious dialogue between operatives."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High psychological stress, betrayal, loss, and deeply personal life-or-death stakes involving allies."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 1,
+      "science": 3,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-28 05:17:50.507223",
+    "updated_at": "2026-07-28 05:17:50.507223"
+  }
 }
