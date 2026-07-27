@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 31.4775,
-    "voteAverage": 4.75,
-    "voteCount": 8,
+    "popularity": 18.3944,
+    "voteAverage": 6.3,
+    "voteCount": 17,
     "homepage": "https://mock-movie-website.com/movies/1616674",
     "posterPath": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
     "backdropPath": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
@@ -175,6 +175,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/2JTWeKDqLnzRquIUkni9WJUm96M.jpg",
+      "width": 1200,
+      "height": 1680,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
       "filePath": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
       "width": 2560,
       "height": 1440,
@@ -332,8 +339,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4.75,
-      "votesCount": 8
+      "ratingValue": 6.3,
+      "votesCount": 17
     },
     {
       "source": "crawled",
@@ -444,7 +451,7 @@
     {
       "tmdbPersonId": 2304050,
       "name": "Keinaya Messi Gusti",
-      "profilePath": null,
+      "profilePath": "/zu45POvu5aph5bZxELyObwkx5N6.jpg",
       "character": "TJ",
       "job": "Actor",
       "department": "Acting",
@@ -503,6 +510,15 @@
       "job": "Writer",
       "department": "Writing",
       "order": null
+    },
+    {
+      "tmdbPersonId": 2561073,
+      "name": "Anna Melani",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
     }
   ],
   "alternativeTitles": [
@@ -519,14 +535,19 @@
   ],
   "externalIds": {
     "imdbId": "tt39370887",
-    "wikidataId": null,
+    "wikidataId": "Q140538610",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
