@@ -437,5 +437,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1433929/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1433929,
+    "hash": "eea47339fd51f3e031a2261da885527db0c94df32abd3b34d2eef4b90abbc62f",
+    "summary_one_sentence": "Three childhood friends traveling home on a Paris night bus find their celebration turned upside down when a casual interaction between passengers quickly escalates into chaos.",
+    "summary_short": "After traveling to Paris to celebrate exciting news, childhood friends Oscar, Simon, and Aïssa board the N121 night bus to return home. What begins as a festive evening takes a dark turn when a seemingly minor dispute among passengers rapidly spirals out of control. Trapped in the moving vehicle, the trio must navigate a tense, escalating confrontation that tests their bond and puts their safety at risk. As the night unfolds, bad decisions and rising paranoia turn their journey into a desperate fight for survival.",
+    "summary_long": "Oscar, Simon, and Aïssa are three lifelong friends who travel into the heart of Paris to celebrate a major milestone in their lives. After an unforgettable night out in the city, they head to the bus stop to catch the N121, a late-night route taking them back to the suburbs. Initially in high spirits, the trio boards the bus alongside a eclectic mix of late-night commuters, exhausted workers, and restless revelers. The journey starts peacefully, but the atmosphere subtly shifts when a tense verbal exchange breaks out between a small group of passengers. Unable to stay entirely neutral, Oscar, Simon, and Aïssa are drawn into the dispute, inadvertently fanning the flames of an already volatile dynamic. As the driver struggles to maintain control and keep his attention on the road, the conflict rapidly escalates beyond simple arguments into physical threats. Confined within the tight, moving quarters of the bus, the friends find themselves forced to make split-second choices to protect one another and de-escalate the room. Tensions reach a boiling point, turning a routine ride home into a high-stakes psychological and physical ordeal. By the time the N121 reaches its destination, the events of the night leave an indelible mark on all three friends, permanently altering their relationships.",
+    "synopsis": "N121 Bus de nuit follows Oscar, Simon, and Aïssa, three childhood friends who venture into Paris for a night of celebration following some major positive news. The high-energy evening takes a turn when they board the N121, a late-night bus route taking partygoers and night-shift workers back home. What begins as a routine ride quickly transforms into a pressure-cooker environment when an argument between passengers begins to escalate. As tempers flare and hostilities mount inside the confined space, the trio finds themselves caught in the middle of a dangerous conflict where every decision carries heavy consequences. The film blends drama and suspense to explore how unpredictable human interactions can transform an ordinary commute into a tense thriller.",
+    "keywords": [
+      "public transit",
+      "night bus",
+      "confined space",
+      "escalating tension",
+      "paris at night",
+      "childhood friends",
+      "urban thriller",
+      "out of control",
+      "strangers on a bus",
+      "violent confrontation",
+      "nightlife gone wrong",
+      "claustrophobic",
+      "real-time suspense"
+    ],
+    "themes": [
+      {
+        "theme": "Escalation of Conflict",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Friendship and Loyalty",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.72
+      }
+    ],
+    "story_structure": {
+      "climax": "The underlying social friction reaches a boiling point, culminating in a dangerous outbreak of physical violence and chaos onboard, forcing the friends to make desperate decisions to protect one another.",
+      "conflict": "Boarding the late-night N121 bus home, a seemingly minor interaction between passengers unexpectedly sparks sharp hostility and unsettling tension inside the vehicle.",
+      "resolution": "The explosive journey comes to a close, leaving the surviving characters to face the lingering trauma, broken trust, and life-altering consequences of that single disastrous night.",
+      "introduction": "Childhood friends Oscar, Simon, and Aïssa head to Paris for a night of celebration after receiving life-changing good news, looking forward to a bright future.",
+      "risingAction": "As the bus travels through the night, mistrust and fear rapidly spread among the passengers. Small misunderstandings escalate into aggressive confrontations, trapping the trio in a volatile, confined pressure cooker where their survival and future are put at risk."
+    },
+    "characters": [
+      {
+        "name": "Oscar",
+        "role": "Hero",
+        "description": "One of the three core childhood friends who travels to Paris to celebrate and finds himself caught in the escalating crisis on the night bus."
+      },
+      {
+        "name": "Simon",
+        "role": "Hero",
+        "description": "One of the trio of childhood friends whose night out turns into a fight for survival aboard the N121 bus."
+      },
+      {
+        "name": "Aïssa",
+        "role": "Hero",
+        "description": "The third member of the main trio of childhood friends who faces the dangerous confrontation during their journey home."
+      },
+      {
+        "name": "Aggressive Passenger / Antagonist",
+        "role": "Villain",
+        "description": "The hostile passenger or entity on the N121 bus whose confrontation causes the situation to spiral violently out of control."
+      },
+      {
+        "name": "Bus Passengers / Bystanders",
+        "role": "Supporting Character",
+        "description": "The fellow commuters trapped on the night bus who witness and are affected by the escalating conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Oscar",
+        "target": "Simon",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Oscar",
+        "target": "Aïssa",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Simon",
+        "target": "Aïssa",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Oscar",
+        "target": "N121 Passengers",
+        "description": "Fellow Passengers / Antagonistic Conflict"
+      },
+      {
+        "source": "Simon",
+        "target": "N121 Passengers",
+        "description": "Fellow Passengers / Antagonistic Conflict"
+      },
+      {
+        "source": "Aïssa",
+        "target": "N121 Passengers",
+        "description": "Fellow Passengers / Antagonistic Conflict"
+      }
+    ],
+    "seo": {
+      "slug": "n121-bus-de-nuit",
+      "jsonLd": {
+        "name": "N121 Bus de nuit",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Oscar, Simon, and Aïssa, three childhood friends, go to Paris to celebrate some good news. But on the night bus taking them home—the N121—an exchange between passengers spirals out of control, and the situation quickly goes off the rails."
+      },
+      "keywords": [
+        "N121 Bus de nuit",
+        "N121 Bus de nuit movie",
+        "N121 Bus de nuit synopsis",
+        "French thriller film",
+        "Paris night bus movie"
+      ],
+      "canonical": "[https://movnix.com/movie/n121-bus-de-nuit](https://movnix.com/movie/n121-bus-de-nuit)",
+      "metaTitle": "N121 Bus de nuit (Movie) - Synopsis & Details",
+      "openGraph": {
+        "og:title": "N121 Bus de nuit - A Night Bus Ride Gone Wrong",
+        "og:description": "Oscar, Simon, and Aïssa head to Paris to celebrate, but their journey home on the N121 night bus quickly escalates into chaos."
+      },
+      "twitterCard": {
+        "twitter:title": "N121 Bus de nuit - A Night Bus Ride Gone Wrong",
+        "twitter:description": "Oscar, Simon, and Aïssa head to Paris to celebrate, but their journey home on the N121 night bus quickly escalates into chaos."
+      },
+      "metaDescription": "Three friends head to Paris to celebrate, but their ride home on the N121 night bus takes a dangerous turn. Discover the plot and details of N121 Bus de nuit."
+    },
+    "faq": [
+      {
+        "answer": "N121 Bus de nuit (also known internationally as The Night Bus) is primarily a dramatic thriller and social suspense film focused on escalating tension aboard a night bus.",
+        "question": "What is the dominant genre of N121 Bus de nuit?"
+      },
+      {
+        "answer": "No, N121 Bus de nuit is a standalone French thriller film and is not part of any existing film franchise or shared cinematic universe.",
+        "question": "Is N121 Bus de nuit part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, the movie does not feature any post-credits scenes. The narrative fully concludes before the end credits roll.",
+        "question": "Is there a post-credit scene in N121 Bus de nuit?"
+      },
+      {
+        "answer": "The film is directed by French filmmaker Morade Aïssaoui, who also co-wrote the screenplay alongside Sledge Bidounga, Kamel Guemra, and Ludovic Zuili.",
+        "question": "Who directed N121 Bus de nuit?"
+      },
+      {
+        "answer": "The story follows three childhood friends—Oscar, Simon, and Aïssa—who head to Paris to celebrate good news. On their late-night bus ride home on line N121, a altercation between passengers escalates violently, trapping them in a dangerous crisis.",
+        "question": "What is the main plot premise of the film?"
+      },
+      {
+        "answer": "The lead cast includes Riadh Belaïche (Just Riadh), Bakary Diombera, Gaspard Gevin-Hié, and Paola Locatelli, along with supporting actors such as Jérémie Covillault, Mylène Jampanoï, and Arben Bajraktaraj.",
+        "question": "Who are the key cast members in N121 Bus de nuit?"
+      },
+      {
+        "answer": "The movie was originally filmed and spoken in French.",
+        "question": "In what language was the movie originally filmed?"
+      },
+      {
+        "answer": "The film takes place in and around Paris, France, largely set inside a night bus traveling along the suburban N121 route.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, the film is an original fiction screenplay developed specifically for the screen by Morade Aïssaoui and his co-writers, rather than an adaptation of a book or true story.",
+        "question": "Is N121 Bus de nuit based on a book or true story?"
+      },
+      {
+        "answer": "The film received its theatrical release in France in February 2026.",
+        "question": "When was N121 Bus de nuit released in theaters?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements, mainly psychological tension and a claustrophobic sense of dread within the enclosed bus setting."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong language and realistic verbal hostility during violent escalations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Escalating physical confrontation and conflict on public transit leads to intense violent threats and physical altercations."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Minor substance use and depictions of alcohol consumption typical of late-night celebratory outings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romantic themes present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional pressure, extreme tension, and a rapidly escalating sense of danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 2,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 05:40:05.276388",
+    "updated_at": "2026-07-28 05:40:05.276388"
+  }
 }
