@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 67.8639,
-    "voteAverage": 8.314,
-    "voteCount": 1925,
+    "popularity": 64.7555,
+    "voteAverage": 8.3,
+    "voteCount": 1929,
     "homepage": "https://www.disneyplus.com/browse/entity-c5b69f75-f159-4749-873d-9a1d1a4eb878",
     "posterPath": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
     "backdropPath": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
@@ -1607,8 +1607,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.314,
-      "votesCount": 1925
+      "ratingValue": 8.3,
+      "votesCount": 1929
     },
     {
       "source": "crawled",
@@ -1878,5 +1878,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1439930/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1439930,
+    "hash": "fd0c62f106cd4ad4775dcdb4d028491408730fbfa9b95e3a2d2fdd8a82ccc54e",
+    "summary_one_sentence": "After completing his bloody crusade of revenge, a grief-stricken Frank Castle is forced back into action when a lingering enemy places a city-wide bounty on his life.",
+    "summary_short": "Having eliminated the mobsters responsible for his family's tragic deaths, Frank Castle struggles with deep psychological trauma and aimlessness in a crime-ridden New York neighborhood. His attempt to abandon vigilante life is shattered when mob matriarch Ma Gnucci places a lucrative bounty on him, unleashing swarms of armed criminals upon his apartment complex. Forced into a brutal battle for survival, Frank chooses to defend innocent civilians caught in the crossfire rather than pursue pure retaliation. This act of protection reignites his sense of duty, driving him to officially reclaim his mantle as the Punisher.",
+    "summary_long": "Following the total destruction of the Gnucci crime family, Frank Castle finds himself empty, aimless, and haunted by visions of his deceased family and former allies. Believing his war on crime is finished, he locks away his arsenal and visits his family's graves in a dark moment of suicidal despair. However, a vision of his young daughter prevents him from taking his life, leaving him to wander through a neighborhood spiraling into chaos due to the criminal power vacuum. His inner turmoil is abruptly cut short when Ma Gnucci, the surviving matriarch of the syndicate, reveals she has placed a massive bounty on his head. As a horde of ruthless criminals swarms his apartment building, Frank battles through smoke and gunfire while wrestling with psychological hallucinations. Instead of prioritizing his own escape or pursuing Ma Gnucci, Frank shifts his focus to saving innocent neighbors trapped in the siege. He fights his way across the streets to defend a local shopkeeper's family from violent attackers, neutralizing the remaining threat. Touched by a small gesture of gratitude from the shopkeeper's young daughter, Frank returns to his own family's gravesite with newfound clarity. Realizing that the vulnerable still require a defender against the darkness, he retrieves the keys to his locked weaponry. Armed with a renewed sense of purpose and gear, the Punisher steps back onto the streets to continue his relentless crusade.",
+    "synopsis": "In the aftermath of dismantling the syndicate responsible for his personal tragedy, vigilante Frank Castle faces a harrowing existential crisis. Stripped of his primary drive for revenge and deeply tormented by lingering trauma and grief, Frank attempts to abandon his violent crusade for good. However, when a vengeful crime lord places a massive bounty on his head, a wave of ruthless violence engulfs his local neighborhood and threatens innocent lives. Confronted with collateral damage and the desperate need of those around him, Frank must navigate his internal demons to discover if his lethal skills can serve a higher purpose beyond mere retribution.",
+    "keywords": [
+      "anti-hero",
+      "vigilante",
+      "revenge plot",
+      "moral ambiguity",
+      "gritty",
+      "urban crime",
+      "internal conflict",
+      "redemption arc",
+      "dark hero",
+      "violence",
+      "justice",
+      "former military",
+      "lone wolf",
+      "street-level"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Purpose",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Duty vs. Peace",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The Punisher confronts the central antagonist in a brutal, high-stakes encounter where both his physical prowess and his resolve are tested to their limits, determining the fate of those he seeks to protect and his own future.",
+      "conflict": "A new, powerful threat emerges, its reach extending to Frank's attempts at a quieter life, forcing him to confront his past and the nature of his continued existence as The Punisher.",
+      "resolution": "The dust settles, leaving Frank to navigate the consequences of his actions and the choices he's made. The narrative concludes with an understanding of where he stands in his relentless crusade, without fully ending his journey.",
+      "introduction": "Frank Castle grapples with the aftermath of his endless war, seeking a new purpose that transcends his cycle of violence.",
+      "risingAction": "Frank investigates the new force, piecing together its origins and motivations. He encounters various obstacles and makes difficult choices, gradually being drawn back into the fight he thought he had left behind, all while questioning his own moral compass."
+    },
+    "characters": [
+      {
+        "name": "Frank Castle (Jon Bernthal)",
+        "role": "Anti Hero",
+        "description": "The protagonist, driven by a desire for vengeance but also searching for purpose beyond it. He operates outside conventional moral boundaries."
+      },
+      {
+        "name": "Karen Page (Deborah Ann Woll)",
+        "role": "Supporting Character",
+        "description": "A journalist who often supports and humanizes Frank, acting as one of his few connections to a normal life."
+      },
+      {
+        "name": "Curtis Hoyle (Jason R. Moore)",
+        "role": "Mentor",
+        "description": "A close friend and fellow veteran who provides emotional support and guidance to Frank, often helping him process his trauma."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Frank Castle",
+        "target": "Various Enemies",
+        "description": "Target of Vengeance/Bounty"
+      },
+      {
+        "source": "Frank Castle",
+        "target": "Lingering Enemy (Unnamed)",
+        "description": "Target of Vengeance (Initial)"
+      },
+      {
+        "source": "Lingering Enemy (Unnamed)",
+        "target": "Frank Castle",
+        "description": "Instigator of Bounty/Adversary"
+      },
+      {
+        "source": "Frank Castle",
+        "target": "Grief/Past",
+        "description": "Internal Conflict"
+      }
+    ],
+    "seo": {
+      "slug": "the-punisher-one-last-kill",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-punisher-one-last-kill](https://movnix.com/movie/the-punisher-one-last-kill)",
+        "name": "The Punisher: One Last Kill",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": {
+          "name": "Frank Castle",
+          "@type": "Person"
+        },
+        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight."
+      },
+      "keywords": [
+        "The Punisher One Last Kill",
+        "Frank Castle",
+        "The Punisher movie",
+        "Marvel The Punisher",
+        "action movie 2026",
+        "Frank Castle revenge"
+      ],
+      "canonical": "[https://movnix.com/movie/the-punisher-one-last-kill](https://movnix.com/movie/the-punisher-one-last-kill)",
+      "metaTitle": "The Punisher: One Last Kill - Synopsis, News & Updates | Movnix",
+      "openGraph": {
+        "og:title": "The Punisher: One Last Kill - Frank Castle Returns",
+        "og:description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight."
+      },
+      "twitterCard": {
+        "twitter:title": "The Punisher: One Last Kill",
+        "twitter:description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight."
+      },
+      "metaDescription": "Frank Castle seeks a life beyond revenge, but a dangerous new threat pulls him back into the shadows. Watch updates on The Punisher: One Last Kill."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Frank Castle as he attempts to move past his life of endless vengeance, only to be pulled back into violence when an unexpected threat forces him to fight once more.",
+        "question": "What is the main plot of The Punisher: One Last Kill?"
+      },
+      {
+        "answer": "Yes, it features the iconic Marvel Comics character Frank Castle (The Punisher) and builds upon the established lore of the character's violent vigilante legacy.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is action-thriller, heavily featuring elements of crime drama and psychological conflict.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Yes, there is a post-credits scene that hints at the future of Frank Castle and potential ties to broader vigilante storylines.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main protagonist is Frank Castle, a relentless military veteran turned anti-hero vigilante known as The Punisher.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Due to intense violence, strong language, and dark themes inherent to the character, the movie carries a mature R rating.",
+        "question": "What is the age rating for the film?"
+      },
+      {
+        "answer": "No, while existing fans will notice subtle nods to previous lore, the narrative is designed to be accessible as a standalone story.",
+        "question": "Do I need to watch previous Punisher films or shows to understand this story?"
+      },
+      {
+        "answer": "The movie explores themes of redemption, the heavy mental toll of living solely for revenge, finding purpose after loss, and the cycle of violence.",
+        "question": "What core themes are explored in this movie?"
+      },
+      {
+        "answer": "Although Frank Castle typically operates as a lone wolf, the extraordinary circumstances of this new threat force him into uneasy alliances.",
+        "question": "Does Frank Castle team up with any allies in this film?"
+      },
+      {
+        "answer": "The film is available through its official theatrical release and will subsequently be accessible on major digital streaming platforms.",
+        "question": "Where can I watch The Punisher: One Last Kill?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild unnerving imagery and suspenseful confrontations without explicit horror elements."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity throughout tense dialogue."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence consistent with graphic vigilante combat and intense physical altercations."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate depiction and references to alcohol and tobacco use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Highly intense emotional themes surrounding grief, vengeance, and moral conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 1,
+      "suspense": 8,
+      "violence": 10
+    },
+    "created_at": "2026-07-28 13:44:10.975571",
+    "updated_at": "2026-07-28 13:44:10.975571"
+  }
 }

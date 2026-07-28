@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "2286163",
     "status": "Released",
-    "popularity": 167.7142,
-    "voteAverage": 7.283,
-    "voteCount": 301,
+    "popularity": 161.253,
+    "voteAverage": 7.3,
+    "voteCount": 305,
     "homepage": "https://mock-movie-website.com/movies/1127384",
     "posterPath": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
     "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
@@ -138,6 +138,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/aWnSwtjyh0K0T7sb14cawhXdAmd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lbvFuzlgheQmX9aZaVIOwe6SFbt.jpg",
       "width": 2000,
       "height": 3000,
@@ -152,17 +159,17 @@
       "type": "poster"
     },
     {
-      "filePath": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/dWsw0X420R6ngEcVCkNlZ189Amr.jpg",
       "width": 1684,
       "height": 2528,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -257,13 +264,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/aWnSwtjyh0K0T7sb14cawhXdAmd.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/2yXnZvLxfi0paO0HnjpO4rLfocr.jpg",
       "width": 2000,
       "height": 3000,
@@ -348,6 +348,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/t8azAROrAlDSTgJ0TJW7zqmMsIj.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "width": 3840,
       "height": 2160,
@@ -407,8 +414,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.283,
-      "votesCount": 301
+      "ratingValue": 7.3,
+      "votesCount": 305
     },
     {
       "source": "imdb",
@@ -558,21 +565,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 16938,
-      "name": "Renny Harlin",
-      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 57756,
       "name": "Gene Simmons",
       "profilePath": "/c1t3QgTO4XTDZZG5Ndjxjt8Jt0a.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 16938,
+      "name": "Renny Harlin",
+      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
