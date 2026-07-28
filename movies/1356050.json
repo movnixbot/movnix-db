@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.7966,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 3.5435,
+    "voteAverage": 9,
+    "voteCount": 1,
     "homepage": "https://darkskyfilms.com/film/cruel-hands",
     "posterPath": "/v05PSRSJtcGHGmI5Egte76sav7g.jpg",
     "backdropPath": "/pAWqO3Apq8zZ9UtprLKTvWIWgmo.jpg",
@@ -24,6 +24,10 @@
     {
       "tmdbId": 53,
       "name": "Thriller"
+    },
+    {
+      "tmdbId": 27,
+      "name": "Horror"
     },
     {
       "tmdbId": 1,
@@ -106,6 +110,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/jH8xasucbCI3voA6tvixkHpS1xu.jpg",
+      "width": 960,
+      "height": 1440,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/14DxZ83iijzTPNv89iTCcFRMCsc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/pAWqO3Apq8zZ9UtprLKTvWIWgmo.jpg",
       "width": 1808,
       "height": 1017,
@@ -128,6 +146,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 1
+    },
     {
       "source": "imdb",
       "ratingValue": 8,
@@ -220,6 +243,60 @@
       "job": "Actor",
       "department": "Acting",
       "order": 8
+    },
+    {
+      "tmdbPersonId": 6374501,
+      "name": "Glenda Kalyk",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 6374503,
+      "name": "Ana Benham",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 6374504,
+      "name": "Gerard Colins",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 6374505,
+      "name": "Jacinta-Lea Fa'Asolo",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 3328531,
+      "name": "Charlotte Friels",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 6374508,
+      "name": "Jan Mulvihill",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 4939799,
