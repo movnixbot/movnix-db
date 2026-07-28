@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "672711",
     "status": "Released",
-    "popularity": 5.8201,
-    "voteAverage": 6.82,
-    "voteCount": 153,
+    "popularity": 6.2232,
+    "voteAverage": 6.9,
+    "voteCount": 154,
     "homepage": "https://www.lionsgate.com/movies/anniversary",
     "posterPath": "/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
     "backdropPath": "/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
@@ -364,6 +364,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/1lK1l7DInPJRPylvGVavFQ9yUgd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
       "width": 3840,
       "height": 2160,
@@ -451,8 +458,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.82,
-      "votesCount": 153
+      "ratingValue": 6.9,
+      "votesCount": 154
     },
     {
       "source": "imdb",
@@ -607,30 +614,21 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 1431793,
+      "name": "Kate Churchill",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 6468,
       "name": "Nick Wechsler",
       "profilePath": "/ytv3AekEXpdmHIZj3v2zrXfsOUJ.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 566958,
-      "name": "Paula Mae Schwartz",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 4059508,
-      "name": "Lori Rosene-Gambino",
-      "profilePath": null,
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
       "order": null
     },
     {
@@ -643,18 +641,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1431793,
-      "name": "Kate Churchill",
+      "tmdbPersonId": 4059508,
+      "name": "Lori Rosene-Gambino",
       "profilePath": null,
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     },
     {
       "tmdbPersonId": 566962,
       "name": "Steve Schwartz",
       "profilePath": "/65rbfE0mBm8mMEISjCni15CEQVx.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 566958,
+      "name": "Paula Mae Schwartz",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
