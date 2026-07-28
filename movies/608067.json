@@ -471,5 +471,239 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/608067/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 608067,
+    "hash": "b27bf6b4a6223969a2c515cf2e9f4c0f500bbc64a37f70991563726617387ae8",
+    "summary_one_sentence": "A washed-up small-town detective and a tech-savvy rookie influencer form an unlikely pair to uncover the truth behind a wrongly closed Gangnam murder case.",
+    "summary_short": "Once a star detective, Jae-hyuk is now a washed-up cop working in a quiet small town alongside Jung-ho, an ambitious, wealthy rookie who previously built a brand as an influencer. When a simple church theft arrest links a local petty criminal to a high-profile Gangnam murder, the duo realizes an innocent person may have been framed. Setting off for Seoul, they team up with an ally prosecutor to reopen the investigation despite severe friction with the local police. Their chaos-fueled dynamic constantly threatens to dismantle the case just as they get closer to uncovering the real killer.",
+    "summary_long": "Jae-hyuk’s fall from grace has left him a jaded, small-town police officer carrying the weight of a failed marriage and stalled career. His routine is upended by the arrival of Jung-ho, a rookie detective whose influencer past, sharp intellect, and financial independence clash immediately with Jae-hyuk’s worn-out, traditional methods. Their strained partnership faces its first real test when they apprehend a thief targeting a church donation box, only to discover the suspect's connection to a major Gangnam murder. The catch is that the Seoul authorities have already closed the case after arresting a different suspect, raising suspicions of a cover-up. Determined to uncover the truth, Jae-hyuk and Jung-ho secure backing from prosecutor Mi-ju and secure an official business trip to Seoul. Reopening the case puts them directly at odds with the Gangnam Police Station, where officers are reluctant to re-examine settled business. Navigating the unfamiliar urban landscape of Seoul, the mismatched pair must reconcile their glaring differences while following a dangerous trail of evidence. As political pressure and corrupt forces attempt to shut them down, their chaotic teamwork edges perilously close to ruining their own investigation. Ultimately, they must learn to leverage each other's unique strengths if they hope to bring the true perpetrator to justice.",
+    "synopsis": "The Ultimate Duo follows Jae-hyuk, a disgraced former star detective now languishing in a small-town police station, and Jung-ho, an energetic rookie detective who traded his life as a wealthy social media influencer for a badge. Forced to work together despite their radically different personalities, methods, and lifestyles, the pair stumbles onto an improbable lead while investigating a minor church robbery. The suspect turns out to be tied to a high-profile murder in Gangnam—a case official authorities have already declared closed with another suspect behind bars. Suspecting a miscarraige of justice or a deliberate cover-up, Jae-hyuk and Jung-ho head to Seoul under the guidance of prosecutor Mi-ju. In order to catch the real killer, the oil-and-water partners must brave corporate, political, and institutional resistance from the Gangnam Police Department while attempting to keep their volatile partnership from collapsing.",
+    "keywords": [
+      "buddy cop",
+      "mismatched partners",
+      "washed-up detective",
+      "rookie and veteran",
+      "influencer",
+      "wrongful arrest",
+      "framed murder",
+      "police corruption",
+      "investigative duo",
+      "underdog team",
+      "seoul",
+      "small town to big city",
+      "comedy crime",
+      "prosecutor alliance"
+    ],
+    "themes": [
+      {
+        "theme": "Mismatched Partnership",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Redemption & Second Chances",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Corruption & Institutional Injustice",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Pursuit of Truth & Justice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Generation Gap & Conflicts",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "As the cover-up deepens and the real culprit attempts to silence the truth, the mismatched partners must put aside their differences, align their unique strengths, and execute a high-stakes showdown to catch the killer and expose the truth.",
+      "conflict": "During a routine arrest of a minor donation box thief, the duo accidentally uncovers evidence linking him to a major Gangnam murder case that police and prosecutors have already officially declared closed with a different perpetrator.",
+      "resolution": "Having successfully cracked the case, Jae-hyuk regains his passion for detective work while Jung-ho gains genuine respect for his partner, cementing their dynamic as an effective, albeit unconventional, crime-fighting duo.",
+      "introduction": "Jae-hyuk, a washed-up, cynical small-town cop, is reluctantly paired with Jung-ho, a wealthy, ambitious rookie detective and former influencer. The two couldn't be more mismatched in their personalities, methods, and backgrounds.",
+      "risingAction": "Determined to uncover the truth, the duo travels to Seoul on an official business trip. Backed by prosecutor Mi-ju, they try to secure cooperation from the Gangnam Police Station, but their constant bickering, clashing styles, and chaotic lack of teamwork repeatedly threaten to undermine the delicate investigation."
+    },
+    "characters": [
+      {
+        "name": "Jae-hyuk",
+        "role": "Hero",
+        "description": "A washed-up small-town cop and former star detective who teams up with a rookie to uncover the truth behind a closed murder case."
+      },
+      {
+        "name": "Jung-ho",
+        "role": "Hero",
+        "description": "A rookie detective and former influencer with intelligence, money, and ambition who becomes Jae-hyuk's mismatched partner."
+      },
+      {
+        "name": "Mi-ju",
+        "role": "Supporting Character",
+        "description": "A prosecutor who promises to support the duo's investigation when they head to Seoul."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jae-hyuk",
+        "target": "Jung-ho",
+        "description": "Mismatched detective partners with contrasting styles and backgrounds"
+      },
+      {
+        "source": "Jae-hyuk",
+        "target": "Mi-ju",
+        "description": "Investigative ally; prosecutor supporting the re-investigation"
+      },
+      {
+        "source": "Jung-ho",
+        "target": "Mi-ju",
+        "description": "Investigative ally; prosecutor supporting the re-investigation"
+      },
+      {
+        "source": "Jae-hyuk",
+        "target": "Thief",
+        "description": "Arresting officer and suspect in a church donation box theft turn prime murder suspect"
+      },
+      {
+        "source": "Jung-ho",
+        "target": "Thief",
+        "description": "Arresting officer and suspect in a church donation box theft turn prime murder suspect"
+      },
+      {
+        "source": "Jae-hyuk",
+        "target": "Gangnam Police Station",
+        "description": "Requesting external cooperation amidst conflicting investigation findings"
+      },
+      {
+        "source": "Jung-ho",
+        "target": "Gangnam Police Station",
+        "description": "Requesting external cooperation amidst conflicting investigation findings"
+      }
+    ],
+    "seo": {
+      "slug": "the-ultimate-duo",
+      "jsonLd": {
+        "name": "The Ultimate Duo",
+        "@type": "Movie",
+        "@context": "https://schema.org",
+        "description": "Jae-hyuk was once a star detective in the regional investigation unit, but after losing his marriage and missing promotions, he's now a washed-up small-town cop whose life has completely fallen apart. His new partner is Jung-ho, a rookie detective and former influencer armed with sharp intelligence, ambition, money, and youth. The mismatched duo doesn't click at all, but one day they arrest a thief who stole from a church donation box and discover he's a prime suspect in a Gangnam murder case. However, the case has already been closed with another perpetrator arrested. To catch the real killer, they head to Seoul on a business trip. With prosecutor Mi-ju's promise to support their investigation, they request cooperation from Gangnam Police Station. But their questionable teamwork—or is it team-killing?—puts the case in jeopardy."
+      },
+      "keywords": [
+        "The Ultimate Duo",
+        "The Ultimate Duo movie",
+        "Korean crime comedy",
+        "Korean detective film",
+        "Gangnam murder case movie"
+      ],
+      "canonical": "https://movnix.com/movie/the-ultimate-duo",
+      "metaTitle": "The Ultimate Duo - Korean Crime Comedy Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "The Ultimate Duo - Korean Crime Comedy Movie",
+        "og:description": "A washed-up cop and an influencer rookie team up to solve a covered-up Gangnam murder case in The Ultimate Duo."
+      },
+      "twitterCard": {
+        "twitter:title": "The Ultimate Duo - Korean Crime Comedy Movie",
+        "twitter:description": "A washed-up cop and an influencer rookie team up to solve a covered-up Gangnam murder case in The Ultimate Duo."
+      },
+      "metaDescription": "A washed-up cop and a rookie influencer detective partner up to crack an unsolved Gangnam murder case in the hilarious crime film, The Ultimate Duo."
+    },
+    "faq": [
+      {
+        "answer": "The Ultimate Duo is primarily an action-comedy and crime investigation film driven by a classic buddy-cop dynamic.",
+        "question": "What is the dominant genre of The Ultimate Duo?"
+      },
+      {
+        "answer": "No, based on the provided synopsis, The Ultimate Duo is an original standalone story centered on two mismatched detectives.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "As a standalone crime comedy, specific post-credit details depend on the official theatrical release, but standard releases in this genre typically focus on completing the main story before the credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story follows Jae-hyuk, a washed-up small-town detective, and Jung-ho, a wealthy rookie cop and ex-influencer. After arresting a church donation box thief, they uncover links to an officially closed Gangnam murder case and head to Seoul to catch the true killer.",
+        "question": "What is the main plot of The Ultimate Duo?"
+      },
+      {
+        "answer": "The main leads are Jae-hyuk, a former star detective whose personal life fell apart, and Jung-ho, a sharp, wealthy rookie detective who used to be an influencer.",
+        "question": "Who are the lead characters in the film?"
+      },
+      {
+        "answer": "They travel to Seoul because a petty thief arrested in their small town turns out to be the prime suspect in a high-profile Gangnam murder case that was wrongfully closed.",
+        "question": "Why do the detectives travel to Seoul?"
+      },
+      {
+        "answer": "The Gangnam Police Station has already closed the murder case with another perpetrator behind bars, making official cooperation difficult. Additionally, Jae-hyuk and Jung-ho's complete lack of teamwork threatens to ruin the case.",
+        "question": "What major conflict complicates their investigation?"
+      },
+      {
+        "answer": "Prosecutor Mi-ju is an ally who promises to support Jae-hyuk and Jung-ho's re-investigation, helping them request official cooperation from the Gangnam Police Station.",
+        "question": "Who is Prosecutor Mi-ju and what is her role?"
+      },
+      {
+        "answer": "Jae-hyuk is a cynical, washed-up veteran cop whose life collapsed after losing his marriage and promotion. Jung-ho is young, rich, ambitious, highly intelligent, and a former influencer.",
+        "question": "How are Jae-hyuk and Jung-ho different from each other?"
+      },
+      {
+        "answer": "The main events are triggered when the duo arrests a petty thief who stole from a church donation box, unexpectedly connecting him to a major unsolved murder in Seoul.",
+        "question": "What triggers the main event of the story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements present, focusing primarily on a crime drama and buddy cop dynamic."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language expected given the gritty small-town cop and police environment."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence typical of a police investigative comedy/action storyline, including theft, murder investigation themes, and potential physical altercations."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild alcohol use or smoking common for a washed-up detective character archetype."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes mentioned in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity involving personal failure, a broken marriage, corruption/framed cases, and high-stakes detective work balanced by comedic buddy cop elements."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 6,
+      "comedy": 7,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 1,
+      "suspense": 7,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 15:49:03.73568",
+    "updated_at": "2026-07-28 15:49:03.73568"
+  }
 }
