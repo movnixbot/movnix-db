@@ -374,5 +374,236 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1481343/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1481343,
+    "hash": "0477e0bc7d059028c3729341f05ca82434b0ada42069680d37a66fb80f0d4ea6",
+    "summary_one_sentence": "A thrilling tropical vacation turns into a claustrophobic nightmare when a group of college friends becomes trapped in a flooded Thai cave system with a deadly predator and dwindling oxygen.",
+    "summary_short": "What begins as an exciting Thailand vacation quickly transforms into a fight for life when a group of college friends explores a remote cave network. After a sudden surge of water traps them inside the submerged caverns, they discover they are not alone in the dark waters. As their oxygen supply steadily depletes, hidden personal conflicts and betrayals surface among the group. Trapped between a relentless aquatic predator and rising waters, they must face both internal fractures and external terror to escape.",
+    "summary_long": "Seeking an unforgettable thrill during their trip to Thailand, a group of college friends decides to venture into an off-grid cave network. Excited for adventure, they dive into the subterranean passages, but an unexpected storm causes swift flash floods that seal their exit. Cut off from the surface, the friends navigate through dark, narrow chambers while their oxygen reserves rapidly diminish. Their panic escalates when they realize a lethal aquatic predator is stalking them through the murky subterranean waters. As claustrophobia sets in, long-buried grievances and secret betrayals surface, causing fierce arguments among the friends. Trust completely shatters when desperate choices about survival force each person to prioritize their own life over others. With their air running dangerously low and the monster closing in, the survivors are pushed to their ultimate physical and psychological limits. They must devise a perilous plan to navigate the flooded tunnels and defeat the threat before the cave becomes their permanent tomb.",
+    "synopsis": "'The Devil's Mouth' is an intense horror-thriller that merges survival drama with aquatic creature terror. Set against the breathtaking yet treacherous landscapes of Thailand, the story follows a close-knit group of college friends whose dream holiday collapses into disaster during an illicit cave-diving expedition. Trapped deep within a flooded underground cave system, the group finds themselves stripped of all modern lifelines as oxygen levels plummet and floodwaters rise. The narrative balances high-stakes physical survival against an ancient predator that hunts within the submerged dark with a tense character study of friendship under extreme pressure. As secrets come to light and panic takes hold, 'The Devil's Mouth' explores how far individuals will go to survive when hunted by both nature and their own pasts.",
+    "keywords": [
+      "cave entrapment",
+      "aquatic predator",
+      "survival horror",
+      "claustrophobia",
+      "vacation gone wrong",
+      "running out of oxygen",
+      "group dynamics in crisis",
+      "submerged caves",
+      "interpersonal tension",
+      "Thailand setting",
+      "desperate struggle",
+      "nature horror",
+      "subaquatic thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Friendship & Conflict",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Isolation & Claustrophobia",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Nature vs. Humanity",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "With time running out and internal trust completely broken, the remaining survivors must make a high-stakes stand against the predator to reach the only remaining exit point.",
+      "conflict": "While exploring an isolated cave system, rising water levels suddenly submerge the exit, trapping the group underground alongside an aggressive predator.",
+      "resolution": "The surviving members face the tragic cost of their ordeal, permanently altered by the trauma and broken bonds forged inside the cave.",
+      "introduction": "A group of college friends travels to Thailand for an adventurous getaway, eager to explore the country's stunning natural landscapes.",
+      "risingAction": "As oxygen supplies dwindle and the creature stalks them through the dark passages, long-buried interpersonal tensions and secrets surface, fracturing the group's unity."
+    },
+    "characters": [
+      {
+        "name": "Sara (played by Kathryn Newton)",
+        "role": "Hero",
+        "description": "The central protagonist who takes charge and attempts to keep the group united and focused on escaping as panic sets in."
+      },
+      {
+        "name": "Max (played by Lana Condor)",
+        "role": "Anti Hero",
+        "description": "A pragmatist whose intense drive to survive causes past conflicts and interpersonal tensions to resurface under pressure."
+      },
+      {
+        "name": "Greg (played by Gavin Casalegno)",
+        "role": "Supporting Character",
+        "description": "A close friend within the group whose personal ties and competing loyalties add emotional weight to the crisis."
+      },
+      {
+        "name": "James (played by Nico Hiraga)",
+        "role": "Comic Relief",
+        "description": "The easygoing member of the group who attempts to cut through the tension with humor before the situation grows dire."
+      },
+      {
+        "name": "Adrienne (played by Tommi Rose)",
+        "role": "Supporting Character",
+        "description": "A member of the friend group who struggles to stay composed as oxygen runs dangerously low."
+      },
+      {
+        "name": "Wat (played by Tayme Thapthimthong)",
+        "role": "Mentor",
+        "description": "The local guide who provides knowledge of the dangerous cave system before the group is trapped."
+      },
+      {
+        "name": "The Submerged Bull Shark",
+        "role": "Villain",
+        "description": "The deadly aquatic predator stalking the submerged caves, serving as the primary external antagonist."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Main Protagonist",
+        "target": "Friend Group",
+        "description": "College Friends / Survival Companions"
+      },
+      {
+        "source": "Group Members",
+        "target": "Group Members",
+        "description": "Rivalling Friends with Past Conflict"
+      },
+      {
+        "source": "College Friends",
+        "target": "Submerged Predator",
+        "description": "Prey vs. Hunter"
+      }
+    ],
+    "seo": {
+      "slug": "the-devils-mouth",
+      "jsonLd": {
+        "name": "The Devil's Mouth",
+        "@type": "Movie",
+        "genre": [
+          "Thriller",
+          "Horror",
+          "Adventure"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
+      },
+      "keywords": [
+        "The Devil's Mouth",
+        "survival movie",
+        "Thailand cave thriller",
+        "submerged cave predator",
+        "underwater horror movie",
+        "college friends survival film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-devils-mouth](https://movnix.com/movie/the-devils-mouth)",
+      "metaTitle": "The Devil's Mouth - Submerged Cave Survival Thriller Movie",
+      "openGraph": {
+        "og:title": "The Devil's Mouth - Underwater Survival Thriller",
+        "og:description": "Trapped in submerged caves in Thailand, a group of friends must survive a deadly predator and dwindling oxygen."
+      },
+      "twitterCard": {
+        "twitter:title": "The Devil's Mouth - Underwater Survival Thriller",
+        "twitter:description": "Trapped in submerged caves in Thailand, a group of friends must survive a deadly predator and dwindling oxygen."
+      },
+      "metaDescription": "Trapped in Thailand's underwater caves, college friends face a deadly predator and fading oxygen. Watch the ultimate fight for survival in The Devil's Mouth."
+    },
+    "faq": [
+      {
+        "answer": "The Devil's Mouth is primarily a survival thriller and creature-feature horror film, blending claustrophobic underwater suspense with high-stakes tension.",
+        "question": "What is the dominant genre of The Devil's Mouth?"
+      },
+      {
+        "answer": "No, The Devil's Mouth is a standalone survival thriller film and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The Devil's Mouth is an Amazon Original film distributed globally on Amazon Prime Video starting July 29, 2026.",
+        "question": "Where can I watch The Devil's Mouth?"
+      },
+      {
+        "answer": "No, the movie does not feature any mid-credits or post-credits scenes after the main narrative concludes.",
+        "question": "Is there a post-credit scene in The Devil's Mouth?"
+      },
+      {
+        "answer": "The film was directed by Jeff Wadlow, known for directing films such as Truth or Dare, Fantasy Island, and Kick-Ass 2.",
+        "question": "Who directed The Devil's Mouth?"
+      },
+      {
+        "answer": "The main cast features Kathryn Newton, Lana Condor, Gavin Casalegno, Nico Hiraga, Tommi Rose, and Tayme Thapthimthong.",
+        "question": "Who is in the lead cast of The Devil's Mouth?"
+      },
+      {
+        "answer": "The movie is set along the coast of Thailand, where a group of college friends explore a remote, flooded cave system known as The Devil's Mouth.",
+        "question": "Where does the story of The Devil's Mouth take place?"
+      },
+      {
+        "answer": "In addition to running low on oxygen and navigating trapped underwater passages, the friends are hunted by a highly aggressive, bloodthirsty bull shark.",
+        "question": "What is the main threat the characters face underwater?"
+      },
+      {
+        "answer": "No, The Devil's Mouth is a fictional story written by screenwriters Aja Gabel and Myung Joh Wesner.",
+        "question": "Is The Devil's Mouth based on a true story?"
+      },
+      {
+        "answer": "The film was produced in English as its primary spoken language.",
+        "question": "What language is The Devil's Mouth original audio in?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Intense horror elements including claustrophobic cave environments, atmospheric dread, and persistent threats from an underwater predator."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to strong profanity expected during high-stress life-or-death situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence involving animal attacks and injuries sustained while trapped in submerged caves."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Potential minor social drinking or party scenes implicit in a college vacation setting prior to the survival event."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present based on the provided synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity driven by oxygen depletion, interpersonal conflict, panic, and desperate survival struggle."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 07:31:25.970696",
+    "updated_at": "2026-07-28 07:31:25.970696"
+  }
 }

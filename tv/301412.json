@@ -8,9 +8,9 @@
     "firstAirDate": "2026-07-13",
     "lastAirDate": "2026-07-21",
     "status": "Returning Series",
-    "popularity": 39.691,
-    "voteAverage": 7.9,
-    "voteCount": 5,
+    "popularity": 48.2199,
+    "voteAverage": 9.75,
+    "voteCount": 4,
     "type": "Scripted",
     "posterPath": "/cBiwrUwUNNYXTc5xrDEQWcMqftd.jpg",
     "backdropPath": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
@@ -33,8 +33,8 @@
           "season_number": 1,
           "show_id": 301412,
           "still_path": "/qIFuUbN29JTWnrtjioRMijBfff8.jpg",
-          "vote_average": 0,
-          "vote_count": 0,
+          "vote_average": 8,
+          "vote_count": 1,
           "crew": [],
           "guest_stars": []
         },
@@ -50,8 +50,8 @@
           "season_number": 1,
           "show_id": 301412,
           "still_path": "/bE6VYFhem85XWnix0kGbr2IGF3e.jpg",
-          "vote_average": 0,
-          "vote_count": 0,
+          "vote_average": 7,
+          "vote_count": 1,
           "crew": [],
           "guest_stars": []
         },
@@ -94,13 +94,13 @@
           "episode_number": 5,
           "episode_type": "standard",
           "id": 7267731,
-          "name": "Episode 5",
-          "overview": "",
+          "name": "The Truth",
+          "overview": "After spending a night with Sa-rang, In-wook decides to appear on her show because he wants to keep the relationship with her. Yu-geon saves Ha-na from people putting her down, and they open up about their inner wounds and dreams. Meanwhile, Su-bin and Yi-jae’s relationship grows steadily as their work goes well. However, Su-bin learns from his father what Yi-jae went through because of him.",
           "production_code": "",
-          "runtime": null,
+          "runtime": 63,
           "season_number": 1,
           "show_id": 301412,
-          "still_path": null,
+          "still_path": "/qWxnW519GCXOE9RUyT7YF0Gslbt.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -239,7 +239,7 @@
       "id": 476674,
       "poster_path": "/gz2pNsLesdBZuvfwTIlUr1HZC7T.jpg",
       "season_number": 1,
-      "vote_average": 0
+      "vote_average": 7.5
     }
   ],
   "genres": [
@@ -788,13 +788,27 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/2w2WP6ta5835DUn05I7Z3oLeKyp.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vsBiEKQDgxTjnfcgNT7R6PUYqbI.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.9,
-      "votesCount": 5
+      "ratingValue": 9.75,
+      "votesCount": 4
     }
   ],
   "credits": [
@@ -887,11 +901,6 @@
       "type": ""
     },
     {
-      "iso_3166_1": "LK",
-      "title": "ඩ්‍රීම් ටු යූ",
-      "type": ""
-    },
-    {
       "iso_3166_1": "SA",
       "title": "أحلم بك",
       "type": ""
@@ -899,11 +908,6 @@
     {
       "iso_3166_1": "US",
       "title": "Dreaming of You",
-      "type": ""
-    },
-    {
-      "iso_3166_1": "US",
-      "title": "I Give It to You",
       "type": ""
     }
   ],
@@ -916,7 +920,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Viu",
+          "logo": "/o7WsYI2r1llIf9h6JTGVX9yTHPx.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
