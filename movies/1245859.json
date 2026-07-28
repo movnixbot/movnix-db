@@ -586,5 +586,275 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1245859/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1245859,
+    "hash": "af1e10144dac4990e2a242bfa1ecc572f6a78cc8379b5e4ead12eb6182f01c4c",
+    "summary_one_sentence": "Set in 18th-century England amid a Jacobite uprising and a deadly pox outbreak, Sir Chauncey and Lady Savage navigate a dangerous world of duels, decadence, and bloodshed in a reckless pursuit of social status.",
+    "summary_short": "Set against the turbulent backdrop of 18th-century England, Savage House follows Sir Chauncey and Lady Savage as they blindly strive to elevate their fortune. Plagued by a sweeping pox epidemic and the surrounding chaos of the Jacobite rebellion, their path to prosperity is anything but noble. True to their name, the aristocratic couple plunges into a realm defined by deadly duels, dark humor, and unrestrained decadence. Ultimately, their relentless ambition tests just how far they are willing to go to survive in a unforgiving era.",
+    "summary_long": "In 18th-century England, society is gripped by political unrest, a terrifying pox epidemic, and the constant threat of the Jacobite uprising. Amidst this national turmoil, Sir Chauncey Savage and his wife, Lady Savage, desperately push for a grander and more luxurious lifestyle. Driven by relentless ambition, their quest for wealth and high social standing draws them into the volatile underbelly of aristocratic life. The Savage household quickly transforms into a battleground of biting political intrigue, dark comedy, and vicious betrayals. Every step forward in their social ascension requires navigating lethal duels, heavy intrigue, and hedonistic excesses. As threats outside their estate escalate with rising rebellion and spreading disease, the chaos inside their home mirrors the madness of the era. The couple must constantly outwit rivals, enemies, and occasionally each other to maintain their precarious position. As blood spills and secrets are weaponized, the hypocrisy of their noble aspirations becomes painfully clear. In the end, Sir Chauncey and Lady Savage prove that their family name is not merely an irony, but an accurate description of their ruthless approach to survival.",
+    "synopsis": "Savage House is a dark, satirical period drama that explores the chaotic world of 18th-century English nobility. While the nation reels from a devastating pox outbreak and the violent upheaval of the Jacobite uprising, Sir Chauncey Savage and Lady Savage remain obsessively focused on their own advancement. Unwilling to let societal collapse halt their ambition, the couple plunges into a high-stakes environment filled with lethal duels, illicit affairs, dark humor, and lavish decadence. The story provides a sharp, ironic look at the lengths to which human beings will go for power, contrasting the polished facade of aristocracy with the brutal realities of survival.",
+    "keywords": [
+      "18th century England",
+      "Jacobite uprising",
+      "pox outbreak",
+      "dark comedy",
+      "aristocratic decadence",
+      "family dysfunction",
+      "revenge and ambition",
+      "period drama",
+      "sword duels",
+      "bloodshed",
+      "social climbing",
+      "ironic name",
+      "historical satire"
+    ],
+    "themes": [
+      {
+        "theme": "Ambition and Downfall",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Violence and Decadence",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Political and Social Chaos",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "On the night of the high-stakes dinner gathering, surrounded by absurd preparations and hidden deceit, the long-awaited arrival of their noble guests reaches its turning point.",
+      "conflict": "When a rare opportunity arises to host the influential Duke and Duchess of Devonshire, the Savages plunge into massive debt and desperate preparations to repair their reputation.",
+      "resolution": "The harsh consequences of their blind social ambition and unchecked decadence ultimately unravel the family's future.",
+      "introduction": "In 18th-century England, amid a devastating pox outbreak and the Jacobite uprising, the impoverished Sir Chauncey Savage and his aristocratic wife, Lady Savage, struggle to maintain their crumbling estate and precarious status.",
+      "risingAction": "As the event approaches, internal household betrayals, health crises, duels, and financial ruin threaten to collapse their extravagant facade."
+    },
+    "characters": [
+      {
+        "name": "Sir Chauncey Savage",
+        "role": "Anti Hero",
+        "description": "A low-born, ambitious social climber whose ruthless pursuit of status and decadent lifestyle drive the family into chaos and ruin."
+      },
+      {
+        "name": "Lady Savage",
+        "role": "Anti Hero",
+        "description": "Sir Chauncey's wickedly ambitious wife who shares his relentless obsession with social standing while engaging in secret betrayals."
+      },
+      {
+        "name": "Reginald Halifax",
+        "role": "Villain",
+        "description": "The family's scheming valet who conducts an affair with Lady Savage and conspires to exploit his employers' financial downfall."
+      },
+      {
+        "name": "Dorothy Neville",
+        "role": "Supporting Character",
+        "description": "The household chambermaid who plots alongside Halifax to undermine the Savage family for her own gain."
+      },
+      {
+        "name": "Fanny Savage",
+        "role": "Supporting Character",
+        "description": "The eccentric young daughter of Sir Chauncey and Lady Savage who observes the surrounding household chaos."
+      },
+      {
+        "name": "Humphrey Bennett",
+        "role": "Supporting Character",
+        "description": "A pompous neighbor who maneuvers behind the scenes to profit from Sir Chauncey's desperation and missteps."
+      },
+      {
+        "name": "Mrs. Bennett",
+        "role": "Supporting Character",
+        "description": "Humphrey Bennett's wife, moving within the upper-class social circles the Savages desperately try to impress."
+      },
+      {
+        "name": "Mr. Black",
+        "role": "Supporting Character",
+        "description": "A persistent debt collector sent to apprehend Sir Chauncey as his financial ruin catches up with him."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sir Chauncey Savage",
+        "target": "Lady Savage",
+        "description": "Husband and Wife / Opportunistic Allies"
+      },
+      {
+        "source": "Sir Chauncey Savage",
+        "target": "Fanny Savage",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "Lady Savage",
+        "target": "Fanny Savage",
+        "description": "Mother and Daughter"
+      },
+      {
+        "source": "Sir Chauncey Savage",
+        "target": "Reginald Halifax",
+        "description": "Master and Valet / Accomplices"
+      },
+      {
+        "source": "Sir Chauncey Savage",
+        "target": "Dorothy Neville",
+        "description": "Master and Housemaid / Secret Lovers"
+      },
+      {
+        "source": "Lady Savage",
+        "target": "Reginald Halifax",
+        "description": "Lady and Valet / Secret Lovers"
+      },
+      {
+        "source": "Lady Savage",
+        "target": "Dorothy Neville",
+        "description": "Mistress and Housemaid"
+      },
+      {
+        "source": "Reginald Halifax",
+        "target": "Dorothy Neville",
+        "description": "Fellow Servants / Co-Conspirators"
+      },
+      {
+        "source": "Sir Chauncey Savage",
+        "target": "Duke and Duchess of Devonshire",
+        "description": "Host and High-Society Guests"
+      }
+    ],
+    "seo": {
+      "slug": "savage-house",
+      "jsonLd": {
+        "name": "Savage House",
+        "@type": "Movie",
+        "genre": [
+          "Historical Drama",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life in a house filled with duels, decadence, and bloodshed."
+      },
+      "keywords": [
+        "Savage House",
+        "Savage House movie",
+        "Sir Chauncey Savage",
+        "Lady Savage",
+        "18th century period drama",
+        "Jacobite uprising movie",
+        "historical drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/savage-house](https://movnix.com/movie/savage-house)",
+      "metaTitle": "Savage House - Duels, Decadence & Bloodshed in 18th Century England",
+      "openGraph": {
+        "og:title": "Savage House - Duels, Decadence & Bloodshed in 18th Century England",
+        "og:description": "Step into 18th-century England with Sir Chauncey and Lady Savage in a house defined by duels, decadence, and bloodshed."
+      },
+      "twitterCard": {
+        "twitter:title": "Savage House - 18th Century Drama & Bloodshed",
+        "twitter:description": "Follow Sir Chauncey and Lady Savage through a tumultuous 18th-century England filled with ambition and conflict."
+      },
+      "metaDescription": "Explore Savage House, a tale of ambition, duels, and turmoil set against the backdrop of 18th-century England and the Jacobite uprising."
+    },
+    "faq": [
+      {
+        "answer": "Savage House is a period dark comedy and drama that satirizes class, privilege, and social ambition in 18th-century England.",
+        "question": "What is the dominant genre of Savage House?"
+      },
+      {
+        "answer": "Sir Chauncey Savage is portrayed by Richard E. Grant, while Lady Savage is played by Claire Foy.",
+        "question": "Who stars as Sir Chauncey Savage and Lady Savage?"
+      },
+      {
+        "answer": "No, Savage House is a standalone feature film written and directed by Peter Glanz.",
+        "question": "Is Savage House part of a franchise?"
+      },
+      {
+        "answer": "No, Savage House does not include a post-credits or mid-credits scene.",
+        "question": "Is there a post-credits scene in Savage House?"
+      },
+      {
+        "answer": "The narrative takes place during the 18th century, set against the double crisis of a widespread smallpox outbreak and the political tension of the Jacobite uprising.",
+        "question": "What historical backdrop sets the context for the story?"
+      },
+      {
+        "answer": "The movie was written and directed by filmmaker Peter Glanz.",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The impoverished and deeply flawed Savage family gets an unexpected chance to elevate their social status when the high-ranking Duke and Duchess of Devonshire request lodging at their house during their travels.",
+        "question": "What is the main plot catalyst in Savage House?"
+      },
+      {
+        "answer": "The film has an official running time of 114 minutes.",
+        "question": "What is the runtime of the movie?"
+      },
+      {
+        "answer": "No, the story is a fictional, satirical tale, though it incorporates accurate 18th-century historical events as its backdrop.",
+        "question": "Is Savage House based on a true story?"
+      },
+      {
+        "answer": "The film was distributed by Paramount Pictures for theatrical release, followed by digital home media rental and purchase platforms.",
+        "question": "Where can viewers watch Savage House?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Visceral imagery involving a smallpox outbreak, rot, gangrene, and crude medical procedures."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate coarse language, period-typical profanity, and caustic insults."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Moderate to high levels of violence, including armed duels, gunfire, and lethal bloodshed."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Frequent heavy alcohol consumption, gambling, and medicinal laudanum abuse."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Depictions of extramarital sexual encounters, adultery, and suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving social ruin, betrayal, disease, and imprisonment."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 4,
+      "science": 1,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 22:27:29.485589",
+    "updated_at": "2026-07-28 22:27:29.485589"
+  }
 }
