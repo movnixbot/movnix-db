@@ -629,5 +629,268 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1130948/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1130948,
+    "hash": "8802b1fe77f6b43900628d80ec113b4bc77604cd9f6fabb0b26025c9dcc30678",
+    "summary_one_sentence": "When an outsider threatens to disrupt a wealthy, isolated American family living in a Spanish villa, dark secrets, incestuous desires, and deadly schemes threaten to tear them apart.",
+    "summary_short": "In a sun-drenched Spanish villa, wealthy American siblings Jack, Ed, Anna, and Robert live in opulent, decadent isolation alongside their controlling father. Their fragile domestic dynamic shatters when Jack introduces his outsider girlfriend and expresses his desire to move out. Meanwhile, Ed unearths shocking revelations surrounding their mother's mysterious death. As jealousy, taboo obsession, and manipulation reach a fever pitch, the siblings' attempts to retain control spiral into chaotic betrayals and violent destruction.",
+    "summary_long": "Living in a lavish modernist villa in Catalonia, four adult American siblings—Jack, Ed, Anna, and Robert—spend their days in hedonistic isolation, indulging in their inherited fortune and bizarre inter-family dynamics. Bound by shared eccentricities and taboo fixations, their delicate status quo is overseen by their blind, domineering father. Everything begins to unravel when Jack brings home his guitarist girlfriend, Martha, announcing his plans to leave the family estate and start a independent life with her. Threatening to collapse the family unit, Jack's decision ignites intense resistance from Anna and Robert, both of whom harbour incestuous fixations toward him. Simultaneously, Ed discovers shocking details surrounding their mother's supposed tragic death, exposing a web of lies that underpins the family's shared history. Determined to prevent Jack from abandoning them, Anna attempts to exploit her knowledge of her brothers' hidden sexual kinks to manipulate the situation. Seeing an opportunity to completely disrupt the household, Ed cunningly orchestrates a scheme by posing as Jack and manipulating Robert into removing obstacles standing in the way of his desires. Ed's calculated psychological games provoke a violent chain reaction, sending Robert on a bloody rampage through the estate. As the family's decadent sanctuary devolves into absurd bloodshed and fatal retribution, their gilded life of privilege crashes down in ultimate ruin.",
+    "synopsis": "Set in a lavish, sun-drenched modernist villa in Catalonia, 'Rosebush Pruning' follows four wealthy, deeply dysfunctional American siblings—Jack, Ed, Anna, and Robert—who live in decadent isolation alongside their blind, domineering father. Shielded from the real world by their inherited vast fortune, the family spends their days performing bizarre domestic rituals and navigating unspoken, intense psychological dynamics. Their insular world is disrupted when Jack introduces his outsider girlfriend, Martha, and reveals his intention to abandon the estate. Driven by fear of abandonment and twisted obsessions, the remaining siblings plot to sabotage Jack's departure, while Ed uncovers hidden truths behind their late mother's fate. Directed by Karim Aïnouz and written by Efthimis Filippou, this darkly comic satirical thriller explores themes of privilege, entitlement, and the violent collapse of an insular upper-class dynasty.",
+    "keywords": [
+      "dysfunctional family",
+      "inherited wealth",
+      "dark satire",
+      "family secrets",
+      "isolated estate",
+      "sibling rivalry",
+      "black comedy",
+      "psychological unraveling",
+      "greek weird wave",
+      "eat the rich",
+      "patriarchal tyranny",
+      "unreliable narrator"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Desire for Autonomy",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Escalating secrets and festering resentments boil over into an intense, chaotic confrontation that directly threatens the survival of the family's insular bond.",
+      "conflict": "The static family dynamic is disrupted when Jack announces his desire to leave the villa and move in with his girlfriend, threatening the balance of their isolated world.",
+      "resolution": "The siblings are forced to confront the wreckage of their broken dynamic and the reality of their past, permanently altering their lives and the path forward.",
+      "introduction": "Four wealthy American siblings—Jack, Ed, Anna, and Robert—lead a secluded, codependent existence inside a luxurious Spanish villa, bound by their shared routines and inherited fortune.",
+      "risingAction": "As Jack prepares to depart, Ed uncovers disturbing truths surrounding their mother's death, causing mistrust, hostility, and psychological instability to spread among the siblings."
+    },
+    "characters": [
+      {
+        "name": "Jack",
+        "role": "Supporting Character",
+        "description": "The eldest brother and functional linchpin of the family whose desire to move in with his girlfriend triggers the story's conflict."
+      },
+      {
+        "name": "Ed",
+        "role": "Anti Hero",
+        "description": "The disturbed protagonist who uncovers family secrets and resorts to drastic, morally compromised means to liberate his brother."
+      },
+      {
+        "name": "Anna",
+        "role": "Supporting Character",
+        "description": "The sole sister who lives a vapid, decadent life in the villa, clinging to her family's wealth and toxic dynamics."
+      },
+      {
+        "name": "Robert",
+        "role": "Supporting Character",
+        "description": "The youngest sibling who indulges in the family's isolated lifestyle and bizarre co-dependent relationships."
+      },
+      {
+        "name": "Father",
+        "role": "Villain",
+        "description": "The detestable, blind patriarch whose deceit surrounding his wife's death fuels the family's dysfunction."
+      },
+      {
+        "name": "Martha",
+        "role": "Other",
+        "description": "Jack's outsider girlfriend whose presence disrupts the siblings' isolated, hermetic world."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jack",
+        "target": "Ed",
+        "description": "Siblings"
+      },
+      {
+        "source": "Jack",
+        "target": "Anna",
+        "description": "Siblings"
+      },
+      {
+        "source": "Jack",
+        "target": "Robert",
+        "description": "Siblings"
+      },
+      {
+        "source": "Ed",
+        "target": "Anna",
+        "description": "Siblings"
+      },
+      {
+        "source": "Ed",
+        "target": "Robert",
+        "description": "Siblings"
+      },
+      {
+        "source": "Anna",
+        "target": "Robert",
+        "description": "Siblings"
+      },
+      {
+        "source": "Jack",
+        "target": "Martha",
+        "description": "Boyfriend/Girlfriend"
+      },
+      {
+        "source": "Jack",
+        "target": "Mother",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Ed",
+        "target": "Mother",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Anna",
+        "target": "Mother",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Robert",
+        "target": "Mother",
+        "description": "Mother/Son"
+      }
+    ],
+    "seo": {
+      "slug": "rosebush-pruning",
+      "jsonLd": {
+        "name": "Rosebush Pruning",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a Spanish villa, American siblings Jack, Ed, Anna, and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel."
+      },
+      "keywords": [
+        "Rosebush Pruning",
+        "Rosebush Pruning movie",
+        "Rosebush Pruning drama film",
+        "Rosebush Pruning synopsis",
+        "Rosebush Pruning plot"
+      ],
+      "canonical": "[https://movnix.com/movie/rosebush-pruning](https://movnix.com/movie/rosebush-pruning)",
+      "metaTitle": "Rosebush Pruning Movie: Synopsis, Cast & Latest Updates",
+      "openGraph": {
+        "og:title": "Rosebush Pruning - Official Synopsis & Overview",
+        "og:description": "Isolation and inherited wealth turn deadly when dark secrets emerge among four siblings in a Spanish villa. Watch the story of Rosebush Pruning unfold."
+      },
+      "twitterCard": {
+        "twitter:title": "Rosebush Pruning - Official Movie Overview",
+        "twitter:description": "A Spanish villa, four wealthy siblings, and a dark secret about their mother's death. Learn more about Rosebush Pruning."
+      },
+      "metaDescription": "Discover Rosebush Pruning. Wallowing in fortune and isolation at a Spanish villa, four American siblings unravel as dark family secrets come to light."
+    },
+    "faq": [
+      {
+        "answer": "No, Rosebush Pruning is a standalone movie. It is a modern loose adaptation and remake of Marco Bellocchio's 1965 Italian film Fists in the Pocket.",
+        "question": "Is Rosebush Pruning part of a film franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes after the film ends.",
+        "question": "Is there a post-credit scene in Rosebush Pruning?"
+      },
+      {
+        "answer": "The film primarily falls under the genres of satirical black comedy, psychological drama, and dark thriller.",
+        "question": "What is the dominant genre of Rosebush Pruning?"
+      },
+      {
+        "answer": "The movie is directed by Brazilian filmmaker Karim Aïnouz.",
+        "question": "Who directed Rosebush Pruning?"
+      },
+      {
+        "answer": "The screenplay was written by Greek screenwriter Efthimis Filippou, who draws inspiration from Marco Bellocchio's original 1965 work.",
+        "question": "Who wrote the screenplay for the film?"
+      },
+      {
+        "answer": "The ensemble cast includes Callum Turner as Ed, Jamie Bell as Jack, Riley Keough as Anna, Lukas Gage as Robert, Elle Fanning as Jack's girlfriend Martha, Tracy Letts as the Father, and Pamela Anderson as the Mother.",
+        "question": "Who is in the main cast of Rosebush Pruning?"
+      },
+      {
+        "answer": "No, it is a fictional story based on the premise of Marco Bellocchio's 1965 landmark Italian drama film Fists in the Pocket (I pugni in tasca).",
+        "question": "Is Rosebush Pruning based on a true story or a book?"
+      },
+      {
+        "answer": "The story takes place in a secluded modernist villa located in Catalonia, Spain.",
+        "question": "Where is the movie set?"
+      },
+      {
+        "answer": "The film has an official running time of approximately 95 minutes.",
+        "question": "What is the runtime of Rosebush Pruning?"
+      },
+      {
+        "answer": "The film carries an 18 / R rating due to intense psychological violence, dark comedic themes, adult content, and graphic family conflicts.",
+        "question": "What is the age rating for Rosebush Pruning?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Unsettling atmosphere and dark family revelations create a mildly spooky or eerie tone rather than explicit horror."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language during intense arguments and emotional confrontations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy psychological violence and potential physical threats as family secrets and tensions unravel."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Frequent alcohol consumption and casual drug usage typical of wealthy, isolated lifestyles."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild sexual references or intimate dynamics between romantic partners."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by dysfunctional family dynamics, grief, isolation, and shocking disclosures."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 2,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 3,
+      "science": 0,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 05:13:37.147993",
+    "updated_at": "2026-07-29 05:13:37.147993"
+  }
 }
