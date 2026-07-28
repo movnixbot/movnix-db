@@ -428,5 +428,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/860508/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 860508,
+    "hash": "85c40c7f60d5d0b1354627c788293cc171509d5e5d81b6a7280817b94886c389",
+    "summary_one_sentence": "After his young son mysteriously vanishes, a grieving widower must reunite with his estranged father—a retired detective—to confront the terrifying legacy of an infamous serial killer.",
+    "summary_short": "Still coping with the sudden loss of his wife, a widower finds his world shattered when his young son disappears without a trace from their new home. Desperate for answers, he reaches out to his estranged father, a retired police detective carrying deep psychological scars from his past cases. The disappearance chillingly mirrors the signature methods of 'The Whisper Man,' a notorious serial killer whom his father helped put behind bars decades ago. Together, father and son must confront buried family trauma and race against time to uncover terrifying secrets before it is too late.",
+    "summary_long": "Following the tragic death of his wife, Tom attempts to rebuild his fragile life by moving to a quiet town with his young son, Jake. However, their fresh start turns into an absolute nightmare when Jake suddenly vanishes without a trace from inside their home. Left with few clear clues from the local police, Tom has no choice but to contact his estranged father, Frank, a veteran detective with whom he shares a painful past. Frank spent the twilight of his career tormented by the heinous crimes of 'The Whisper Man,' an infamous child abductor whom Frank eventually brought to justice years earlier. Despite the killer currently serving a life sentence in prison, the circumstances surrounding Jake’s disappearance bear the exact, disturbing hallmarks of the old murderer's work. As Frank reluctantly re-examines his darkest case to determine if an accomplice or copycat is active, Tom battles overwhelming dread and helplessness. Long-held family grievances and buried truths come to light as father and son are forced to navigate a labyrinth of psychological horror. Working together despite their broken relationship, they race against the clock to piece together subtle clues hidden in the past. Ultimately, they must face both the physical threat lurking in the dark and the emotional rift that has kept them apart for years.",
+    "synopsis": "The Whisper Man is an atmospheric crime thriller centered on grief, complex family legacies, and chilling mystery. After the passing of his wife, a widower tries to start anew in a quiet suburban town with his young son. Their fragile stability vanishes overnight when the boy suddenly disappears under deeply unsettling circumstances. With local law enforcement struggling to find leads, the frantic father turns to the one person he swore never to ask for help: his estranged father, a retired police detective. The old detective immediately recognizes terrifying similarities between this new abduction and the grim legacy of 'The Whisper Man'—a serial killer he successfully put away decades prior. Bound by love for the missing boy and haunted by shared trauma, the two men must navigate a treacherous trail of hidden clues, uncanny horrors, and deep family rifts to unravel the truth and save the child.",
+    "keywords": [
+      "serial killer",
+      "missing child",
+      "widower protagonist",
+      "estranged father",
+      "retired detective",
+      "copycat killer",
+      "family trauma",
+      "creepy urban legend",
+      "psychological thriller",
+      "cold case connection",
+      "grief and loss",
+      "small town mystery",
+      "paternal bond"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Fatherhood",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Echoes of the Past",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Tom and Pete desperately confront the shadowy figure behind the recent abduction, venturing into dangerous territory to save Jake before time runs out.",
+      "conflict": "Jake begins hearing whispers outside his window, echoing the chilling terrifying methods of 'The Whisper Man'—a convicted serial killer who preyed on young boys twenty years prior.",
+      "resolution": "With the immediate nightmare brought to an end, long-buried family truths surface, allowing Tom, his father, and Jake to begin repairing their bonds and confronting their shared grief.",
+      "introduction": "Tom Kennedy, a grieving widowed father, moves to the quiet town of Featherbank with his young son, Jake, hoping for a fresh start and a chance to mend their fragile relationship.",
+      "risingAction": "When Jake suddenly vanishes, Tom is forced to seek help from his estranged father, Pete, the retired detective who originally brought down the killer, while investigators race against the clock to determine if an accomplice is continuing the dark legacy."
+    },
+    "characters": [
+      {
+        "name": "Tom Kennedy",
+        "role": "Hero",
+        "description": "A grieving widower struggling to connect with his young son while desperately trying to protect him when a copycat child abductor targets their town."
+      },
+      {
+        "name": "Detective Inspector Pete Willis",
+        "role": "Mentor",
+        "description": "Tom's estranged father and a retired police detective who originally put away the notorious serial killer 'The Whisper Man' and must confront his past to aid his family."
+      },
+      {
+        "name": "Detective Amanda Beck",
+        "role": "Hero",
+        "description": "The lead detective investigating the new child disappearance, determined to uncover the truth behind the copycat crimes before another child vanishes."
+      },
+      {
+        "name": "Frank Carter / The Whisper Man",
+        "role": "Villain",
+        "description": "An infamous, imprisoned serial killer whose sinister legacy and secret accomplice drive the new wave of terror."
+      },
+      {
+        "name": "Jake Kennedy",
+        "role": "Supporting Character",
+        "description": "Tom's young, sensitive son who experiences strange occurrences and becomes the target of the new murderer."
+      },
+      {
+        "name": "Sgt. John Dyson",
+        "role": "Supporting Character",
+        "description": "A local law enforcement officer who assists in the investigation into the recent abduction."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tom Kennedy",
+        "target": "Jake Kennedy",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Tom Kennedy",
+        "target": "Norman Spencer",
+        "description": "Father/Son (Estranged)"
+      },
+      {
+        "source": "Jake Kennedy",
+        "target": "Norman Spencer",
+        "description": "Grandfather/Grandson"
+      },
+      {
+        "source": "Norman Spencer",
+        "target": "Frank Carter",
+        "description": "Detective/Serial Killer (Adversaries)"
+      },
+      {
+        "source": "Frank Carter",
+        "target": "The Whisper Man",
+        "description": "Alias/Identity"
+      },
+      {
+        "source": "Jake Kennedy",
+        "target": "Frank Carter",
+        "description": "Victim/Abductor"
+      }
+    ],
+    "seo": {
+      "slug": "the-whisper-man",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-whisper-man](https://movnix.com/movie/the-whisper-man)",
+        "name": "The Whisper Man",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case."
+      },
+      "keywords": [
+        "The Whisper Man",
+        "The Whisper Man movie",
+        "crime thriller movie",
+        "serial killer movie",
+        "missing child thriller",
+        "detective mystery"
+      ],
+      "canonical": "[https://movnix.com/movie/the-whisper-man](https://movnix.com/movie/the-whisper-man)",
+      "metaTitle": "The Whisper Man - Synopsis, Cast & Movie Info | Movnix",
+      "openGraph": {
+        "og:title": "The Whisper Man - A Gripping Crime Thriller",
+        "og:description": "A widower's son disappears, linking back to a notorious serial killer caught years ago. Can a retired detective unravel the mystery in time?"
+      },
+      "twitterCard": {
+        "twitter:title": "The Whisper Man - Official Movie Details",
+        "twitter:description": "When a boy goes missing, a family secret and a dark past resurface. Learn more about The Whisper Man on Movnix."
+      },
+      "metaDescription": "A widower and his retired detective father race to find a missing boy before a terrifying serial killer strikes again. Watch The Whisper Man details."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a psychological crime thriller, mystery, and suspense drama.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "Yes, 'The Whisper Man' is based on the 2019 bestselling crime thriller novel of the same name by Alex North.",
+        "question": "Is this movie based on a book?"
+      },
+      {
+        "answer": "No, 'The Whisper Man' is a standalone feature film and is not part of a franchise or connected cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film stars Adam Scott as the widowed father, Robert De Niro as his estranged retired detective father, Michelle Monaghan as a detective on the case, and Michael Keaton.",
+        "question": "Who plays the main characters in the movie?"
+      },
+      {
+        "answer": "The film was directed by James Ashcroft, with a screenplay adapted by Ben Jacoby and Chase Palmer.",
+        "question": "Who directed 'The Whisper Man'?"
+      },
+      {
+        "answer": "The movie is distributed as a Netflix Original feature film.",
+        "question": "Where can I watch 'The Whisper Man'?"
+      },
+      {
+        "answer": "After a grieving widower's young son is abducted, he turns to his estranged father—a retired detective who arrested a notorious serial killer decades earlier—to help unravel a chilling connection between the cases.",
+        "question": "What is the premise of the story?"
+      },
+      {
+        "answer": "The film was produced by AGBO, the production company led by Anthony and Joe Russo, along with Angela Russo-Otstot and Michael Disco.",
+        "question": "Who produced the film?"
+      },
+      {
+        "answer": "No, due to its dark and sensitive themes involving child abduction, serial murder, and intense psychological dread, the film is intended for mature audiences.",
+        "question": "Is 'The Whisper Man' suitable for children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong psychological horror, suspense, eerie tropes, and tense atmospheric dread surrounding child disappearances."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language used in tense or dramatic situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence involving abduction, serial murder references, and child endangerment themes."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild depictions or references to alcohol consumption and smoking."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity focused on grief, missing children, parental trauma, and strained family relationships."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 10,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 11:05:43.224827",
+    "updated_at": "2026-07-28 11:05:43.224827"
+  }
 }
