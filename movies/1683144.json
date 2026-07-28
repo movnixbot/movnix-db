@@ -340,5 +340,246 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1683144/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1683144,
+    "hash": "dc80a3a0f06da52aaa3bd2563edc251c49d3ce42a040de9b4649e3558972dbf6",
+    "summary_one_sentence": "In a thrilling heavyweight clash, former champion Anthony Joshua survives two dramatic first-round knockdowns before roaring back to knock out power-puncher Kristian Prenga in round two.",
+    "summary_short": "Anthony Joshua makes his high-stakes return to the boxing ring against fierce knockout artist Kristian Prenga in Saudi Arabia. The tension reaches an immediate high when Prenga shockingly floors Joshua twice in the opening round, putting Joshua's career and mega-fight prospects on the line. Showing incredible resilience, Joshua resets in the second round to unleash a brutal combination that lays out his opponent, securing a dramatic stoppage victory.",
+    "summary_long": "Former two-time heavyweight champion Anthony Joshua steps into the ring in Saudi Arabia for a high-profile comeback bout against dangerous knockout artist Kristian Prenga. With massive future fights hanging in the balance, Joshua aims to deliver a statement performance to show he is back at the top of his game. However, disaster strikes in the opening round when Prenga lands a series of heavy power punches, sending Joshua to the canvas twice and stunning the fight world. Shaken but determined, Joshua manages to survive the frantic first three minutes and return to his corner to gather himself. Coming out focused for the second round, Joshua re-establishes his range and lands a devastating right hand that completely turns the tide. The brutal onslaught leaves Prenga unable to beat the count, sealing a spectacular, dramatic knockout victory for Joshua. Ultimately, the high-octane spectacle showcases Joshua's deep resolve and power as he overcomes early adversity to claim a triumphant win.",
+    "synopsis": "Anthony Joshua vs. Kristian Prenga captures an explosive, high-stakes heavyweight boxing showcase set in Saudi Arabia. Following a prolonged period away from the ring, former world heavyweight champion Anthony Joshua faces formidable Albanian knockout artist Kristian Prenga in a crucial bout designed to test his championship mettle. Tensions peak early when Prenga's explosive punch power presents an immediate threat, pushing Joshua to his absolute limits in a wild opening round. With his future at the elite level hanging by a thread, Joshua relies on his championship experience, tactical adjustments, and raw punching power to stage a dramatic turnaround. The event delivers non-stop ring action, showcasing intense drama, resilience, and heavy-handed excitement for fight fans worldwide.",
+    "keywords": [
+      "heavyweight boxing",
+      "combat sports",
+      "championship bout",
+      "comeback story",
+      "knockout artist",
+      "ring rivalry",
+      "riyadh season",
+      "saudi arabia venue",
+      "high stakes fight",
+      "athletic showdown",
+      "combat spectacle",
+      "boxing gloves",
+      "sports drama"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption & Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Comeback & Resilience",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Rivalry & Competition",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-intensity exchange erupts as one fighter capitalizes on a critical opening, unleashing a decisive combination that brings the contest to a sudden and dramatic conclusion.",
+      "conflict": "Joshua must prove he still belongs among the division's elite, while dangerous knockout artist Kristian Prenga seeks a career-defining upset that would shatter Joshua's championship ambitions.",
+      "resolution": "The victor celebrates a pivotal victory on the global stage, solidifying their standing in the division while the defeated fighter assesses their next moves.",
+      "introduction": "Former heavyweight champion Anthony Joshua enters the ring in Riyadh, Saudi Arabia, aiming to re-establish his dominance and position himself for future title contention.",
+      "risingAction": "The fighters exchange cautious early probes before trading increasingly heavy, high-stakes blows, with Prenga continually threatening to land a fight-ending power shot."
+    },
+    "characters": [
+      {
+        "name": "Anthony Joshua",
+        "role": "Hero",
+        "description": "The central protagonist returning to the ring, striving to overcome challenges, secure victory, and reclaim his standing as a champion."
+      },
+      {
+        "name": "Kristian Prenga",
+        "role": "Villain",
+        "description": "The primary antagonist and knockout artist standing directly in the hero's path, serving as the formidable opponent to overcome."
+      },
+      {
+        "name": "Oleksandr Khyzhniak",
+        "role": "Mentor",
+        "description": "An elite fighter offering tactical wisdom, technical mastery, and guidance to support the protagonist's preparation."
+      },
+      {
+        "name": "Josh Kelly",
+        "role": "Supporting Character",
+        "description": "A prominent undercard competitor providing key support and setting the stage on the main card event."
+      },
+      {
+        "name": "Caoimhin Agyarko",
+        "role": "Supporting Character",
+        "description": "An ambitious contender adding depth and competitive stakes to the undercard slate."
+      },
+      {
+        "name": "Hamzah Sheeraz",
+        "role": "Supporting Character",
+        "description": "A featured undercard fighter whose performance helps elevate the total magnitude of the fight night."
+      },
+      {
+        "name": "Simon Zachenhuber",
+        "role": "Anti Hero",
+        "description": "A gritty, unconventional challenger who plays by his own rules and brings high-risk intensity to the ring."
+      },
+      {
+        "name": "Reito Tsutsumi",
+        "role": "Supporting Character",
+        "description": "An energetic, rising athlete contributing to the international presence and momentum of the event."
+      },
+      {
+        "name": "Alvino Herrera Meza",
+        "role": "Comic Relief",
+        "description": "An entertaining, flashy competitor bringing humor, flair, and lighthearted tension release to the fight environment."
+      },
+      {
+        "name": "Lenny Patrach",
+        "role": "Other",
+        "description": "A crucial background figure providing necessary structural balance to complete the overall roster."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anthony Joshua",
+        "target": "Kristian Prenga",
+        "description": "Rivals / Opponents"
+      }
+    ],
+    "seo": {
+      "slug": "anthony-joshua-vs-kristian-prenga",
+      "jsonLd": {
+        "name": "Anthony Joshua vs. Kristian Prenga",
+        "@type": "SportsEvent",
+        "@context": "https://schema.org",
+        "location": {
+          "name": "Riyadh",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "SA",
+            "addressLocality": "Riyadh"
+          }
+        },
+        "competitor": [
+          {
+            "name": "Anthony Joshua",
+            "@type": "Person"
+          },
+          {
+            "name": "Kristian Prenga",
+            "@type": "Person"
+          }
+        ],
+        "description": "Anthony Joshua makes his highly anticipated return to the ring against knockout artist Kristian Prenga in Riyadh, Saudi Arabia."
+      },
+      "keywords": [
+        "Anthony Joshua vs Kristian Prenga",
+        "Anthony Joshua next fight",
+        "Kristian Prenga boxing",
+        "Riyadh boxing event",
+        "Heavyweight boxing Riyadh"
+      ],
+      "canonical": "https://movnix.com/movie/anthony-joshua-vs-kristian-prenga",
+      "metaTitle": "Anthony Joshua vs. Kristian Prenga | Heavyweight Boxing in Riyadh",
+      "openGraph": {
+        "og:title": "Anthony Joshua vs. Kristian Prenga - Heavyweight Clash in Riyadh",
+        "og:description": "Anthony Joshua returns to the ring to battle knockout artist Kristian Prenga in Riyadh, Saudi Arabia."
+      },
+      "twitterCard": {
+        "twitter:title": "Anthony Joshua vs. Kristian Prenga - Live from Riyadh",
+        "twitter:description": "Anthony Joshua returns to face knockout specialist Kristian Prenga in Riyadh, Saudi Arabia."
+      },
+      "metaDescription": "Watch Anthony Joshua take on knockout artist Kristian Prenga in Riyadh, Saudi Arabia. Get full details, event preview, and fight schedule."
+    },
+    "faq": [
+      {
+        "answer": "It is a heavyweight boxing event featuring former world champion Anthony Joshua against knockout artist Kristian Prenga.",
+        "question": "What is Anthony Joshua vs. Kristian Prenga?"
+      },
+      {
+        "answer": "The fight is hosted in Riyadh, Saudi Arabia as part of a major sports showcase.",
+        "question": "Where is the event taking place?"
+      },
+      {
+        "answer": "The dominant genre is live sports, specifically professional heavyweight boxing.",
+        "question": "What is the dominant genre of this event?"
+      },
+      {
+        "answer": "Yes, it is part of the ongoing Riyadh Season high-profile boxing event series.",
+        "question": "Is this event part of a larger franchise or series?"
+      },
+      {
+        "answer": "While standard sports events do not feature fictional post-credit scenes, there is extensive post-fight coverage including press conferences, interviews, and highlights.",
+        "question": "Is there a post-credit scene or post-event coverage?"
+      },
+      {
+        "answer": "The main event features British heavyweight Anthony Joshua competing against Albanian contender Kristian Prenga.",
+        "question": "Who are the main competitors featured in the headliner?"
+      },
+      {
+        "answer": "The contest takes place in the Heavyweight division with no upper weight limit.",
+        "question": "What weight class is this fight set for?"
+      },
+      {
+        "answer": "Yes, the broadcast includes a full undercard featuring multiple preliminary matches before the main event.",
+        "question": "Will there be undercard fights before the main event?"
+      },
+      {
+        "answer": "The event is available globally through major pay-per-view providers and digital sports streaming platforms.",
+        "question": "How can viewers watch the fight live?"
+      },
+      {
+        "answer": "As a live combat sport containing real full-contact martial arts violence, parental discretion is advised for younger viewers.",
+        "question": "Is this event suitable for all audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jump scares present."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity standard in competitive sports broadcasts and fighter interviews."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate combat violence inherent to professional boxing, including punches, physical impact, and potential visible cuts or bruising."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use, limited to possible background advertisements for alcohol."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate intensity driven by high-stakes athletic competition and dramatic sports narrative."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 06:57:04.106587",
+    "updated_at": "2026-07-28 06:57:04.106587"
+  }
 }
