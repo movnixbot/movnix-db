@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 12.059,
-    "voteAverage": 7.765,
-    "voteCount": 17,
+    "popularity": 11.4084,
+    "voteAverage": 7.842,
+    "voteCount": 19,
     "homepage": "https://mock-movie-website.com/movies/1633263",
     "posterPath": "/5plgPtzwuIHUKMN044igzRkbd90.jpg",
     "backdropPath": "/9JgPIYH9I5KMGuJHwKjghoaazok.jpg",
@@ -151,8 +151,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.765,
-      "votesCount": 17
+      "ratingValue": 7.842,
+      "votesCount": 19
     },
     {
       "source": "crawled",
@@ -400,5 +400,280 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1633263/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1633263,
+    "hash": "650ebfac42c93069a548ca53bef4492acd576ff355579e5dadecbf8fcb653550",
+    "summary_one_sentence": "After a heaven clerical error cuts her life short, an ambitious lawyer is given a second chance at life by inhabiting the body of an ordinary housewife for one month.",
+    "summary_short": "Lee Yeon-woo is a successful, cold-hearted lawyer who cares only about money and career advancement. When a celestial mix-up accidentally ends her life, an afterlife manager offers her a deal: live for one month as a middle-class housewife before returning to her original body. Stripped of her lavish lifestyle, Yeon-woo struggles to adjust to life with an devoted husband and two kids, only to unexpectedly open her heart to family and genuine human connection.",
+    "summary_long": "Lee Yeon-woo is an elite, materialistic defense attorney who prioritizes professional success over personal relationships. Just as she prepares to move to the United States for a prestigious new career opportunity, she dies in a sudden car crash. Upon arriving at the afterlife processing center, she learns that her death was a clerical mistake meant for an older woman with the same name. To cover up the error, heaven's manager offers her a deal to step into the body of Kang Seo-yeon, a deceased young housewife, for thirty days. Yeon-woo awakens in a cramped apartment surrounded by a hardworking, loving husband and two children she never knew existed. Initially horrified by the lack of luxury and the endless domestic duties, she stubbornly attempts to maintain her fiercely independent lawyer persona. However, as she helps her family navigate personal and financial hurdles, she forms a deep bond with her new husband and children. When her month comes to an end, Yeon-woo faces a heartbreaking choice between returning to her old high-powered life or embracing the warmth of the family she grew to love.",
+    "synopsis": "Wonderful Nightmare is a heartwarming Korean fantasy romantic comedy-drama following Lee Yeon-woo, a fiercely independent and successful attorney whose life turns upside down following a fatal car accident. When a bureaucratic blunder in heaven mistakenly claims her soul, she is offered a temporary deal to regain her life: spend thirty days living in the shoes of another woman who died prematurely. Forced into the body of an ordinary, humble housewife with an affectionate civil servant husband and two kids, Yeon-woo must adapt to domestic life without revealing her true identity. As she navigates the hilarious and touching challenges of family life, she uncovers the value of love, empathy, and meaningful connections.",
+    "keywords": [
+      "clerical error",
+      "afterlife bureaucracy",
+      "identity swap",
+      "fish out of water",
+      "workaholic heroine",
+      "second chance",
+      "instant family",
+      "housewife life",
+      "character growth",
+      "temporary existence",
+      "class contrast",
+      "bittersweet romance",
+      "motherhood",
+      "redemption arc"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Identity & Self-Discovery",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Second Chances",
+        "confidence": 0.95
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Comedic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "As her allotted time nears its end, she faces a critical dilemma that forces her to choose between the high-powered career she once cherished and the deep emotional bonds she unexpectedly forged.",
+      "conflict": "A fatal accident occurs, but upon reaching the afterlife, she learns her death was a clerical error and is offered a deal to return to Earth by living as another woman for a month.",
+      "resolution": "She undergoes a profound transformation in her perspective on life, success, and love, leaving a lasting impact on her choices as her journey reaches its conclusion.",
+      "introduction": "An ambitious and self-centered lawyer enjoys a successful, high-status life, focused strictly on career advancement and personal convenience.",
+      "risingAction": "She awakens in the body of an ordinary housewife and mother, struggling to adapt to a completely unfamiliar, chaotic lifestyle while keeping her true identity secret and gradually forming genuine connections with her new family."
+    },
+    "characters": [
+      {
+        "name": "Atty. Ma. Luisa \"Lui\" Manuel / Jane",
+        "role": "Hero",
+        "description": "An ambitious, self-centered lawyer who dies prematurely due to a clerical error in heaven and must spend a month living as a humble housewife to get her life back."
+      },
+      {
+        "name": "Julian Alcantara",
+        "role": "Supporting Character",
+        "description": "A devoted, hardworking municipal clerk and patient husband who loves his family despite their daily financial struggles."
+      },
+      {
+        "name": "Chief / Heavenly Manager",
+        "role": "Mentor",
+        "description": "The supervisor in the afterlife bureau who offers Lui the temporary deal to live as Jane for a month to correct heaven's error."
+      },
+      {
+        "name": "Jaja Alcantara",
+        "role": "Supporting Character",
+        "description": "The outspoken teenage daughter who initially clashes with her transformed mother before forming a deeper emotional bond with her."
+      },
+      {
+        "name": "Justin Alcantara",
+        "role": "Supporting Character",
+        "description": "The sweet and reliant young son of the family who brings out Lui's maternal instincts."
+      },
+      {
+        "name": "Neighbor / Community Friend (Candy Pangilinan)",
+        "role": "Comic Relief",
+        "description": "An energetic neighborhood housewife who provides comedic commentary and support within the local community."
+      },
+      {
+        "name": "Neighbor / Community Friend (Yumi Lacsamana)",
+        "role": "Comic Relief",
+        "description": "A local friend who adds humor and camaraderie as Lui adapts to life in the neighborhood."
+      },
+      {
+        "name": "Neighbor / Community Friend (Quinn Carrillo)",
+        "role": "Supporting Character",
+        "description": "A neighborhood friend who assists Lui in learning the ropes of running a household."
+      },
+      {
+        "name": "Neighbor / Community Friend (Divine Aucina)",
+        "role": "Comic Relief",
+        "description": "A hilarious local peer whose witty interactions bring lighthearted entertainment to community gatherings."
+      },
+      {
+        "name": "Local Resident (Kedebon Colim)",
+        "role": "Comic Relief",
+        "description": "A quirky townsperson who delivers funny side moments throughout Lui's month in the neighborhood."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Huh Sung-hwan",
+        "description": "Husband/Wife (Temporary inhabitant)"
+      },
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Huh Ha-neul",
+        "description": "Mother/Daughter (Temporary inhabitant)"
+      },
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Huh Ha-ru",
+        "description": "Mother/Son (Temporary inhabitant)"
+      },
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Manager Lee",
+        "description": "Heavenly Guide/Contract Granter"
+      },
+      {
+        "source": "Huh Sung-hwan",
+        "target": "Huh Ha-neul",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Huh Sung-hwan",
+        "target": "Huh Ha-ru",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Huh Ha-neul",
+        "target": "Huh Ha-ru",
+        "description": "Siblings"
+      },
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Mi-sun",
+        "description": "Neighborhood Friend/Confidante"
+      },
+      {
+        "source": "Lee Yeon-woo",
+        "target": "Choi Yeon-woo",
+        "description": "Soul Swap/Original Body Owner"
+      }
+    ],
+    "seo": {
+      "slug": "wonderful-nightmare",
+      "jsonLd": {
+        "name": "Wonderful Nightmare",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A high-flying, career-driven lawyer dies prematurely due to a clerical error in heaven."
+      },
+      "keywords": [
+        "wonderful nightmare",
+        "wonderful nightmare movie",
+        "korean comedy movie",
+        "wonderful nightmare synopsis",
+        "heaven clerical error movie"
+      ],
+      "canonical": "[https://movnix.com/movie/wonderful-nightmare](https://movnix.com/movie/wonderful-nightmare)",
+      "metaTitle": "Wonderful Nightmare - Synopsis, Details & Where to Watch",
+      "openGraph": {
+        "og:title": "Wonderful Nightmare - Movie Synopsis & Details",
+        "og:description": "A high-flying, career-driven lawyer dies prematurely due to a clerical error in heaven."
+      },
+      "twitterCard": {
+        "twitter:title": "Wonderful Nightmare - Movie Synopsis & Details",
+        "twitter:description": "A high-flying, career-driven lawyer dies prematurely due to a clerical error in heaven."
+      },
+      "metaDescription": "When a career-driven lawyer dies by mistake in heaven, she gets a second chance at life. Read the full story and movie details for Wonderful Nightmare."
+    },
+    "faq": [
+      {
+        "answer": "Wonderful Nightmare is primarily a fantasy romantic comedy-drama that blends humor, supernatural elements, and emotional family themes.",
+        "question": "What is the dominant genre of Wonderful Nightmare?"
+      },
+      {
+        "answer": "No, Wonderful Nightmare is a standalone feature film and is not part of any movie franchise or extended universe.",
+        "question": "Is Wonderful Nightmare part of a movie franchise?"
+      },
+      {
+        "answer": "The film follows Yeon-woo, a high-flying lawyer who dies prematurely due to a clerical error in heaven. To return to her real body, she is required to live for one month in the body of an ordinary housewife with a husband and two children.",
+        "question": "What is the main plot of Wonderful Nightmare?"
+      },
+      {
+        "answer": "No, Wonderful Nightmare does not contain a post-credit scene. The story concludes completely prior to the credits.",
+        "question": "Is there a post-credit scene in Wonderful Nightmare?"
+      },
+      {
+        "answer": "The movie stars Uhm Jung-hwa as the ambitious lawyer Yeon-woo and Song Seung-heon as her devoted husband, Sung-hwan.",
+        "question": "Who are the lead actors in Wonderful Nightmare?"
+      },
+      {
+        "answer": "Wonderful Nightmare was released in South Korea on August 13, 2015.",
+        "question": "When was Wonderful Nightmare originally released?"
+      },
+      {
+        "answer": "The movie was produced in South Korea, so its original spoken language is Korean.",
+        "question": "What language is Wonderful Nightmare originally in?"
+      },
+      {
+        "answer": "The movie was directed by South Korean filmmaker Kang Hyo-jin.",
+        "question": "Who directed Wonderful Nightmare?"
+      },
+      {
+        "answer": "Yes, it is generally considered a heart-warming and family-friendly film that emphasizes personal growth, love, and family dynamics.",
+        "question": "Is Wonderful Nightmare suitable for family viewing?"
+      },
+      {
+        "answer": "The original Korean title of the film translates to 'Miss Wife' (Mi-sseu Wa-i-peu).",
+        "question": "What is the original title of Wonderful Nightmare?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Light fantasy elements involving the afterlife with no frightening or horror imagery."
+      },
+      "language": {
+        "score": 2,
+        "description": "Occasional mild profanity or rude expressions, suitable for most audiences."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no violence, with brief slapstick or mild comedic altercations."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Casual social drinking depicted in normal workplace or domestic settings."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild references to married life and non-explicit intimate suggestions."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional weight dealing with premature death, family reconciliation, and life choices."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 8,
+      "emotion": 9,
+      "fantasy": 8,
+      "mystery": 2,
+      "romance": 6,
+      "science": 0,
+      "suspense": 2,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 23:49:59.331414",
+    "updated_at": "2026-07-27 23:49:59.331414"
+  }
 }
