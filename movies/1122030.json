@@ -516,5 +516,223 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1122030/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1122030,
+    "hash": "e1e62c91ca7e9138a5e35ffba3990d7f212b9019640d44a98b8a629505935e56",
+    "summary_one_sentence": "A highly trained super-soldier assassin teams up with her long-lost sister to destroy the rogue military commander who stole her childhood.",
+    "summary_short": "Raised in total isolation by a rogue military commander, Sita was engineered to be the ultimate weapon. Her world fractures when she uncovers horrific truths about her stolen past and original family. Driven by vengeance and a desire for freedom, she joins forces with her long-lost sister to shatter her creator's network. Together, the duo embarks on a high-stakes mission to dismantle his illicit super-soldier program once and for all.",
+    "summary_long": "Sita spent her entire life under the strict control of a rogue commander, forged into a lethal, elite assassin through a clandestine military project. Believing her mentor was her savior, she blindly executed missions until a chance encounter reveals evidence of her stolen childhood and true family lineage. Horrified to learn that her life was built on deception and violence, Sita cuts ties with her operative handlers. She seeks out her long-lost sister, who has been living in the shadows and harboring her own secrets about their shared past. Reunited, the sisters form an uneasy but unstoppable alliance bound by shared blood and a mutual desire for justice. Together, they navigate lethal ops, dodging elite hit squads sent by their former master to silence them. As they breach the commander's heavily fortified headquarters, Sita must confront the man who raised her and face the physical toll of her engineered abilities. In a explosive final showdown, the sisters dismantle the illicit program from the inside, reclaiming their autonomy and ensuring no other children fall victim to the enterprise.",
+    "synopsis": "Alpha is a high-octane action thriller that explores the bonds of sisterhood amidst the dark underbelly of black-ops warfare. Sita, a lethal assassin engineered from childhood by a rogue commander, leads a life of absolute precision and isolation. When a routine mission uncovers terrifying clues about her real family and stolen past, Sita turns against the only authority she has ever known. Joining forces with her long-lost sister, Sita embarks on a dangerous journey to expose her creator's illegal super-soldier program, delivering an adrenaline-fueled narrative packed with intense combat, dramatic betrayals, and ultimate redemption.",
+    "keywords": [
+      "assassin",
+      "super-soldier",
+      "revenge plot",
+      "sisterhood",
+      "rogue commander",
+      "stolen childhood",
+      "dark truth",
+      "illicit military program",
+      "raised in isolation",
+      "betrayal",
+      "action thriller",
+      "family secrets",
+      "deadly combat"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Identity & Self-Discovery",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Betrayal",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Vengeful",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Sita and her sister launch a high-stakes direct confrontation against the rogue commander to destroy the super-soldier program once and for all.",
+      "conflict": "Sita uncovers dark truths about her stolen childhood and her family, prompting her to rebel against her creator and his illicit military program.",
+      "resolution": "With her creator defeated and the military program dismantled, Sita and her sister begin rebuilding their lives and reclaiming the freedom denied to them.",
+      "introduction": "Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, carries out missions without knowing her true origins.",
+      "risingAction": "Reuniting with her long-lost sister, Sita joins forces to infiltrate the operative network, overcome deadly adversaries, and dismantle the program from within."
+    },
+    "characters": [
+      {
+        "name": "Sita",
+        "role": "Anti Hero",
+        "description": "A highly trained super-soldier and assassin who turns against her creator to avenge her stolen childhood and destroy the rogue program."
+      },
+      {
+        "name": "Sita's Sister",
+        "role": "Supporting Character",
+        "description": "Sita's long-lost sister who allies with her to help dismantle the illicit military operation."
+      },
+      {
+        "name": "The Rogue Commander",
+        "role": "Villain",
+        "description": "The ruthless military commander and creator of the super-soldier program who raised Sita in isolation and serves as the primary antagonist."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sita",
+        "target": "Rogue Commander",
+        "description": "Creator / Former Mentor / Enemies"
+      },
+      {
+        "source": "Sita",
+        "target": "Sita's Sister",
+        "description": "Sisters / Allies"
+      },
+      {
+        "source": "Sita's Sister",
+        "target": "Rogue Commander",
+        "description": "Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "alpha",
+      "jsonLd": {
+        "name": "Alpha",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program."
+      },
+      "keywords": [
+        "Alpha movie",
+        "Alpha action film",
+        "super soldier movie",
+        "assassin movie",
+        "Alpha movie plot",
+        "rogue military thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/alpha](https://movnix.com/movie/alpha)",
+      "metaTitle": "Alpha (2025) - Action Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Alpha - Action Thriller Movie",
+        "og:description": "A trained assassin teams up with her long-lost sister to dismantle the illicit military program that ruined her life."
+      },
+      "twitterCard": {
+        "twitter:title": "Alpha - Action Thriller Movie",
+        "twitter:description": "A trained assassin teams up with her long-lost sister to dismantle the illicit military program that ruined her life."
+      },
+      "metaDescription": "Discover Alpha: A trained super-soldier teams up with her long-lost sister to take down the rogue military program and creator that stole her childhood."
+    },
+    "faq": [
+      {
+        "answer": "Yes, 'Alpha' is the seventh installment in the YRF Spy Universe, sharing continuity with films like 'Ek Tha Tiger', 'War', and 'Pathaan'.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of 'Alpha' is action-thriller, blending intense espionage, combat sequences, and family revenge drama.",
+        "question": "What is the dominant genre of Alpha?"
+      },
+      {
+        "answer": "Alia Bhatt stars as Sita, the super-soldier assassin, alongside Sharvari who plays her twin sister, Durga.",
+        "question": "Who stars as Sita and her long-lost sister?"
+      },
+      {
+        "answer": "Bobby Deol plays the central villain, Colonel Fateh Singh Shekhawat, the rogue commander who raised and manipulated Sita.",
+        "question": "Who plays the main antagonist in the movie?"
+      },
+      {
+        "answer": "The film was directed by Shiv Rawail and produced by Aditya Chopra under Yash Raj Films.",
+        "question": "Who directed and produced Alpha?"
+      },
+      {
+        "answer": "Yes, 'Alpha' includes credit-sequence hooks and cameos that tease future developments within the YRF Spy Universe.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story follows Sita, a girl enhanced by an experimental serum and raised in isolation to be an elite assassin. After discovering the dark truth about her stolen childhood and family, she teams up with her sister Durga to destroy her creator and his illicit military operation.",
+        "question": "What is the central plot of Alpha?"
+      },
+      {
+        "answer": "Alpha is an Indian production originally filmed and released in Hindi, along with dubbed versions in languages like Tamil and Telugu.",
+        "question": "What language was Alpha originally produced in?"
+      },
+      {
+        "answer": "Yes, the film features guest appearances and connections to other established YRF Spy Universe agents, including Hrithik Roshan reprising his role as Kabir Dhaliwal.",
+        "question": "Does Alpha feature crossover cameos from other characters in the universe?"
+      },
+      {
+        "answer": "Alpha presents a stylish, high-stakes revenge thriller tone driven by female-led tactical combat, global espionage settings, and emotional family dynamics.",
+        "question": "What is the thematic tone and style of Alpha?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, mostly restricted to dark thriller atmospheres or tense confrontation scenes."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language typically found in action-thriller narratives."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence, assassination, martial arts combat, and military weaponry based on the super-soldier premise."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild potential presence of drugs, chemical enhancement, or medical substances related to super-soldier experimentation."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the core premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Strong emotional themes involving family betrayal, stolen childhood, conditioning, and vengeance."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 0,
+      "science": 7,
+      "suspense": 7,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 18:01:43.689505",
+    "updated_at": "2026-07-28 18:01:43.689505"
+  }
 }
