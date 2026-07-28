@@ -376,5 +376,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1617191/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1617191,
+    "hash": "7a7e4a4ae225af8c1eb13e2326306e2094fce3a1edb51b59ec6fcdb62350f49d",
+    "summary_one_sentence": "When a determined teenager tries to sabotage her mother's latest romance during a lavish getaway, her interference triggers a hilarious cascade of unexpected chaos.",
+    "summary_short": "An overprotective teenager is driven by a single mission: preventing her mom from making another disastrous mistake in love. When her mother falls for a charismatic suitor at a high-end luxury resort, the teen steps in to orchestrate a series of subtle sabotages. However, her well-meaning schemes quickly snowball into total turmoil, entangling guests and staff alike in the mess. Ultimately, she must navigate the fallout while learning to trust her mother's choices and opening herself up to unexpected romance.",
+    "summary_long": "Summer's Last Resort follows the story of an overly protective teenager who is haunted by her mother's long history of heartbreak and poor romantic choices. Determined to break the cycle once and for all, she tags along on an opulent tropical vacation when her mother is courted by a charming new boyfriend. Viewing the man with intense suspicion, the teen embarks on a covert crusade to expose his flaws and ruin the burgeoning romance before it gets serious. She recruits an unsuspecting local resort employee to assist in her increasingly elaborate schemes, ranging from staged awkward encounters to grand public embarrassing moments. However, as her plans constantly backfire, the peaceful luxury retreat descends into hilarious, unpredictable chaos that draws in other resort guests. Amidst the madness, the teen discovers that her co-conspirator might actually be someone special, forcing her to confront her own fear of intimacy. Meanwhile, her mother begins to realize the true motivation behind her daughter's frantic actions, leading to an emotional confrontation. In the end, the teen comes to realize that protecting her mother doesn't mean controlling her life, allowing both women to embrace love on their own terms.",
+    "synopsis": "Haunted by her mother's history of terrible romantic choices, a fiercely protective teenager goes to extreme lengths to stop history from repeating itself. When her mom is swept off her feet by a charming new suitor at an exclusive tropical getaway, the teen launches a covert mission to sabotage the relationship before it leads to another heartbreak. Enlisting the help of a charming resort insider, her scheming quickly spins out of control, turning a serene paradise into a chaotic battlefield of misplaced intentions, blossoming young love, and poignant family drama.",
+    "keywords": [
+      "luxury resort",
+      "protective daughter",
+      "single mother",
+      "mother-daughter bond",
+      "scheming teen",
+      "vacation chaos",
+      "accidental sabotage",
+      "meddling kid",
+      "summer vacation",
+      "relationship drama",
+      "family comedy",
+      "coming of age"
+    ],
+    "themes": [
+      {
+        "theme": "Family Loyalty",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Parent-Child Dynamics",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Good Intentions and Unintended Consequences",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Comedic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The cumulative meddling reaches a breaking point during a major resort event, threatening to exposed her actions and blow up the family dynamic completely.",
+      "conflict": "When her initial attempts to intervene hit a wall, she hatches a secretive plan to steer her mother away from the new love interest.",
+      "resolution": "In the aftermath of the chaos, honest conversations force a shift in understanding between mother and daughter regarding trust, boundaries, and growth.",
+      "introduction": "A protective teenager arrives at a high-end vacation getaway, determined to keep her mother from plunging into yet another disastrous romantic relationship.",
+      "risingAction": "Her covert scheming spiraling out of control, she triggers a series of unintended mishaps that turn the peaceful resort vacation into utter chaos."
+    },
+    "characters": [
+      {
+        "name": "Summer",
+        "role": "Hero",
+        "description": "A high-strung, hyper-competent teen who acts as her family's adult and schemes to sabotage her mom's new romance to save her family."
+      },
+      {
+        "name": "Milly",
+        "role": "Supporting Character",
+        "description": "Summer's free-spirited, fun-loving mom who lives on vibes and love, often leaving her daughter to manage the chaos."
+      },
+      {
+        "name": "Glenn",
+        "role": "Other",
+        "description": "Summer's high school vice principal and her mom's try-hard new boyfriend, whose presence drives the central conflict."
+      },
+      {
+        "name": "Sadie",
+        "role": "Comic Relief",
+        "description": "Glenn's chaotic daughter who adds extra unpredictable energy and humor to the disastrous vacation."
+      },
+      {
+        "name": "Grayson",
+        "role": "Supporting Character",
+        "description": "A resort vacationer who interacts with the teens during their chaotic mishaps."
+      },
+      {
+        "name": "Captain Otto",
+        "role": "Mentor",
+        "description": "A seasoned local boat captain who offers unique guidance and assistance during the tropical getaway."
+      },
+      {
+        "name": "Crosby",
+        "role": "Supporting Character",
+        "description": "A local resort guest involved in the various vacation antics and resort events."
+      },
+      {
+        "name": "Terry McDavid",
+        "role": "Comic Relief",
+        "description": "An eccentric resort guest whose interactions elevate the comedic vacation chaos."
+      },
+      {
+        "name": "Celine McDavid",
+        "role": "Supporting Character",
+        "description": "Terry's counterpart at the resort, contributing to the quirky atmosphere of the trip."
+      },
+      {
+        "name": "Dieter",
+        "role": "Supporting Character",
+        "description": "A resort staff member involved in facilitating the extravagant Caribbean getaway activities."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Teenager (Daughter)",
+        "target": "Mother",
+        "description": "Parent/Child, Protective/Overprotective Daughter",
+        "source_role": "Protagonist",
+        "target_role": "Mother"
+      },
+      {
+        "source": "Teenager (Daughter)",
+        "target": "Mother's New Boyfriend",
+        "description": "Adversaries, Saboteur/Target",
+        "source_role": "Protagonist",
+        "target_role": "Antagonist / Love Interest to Mother"
+      },
+      {
+        "source": "Mother",
+        "target": "Mother's New Boyfriend",
+        "description": "Romantic Partners",
+        "source_role": "Mother",
+        "target_role": "Love Interest"
+      },
+      {
+        "source": "Teenager (Daughter)",
+        "target": "Resort Staff / Guests",
+        "description": "Unwitting Accomplices / Victims of Chaos",
+        "source_role": "Protagonist",
+        "target_role": "Collateral Chaos"
+      }
+    ],
+    "seo": {
+      "slug": "summers-last-resort",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/summers-last-resort](https://movnix.com/movie/summers-last-resort)",
+        "name": "Summer's Last Resort",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos."
+      },
+      "keywords": [
+        "Summers Last Resort",
+        "Summer's Last Resort movie",
+        "teen comedy movie",
+        "family vacation movie",
+        "Summer's Last Resort synopsis",
+        "luxury vacation chaos movie"
+      ],
+      "canonical": "[https://movnix.com/movie/summers-last-resort](https://movnix.com/movie/summers-last-resort)",
+      "metaTitle": "Summer's Last Resort (2026) - Plot, Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Summer's Last Resort - Official Movie Synopsis",
+        "og:description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos."
+      },
+      "twitterCard": {
+        "twitter:title": "Summer's Last Resort - Official Movie Synopsis",
+        "twitter:description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos."
+      },
+      "metaDescription": "A teen tries to save her mom from a bad relationship, accidentally turning a luxury vacation into total chaos. Discover 'Summer's Last Resort' on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The movie follows a high-strung teenager named Summer who accompanies her free-spirited mom on a luxury resort vacation along with her mom's new boyfriend, who happens to be her vice principal. Determined to break them up and prevent another disastrous relationship, Summer's secret scheme accidentally turns the vacation into complete chaos.",
+        "question": "What is the main plot of Summer's Last Resort?"
+      },
+      {
+        "answer": "The dominant genre of Summer's Last Resort is comedy, specifically a comedy featuring family vacation hijinks and coming-of-age themes.",
+        "question": "What is the dominant genre of Summer's Last Resort?"
+      },
+      {
+        "answer": "No, Summer's Last Resort is a standalone movie and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is Summer's Last Resort part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there is no post-credits or mid-credits scene in Summer's Last Resort; the story concludes fully before the credits end.",
+        "question": "Is there a post-credits scene in Summer's Last Resort?"
+      },
+      {
+        "answer": "The film stars Violet McGraw as Summer, Sophia Bush as her mom Milly, and Jerry O'Connell as Glenn, her mom's boyfriend and school vice principal.",
+        "question": "Who stars in Summer's Last Resort?"
+      },
+      {
+        "answer": "The movie was directed by Melanie Scrofano.",
+        "question": "Who directed Summer's Last Resort?"
+      },
+      {
+        "answer": "Summer's Last Resort was released as an original movie available for streaming on Tubi, as well as on digital VOD platforms such as Apple TV.",
+        "question": "Where can I watch Summer's Last Resort?"
+      },
+      {
+        "answer": "The film is rated TV-14 / 14+ for its humor, crude language, and mild sexual innuendo.",
+        "question": "What is the age rating for Summer's Last Resort?"
+      },
+      {
+        "answer": "No, Summer's Last Resort is an original fictional screenplay written specifically for the screen.",
+        "question": "Is Summer's Last Resort based on a book or true story?"
+      },
+      {
+        "answer": "The movie has a running time of approximately 1 hour and 37 minutes (97 minutes).",
+        "question": "What is the runtime of Summer's Last Resort?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening themes present."
+      },
+      "language": {
+        "score": 2,
+        "description": "Likely contains mild teen slang or mild profanity suitable for a coming-of-age comedy."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no violence, limited to mild comedic chaos or slapstick accidents."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal substance use, limited to casual adult alcohol consumption in a resort setting."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; possible mild romantic or dating themes."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity focused on family dynamics, divorce, and parent-child relationships."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 3,
+      "violence": 1
+    },
+    "created_at": "2026-07-28 07:08:46.60177",
+    "updated_at": "2026-07-28 07:08:46.60177"
+  }
 }
