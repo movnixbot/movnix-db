@@ -603,5 +603,274 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1094473/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1094473,
+    "hash": "815a11f94e196d9e5c2b164f44d8d4dfbe7a22051c3c56f5a41c423d6bc1bd75",
+    "summary_one_sentence": "Follow the journey of Bambi, a young roe deer, as he grows from a vulnerable fawn into a wise forest leader while navigating nature's beauty and the ever-present dangers of human hunters.",
+    "summary_short": "Bambi: A Tale of Life in the Woods chronicles the poignant journey of a young male roe deer coming of age in a dense European forest. From his joyous early days exploring nature alongside his mother, Bambi quickly learns that the wilderness holds both breathtaking wonder and deadly perils. After tragically losing his mother to human hunters, he relies on the quiet wisdom of his father, the Great Prince, to survive. Through harsh winters, finding love, and facing man's encroachment, Bambi matures into a resilient guardian of the forest.",
+    "summary_long": "Born in a secluded thicket, the young roe deer Bambi enters a world filled with wonder, vibrant wildlife, and gentle life lessons under his mother's watchful care. As he grows, Bambi learns the intricate language of the forest, forging bonds with other woodland creatures and discovering the joy of youth. However, innocence gives way to harsh reality when winter arrives and human hunters enter the woods, leading to the devastating loss of his mother. Left to navigate the wilderness alone, Bambi is guided by his mysterious and majestic father, the Great Prince, who teaches him the caution and discipline needed to survive. Through the changing seasons, Bambi learns to defend himself against natural rivals and experiences the deep bond of mating as he courts Faline. Yet the threat of Man constantly looms over the forest, bringing dogs, fire, and gunfire that test Bambi's instincts to their absolute limits. Enduring injuries and narrow escapes, Bambi absorbs the ultimate truth about human fallibility and the cycle of existence. Ultimately, Bambi takes his place as a solitary, wise leader of the forest, passing on his knowledge to a new generation of fawns.",
+    "synopsis": "Based on Felix Salten's classic 1923 novel, this compelling adaptation offers an immersive look into the life of Bambi, a male roe deer navigating the bittersweet realities of the wild. Spanning from his birth to his eventual ascension as a elder of the woods, the narrative captures the profound beauty and inherent dangers of the natural world. Audiences follow Bambi through key milestones of growth, including his early education under his mother's care, the brutal loss inflicted by human intrusion, and his eventual mentorship under the formidable Great Prince. Combining dynamic drama with rich family appeal, the story highlights themes of resilience, instinct, love, and the ongoing struggle between nature and mankind.",
+    "keywords": [
+      "coming of age",
+      "anthropomorphic animals",
+      "loss of a parent",
+      "hunter vs prey",
+      "nature vs humanity",
+      "forest ecosystem",
+      "roe deer",
+      "woodland setting",
+      "survival",
+      "circle of life",
+      "father son relationship",
+      "wilderness",
+      "animal perspective"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Loss and Grief",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Human vs. Nature",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.72
+      }
+    ],
+    "story_structure": {
+      "climax": "Bambi faces a perilous confrontation involving human hunters and hunting dogs, forcing him to apply all the survival wisdom he has accumulated in a high-stakes struggle to stay alive.",
+      "conflict": "Bambi and the animals of the forest must constantly navigate the terrifying and destructive threat posed by human hunters, known as 'He,' alongside the harsh realities of wild survival.",
+      "resolution": "Having fully matured into a solitary and wise stag, Bambi embraces his role as a guardian of the woods, stepping into the footsteps of his father to guide the next generation.",
+      "introduction": "Bambi is born in the heart of the forest, spending his early life exploring the beauty and mysteries of nature alongside his mother and other young woodland creatures.",
+      "risingAction": "As Bambi grows, he encounters severe winters, endures profound personal loss, finds a mate, and learns crucial lessons about vigilance and nature's laws from the wise Old Prince."
+    },
+    "characters": [
+      {
+        "name": "Bambi",
+        "role": "Hero",
+        "description": "A young roe deer who grows from a curious fawn into a mature forest leader, overcoming tragedy and learning to navigate the dangers of the wilderness."
+      },
+      {
+        "name": "The Great Prince / Bambi's Father",
+        "role": "Mentor",
+        "description": "The wise and revered stag of the forest who guides Bambi in surviving harsh conditions and escaping human hunters."
+      },
+      {
+        "name": "Bambi's Mother",
+        "role": "Mentor",
+        "description": "A caring figure who nurtures Bambi during his early life and teaches him essential survival skills before her tragic death."
+      },
+      {
+        "name": "Faline",
+        "role": "Supporting Character",
+        "description": "A gentle female deer and childhood companion who eventually becomes Bambi's mate."
+      },
+      {
+        "name": "The Hunter / Man",
+        "role": "Villain",
+        "description": "An unseen yet pervasive threat responsible for destroying forest wildlife and disturbing the natural balance."
+      },
+      {
+        "name": "The Narrator",
+        "role": "Other",
+        "description": "Voiced by Mylène Farmer (and international dubs), guiding the viewer through Bambi's life journey and reflections on nature."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bambi",
+        "target": "Bambi's Mother",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Bambi",
+        "target": "The Great Prince",
+        "description": "Father/Son & Mentor/Protege"
+      },
+      {
+        "source": "Bambi",
+        "target": "Faline",
+        "description": "Cousins / Mates"
+      },
+      {
+        "source": "Bambi",
+        "target": "Gobo",
+        "description": "Cousins / Childhood Friends"
+      },
+      {
+        "source": "Bambi",
+        "target": "Ronno",
+        "description": "Rivals"
+      },
+      {
+        "source": "Faline",
+        "target": "Gobo",
+        "description": "Siblings (Twins)"
+      },
+      {
+        "source": "Aunt Ena",
+        "target": "Faline",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Aunt Ena",
+        "target": "Gobo",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Bambi's Mother",
+        "target": "Aunt Ena",
+        "description": "Sisters / Companions"
+      },
+      {
+        "source": "Faline",
+        "target": "Ronno",
+        "description": "Suitor / Love Interest (Unrequited)"
+      }
+    ],
+    "seo": {
+      "slug": "bambi-a-tale-of-life-in-the-woods",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/bambi-a-tale-of-life-in-the-woods](https://movnix.com/movie/bambi-a-tale-of-life-in-the-woods)",
+        "name": "Bambi: A Tale of Life in the Woods",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Drama",
+          "Family"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The life of Bambi, a male roe deer, from his birth through childhood, the loss of his mother, the finding of a mate, the lessons he learns from his father, and the experience he gains about the dangers posed by human hunters in the forest."
+      },
+      "keywords": [
+        "bambi a tale of life in the woods",
+        "bambi synopsis",
+        "bambi movie",
+        "felix salten bambi",
+        "roe deer story"
+      ],
+      "canonical": "[https://movnix.com/movie/bambi-a-tale-of-life-in-the-woods](https://movnix.com/movie/bambi-a-tale-of-life-in-the-woods)",
+      "metaTitle": "Bambi: A Tale of Life in the Woods - Synopsis & Details",
+      "openGraph": {
+        "og:title": "Bambi: A Tale of Life in the Woods - Story & Overview",
+        "og:description": "Follow Bambi, a male roe deer, through growth, loss, and survival as he navigates the dangers posed by human hunters in the forest."
+      },
+      "twitterCard": {
+        "twitter:title": "Bambi: A Tale of Life in the Woods - Story & Overview",
+        "twitter:description": "Follow Bambi, a male roe deer, through growth, loss, and survival as he navigates the dangers posed by human hunters in the forest."
+      },
+      "metaDescription": "Follow Bambi, a male roe deer, through growth, loss, and survival as he navigates the dangers posed by human hunters in the forest."
+    },
+    "faq": [
+      {
+        "answer": "The story is primarily a coming-of-age drama and nature fiction, focusing on the realistic growth, survival, and challenges of wildlife.",
+        "question": "What is the dominant genre of the story?"
+      },
+      {
+        "answer": "Yes. Disney's famous 1942 animated adaptation of the story expanded into a franchise that includes a midquel, Bambi II (2006), as well as books, merchandise, and appearances across Disney media.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, traditional animated film adaptations of Bambi from the classic era do not include post-credits scenes.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The original book was written by Austrian author Felix Salten and was published in 1923.",
+        "question": "Who wrote the original story Bambi: A Tale of Life in the Woods?"
+      },
+      {
+        "answer": "In Felix Salten's original novel, Bambi is a European roe deer. However, in the iconic 1942 Disney film adaptation, he was changed to a white-tailed deer to better suit North American wildlife.",
+        "question": "What species of deer is Bambi?"
+      },
+      {
+        "answer": "Bambi's mate is Faline, a female deer whom he meets in his childhood and later fights another stag to protect and pair with in adulthood.",
+        "question": "Who is Bambi's love interest in the story?"
+      },
+      {
+        "answer": "The loss of his mother, who is shot and killed by human hunters during a harsh winter, forcing Bambi to learn self-reliance early in life.",
+        "question": "What is the primary tragedy in Bambi's youth?"
+      },
+      {
+        "answer": "His father, known as the Great Prince of the Forest, steps in to mentor Bambi and teach him the wisdom needed to survive in the wild.",
+        "question": "Who guides and teaches Bambi after his mother's death?"
+      },
+      {
+        "answer": "Human hunters (referred to simply as 'Man'), who bring firearms, dogs, and fire into the forest, causing widespread danger and destruction.",
+        "question": "What represents the greatest threat to the forest animals?"
+      },
+      {
+        "answer": "Key themes include the circle of life, coming of age, grief and resilience, the beauty and severity of nature, and the destructive impact of human intrusion on wildlife.",
+        "question": "What are the central themes explored in the narrative?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Contains suspenseful, frightening sequences involving forest fires and hunting dogs chasing animals."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or strong language present."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Depicts natural threats and human hunters shooting animals, including the death of Bambi's mother, though largely off-screen or rendered tastefully without explicit gore."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present; contains mild, innocent romantic themes among woodland creatures."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Features emotionally heavy themes including parental loss, grief, survival, and peril in nature."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 22:24:25.490934",
+    "updated_at": "2026-07-28 22:24:25.490934"
+  }
 }
