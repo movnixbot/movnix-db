@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.3114,
+    "popularity": 2.795,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://amziahking.film/",
@@ -447,24 +447,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 2186238,
-      "name": "Andrew Patterson",
-      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 10968,
-      "name": "David Heyman",
-      "profilePath": "/m39R6xbVfHfCEO4H0s2Fhwh9mkt.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 949132,
       "name": "Jeffrey Clifford",
       "profilePath": "/2g6HLXGwSM5ev7bC5Pjdp8isrGe.jpg",
@@ -474,12 +456,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2213707,
-      "name": "Michael Heimler",
-      "profilePath": null,
+      "tmdbPersonId": 2186238,
+      "name": "Andrew Patterson",
+      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2186238,
+      "name": "Andrew Patterson",
+      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -492,9 +483,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1619915,
-      "name": "Will Greenfield",
-      "profilePath": null,
+      "tmdbPersonId": 10968,
+      "name": "David Heyman",
+      "profilePath": "/m39R6xbVfHfCEO4H0s2Fhwh9mkt.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -510,12 +501,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2186238,
-      "name": "Andrew Patterson",
-      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
+      "tmdbPersonId": 2213707,
+      "name": "Michael Heimler",
+      "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1619915,
+      "name": "Will Greenfield",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
@@ -563,5 +563,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1124142/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1124142,
+    "hash": "5796a807ec289e789356c552587ef98d6c51bf5acf376ddc02a4e7cffa51a434",
+    "summary_one_sentence": "Set in rural Oklahoma, charismatic beekeeper and musician Amziah King reunites with his estranged foster daughter Kateri, taking her under his wing to protect their home and honey business from cutthroat rivals.",
+    "summary_short": "Deep within the backwoods of rural Oklahoma, charismatic musician and beekeeper Amziah King leads a close-knit group of misfits while running a local honey operation. When his long-estranged foster daughter Kateri unexpectedly returns after years apart, Amziah welcomes her back and begins mentoring her in the family craft. However, as ruthless rivals and powerful corporate interests attempt to crush small regional businesses, Amziah and Kateri must defend their livelihood and community. Together, they navigate a chaotic web of local intrigue, musical camaraderie, and criminal threats to protect what they have built.",
+    "summary_long": "In rural Oklahoma, Amziah King lives a grounded life as a beloved community figure, bandleader, and master beekeeper who views his town through the harmonious balance of a beehive. His quiet routine shifts when his former foster daughter, Kateri, seeks him out following a series of personal tragedies. Eager to reconnect, Amziah brings Kateri into his world, teaching her the delicate art of apiculture alongside his band of bluegrass musicians. However, the local honey market turns out to be far more dangerous than expected as powerful corporate interests begin systematically squeezing out independent operators. Led by a ruthless tycoon, Amziah's rivals attempt to seize control of his apiary and destroy the local economy. When threats escalate into open hostility, Kateri's protective instincts flare up, driving her to orchestrate retaliatory schemes and heists against their aggressors. Amziah attempts to temper her vengeance with patience and empathy, urging her to trust in community solidarity rather than violence. Through music, clever maneuvers, and shared determination, the duo manages to fend off the criminal cabal targeting their operation. Ultimately, while the conflict leaves lasting emotional marks on Kateri, Amziah succeeds in instilling in her a deeper sense of home and belonging.",
+    "synopsis": "The Rivals of Amziah King is a Southern crime drama and character study set against the vibrant backdrop of rural Oklahoma. Charismatic and deeply empathetic, Amziah King is an anchor of his small town, balancing his passion for bluegrass music with a thriving independent honey operation. When his former foster daughter Kateri returns to his life, Amziah seizes the chance to heal old bonds and mentor her as his successor in the family business. However, as corrupt local forces and external competitors target small local producers, Amziah and Kateri find themselves entangled in a high-stakes struggle to defend their livelihood. Blending musical charm with tense regional crime capers, the story explores themes of justice, redemption, and the enduring power of community.",
+    "keywords": [
+      "beekeeping",
+      "foster father",
+      "family reunion",
+      "small town crime",
+      "rural thriller",
+      "musician",
+      "business under threat",
+      "protective mentor",
+      "community anchor",
+      "rivalry",
+      "local conflict",
+      "paternal bond",
+      "honey business",
+      "reunion plot"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Community",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The escalating threats reach a critical head, forcing Amziah to directly confront his rivals in a decisive stand to defend his home, his business, and Kateri's future.",
+      "conflict": "As Amziah and Kateri work to rebuild their emotional bond, external pressures emerge that threaten Amziah's livelihood and the peace of their surrounding community.",
+      "resolution": "With the immediate danger confronted, Amziah and Kateri restore stability to their lives, reaffirming their family bond and their place within the community.",
+      "introduction": "Amziah King leads a quiet, deeply rooted life in rural Oklahoma as a beekeeper, musician, and respected community figure, before unexpected circumstances bring his former foster daughter, Kateri, back into his life after years apart.",
+      "risingAction": "Tensions escalate as hostile forces target Amziah's honey business, forcing him and Kateri to navigate complex local rivalries and draw upon their shared resilience to protect what they care about."
+    },
+    "characters": [
+      {
+        "name": "Amziah King",
+        "role": "Hero",
+        "description": "A charismatic, musically gifted beekeeper and community anchor who protects his honey business and reconnects with his foster daughter."
+      },
+      {
+        "name": "Kateri",
+        "role": "Anti Hero",
+        "description": "Amziah's former foster daughter who reunites with him and embarks on a headstrong path of schemes and revenge to protect their livelihood."
+      },
+      {
+        "name": "Rival Beekeeper / Kingpin",
+        "role": "Villain",
+        "description": "The ruthless opponent leading the opposition against Amziah's premier honey-making operation."
+      },
+      {
+        "name": "Community Elder / Mentor figure",
+        "role": "Mentor",
+        "description": "A seasoned local figure providing wisdom and guidance to Amziah as he navigates regional conflicts."
+      },
+      {
+        "name": "Bluegrass Bandmates / Local Allies",
+        "role": "Supporting Character",
+        "description": "Members of Amziah's inner circle and local community who support his honey operation and play music alongside him."
+      },
+      {
+        "name": "Town Eccentric",
+        "role": "Comic Relief",
+        "description": "A quirky local resident providing humor amidst the tension of the honey trade rivalries."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amziah King",
+        "target": "Kateri",
+        "description": "Foster Father / Foster Daughter, Mentor / Protégé"
+      },
+      {
+        "source": "Amziah King",
+        "target": "Cutthroat Rivals",
+        "description": "Rivals"
+      },
+      {
+        "source": "Kateri",
+        "target": "Cutthroat Rivals",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "the-rivals-of-amziah-king",
+      "jsonLd": {
+        "name": "The Rivals of Amziah King",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business."
+      },
+      "keywords": [
+        "The Rivals of Amziah King",
+        "The Rivals of Amziah King movie",
+        "Amziah King",
+        "foster daughter Kateri",
+        "beekeeper movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-rivals-of-amziah-king](https://movnix.com/movie/the-rivals-of-amziah-king)",
+      "metaTitle": "The Rivals of Amziah King - Movie Overview & Details",
+      "openGraph": {
+        "og:title": "The Rivals of Amziah King - Movie Overview & Details",
+        "og:description": "Follow Amziah King as he reunites with his foster daughter Kateri and protects his honey business from local threats."
+      },
+      "twitterCard": {
+        "twitter:title": "The Rivals of Amziah King - Movie Overview & Details",
+        "twitter:description": "Follow Amziah King as he reunites with his foster daughter Kateri and protects his honey business from local threats."
+      },
+      "metaDescription": "Discover The Rivals of Amziah King. Follow Amziah as he reunites with his foster daughter Kateri and defends his honey business."
+    },
+    "faq": [
+      {
+        "answer": "The Rivals of Amziah King is primarily a crime thriller and drama set against the backdrop of rural America.",
+        "question": "What is the dominant genre of The Rivals of Amziah King?"
+      },
+      {
+        "answer": "No, the film is an original standalone crime thriller and is not part of any existing franchise or cinematic universe.",
+        "question": "Is The Rivals of Amziah King part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes after the film concludes.",
+        "question": "Is there a post-credit scene in The Rivals of Amziah King?"
+      },
+      {
+        "answer": "Matthew McConaughey stars as the main character, Amziah King, a charismatic mandolin player and beekeeper.",
+        "question": "Who stars as Amziah King in the movie?"
+      },
+      {
+        "answer": "The movie was written and directed by Andrew Patterson, who previously gained acclaim for his debut feature The Vast of Night.",
+        "question": "Who directed and wrote The Rivals of Amziah King?"
+      },
+      {
+        "answer": "The ensemble cast includes Angelina LookingGlass, Kurt Russell, Cole Sprouse, Owen Teague, Rob Morgan, Scott Shepherd, Tony Revolori, and Jake Horowitz.",
+        "question": "Who else is in the cast alongside Matthew McConaughey?"
+      },
+      {
+        "answer": "The film follows Amziah King, a musician and beekeeper, who reunites with his former foster daughter Kateri to build a honey business, only to face violent threats from local rivals.",
+        "question": "What is the main plot of The Rivals of Amziah King?"
+      },
+      {
+        "answer": "The runtime of the film is approximately 130 minutes (2 hours and 10 minutes).",
+        "question": "What is the runtime of The Rivals of Amziah King?"
+      },
+      {
+        "answer": "The film made its world premiere at the SXSW Film & TV Festival in March 2025, followed by a US theatrical release in August 2026.",
+        "question": "When was The Rivals of Amziah King released?"
+      },
+      {
+        "answer": "Although the story is set in rural Oklahoma, principal photography took place on location in various parts of Alabama.",
+        "question": "Where was the film shot?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low levels of horror, with occasional tense and unsettling thrill-seeking atmosphere."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and profanity throughout crime and conflict scenes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong crime-related violence, physical altercations, and weapon threats."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate depictions of alcohol consumption, tobacco use, and references to criminal trade."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual content, limited to mild suggestive dialogue or references."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Intense dramatic themes involving family reconciliation, danger, and community threats."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 4
+    },
+    "created_at": "2026-07-27 23:49:58.744551",
+    "updated_at": "2026-07-27 23:49:58.744551"
+  }
 }
