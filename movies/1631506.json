@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 67.5226,
+    "popularity": 72.4201,
     "voteAverage": 5.2,
     "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1631506",
@@ -338,5 +338,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1631506/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1631506,
+    "hash": "5fefbf35910f8378330f5e21a5e192b76fcd23e774bf5aad54c06c7a2814d8fd",
+    "summary_one_sentence": "After singer-songwriter Rosa Martín takes her own life on the estate of her callous lover, her vengeful ghost haunts his mansion to inflict a relentless nightmare on him and his family.",
+    "summary_short": "Devastated after being reduced to a mere sexual object by the man she loved, singer-songwriter Rosa Martín, known as La Ahorcada, ends her life in Fran's garden. Rather than passing on, her restless spirit remains bound to his estate, determined to force him to face the consequences of his cruelty. As her haunting intensifies, Rosa's relentless presence targets not just Fran, but everyone close to him. Her vengeful obsession ultimately transforms the lives of Fran and his family into an inescapable living hell.",
+    "summary_long": "Rosa Martín, a gifted singer-songwriter who performs under the stage name La Ahorcada, endures profound emotional heartbreak over her affection for Fran. Despite her devotion, Fran callously treats Rosa as nothing more than a temporary sexual object, discarding her feelings without remorse. Driven to utter despair, Rosa tragically takes her own life within the garden of Fran's estate. However, her death marks only the beginning of a supernatural retribution, as her spirit remains bound to the mansion. Refusing to be ignored or forgotten, the ghost of La Ahorcada begins to manifest with unsettling and hostile intensity. She launches a chilling crusade to teach Fran an unforgettable lesson about mistreatment and emotional ruin. As the terrifying supernatural occurrences grow stronger, Fran's once-comfortable life begins to unravel. The spirit's malice eventually expands beyond Fran, ensnaring his innocent family members in her path of vengeance. Ultimately, Rosa's tragic obsession turns the grand mansion into a claustrophobic nightmare, plunging Fran and his loved ones into a chilling fight for psychological and physical survival.",
+    "synopsis": "The Hanged Woman is a haunting horror-drama centered on Rosa Martín, a talented singer-songwriter known as La Ahorcada. After enduring profound heartache from Fran—a man who objectifies her and dismisses her worth—Rosa takes her own life on the grounds of his lavish estate. Bound to the physical realm by her tragic end and a refusal to be cast aside, Rosa's spirit remains trapped within Fran's mansion. Driven by a vengeful desire to teach her former lover a lesson, her ghost initiates a terrifying campaign of haunting that targets Fran and his family, turning their comfortable existence into a living hell.",
+    "keywords": [
+      "vengeful spirit",
+      "haunted mansion",
+      "revenge plot",
+      "singer-songwriter",
+      "toxic relationship",
+      "obsession",
+      "supernatural retribution",
+      "psychological torment",
+      "unrequited love",
+      "ghost story",
+      "objectification",
+      "family in peril",
+      "posthumous vengeance"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Obsession",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Toxic Relationships",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Guilt and Retribution",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Supernatural Haunting",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A tense and potentially catastrophic confrontation occurs, where the consequences of La Ahorcada's haunting and Fran's past actions converge, demanding a definitive outcome.",
+      "conflict": "The unquiet spirit of La Ahorcada refuses to depart, her unresolved anger and desire for retribution creating an escalating supernatural presence within Fran's home.",
+      "resolution": "The aftermath of the climax unfolds, revealing the lasting effects of La Ahorcada's haunting on Fran and his family, and the ultimate fate of her restless spirit.",
+      "introduction": "The tragic end of La Ahorcada, a talented singer, sets the stage for a haunting tale within the mansion of her former lover.",
+      "risingAction": "La Ahorcada's ghostly manifestations intensify, slowly chipping away at Fran's peace and impacting the lives of his family. Her presence becomes increasingly undeniable and disruptive."
+    },
+    "characters": [
+      {
+        "name": "Rosa Martín (La Ahorcada)",
+        "role": "Anti Hero",
+        "description": "A singer-songwriter who takes her own life and returns as a vengeful ghost to torment the man who objectified her."
+      },
+      {
+        "name": "Fran",
+        "role": "Villain",
+        "description": "The selfish man who mistreated Rosa and whose household becomes the target of her haunting."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Rosa Martín (La Ahorcada)",
+        "target": "Fran",
+        "description": "Lover / Tormentor and Haunter"
+      },
+      {
+        "source": "Rosa Martín (La Ahorcada)",
+        "target": "Fran's Family",
+        "description": "Victims of Haunting / Targets of Revenge"
+      },
+      {
+        "source": "Fran",
+        "target": "Fran's Family",
+        "description": "Family"
+      }
+    ],
+    "seo": {
+      "slug": "the-hanged-woman",
+      "jsonLd": {
+        "name": "The Hanged Woman",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Rosa Martín",
+            "@type": "Person",
+            "alternateName": "La Ahorcada"
+          },
+          {
+            "name": "Fran",
+            "@type": "Person"
+          }
+        ],
+        "description": "Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the garden of the man she loved, Fran. Her ghost remains in his mansion, determined to teach him a lesson and turning his family's life into a living hell."
+      },
+      "keywords": [
+        "The Hanged Woman",
+        "La Ahorcada",
+        "Rosa Martin",
+        "supernatural thriller",
+        "horror movie synopsis",
+        "ghost story"
+      ],
+      "canonical": "[https://movnix.com/movie/the-hanged-woman](https://movnix.com/movie/the-hanged-woman)",
+      "metaTitle": "The Hanged Woman - Synopsis, Story & SEO Overview",
+      "openGraph": {
+        "og:title": "The Hanged Woman - Official Overview & Story",
+        "og:description": "When singer-songwriter Rosa Martín takes her life, her haunting ghost refuses to be ignored in Fran's mansion. Read the full story of revenge and horror."
+      },
+      "twitterCard": {
+        "twitter:title": "The Hanged Woman - Overview & Story",
+        "twitter:description": "The ghost of singer Rosa Martín haunts her former lover's mansion in this chilling tale of obsession and revenge."
+      },
+      "metaDescription": "Discover The Hanged Woman: After Rosa Martín ends her life, her vengeful ghost haunts Fran's mansion, turning his family's life into a nightmare."
+    },
+    "faq": [
+      {
+        "answer": "The Hanged Woman (La Ahorcada) is primarily a supernatural horror thriller.",
+        "question": "What is the dominant genre of The Hanged Woman?"
+      },
+      {
+        "answer": "No, The Hanged Woman is a standalone Spanish feature film, not part of a franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the movie does not contain a post-credits or mid-credits scene setting up future installments.",
+        "question": "Is there a post-credit scene in The Hanged Woman?"
+      },
+      {
+        "answer": "The plot follows singer-songwriter Rosa Martín (La Ahorcada), who dies by suicide in the garden of her toxic ex-lover, music producer Fran. Her vengeful spirit haunts his mansion to torment him and his family, leading to a clash with Fran's young daughter, Patti, a medium who must face the ghost to save her father.",
+        "question": "What is the overall plot of the film?"
+      },
+      {
+        "answer": "Yes, the film is based on the novel La ahorcada written by Mayte Navales, who also wrote the film's screenplay adaptation.",
+        "question": "Is The Hanged Woman based on a book?"
+      },
+      {
+        "answer": "The movie stars Amaia Salamanca as Rosa Martín (La Ahorcada), Eduardo Noriega as Fran, and Cosette Silguero as Fran's medium daughter Patti.",
+        "question": "Who stars in the lead roles of The Hanged Woman?"
+      },
+      {
+        "answer": "The film was directed by Spanish filmmaker Miguel Ángel Lamata.",
+        "question": "Who directed The Hanged Woman?"
+      },
+      {
+        "answer": "The movie was filmed and originally released in Spanish under the title La ahorcada.",
+        "question": "What is the original language of the film?"
+      },
+      {
+        "answer": "The film premiered in Spain in April 2026.",
+        "question": "When was The Hanged Woman released?"
+      },
+      {
+        "answer": "Principal photography took place in Spain, specifically around Aragon locations including Zaragoza and Teruel.",
+        "question": "Where was the movie filmed?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "The presence of a vengeful ghost haunting a mansion and tormenting individuals directly points to a horror narrative. The theme of obsession turning lives into 'a living hell' suggests a sustained, terrifying experience, aligning with a high horror score."
+      },
+      "language": {
+        "score": 3,
+        "description": "There is nothing in the overview to explicitly suggest strong language will be used, but it's a common element in narratives involving intense emotional conflict and revenge, so a low to moderate score is a reasonable assumption."
+      },
+      "violence": {
+        "score": 6,
+        "description": "The overview suggests psychological violence and the implication of suicide, along with potential for vengeful hauntings which could include violent acts. There's no explicit mention of physical violence beyond the act of suicide, but the intent to 'teach him a lesson' implies suffering for Fran."
+      },
+      "substance": {
+        "score": 1,
+        "description": "There is no indication of substance use or abuse in the provided overview. A minimal score is assigned as it could appear incidentally."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "The overview states Rosa was treated as 'nothing more than a sexual object,' which implies past sexual content or themes are central to the plot's motivation. While not explicitly showing sexual acts, the narrative is built around a character's experience of being objectified, which merits a moderate score."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "The overview describes themes of suicide, betrayal, revenge, obsession, and turning lives into a 'living hell.' These elements combined suggest extremely high emotional intensity, focusing on deep suffering, anger, and psychological torment."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 8,
+      "mystery": 6,
+      "romance": 3,
+      "science": 0,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 14:20:49.826365",
+    "updated_at": "2026-07-28 14:20:49.826365"
+  }
 }
