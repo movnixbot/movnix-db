@@ -1973,5 +1973,225 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1208348/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1208348,
+    "hash": "7a1fee54ac6952b6b441ba033983bd6cae8669207bf78f7e15085545fda33c6d",
+    "summary_one_sentence": "An American actor struggling in Tokyo finds unexpected purpose and genuine human connection when he takes a job playing surrogate roles for a Japanese 'rental family' agency.",
+    "summary_short": "Drifting without direction in Tokyo, an American actor accepts a job with a Japanese 'rental family' agency, where he is hired to pretend to be a relative, friend, or partner for various clients. As he takes on these substitute roles, he becomes deeply involved in the personal lives and emotional struggles of the strangers who hire him. Over time, the artificial nature of his performance begins to melt away, leaving him to navigate the fine line between acting a part and forming true emotional bonds. Ultimately, his experiences force him to reevaluate his own sense of belonging, identity, and purpose.",
+    "summary_long": "Feeling stuck in both his life and career, an American actor residing in Tokyo finds himself searching for meaning in an unfamiliar culture. Opportunity strikes when he is hired by a local 'rental family' agency, an business that provides stand-in actors to play roles such as absent fathers, grooms, or supportive friends for individuals needing to maintain social appearances or cope with loneliness. Initially viewing the job as merely an unusual acting gig to pay the bills, he approaches each assignment with professional distance. However, as he steps into the intimate spaces of his clients' lives, he discovers the profound pain, grief, and isolation that drive people to hire stranger-surrogates. Through shared moments—ranging from lighthearted family dinners to deeply personal confessions—he begins to care authentically for the people he was hired to deceive. As the boundaries between his real identity and his rented personas grow increasingly porous, he finds himself emotionally compromised by the affection and trust built on a fabricated premise. Facing the moral complexities of his work, he must confront what it truly means to be present for someone else. In helping strangers heal and find comfort, the actor undergoes his own emotional transformation, ultimately discovering a newfound sense of purpose and genuine human connection.",
+    "synopsis": "Set against the vibrant backdrop of modern Tokyo, Rental Family tells the story of an American actor navigating a period of personal stagnation and isolation abroad. Struggling to find meaningful work and a sense of belonging, his trajectory changes when he stumbles into a job with a Japanese 'rental family' agency—a specialized service where clients hire actors to play specific roles in their social or family lives. \n\nAssigned to play various surrogates—from an estranged father at a family gathering to a reliable companion during difficult personal transitions—he initial approaches the role as a routine acting challenge. Yet, as he immerses himself in the complex lives of his clients, he witnesses firsthand the quiet loneliness and societal pressures that lie beneath the surface of everyday life. What starts as a series of staged interactions slowly evolves into genuine empathy, pushing him to form authentic emotional bonds with the people he serves. \n\nA poignant blend of comedy and drama, Rental Family explores the delicate intersection of performance, solitude, and authentic human intimacy, examining how temporary facades can sometimes lead to the most real connections of all.",
+    "keywords": [
+      "rental family agency",
+      "tokyo setting",
+      "expat in japan",
+      "actor protagonist",
+      "found family",
+      "blurring fiction and reality",
+      "identity crisis",
+      "emotional connection",
+      "loneliness and isolation",
+      "cultural displacement",
+      "human connection",
+      "imposter syndrome",
+      "slice of life drama",
+      "bittersweet comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Human Connection",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Performance vs. Reality",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Loneliness and Alienation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Search for Purpose",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family and Relationships",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The weight of his fabricated lives comes to a head, forcing him to confront a situation where his performative facade can no longer mask genuine emotional stakes.",
+      "conflict": "He takes a job with a Japanese 'rental family' agency, forcing him to navigate the ethical and emotional friction between performing artificial roles and fulfilling real human needs.",
+      "resolution": "Through the profound connections made along the way, he gains a clearer sense of purpose, identity, and what it truly means to belong.",
+      "introduction": "An aimless American actor living in Tokyo struggles with feeling unfulfilled and disconnected from the culture and people around him.",
+      "risingAction": "Immersing himself in various stand-in assignments for strangers, he forms deep, unexpected bonds that increasingly blur the boundaries between acting and reality."
+    },
+    "characters": [
+      {
+        "name": "Phillip",
+        "role": "Hero",
+        "description": "A down-on-his-luck American actor in Tokyo who searches for purpose and genuine human connection through his work at a rental family agency."
+      },
+      {
+        "name": "Agency Founder",
+        "role": "Mentor",
+        "description": "The experienced head of the rental family company who guides Phillip through the emotional and ethical nuances of playing stand-in roles for strangers."
+      },
+      {
+        "name": "Agency Colleague",
+        "role": "Supporting Character",
+        "description": "A fellow performer at the agency who helps Phillip navigate Japanese culture and forms an authentic bond with him during assignments."
+      },
+      {
+        "name": "Agency Client",
+        "role": "Supporting Character",
+        "description": "A lonely individual hiring stand-in family members, whose genuine emotional needs challenge Phillip to look beyond the performance."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Phillip",
+        "target": "Tadao",
+        "description": "Employer / Employee & Business Partner"
+      },
+      {
+        "source": "Phillip",
+        "target": "Aoi",
+        "description": "Surrogate Father / Client Bond"
+      },
+      {
+        "source": "Phillip",
+        "target": "Clients",
+        "description": "Surrogate Role Player / Renting Customers"
+      },
+      {
+        "source": "Tadao",
+        "target": "Rental Family Agency Staff",
+        "description": "Founder & Manager / Employees"
+      }
+    ],
+    "seo": {
+      "slug": "rental-family",
+      "jsonLd": {
+        "name": "Rental Family",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality."
+      },
+      "keywords": [
+        "Rental Family movie",
+        "Rental Family film",
+        "Tokyo actor drama",
+        "Japanese rental family agency",
+        "Rental Family synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/rental-family](https://movnix.com/movie/rental-family)",
+      "metaTitle": "Rental Family (2026) - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Rental Family - Official Movie Overview",
+        "og:description": "An American actor in Tokyo joins a Japanese rental family agency, blurring performance and reality as he forms unexpected, genuine bonds."
+      },
+      "twitterCard": {
+        "twitter:title": "Rental Family - Movie Details",
+        "twitter:description": "An American actor in Tokyo joins a Japanese rental family agency, blurring performance and reality as he forms unexpected, genuine bonds."
+      },
+      "metaDescription": "An American actor in Tokyo joins a Japanese rental family agency, blurring performance and reality as he forms unexpected, genuine bonds."
+    },
+    "faq": [
+      {
+        "answer": "Rental Family is primarily a comedy-drama (dramedy). It balances lighthearted humor with heartfelt emotional themes about connection and identity.",
+        "question": "What is the dominant genre of Rental Family?"
+      },
+      {
+        "answer": "No, Rental Family is a standalone original film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Rental Family part of a movie franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Rental Family. Once the credits begin to roll, the story has concluded.",
+        "question": "Does Rental Family have a post-credit scene?"
+      },
+      {
+        "answer": "Academy Award winner Brendan Fraser stars in the lead role as the American actor living in Tokyo.",
+        "question": "Who stars in the lead role of Rental Family?"
+      },
+      {
+        "answer": "The movie was directed by Japanese filmmaker Hikari, who also co-wrote the screenplay alongside Stephen Blahut.",
+        "question": "Who directed Rental Family?"
+      },
+      {
+        "answer": "The film is set and shot in modern-day Tokyo, Japan.",
+        "question": "Where is Rental Family set?"
+      },
+      {
+        "answer": "Yes, while the movie features fictional characters, it is inspired by the real-life industry of rental family agencies in Japan, where people can hire professional actors to play relatives, friends, or companions.",
+        "question": "Is the concept of a 'rental family' in the movie based on real life?"
+      },
+      {
+        "answer": "The film features a mix of English and Japanese dialogue, reflecting the main character's experience as an expatriate in Tokyo.",
+        "question": "What languages are spoken in Rental Family?"
+      },
+      {
+        "answer": "The film was distributed by Searchlight Pictures.",
+        "question": "Which studio distributed Rental Family?"
+      },
+      {
+        "answer": "The plot follows an American actor in Tokyo who takes a job at a Japanese 'rental family' agency playing stand-in roles for strangers, leading him to form unexpected real-world human connections.",
+        "question": "What is the central story of Rental Family?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, terrifying scenes, or jump scares."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild profanity and conversational strong language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence or gore."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Occasional social drinking and smoking typical in urban drama settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content or nudity; mild romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional weight dealing with themes of loneliness, identity, and simulated relationships."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 5,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-07-28 22:11:11.849437",
+    "updated_at": "2026-07-28 22:11:11.849437"
+  }
 }
