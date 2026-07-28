@@ -348,5 +348,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1497325/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1497325,
+    "hash": "fc9c2cff8b28cace26d5186c44c3b72f05721cd052b7eb7869417b39e731c142",
+    "summary_one_sentence": "Aspiring Australian filmmaker Anthony Frith gets his big break when notorious B-movie studio The Asylum hires him to direct a low-budget dinosaur movie on an impossible six-day timeline.",
+    "summary_short": "Stuck making corporate videos, Australian director Anthony Frith reaches out to The Asylum, the production house famous for B-movie hits like Sharknado. Surprisingly, the studio hires him to helm a low-budget dinosaur flick titled The Land That Time Forgot in suburban Adelaide. Given just six days and a micro-budget, Frith decides to turn the camera on himself to document the unfolding mayhem. What results is a hilarious and insightful look at the chaotic realities of ultra-low-budget genre filmmaking.",
+    "summary_long": "Languishing in the mundane world of corporate videography, Australian director Anthony Frith decides to pursue his cinematic ambitions by reaching out directly to The Asylum, the notorious Hollywood studio responsible for Sharknado and countless mockbusters. To his surprise, the executives accept his proposal and task him with directing a lost-world dinosaur movie titled The Land That Time Forgot. Shot in suburban Adelaide, the project comes with staggering constraints: a micro-budget, an unpolished script, and a grueling six-day production schedule. Sensing an opportunity to capture something extraordinary, Frith decides to film a concurrent behind-the-scenes documentary about his directorial trial by fire. As production begins, Frith is forced to balance demanding Los Angeles executives, a bewildered cast, and severe resource limitations. The high-stress environment pushes his physical and emotional endurance to the limit while self-doubt creeps in at every turn. Yet, amidst costume malfunctions, extreme schedule pressures, and chaotic set logistics, Frith develops a newfound respect for the relentless hustle required to produce exploitation cinema. Ultimately, Mockbuster serves as both a riotous behind-the-scenes chronicle and a heartfelt homage to the passionate effort behind even the most infamous B-movies.",
+    "synopsis": "Mockbuster is a comedy-documentary that pulls back the curtain on the high-intensity, low-budget world of B-movie production house The Asylum. When struggling Australian filmmaker Anthony Frith reaches out to the infamous creators of Sharknado, he unexpectedly secures a contract to direct a dinosaur movie on home turf in Adelaide. Tasked with completing the entire feature in just six days on a shoestring budget, Frith documents his turbulent journey from corporate video director to feature filmmaker. Balancing demanding Hollywood executives, raw production challenges, and personal self-doubt, the documentary offers a humorous and surprisingly affectionate look at the grit, creativity, and sheer determination required to survive the wild landscape of independent genre cinema.",
+    "keywords": [
+      "filmmaking",
+      "mockbuster",
+      "The Asylum",
+      "B-movie production",
+      "low-budget cinema",
+      "creative compromise",
+      "behind the scenes",
+      "film industry satire",
+      "struggling director",
+      "direct-to-video",
+      "Hollywood hustle",
+      "indie film",
+      "cult movie culture"
+    ],
+    "themes": [
+      {
+        "theme": "Artistic Integrity vs. Commercialism",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Ambition and Compromise",
+        "confidence": 0.9
+      },
+      {
+        "theme": "The Chaos of Filmmaking",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Humorous",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Chaotic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Satirical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.72
+      }
+    ],
+    "story_structure": {
+      "climax": "With time running out and the film on the brink of total disaster, a critical production crisis forces the director to make a definitive choice between total compromise and finding an inventive way through the madness.",
+      "conflict": "The director's artistic vision and desire for creative integrity clash head-on with the studio's absurdly tight schedules, micro-budgets, and relentless demands for campy cash-ins.",
+      "resolution": "The filmmaker completes the project, coming away with a newfound perspective on the fine line between schlock and cinema, high art and low-budget movie magic.",
+      "introduction": "An ambitious, struggling filmmaker gets a unexpected chance to direct a movie when hired by The Asylum, the low-budget studio famous for infamous 'mockbusters' like Sharknado.",
+      "risingAction": "As production begins, chaos ensues on set; the filmmaker must navigate bizarre studio demands, mounting logistics mishaps, and an eccentric crew while trying to keep the film from unraveling entirely."
+    },
+    "characters": [
+      {
+        "name": "Anthony Frith",
+        "role": "Hero",
+        "description": "A struggling Australian filmmaker who seizes the high-stakes opportunity to direct a feature for The Asylum while navigating self-doubt, strict deadlines, and chaotic production."
+      },
+      {
+        "name": "David Michael Latt",
+        "role": "Mentor",
+        "description": "Co-founder and executive of The Asylum who greenlights the project and imparts the pragmatic, high-volume realities of B-movie filmmaking."
+      },
+      {
+        "name": "Brendan Petrizzo",
+        "role": "Supporting Character",
+        "description": "A hands-on producer at The Asylum who serves as the vital go-between for studio leadership and the director during set chaos."
+      },
+      {
+        "name": "Paul Bales",
+        "role": "Mentor",
+        "description": "Executive and COO at The Asylum who enforces the studio's tight scheduling constraints and micro-budget parameters."
+      },
+      {
+        "name": "David Rimawi",
+        "role": "Mentor",
+        "description": "CEO and co-founder of The Asylum who helps guide the studio's distinct mockbuster business model and production demands."
+      },
+      {
+        "name": "David Margetts",
+        "role": "Comic Relief",
+        "description": "An actor on set whose high energy and occasional tensions with the crew bring dynamic comedic friction to the behind-the-scenes shoot."
+      },
+      {
+        "name": "Michelle Bauer",
+        "role": "Supporting Character",
+        "description": "A veteran genre actress who brings experienced B-movie pedigree and stability to the fast-paced filming environment."
+      },
+      {
+        "name": "Michael Paré",
+        "role": "Supporting Character",
+        "description": "A seasoned actor whose presence lends star power and classic genre credibility to the low-budget movie within a movie."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anthony Frith",
+        "target": "David Michael Latt",
+        "description": "Director / Studio Executive (The Asylum)"
+      },
+      {
+        "source": "Anthony Frith",
+        "target": "David Rimawi",
+        "description": "Director / Studio CEO (The Asylum)"
+      },
+      {
+        "source": "Anthony Frith",
+        "target": "Paul Bales",
+        "description": "Director / Studio COO (The Asylum)"
+      },
+      {
+        "source": "Anthony Frith",
+        "target": "Brendan Petrizzo",
+        "description": "Director / Studio Producer"
+      },
+      {
+        "source": "David Michael Latt",
+        "target": "David Rimawi",
+        "description": "Co-founders of The Asylum"
+      },
+      {
+        "source": "David Michael Latt",
+        "target": "Paul Bales",
+        "description": "Co-founders & Business Partners at The Asylum"
+      }
+    ],
+    "seo": {
+      "slug": "mockbuster",
+      "jsonLd": {
+        "name": "Mockbuster",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A struggling filmmaker’s opportunity collides with chaos and compromise when Sharknado’s notorious studio, The Asylum, invites him to direct a 'mockbuster.'"
+      },
+      "keywords": [
+        "Mockbuster",
+        "Mockbuster movie",
+        "The Asylum",
+        "Sharknado studio",
+        "independent film",
+        "B-movie comedy"
+      ],
+      "canonical": "[https://movnix.com/movie/mockbuster](https://movnix.com/movie/mockbuster)",
+      "metaTitle": "Mockbuster Movie - Plot, Details & Synopsis",
+      "openGraph": {
+        "og:title": "Mockbuster Movie - Official Synopsis",
+        "og:description": "A struggling filmmaker’s opportunity collides with chaos when B-movie studio The Asylum hires him to direct a mockbuster."
+      },
+      "twitterCard": {
+        "twitter:title": "Mockbuster Movie - Official Synopsis",
+        "twitter:description": "A struggling filmmaker’s opportunity collides with chaos when B-movie studio The Asylum hires him to direct a mockbuster."
+      },
+      "metaDescription": "A struggling filmmaker gets his big break with B-movie studio The Asylum in Mockbuster. Read the full synopsis and details."
+    },
+    "faq": [
+      {
+        "answer": "Mockbuster is a behind-the-scenes documentary that follows Australian filmmaker Anthony Frith as he gets the opportunity to direct a micro-budget B-movie, The Land That Time Forgot, for the notorious low-budget studio The Asylum.",
+        "question": "What is Mockbuster about?"
+      },
+      {
+        "answer": "Mockbuster is a documentary that real-time chronicles the chaotic, six-day production process of making an Asylum low-budget film.",
+        "question": "Is Mockbuster a narrative film or a documentary?"
+      },
+      {
+        "answer": "No, Mockbuster is a standalone feature documentary, though it focuses on The Asylum, the studio famous for low-budget 'mockbuster' films and the Sharknado franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is documentary, specifically blending comedy and film industry behind-the-scenes non-fiction.",
+        "question": "What is the dominant genre of Mockbuster?"
+      },
+      {
+        "answer": "The documentary was directed and co-written by Australian filmmaker Anthony Frith, who also serves as the subject of the film.",
+        "question": "Who directed Mockbuster?"
+      },
+      {
+        "answer": "The film heavily features The Asylum, the independent American film company best known for producing low-budget direct-to-video films and mockbusters.",
+        "question": "Which real-life movie studio is featured in the film?"
+      },
+      {
+        "answer": "Frith is tasked with directing a lost-world dinosaur movie titled The Land That Time Forgot on a tight six-day shooting schedule.",
+        "question": "What specific movie is Anthony Frith trying to direct in the documentary?"
+      },
+      {
+        "answer": "The documentary was primarily filmed on location in suburban Adelaide, South Australia, along with segments shot at The Asylum's offices in Burbank, California.",
+        "question": "Where was Mockbuster filmed?"
+      },
+      {
+        "answer": "No, as a non-fiction documentary, Mockbuster does not feature a traditional narrative post-credits scene, though it highlights the real-world outcome and premiere of the resulting film.",
+        "question": "Is there a post-credits scene in Mockbuster?"
+      },
+      {
+        "answer": "In addition to director Anthony Frith, the documentary features executives from The Asylum, including David Rimawi, David Michael Latt, and Paul Bales, as well as actors Michael Paré and Eric Roberts.",
+        "question": "Who appears in the documentary?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Negligible horror elements, focusing on satirical comedy rather than fear or intense jumpscares."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong language and Hollywood set profanity typical of filmmaking frustrations."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal to low violence, mostly implied or slapstick comedic chaos associated with low-budget movie making."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor or casual depictions of alcohol or tobacco use during industry gatherings or stress."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit themes implied in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate thematic tension around creative compromise, professional failure, and industry pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 8,
+      "emotion": 5,
+      "fantasy": 3,
+      "mystery": 2,
+      "romance": 1,
+      "science": 3,
+      "suspense": 4,
+      "violence": 3
+    },
+    "created_at": "2026-07-28 17:06:47.7795",
+    "updated_at": "2026-07-28 17:06:47.7795"
+  }
 }
