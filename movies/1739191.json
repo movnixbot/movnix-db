@@ -1,0 +1,85 @@
+{
+  "movie": {
+    "tmdbId": 1739191,
+    "imdbId": null,
+    "title": "HORLA",
+    "originalTitle": "HORLA",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "1999-10-15",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 5,
+    "voteAverage": 7,
+    "voteCount": 10,
+    "homepage": "https://mock-movie-website.com/movies/1739191",
+    "posterPath": null,
+    "backdropPath": null,
+    "collectionId": null
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [],
+  "keywords": [],
+  "videos": [],
+  "images": [],
+  "ratings": [
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/1739191"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/1739191"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=1739191"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1739191/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1739191/en.vtt"
+    }
+  ]
+}
