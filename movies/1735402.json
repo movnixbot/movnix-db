@@ -162,5 +162,270 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1735402/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1735402,
+    "hash": "38a8fb9edb5fea99fcbb5fa6cf5e29a44199518348e93b416f0efd03d34137c9",
+    "summary_one_sentence": "Upon returning to her ancestral home in western Hunan during the Ghost Festival, An Yunman is scapegoated by her grief-stricken father after her brothers fall victim to mysterious corpse-demons.",
+    "summary_short": "As the Ghost Festival approaches under an ominous Blood Moon, An Yunman returns from Shanghai to her family's estate in Xiwutong, western Hunan. Her homecoming turns nightmare when her eldest and second brothers are brutally murdered in succession by sinister corpse-demons. Refusing to see the true supernatural threat, her father, An Bo, accuses Yunman of being a cursed harbinger of misfortune. Isolated and blamed, Yunman must confront both horrific supernatural entities and her family's hostility to uncover the truth.",
+    "summary_long": "Set against the eerie backdrop of western Hunan during the Ghost Festival, Crimson Shadows follows An Yunman as she returns home from Shanghai under a crimson Blood Moon. Her arrival at the An family residence in Xiwutong coincides with immediate, terrifying supernatural calamity. Shortly after her return, her eldest brother is viciously attacked and killed by a corpse-demon, sending shockwaves through the household. Before anyone can process the horror, her second brother meets a similar gruesome fate at the hands of the monstrous entity. Paralyzed by grief and ancient superstition, the patriarch An Bo refuses to seek logical answers and instead directs his fury inward at his third daughter. He convincedly accuses Yunman of being a cursed bringer of disaster whose presence invited dark spirits to destroy their lineage. With her father turning the entire household against her, Yunman finds herself completely isolated amidst rising peril. As corpse-demons continue to stalk the shadows, Yunman must race against time to defend herself, unravel family secrets, and expose the genuine source of the curse before it consumes everyone.",
+    "synopsis": "Crimson Shadows fuses folk horror, supernatural fantasy, and family drama against the haunting backdrop of western Hunan during the Ghost Festival. When An Yunman arrives from Shanghai at the family estate in Xiwutong beneath a Blood Moon, her return is instantly marred by tragedy as her two older brothers fall victim to murderous corpse-demons. Rather than uniting against the monstrous threat, her patriarch father, An Bo, blames Yunman as a cursed presence responsible for the catastrophe. Trapped between terrifying supernatural predators and relentless familial resentment, Yunman must navigate dark mysteries and ancient superstitions to discover the evil lurking in Xiwutong.",
+    "keywords": [
+      "blood moon",
+      "ghost festival",
+      "western hunan",
+      "corpse demon",
+      "chinese folklore",
+      "family curse",
+      "scapegoat",
+      "murder mystery",
+      "ancestral residence",
+      "supernatural horror",
+      "sibling murder",
+      "dark fantasy",
+      "homecoming",
+      "family tragedy"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Curse and Superstition",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fratricide and Tragedy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Ominous",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "During the peak of the Ghost Festival under the Blood Moon, the true nature of the corpse-demons and the hidden history of the An family come to a violent head.",
+      "conflict": "Tragedy strikes the household when Yunman's eldest and second brothers are murdered by mysterious corpse-demons, leading their father, An Bo, to condemn Yunman as a cursed bringer of disaster.",
+      "resolution": "The lingering curse on the family is confronted, forcing the survivors to reckon with the aftermath of the tragedy and Yunman's place in the family's legacy.",
+      "introduction": "An Yunman returns to the An family residence in Xiwutong, western Hunan, just as the Blood Moon hangs overhead and the Ghost Festival approaches.",
+      "risingAction": "Tensions escalate within the family estate as Yunman must navigate her father's severe accusations, impending supernatural threats, and the dark secrets surrounding the killings."
+    },
+    "characters": [
+      {
+        "name": "An Yunman",
+        "role": "Hero",
+        "description": "The third daughter of the An family who returns home from Shanghai and finds herself targeted as a scapegoat while facing sinister supernatural forces."
+      },
+      {
+        "name": "Master Kui (Kui Ye)",
+        "role": "Mentor",
+        "description": "A wandering Daoist practitioner who steps forward to protect the family, combat the dark magic, and uncover the truth behind the corpse-demons."
+      },
+      {
+        "name": "An Bo",
+        "role": "Supporting Character",
+        "description": "The patriarch of the An family who bitterly blames his third daughter, An Yunman, for bringing calamity upon the household."
+      },
+      {
+        "name": "Corpse-Herding Sorcerer",
+        "role": "Villain",
+        "description": "A dark sorcerer who uses black magic and corpse-demons to murder members of the An family and steal souls."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "An Bo",
+        "target": "An Yunman",
+        "description": "Father/Daughter (Hostile/Blames her as cursed)"
+      },
+      {
+        "source": "An Yunman",
+        "target": "Eldest Brother",
+        "description": "Siblings"
+      },
+      {
+        "source": "An Yunman",
+        "target": "Second Brother",
+        "description": "Siblings"
+      },
+      {
+        "source": "An Bo",
+        "target": "Eldest Brother",
+        "description": "Father/Son"
+      },
+      {
+        "source": "An Bo",
+        "target": "Second Brother",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Wandering Daoist Master",
+        "target": "An Yunman",
+        "description": "Protector/Ally"
+      },
+      {
+        "source": "Wandering Daoist Master",
+        "target": "Vengeful Sorcerer",
+        "description": "Adversaries/Enemies"
+      },
+      {
+        "source": "Vengeful Sorcerer",
+        "target": "Corpse-Demons",
+        "description": "Master/Minions"
+      },
+      {
+        "source": "Corpse-Demons",
+        "target": "Eldest Brother",
+        "description": "Killers/Victim"
+      },
+      {
+        "source": "Corpse-Demons",
+        "target": "Second Brother",
+        "description": "Killers/Victim"
+      },
+      {
+        "source": "Vengeful Sorcerer",
+        "target": "An Bo",
+        "description": "Enemy/Target of vengeance"
+      }
+    ],
+    "seo": {
+      "slug": "crimson-shadows",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/crimson-shadows](https://movnix.com/movie/crimson-shadows)",
+        "name": "Crimson Shadows",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Supernatural",
+          "Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "With the Blood Moon hanging overhead and the Ghost Festival approaching, An Yunman suddenly returns from Shanghai to the An family residence in Xiwutong, western Hunan. Unexpectedly, her eldest and second brothers are murdered one after another by corpse-demons. Their father, An Bo, blames all the family's misfortunes on his third daughter, An Yunman, whom he believes to be a cursed bringer of disaster."
+      },
+      "keywords": [
+        "Crimson Shadows",
+        "Crimson Shadows movie",
+        "Ghost Festival movie",
+        "Xiwutong corpse demons",
+        "An Yunman movie",
+        "Blood Moon horror",
+        "western Hunan horror movie",
+        "Chinese supernatural thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/crimson-shadows](https://movnix.com/movie/crimson-shadows)",
+      "metaTitle": "Crimson Shadows (2026) - Movie Overview, Plot & Details | Movnix",
+      "openGraph": {
+        "og:title": "Crimson Shadows - A Chilling Western Hunan Supernatural Mystery",
+        "og:description": "As the Ghost Festival nears and corpse-demons strike the An family, a father blames his returned daughter for a cursed tragedy in Crimson Shadows."
+      },
+      "twitterCard": {
+        "twitter:title": "Crimson Shadows - Supernatural Horror & Mystery",
+        "twitter:description": "Under the Blood Moon, murders shatter the An family residence. Is An Yunman a cursed bringer of disaster? Discover Crimson Shadows."
+      },
+      "metaDescription": "In Xiwutong, murder strikes the An family under the Blood Moon. An Yunman is blamed for supernatural horror in Crimson Shadows. Read the full story on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Crimson Shadows is horror, combined with elements of mystery, thriller, and supernatural folklore.",
+        "question": "What is the dominant genre of Crimson Shadows?"
+      },
+      {
+        "answer": "No, Crimson Shadows is a standalone Chinese horror-mystery film.",
+        "question": "Is Crimson Shadows part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Crimson Shadows.",
+        "question": "Is there a post-credit scene in Crimson Shadows?"
+      },
+      {
+        "answer": "The story follows An Yunman, who returns to her family home in Xiwutong, western Hunan, near the Ghost Festival. After her brothers are killed by corpse-demons, her father blames her for bringing misfortune, leading a wandering Daoist master to investigate the dark sorcery behind the family's tragedy.",
+        "question": "What is the main plot of Crimson Shadows?"
+      },
+      {
+        "answer": "Crimson Shadows was directed by Heng Wang and stars Sissi alongside Wei Wei.",
+        "question": "Who directed and starred in Crimson Shadows?"
+      },
+      {
+        "answer": "Crimson Shadows is a Chinese Mainland production filmed in Mandarin.",
+        "question": "What country is Crimson Shadows from and what language is spoken?"
+      },
+      {
+        "answer": "Crimson Shadows has a running time of approximately 1 hour and 8 minutes (68 minutes).",
+        "question": "What is the runtime of Crimson Shadows?"
+      },
+      {
+        "answer": "Crimson Shadows is available for streaming on iQIYI International.",
+        "question": "Where can I watch Crimson Shadows online?"
+      },
+      {
+        "answer": "The film is rated PG-13 (13+) due to themes of horror, violence, and dark supernatural imagery.",
+        "question": "What age rating does Crimson Shadows have?"
+      },
+      {
+        "answer": "The film heavily incorporates traditional Chinese supernatural tropes, such as Xiangxi corpse-herding sorcery, Daoist protective formations, the Blood Moon, and the Ghost Festival.",
+        "question": "What cultural folklore elements are featured in Crimson Shadows?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Prominent supernatural horror elements including corpse-demons, Blood Moon folklore, and atmospheric dread."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong language indicated in the synopsis."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Serial murders committed by supernatural corpse-demons targeting family members."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No reference to drug, alcohol, or tobacco usage."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High psychological stress involving family tragedy, grief, and parental rejection/scapegoating."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 6,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 12:06:28.29928",
+    "updated_at": "2026-07-28 12:06:28.29928"
+  }
 }
