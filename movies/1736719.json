@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5464,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.7104,
+    "voteAverage": 3,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1736719",
     "posterPath": "/cDhyqIwsYaETBDPsaEmFpCrbr9W.jpg",
     "backdropPath": "/rTYWc1L80X0x6T494tlLkJiaTpQ.jpg",
@@ -88,6 +88,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 3,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
