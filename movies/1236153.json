@@ -1951,5 +1951,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1236153/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1236153,
+    "hash": "8d6219e9d2bef59b912f5d7231610da04afdc7dc75440510b371b57df4583e58",
+    "summary_one_sentence": "Accused of murdering his wife, a detective in the near future must prove his innocence within ninety minutes to the unrelenting AI Judge he once helped put in power.",
+    "summary_short": "In a near-future society where judicial power is handed over to artificial intelligence, a veteran detective finds himself on the wrong side of the law after being accused of his wife's murder. Trapped in a high-stakes trial, he is given a strict ninety-minute deadline to present evidence and clear his name. Facing the very automated justice system he spent his career advocating for, he must navigate cold logic and hidden corruption to save his own life. Time rapidly ticks down as he fights a desperate battle against an unyielding digital arbiter.",
+    "summary_long": "Set in a near-future world governed by algorithmic law, the narrative follows a high-ranking detective whose life shatters when his wife is mysteriously found dead. Framed for the crime, he is immediately arrested and subjected to an expedited trial system overseen by 'Mercy', an advanced AI Judge he once publicly championed. The system grants him exactly ninety minutes to synthesize his defence, present digital evidence, and establish reasonable doubt before an irreversible sentence is executed. As the countdown begins, the detective uses his extensive investigative expertise to re-examine the crime scene analytics, surveillance logs, and encrypted communications from his holding cell. He quickly uncovers a web of deception that suggests his wife's murder was part of a larger conspiracy designed to manipulate the AI system itself. With every passing minute, the AI challenges his arguments with chilling, flawless logic, forcing the detective to exploit blind spots in its programming. Outside the virtual courtroom, rogue allies race to verify his digital footprints and expose the true perpetrator before time runs out. Stripping away layers of technical bias and buried secrets, the detective delivers a final, desperate argument that tests the boundary between machine calculation and human justice. Ultimately, the intense ordeal forces both the detective and society to confront the lethal consequences of replacing human empathy with flawless automation.",
+    "synopsis": "Set in a near-future society reliant on automated justice, 'Mercy' follows a seasoned detective who finds himself accused of the brutally efficient murder of his wife. The ultimate arbiter of his destiny is an advanced AI Judge—a system designed for absolute fairness and efficiency that the detective himself spent years promoting. Confined to a high-tech trial chamber, he is bound by strict procedural rules and given a strict ninety-minute timer to present a persuasive defence and prove his innocence. As the clock ticks down, the protagonist must deploy his sharpest investigative instincts to dissect digital evidence, dismantle false leads, and counter the cold, mathematical precision of the artificial judge. 'Mercy' is a tense, race-against-time sci-fi thriller that explores themes of technological overreach, justice versus logic, and human resilience under pressure.",
+    "keywords": [
+      "artificial intelligence",
+      "race against time",
+      "wrongful accusation",
+      "courtroom thriller",
+      "algorithmic justice",
+      "detective protagonist",
+      "near future setting",
+      "tech noir",
+      "man vs machine",
+      "real-time countdown",
+      "murder mystery",
+      "high-stakes trial",
+      "framed for murder"
+    ],
+    "themes": [
+      {
+        "theme": "Justice vs. Technology",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Morality and Judgment",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Truth and Innocence",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "With moments left on the clock, a critical final revelation is presented, forcing a high-stakes confrontation between human intuition and algorithmic justice.",
+      "conflict": "Facing a strict ninety-minute countdown, the detective must overcome seemingly insurmountable evidence and convince a cold, hyper-logical system of his innocence.",
+      "resolution": "The AI Judge reaches its definitive verdict, concluding the trial and revealing the ultimate consequence of trusting machine judgment over human complexity.",
+      "introduction": "In a near-future setting, a detective finds himself on the other side of the law, standing trial for the murder of his wife before an advanced AI Judge he previously championed.",
+      "risingAction": "As time rapidly ticks away, the detective presents new arguments, uncovers potential flaws in the prosecution's data, and confronts personal and systemic biases, pushing the AI's analytical capabilities to their limit."
+    },
+    "characters": [
+      {
+        "name": "Christopher \"Chris\" Raven",
+        "role": "Hero",
+        "description": "An LAPD detective accused of murdering his wife who must use digital evidence to prove his innocence within a 90-minute trial."
+      },
+      {
+        "name": "Judge Maddox",
+        "role": "Villain",
+        "description": "An advanced AI judge presiding over the Mercy system who delivers cold, algorithmic judgment without human empathy."
+      },
+      {
+        "name": "Jacqueline \"Jaq\" Diallo",
+        "role": "Supporting Character",
+        "description": "Chris's police partner who helps navigate the outside investigation during the trial while concealing her past actions."
+      },
+      {
+        "name": "Nicole Raven",
+        "role": "Other",
+        "description": "Chris's deceased wife whose murder sets the real-time courtroom thriller into motion."
+      },
+      {
+        "name": "Robert \"Rob\" Nelson",
+        "role": "Villain",
+        "description": "Chris's AA sponsor who secretly orchestrates revenge against Chris and the automated legal system."
+      },
+      {
+        "name": "Britt Raven",
+        "role": "Supporting Character",
+        "description": "Chris's teenage daughter who offers emotional support and helps talk her father down during key confrontations."
+      },
+      {
+        "name": "Ray Vale",
+        "role": "Mentor",
+        "description": "Chris's late police partner whose memory and past guidance help influence Chris's actions."
+      },
+      {
+        "name": "Holt Charles",
+        "role": "Supporting Character",
+        "description": "Nicole's co-worker who becomes an early suspect in the investigation due to financial troubles."
+      },
+      {
+        "name": "Patrick Burke",
+        "role": "Supporting Character",
+        "description": "An acquaintance seeing Nicole prior to her death who helps reveal details about missing workplace chemicals."
+      },
+      {
+        "name": "Dan Vogel",
+        "role": "Supporting Character",
+        "description": "An officer involved with the surrounding police operations during the trial crisis."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Detective",
+        "target": "Wife",
+        "description": "Husband / Deceased Victim"
+      },
+      {
+        "source": "Detective",
+        "target": "AI Judge",
+        "description": "Defendant / Judicial AI System (formerly Championed by Detective)"
+      }
+    ],
+    "seo": {
+      "slug": "mercy",
+      "jsonLd": {
+        "name": "Mercy",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate."
+      },
+      "keywords": [
+        "Mercy movie",
+        "Mercy sci-fi thriller",
+        "AI judge movie",
+        "Mercy movie plot",
+        "detective AI trial movie"
+      ],
+      "canonical": "[https://movnix.com/movie/mercy](https://movnix.com/movie/mercy)",
+      "metaTitle": "Mercy - Sci-Fi Thriller Movie | Plot & Synopsis",
+      "openGraph": {
+        "og:title": "Mercy - Official Sci-Fi Thriller Movie",
+        "og:description": "A detective stands on trial accused of murdering his wife and has 90 minutes to convince an advanced AI Judge of his innocence."
+      },
+      "twitterCard": {
+        "twitter:title": "Mercy - Official Sci-Fi Thriller Movie",
+        "twitter:description": "A detective stands on trial accused of murdering his wife and has 90 minutes to convince an advanced AI Judge of his innocence."
+      },
+      "metaDescription": "A detective has 90 minutes to prove his innocence to an advanced AI Judge in Mercy. Discover plot details and overview of this sci-fi thriller."
+    },
+    "faq": [
+      {
+        "answer": "No, Mercy is a standalone sci-fi action thriller and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is Mercy part of a movie franchise?"
+      },
+      {
+        "answer": "No, Mercy does not feature any mid-credits or post-credits scenes.",
+        "question": "Is there a post-credits scene in Mercy?"
+      },
+      {
+        "answer": "Mercy is primarily a science fiction action thriller set in a near-future dystopian setting.",
+        "question": "What is the dominant genre of Mercy?"
+      },
+      {
+        "answer": "The film stars Chris Pratt as Detective Chris Raven and Rebecca Ferguson as the AI Judge Maddox, with a supporting cast that includes Kali Reis, Annabelle Wallis, Chris Sullivan, and Kylie Rogers.",
+        "question": "Who stars in Mercy?"
+      },
+      {
+        "answer": "Mercy was directed by Timur Bekmambetov and written by Marco van Belle.",
+        "question": "Who directed Mercy?"
+      },
+      {
+        "answer": "Set in a near-future Los Angeles, the film follows a detective accused of murdering his wife who is given ninety minutes to present evidence and prove his innocence to an advanced AI Judge before it executes a judgment.",
+        "question": "What is the main plot of Mercy?"
+      },
+      {
+        "answer": "The total running time of Mercy is approximately 100 minutes (1 hour and 40 minutes).",
+        "question": "What is the runtime of Mercy?"
+      },
+      {
+        "answer": "Mercy is rated PG-13 for intense sequences of action and violence, strong language, and brief suggestive material.",
+        "question": "What is the age rating for Mercy?"
+      },
+      {
+        "answer": "Mercy was released in theaters in the United States on January 23, 2026, distributed by Amazon MGM Studios.",
+        "question": "When was Mercy released in theaters?"
+      },
+      {
+        "answer": "No, Mercy is an original fictional sci-fi concept written specifically for the screen by screenwriter Marco van Belle.",
+        "question": "Is Mercy based on a book or a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild psychological tension related to a high-stakes legal race against time."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild to moderate strong language during stressful courtroom scenes."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate thematic violence and murder accusations with minimal graphic depiction."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional tension surrounding a life-or-death trial and betrayal themes."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 2,
+      "science": 8,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-28 12:21:29.346857",
+    "updated_at": "2026-07-28 12:21:29.346857"
+  }
 }
