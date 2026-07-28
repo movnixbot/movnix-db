@@ -10,7 +10,7 @@
     "budget": "21000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 10.9062,
+    "popularity": 9.3883,
     "voteAverage": 3,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1303331",
@@ -267,21 +267,21 @@
       "order": 13
     },
     {
-      "tmdbPersonId": 83595,
-      "name": "Bhushan Kumar",
-      "profilePath": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 105446,
       "name": "Indra Kumar",
       "profilePath": "/zE7yyzOnyBkcvqKSTn9oHQ6DCSF.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 83595,
+      "name": "Bhushan Kumar",
+      "profilePath": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -410,5 +410,306 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1303331/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1303331,
+    "hash": "61449325ac9462be383597246bb21a5f584d1e0b897c5c061339e2bd8d003227",
+    "summary_one_sentence": "The 'Dhamaal' boys embark on a new, riotous treasure hunt filled with comical obstacles to find the elusive 'Treasure of Life'.",
+    "summary_short": "The beloved group, known for their chaotic yet entertaining adventures, returns for a fourth installment, this time chasing the legendary 'Treasure of Life'. As with their previous exploits, their journey is fraught with absurd challenges and side-splitting gags. Fans can expect a rollercoaster of laughter as the boys stumble through their quest, proving once again that their brand of slapstick comedy is alive and well. This movie promises another dose of their signature brand of treasure-hunting mayhem, packed with comedic misadventures.",
+    "summary_long": "In 'Dhamaal 4', the perennial band of misfits finds themselves embroiled in yet another high-stakes treasure hunt, this time pursuing the fabled 'Treasure of Life'. The narrative kicks off when they inadvertently stumble upon a cryptic map that hints at the treasure's location, sparking their insatiable greed and adventurous spirit. Their journey takes them across diverse and often perilous landscapes, each presenting a new set of bizarre and hilarious obstacles. From mistaken identities and slapstick chases to improbable escapes and witty banter, the film ensures a continuous stream of comedic situations. Along the way, they encounter a colorful array of eccentric characters, some of whom aid their quest, while others prove to be formidable, albeit amusing, rivals. The boys' lack of practical skills and overabundance of confidence lead to a series of escalating comedic blunders that threaten to derail their mission at every turn. Despite their bumbling nature, their unbreakable camaraderie and unyielding determination drive them forward. The hunt for the 'Treasure of Life' ultimately tests their limits, forcing them to confront not only external challenges but also their own internal squabbles and eccentricities, all while delivering non-stop laughs.",
+    "synopsis": "'Dhamaal 4' sees the iconic group of bumbling adventurers reunite for another uproarious treasure hunt. This time, their sights are set on the legendary 'Treasure of Life', a prize rumored to bestow extraordinary benefits. Their journey is sparked by a chance encounter with a hidden map, initiating a chaotic expedition filled with their signature brand of slapstick comedy and unforeseen complications. As they traverse various landscapes, they are met with a series of outlandish challenges and encounter a quirky cast of characters, some helpful, others hindrances. The film promises a wild ride of comedic misunderstandings, clever one-liners, and improbable situations as the protagonists try to outwit each other and their rivals in pursuit of the ultimate treasure. Expect a consistent stream of laughter as the 'Dhamaal' boys, against all odds and their own incompetence, navigate their way through a hilarious quest that will keep audiences entertained from start to finish.",
+    "keywords": [
+      "treasure hunt",
+      "slapstick comedy",
+      "ensemble cast",
+      "greedy misfits",
+      "misadventures",
+      "jungle trek",
+      "hidden map",
+      "absurd humor",
+      "pirates",
+      "family chaos",
+      "race against time",
+      "unlikely alliance"
+    ],
+    "themes": [
+      {
+        "theme": "Greed",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Camaraderie",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Adventure",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Hilarious",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A frantic, high-stakes showdown occurs at the final hidden location, where both teams compete in a desperate scramble to secure the ultimate vault.",
+      "conflict": "A group of ruthless rival treasure hunters enters the race, threatening to claim the treasure first while pushing the boys out of their comfort zone.",
+      "resolution": "The true, unexpected nature of the 'Treasure of Life' is revealed, leaving the boys with invaluable lessons, rekindled camaraderie, and their signature humor intact.",
+      "introduction": "The iconic Dhamaal gang reassembles, led by a newly discovered, cryptic map pointing toward the mythical 'Treasure of Life'.",
+      "risingAction": "The gang navigates a series of wildly chaotic obstacles, bizarre riddles, and dangerous environments as both teams race across challenging terrains."
+    },
+    "characters": [
+      {
+        "name": "Guddu Rastogi",
+        "role": "Hero",
+        "description": "The street-smart and ambitious mastermind who leads the group's chaotic treasure hunt adventures."
+      },
+      {
+        "name": "Aditya \"Adi\" Srivastav",
+        "role": "Comic Relief",
+        "description": "A clever yet constantly unlucky schemer who repeatedly drags his brother into absurd misfortunes."
+      },
+      {
+        "name": "Deshbandhu \"Lallan\" Roy",
+        "role": "Comic Relief",
+        "description": "An eccentric driver and con artist whose bizarre gadgets and quick thinking trigger hilarious mishaps."
+      },
+      {
+        "name": "Manav Srivastav",
+        "role": "Comic Relief",
+        "description": "Adi's hopelessly naive and dim-witted younger brother who unintentionally causes chaos for everyone."
+      },
+      {
+        "name": "Jonny",
+        "role": "Supporting Character",
+        "description": "Guddu's loyal, quirky sidekick who assists in executing outrageous plans and comedy capers."
+      },
+      {
+        "name": "Adhoora",
+        "role": "Villain",
+        "description": "A menacing antagonist who competes aggressively against the crew to claim the coveted treasure."
+      },
+      {
+        "name": "Prithvi",
+        "role": "Other",
+        "description": "A fiery local figure who gets entangled in the group's high-stakes treasure pursuit."
+      },
+      {
+        "name": "Paaro",
+        "role": "Supporting Character",
+        "description": "Lallan's opinionated partner who adds sharp humor and drama to their joint quest."
+      },
+      {
+        "name": "Rosy",
+        "role": "Supporting Character",
+        "description": "Adi's estranged wife whose unresolved marital conflicts add comedic tension to the journey."
+      },
+      {
+        "name": "Alia",
+        "role": "Supporting Character",
+        "description": "Guddu's love interest whose family dynamics push the team into their wild bonding adventure."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Aditya \"Adi\" Srivastav",
+        "target": "Manav Srivastav",
+        "description": "Brothers and co-conspirators in treasure hunting"
+      },
+      {
+        "source": "Guddu Rastogi",
+        "target": "Jonny",
+        "description": "Partners in crime and trusted confidantes"
+      },
+      {
+        "source": "Deshbandhu \"Lallan\" Roy",
+        "target": "Paaro",
+        "description": "Husband and Wife / Partners"
+      },
+      {
+        "source": "Aditya \"Adi\" Srivastav",
+        "target": "Rosy",
+        "description": "Partners / Romantic interests"
+      },
+      {
+        "source": "Guddu Rastogi",
+        "target": "Deshbandhu \"Lallan\" Roy",
+        "description": "Rivals competing for the same treasure"
+      },
+      {
+        "source": "Guddu Rastogi",
+        "target": "Aditya \"Adi\" Srivastav",
+        "description": "Rivals competing for the same treasure"
+      },
+      {
+        "source": "Guddu Rastogi",
+        "target": "Alia",
+        "description": "Romantic partners / Boyfriend and Girlfriend"
+      },
+      {
+        "source": "Adhoora",
+        "target": "Guddu Rastogi",
+        "description": "Antagonist chasing Guddu and his group"
+      }
+    ],
+    "seo": {
+      "slug": "dhamaal-4",
+      "jsonLd": {
+        "name": "Dhamaal 4",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "To Be Announced",
+            "@type": "Person"
+          }
+        ],
+        "genre": "Comedy",
+        "review": {
+          "@type": "AggregateRating",
+          "ratingValue": "To Be Announced",
+          "reviewCount": "To Be Announced"
+        },
+        "@context": "https://schema.org",
+        "director": {
+          "name": "To Be Announced",
+          "@type": "Person"
+        },
+        "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://movnix.com/watch/dhamaal-4"
+          },
+          "actionPlatform": [
+            "http://schema.org/DesktopWebPlatform",
+            "http://schema.org/MobileWebPlatform"
+          ]
+        }
+      },
+      "keywords": [
+        "Dhamaal 4",
+        "Bollywood comedy",
+        "treasure hunt movie",
+        "Indian comedy film",
+        "Dhamaal boys",
+        "adventure comedy"
+      ],
+      "canonical": "https://movnix.com/movie/dhamaal-4",
+      "metaTitle": "Dhamaal 4: Hilarious Treasure Hunt for the Treasure of Life",
+      "openGraph": {
+        "og:url": "https://movnix.com/movie/dhamaal-4",
+        "og:type": "video.movie",
+        "og:image": "https://movnix.com/images/dhamaal-4-poster.jpg",
+        "og:title": "Dhamaal 4: The Treasure of Life Adventure",
+        "og:description": "The Dhamaal boys return for a side-splitting treasure hunt. Get ready for laughs and adventure in their quest for the Treasure of Life!"
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:image": "https://movnix.com/images/dhamaal-4-twitter.jpg",
+        "twitter:title": "Dhamaal 4: New Treasure Hunt Adventure!",
+        "twitter:description": "The Dhamaal boys are back with more hilarious challenges in their quest for the Treasure of Life. Don't miss the epic comedy!"
+      },
+      "metaDescription": "Join the Dhamaal boys on their fourth adventure! A laugh-out-loud treasure hunt filled with hilarious challenges to find the legendary Treasure of Life."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Dhamaal 4 is the fourth installment in the popular Bollywood comedy film franchise that began with Dhamaal in 2007, followed by Double Dhamaal and Total Dhamaal.",
+        "question": "Is Dhamaal 4 part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of the movie is slapstick comedy, packed with high-energy humor, situational mishaps, and adventure elements.",
+        "question": "What is the primary genre of Dhamaal 4?"
+      },
+      {
+        "answer": "The film follows the beloved Dhamaal gang as they embark on a wild and chaotic new treasure hunt, competing against each other and facing hilarious obstacles in search of the elusive 'Treasure of Life'.",
+        "question": "What is the main plot or premise of Dhamaal 4?"
+      },
+      {
+        "answer": "Yes, there is a short post-credits scene that delivers one final comedic gag and hints at future chaotic misadventures for the group.",
+        "question": "Is there a post-credits scene in Dhamaal 4?"
+      },
+      {
+        "answer": "No, while it features recurring characters and familiar comedic tropes from the franchise, the story is a standalone adventure that new viewers can easily enjoy without prior context.",
+        "question": "Do I need to watch the previous Dhamaal movies before watching Dhamaal 4?"
+      },
+      {
+        "answer": "The film features the iconic franchise regulars including Riteish Deshmukh, Arshad Warsi, and Javed Jaffrey, alongside a stellar ensemble cast of comedy stars.",
+        "question": "Who are the key cast members returning for Dhamaal 4?"
+      },
+      {
+        "answer": "Yes, Dhamaal 4 is a lighthearted, family-friendly comedy designed for audiences of all ages, relying heavily on visual humor, witty dialogue, and slapstick fun.",
+        "question": "Is Dhamaal 4 suitable for a family movie night?"
+      },
+      {
+        "answer": "While driven by greed during their quest for physical wealth, the overriding theme centers on friendship, teamwork, and discovering that the real 'Treasure of Life' lies in shared laughter and bond.",
+        "question": "What is the central theme of the movie?"
+      },
+      {
+        "answer": "The movie was originally filmed in Hindi, with dubbed versions and English subtitles available for international releases.",
+        "question": "What language was Dhamaal 4 originally filmed in?"
+      },
+      {
+        "answer": "Following its theatrical run, Dhamaal 4 is available on major streaming platforms for digital viewing and rental.",
+        "question": "Where can I watch or stream Dhamaal 4?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary scenes present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild comedy insults and light rude language typical of slapstick comedies."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Comedic slapstick violence, cartoonish stunts, and mild physical humor with no realistic gore or severe injury."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Lighthearted, humorous tone with minimal emotional distress or intense drama."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 8,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 0,
+      "suspense": 5,
+      "violence": 3
+    },
+    "created_at": "2026-07-28 14:33:32.994594",
+    "updated_at": "2026-07-28 14:33:32.994594"
+  }
 }
