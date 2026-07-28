@@ -687,5 +687,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/445466/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 445466,
+    "hash": "5198ca86db68e0159942667a331132b8d8aebff9e878baacff02f8ceaacfab91",
+    "summary_one_sentence": "Two disaster-prone, out-of-work men take on a seemingly simple gig transporting a spoiled, rebellious rich teen to a rehab facility, only for their cross-country road trip to spiral into an escalating storm of crime, drugs, and dangerous chaos.",
+    "summary_short": "After hitting rock bottom and getting fired from their respective jobs, two bumbling misfits, Davis and Mark, accept a dubious assignment to transport a wealthy, manipulative teenager named Sheridan to a rehab clinic. What should be an easy payday quickly goes off the rails as Sheridan outsmarts his incompetent chaperones at every turn, pulling them into a wild series of mishaps. As the trip escalates, the duo finds themselves tangled up with erratic criminals, bizarre subcultures, and dangerous drug dealers. Ultimately, the chaotic journey forces the two bumbling companions to rely on each other to survive the ultimate road trip from hell.",
+    "summary_long": "Davis, a well-meaning screw-up, and Mark, a completely indifferent slacker, both reach rock bottom after getting fired from their jobs on the exact same day. Desperate for quick cash, they accept a job through a shady transport company to escort Sheridan, an arrogant and internet-famous rich teenager, across the country to a rehab facility. Sheridan immediately realizes his chaperones are completely out-of-the-depth, prompting him to run away, drug the duo, and pull every trick in the book to sabotage the journey. As they chase the elusive teen, Mark's Buick Century becomes a magnet for disaster, entangling the group with a succession of dangerous eccentrics. Along the way, they cross paths with a dream-chasing stripper, a lycanthrope-obsessed SoundCloud rapper, and a gun-toting juggalo warlord. As weapons, drugs, and local law enforcement enter the mix, the road trip descends into total, life-threatening mayhem. Sheridan's endless mischief forces Davis and Mark to confront their own personal failures while constantly fighting for survival. Despite the hopeless absurdity of their situation, the two incompetent leads form a genuine bond through their shared desperation. Against all odds, the unlikely trio barrels toward a chaotic climax that tests whether any of them can actually do something right for once.",
+    "synopsis": "When two disaster-prone slackers lose their jobs, they take a seemingly easy gig transporting a spoiled, manipulative rich teen named Sheridan to a remote rehab clinic. However, Sheridan quickly realizes his chaperones are completely incompetent and uses his cunning to derail the road trip, drugging the duo and constantly trying to escape. As the trio gets dragged through a chaotic underworld of eccentric criminals, violent gunfights, and bizarre subcultures, the two bumbling leads must stick together to survive their terrifyingly absurd journey.",
+    "keywords": [
+      "unqualified protagonists",
+      "bumbling duo",
+      "road trip gone wrong",
+      "botched job",
+      "kidnapping gone wrong",
+      "rehab transport",
+      "spoiled rich kid",
+      "escalating mayhem",
+      "dark comedy",
+      "criminal underworld",
+      "misadventure",
+      "incompetent criminals",
+      "buddy comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Incompetence and Misadventure",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Chaos and Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Responsibility and Duty",
+        "confidence": 0.78
+      },
+      {
+        "theme": "Class Divide and Privilege",
+        "confidence": 0.65
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Chaotic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Absurd",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension hits a breaking point during a high-stakes confrontation where the duo is forced to improvise and step up to protect their charge from serious danger.",
+      "conflict": "The straightforward road trip breaks down immediately when the teen refuses to cooperate and the duo's severe lack of qualifications causes early missteps.",
+      "resolution": "With the threat neutralized, the aftermath forces a shift in their relationship with the teen, bringing the chaotic journey to an unexpected and fitting close.",
+      "introduction": "Two incompetent protagonists take on what appears to be a lucrative, simple job: escorting a wealthy, rebellious teenager to a rehabilitation facility.",
+      "risingAction": "A series of poor decisions, unexpected external threats, and escalating mishaps turn the journey into a dangerous and chaotic struggle."
+    },
+    "characters": [
+      {
+        "name": "Mark",
+        "role": "Hero",
+        "description": "One of the two rock-bottom, unqualified drivers hired to transport a wealthy teen to rehab, leading the chaotic road trip."
+      },
+      {
+        "name": "Davis",
+        "role": "Hero",
+        "description": "Mark's partner and co-driver who gets pulled into the dangerous mayhem during their straightforward assignment."
+      },
+      {
+        "name": "Sheridan Kimberley",
+        "role": "Supporting Character",
+        "description": "The rich teenager being transported to rehab whose unruly actions derail the drivers' plans."
+      },
+      {
+        "name": "Karl 'Koko' Sandoz",
+        "role": "Villain",
+        "description": "A major antagonist who escalates the danger and crime during the journey."
+      },
+      {
+        "name": "Pricka Bush Da Werewoof",
+        "role": "Comic Relief",
+        "description": "An eccentric character encountered during the spiraling misadventures."
+      },
+      {
+        "name": "Irina Anastas",
+        "role": "Supporting Character",
+        "description": "A key figure involved in the wild series of events along the trip."
+      },
+      {
+        "name": "Pastor William Armstrong",
+        "role": "Supporting Character",
+        "description": "A local pastor entangled in the escalating mayhem."
+      },
+      {
+        "name": "D.D.",
+        "role": "Other",
+        "description": "An associate connected to the transport assignment."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "First Disaster-Prone Driver",
+        "target": "Second Disaster-Prone Driver",
+        "description": "Partners / Co-workers"
+      },
+      {
+        "source": "First Disaster-Prone Driver",
+        "target": "Spoiled Rich Teen",
+        "description": "Escort / Transported Ward"
+      },
+      {
+        "source": "Second Disaster-Prone Driver",
+        "target": "Spoiled Rich Teen",
+        "description": "Escort / Transported Ward"
+      },
+      {
+        "source": "Wealthy Parent",
+        "target": "Spoiled Rich Teen",
+        "description": "Parent / Rebellious Child"
+      },
+      {
+        "source": "Wealthy Parent",
+        "target": "First Disaster-Prone Driver",
+        "description": "Employer / Hired Transporter"
+      }
+    ],
+    "seo": {
+      "slug": "idiots",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/idiots](https://movnix.com/movie/idiots)",
+        "name": "Idiots",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem."
+      },
+      "keywords": [
+        "Idiots movie",
+        "Idiots plot",
+        "Idiots synopsis",
+        "Idiots comedy film",
+        "Idiots release date",
+        "Idiots cast"
+      ],
+      "canonical": "[https://movnix.com/movie/idiots](https://movnix.com/movie/idiots)",
+      "metaTitle": "Idiots (Movie) - Overview, Plot & Release Details | Movnix",
+      "openGraph": {
+        "og:title": "Idiots - Synopsis & Overview",
+        "og:description": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem."
+      },
+      "twitterCard": {
+        "twitter:title": "Idiots - Synopsis & Overview",
+        "twitter:description": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem."
+      },
+      "metaDescription": "When two unqualified bozos are hired to transfer a rich teen to rehab, their simple gig spirals into dangerous mayhem in the comedy movie Idiots."
+    },
+    "faq": [
+      {
+        "answer": "Idiots is primarily an R-rated dark comedy and action-crime road movie.",
+        "question": "What is the dominant genre of Idiots?"
+      },
+      {
+        "answer": "No, Idiots is a standalone original film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or existing universe?"
+      },
+      {
+        "answer": "The film stars Dave Franco and O'Shea Jackson Jr. as the two unqualified transporters, alongside Mason Thames as the troubled rich teen.",
+        "question": "Who are the lead actors starring in Idiots?"
+      },
+      {
+        "answer": "The movie was directed by filmmaker Macon Blair.",
+        "question": "Who directed Idiots?"
+      },
+      {
+        "answer": "The film follows two down-on-their-luck drivers hired to transport a wealthy, troubled teenager to a rehabilitation center, but their simple job quickly escalates into chaotic, crime-filled mayhem.",
+        "question": "What is the premise of Idiots?"
+      },
+      {
+        "answer": "Idiots is rated R for pervasive language, drug content, violence, and sexual material.",
+        "question": "What is the official MPA rating for Idiots?"
+      },
+      {
+        "answer": "No, Idiots is a standalone comedy and does not feature a post-credits scene set to tease future sequels.",
+        "question": "Is there a post-credits scene in Idiots?"
+      },
+      {
+        "answer": "Yes, during its early development and film festival announcements, the project was originally developed under the title The Shitheads.",
+        "question": "Was Idiots known by a different title during production?"
+      },
+      {
+        "answer": "The movie has an approximate runtime of 1 hour and 38 minutes (98 minutes).",
+        "question": "What is the running time of Idiots?"
+      },
+      {
+        "answer": "Idiots was scheduled for a theatrical release starting August 28, 2026.",
+        "question": "When is Idiots scheduled to release?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements; brief moment of tension and threat during mayhem scenes, but largely grounded in comedy-thriller tropes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and mild to harsh insults typical of dark buddy-comedies."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong action violence, physical altercations, and dangerous peril given the comedic yet high-stakes abduction and transfer plot."
+      },
+      "substance": {
+        "score": 7,
+        "description": "Strong central themes of drug and alcohol substance use given the premise involving rehab and illicit substances."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Negligible to mild sexual references or crude humor, with no explicit sexual activity described."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate intensity due to chaotic situations, kidnapping themes, and personal struggle with addiction, balanced by comedic framing."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 6,
+      "comedy": 9,
+      "emotion": 3,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 5,
+      "violence": 4
+    },
+    "created_at": "2026-07-27 23:49:58.556569",
+    "updated_at": "2026-07-27 23:49:58.556569"
+  }
 }
