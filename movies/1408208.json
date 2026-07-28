@@ -10,9 +10,9 @@
     "budget": "1400000",
     "revenue": "43892680",
     "status": "Released",
-    "popularity": 14.3112,
-    "voteAverage": 6.988,
-    "voteCount": 632,
+    "popularity": 13.7727,
+    "voteAverage": 7,
+    "voteCount": 635,
     "homepage": "https://www.neonrated.com/film/exit-8",
     "posterPath": "/hDpe36GBbaBlgrmmNk87pfjIOa8.jpg",
     "backdropPath": "/f5csnjqQj5qdqc0EZchon94hXZ6.jpg",
@@ -883,6 +883,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/q2j5EwMj00woeo69qwXwFMmfhlg.jpg",
+      "width": 2000,
+      "height": 2828,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
       "filePath": "/f5csnjqQj5qdqc0EZchon94hXZ6.jpg",
       "width": 3200,
       "height": 1800,
@@ -1194,8 +1201,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.988,
-      "votesCount": 632
+      "ratingValue": 7,
+      "votesCount": 635
     },
     {
       "source": "imdb",
@@ -1540,5 +1547,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1408208/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1408208,
+    "hash": "f6485af3335f6ba69bec6734ce4caa08f22303bf19822a9ce0a4632db82d5701",
+    "summary_one_sentence": "Trapped in a seemingly infinite, sterile subway passageway, a man must meticulously spot subtle anomalies and follow strict rules to reach Exit 8 and escape.",
+    "summary_short": "A man wakes up trapped in a clean, repeating underground subway corridor with a simple goal: reach Exit 8 to escape. To progress, he must carefully observe his surroundings for subtle anomalies—if he notices anything unusual, he must turn around immediately, but if everything appears normal, he must keep walking forward. A single oversight resets his progress back to the beginning corridor marked 'Exit 0'. As psychological fatigue sets in, the tension escalates, turning a simple walk into a high-stakes test of perception and sanity.",
+    "summary_long": "The narrative follows a man who finds himself trapped in a stark, endless subway passageway with no obvious way out except for signs directing him toward 'Exit 8'. As he walks, he encounters a posted set of rules instructing him to keep moving forward if the corridor is normal, but to turn back immediately if he spots any anomaly. Each correct decision advances the exit number on the wall, while a single missed detail or incorrect choice instantly resets his counter back to Exit 0. The passageway presents increasingly eerie and uncanny irregularities, ranging from subtle visual distortions to bizarre alterations in the environment and non-player-like pedestrians. The man must maintain intense focus, battling paranoia, physical exhaustion, and the mind-bending monotony of the identical yellow-tiled hallway. Every step becomes a nerve-wracking exercise in hyper-vigilance as the line between reality and hallucination blurs. As he inches closer to the final exit, the anomalies grow more sinister and demanding, testing his psychological resolve to its absolute limits. Ultimately, the story explores themes of obsession, acute observation, and the psychological horror of dynamic, liminal spaces.",
+    "synopsis": "Set in a bright, hyper-realistic, yet hauntingly empty underground corridor, Exit 8 centers on a protagonist trapped in a liminal loop. To reach freedom, he must navigate a continuous passageway while obeying strict rules based on spatial awareness: proceed forward if everything is normal, or turn back immediately if an anomaly is detected. Inspired by liminal space aesthetics and psychological thriller mechanics, the narrative relies on extreme attention to detail, unsettling tension, and intense focus as the protagonist tries to beat the repetitive cycle and find his way back to the surface.",
+    "keywords": [
+      "liminal space",
+      "infinite corridor",
+      "anomaly hunting",
+      "psychological horror",
+      "subway passageway",
+      "time loop",
+      "spot the difference",
+      "sterile environment",
+      "spatial puzzle",
+      "observation",
+      "hallway loop",
+      "mind maze",
+      "escape quest"
+    ],
+    "themes": [
+      {
+        "theme": "Vigilance and Perception",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation and Confinement",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Routine and Monotony",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Perseverance and Survival",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Claustrophobic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "After correctly navigating a series of increasingly unsettling anomalies and advancing through the sequence of numbers, he reaches the final stretch needing one last correct decision to reach Exit 8.",
+      "conflict": "To escape the infinite loop, he must follow strict rules: carefully observe his environment for anomalies, turn back immediately if something seems off, or continue forward if everything appears normal.",
+      "resolution": "By maintaining ultimate focus and making the final correct choice, he successfully exits the labyrinthine underground passageway and steps out into the sunlight of the outside world.",
+      "introduction": "The protagonist finds himself in an eerie, endlessly repeating Japanese subway corridor known as Passageway 0, surrounded by standard advertisements, signs, and a lone pedestrian walking past.",
+      "risingAction": "As he progresses, subtle and disturbing changes begin to manifest in the corridor, forcing him to stay hyper-vigilant as any single oversight resets his progress back to the beginning at Exit 0."
+    },
+    "characters": [
+      {
+        "name": "The Lost Man",
+        "role": "Hero",
+        "description": "A commuter trapped in a looping subway corridor who must spot anomalies and confront his inner fears and guilt to reach Exit 8."
+      },
+      {
+        "name": "The Walking Man",
+        "role": "Supporting Character",
+        "description": "An eerie commuter endlessly walking through the corridor, serving as a primary fixture and potential source of anomalies in the protagonist's ordeal."
+      },
+      {
+        "name": "The Boy",
+        "role": "Supporting Character",
+        "description": "A young child encountered within the purgatorial subway loops who represents the protagonist's unresolved feelings about fatherhood and assists in his psychological breakthrough."
+      },
+      {
+        "name": "The Woman",
+        "role": "Supporting Character",
+        "description": "A central figure appearing in visions and phone calls who ties directly to the protagonist's external conflict regarding his relationship and future."
+      },
+      {
+        "name": "The High School Girl",
+        "role": "Supporting Character",
+        "description": "One of the unsettling figures appearing within the surreal loop, adding to the eerie atmosphere and psychological strain of the corridor."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Protagonist (The Walking Man / Player)",
+        "target": "Anomalous Walking Man",
+        "description": "Doppelgänger / Anomaly Encounter"
+      },
+      {
+        "source": "Protagonist (The Walking Man / Player)",
+        "target": "Subway Anomaly (The Corridor)",
+        "description": "Captive / Environmental Hazard"
+      }
+    ],
+    "seo": {
+      "slug": "exit-8",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/exit-8](https://movnix.com/movie/exit-8)",
+        "name": "Exit 8",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary. If you discover an anomaly, turn back immediately. If you don’t, carry on."
+      },
+      "keywords": [
+        "Exit 8",
+        "Exit 8 movie",
+        "Exit 8 synopsis",
+        "Exit 8 plot",
+        "subway anomaly movie",
+        "psychological thriller",
+        "infinite corridor"
+      ],
+      "canonical": "[https://movnix.com/movie/exit-8](https://movnix.com/movie/exit-8)",
+      "metaTitle": "Exit 8 Movie: Synopsis, Plot & Infinite Corridor Mystery",
+      "openGraph": {
+        "og:title": "Exit 8 - Can You Spot the Anomaly and Escape?",
+        "og:description": "A man trapped in an endless subway corridor must observe every detail to reach Exit 8. A single oversight resets everything."
+      },
+      "twitterCard": {
+        "twitter:title": "Exit 8 - Endless Subway Passageway Thriller",
+        "twitter:description": "Look closely or stay trapped forever. Discover the plot and details of Exit 8."
+      },
+      "metaDescription": "Trapped in a sterile subway passageway, a man must spot anomalies to find Exit 8. One mistake resets his attempt. Can he escape the infinite corridor?"
+    },
+    "faq": [
+      {
+        "answer": "Exit 8 is primarily a psychological horror and mystery thriller film, focusing on liminal space dread, suspense, and subtle psychological tension.",
+        "question": "What is the dominant genre of Exit 8?"
+      },
+      {
+        "answer": "Yes, the film is a direct adaptation of the hit 2023 Japanese indie horror video game 'The Exit 8' (8番出口) developed by Kotake Create.",
+        "question": "Is Exit 8 based on a book or an existing property?"
+      },
+      {
+        "answer": "No, Exit 8 is a standalone movie adaptation, though it stems from the popularity of the original indie game.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the film ends.",
+        "question": "Is there a post-credit scene in Exit 8?"
+      },
+      {
+        "answer": "The film is directed by Genki Kawamura and stars Kazunari Ninomiya as the unnamed protagonist trying to escape the passageway.",
+        "question": "Who directs and stars in Exit 8?"
+      },
+      {
+        "answer": "The rules are simple: look closely at the surroundings. If you spot an anomaly, turn back immediately. If everything appears normal, continue forward. Any missed anomaly resets your progress back to the beginning.",
+        "question": "What are the rules for escaping the underground corridor?"
+      },
+      {
+        "answer": "Yes, the movie relies primarily on atmospheric tension, paranoia, and eerie psychological mind-benders rather than explicit gore or heavy violence.",
+        "question": "Is Exit 8 appropriate for viewers who dislike heavy gore?"
+      },
+      {
+        "answer": "The story takes place entirely inside a sterile, looping, and claustrophobic Japanese subway concourse.",
+        "question": "Where does the story of Exit 8 take place?"
+      },
+      {
+        "answer": "The movie has a runtime of approximately 1 hour and 35 minutes (95 minutes).",
+        "question": "What is the runtime of Exit 8?"
+      },
+      {
+        "answer": "The film is distributed internationally by NEON.",
+        "question": "Which company distributes Exit 8 internationally?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Psychological horror driven by eerie anomalies, unsettling environments, and the threat of an infinite loop."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity indicated."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or gore present in the description."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate psychological tension and anxiety caused by the stress of endless loops and hyper-vigilance."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 3,
+      "fantasy": 4,
+      "mystery": 10,
+      "romance": 0,
+      "science": 3,
+      "suspense": 10,
+      "violence": 2
+    },
+    "created_at": "2026-07-28 09:01:44.414845",
+    "updated_at": "2026-07-28 09:01:44.414845"
+  }
 }
