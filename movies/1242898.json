@@ -10,9 +10,9 @@
     "budget": "105000000",
     "revenue": "184500000",
     "status": "Released",
-    "popularity": 33.8853,
-    "voteAverage": 7.825,
-    "voteCount": 3360,
+    "popularity": 34.5357,
+    "voteAverage": 7.827,
+    "voteCount": 3370,
     "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
     "posterPath": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
     "backdropPath": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
@@ -4242,8 +4242,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.825,
-      "votesCount": 3360
+      "ratingValue": 7.827,
+      "votesCount": 3370
     },
     {
       "source": "imdb",
@@ -4353,21 +4353,21 @@
       "order": 9
     },
     {
-      "tmdbPersonId": 568322,
-      "name": "Dan Trachtenberg",
-      "profilePath": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1061155,
       "name": "Patrick Aison",
       "profilePath": "/g7YLi0xC5npE2O5FUbG6SYV9jOz.jpg",
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 568322,
+      "name": "Dan Trachtenberg",
+      "profilePath": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -4603,5 +4603,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1242898/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1242898,
+    "hash": "f0b7ac97381c0a23b2bc476a97c32e2ce69fec55e9388bc908583e4107cbd292",
+    "summary_one_sentence": "Cast out from his clan for being deemed weak, a young Predator allies with a damaged Weyland-Yutani synthetic to survive a deadly alien planet and hunt an unkillable apex beast.",
+    "summary_short": "Exiled by his ruthless clan leader father, Dek, a young Yautja, ventures to the deadly world of Genna to hunt the legendary Kalisk and prove his worth as a true warrior. Upon crash-landing, he reluctantly allies with Thia, a damaged Weyland-Yutani android seeking her missing components and synthetic sister. Together, the duo must navigate Genna's lethal ecosystem while facing corporate mercenaries and tracking down an unkillable creature. Through their perilous journey, Dek learns the true meaning of honor and leadership beyond his clan's brutal code.",
+    "summary_long": "On the harsh home planet of Yautja Prime, Dek is considered a weak runt by his father, clan leader Njohrr, who orders Dek's execution. Defying their father's command, Dek's brother Kwei helps Dek escape to Genna, a legendary death world inhabited by an unkillable apex creature known as the Kalisk. After crash-landing on Genna and losing most of his advanced gear to the planet's lethal flora and fauna, Dek forms a tense alliance with Thia, a bisected Weyland-Yutani android whose research team was slaughtered by the Kalisk. Together, Dek and Thia navigate the treacherous terrain, encountering a young creature named Bud who adopts Dek into its pack. Upon confronting the giant Kalisk, Dek severs its head, only to discover the beast possesses extraordinary regenerative powers and cannot be killed by brute force alone. Captured alongside the Kalisk by a Weyland-Yutani corporate force led by Thia's cold sister Tessa, Dek is subjected to bio-weapon experimentation before Thia helps him escape. Realizing that Bud is actually the Kalisk's offspring, Dek uses Genna's organic environment to craft improvised weapons and launches a daring assault on the corporate base. After rescuing Thia and defeating Tessa in a mechanized power loader, Dek returns home to Yautja Prime, where he overthrows his treacherous father and establishes his own clan based on true protection and unity.",
+    "synopsis": "Set in the expanded alien universe, Predator: Badlands flips the traditional franchise formula by centering on a young Yautja outcast named Dek. Branded a runt and cast out from his violent clan on Yautja Prime, Dek embarks on a treacherous pilgrimage to Genna—a notoriously hostile death world where every plant and animal is a deadly threat. To prove his honor and earn his place as a true hunter, Dek sets out to track down the Kalisk, an unkillable apex predator feared throughout the galaxy. However, after losing his high-tech armor and arsenal upon landing, Dek is forced to form an improbable partnership with Thia, a damaged synthetic android created by the Weyland-Yutani Corporation. As corporate forces close in to exploit the planet's apex biology for bioweapons, the unlikely duo must pool their unique abilities, adapt to a hyper-lethal ecosystem, and redefine what it truly means to be a warrior.",
+    "keywords": [
+      "alien protagonist",
+      "reluctant alliance",
+      "damaged android",
+      "death world",
+      "exile and redemption",
+      "trophy hunt",
+      "apex predator",
+      "hostile environment",
+      "father-son conflict",
+      "found family",
+      "evil corporation",
+      "survival action",
+      "organic weapons",
+      "warrior culture"
+    ],
+    "themes": [
+      {
+        "theme": "Exile and Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Unlikely Alliances",
+        "confidence": 0.92
+      },
+      {
+        "theme": "The Hunt for Purpose and Honor",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Identity and Belonging",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The Predator and android confront the ultimate adversary in a high-stakes battle that tests their strength, strategy, and bond.",
+      "conflict": "Forced into exile, the young Predator must forge an unlikely partnership with a damaged android to navigate surrounding threats.",
+      "resolution": "Having survived the trial, the young Predator proves his worth and establishes a new path and identity beyond his former clan.",
+      "introduction": "A young Predator is cast out from his clan and left to survive in an unforgiving environment alone.",
+      "risingAction": "The duo embarks on a perilous journey across hostile terrain, overcoming escalating dangers and building trust as they hunt for a legendary adversary."
+    },
+    "characters": [
+      {
+        "name": "Dek",
+        "role": "Hero",
+        "description": "A young Yautja outcast and runt who embarks on a dangerous journey to hunt an apex predator and prove his worth."
+      },
+      {
+        "name": "Thia",
+        "role": "Supporting Character",
+        "description": "A damaged Weyland-Yutani synthetic who forms an unlikely alliance with Dek on his treacherous quest."
+      },
+      {
+        "name": "Tessa",
+        "role": "Villain",
+        "description": "A ruthless Weyland-Yutani synthetic and sister model to Thia who actively hunts Dek and Thia."
+      },
+      {
+        "name": "Njohrr",
+        "role": "Villain",
+        "description": "Dek's harsh clan-leader father who rejects and casts him out for being weak."
+      },
+      {
+        "name": "Kwei",
+        "role": "Mentor",
+        "description": "Dek's protective older brother who helps guide and prepare him for his hunt."
+      },
+      {
+        "name": "Bud",
+        "role": "Comic Relief",
+        "description": "A friendly native creature on the planet Genna that bonds with Dek and Thia."
+      },
+      {
+        "name": "MU/TH/UR",
+        "role": "Other",
+        "description": "The Weyland-Yutani artificial intelligence overseer supervising mission operations."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Young Predator",
+        "target": "Damaged Weyland-Yutani Synthetic",
+        "description": "Unlikely Allies"
+      },
+      {
+        "source": "Young Predator",
+        "target": "Predator Clan",
+        "description": "Exiles / Former Clan Members"
+      },
+      {
+        "source": "Young Predator",
+        "target": "Apex Beast",
+        "description": "Hunter / Target"
+      },
+      {
+        "source": "Damaged Weyland-Yutani Synthetic",
+        "target": "Apex Beast",
+        "description": "Survivors / Common Threat"
+      }
+    ],
+    "seo": {
+      "slug": "predator-badlands",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/predator-badlands](https://movnix.com/movie/predator-badlands)",
+        "name": "Predator: Badlands",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+      },
+      "keywords": [
+        "Predator: Badlands",
+        "Predator Badlands movie",
+        "Predator Badlands plot",
+        "Predator Badlands synopsis",
+        "Predator franchise",
+        "Predator android ally"
+      ],
+      "canonical": "[https://movnix.com/movie/predator-badlands](https://movnix.com/movie/predator-badlands)",
+      "metaTitle": "Predator: Badlands - Synopsis, Plot Details & Movie Updates",
+      "openGraph": {
+        "og:title": "Predator: Badlands - Movie Synopsis & Updates",
+        "og:description": "Cast out from his clan, a young Predator allies with a damaged android on a treacherous search for the ultimate adversary in Predator: Badlands."
+      },
+      "twitterCard": {
+        "twitter:title": "Predator: Badlands - Movie Synopsis & Updates",
+        "twitter:description": "Cast out from his clan, a young Predator allies with a damaged android on a treacherous search for the ultimate adversary in Predator: Badlands."
+      },
+      "metaDescription": "Cast out from his clan, a young Predator allies with a damaged android to find the ultimate adversary in Predator: Badlands. Read the full plot details."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is the seventh mainline film and ninth overall installment in the Predator franchise.",
+        "question": "Is Predator: Badlands part of a franchise?"
+      },
+      {
+        "answer": "The film's primary genres are sci-fi action and adventure, featuring thriller elements set in a futuristic alien environment.",
+        "question": "What is the dominant genre of Predator: Badlands?"
+      },
+      {
+        "answer": "The movie is directed by Dan Trachtenberg, who previously directed Prey (2022) and 10 Cloverfield Lane (2016).",
+        "question": "Who directs Predator: Badlands?"
+      },
+      {
+        "answer": "The film stars Elle Fanning as the synthetic android Thia (and her twin sister Tessa) alongside Dimitrius Schuster-Koloamatangi as Dek, the young Yautja protagonist.",
+        "question": "Who stars in Predator: Badlands?"
+      },
+      {
+        "answer": "The story follows Dek, a young Predator outcast from his clan, who forms an uneasy alliance with a damaged Weyland-Yutani synthetic named Thia to survive a hostile alien planet and hunt down an apex creature.",
+        "question": "What is the main plot of Predator: Badlands?"
+      },
+      {
+        "answer": "Yes, while Xenomorphs do not appear directly, the film incorporates lore from the shared Alien universe, such as the involvement of the Weyland-Yutani Corporation and android synthetics.",
+        "question": "Does Predator: Badlands connect to the Alien universe?"
+      },
+      {
+        "answer": "No, it is a standalone story set far into the future, although it is directed by Dan Trachtenberg who also directed Prey.",
+        "question": "Is Predator: Badlands a direct sequel to Prey (2022)?"
+      },
+      {
+        "answer": "It was theatrically released in the United States on November 7, 2025.",
+        "question": "When was Predator: Badlands released in theaters?"
+      },
+      {
+        "answer": "Following its theatrical window, the movie is available for streaming on Hulu in the United States and on Disney+ internationally.",
+        "question": "Where can I stream Predator: Badlands?"
+      },
+      {
+        "answer": "No, the movie concludes during the main credits without a traditional mid- or post-credits teaser scene.",
+        "question": "Is there a post-credits scene in Predator: Badlands?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Suspenseful alien survival elements, intimidating creature designs, hostile extraterrestrial environments, and mild jump scares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Minimal to no foul language given the non-human character focus."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Strong sci-fi action violence involving alien creatures and androids. Features dismemberment, combat, and green/synthetic blood without human red blood."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or smoking references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romance."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity involving themes of exile, family betrayal, and high-stakes survival peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 6,
+      "romance": 0,
+      "science": 8,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 07:24:04.875772",
+    "updated_at": "2026-07-28 07:24:04.875772"
+  }
 }
