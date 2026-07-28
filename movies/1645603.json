@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 42.283,
-    "voteAverage": 5.172,
-    "voteCount": 64,
+    "popularity": 35.3547,
+    "voteAverage": 5.123,
+    "voteCount": 65,
     "homepage": "https://mock-movie-website.com/movies/1645603",
     "posterPath": "/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
     "backdropPath": "/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
@@ -115,8 +115,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.172,
-      "votesCount": 64
+      "ratingValue": 5.123,
+      "votesCount": 65
     },
     {
       "source": "imdb",
@@ -393,5 +393,274 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1645603/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1645603,
+    "hash": "e36526e8eaf24c20ff092b5c466334c585aaa24fbf73cb9e04c731e61ff496b3",
+    "summary_one_sentence": "When a sudden plague of flesh-eating ghouls terrorizes rural Pennsylvania, a group of strangers barricades themselves inside an isolated farmhouse to survive the night.",
+    "summary_short": "After an enigmatic phenomenon reanimates the dead, siblings Barbara and Johnny are attacked at a remote cemetery, leaving Barbara to flee to a nearby farmhouse. She is soon joined by Ben, a resourceful stranger, and together they fortify the home alongside a fractured group hiding in the cellar. As internal power struggles and fear boil over, the relentless hordes of undead breach their defenses outside. Ultimately, the survivors must confront not only the flesh-eating monsters, but also the tragic consequences of human panic and mistrust.",
+    "summary_long": "While visiting their father's grave in rural Pennsylvania, Barbara and her brother Johnny are suddenly attacked by a reanimated corpse, resulting in Johnny's tragic death. Terrified, Barbara flees to an abandoned farmhouse, where she meets Ben, a pragmatic driver who quickly takes charge of barricading the windows and doors. The duo soon discovers they are not alone; a hostile man named Harry Cooper, his sick daughter, his wife, and a young couple have been hiding in the cellar. Deep-seated tension quickly erupts between Ben and Harry over whether to defend the main floor or seal themselves below ground. As they listen to frantic radio reports detailing a widespread epidemic of flesh-eating undead, the group attempts a desperate escape to refuel a truck. The escape plan fails catastrophically when a molotov cocktail accidentally ignites the vehicle, killing the young couple and sparking an aggressive siege by the horde. With the defenses compromised, zombies breach the farmhouse, leading to chaotic violence as Harry's infected daughter turns on her parents. Ben manages to retreat into the cellar, surviving the terrifying ordeal until morning breaks. Tragically, when a armed rescue militia arrives at dawn, they mistake Ben for one of the walking dead and fatally shoot him, ending the night in bitter irony.",
+    "synopsis": "George A. Romero's seminal horror masterpiece follows an unlikely group of strangers forced together in a rural Pennsylvania farmhouse during a sudden, unexplained crisis where the dead rise with an insatiable appetite for human flesh. Led by the decisive Ben and the traumatized Barbara, the survivors battle mounting terror from the ghoul horde surrounding them, while simultaneously clashing over leadership, survival strategies, and personal survival instincts. The film blends atmospheric tension with subtle social critique, examining how panic, prejudice, and human paranoia can be just as dangerous as the monsters pounding at the door.",
+    "keywords": [
+      "zombie apocalypse",
+      "siege mentality",
+      "barricaded in a house",
+      "flesh-eating ghouls",
+      "survival horror",
+      "pennsylvania countryside",
+      "social commentary",
+      "bleak ending",
+      "isolation",
+      "paranoid tension",
+      "nighttime setting",
+      "foundational zombie film",
+      "black and white cinematography"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Human Nature & Conflict",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation & Siege",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fear of the Unknown",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Desperate",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Grim",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The horde breaches the farmhouse's barricades, forcing the remaining survivors into a desperate, chaotic last stand against the invading ghouls as the defenses completely collapse.",
+      "conflict": "The small group of strangers trapped inside must survive the night against the relentless swarm of flesh-eating ghouls surrounding the house, while battling intense internal strife over how best to defend the stronghold.",
+      "resolution": "As morning dawns, the local authorities and armed posses sweep the countryside to clear out the remaining undead, bringing a grim and tragic conclusion to the night's events.",
+      "introduction": "While visiting a rural Pennsylvania cemetery, Barbra is suddenly attacked by a strange, aggressive man. She flees to an isolated farmhouse, where she meets Ben, another survivor who helps barricade the house against an increasing horde of mindless, reanimated corpses.",
+      "risingAction": "Tensions rise as conflicts brew between Ben and the argumentative Harry Cooper regarding whether to hide in the cellar or hold the main floor. The group struggles to secure doors and windows, repairs a generator, and attempts a risky escape to fetch gas for a truck, which leads to mounting chaos and casualties."
+    },
+    "characters": [
+      {
+        "name": "Barbra",
+        "role": "Hero",
+        "description": "A survivor who seeks refuge in the farmhouse, initially traumatized by the outbreak but driven to fight alongside the group to stay alive."
+      },
+      {
+        "name": "Ben",
+        "role": "Hero",
+        "description": "A resourceful and pragmatic leader who takes charge of fortifying the farmhouse and protecting the survivors from the undead threat."
+      },
+      {
+        "name": "Harry Cooper",
+        "role": "Anti Hero",
+        "description": "A hot-headed and selfish survivor who constantly clashes with the group's decisions, prioritizing his family's safety above all else."
+      },
+      {
+        "name": "Helen Cooper",
+        "role": "Supporting Character",
+        "description": "A protective mother forced to deal with her injured daughter while mediating tensions between her stubborn husband and the other survivors."
+      },
+      {
+        "name": "Tom",
+        "role": "Supporting Character",
+        "description": "A level-headed young man who assists with barricading the farmhouse and securing supplies to help the group survive."
+      },
+      {
+        "name": "Judy",
+        "role": "Supporting Character",
+        "description": "Tom's loyal partner who helps support the group during the siege."
+      },
+      {
+        "name": "The Zombies / Flesh-Eating Ghouls",
+        "role": "Villain",
+        "description": "The persistent, reanimated horde surrounding the farmhouse that relentlessly hunts and consumes human survivors."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Barbra",
+        "target": "Johnny",
+        "description": "Siblings"
+      },
+      {
+        "source": "Ben",
+        "target": "Barbra",
+        "description": "Protector / Co-survivors"
+      },
+      {
+        "source": "Ben",
+        "target": "Harry Cooper",
+        "description": "Rivals / Antagonistic Co-survivors"
+      },
+      {
+        "source": "Harry Cooper",
+        "target": "Helen Cooper",
+        "description": "Husband & Wife"
+      },
+      {
+        "source": "Harry Cooper",
+        "target": "Karen Cooper",
+        "description": "Father & Daughter"
+      },
+      {
+        "source": "Helen Cooper",
+        "target": "Karen Cooper",
+        "description": "Mother & Daughter"
+      },
+      {
+        "source": "Tom",
+        "target": "Judy",
+        "description": "Boyfriend & Girlfriend"
+      },
+      {
+        "source": "Ben",
+        "target": "Tom",
+        "description": "Allies / Co-survivors"
+      }
+    ],
+    "seo": {
+      "slug": "night-of-the-living-dead",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/night-of-the-living-dead](https://movnix.com/movie/night-of-the-living-dead)",
+        "name": "Night of the Living Dead",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "director": {
+          "name": "George A. Romero",
+          "@type": "Person"
+        },
+        "description": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+        "datePublished": "1968-10-01"
+      },
+      "keywords": [
+        "Night of the Living Dead",
+        "Night of the Living Dead synopsis",
+        "classic horror movies",
+        "zombie movies",
+        "George A Romero",
+        "1968 horror film"
+      ],
+      "canonical": "[https://movnix.com/movie/night-of-the-living-dead](https://movnix.com/movie/night-of-the-living-dead)",
+      "metaTitle": "Night of the Living Dead (1968) - Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Night of the Living Dead - Horror Movie Overview",
+        "og:description": "A ragtag group barricades themselves in an old farmhouse to survive a horde of flesh-eating ghouls in George A. Romero's horror classic."
+      },
+      "twitterCard": {
+        "twitter:title": "Night of the Living Dead - Horror Movie Overview",
+        "twitter:description": "A ragtag group barricades themselves in an old farmhouse to survive a horde of flesh-eating ghouls in George A. Romero's horror classic."
+      },
+      "metaDescription": "A ragtag group barricades themselves in a Pennsylvania farmhouse to survive a horde of flesh-eating ghouls in George A. Romero's horror classic."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is horror, specifically sub-categorized as a classic zombie/ghoul horror film that helped establish the modern zombie archetype.",
+        "question": "What is the dominant genre of Night of the Living Dead?"
+      },
+      {
+        "answer": "Yes, it is the first installment in George A. Romero's famous 'Night of the Living Dead' franchise (often referred to as the 'Living Dead' series), which includes sequels like Dawn of the Dead and Day of the Dead.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The movie was released in 1968, long before post-credit scenes became a standard industry practice.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The movie was directed by George A. Romero, who also co-wrote the screenplay with John Russo.",
+        "question": "Who directed Night of the Living Dead?"
+      },
+      {
+        "answer": "The film originally premiered on October 1, 1968, in Pittsburgh, Pennsylvania, before receiving a wider theatrical release.",
+        "question": "When was Night of the Living Dead released?"
+      },
+      {
+        "answer": "The story takes place in rural western Pennsylvania, where the characters barricade themselves inside a farmhouse to escape the creature outbreak.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, the word 'zombie' is never actually used in the original film. The characters and news broadcasts refer to them as 'ghouls' or 'flesh-eaters'.",
+        "question": "Are the creatures in the film explicitly called 'zombies'?"
+      },
+      {
+        "answer": "Yes, due to an error by the original theatrical distributor, the film failed to place a proper copyright notice on the prints, placing it in the public domain immediately upon release.",
+        "question": "Is Night of the Living Dead in the public domain?"
+      },
+      {
+        "answer": "The original 1968 movie was shot and released in black-and-white, partly due to budget constraints, which added to its gritty, newsreel-like atmospheric quality.",
+        "question": "Is the movie in color or black-and-white?"
+      },
+      {
+        "answer": "While unrated at the time of its release, the movie features intense terror, graphic violence, and gore for its era, making it generally recommended for mature audiences.",
+        "question": "Is this film suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 9,
+        "description": "Pervasive dread, intense suspense, disturbing imagery, and terrifying claustrophobic threats throughout the narrative."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild, period-typical mild profanity and tense, panic-driven verbal outbursts."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic depictions of cannibalistic violence, gore, dismemberment, and firearms usage as characters fight for survival against ghouls."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Characters consume alcohol and smoke cigarettes to cope with high stress."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to none; brief instance of non-sexualized partial nudity associated with a ghoul attack."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high psychological stress, hopeless situations, grief, familial tragedy, and a bleak, traumatic climax."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 6,
+      "romance": 0,
+      "science": 3,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 20:06:51.569577",
+    "updated_at": "2026-07-28 20:06:51.569577"
+  }
 }
