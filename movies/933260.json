@@ -3708,5 +3708,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/933260/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 933260,
+    "hash": "9467bde4235c16c6b9c7aeb0f76b602f7a183fe55b91098646d827885553f1c0",
+    "summary_one_sentence": "Facing career decay in youth-obsessed Hollywood, an aging celebrity takes a black-market drug to illegally replicate a younger, flawless version of herself—with horrifying consequences.",
+    "summary_short": "Elisabeth Sparkle, a former A-list star facing ageism in the entertainment industry, turns to a radical black-market medical treatment known as 'The Substance.' The procedure spawns Sue, a vibrant, younger alter-ego who shares Elisabeth's consciousness under strict rules of time-sharing. As Sue's desire for dominance grows, she violates the balance, causing horrifying physical decay and escalating chaos for both bodies.",
+    "summary_long": "Elisabeth Sparkle, an aging celebrity whose TV fitness show is abruptly canceled due to her age, hits rock bottom after a car accident. Desperate to retain her fame and beauty, she accepts a mysterious offer for 'The Substance,' a black-market drug that promises to unlock a younger, more perfect version of herself. Upon injecting it, Elisabeth physically gives birth to Sue, a flawless younger woman who must alternate body control with Elisabeth every seven days without exception. Sue rapidly rises to fame, securing Elisabeth's old job and basking in public adoration, while Elisabeth spends her off-weeks in isolation, consuming junk food and harboring deep self-loathing. Tempted by her lavish lifestyle, Sue begins over-extracting the necessary fluid from Elisabeth to extend her own time, causing Elisabeth's original body to rapidly age and deform. Realizing Sue is leeching her life force, Elisabeth attempts to destroy her alter-ego, but Sue retaliates violently to survive. The situation culminates in a gruesome, chaotic climax as the laws of the procedure break down completely, revealing the terrifying cost of unnatural youth and vanity.",
+    "synopsis": "The Substance offers a sharp, darkly funny, and visceral take on modern beauty standards and the entertainment industry's obsession with youth. When Elisabeth Sparkle, a legendary star, is unceremoniously discarded by her network executive for being 'too old,' she encounters a shadowy cellular-replication treatment. The drug claims to generate a younger, better version of the user, operating under one absolute rule: the two bodies must share time equally, swapping consciousness every seven days. What begins as a miracle cure quickly devolves into a nightmare of vanity, addiction, and body horror when the delicate balance between the two entities collapses.",
+    "keywords": [
+      "body horror",
+      "fading celebrity",
+      "youth obsession",
+      "unrealistic beauty standards",
+      "black market drug",
+      "doppelganger",
+      "alter ego",
+      "Hollywood satire",
+      "body dysmorphia",
+      "cellular replication",
+      "self-destruction",
+      "vanity",
+      "addiction",
+      "parasitic relationship"
+    ],
+    "themes": [
+      {
+        "theme": "Bodily Autonomy and Youth Obsession",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Self-Objectification and Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Fame and Erasure",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Duality and Addiction",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Disturbing",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The desperate battle for control and youth reaches a chaotic breaking point when the delicate balance completely fractures, triggering a shocking, extreme physical transformation during a major public appearance.",
+      "conflict": "Desperate to regain her youth and status, Elisabeth secretively uses a black-market drug called 'The Substance,' which generates a younger, seemingly perfect alter-ego named Sue.",
+      "resolution": "In the tragic aftermath of pursuing impossible perfection, the destructive consequences of self-hatred and societal beauty standards are laid bare in a haunting final reckoning.",
+      "introduction": "Elisabeth Sparkle, an aging Hollywood celebrity facing career rejection due to ageism, struggles with her declining fame and crumbling self-worth.",
+      "risingAction": "Sue achieves rapid stardom, but the process strictly requires a precise seven-day rotation between both bodies. As Sue becomes addicted to the spotlight and breaches the rules, Elisabeth's original body suffers severe physical degradation, sparking an intense psychological war between both selves."
+    },
+    "characters": [
+      {
+        "name": "Elisabeth Sparkle",
+        "role": "Anti Hero",
+        "description": "A fading celebrity driven by deep insecurity and fear of aging who injects a black-market drug to create a younger version of herself."
+      },
+      {
+        "name": "Sue",
+        "role": "Anti Hero",
+        "description": "The younger, vibrant clone created by The Substance who achieves instant stardom and selfishly violates the body-sharing rules."
+      },
+      {
+        "name": "Harvey",
+        "role": "Villain",
+        "description": "A crude, ageist television executive who unceremoniously fires Elisabeth due to her age to find a younger replacement."
+      },
+      {
+        "name": "Oliver",
+        "role": "Supporting Character",
+        "description": "A former high school classmate who genuinely admires Elisabeth and offers her a chance at an authentic human connection."
+      },
+      {
+        "name": "The Doctor",
+        "role": "Supporting Character",
+        "description": "The clinical provider who secretly introduces Elisabeth to the existence of The Substance."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elisabeth Sparkle",
+        "target": "Sue",
+        "description": "Original self and cell-replicated younger alter ego / Co-dependent rivals"
+      },
+      {
+        "source": "Elisabeth Sparkle",
+        "target": "Harvey",
+        "description": "Former star and ageist TV executive / Dismissive employer"
+      },
+      {
+        "source": "Sue",
+        "target": "Harvey",
+        "description": "Star talent and exploitative TV producer"
+      },
+      {
+        "source": "Elisabeth Sparkle",
+        "target": "The Substance Supplier",
+        "description": "Client and illicit black-market distributor"
+      }
+    ],
+    "seo": {
+      "slug": "the-substance",
+      "jsonLd": {
+        "name": "The Substance",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself."
+      },
+      "keywords": [
+        "The Substance",
+        "The Substance movie",
+        "The Substance plot",
+        "The Substance synopsis",
+        "body horror movies"
+      ],
+      "canonical": "[https://movnix.com/movie/the-substance](https://movnix.com/movie/the-substance)",
+      "metaTitle": "The Substance - Movie Plot, Overview & Details",
+      "openGraph": {
+        "og:title": "The Substance - Movie Plot & Overview",
+        "og:description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger version of herself."
+      },
+      "twitterCard": {
+        "twitter:title": "The Substance - Movie Plot & Overview",
+        "twitter:description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger version of herself."
+      },
+      "metaDescription": "A fading celebrity uses a black market cell-replicating drug to create a younger, better version of herself. Read the full plot of The Substance."
+    },
+    "faq": [
+      {
+        "answer": "The Substance is primarily a body horror film heavily infused with satirical dark comedy and psychological thriller elements.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "No, The Substance is a standalone original film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes in The Substance. The story concludes fully before the credits roll.",
+        "question": "Is there a post-credit scene in The Substance?"
+      },
+      {
+        "answer": "The film was written and directed by Coralie Fargeat. It stars Demi Moore as Elisabeth Sparkle, Margaret Qualley as Sue, and Dennis Quaid as Harvey.",
+        "question": "Who stars in the film and who directed it?"
+      },
+      {
+        "answer": "The plot follows Elisabeth Sparkle, a fading Hollywood celebrity who uses a black-market cell-replicating drug to create a younger, ideal version of herself named Sue, leading to dark consequences when the balance rules are violated.",
+        "question": "What is the main plot of The Substance?"
+      },
+      {
+        "answer": "Users must strictly switch between the original body and the new body every seven days without exception, sharing time equally while remembering that both bodies are part of one single consciousness.",
+        "question": "What are the rules for using 'The Substance' in the film?"
+      },
+      {
+        "answer": "The film is rated R for strong visual body horror, graphic bloody violence, intense gore, full-frontal nudity, sexual content, and pervasive language.",
+        "question": "What is the age rating and content advisory for the movie?"
+      },
+      {
+        "answer": "The movie explores themes of ageism, societal beauty standards, misogyny, self-hatred, body dysmorphia, and the brutal commodification of women in the entertainment industry.",
+        "question": "What are the core themes explored in The Substance?"
+      },
+      {
+        "answer": "The Substance has a runtime of approximately 141 minutes (2 hours and 21 minutes).",
+        "question": "What is the official runtime of the movie?"
+      },
+      {
+        "answer": "No, the movie features extreme body transformations, heavy prosthetic effects, graphic injuries, and intense fluids, making it unsuited for viewers sensitive to gore or bodily discomfort.",
+        "question": "Is The Substance suitable for viewers sensitive to body horror or gore?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 9,
+        "description": "Pervasive and disturbing body horror, horrific bodily transformations, severe dysmorphic hallucinations, and deeply unsettling surreal degradation."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong language, including strong profanities and crude verbal abuse regarding physical appearance."
+      },
+      "violence": {
+        "score": 9,
+        "description": "Extreme body horror and graphic gore, featuring intense visceral scenes of self-mutilation, severe bodily degradation, surgical cuts, and massive bloodbaths."
+      },
+      "substance": {
+        "score": 8,
+        "description": "Central focus on illicit black-market drug use, severe addiction themes, repeated graphic needle injections, and consequences of substance misuse."
+      },
+      "sexualContent": {
+        "score": 7,
+        "description": "Extensive full-frontal female nudity, highly sexualized camera framing, provocative media objectification, and eroticized imagery."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Deeply intense psychological distress, severe body dysmorphia, agonizing themes of aging and self-loathing, public humiliation, and extreme isolation."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 5,
+      "emotion": 7,
+      "fantasy": 2,
+      "mystery": 6,
+      "romance": 1,
+      "science": 7,
+      "suspense": 9,
+      "violence": 9
+    },
+    "created_at": "2026-07-28 13:10:05.92689",
+    "updated_at": "2026-07-28 13:10:05.92689"
+  }
 }
