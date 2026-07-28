@@ -974,5 +974,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1043197/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1043197,
+    "hash": "ce83b39e8a6ac2d8b2dbd038a966f43c5e0e23080e9158d8db8028666ae0d0a6",
+    "summary_one_sentence": "A young girl hires her reclusive hitman neighbor to slay the monster under her bed that ate her family, pulling him into a surreal battle against assassins and supernatural terror.",
+    "summary_short": "Ten-year-old Aurora believes a terrifying creature under her bed devoured her family and seeks out her neighbor, a stoic hitman for hire whom she views as a monster slayer. Guilt-ridden by the possibility that his dangerous line of work indirectly led to her family's demise, the hitman reluctantly takes the job to protect her. As an onslaught of deadly assassins descends upon them, the duo must navigate a lethal underworld while confronting the chilling truth that some monsters are very real.",
+    "summary_long": "After warning her parents not to touch the floor, ten-year-old Aurora hides beneath her blankets as a mysterious monster in her bedroom destroys her family. Convinced her reclusive neighbor—a professional hitman—kills real-life monsters, she uses stolen church funds to procure his services. The hitman accepts the contract out of guilt, suspecting rival assassins meant for him were responsible for her family's disappearance. His ruthless handler, Laverne, marks the young girl as a dangerous witness who must be eliminated, prompting a wave of ruthless killers to hunt them down. While fending off gun fights and brutal close-quarters combat, the hitman strives to keep Aurora safe from the human threats encircling them. However, as the killers converge on Aurora's apartment, the floorboards burst open to reveal a massive, toothy creature composed of fluff and terror. The beast devours the invading hitmen, proving that Aurora's fears were far from a childhood hallucination. Recognizing that Aurora possesses a dark connection to the creature, the hitman helps her control the beast, and together they escape the city to start a new life.",
+    "synopsis": "Aurora is a ten-year-old girl with a vivid imagination and a terrifying problem: she is convinced a sinister monster resides directly underneath her bedroom floorboards. When her family suddenly vanishes after ignoring her warnings, Aurora seeks out her mysterious next-door neighbor, a stoic and lethal hitman for hire. Believing his violent profession makes him a seasoned monster slayer, Aurora offers him her savings to hunt down the creature that took her family.\n\nTaking the job out of a lingering sense of guilt, the hitman suspects her family was actually caught in the crossfire of rival assassins targeting him. His cold-blooded handler demands that Aurora be eliminated as a loose end, sending a wave of mercenary killers after the pair. As the hitman navigates an escalating onslaught of deadly human foes to protect his young client, the boundaries between harsh reality and dark fantasy begin to blur, forcing him to face an unexpected threat lurking beneath the floor.",
+    "keywords": [
+      "monster under the bed",
+      "hitman next door",
+      "child protagonist",
+      "dark fantasy",
+      "moral ambiguity",
+      "assassin showdown",
+      "damsel in distress",
+      "shadowy organization",
+      "found family",
+      "protective figure",
+      "supernatural horror",
+      "unreliable witness",
+      "conspiracy thriller",
+      "coming-of-age"
+    ],
+    "themes": [
+      {
+        "theme": "Childhood Innocence & Trauma",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Unlikely Protector",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Hidden Realities / Monsters Among Us",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Protection",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Confronting Evil",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dark Fantasy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The hitman confronts the source of the attacks, battling a significant threat. During this intense confrontation, the true nature of the 'monster' and its connection to both Aurora's past and the hitman's present is revealed, forcing him to accept that some threats are more complex than meets the eye.",
+      "conflict": "Aurora explicitly asks her hitman neighbor to eliminate the monster she believes consumed her family, setting up the central conflict between childhood fantasy, harsh reality, and the neighbor's hidden life. He is then targeted by an unknown group.",
+      "resolution": "The immediate danger is neutralized, bringing a fragile peace. The hitman's relationship with Aurora is redefined, and he must come to terms with the implications of what he has learned about the world and her experiences, leading to a new understanding of protection and consequence.",
+      "introduction": "Introduce Aurora, a young girl with a vivid imagination and a terrifying monster under her bed, and her seemingly ordinary neighbor, who harbors a dangerous secret profession. Establish their initial, unlikely connection.",
+      "risingAction": "The hitman, initially dismissing Aurora's claims, faces increasing attacks from professional assassins. He begins to question his understanding of reality as he protects Aurora, while the line between her 'monster' and the real-world threats blurs. Aurora provides unsettling clues that seem to connect to his escalating predicaments."
+    },
+    "characters": [
+      {
+        "name": "Resident 5B",
+        "role": "Anti Hero",
+        "description": "A skilled and cynical hitman who reluctantly becomes Aurora's protector, defending her from an onslaught of assassins while confronting the dark reality of her trauma."
+      },
+      {
+        "name": "Aurora",
+        "role": "Hero",
+        "description": "A resourceful ten-year-old girl grieving her family's loss who hires her assassin neighbor to defeat the monster lurking under her bed."
+      },
+      {
+        "name": "Laverne",
+        "role": "Villain",
+        "description": "Resident 5B's cold and ruthless handler who orders him to abandon Aurora and unleashes deadly assassins to eliminate them."
+      },
+      {
+        "name": "Conspicuously Inconspicuous Man",
+        "role": "Supporting Character",
+        "description": "An eccentric assassin sent as part of the wave of killers targeting Resident 5B and Aurora."
+      },
+      {
+        "name": "Brenda",
+        "role": "Supporting Character",
+        "description": "A key figure within the deadly assassin network who intersects with Resident 5B's high-stakes mission."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Aurora",
+        "target": "Hitman Neighbor",
+        "description": "Client/Protector"
+      },
+      {
+        "source": "Hitman Neighbor",
+        "target": "Aurora",
+        "description": "Protector/Reluctant Guardian"
+      },
+      {
+        "source": "Hitman Neighbor",
+        "target": "Assassins",
+        "description": "Enemies"
+      },
+      {
+        "source": "Aurora",
+        "target": "Monster under the bed",
+        "description": "Antagonist/Family's Killer"
+      },
+      {
+        "source": "Hitman Neighbor",
+        "target": "Monster under the bed",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "dust-bunny",
+      "jsonLd": {
+        "name": "Dust Bunny",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Action"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real."
+      },
+      "keywords": [
+        "Dust Bunny movie",
+        "Dust Bunny synopsis",
+        "Dust Bunny plot",
+        "Dust Bunny film",
+        "horror thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/dust-bunny](https://movnix.com/movie/dust-bunny)",
+      "metaTitle": "Dust Bunny (2025) - Synopsis, Plot & Movie Details",
+      "openGraph": {
+        "og:title": "Dust Bunny - Official Movie Overview",
+        "og:description": "A hitman agrees to protect a 10-year-old girl from the monster under her bed, leading to a brutal fight against relentless assassins."
+      },
+      "twitterCard": {
+        "twitter:title": "Dust Bunny Movie Details",
+        "twitter:description": "Can a hitman save a young girl from the monster under her bed—and the assassins on her trail?"
+      },
+      "metaDescription": "When 10-year-old Aurora hires her hitman neighbor to kill the monster under her bed, he must fight off deadlier assassins to keep her safe."
+    },
+    "faq": [
+      {
+        "answer": "No, Dust Bunny is a standalone original film and is not part of an existing movie franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no additional scenes after or during the credits of Dust Bunny.",
+        "question": "Is there a post-credit scene in Dust Bunny?"
+      },
+      {
+        "answer": "Dust Bunny is primarily a fantasy action-horror film with dark comedy elements.",
+        "question": "What is the dominant genre of Dust Bunny?"
+      },
+      {
+        "answer": "The film was written and directed by Bryan Fuller, marking his feature film directorial debut.",
+        "question": "Who wrote and directed Dust Bunny?"
+      },
+      {
+        "answer": "The main cast features Mads Mikkelsen, Sophie Sloan, Sheila Atim, David Dastmalchian, and Sigourney Weaver.",
+        "question": "Who stars in Dust Bunny?"
+      },
+      {
+        "answer": "In the United States, Dust Bunny is rated R due to violence and dark themes, though its tone is described as stylized, dark fairy-tale action.",
+        "question": "Is Dust Bunny suitable for children?"
+      },
+      {
+        "answer": "The film follows ten-year-old Aurora, who asks her hitman neighbor to kill the monster under her bed that she claims ate her family, forcing him to fight off assassins while accepting that monsters might actually exist.",
+        "question": "What is the plot of Dust Bunny?"
+      },
+      {
+        "answer": "Dust Bunny premiered at the Toronto International Film Festival on September 9, 2025, followed by a theatrical release in the United States on December 12, 2025.",
+        "question": "When was Dust Bunny released?"
+      },
+      {
+        "answer": "It is based on an original script written by Bryan Fuller, which originally began as a story concept for television.",
+        "question": "Is Dust Bunny based on a book or an original script?"
+      },
+      {
+        "answer": "The musical score for Dust Bunny was composed by Isabella Summers.",
+        "question": "Who composed the music score for Dust Bunny?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to strong horror themes centered around a family-devouring monster living under a child's bed."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate profanity and strong language typical of action-thriller and crime contexts."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence involving hitmen, multiple assassin battles, and violent encounters with both human targets and a dangerous creature."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate references or depictions of alcohol and tobacco use typical for hitman and crime genre tropes."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Highly intense emotional themes involving a young child coping with the traumatic loss and devouring of her family."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 3,
+      "emotion": 7,
+      "fantasy": 7,
+      "mystery": 6,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 14:59:12.972596",
+    "updated_at": "2026-07-28 14:59:12.972596"
+  }
 }
