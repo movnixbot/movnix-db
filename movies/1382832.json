@@ -479,5 +479,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1382832/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1382832,
+    "hash": "f8815d74c39bf3632592c1f05e38df571d4a4191cd2afc94cbbcb97105a5009d",
+    "summary_one_sentence": "Lost in the treacherous Louisiana swamplands, a group of holidaymakers finds themselves hunted by a vicious, rampaging hippo.",
+    "summary_short": "A relaxing vacation turns into a terrifying fight for survival when a group of holidaymakers gets hopelessly lost in the Louisiana bayou. As they navigate the dense, unfamiliar swamplands, they realize they are being stalked by an unnaturally aggressive, escaped hippopotamus. Isolated from civilization with limited supplies, the group must band together to outsmart the lethal predator. Every attempt to signal for help only seems to draw the territorial beast closer.",
+    "summary_long": "What was supposed to be a scenic getaway quickly devolves into a nightmare when a group of holidaymakers takes a wrong turn and ends up deep within the uncharted Louisiana swamplands. Unbeknownst to them, a massive and unusually aggressive hippopotamus has escaped captivity and claimed the dense marshlands as its supreme hunting ground. Disoriented and stripped of reliable navigation, the group struggles through murky waters and dense vegetation, completely unaware of the threat looming beneath the surface. Terror strikes suddenly when the apex herbivore launches a brutal ambush, instantly shattering any hope of a peaceful rescue. As night falls over the swamp, tensions skyrocket within the group as panic and differing survival instincts threaten to tear them apart from within. Forced to adapt to a lethal environment, they must improvise weapons and craft crude shelters while trying to avoid the beast's relentless attacks. Each attempt to find a way back to safety leads them deeper into the hippo's territorial domain, turning every splash in the water into a potential death sentence. With their numbers dwindling and fear taking hold, the remaining survivors are forced into a desperate, high-stakes showdown against an unstoppable force of nature. Ultimately, they must find a way to outsmart the wild animal before they all succumb to the horrors of the swamp.",
+    "synopsis": "Hungry is a high-tension thrill ride that blends survival drama with creature-feature horror. Set against the atmospheric and oppressive backdrop of the Louisiana bayou, the narrative follows a vacationing group whose trip takes a deadly turn after becoming stranded in unfamiliar territory. Rather than standard swamp hazards, they are confronted by an unexpected and utterly terrifying apex threat: a rogue, rampaging hippo. The film explores themes of human vulnerability, team dynamics under extreme pressure, and the raw power of nature as the group relies on grit and quick thinking to stay alive against an unpredictable predator.",
+    "keywords": [
+      "hippopotamus",
+      "Louisiana swamplands",
+      "animal attack",
+      "survival horror",
+      "creature feature",
+      "lost in the woods",
+      "holidaymakers",
+      "fight for survival",
+      "man vs nature",
+      "deadly wildlife",
+      "bayou setting",
+      "isolation",
+      "stranded tourists"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Cornered with nowhere left to run, the remaining survivors are forced into a desperate, high-stakes final confrontation against the relentless predator.",
+      "conflict": "After taking a wrong turn, the tourists become hopelessly lost and discover they are stranded in the territory of a highly aggressive, escaped hippo.",
+      "resolution": "With the immediate threat overcome or escaped, the surviving holidaymakers wait for rescue, shaken by their fight for survival in the wilderness.",
+      "introduction": "A group of holidaymakers arrives in the scenic Louisiana swamplands, expecting a relaxing vacation navigating the bayou.",
+      "risingAction": "Tensions flare and panic sets in as the group makes desperate attempts to find help, facing deadly attacks, diminishing resources, and treacherous natural hazards."
+    },
+    "characters": [
+      {
+        "name": "Unknown Hero",
+        "role": "Hero",
+        "description": "Lead survivor who takes charge to fight off the rampaging hippo and lead the group to safety."
+      },
+      {
+        "name": "Swamp Creature / Rampaging Hippo",
+        "role": "Villain",
+        "description": "The primary antagonist driving the conflict by hunting the stranded holidaymakers in the swamplands."
+      },
+      {
+        "name": "Local Guide / Survivalist Expert",
+        "role": "Mentor",
+        "description": "Provides vital knowledge about navigating the Louisiana swamplands and surviving animal encounters."
+      },
+      {
+        "name": "Stranded Holidaymaker",
+        "role": "Supporting Character",
+        "description": "A member of the lost vacation group who aids in group survival and dynamic tensions."
+      },
+      {
+        "name": "Panicky Group Member",
+        "role": "Comic Relief",
+        "description": "Brings levity to the high-stakes situation through anxious reactions and lighthearted banter."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Holidaymakers",
+        "target": "Rampaging Hippo",
+        "description": "Prey/Predator"
+      },
+      {
+        "source": "Holidaymakers",
+        "target": "Holidaymakers",
+        "description": "Companions/Fellow Survivors"
+      }
+    ],
+    "seo": {
+      "slug": "hungry",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/hungry",
+        "name": "Hungry",
+        "@type": "Movie",
+        "genre": "Horror",
+        "image": "https://movnix.com/images/hungry-movie-poster.jpg",
+        "@context": "https://schema.org",
+        "director": {
+          "name": "Unknown Director",
+          "@type": "Person"
+        },
+        "dateCreated": "2024-01-01",
+        "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "120"
+        }
+      },
+      "keywords": [
+        "Hungry movie",
+        "killer hippo",
+        "horror film",
+        "Louisiana swamps",
+        "survival thriller",
+        "new horror movie"
+      ],
+      "canonical": "https://movnix.com/movie/hungry",
+      "metaTitle": "Hungry (2024) - Killer Hippo Horror Film",
+      "openGraph": {
+        "og:url": "https://movnix.com/movie/hungry",
+        "og:type": "video.movie",
+        "og:image": "https://movnix.com/images/hungry-movie-poster.jpg",
+        "og:title": "Hungry (2024) - Killer Hippo Horror Film",
+        "og:description": "Holidaymakers fight for survival against a rampaging hippo in the Louisiana swamplands in this thrilling new horror movie, Hungry."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:image": "https://movnix.com/images/hungry-movie-poster.jpg",
+        "twitter:title": "Hungry (2024) - Killer Hippo Horror Film",
+        "twitter:description": "Holidaymakers fight for survival against a rampaging hippo in the Louisiana swamplands in this thrilling new horror movie, Hungry."
+      },
+      "metaDescription": "Holidaymakers fight for survival against a rampaging hippo in the Louisiana swamplands in this thrilling new horror movie, Hungry."
+    },
+    "faq": [
+      {
+        "answer": "No, 'Hungry' is a standalone creature feature and survival thriller. It is not part of an existing film franchise or officially affiliated with the board game 'Hungry Hungry Hippos'.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, 'Hungry' does not contain any extra scenes during or after the end credits. The narrative concludes before the credits begin.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is a survival thriller and creature-feature horror.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "'Hungry' was both written and directed by filmmaker James Nunn.",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The main cast includes Madison Davenport, Tracey Bonner, Joaquim de Almeida, Michel Curiel, Samantha Coughlan, Olivia Bernstone, Jim Meskimen, and River Codack.",
+        "question": "Who stars in 'Hungry'?"
+      },
+      {
+        "answer": "No, the movie is a work of fiction. While hippos are not native to North America, the premise loosely nods to historical concepts like the 1910 U.S. proposal to introduce hippos to Louisiana swamplands.",
+        "question": "Is 'Hungry' based on a true story?"
+      },
+      {
+        "answer": "Although the film is set in the bayous near New Orleans, Louisiana, the production was primarily filmed using water tanks and soundstages in Malta.",
+        "question": "Where was the movie filmed?"
+      },
+      {
+        "answer": "A group of holidaymakers on a swamp boat tour become stranded in the Louisiana bayou and must survive relentless attacks from a giant, aggressive hippopotamus lurking in the water.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "The film has an official runtime of 93 minutes (1 hour and 33 minutes).",
+        "question": "What is the running time of 'Hungry'?"
+      },
+      {
+        "answer": "Following its release in June 2026, 'Hungry' is available to stream or purchase on major Video on Demand (VOD) digital platforms.",
+        "question": "Where can I watch 'Hungry'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong thriller and horror elements driven by violent animal attacks, suspense, and fear of being hunted in an isolated environment."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity typical of intense panic and life-threatening situations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of creature violence and intense survival action as characters fight off a lethal, rampaging animal."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible mild depictions of casual alcohol use common among holidaymakers."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional distress, panic, and tension caused by life-and-death struggle and peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 15:42:17.048291",
+    "updated_at": "2026-07-28 15:42:17.048291"
+  }
 }
