@@ -10,7 +10,7 @@
     "budget": "5000000",
     "revenue": null,
     "status": "Post Production",
-    "popularity": 4.4028,
+    "popularity": 4.4159,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.searchlightpictures.com/wild-horse-nine",
@@ -421,8 +421,8 @@
       "name": "Martin McDonagh",
       "profilePath": "/pyDaAVKa8akTLHXzeTyF8oGymXN.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -430,8 +430,8 @@
       "name": "Martin McDonagh",
       "profilePath": "/pyDaAVKa8akTLHXzeTyF8oGymXN.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -526,5 +526,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/891621/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 891621,
+    "hash": "4e6de4d511fe1086a0cea3a524256ffff658357e4979f80f07530477925323fc",
+    "summary_one_sentence": "Set right before the 1973 Chilean coup, two seasoned CIA agents are reassigned to Easter Island, where personal tensions and unexpected friendships threaten to jeopardize their mission.",
+    "summary_short": "On the eve of the 1973 Chilean coup, CIA veteran Chris and his partner Lee are assigned to a mission on Easter Island by their bureau chief, MJ. As the longtime partners grapple with unresolved personal pasts and political conspiracies, the tension between them begins to escalate. Everything threatens to unravel when Chris unexpectedly befriends a pair of rebellious local students. This new connection endangers their delicate covert operation and sends their island assignment into total chaos.",
+    "summary_long": "In the tense days leading up to the 1973 Chilean coup d'état, senior CIA officer Chris and his partner Lee operate under the command of their Santiago bureau chief, MJ. Dispatched from the Chilean capital to the remote and enigmatic setting of Easter Island, the duo is tasked with managing covert operations away from the mainland. Surrounded by the towering moai statues, Chris and Lee are forced to confront long-festering personal grievances, past trauma, and dark political secrets. The assignment quickly grows complicated as mainland political unrest spills over into their intelligence duties. Matters become far more dangerous when Chris forms an unlikely bond with two rebellious local students. Driven by their own radical motives, the students challenge Chris's loyalties and worldview. Lee views this newfound friendship as a severe breach of protocol that threatens to compromise their entire agenda. As secrets emerge and loyalties fracture, the serene island paradise transforms into a volatile arena of survival and deception.",
+    "synopsis": "Set against the historical backdrop of political turmoil preceding the 1973 Chilean coup, Wild Horse Nine is a dark comedy-thriller following CIA agents Chris and Lee. Dispatched from Santiago to Easter Island by bureau chief MJ, the longtime partners are thrust into a high-stakes environment charged with personal history and espionage conspiracies. Surrounded by Rapa Nui's iconic moai statues, Chris forms an unexpected connection with a pair of rebellious local students, throwing the covert operation into chaos. As hidden motives surface and ideological conflicts heighten, their remote assignment spirally unravels into a unpredictable test of loyalty and survival.",
+    "keywords": [
+      "1970s",
+      "Chilean coup",
+      "Easter Island",
+      "CIA agents",
+      "conspiracy",
+      "rebellious youth",
+      "dark past",
+      "remote island",
+      "partners in crime",
+      "political thriller",
+      "dark comedy",
+      "historical fiction",
+      "covert operation",
+      "island setting"
+    ],
+    "themes": [
+      {
+        "theme": "Conspiracies and Political Unrest",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Dark Past and Guilt",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Rebellion vs. Authority",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Loyalty and Partnership",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Isolation and Escape",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The intersecting pressures of the impending political upheaval, bureau demands, and personal loyalties reach a breaking point, forcing Chris and Lee into a high-stakes confrontation where secrets come to light.",
+      "conflict": "As covert operations and political conspiracies unfold in the background, Chris forms a connection with a pair of rebellious local students, creating a fundamental clash between professional duty, personal morals, and local activism.",
+      "resolution": "In the aftermath of the crisis, the agents and islanders face the consequences of their choices, leaving the characters to process the impact on their relationships and futures against a changing political landscape.",
+      "introduction": "CIA agents Chris and Lee are sent from Santiago to Easter Island by their bureau chief MJ on the eve of the 1973 Chilean coup d'état, bringing their complex pasts and implicit tensions to the remote island.",
+      "risingAction": "Tensions escalate among the statues of Easter Island as Chris's involvement with the students deepens, threatening to expose the agents' motives and disrupt the bureau's covert agenda amid growing paranoia."
+    },
+    "characters": [
+      {
+        "name": "Chris",
+        "role": "Anti Hero",
+        "description": "A seasoned CIA officer dispatched to Easter Island who wrestles with his past and forms a bond with rebellious local students."
+      },
+      {
+        "name": "Lee",
+        "role": "Hero",
+        "description": "A CIA officer and Chris's protégé and longtime partner who accompanies him on the assignment."
+      },
+      {
+        "name": "MJ",
+        "role": "Supporting Character",
+        "description": "The CIA bureau chief stationed in Chile who sends Chris and Lee to Easter Island."
+      },
+      {
+        "name": "Marge",
+        "role": "Supporting Character",
+        "description": "Lee's wife, involved in the personal dynamics surrounding the primary agents."
+      },
+      {
+        "name": "Chris's Brother",
+        "role": "Supporting Character",
+        "description": "Chris's brother, tied to Chris's history and background."
+      },
+      {
+        "name": "Rebellious Student (Mariana di Girolamo)",
+        "role": "Supporting Character",
+        "description": "A local student on Easter Island whose connection with Chris threatens to derail the operation."
+      },
+      {
+        "name": "Rebellious Student (Ailín Salas)",
+        "role": "Supporting Character",
+        "description": "A local student on Easter Island who, along with her peer, forms a key bond with Chris."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chris",
+        "target": "Lee",
+        "description": "Longtime Partners / Fellow CIA Agents"
+      },
+      {
+        "source": "Chris",
+        "target": "MJ",
+        "description": "Subordinate / Bureau Chief"
+      },
+      {
+        "source": "Lee",
+        "target": "MJ",
+        "description": "Subordinate / Bureau Chief"
+      },
+      {
+        "source": "Chris",
+        "target": "Rebellious Students",
+        "description": "Unlikely Allies / Newly Bonded"
+      },
+      {
+        "source": "Lee",
+        "target": "Rebellious Students",
+        "description": "Antagonistic / Mission Complication"
+      },
+      {
+        "source": "MJ",
+        "target": "Rebellious Students",
+        "description": "Threat to Mission"
+      }
+    ],
+    "seo": {
+      "slug": "wild-horse-nine",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/wild-horse-nine](https://movnix.com/movie/wild-horse-nine)",
+        "name": "Wild Horse Nine",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+      },
+      "keywords": [
+        "Wild Horse Nine",
+        "Wild Horse Nine movie",
+        "1973 Chilean coup film",
+        "Easter Island CIA movie",
+        "Wild Horse Nine synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/wild-horse-nine](https://movnix.com/movie/wild-horse-nine)",
+      "metaTitle": "Wild Horse Nine - Movie Overview, Plot & Details | Movnix",
+      "openGraph": {
+        "og:title": "Wild Horse Nine - Movie Overview & Synopsis",
+        "og:description": "Explore the mystery of Wild Horse Nine, following CIA agents Chris and Lee on Easter Island prior to the 1973 Chilean coup."
+      },
+      "twitterCard": {
+        "twitter:title": "Wild Horse Nine - Movie Overview & Synopsis",
+        "twitter:description": "Explore the mystery of Wild Horse Nine, following CIA agents Chris and Lee on Easter Island prior to the 1973 Chilean coup."
+      },
+      "metaDescription": "Before the 1973 Chilean coup, two CIA agents on Easter Island uncover dark secrets as a bond with local students threatens their mission."
+    },
+    "faq": [
+      {
+        "answer": "Wild Horse Nine is primarily a black comedy-drama and spy crime film, combining dark humor, political intrigue, and character-driven conflict.",
+        "question": "What is the dominant genre of Wild Horse Nine?"
+      },
+      {
+        "answer": "No, Wild Horse Nine is a standalone original film written and directed by Martin McDonagh.",
+        "question": "Is Wild Horse Nine part of an existing franchise?"
+      },
+      {
+        "answer": "The film was written and directed by acclaimed filmmaker Martin McDonagh, known for films like In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, and The Banshees of Inisherin.",
+        "question": "Who wrote and directed Wild Horse Nine?"
+      },
+      {
+        "answer": "The film stars John Malkovich as Chris, Sam Rockwell as Lee, Steve Buscemi as MJ, along with Parker Posey, Tom Waits, Mariana di Girolamo, and Ailín Salas.",
+        "question": "Who is in the cast of Wild Horse Nine?"
+      },
+      {
+        "answer": "The story takes place in 1973, shortly before the Chilean coup d'état, primarily set on Easter Island (Rapa Nui) as well as Santiago, Chile.",
+        "question": "When and where is the movie set?"
+      },
+      {
+        "answer": "Wild Horse Nine is scheduled to premiere at the Venice International Film Festival in September 2026, followed by a theatrical release by Searchlight Pictures on November 6, 2026.",
+        "question": "When is Wild Horse Nine scheduled for release?"
+      },
+      {
+        "answer": "As a standalone narrative drama/black comedy, standard theatrical releases of this nature typically do not feature post-credit scenes setup for future sequels.",
+        "question": "Is there a post-credit scene in Wild Horse Nine?"
+      },
+      {
+        "answer": "The film is produced by Blueprint Pictures and Film4, and distributed worldwide by Searchlight Pictures.",
+        "question": "What production companies are behind Wild Horse Nine?"
+      },
+      {
+        "answer": "Principal photography took place on location in Rapa Nui (Easter Island) and central Santiago, Chile.",
+        "question": "Where was Wild Horse Nine filmed?"
+      },
+      {
+        "answer": "The core conflict revolves around two veteran CIA agents dispatched to Easter Island on the eve of the 1973 Chilean coup whose mission and partnership are threatened when one of them forms a bond with local rebellious students.",
+        "question": "What is the central plot conflict of Wild Horse Nine?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, focusing instead on suspense, political tension, and psychological strain."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical of period political thrillers."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate thematic violence linked to CIA operations, espionage, and political upheaval surrounding the 1973 Chilean coup."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Likely mild alcohol and tobacco use consistent with early 1970s espionage settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit themes referenced in the project overview."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "High psychological and emotional tension involving dark personal histories, political conspiracies, and high-stakes conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 8,
+      "romance": 2,
+      "science": 1,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:49:59.066719",
+    "updated_at": "2026-07-27 23:49:59.066719"
+  }
 }
