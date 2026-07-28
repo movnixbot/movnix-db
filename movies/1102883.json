@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "2980376",
     "status": "Released",
-    "popularity": 9.5436,
-    "voteAverage": 5.559,
-    "voteCount": 102,
+    "popularity": 10.1799,
+    "voteAverage": 5.495,
+    "voteCount": 105,
     "homepage": "https://a24films.com/films/mother-mary",
     "posterPath": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
     "backdropPath": "/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg",
@@ -192,6 +192,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/aa5hoiIBcxy6PEvVgAJAFsMeTi7.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
       "width": 2000,
       "height": 3000,
@@ -248,10 +255,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/aa5hoiIBcxy6PEvVgAJAFsMeTi7.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
+      "filePath": "/rVnauYPScIfU52jeRdYVyCdXLqg.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
       "type": "poster"
     },
     {
@@ -612,13 +619,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/rVnauYPScIfU52jeRdYVyCdXLqg.jpg",
-      "width": 680,
-      "height": 1000,
-      "aspectRatio": 0.68,
-      "type": "poster"
-    },
-    {
       "filePath": "/gHZIrRtLpVe3WE5p6lQsC3kWz1L.jpg",
       "width": 1000,
       "height": 1500,
@@ -629,6 +629,13 @@
       "filePath": "/hGKHao0xrRAuX8pfVUowbamL7P6.jpg",
       "width": 1284,
       "height": 1926,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -972,8 +979,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.559,
-      "votesCount": 102
+      "ratingValue": 5.495,
+      "votesCount": 105
     },
     {
       "source": "imdb",
@@ -1109,8 +1116,8 @@
       "name": "David Lowery",
       "profilePath": "/5zS78ZleGuxFB0XZBqQMbH4udME.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -1118,13 +1125,13 @@
       "name": "David Lowery",
       "profilePath": "/5zS78ZleGuxFB0XZBqQMbH4udME.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
-      "tmdbPersonId": 1133332,
-      "name": "Toby Halbrooks",
+      "tmdbPersonId": 1292591,
+      "name": "Maximilian Leo",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -1132,8 +1139,17 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2285024,
-      "name": "Jeanie Igoe",
+      "tmdbPersonId": 2666645,
+      "name": "Jonathan Saubach",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1133332,
+      "name": "Toby Halbrooks",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -1150,17 +1166,8 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1292591,
-      "name": "Maximilian Leo",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2666645,
-      "name": "Jonathan Saubach",
+      "tmdbPersonId": 2285024,
+      "name": "Jeanie Igoe",
       "profilePath": null,
       "character": null,
       "job": "Producer",
