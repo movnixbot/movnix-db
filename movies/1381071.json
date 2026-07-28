@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 4.7294,
+    "popularity": 4.9702,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://godzilla.com/pages/godzilla-minus-zero",
@@ -515,6 +515,24 @@
       "order": 8
     },
     {
+      "tmdbPersonId": 136191,
+      "name": "Min Tanaka",
+      "profilePath": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg",
+      "character": "Kanji Murakami",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 5397626,
+      "name": "Wes Wing",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
       "tmdbPersonId": 43652,
       "name": "Takashi Yamazaki",
       "profilePath": "/aRxPJuOij3DUUGojtBmjAAxfL9x.jpg",
@@ -628,5 +646,271 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1381071/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1381071,
+    "hash": "f74d789ab824d1c4b9e1c819f4893bb30f9f4cfea58c7b6b162e4956a8fb6ee9",
+    "summary_one_sentence": "Two years after recovering from the war and Godzilla's initial assault, Japan faces a devastating new crisis in 1949 as humanity's fragile peace is suddenly shattered.",
+    "summary_short": "Set in 1949, two years after the devastating events of Godzilla Minus One, Japan has slowly begun to rebuild its ruined nation and reclaim a sense of daily life. However, just as the populace manages to secure a hard-won peace, an unprecedented disaster strikes without warning. The Shikishima family and the survivors of the previous attack must unite once more to confront an escalating existential crisis. Facing unimaginable destruction, humanity must fight to ensure it is not pushed past zero.",
+    "summary_long": "Picking up in 1949, Japan is struggling to emerge from the double tragedy of its post-WWII devastation and Godzilla's catastrophic rampage two years prior. Through sheer perseverance and community effort, the country has made painful strides toward stability, restoring basic infrastructure and reclaiming everyday life. Just as former pilot Kōichi Shikishima and his family begin to experience the comforts of a hard-earned peace, a terrifying new threat emerges. Plunging the nation back into chaos, the crisis forces both citizens and military officials to re-examine the trauma they thought they had left behind. Scientists and military strategists race against time to formulate a defense against a calamity far worse than the first monster attack. Tensions mount as resources prove limited, leaving humanity with almost no room for error. Old allies reunite and new strategies are tested in a desperate bid to preserve the country's fragile recovery. Ultimately, the survivors must risk everything in a high-stakes struggle to ensure their country is not totally extinguished.",
+    "synopsis": "Taking place in 1949, two years after Japan was reduced to ruin by war and subsequently ravaged by Godzilla, the nation has endured an agonizing struggle to rebuild. Society has slowly stabilized, allowing survivors to reclaim a semblance of peace and hope for the future. However, this delicate tranquility is abruptly shattered when a deadly new calamity strikes. As terror sweeps across the nation once more, the survivors—including the Shikishima family—must face an escalating threat that endangers everything they fought to rebuild, testing the limits of human resilience in the ultimate fight for survival.",
+    "keywords": [
+      "kaiju",
+      "post-war era",
+      "reconstruction",
+      "fragile peace",
+      "existential dread",
+      "giant monster rampage",
+      "post-traumatic stress",
+      "national trauma",
+      "relentless threat",
+      "human resilience",
+      "1940s japan",
+      "impending doom",
+      "desperate survival"
+    ],
+    "themes": [
+      {
+        "theme": "Post-War Recovery and Resilience",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Hope vs. Despair",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival and Agonizing Struggle",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fragility of Peace",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Desperate",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "Humanity engages in a desperate, high-stakes final confrontation against the overwhelming threat, risking everything to prevent total destruction.",
+      "conflict": "Just as a fragile peace is established, a terrifying new threat emerges, crushing the nation's hard-won recovery and plunging humanity into renewed crisis.",
+      "resolution": "In the aftermath of the intense clash, the survivors confront the long road ahead, striving to endure and rebuild their lives once again.",
+      "introduction": "Following the devastation of war and initial monster attacks, Japan enters a period of rebuilding as citizens attempt to reclaim peace and normalcy.",
+      "risingAction": "As panic spreads, survivors and defense authorities scramble to devise a strategy and mount a coordinated defense before all progress is destroyed."
+    },
+    "characters": [
+      {
+        "name": "Koichi Shikishima",
+        "role": "Hero",
+        "description": "A traumatized former kamikaze pilot struggling with survivor's guilt who fights to protect Japan and find redemption."
+      },
+      {
+        "name": "Noriko Ooto",
+        "role": "Supporting Character",
+        "description": "A compassionate survivor who builds an impromptu home with Shikishima and serves as his emotional grounding."
+      },
+      {
+        "name": "Kenji Noda",
+        "role": "Mentor",
+        "description": "A former naval scientist and strategist who formulates the plan to neutralize Godzilla."
+      },
+      {
+        "name": "Yoji Akitsu",
+        "role": "Supporting Character",
+        "description": "The pragmatic captain of the mine-sweeping vessel who leads and supports his crew through the crisis."
+      },
+      {
+        "name": "Shiro Mizushima",
+        "role": "Comic Relief",
+        "description": "An eager young boat crew member whose youthful enthusiasm brings levity to dangerous situations."
+      },
+      {
+        "name": "Sosaku Tachibana",
+        "role": "Supporting Character",
+        "description": "A skilled airplane mechanic whose past history with Shikishima helps bring the hero's arc full circle."
+      },
+      {
+        "name": "Sumiko Ota",
+        "role": "Supporting Character",
+        "description": "A stern yet caring neighbor who helps raise Akiko and offers vital support to Shikishima."
+      },
+      {
+        "name": "Godzilla",
+        "role": "Villain",
+        "description": "An unstoppable, mutated giant kaiju that unleashes catastrophic destruction upon a recovering nation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Noriko Ōishi",
+        "description": "Husband and Wife / Family"
+      },
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Seiji Akitsu",
+        "description": "Comrades / Captain and Mine-Sweeping Crewman"
+      },
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Shirō Mizushima",
+        "description": "Comrades / Fellow Crewman"
+      },
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Kenji Noda",
+        "description": "Allies / Former Weapons Engineer and Technical Advisor"
+      },
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Sumiko Ōta",
+        "description": "Neighbors / Orphanage Caregiver"
+      },
+      {
+        "source": "Seiji Akitsu",
+        "target": "Shirō Mizushima",
+        "description": "Captain and Crewmate"
+      },
+      {
+        "source": "Kōichi Shikishima",
+        "target": "Sōsaku Tachibana",
+        "description": "Former Kamikaze Pilot and Aircraft Mechanic / Allies"
+      }
+    ],
+    "seo": {
+      "slug": "godzilla-minus-zero",
+      "jsonLd": {
+        "name": "Godzilla Minus Zero",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Sci-Fi",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "ja",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant."
+      },
+      "keywords": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus Zero movie",
+        "Godzilla Minus Zero plot",
+        "Godzilla sequel",
+        "Japanese monster movie",
+        "Kaiju film",
+        "Godzilla overview"
+      ],
+      "canonical": "[https://movnix.com/movie/godzilla-minus-zero](https://movnix.com/movie/godzilla-minus-zero)",
+      "metaTitle": "Godzilla Minus Zero - Official Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Godzilla Minus Zero - Hope Destroyed Once Again",
+        "og:description": "Just as Japan begins to reclaim daily life after catastrophic ruin, a terrifying new threat strikes to crush hope in an instant."
+      },
+      "twitterCard": {
+        "twitter:title": "Godzilla Minus Zero - Official Synopsis",
+        "twitter:description": "Japan fought its way back from minus. Now, a devastating new threat strikes to destroy humanity's hard-won peace."
+      },
+      "metaDescription": "As Japan struggles to rebuild from post-war ruin, a devastating new threat strikes to destroy a hard-won peace. Discover Godzilla Minus Zero."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Godzilla Minus Zero is part of Toho's long-running Godzilla franchise. It serves as a direct sequel to the 2023 film Godzilla Minus One and is the 39th entry in the overall Godzilla film series.",
+        "question": "Is Godzilla Minus Zero part of a franchise?"
+      },
+      {
+        "answer": "Yes, it is a direct continuation. The story picks up in 1949, two years after the events of Godzilla Minus One, following the surviving members of the Shikishima family as a new calamity emerges.",
+        "question": "Is Godzilla Minus Zero a direct sequel to Godzilla Minus One?"
+      },
+      {
+        "answer": "The film primarily belongs to the sci-fi kaiju, action, and historical period drama genres, combining giant monster spectacle with human drama set in post-WWII Japan.",
+        "question": "What is the dominant genre of Godzilla Minus Zero?"
+      },
+      {
+        "answer": "The film is written, directed, and has visual effects supervised by Takashi Yamazaki, who also directed Godzilla Minus One.",
+        "question": "Who is the director of Godzilla Minus Zero?"
+      },
+      {
+        "answer": "The movie is scheduled to open theatrically in Japan on November 3, 2026, followed by a theatrical release in North America and international territories on November 6, 2026.",
+        "question": "When is Godzilla Minus Zero released in theaters?"
+      },
+      {
+        "answer": "As with many Toho Godzilla releases, fans should stay through the credits for any potential teasers or stingers, though specific post-credits details remain under wraps prior to full theatrical release.",
+        "question": "Is there a post-credit scene in Godzilla Minus Zero?"
+      },
+      {
+        "answer": "Main cast members from Godzilla Minus One return to reprise their roles, including Ryunosuke Kamiki as Kōichi Shikishima and Minami Hamabe as Noriko Shikishima, alongside returning supporting cast members Hidetaka Yoshioka, Yuki Yamada, Kuranosuke Sasaki, and Sakura Ando.",
+        "question": "Which cast members return for Godzilla Minus Zero?"
+      },
+      {
+        "answer": "Yes, Godzilla Minus Zero holds the distinction of being the first Japanese feature film shot with high-definition digital cameras certified for Filmed for IMAX.",
+        "question": "Was Godzilla Minus Zero shot specifically for IMAX?"
+      },
+      {
+        "answer": "The movie was produced in Japan and filmed primarily in the Japanese language, with official localized dubs and subtitles provided for international releases.",
+        "question": "What language was Godzilla Minus Zero originally produced in?"
+      },
+      {
+        "answer": "Set two years after Japan was reduced to zero and devastated by Godzilla, the nation has struggled to reclaim peace and daily life—only for a formidable new threat to strike and shatter humanity's fragile recovery.",
+        "question": "What is the premise of Godzilla Minus Zero?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Monster-driven terror, atmospheric dread, and tense monster encounters."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild swearing or aggressive dialogue in high-stress situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depictions of mass destruction, military conflict, kaiju attacks, and threat of human casualties."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background consumption of alcohol or smoking typical for the era."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual references present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Strong focus on post-war trauma, grief, existential despair, and heavy sacrifice."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 7,
+      "mystery": 5,
+      "romance": 1,
+      "science": 6,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 16:07:45.428849",
+    "updated_at": "2026-07-28 16:07:45.428849"
+  }
 }

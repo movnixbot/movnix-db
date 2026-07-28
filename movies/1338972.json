@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.5181,
-    "voteAverage": 6.338,
-    "voteCount": 34,
+    "popularity": 5.8839,
+    "voteAverage": 6.4,
+    "voteCount": 36,
     "homepage": "https://www.pitfall-movie.com/",
     "posterPath": "/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg",
     "backdropPath": "/ldCs9t4DpbiHRPA8gOe66OzmVEy.jpg",
@@ -190,6 +190,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/yHrDWtYrfSVn2RfhF5MPr5El7Qc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/ldCs9t4DpbiHRPA8gOe66OzmVEy.jpg",
       "width": 3840,
       "height": 2160,
@@ -242,8 +249,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.338,
-      "votesCount": 34
+      "ratingValue": 6.4,
+      "votesCount": 36
     },
     {
       "source": "imdb",
@@ -482,5 +489,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1338972/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1338972,
+    "hash": "6138effdefa3048f15f801ffb4e87d8526dca09e1f6a50385b0fcf133b783b60",
+    "summary_one_sentence": "When a young man gets impaled in a hidden spike pit in the woods, his desperate fight for survival turns chilling as he realizes he was intentionally targeted.",
+    "summary_short": "Separated from his friends during a trip into the woods, a young man suffers a horrific accident when he falls into a ten-foot deep pit lined with spikes, impaling his leg. Stranded and bleeding, he must muster every ounce of strength to survive the agonizing physical ordeal and harsh elements. However, horror truly sets in as he discovers deliberate clues proving the trap was meticulously set just for him. Trapped and isolated, he must outsmart a mysterious predator before his time runs out.",
+    "summary_long": "What begins as an ordinary excursion into the dense forest takes a terrifying turn when a young man accidentally loses sight of his friends. As he searches for a path back, the ground beneath him gives way, plummeting him into a hidden, ten-foot-deep pit. The brutal fall leaves his leg impaled on a sharp spike, trapping him in excruciating pain at the bottom of the trench. With limited supplies and no cellular signal, his initial focus turns entirely to basic survival and enduring the agonizing physical trauma. He desperately calls for help, but his shouts are swallowed by the vast, silent wilderness. As night falls and temperatures drop, he begins inspecting his grim surroundings and notices unsettling details about the pit's construction. Camouflaged netting, sharpened stakes, and artificial structural support make it abundantly clear that his fall was no accident. The horrifying reality dawns on him that someone painstakingly built this trap and is likely watching his slow demise. Driven by panic and a renewed will to live, he must find a way to extricate his pierced leg and scale the sheer walls. With a relentless threat lurking above, he fights not just against his fatal injuries, but against a calculating mastermind playing a deadly game of cat and mouse.",
+    "synopsis": "Pitfall is an intense survival thriller that plunges viewers into a nightmare scenario where isolation meets malevolence. The story centers on a young man who becomes separated from his companions during a outing in the wilderness. His situation turns catastrophic when he steps onto unstable ground and plunges ten feet into a concealed spike pit, sustaining a gruesome leg injury that leaves him immobilized. As he struggles against the agonizing pain, blood loss, and the looming danger of exposure, he begins to uncover disturbing evidence that the pit is an engineered trap rather than a natural hazard. Realizing that a sinister presence in the forest designed his predicament, he must navigate severe physical agony and mental terror to escape the deadly pit before his captor returns.",
+    "keywords": [
+      "survival horror",
+      "trapped",
+      "impaled",
+      "woods",
+      "mystery",
+      "sadistic",
+      "psychological horror",
+      "isolation",
+      "gore",
+      "desperation",
+      "revenge plot"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Betrayal",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Hunter vs. Hunted",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation occurs between the young man and the person responsible for the pit, forcing him to make a desperate, harrowing move to secure his freedom.",
+      "conflict": "He falls into a ten-foot deep pit lined with spikes, leaving his leg impaled, trapped in isolation, and forced to face the horrifying realization that the trap was deliberately set.",
+      "resolution": "The ordeal comes to a brutal close as the survivor deals with the physical and psychological aftermath of the attack and the reality of who targeted him.",
+      "introduction": "A young man enjoys a trip in the woods with his friends before becoming unexpectedly separated from the group.",
+      "risingAction": "As he desperately attempts to free himself and survive his severe injuries, he discovers clues about his captor's motives and must outsmart the unseen threat orchestrating his plight."
+    },
+    "characters": [
+      {
+        "name": "Unknown Hero / Lead Character",
+        "role": "Hero",
+        "description": "The young man who gets separated from his friends in the woods, falls into the spike pit, and must survive while discovering the trap was deliberate."
+      },
+      {
+        "name": "Unknown Antagonist / Trapper",
+        "role": "Villain",
+        "description": "The mysterious figure or captor who engineered the ten-foot pit trap with intent to hunt or torment the group."
+      },
+      {
+        "name": "Friend Group / Companions",
+        "role": "Supporting Character",
+        "description": "The group of friends traveling together in the woods who become separated from the main character and attempt to survive or search for him."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Young Man",
+        "target": "Friends",
+        "description": "Companions / Separated allies"
+      },
+      {
+        "source": "Unknown Trapper",
+        "target": "Young Man",
+        "description": "Antagonist / Targeted victim"
+      },
+      {
+        "source": "Friends",
+        "target": "Unknown Trapper",
+        "description": "Unaware searchers / Potential targets"
+      }
+    ],
+    "seo": {
+      "slug": "pitfall",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/pitfall](https://movnix.com/movie/pitfall)",
+        "name": "Pitfall",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After a young man is separated from his friends in the woods, he falls into a ten-foot deep pit of spikes, impaling him through his leg and leaving him trapped. He quickly learns that his fall was not an accident."
+      },
+      "keywords": [
+        "Pitfall movie",
+        "Pitfall overview",
+        "horror thriller movie",
+        "trapped in the woods movie",
+        "survival horror film",
+        "Pitfall synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/pitfall](https://movnix.com/movie/pitfall)",
+      "metaTitle": "Pitfall (2024) - Horror Thriller Movie | Watch & Overview",
+      "openGraph": {
+        "og:title": "Pitfall - Survival Horror Thriller",
+        "og:description": "Trapped in a ten-foot pit of spikes, a young man discovers his brutal fall in the woods was no accident."
+      },
+      "twitterCard": {
+        "twitter:title": "Pitfall - Survival Horror Thriller",
+        "twitter:description": "Trapped in a ten-foot pit of spikes, a young man discovers his brutal fall in the woods was no accident."
+      },
+      "metaDescription": "Trapped in a ten-foot pit of spikes, a young man discovers his brutal fall in the woods was no accident. Read the full overview and details for Pitfall."
+    },
+    "faq": [
+      {
+        "answer": "Pitfall follows a young man who gets separated from his group of friends while trekking in the woods. He plunges into a hidden ten-foot-deep pit lined with sharp spikes, impaling his leg and leaving him helpless. Trapped underground, he soon discovers that falling into the pit was no accident and that someone is watching him.",
+        "question": "What is the main plot of Pitfall?"
+      },
+      {
+        "answer": "Pitfall is primarily a survival horror thriller, combining elements of a backwoods slasher with psychological suspense.",
+        "question": "What is the dominant genre of Pitfall?"
+      },
+      {
+        "answer": "No, Pitfall is a standalone survival horror film and is not part of an established movie franchise or cinematic universe.",
+        "question": "Is Pitfall part of a franchise?"
+      },
+      {
+        "answer": "No, despite sharing a title with Activision's iconic 1982 video game, the movie is an original survival horror concept and not a video game adaptation.",
+        "question": "Is Pitfall based on the classic video game of the same name?"
+      },
+      {
+        "answer": "The film is directed by James Kondelik, who also co-wrote the screenplay alongside Victor Rose.",
+        "question": "Who directs Pitfall?"
+      },
+      {
+        "answer": "The cast features Marshall Williams, Richard Harmon, Alexandra Essoe, and former MMA champion Randy Couture as the main antagonist.",
+        "question": "Who is in the cast of Pitfall?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene, so you do not need to sit through the entire credit roll for additional footage.",
+        "question": "Is there a post-credits scene in Pitfall?"
+      },
+      {
+        "answer": "The film has a total running time of approximately 1 hour and 50 minutes (110 minutes).",
+        "question": "What is the runtime of Pitfall?"
+      },
+      {
+        "answer": "The film carries an R / 18 rating due to graphic horror violence, blood and gore, intense survival distress, and strong language.",
+        "question": "What is the official rating for Pitfall?"
+      },
+      {
+        "answer": "Pitfall is available on video-on-demand (VOD) digital platforms like Apple TV and Amazon Prime Video, as well as on Blu-ray and DVD.",
+        "question": "Where can I watch Pitfall?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Strong suspense, claustrophobic dread, and horror elements surrounding being trapped and targeted."
+      },
+      "language": {
+        "score": 0,
+        "description": "No explicit language indicated in the provided overview."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Graphic depiction of physical injury and survival violence involving impalement through a leg and a deliberate trap."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or references indicated in the provided overview."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the provided overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity and distress stemming from severe physical trauma, isolation, and immediate peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 15:26:47.631566",
+    "updated_at": "2026-07-28 15:26:47.631566"
+  }
 }
