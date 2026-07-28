@@ -3767,5 +3767,266 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/426063/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 426063,
+    "hash": "679cbf0415d8032690cfe33564f9cd7a373c0e2d4e537ae4f01700fffb4a31e2",
+    "summary_one_sentence": "In nineteenth-century Europe, a tormented young woman finds herself the object of a sinister vampire's obsession, unleashing a wave of dread and devastation upon everyone around her.",
+    "summary_short": "Set against a bleak gothic backdrop, the story follows a haunted young woman who becomes dangerously enticed by an ancient, predatory vampire. Bound by a terrifying supernatural connection, her growing dread mirrors the nightmare taking root in her town. As pestilence and madness spread in the creature's wake, those around her scramble to understand the evil haunting her. Ultimately, her fate becomes inextricably linked to the monster, forcing a desperate confrontation with darkness.",
+    "summary_long": "In a dark and atmosphere-heavy nineteenth-century Europe, Ellen Hutter is plagued by troubling visions and an unnatural sense of dread that defies explanation. Unknown to her loved ones, her affliction stems from Count Orlok, an ancient and terrifying vampire who has developed a consuming fixation on her soul. When her husband Thomas travels to the Count's isolated Transylvanian estate on business, he inadvertently unleashes the creature from its lair. Orlok embarks on a grim journey toward Ellen's home town, bringing with him a swarm of rats, disease, and total despair. As the town succumbs to unexplainable plague and mass hysteria, Ellen's psychological connection to the vampire grows agonizingly stronger. Local scholars and doctors struggle to rationalise the nightmare, failing to grasp the supernatural threat engulfing their community. Realizing that the creature's obsession centers entirely on her, Ellen recognizes that she holds the key to ending the curse. Desperate to protect the innocent and save her husband, she prepares to make the ultimate sacrifice to lure the monster into the light.",
+    "synopsis": "A dark reimagining of the classic gothic legend, this tale explores the sinister obsession between a vulnerable, haunted woman and the ancient vampire consumed by desire for her. Combining elements of drama, fantasy, and unsettling atmospheric horror, the narrative examines the ruinous nature of dread and desire as a mysterious blight engulfs a helpless nineteenth-century community.",
+    "keywords": [
+      "vampire",
+      "gothic horror",
+      "obsession",
+      "infatuation",
+      "haunted protagonist",
+      "supernatural terror",
+      "folklore",
+      "dark fantasy",
+      "tragic romance",
+      "sinister atmosphere",
+      "ancient evil",
+      "macabre",
+      "creature feature"
+    ],
+    "themes": [
+      {
+        "theme": "Obsession",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Gothic Horror",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The terrifying creature confronts the young woman directly, forcing a high-stakes stand where an ultimate sacrifice must be made to break his dark hold.",
+      "conflict": "An ancient, predatory vampire becomes obsessed with her, establishing an unsettling supernatural bond that threatens her soul and community.",
+      "resolution": "The curse is finally broken at a tragic cost, leaving the survivors to process the devastating toll and lingering shadows of the nightmare.",
+      "introduction": "A young woman lives a peaceful life with her husband, though she is increasingly troubled by eerie visions and ominous forebodings of an impending dark force.",
+      "risingAction": "As the vampire travels to her hometown, plague and dread spread rapidly in his wake while those around her desperately search for a way to combat the advancing evil."
+    },
+    "characters": [
+      {
+        "name": "Ellen Hutter",
+        "role": "Hero",
+        "description": "A tormented young woman bound to an ancient vampire who ultimately becomes the selfless heroine sacrificing herself to end Count Orlok's curse."
+      },
+      {
+        "name": "Count Orlok",
+        "role": "Villain",
+        "description": "An ancient Transylvanian vampire obsessed with Ellen Hutter who brings plague, death, and terror wherever he goes."
+      },
+      {
+        "name": "Thomas Hutter",
+        "role": "Supporting Character",
+        "description": "Ellen's devoted husband and an estate agent who unknowingly unleashes Count Orlok upon his home while trying to secure financial stability."
+      },
+      {
+        "name": "Professor Albin Eberhart von Franz",
+        "role": "Mentor",
+        "description": "An eccentric occult scholar and scientist who understands the nature of the vampire plague and guides the characters in confronting the evil."
+      },
+      {
+        "name": "Herr Knock",
+        "role": "Other",
+        "description": "Thomas's estate agent employer who is secretly a zealot under Count Orlok's influence, serving as his earthly henchman."
+      },
+      {
+        "name": "Friedrich Harding",
+        "role": "Supporting Character",
+        "description": "A wealthy shipbuilder and close friend of the Hutters who tries to protect his family and city as the vampire plague spreads."
+      },
+      {
+        "name": "Anna Harding",
+        "role": "Supporting Character",
+        "description": "Friedrich's wife and Ellen's close confidante, who falls victim to the supernatural terror unleashed by Count Orlok."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ellen Hutter",
+        "target": "Count Orlok",
+        "description": "Victim / Obsession & Psychic Bond"
+      },
+      {
+        "source": "Ellen Hutter",
+        "target": "Thomas Hutter",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Thomas Hutter",
+        "target": "Count Orlok",
+        "description": "Real Estate Agent / Client"
+      },
+      {
+        "source": "Herr Knock",
+        "target": "Count Orlok",
+        "description": "Servant / Master"
+      },
+      {
+        "source": "Herr Knock",
+        "target": "Thomas Hutter",
+        "description": "Employer / Employee"
+      },
+      {
+        "source": "Prof. Albin Eberhart von Franz",
+        "target": "Count Orlok",
+        "description": "Occult Investigator / Threat"
+      },
+      {
+        "source": "Prof. Albin Eberhart von Franz",
+        "target": "Ellen Hutter",
+        "description": "Protector / Patient"
+      },
+      {
+        "source": "Friedrich Harding",
+        "target": "Thomas Hutter",
+        "description": "Close Friends"
+      },
+      {
+        "source": "Anna Harding",
+        "target": "Ellen Hutter",
+        "description": "Best Friends & Confidantes"
+      }
+    ],
+    "seo": {
+      "slug": "nosferatu",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/nosferatu",
+        "name": "Nosferatu",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Gothic",
+          "Drama"
+        ],
+        "@context": "https://schema.org",
+        "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake."
+      },
+      "keywords": [
+        "Nosferatu",
+        "Nosferatu movie",
+        "gothic horror movie",
+        "vampire movie",
+        "horror films"
+      ],
+      "canonical": "https://movnix.com/movie/nosferatu",
+      "metaTitle": "Nosferatu - Official Movie Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Nosferatu - A Gothic Tale of Obsession & Horror",
+        "og:description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake."
+      },
+      "twitterCard": {
+        "twitter:title": "Nosferatu - A Gothic Tale of Obsession & Horror",
+        "twitter:description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake."
+      },
+      "metaDescription": "Discover Nosferatu, a haunting gothic tale of obsession, terror, and untold horror as a terrifying vampire pursues a young woman."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Nosferatu is Gothic Horror, blending atmospheric dread with supernatural horror elements.",
+        "question": "What is the dominant genre of Nosferatu?"
+      },
+      {
+        "answer": "No, Nosferatu is a standalone cinematic reimagining rather than part of a modern cinematic universe or ongoing film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Nosferatu. The story concludes before the credits roll.",
+        "question": "Is there a post-credit scene in Nosferatu?"
+      },
+      {
+        "answer": "The film is directed by acclaimed filmmaker Robert Eggers, known for his distinct, atmospheric horror films.",
+        "question": "Who directed this adaptation of Nosferatu?"
+      },
+      {
+        "answer": "It is a reimagining of F. W. Murnau's 1922 silent horror masterpiece Nosferatu, which itself was an unofficial adaptation of Bram Stoker's 1897 gothic novel Dracula.",
+        "question": "Is Nosferatu based on a book or a previous film?"
+      },
+      {
+        "answer": "Bill Skarsgård portrays the terrifying vampire, Count Orlok.",
+        "question": "Who plays the vampire Count Orlok?"
+      },
+      {
+        "answer": "Lily-Rose Depp plays Ellen Hutter, the haunted young woman at the center of the vampire's obsession.",
+        "question": "Who stars as the haunted young woman in the film?"
+      },
+      {
+        "answer": "The story follows a dark and dangerous obsession between an ancient vampire, Count Orlok, and a tormented young woman, bringing terror and death as he pursues her.",
+        "question": "What is the central plot of Nosferatu?"
+      },
+      {
+        "answer": "The main ensemble cast includes Bill Skarsgård, Lily-Rose Depp, Nicholas Hoult, Willem Dafoe, Aaron Taylor-Johnson, and Emma Corrin.",
+        "question": "Who are the key cast members in Nosferatu?"
+      },
+      {
+        "answer": "No, Nosferatu is an R-rated horror film intended for mature audiences due to intense fear, violent imagery, and dark thematic content.",
+        "question": "Is Nosferatu suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Pervasive psychological dread, sinister gothic atmosphere, terrifying creature design, and intense horror themes throughout."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity consistent with a period gothic drama setting."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong depictions of bloody violence, gothic brutality, and macabre physical harm associated with vampire attacks."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background consumption of alcohol and pipe tobacco fitting the historical period."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Themes of dark obsession, seductive menace, and subtle sensual undertones without explicit sexual acts."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity focused on existential dread, psychological torment, loss, and suffocating obsession."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 8,
+      "romance": 6,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-28 06:25:13.029049",
+    "updated_at": "2026-07-28 06:25:13.029049"
+  }
 }
