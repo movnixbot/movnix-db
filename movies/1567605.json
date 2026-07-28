@@ -486,5 +486,280 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1567605/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1567605,
+    "hash": "6db075963adb9050c34e313997819d6865c4ce40e268352d1c071c96b6f827cf",
+    "summary_one_sentence": "Cold-hearted miser Ebenezer Scrooge undergoes a profound transformation on Christmas Eve after being visited by four supernatural spirits.",
+    "summary_short": "Ebenezer Scrooge is a bitter old man who treats everyone around him with disdain and contempt, particularly during the holiday season. On Christmas Eve, he receives a chilling warning from the ghost of his deceased business partner, Jacob Marley. Throughout the night, three spirits guide Scrooge through his past, present, and alarming future. Confronted with the consequences of his greed, Scrooge must choose whether to change his ways or face eternal damnation.",
+    "summary_long": "In Victorian London, Ebenezer Scrooge lives a life defined solely by greed, rejecting the warmth of family, charity, and Christmas cheer. His isolation is shattered on Christmas Eve when the ghost of his former partner, Jacob Marley, appears bound in heavy chains forged by a lifetime of selfishness. Marley warns Scrooge that he faces an even worse fate unless he heeds the wisdom of three upcoming spirits. The Ghost of Christmas Past takes Scrooge on a bittersweet voyage through his youth, reminding him of lost love and the gradual erosion of his humanity. Next, the Ghost of Christmas Present reveals the joy, warmth, and quiet struggles of those around him, including his impoverished clerk Bob Cratchit and his frail son, Tiny Tim. The terrifying Ghost of Christmas Yet to Come then presents a grim future where Scrooge dies unmourned and forgotten, leaving behind a wake of tragedy. Shaken to his core by these visions, Scrooge begs for a chance to alter his fate. Awakening on Christmas morning filled with newfound joy, he enthusiastically rededicates his life to kindness, generosity, and community.",
+    "synopsis": "This supernatural tale follows Ebenezer Scrooge, an elderly and cynical miser who views human connection and holiday joy as foolish whims. After returning home on a cold Christmas Eve, Scrooge is visited by supernatural apparitions led by his late business partner, Jacob Marley. To save Scrooge from a tragic destiny, three Christmas spirits lead him on an immersive journey across time—exposing the choices that hardened his heart, the vibrant life happening around him in the present, and the grim consequences awaiting him if he remains unchanged.",
+    "keywords": [
+      "redemption arc",
+      "ghost story",
+      "elderly miser",
+      "christmas spirits",
+      "time travel",
+      "second chances",
+      "confronting the past",
+      "moral transformation",
+      "holiday setting",
+      "supernatural journey",
+      "regret and remorse",
+      "greed and generosity"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Regret and Reflection",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Compassion and Generosity",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Isolation vs. Community",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Facing the terrifying Ghost of Christmas Yet to Come, Scrooge confronts a desolate, unmourned future and begs for a second chance to rewrite his destiny.",
+      "conflict": "Scrooge is visited by the ghost of his deceased business partner, Jacob Marley, who warns him of a tormented afterlife if he does not change his ways and foretells the arrival of three spirits.",
+      "resolution": "Awakening on Christmas morning transformed, Scrooge enthusiastically embraces generosity, restores his relationships, and vows to keep the spirit of Christmas in his heart year-round.",
+      "introduction": "Ebenezer Scrooge, a cold-hearted and miserly old man, spends Christmas Eve dismissing any holiday cheer and mistreating those around him in Victorian London.",
+      "risingAction": "Guided by the Ghosts of Christmas Past, Present, and Yet to Come, Scrooge is forced to revisit his lost joy and regrets, witness the current hardships of people he knows, and glimpse a bleak future."
+    },
+    "characters": [
+      {
+        "name": "Ebenezer Scrooge",
+        "role": "Anti Hero",
+        "description": "A miserly, bitter man whose supernatural journey forces him to confront his past and seek redemption."
+      },
+      {
+        "name": "Bob Cratchit",
+        "role": "Supporting Character",
+        "description": "Scrooge's loyal, kind-hearted, and hard-working employee who remains compassionate despite harsh conditions."
+      },
+      {
+        "name": "Ghost of Christmas Past",
+        "role": "Mentor",
+        "description": "A spirit who guides Scrooge through his early memories to show him where his heart turned cold."
+      },
+      {
+        "name": "Ghost of Christmas Present",
+        "role": "Mentor",
+        "description": "A joyful entity who shows Scrooge the current joys and struggles of those around him."
+      },
+      {
+        "name": "Jacob Marley",
+        "role": "Mentor",
+        "description": "Scrooge's deceased business partner who warns him of his impending fate and initiates his redemption."
+      },
+      {
+        "name": "Fred",
+        "role": "Supporting Character",
+        "description": "Scrooge's cheerful and persistent nephew who embodies the generous spirit of Christmas."
+      },
+      {
+        "name": "Emily Cratchit",
+        "role": "Supporting Character",
+        "description": "Bob Cratchit's devoted wife who stands by her family despite their hardship."
+      },
+      {
+        "name": "Young Ebenezer Scrooge",
+        "role": "Supporting Character",
+        "description": "Scrooge in his younger years, showing his transformation from an ambitious youth to a solitary miser."
+      },
+      {
+        "name": "Isabel Fezziwig",
+        "role": "Supporting Character",
+        "description": "Young Scrooge's former love, whose heartbreak highlights Scrooge's descent into greed."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Jacob Marley",
+        "description": "Former Business Partners"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Bob Cratchit",
+        "description": "Employer/Employee"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Fred",
+        "description": "Uncle/Nephew"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Ghost of Christmas Past",
+        "description": "Guide/Spiritual Visitor"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Ghost of Christmas Present",
+        "description": "Guide/Spiritual Visitor"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Ghost of Christmas Yet to Come",
+        "description": "Guide/Spiritual Visitor"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Belle",
+        "description": "Ex-Fiancé"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Fizziwig",
+        "description": "Former Apprentice/Employer"
+      },
+      {
+        "source": "Bob Cratchit",
+        "target": "Tiny Tim",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Ebenezer Scrooge",
+        "target": "Fan",
+        "description": "Brother/Sister"
+      }
+    ],
+    "seo": {
+      "slug": "ebenezer",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/ebenezer](https://movnix.com/movie/ebenezer)",
+        "name": "Ebenezer",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Tale of an elderly miser, Ebenezer Scrooge, who embarks on a supernatural journey after being visited by the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come, forcing him to confront his past and fight for a second chance at happiness."
+      },
+      "keywords": [
+        "Ebenezer",
+        "Ebenezer Scrooge",
+        "A Christmas Carol",
+        "Spirits of Christmas",
+        "Ebenezer movie overview",
+        "supernatural drama"
+      ],
+      "canonical": "[https://movnix.com/movie/ebenezer](https://movnix.com/movie/ebenezer)",
+      "metaTitle": "Ebenezer - Synopsis, Plot Details & Movie Overview",
+      "openGraph": {
+        "og:title": "Ebenezer - Synopsis & Movie Overview",
+        "og:description": "Ebenezer Scrooge embarks on a supernatural journey with the Spirits of Christmas to fight for a second chance at happiness."
+      },
+      "twitterCard": {
+        "twitter:title": "Ebenezer - Synopsis & Movie Overview",
+        "twitter:description": "Ebenezer Scrooge embarks on a supernatural journey with the Spirits of Christmas to fight for a second chance at happiness."
+      },
+      "metaDescription": "Discover Ebenezer, the supernatural tale of Ebenezer Scrooge forced to confront his past by Christmas spirits for a second chance at happiness."
+    },
+    "faq": [
+      {
+        "answer": "Ebenezer follows the elderly miser Ebenezer Scrooge as he is visited by the ghost of his former business partner and three spirits of Christmas, forcing him to confront his past, present, and future to earn a second chance at happiness.",
+        "question": "What is the plot of Ebenezer?"
+      },
+      {
+        "answer": "The dominant genre is supernatural drama, combining fantasy, emotional storytelling, and classic holiday elements.",
+        "question": "What is the dominant genre of Ebenezer?"
+      },
+      {
+        "answer": "No, Ebenezer is a standalone story based on Charles Dickens' classic literary work, though the character and concept have seen numerous adaptations.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Ebenezer; the story concludes completely before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The central character is Ebenezer Scrooge, a bitter and lonely miser whose supernatural journey leads to profound personal transformation.",
+        "question": "Who is the main character in Ebenezer?"
+      },
+      {
+        "answer": "Scrooge is visited first by the ghost of his late business partner, Jacob Marley, followed by the Spirits of Christmas Past, Christmas Present, and Christmas Yet to Come.",
+        "question": "Who visits Ebenezer Scrooge during his journey?"
+      },
+      {
+        "answer": "Yes, Ebenezer is inspired by Charles Dickens' famed 1843 novella, 'A Christmas Carol'.",
+        "question": "Is Ebenezer based on a book?"
+      },
+      {
+        "answer": "Key themes include redemption, generosity, the impact of personal choices, compassion, and moral awakening.",
+        "question": "What are the primary themes of Ebenezer?"
+      },
+      {
+        "answer": "Yes, it is suitable for general audiences, though some supernatural ghost sequences may be spooky for very young children.",
+        "question": "Is Ebenezer suitable for families?"
+      },
+      {
+        "answer": "The message is that it is never too late to change for the better, open one's heart to compassion, and seek redemption.",
+        "question": "What is the ultimate message of Ebenezer?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Moderate eerie imagery, ghost visitations, and ominous supernatural atmosphere."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild period-appropriate harsh language or insults, but no strong profanity."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal physical violence; brief depictions of supernatural threat or confrontation."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minor historical depictions of alcohol consumption during holiday celebrations."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate thematic intensity involving mortality, regret, poverty, and personal redemption."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 10,
+      "fantasy": 9,
+      "mystery": 4,
+      "romance": 2,
+      "science": 0,
+      "suspense": 6,
+      "violence": 1
+    },
+    "created_at": "2026-07-28 13:21:24.721608",
+    "updated_at": "2026-07-28 13:21:24.721608"
+  }
 }
