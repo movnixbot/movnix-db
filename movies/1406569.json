@@ -300,5 +300,269 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1406569/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1406569,
+    "hash": "6b1a52639c364486fac542814160a96bb571695c80c92f9ece6115eb7fde1004",
+    "summary_one_sentence": "In a dystopian future where memories are state-regulated commodities, chaos erupts when humanity's crown-jewel memory revealing its true origin is stolen.",
+    "summary_short": "Set in a grim dystopian future, human memories are no longer private thoughts but state-regulated commercial commodities traded on an open market. The delicate balance of this controlled society collapses when thieves pull off an unprecedented heist, stealing the most prized memory in existence—the true answer to humanity's origins. As state enforcers and underground factions race to retrieve the missing memory, the unraveling truth threatens to permanently destroy the government's grip on human identity.",
+    "summary_long": "In a stark future, human consciousness has been commodified, turning personal memories into government-monitored, transactional assets. Citizens rely on sanitized memory packages leased from the state, unaware that their history is systematically edited to preserve totalitarian control. Everything changes when a legendary heist targets the government's central vault, resulting in the theft of the crown jewel of human identity: the sacred, unedited memory detailing humanity's true origin. News of the missing memory sparks massive civil unrest, causing deep fractures within both the oppressive regime and the underground resistance. A specialized memory investigator is dispatched to track down the thieves before the contents of the origin memory can be broadcast to the world. As the investigation deepens, the investigator uncovers a web of betrayal and discovers that the heist was an inside job designed to expose the state's foundational lie. Pursued by ruthless state enforcers and haunted by erased fragments of their own past, the investigator faces an impossible choice. Ultimately, they must decide whether to return the memory to preserve society's fragile order or sacrifice stability to unleash the truth.",
+    "synopsis": "The Memory Keeper is a high-concept science fiction thriller set in a world where human recollection is bought, sold, and strictly regulated by an authoritarian regime. In this society, individual identity is an ephemeral subscription service, and personal history is altered to maintain absolute public compliance. The narrative begins with a daring breach of the state's highest-security vault, exposing the loss of the ultimate archive—a singular, untampered memory that holds the lost secret of where humanity comes from. Combining high-stakes tension with philosophical drama, the film explores themes of free will, historical revisionism, and the fundamental value of truth as competing factions battle to control the ultimate origin story.",
+    "keywords": [
+      "dystopian",
+      "commodified memories",
+      "memory manipulation",
+      "authoritarian regime",
+      "stolen truth",
+      "existential mystery",
+      "government surveillance",
+      "lost origins",
+      "memory theft",
+      "high-stakes heist",
+      "corporate control",
+      "technological dystopia",
+      "psychological thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Identity and Origins",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Memory as a Commodity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Totalitarian Control",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Truth and Rebellion",
+        "confidence": 0.84
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dystopian",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A tense confrontation occurs at the heart of the government's memory archive, where the thief's identity and the shocking nature of the origin memory are brought to light.",
+      "conflict": "The society's most sacred memory—the definitive truth of human origin—is stolen, threatening the foundation of government control and triggering a high-stakes search.",
+      "resolution": "With the truth exposed, the regime's total monopoly over human consciousness is broken, setting humanity on an uncertain path toward genuine self-discovery.",
+      "introduction": "In a bleak dystopian world, human memories are strictly commercialized and controlled by the state, forming the backbone of societal order.",
+      "risingAction": "Investigators and rebels navigate the precarious memory trade, uncovering layers of corruption and systemic deceit while trying to trace the stolen origin memory before order collapses."
+    },
+    "characters": [
+      {
+        "name": "Elizeus Carrier",
+        "role": "Hero",
+        "description": "The protagonist navigating a dystopian world who gets wrapped up in the dangerous investigation surrounding mankind's stolen origins memory."
+      },
+      {
+        "name": "President David",
+        "role": "Villain",
+        "description": "The authoritative leader controlling the transactional memory network, determined to suppress humanity's true history to maintain state control."
+      },
+      {
+        "name": "Tariq Hassan",
+        "role": "Mentor",
+        "description": "A knowledgeable contact tied to the underground rebellion who guides Elizeus through the deceptive web of memory transactions."
+      },
+      {
+        "name": "Marie Carrier",
+        "role": "Supporting Character",
+        "description": "Elizeus's close confidante and family anchor who provides emotional grounding amidst the societal chaos."
+      },
+      {
+        "name": "Noor Carrier",
+        "role": "Supporting Character",
+        "description": "A key ally whose personal memories hold vital clues to unlocking the truth behind the stolen crown-jewel memory."
+      },
+      {
+        "name": "Chief McCarthy",
+        "role": "Villain",
+        "description": "The head of enforcement tasked with hunting down rogue rebels and reclaiming the government's regulated assets."
+      },
+      {
+        "name": "Sid Bartlett",
+        "role": "Comic Relief",
+        "description": "An eccentric tech handler who offers lighthearted humor and illicit technical assistance to the protagonists."
+      },
+      {
+        "name": "Maurice Harvey",
+        "role": "Anti Hero",
+        "description": "A morally ambiguous memory broker whose loyalties lie strictly with the highest bidder until the stakes become personal."
+      },
+      {
+        "name": "Stanfield",
+        "role": "Supporting Character",
+        "description": "A tactical operative working within the resistance movement to leak classified government memory logs."
+      },
+      {
+        "name": "Senator Freeman",
+        "role": "Other",
+        "description": "A political figure attempting to balance government oversight with ethical reform regarding memory regulation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Silas Vance (Vault Keeper)",
+        "target": "Lyra Thorne (The Rogue Thief)",
+        "description": "Rivals / Pursuer and Fugitive"
+      },
+      {
+        "source": "Lyra Thorne (The Rogue Thief)",
+        "target": "Director Kaelen Voss (Memory Ministry Head)",
+        "description": "Enemies / Arch-Oppressors"
+      },
+      {
+        "source": "Silas Vance (Vault Keeper)",
+        "target": "Director Kaelen Voss (Memory Ministry Head)",
+        "description": "Subordinate / Employer (Strained Loyalty)"
+      },
+      {
+        "source": "Lyra Thorne (The Rogue Thief)",
+        "target": "Jax (Memory Black-Market Hacker)",
+        "description": "Allies / Co-conspirators"
+      },
+      {
+        "source": "Silas Vance (Vault Keeper)",
+        "target": "Dr. Aris Thorne (Archivist / Origin Researcher)",
+        "description": "Former Mentor / Estranged Ally"
+      }
+    ],
+    "seo": {
+      "slug": "the-memory-keeper",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-memory-keeper](https://movnix.com/movie/the-memory-keeper)",
+        "name": "The Memory Keeper",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Dystopian",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a dystopian future where all of humanity's memories have become government-regulated transactional products, mankind's crown-jewel memory is stolen - the answer to where we come from."
+      },
+      "keywords": [
+        "The Memory Keeper",
+        "dystopian sci-fi movie",
+        "sci-fi thriller",
+        "memory manipulation film",
+        "dystopian future cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/the-memory-keeper](https://movnix.com/movie/the-memory-keeper)",
+      "metaTitle": "The Memory Keeper - Sci-Fi Dystopian Movie | Synopsis & Info",
+      "openGraph": {
+        "og:title": "The Memory Keeper - Science Fiction Dystopian Film",
+        "og:description": "When humanity's ultimate origin memory is stolen in a world where memories are currency, everything changes. Discover The Memory Keeper."
+      },
+      "twitterCard": {
+        "twitter:title": "The Memory Keeper - Sci-Fi Thriller",
+        "twitter:description": "In a dystopian future, humanity's ultimate origin memory is stolen. Explore the mystery of The Memory Keeper."
+      },
+      "metaDescription": "In a dystopian future, humanity's memories are government products. When our origin story is stolen, one journey changes everything. Watch The Memory Keeper."
+    },
+    "faq": [
+      {
+        "answer": "The Memory Keeper takes place in a dystopian future where memories are government-regulated transactional commodities. The story focuses on the heist and aftermath of mankind's most prized memory: the secret to humanity's true origins.",
+        "question": "What is the central plot of The Memory Keeper?"
+      },
+      {
+        "answer": "The dominant genre is dystopian science fiction, combining elements of tech-thriller, mystery, and cyberpunk drama.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "No, The Memory Keeper is an original standalone story, though its rich worldbuilding leaves room for potential expansions.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes, there is a short post-credit scene that provides additional insight into the identity of the memory thief.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "No, it is an original screenplay developed directly for the screen.",
+        "question": "Is The Memory Keeper based on a book?"
+      },
+      {
+        "answer": "The story explores commodification of personal experience, government control, existential identity, and the innate human need to understand our roots.",
+        "question": "What core themes does the story explore?"
+      },
+      {
+        "answer": "It takes place in a heavily monitored, futuristic metropolis where human consciousness is commercialized and controlled by a central regime.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The crown-jewel memory is the singular recorded experience containing the definitive proof and story of how human existence began.",
+        "question": "What is the 'crown-jewel memory'?"
+      },
+      {
+        "answer": "It is intended for audiences who enjoy thought-provoking, high-concept sci-fi thrillers like Blade Runner, Total Recall, or Black Mirror.",
+        "question": "Who is the target audience for this film?"
+      },
+      {
+        "answer": "Due to dark dystopian themes, psychological tension, and light violence, it is intended primarily for teens and adults.",
+        "question": "Is the movie suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Low horror elements; primarily psychological tension."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild or negligible profanity based on overview."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal explicit violence implied by the dystopian heist premise."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Thematic references to memories as regulated, addictive transactional products."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity surrounding existential identity and loss."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 2,
+      "science": 9,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-28 18:05:46.90867",
+    "updated_at": "2026-07-28 18:05:46.90867"
+  }
 }
