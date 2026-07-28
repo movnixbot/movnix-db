@@ -2215,5 +2215,289 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/974576/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 974576,
+    "hash": "512c4a6f9d78681eb3c6e497bb1371c31df4387e79629536f7b7127ab419861b",
+    "summary_one_sentence": "Following the unexpected death of the Pope, Cardinal Lawrence must navigate fierce ideological divides and unravel a web of Vatican secrets while overseeing the high-stakes election of a new Pontiff.",
+    "summary_short": "When the Pope suddenly passes away, Cardinal Lawrence is thrust into the stressful role of organizing the ancient and highly secretive papal conclave. Locked inside the Vatican with the world's most influential Catholic leaders, he must balance intense factional politics between progressive and conservative cardinals. As rivalries flare and hidden motives surface, Lawrence stumbles upon a explosive conspiracy that threatens the integrity of the Church itself. He is forced to confront deep moral dilemmas while trying to preserve faith and unity under the eyes of the world.",
+    "summary_long": "The sudden death of the Pope throws the Vatican into mourning and sets off the ancient procedure of electing his successor. Cardinal Lawrence, the Dean of the College of Cardinals, is assigned the grueling task of managing the conclave while grappling with his own crisis of faith. As cardinals from across the globe gather, ideological lines are drawn between ambitious conservatives and hopeful reformists, each backing their preferred candidate. Lawrence works tirelessly to maintain order and neutrality, but rumors and whisper campaigns quickly corrupt the process. As the votes begin, secret pasts are uncovered, exposing bribery, political maneuvering, and personal scandals among the leading contenders. Unforeseen revelations derail frontrunners one by one, increasing the tension behind the closed doors of the Sistine Chapel. Amidst external crises and internal betrayal, an unexpected outsider emerges, forcing the electors to reevaluate their motives. Lawrence must navigate the dangerous intersection of power, piety, and deception to ensure the election of a leader who can guide the Church through turmoil. Ultimately, the discovery of a final, paradigm-shifting secret reshapes the future of the Papacy forever.",
+    "synopsis": "Conclave offers a tense, behind-the-scenes look into one of the world's most secretive and ancient democratic processes: the election of a new Pope. Following the unexpected death of the Supreme Pontiff, Cardinal Lawrence is tasked with overseeing the sequestered gathering of the Catholic Church's highest leaders within the Vatican. As powerful figures clash over the future direction of the Church—pitting tradition against progress—Lawrence uncovers dangerous secrets and clandestine plots that threaten to shatter the institution from within. Combining rich atmosphere with sharp political intrigue, the narrative explores faith, ambition, and the human flaws behind sacred traditions.",
+    "keywords": [
+      "papal conclave",
+      "vatican politics",
+      "religious conspiracy",
+      "power struggle",
+      "behind closed doors",
+      "clerical secrecy",
+      "papal succession",
+      "catholic church",
+      "moral dilemma",
+      "political intrigue",
+      "isolated setting",
+      "high stakes election",
+      "scandal and corruption",
+      "twisty mystery"
+    ],
+    "themes": [
+      {
+        "theme": "Faith vs. Doubt",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Power and Ambition",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Tradition vs. Modernity",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Duty and Responsibility",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "External violence reaches the Vatican's doorstep during a pivotal vote, accelerating the conclave toward a decisive consensus and exposing a game-changing secret.",
+      "conflict": "Lawrence must balance his own crisis of faith while maintaining order among factional cardinals competing for power through ideological battles and political maneuvering.",
+      "resolution": "A surprising new Pope is elected, leaving Lawrence to contemplate the nature of certainty, doubt, and the unpredictable path forward for the Church.",
+      "introduction": "Following the sudden death of the Pope, Cardinal Lawrence is appointed to oversee the covert papal conclave to elect a new leader for the Catholic Church.",
+      "risingAction": "As multiple voting rounds fail to yield a decision, Lawrence investigates emerging scandals, hidden agendas, and secret histories surrounding the front-running candidates."
+    },
+    "characters": [
+      {
+        "name": "Cardinal Thomas Lawrence",
+        "role": "Hero",
+        "description": "The Dean of the College of Cardinals who navigates a personal crisis of faith while untangling political conspiracies to ensure a fair papal election."
+      },
+      {
+        "name": "Cardinal Aldo Bellini",
+        "role": "Supporting Character",
+        "description": "A progressive candidate and ally to Lawrence who seeks to preserve the late Pope's modernizing vision for the Church."
+      },
+      {
+        "name": "Cardinal Joseph Tremblay",
+        "role": "Villain",
+        "description": "An ambitious and corrupt candidate who engages in covert bribery and scheming to seize the papacy."
+      },
+      {
+        "name": "Sister Agnes",
+        "role": "Mentor",
+        "description": "A quiet, observant, and steadfast nun who manages the Vatican staff and aids Lawrence in revealing hidden truths."
+      },
+      {
+        "name": "Cardinal Joshua Adeyemi",
+        "role": "Supporting Character",
+        "description": "A conservative African candidate whose powerful bid for the papacy is undone by revelations of past scandal."
+      },
+      {
+        "name": "Cardinal Vincent Benitez",
+        "role": "Other",
+        "description": "A humble, unexpected candidate serving in active conflict zones who ultimate emerges as a unifying spiritual figure."
+      },
+      {
+        "name": "Cardinal Goffredo Tedesco",
+        "role": "Villain",
+        "description": "A fiercely traditionalist and reactionary candidate whose divisive rhetoric threatens to regress the Church."
+      },
+      {
+        "name": "Monsignor Raymond O'Malley",
+        "role": "Supporting Character",
+        "description": "Lawrence's loyal secretary who assists in gathering information and investigating suspicious allegations during the conclave."
+      },
+      {
+        "name": "Cardinal Sabbadin",
+        "role": "Supporting Character",
+        "description": "A key elector within the conclave involved in the delicate balance of votes and political maneuverings."
+      },
+      {
+        "name": "Archbishop Mandorff",
+        "role": "Supporting Character",
+        "description": "A Vatican official assisting with administrative duties and protocol throughout the papal selection process."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "The Deceased Pope",
+        "description": "Dean of the College of Cardinals serving under his former mentor"
+      },
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "Cardinal Bellini",
+        "description": "Allies / Moderate faction"
+      },
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "Cardinal Tedesco",
+        "description": "Ideological Opponents / Rivals"
+      },
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "Cardinal Tremblay",
+        "description": "Investigator and Suspect"
+      },
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "Sister Agnes",
+        "description": "Confidantes / Allies in revealing truth"
+      },
+      {
+        "source": "Cardinal Thomas Lawrence",
+        "target": "Cardinal Benitez",
+        "description": "Overseer and Secret-Keeper"
+      },
+      {
+        "source": "Cardinal Bellini",
+        "target": "Cardinal Tedesco",
+        "description": "Rivals for the Papacy (Progressive vs Traditionalist)"
+      },
+      {
+        "source": "Cardinal Bellini",
+        "target": "Cardinal Tremblay",
+        "description": "Rivals for the Papacy"
+      },
+      {
+        "source": "Cardinal Tremblay",
+        "target": "Cardinal Adeyemi",
+        "description": "Rivals for the Papacy"
+      },
+      {
+        "source": "Sister Agnes",
+        "target": "The College of Cardinals",
+        "description": "Head Sister managing household logistics"
+      }
+    ],
+    "seo": {
+      "slug": "conclave",
+      "jsonLd": {
+        "name": "Conclave",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall."
+      },
+      "keywords": [
+        "Conclave movie",
+        "Conclave synopsis",
+        "Cardinal Lawrence",
+        "Vatican conspiracy movie",
+        "Pope election drama"
+      ],
+      "canonical": "[https://movnix.com/movie/conclave](https://movnix.com/movie/conclave)",
+      "metaTitle": "Conclave (Movie) - Plot, Synopsis & Vatican Drama",
+      "openGraph": {
+        "og:title": "Conclave - Official Movie Overview",
+        "og:description": "After the death of the Pope, Cardinal Lawrence leads the secret election ritual, uncovering a conspiracy at the heart of the Vatican."
+      },
+      "twitterCard": {
+        "twitter:title": "Conclave Movie - Overview & Synopsis",
+        "twitter:description": "Cardinal Lawrence uncovers a conspiracy that threatens the Vatican during the ancient ritual of electing a new Pope."
+      },
+      "metaDescription": "Cardinal Lawrence manages the secret election of a new Pope, uncovering a dangerous conspiracy at the Vatican that threatens the Catholic Church."
+    },
+    "faq": [
+      {
+        "answer": "Conclave is primarily a mystery thriller and political drama centered on high-stakes religious politics and secrets.",
+        "question": "What is the dominant genre of Conclave?"
+      },
+      {
+        "answer": "No, Conclave is a standalone film and is not part of a franchise, sequel, or cinematic universe.",
+        "question": "Is Conclave part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "Yes, the film is adapted from the 2016 bestselling novel of the same name written by Robert Harris.",
+        "question": "Is Conclave based on a book?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Conclave.",
+        "question": "Is there a post-credit scene in Conclave?"
+      },
+      {
+        "answer": "Ralph Fiennes plays the lead role of Cardinal Lawrence, the official charged with leading the secretive election.",
+        "question": "Who plays the lead role of Cardinal Lawrence?"
+      },
+      {
+        "answer": "The film was directed by Edward Berger, who previously directed the Oscar-winning film All Quiet on the Western Front.",
+        "question": "Who directed Conclave?"
+      },
+      {
+        "answer": "Conclave is rated PG-13 for thematic material and language.",
+        "question": "What is the age rating for Conclave?"
+      },
+      {
+        "answer": "No, Conclave is a work of fiction, though it meticulously accurately depicts the traditional procedures, rules, and atmosphere of a Vatican papal election.",
+        "question": "Is Conclave based on a true story?"
+      },
+      {
+        "answer": "The movie takes place inside Vatican City, where Cardinals are sequestered behind locked doors to elect a new Pope.",
+        "question": "Where does the story of Conclave take place?"
+      },
+      {
+        "answer": "The film features an ensemble cast including Stanley Tucci, John Lithgow, Isabella Rossellini, and Sergio Castellitto.",
+        "question": "Who else stars in the cast alongside Ralph Fiennes?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "No traditional horror or jump scares, though there is a lingering tense and paranoid atmosphere."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent strong profanity and mild vulgarities."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild violence including a nearby terrorist explosion that shatters windows, as well as verbal references to global conflict."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Frequent depictions of characters smoking cigarettes and drinking wine."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content or nudity, though there are brief discussions surrounding medical history and gender identity."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High psychological and emotional intensity centering on high-stakes political maneuvering, secrets, and crises of faith."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-07-27 19:41:04.686795",
+    "updated_at": "2026-07-27 19:41:04.686795"
+  }
 }
