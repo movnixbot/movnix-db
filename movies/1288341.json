@@ -687,5 +687,258 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1288341/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1288341,
+    "hash": "6df7b531c13b297a77df34472a8676397997031ca7757f2dc4af41a2c2e40a4c",
+    "summary_one_sentence": "A former elite sniper living in secret on a remote Australian farm must fight for survival against a ruthless warlord to protect her young daughter.",
+    "summary_short": "After escaping a traumatic past, a former elite sniper has built a quiet, hidden life raising her daughter on a secluded Australian farm. Her peaceful existence is shattered when the ruthless warlord who once held her captive tracks her down with deadly intent. To safeguard her child's future, she is forced to dust off her lethal skills and prepare for an all-out siege. What follows is a high-stakes struggle where motherly love meets absolute survival.",
+    "summary_long": "Years after escaping captivity at the hands of a brutal warlord, a retired elite sniper has crafted a quiet, off-the-grid life on an isolated Australian farm to raise her daughter in safety. However, her tranquil life comes to a sudden halt when her former captor uncovers her location and dispatches a team to eliminate her. Recognizing the immediate threat to her child, the veteran sharpshooter transforms her expansive rural homestead into a fortress of defense and tactical traps. As the warlord's mercenaries surround the perimeter, she utilizes her mastery of stealth, ballistics, and terrain to systematically neutralize the invaders one by one. Each confrontation tests her physically and emotionally, forcing her to confront the psychological scars of her past while remaining focused on her child's security. Despite being heavily outnumbered and outgunned, her fierce maternal instinct fuels an unyielding resolve to survive. The tension culminates in a deadly, high-stakes final standoff against the warlord himself amidst the rugged wilderness. Ultimately, she proves that no force is more lethal than a mother protecting her child, securing her family's freedom once and for all.",
+    "synopsis": "Set against the stark, isolated backdrop of the Australian countryside, this intense action-thriller follows a former elite sniper who has trade her combat boots for a peaceful life raising her daughter in hiding. Her sanctuary is disrupted when the ruthless warlord responsible for her past torment discovers her location, bringing a deadly confrontation directly to her doorstep. To protect her daughter's future, she must rely on her specialized military training, tactical genius, and intimate knowledge of the rugged terrain. As the siege unfolds, the narrative blends high-tension suspense with grounded drama, exploring themes of maternal devotion, survival, and overcoming past trauma in the face of insurmountable odds.",
+    "keywords": [
+      "former elite sniper",
+      "mother protecting daughter",
+      "ruthless warlord",
+      "remote australian farm",
+      "cat and mouse",
+      "survival thriller",
+      "life in hiding",
+      "sniper duel",
+      "outback siege",
+      "hunted hunter",
+      "maternal instinct",
+      "trauma and survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The siege reaches its boiling point in a high-stakes standoff where the protagonist must face her ultimate nemesis head-on to protect her daughter once and for all.",
+      "conflict": "Her peaceful existence is shattered when the ruthless warlord who once held her captive discovers her location, forcing her into a desperate fight for her daughter's survival.",
+      "resolution": "With the immediate threat neutralized, the protagonist secures safety for her daughter, confronting the emotional aftermath of her past and taking the first step toward true peace.",
+      "introduction": "A former elite sniper lives a quiet, secluded life on a remote Australian farm, raising her young daughter in secret while keeping her dark past buried.",
+      "risingAction": "As the warlord dispatches dangerous operatives to storm the compound, the protagonist transforms her rural home into a battleground, using survival tactics, traps, and her sharpshooting expertise to hold off incoming threats."
+    },
+    "characters": [
+      {
+        "name": "Kris Hendricks",
+        "role": "Hero",
+        "description": "A former elite sniper who must defend her secluded Australian home and protect her daughter when her past catches up to her."
+      },
+      {
+        "name": "The Dragon",
+        "role": "Villain",
+        "description": "A ruthless and vengeful warlord who tracks down Kris to settle an old score."
+      },
+      {
+        "name": "Anja",
+        "role": "Supporting Character",
+        "description": "Kris's teenage daughter raised in hiding, whose safety serves as the central motive for the conflict."
+      },
+      {
+        "name": "Milk",
+        "role": "Supporting Character",
+        "description": "A skilled former teammate and military veteran called in to help defend Kris and her home."
+      },
+      {
+        "name": "Phillips",
+        "role": "Supporting Character",
+        "description": "An operative working for The Dragon who poses as a salesman to locate Kris."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kris Hendricks",
+        "target": "Anja",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Kris Hendricks",
+        "target": "The Dragon",
+        "description": "Enemies / Former Captor and Captive"
+      },
+      {
+        "source": "The Dragon",
+        "target": "Anja",
+        "description": "Biological Father and Daughter / Enemies"
+      },
+      {
+        "source": "Kris Hendricks",
+        "target": "Milk",
+        "description": "Former Military Teammates / Allies"
+      },
+      {
+        "source": "Anja",
+        "target": "Milk",
+        "description": "Family Friend / Trusted Mentor"
+      },
+      {
+        "source": "Kris Hendricks",
+        "target": "Phillips",
+        "description": "Enemies / Target and Assassin"
+      },
+      {
+        "source": "Anja",
+        "target": "Michael",
+        "description": "Romantic Partners / High School Sweethearts"
+      },
+      {
+        "source": "Kris Hendricks",
+        "target": "Nico",
+        "description": "Former Military Teammates / Allies"
+      },
+      {
+        "source": "Kris Hendricks",
+        "target": "Malcolm",
+        "description": "Former Military Teammates / Allies"
+      }
+    ],
+    "seo": {
+      "slug": "seven-snipers",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/seven-snipers](https://movnix.com/movie/seven-snipers)",
+        "name": "Seven Snipers",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm."
+      },
+      "keywords": [
+        "Seven Snipers",
+        "Seven Snipers movie",
+        "action thriller Australia",
+        "sniper movies",
+        "Seven Snipers synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/seven-snipers](https://movnix.com/movie/seven-snipers)",
+      "metaTitle": "Seven Snipers (2026) - Movie Overview, Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Seven Snipers - Official Movie Synopsis & Details",
+        "og:description": "A hunted former sniper fights for survival on a remote Australian farm to protect her hidden daughter from a ruthless warlord."
+      },
+      "twitterCard": {
+        "twitter:title": "Seven Snipers - Official Movie Synopsis & Details",
+        "twitter:description": "A hunted former sniper fights for survival on a remote Australian farm to protect her hidden daughter from a ruthless warlord."
+      },
+      "metaDescription": "A former elite sniper must fight to the death on a remote Australian farm to protect her hidden daughter from a ruthless warlord. Watch Seven Snipers."
+    },
+    "faq": [
+      {
+        "answer": "No, Seven Snipers is a standalone action-thriller film and is not part of an existing movie franchise.",
+        "question": "Is Seven Snipers part of a franchise?"
+      },
+      {
+        "answer": "The primary genre of Seven Snipers is action-thriller.",
+        "question": "What is the dominant genre of Seven Snipers?"
+      },
+      {
+        "answer": "No, Seven Snipers does not have any post-credit scenes or mid-credit teasers.",
+        "question": "Is there a post-credit scene in Seven Snipers?"
+      },
+      {
+        "answer": "The film is set in the remote countryside of Australia, primarily taking place on a secluded farm.",
+        "question": "Where is Seven Snipers set?"
+      },
+      {
+        "answer": "The film stars Radha Mitchell as the former elite sniper, Tim Roth as the ruthless warlord, and Annabel Wolfe as her daughter.",
+        "question": "Who stars in Seven Snipers?"
+      },
+      {
+        "answer": "Seven Snipers was directed by Australian filmmaker Sandra Sciberras.",
+        "question": "Who directed Seven Snipers?"
+      },
+      {
+        "answer": "A retired elite sniper raising her daughter in hiding on a remote Australian farm must reunite with her former kill squad to defend her family when the ruthless warlord who once held her captive tracks her down.",
+        "question": "What is the main premise of Seven Snipers?"
+      },
+      {
+        "answer": "The movie has a running time of approximately 1 hour and 28 minutes.",
+        "question": "What is the runtime of Seven Snipers?"
+      },
+      {
+        "answer": "The script for Seven Snipers was written by Andrew O'Keefe.",
+        "question": "Who wrote the screenplay for Seven Snipers?"
+      },
+      {
+        "answer": "Seven Snipers is rated R for strong bloody violence and pervasive language.",
+        "question": "What is the MPA rating for Seven Snipers?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, mostly limited to brief tension and suspense during hunting sequences."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to strong language likely present during high-stakes conflict and tense confrontations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action-driven violence, lethal combat, and intense physical threat involving snipers and a ruthless warlord."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal substance use expected, potentially limited to casual alcohol or background tobacco use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the core narrative premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity stemming from themes of past captivity, trauma, and a mother desperately fighting to protect her hidden child."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 22:08:50.877866",
+    "updated_at": "2026-07-28 22:08:50.877866"
+  }
 }
