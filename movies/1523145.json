@@ -10,9 +10,9 @@
     "budget": "3716000",
     "revenue": "7578000",
     "status": "Released",
-    "popularity": 170.5266,
-    "voteAverage": 7.2,
-    "voteCount": 117,
+    "popularity": 174.3114,
+    "voteAverage": 7.1,
+    "voteCount": 118,
     "homepage": "https://mock-movie-website.com/movies/1523145",
     "posterPath": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
     "backdropPath": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
@@ -242,8 +242,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.2,
-      "votesCount": 117
+      "ratingValue": 7.1,
+      "votesCount": 118
     },
     {
       "source": "crawled",
@@ -498,5 +498,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1523145/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1523145,
+    "hash": "27fcd3d5de2769e4c2f315dcfbf0e5aaf3f244367dea4e3508a3746e4b2aa355",
+    "summary_one_sentence": "To escape severe harassment at her new school, Polina strikes a fake-dating deal with notorious bad boy Bars, leading to unexpected romantic feelings that are threatened by jealous peers and family secrets.",
+    "summary_short": "Upon transferring to a hostile new high school, Polina finds herself targeted by bullies until she strikes a high-stakes bargain with Bars, the school's notorious ringleader. In exchange for pretending to be her protective boyfriend, Polina agrees to follow his every command. What begins as a calculated game quickly evolves into genuine romantic feelings between the pair. However, hostile classmates and secretive family pressures threaten to tear them apart before their bond can fully bloom.",
+    "summary_long": "Struggling to fit in after transferring to a new high school, Polina quickly becomes the target of severe bullying from her peers. In a desperate bid for self-preservation, she approaches Bars, the enigmatic and feared leader among the school's troublemakers. They strike an unconventional deal: Bars will act as her fake boyfriend to shield her from harassment, while Polina must strictly obey his demands. Initially characterized by power dynamics and tense boundaries, their arrangement slowly forces both teenagers to let down their guard. As they spend more time together navigating high school social hierarchies, mutual respect turns into a deep, genuine romantic connection. However, their blossoming romance faces immediate resistance from malicious classmates determined to expose their agreement. At the same time, intense pressures and secrets from Polina's home life begin to surface, threatening her emotional stability. Bars finds himself torn between his tough reputation and his fierce desire to truly safeguard the girl he has come to love. As external forces aggressively conspire to drive them apart, the couple must decide if their fragile trust is strong enough to endure the challenge.",
+    "synopsis": "Your Heart Will Be Broken is an emotionally charged romantic drama that explores the thin line between control and affection. When Polina transfers to a new school, she immediately falls victim to a relentless wave of bullying. Seeking a way out, she makes a risky deal with Bars, the dominant bully who holds sway over the school's social ladder. In exchange for posing as her protective boyfriend to keep her safe, Polina agrees to fulfill any command Bars gives. As the fake-dating charade unfolds, the sharp edges of their agreement soften, revealing genuine vulnerabilities and an unexpected connection between them. Yet as their pretend relationship transforms into real love, external forces gather against them—including bitter classmates determined to undermine them and complex familial conflicts that threaten Polina's future. The narrative delivers a poignant look at youth, protection, sacrifice, and the emotional risks of opening one's heart.",
+    "keywords": [
+      "fake dating",
+      "enemies to lovers",
+      "bully romance",
+      "high school drama",
+      "forbidden love",
+      "star-crossed lovers",
+      "school bullying",
+      "protective hero",
+      "fake to real",
+      "family opposition",
+      "teen angst",
+      "power dynamic"
+    ],
+    "themes": [
+      {
+        "theme": "Bullying and Protection",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Fake Relationship to Real Love",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Opposition and Secrets",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Love Against All Odds",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Romantic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Angsty",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "External pressures reach a boiling point as secret motives and family conflicts come to light, forcing Polina and Bars to make a crucial choice about their relationship and confront those trying to separate them.",
+      "conflict": "Polina and Bars enter into a strict agreement: he will pretend to be her boyfriend and safeguard her from others, while she must obey his commands and fulfill his demands.",
+      "resolution": "The true emotional costs of their arrangement and the surrounding interference are realized, leaving the pair to navigate the painful aftermath and the reality of their feelings for one another.",
+      "introduction": "Polina transfers to a new high school where she quickly becomes the target of severe bullying. To survive, she approaches Bars, the school's most notorious bully, seeking a way to protect herself.",
+      "risingAction": "As they maintain their fake relationship, the boundary between act and reality blurs, and genuine feelings begin to grow between them. However, mounting opposition from hostile classmates and Polina's family creates dangerous obstacles, threatening to tear them apart."
+    },
+    "characters": [
+      {
+        "name": "Polina",
+        "role": "Hero",
+        "description": "The new high school student who, after facing severe bullying, strikes a dangerous deal with Bars for protection, eventually navigating genuine romantic feelings and opposition from those around her."
+      },
+      {
+        "name": "Bars",
+        "role": "Anti Hero",
+        "description": "The primary bully who demands obedience from Polina in exchange for fake-dating and protecting her, eventually developing real feelings for her despite his troubled, morally complex nature."
+      },
+      {
+        "name": "Polina's Family / Antagonistic Classmates",
+        "role": "Villain",
+        "description": "The key forces opposing the main couple, actively actively working to separate Polina and Bars due to personal motives, secrets, and high school rivalries."
+      },
+      {
+        "name": "Supporting Classmates",
+        "role": "Supporting Character",
+        "description": "Friends and peers who populate the high school environment, contributing to the drama and shifting dynamics surrounding Polina and Bars' relationship."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Polina",
+        "target": "Bars",
+        "description": "Fake Couple / Lovers"
+      },
+      {
+        "source": "Bars",
+        "target": "Polina",
+        "description": "Protector / Fake Boyfriend"
+      },
+      {
+        "source": "Classmates",
+        "target": "Polina",
+        "description": "Bullies / Opponents"
+      },
+      {
+        "source": "Classmates",
+        "target": "Bars",
+        "description": "Peers / Subordinates"
+      },
+      {
+        "source": "Polina's Family",
+        "target": "Polina",
+        "description": "Family / Opponents of Relationship"
+      },
+      {
+        "source": "Polina's Family",
+        "target": "Bars",
+        "description": "Opponents / Secretive Antagonists"
+      }
+    ],
+    "seo": {
+      "slug": "your-heart-will-be-broken",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/your-heart-will-be-broken](https://movnix.com/movie/your-heart-will-be-broken)",
+        "name": "Your Heart Will Be Broken",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Romance"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers."
+      },
+      "keywords": [
+        "Your Heart Will Be Broken",
+        "Your Heart Will Be Broken movie",
+        "Polina and Bars",
+        "teen drama movie",
+        "high school romance film",
+        "fake dating movie"
+      ],
+      "canonical": "[https://movnix.com/movie/your-heart-will-be-broken](https://movnix.com/movie/your-heart-will-be-broken)",
+      "metaTitle": "Your Heart Will Be Broken (2026) - Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Your Heart Will Be Broken - A High School Romance & Drama",
+        "og:description": "Polina strikes a deal with bully Bars: fake a relationship for protection. As real feelings emerge, secret motives threaten to pull them apart."
+      },
+      "twitterCard": {
+        "twitter:title": "Your Heart Will Be Broken - Movie Details",
+        "twitter:description": "A fake relationship turns real between Polina and Bars, but family and classmates threaten to tear them apart. Read the full overview."
+      },
+      "metaDescription": "Discover Your Heart Will Be Broken. High schooler Polina makes a dangerous deal with bully Bars to fake a relationship, leading to unexpected feelings."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Your Heart Will Be Broken is teen romance and drama, focusing on high school dynamics, fake dating, and coming-of-age themes.",
+        "question": "What is the dominant genre of Your Heart Will Be Broken?"
+      },
+      {
+        "answer": "Yes, the film is an adaptation of the popular bestselling young adult romance novel of the same name by author Anna Jane.",
+        "question": "Is Your Heart Will Be Broken based on a book?"
+      },
+      {
+        "answer": "Yes, the original book is part of a duology (followed by 'My Heart Will Be Broken'), making it part of an interconnected romantic story arc.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The main characters are Polina, a transferred high school student who faces bullying, and Bars, the school's notorious bully who saves her and enters into a fake-relationship deal with her.",
+        "question": "Who are the main characters in Your Heart Will Be Broken?"
+      },
+      {
+        "answer": "After Polina is saved from bullies by Bars, they agree to pretend to be a couple to protect her, under the condition that she follows his rules. Over time, their fake relationship evolves into genuine feelings despite external pressure to keep them apart.",
+        "question": "What is the main premise of the story?"
+      },
+      {
+        "answer": "No, standard releases of the film do not feature a post-credits scene, concluding the story before the end credits roll.",
+        "question": "Is there a post-credit scene in Your Heart Will Be Broken?"
+      },
+      {
+        "answer": "The movie adaptation was directed by filmmaker Mikhail Vaynberg.",
+        "question": "Who directed the film adaptation of Your Heart Will Be Broken?"
+      },
+      {
+        "answer": "The couple faces opposition from hostile classmates and Polina's family, both of whom have personal reasons to keep Polina and Bars separated.",
+        "question": "What major conflict prevents the main couple from being together?"
+      },
+      {
+        "answer": "The film is primarily aimed at teenagers and young adults (YA demographic) who enjoy high school drama, fake-dating tropes, and emotional romance stories.",
+        "question": "What target audience is Your Heart Will Be Broken intended for?"
+      },
+      {
+        "answer": "Your Heart Will Be Broken is a Russian film production produced by studios including START Studio and Yellow, Black & White.",
+        "question": "Where was the film produced?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements, limited to mild situational tension."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild to moderate profanity and coercive high school dialogue."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate physical and verbal bullying dynamics present within a high school environment."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor or incidental references to teen drinking or party culture."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic themes and superficial affection typical of teen drama."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional drama involving coercion, pretend relationships, family conflict, and intense social pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 9,
+      "science": 0,
+      "suspense": 5,
+      "violence": 3
+    },
+    "created_at": "2026-07-28 13:07:38.79157",
+    "updated_at": "2026-07-28 13:07:38.79157"
+  }
 }
