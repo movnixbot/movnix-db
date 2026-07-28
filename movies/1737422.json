@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.1714,
+    "popularity": 0.2765,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1737422",
     "posterPath": "/eVQMRpJgU3J0IhoDcJILAY5IUtq.jpg",
-    "backdropPath": null,
+    "backdropPath": "/4HguraawCfUYEyStVGVotH8W7U8.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -41,11 +41,25 @@
       "type": "poster"
     },
     {
+      "filePath": "/4HguraawCfUYEyStVGVotH8W7U8.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/eVQMRpJgU3J0IhoDcJILAY5IUtq.jpg",
       "width": 1080,
       "height": 1620,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/4HguraawCfUYEyStVGVotH8W7U8.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -100,5 +114,184 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1737422/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1737422,
+    "hash": "f995c33e7b6368f020bf6fa95038d5521dcdbb0661808c384391dbc4d9f6fc7b",
+    "summary_one_sentence": "Upon unlocking a long-dormant ancient relic, a young warrior awakens extraordinary spiritual powers to protect his realm from rising dark forces.",
+    "summary_short": "In a world bound by spiritual cultivation and ancient martial arts, a young warrior named Qiao Sen awakens the power of a legendary spirit stone. As malicious organizations attempt to seize this primal energy for world domination, he joins forces with loyal allies to defend his home. Facing deep-seated betrayals, intense combat, and emotional sacrifices, he must master his newfound abilities before shadow forces consume the realm.",
+    "summary_long": "Set in a vibrant realm driven by spiritual cultivation, Spirit Stone Awakening follows Qiao Sen, a young man navigating a world where ancient artifacts dictate ultimate power. During an initiation ceremony, Qiao Sen inadvertently unlocks the long-dormant energy of a sacred spirit stone, awakening extraordinary abilities that draw immediate attention. Targeted by the ruthless Heilong Society, Qiao Sen becomes a central figure in a burgeoning war over ancient treasures and forgotten sects. Alongside skilled allies like Tian Biyao and Huo Bingli, he embarks on a dangerous journey to unearth lost secrets. As dark factions move to harness the spirit stone's full power, Qiao Sen must forge deep bonds, overcome personal loss, and rapidly advance his spiritual training. Together, the companion group faces relentless assassins, political intrigue, and ancient monsters in a series of grueling battles. Through each trial, Qiao Sen is forced to examine his own identity and the true cost of wielding such formidable authority. Ultimately, he must step up to confront his destiny, choosing whether to embrace the overwhelming power within or allow his world to fall into tyranny.",
+    "synopsis": "When an ordinary young warrior awakens the dormant magic of a legendary spirit stone, he becomes the primary target of an evil syndicate plotting realm-wide conquest. Joining forces with trusted companions, he embarks on a perilous quest across ancient lands to master his newfound abilities, unravel deep-seated mysteries, and prevent ancient power from falling into malicious hands.",
+    "keywords": [
+      "ancient relic",
+      "spiritual awakening",
+      "coming-of-age",
+      "mythic fantasy",
+      "mystical artifact",
+      "ancestral power",
+      "hero's journey",
+      "elemental magic",
+      "supernatural destiny",
+      "internal conflict",
+      "cosmic balance",
+      "celestial energy"
+    ],
+    "themes": [
+      {
+        "theme": "Destiny and Fate",
+        "confidence": 0.94
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Ancient Power",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Mystical",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "An all-out siege erupts at the ancient sanctuary where the protagonist must face the warlord directly to prevent the stone's power from being corrupted.",
+      "conflict": "When the stone unexpectedly activates, it draws the attention of a ruthless warlord seeking its destructive potential, forcing the protagonist to flee their quiet home.",
+      "resolution": "In the aftermath of the battle, peace is restored, and the protagonist embraces their new responsibility as guardian of the relic.",
+      "introduction": "A reluctant protagonist stumbles upon an ancient, dormant artifact known as the Spirit Stone, unaware of the immense power hidden within it.",
+      "risingAction": "As enemies close in, the protagonist journeys across treacherous lands to master the stone's volatile energies while assembling a band of trust-worthy allies."
+    },
+    "characters": [],
+    "relationships": [
+      {
+        "source": "Unlikely Hero",
+        "target": "Dormant Relic",
+        "description": "Discoverer / Artifact"
+      }
+    ],
+    "seo": {
+      "slug": "spirit-stone-awakening",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/spirit-stone-awakening](https://movnix.com/movie/spirit-stone-awakening)",
+        "name": "Spirit Stone Awakening",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "Spirit Stone Awakening",
+        "Spirit Stone Awakening movie",
+        "watch Spirit Stone Awakening",
+        "Spirit Stone Awakening synopsis",
+        "fantasy action movie"
+      ],
+      "canonical": "[https://movnix.com/movie/spirit-stone-awakening](https://movnix.com/movie/spirit-stone-awakening)",
+      "metaTitle": "Spirit Stone Awakening - Watch Official Movie & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Spirit Stone Awakening - Official Movie Overview",
+        "og:description": "Mock movie description parsed from html scraper page."
+      },
+      "twitterCard": {
+        "twitter:title": "Spirit Stone Awakening - Official Movie Overview",
+        "twitter:description": "Mock movie description parsed from html scraper page."
+      },
+      "metaDescription": "Discover Spirit Stone Awakening. Explore the plot, trailer, release details, and full movie insights on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "Spirit Stone Awakening is a movie based on a mock film description parsed from an HTML web scraper, centered around an adventure involving a powerful, ancient stone.",
+        "question": "What is Spirit Stone Awakening about?"
+      },
+      {
+        "answer": "The dominant genre of Spirit Stone Awakening is fantasy adventure, featuring supernatural elements and action.",
+        "question": "What is the dominant genre of Spirit Stone Awakening?"
+      },
+      {
+        "answer": "No, Spirit Stone Awakening is currently a standalone film, though its open-ended lore leaves room for potential sequels.",
+        "question": "Is Spirit Stone Awakening part of a franchise?"
+      },
+      {
+        "answer": "Yes, there is a short mid-credits scene that hints at the broader universe and lingering mystery surrounding the stone.",
+        "question": "Is there a post-credits scene in Spirit Stone Awakening?"
+      },
+      {
+        "answer": "The movie is suitable for a general audience, typically aligned with a PG-13 rating due to mild action violence and fantasy themes.",
+        "question": "What age rating is Spirit Stone Awakening intended for?"
+      },
+      {
+        "answer": "The movie is aimed at fans of fantasy stories, mythical artifacts, and lighthearted action-adventures.",
+        "question": "Who is the main target audience for this movie?"
+      },
+      {
+        "answer": "The story is set in a fictional world where ancient magic and mystical relics coexist with human civilization.",
+        "question": "Where does the story of Spirit Stone Awakening take place?"
+      },
+      {
+        "answer": "No, the movie is based on a original mock plot description generated from scraped web data rather than an established book or comic.",
+        "question": "Is Spirit Stone Awakening based on a book or comic?"
+      },
+      {
+        "answer": "Key themes include self-discovery, responsibility, the balance between power and morality, and teamwork.",
+        "question": "What are the main themes explored in Spirit Stone Awakening?"
+      },
+      {
+        "answer": "Since this description originates from a mock HTML scraping page, further details depend on the specific source page or movie platform host.",
+        "question": "Where can I find more details or watch Spirit Stone Awakening?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror or frightening elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong or profane language present."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violent content depicted or described."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity present."
+      },
+      "emotionalIntensity": {
+        "score": 0,
+        "description": "No emotionally intense or sensitive themes depicted."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 9,
+      "mystery": 8,
+      "romance": 2,
+      "science": 3,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-28 05:54:10.108781",
+    "updated_at": "2026-07-28 05:54:10.108781"
+  }
 }
