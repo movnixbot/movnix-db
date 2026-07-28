@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.3283,
+    "popularity": 13.3482,
     "voteAverage": 7.9,
     "voteCount": 18,
     "homepage": "https://mock-movie-website.com/movies/1393326",
@@ -926,5 +926,247 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1393326/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1393326,
+    "hash": "eda41f763abf31201cbe46fce6ca37d0ff867d98e5511f9a76149bf00614a1e7",
+    "summary_one_sentence": "When an invisible force violently slaughters inmates inside a notorious prison, rival gang members and corrupt guards must forge an uneasy alliance to survive.",
+    "summary_short": "In a notorious prison plagued by violence and corruption, an unseen supernatural entity suddenly begins brutally executing inmates one by one. Trapped inside with no immediate escape, fierce rival gangs and self-serving guards are forced to put aside their deep-seated animosities to investigate the threat. As the body count rapidly rises, suspicion and panic threaten to tear the fragile coalition apart. Ultimately, the survivors must unravel the dark mystery behind the ghost before everyone inside is wiped out.",
+    "summary_long": "Behind the heavily fortified walls of a high-security prison, a long-standing war between rival gangs keeps tensions at a constant boiling point, further fueled by corrupt guards who exploit the chaos for profit. The deadly status quo shatters when an invisible, violent force begins brutally slaughtering prisoners inside locked cells, leaving behind inexplicable crime scenes. Realizing that no walls or weapons can protect them from this unseen killer, the head of the dominant inmate faction strikes a desperate truce with the prison's chief guard. Together, enemies who previously sought to destroy each other are forced to collaborate, combining their street smarts and security access to track the phantom entity. As they navigate subterranean tunnels and hidden wards of the facility, the mysterious force plays on their deepest fears, triggering mounting paranoia among the group. Missteps and old grievances frequently lead to comedic yet tense standoffs, even as the lethal creature continues to pick off survivors one by one. Dark secrets about the prison's history surface, revealing that the malevolent entity may be connected to past atrocities committed within the facility's walls. With time running out and the supernatural attack reaching a terrifying crescendo, the remaining inmates and guards must execute a frantic, coordinated final attempt to neutralize the force and escape with their lives.",
+    "synopsis": "Set within the bleak, oppressive confines of a notorious penitentiary, Ghost in the Cell blends supernatural horror, dark comedy, and high-stakes thriller elements into a unique survival story. The narrative centers on a high-security facility where rival inmate factions and corrupt correctional officers maintain a fragile, hostile dynamic. Everything changes when a terrifying, invisible force manifests inside the cell blocks, launching a series of gruesome attacks that defy logical explanation. Cut off from the outside world and facing an enemy that can strike anywhere without warning, mortal enemies are forced into an unlikely alliance. Blending dark humor with intense suspense and dramatic character arcs, the story follows this desperate group as they race against time to uncover the origin of the entity and survive the deadly ordeal.",
+    "keywords": [
+      "supernatural entity",
+      "prison setting",
+      "invisible killer",
+      "reluctant alliance",
+      "enemy to ally",
+      "corrupt guards",
+      "gang rivalry",
+      "survival horror",
+      "locked-in thriller",
+      "bloody violence",
+      "supernatural slasher",
+      "forced cooperation",
+      "claustrophobic"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Unlikely Alliances",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Institutional Corruption",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      }
+    ],
+    "story_structure": {
+      "climax": "Trapped during a complete facility lockdown, the surviving allies confront the unseen entity directly in a high-stakes struggle where true motives are exposed and survival hangs in the balance.",
+      "conflict": "An invisible, murderous force begins brutally executing inmates inside locked cells, forcing sworn enemies among the prisoners and guards to acknowledge a shared, supernatural threat.",
+      "resolution": "The immediate threat is neutralized or contained, leaving the surviving guards and inmates to process the aftermath and face a changed dynamic within the prison walls.",
+      "introduction": "In a high-security, notorious prison housing rival gangs and corrupt guards, a tense status quo keeps the facility operating under constant threat of violence.",
+      "risingAction": "As the body count rises and panic spreads, enemy faction leaders and guards form an uneasy alliance to investigate the origins of the force, navigate escalating blockades, and survive targeted attacks."
+    },
+    "characters": [
+      {
+        "name": "Abimana Aryasatya",
+        "role": "Hero",
+        "description": "A pragmatic inmate who takes charge, organizing rival gang members and guards to survive the unseen supernatural threat."
+      },
+      {
+        "name": "Rio Dewanto",
+        "role": "Anti Hero",
+        "description": "A hardened, morally ambiguous prisoner who prioritizes personal survival but proves vital in combat against the brutal force."
+      },
+      {
+        "name": "Bront Palarae",
+        "role": "Villain",
+        "description": "A ruthless and corrupt high-ranking guard whose hidden agenda and oppressive control aggravate the prison's chaos."
+      },
+      {
+        "name": "Lukman Sardi",
+        "role": "Mentor",
+        "description": "A long-serving inmate with deep knowledge of the prison's dark history who offers critical guidance to the group."
+      },
+      {
+        "name": "Aming Sugandhi",
+        "role": "Comic Relief",
+        "description": "An eccentric, nervous prisoner whose sharp wit and frantic reactions provide levity amidst the mounting horror."
+      },
+      {
+        "name": "Dimas Danang",
+        "role": "Supporting Character",
+        "description": "A loyal gang member who helps hold the fragile alliance together during intense encounters."
+      },
+      {
+        "name": "Endy Arfian",
+        "role": "Supporting Character",
+        "description": "A young, inexperienced inmate who relies on the veteran prisoners for protection as the violence escalates."
+      },
+      {
+        "name": "Mike Lucock",
+        "role": "Supporting Character",
+        "description": "A short-tempered guard who must suppress his prejudice against the inmates to survive the supernatural force."
+      },
+      {
+        "name": "Yoga Pratama",
+        "role": "Supporting Character",
+        "description": "A resourceful prisoner who assists in uncovering the nature of the entity haunting the cell blocks."
+      },
+      {
+        "name": "Morgan Oey",
+        "role": "Supporting Character",
+        "description": "A conflicted guard caught between duty to his corrupt superiors and his desire to keep the surviving inmates alive."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Rival Gang Members",
+        "target": "Corrupt Guards",
+        "description": "Uneasy Allies"
+      },
+      {
+        "source": "Inmates",
+        "target": "Invisible Force",
+        "description": "Victims / Target"
+      },
+      {
+        "source": "Corrupt Guards",
+        "target": "Invisible Force",
+        "description": "Victims / Target"
+      }
+    ],
+    "seo": {
+      "slug": "ghost-in-the-cell",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/ghost-in-the-cell](https://movnix.com/movie/ghost-in-the-cell)",
+        "name": "Ghost in the Cell",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
+      },
+      "keywords": [
+        "ghost in the cell",
+        "ghost in the cell movie",
+        "horror movie",
+        "prison horror film",
+        "supernatural thriller",
+        "ghost in the cell synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/ghost-in-the-cell](https://movnix.com/movie/ghost-in-the-cell)",
+      "metaTitle": "Ghost in the Cell (2026) - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Ghost in the Cell - Survival Meets Horror in a Brutal Prison",
+        "og:description": "When an invisible force strikes a notorious prison, rival gangs and corrupt guards are forced into a desperate alliance to stay alive."
+      },
+      "twitterCard": {
+        "twitter:title": "Ghost in the Cell - Survival Meets Horror in a Brutal Prison",
+        "twitter:description": "When an invisible force strikes a notorious prison, rival gangs and corrupt guards are forced into a desperate alliance to stay alive."
+      },
+      "metaDescription": "In a brutal prison, enemy gangs and corrupt guards must unite to survive an unseen force killing inmates. Read the full Ghost in the Cell synopsis."
+    },
+    "faq": [
+      {
+        "answer": "Ghost in the Cell is primarily a supernatural horror and action-thriller film set within a high-security prison environment.",
+        "question": "What is the dominant genre of Ghost in the Cell?"
+      },
+      {
+        "answer": "The film follows enemy gang members and corrupt prison guards who are forced to set aside their rivalries and form an uneasy alliance to survive an invisible entity brutally killing everyone inside.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "No, Ghost in the Cell is an original standalone movie and is not part of an existing franchise or cinematic universe.",
+        "question": "Is Ghost in the Cell part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes after the main storyline concludes.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The film targets fans of dark, violent survival horror and tense action thrillers, featuring a grim, claustrophobic atmosphere and high stakes.",
+        "question": "What is the target audience and tone for this film?"
+      },
+      {
+        "answer": "Due to graphic violence, intense horror sequences, strong language, and brutal inmate deaths, the film is intended for mature audiences (rated R).",
+        "question": "What is the age rating for Ghost in the Cell?"
+      },
+      {
+        "answer": "The story centers on rival gang leaders and a squad of corrupt guards who must work together despite their deep mistrust and history of conflict.",
+        "question": "Who are the primary protagonists in the story?"
+      },
+      {
+        "answer": "The primary threat is an invisible, supernatural force that operates within the cell blocks, rendering traditional defense tactics useless.",
+        "question": "Is the threat in the movie supernatural or a physical intruder?"
+      },
+      {
+        "answer": "The entire narrative takes place inside a notorious, locked-down maximum-security prison, heightening the sense of isolation and claustrophobia.",
+        "question": "Where does the film take place?"
+      },
+      {
+        "answer": "It shares similarities with locked-in survival thrillers and horror films like The Thing, Attack the Block, and Green Room.",
+        "question": "What movies are similar to Ghost in the Cell?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High level of intense horror elements, pervasive dread, violent supernatural attacks, and claustrophobic terror."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent harsh and aggressive language typical of a high-security prison environment."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic depiction of brutal deaths, blood, and physical harm inflicted by an unseen entity."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate depictions or mentions of contraband, alcohol, or smoking typical in prison settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress, life-or-death panic, betrayal, and relentless tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 6,
+      "mystery": 9,
+      "romance": 0,
+      "science": 4,
+      "suspense": 9,
+      "violence": 9
+    },
+    "created_at": "2026-07-27 23:44:28.684742",
+    "updated_at": "2026-07-27 23:44:28.684742"
+  }
 }

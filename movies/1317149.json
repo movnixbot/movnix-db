@@ -10,9 +10,9 @@
     "budget": "3730000",
     "revenue": "15564405",
     "status": "Released",
-    "popularity": 14.3901,
+    "popularity": 14.9654,
     "voteAverage": 8.241,
-    "voteCount": 402,
+    "voteCount": 403,
     "homepage": "https://www.iswearfilm.com",
     "posterPath": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
     "backdropPath": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
@@ -890,7 +890,7 @@
     {
       "source": "tmdb",
       "ratingValue": 8.241,
-      "votesCount": 402
+      "votesCount": 403
     },
     {
       "source": "imdb",
@@ -1049,24 +1049,6 @@
       "name": "Kirk Jones",
       "profilePath": "/6A8URaTJ0kQ6L3H3XXLzRzQ3VQ2.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 64045,
-      "name": "Kirk Jones",
-      "profilePath": "/6A8URaTJ0kQ6L3H3XXLzRzQ3VQ2.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 64045,
-      "name": "Kirk Jones",
-      "profilePath": "/6A8URaTJ0kQ6L3H3XXLzRzQ3VQ2.jpg",
-      "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
@@ -1081,12 +1063,30 @@
       "order": null
     },
     {
+      "tmdbPersonId": 64045,
+      "name": "Kirk Jones",
+      "profilePath": "/6A8URaTJ0kQ6L3H3XXLzRzQ3VQ2.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2367748,
       "name": "Georgia Bayliff",
       "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 64045,
+      "name": "Kirk Jones",
+      "profilePath": "/6A8URaTJ0kQ6L3H3XXLzRzQ3VQ2.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
@@ -1162,7 +1162,12 @@
   "watchProviders": {
     "id": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        }
+      ]
     },
     "us": {
       "flatrate": [],
