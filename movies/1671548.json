@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 15.6788,
-    "voteAverage": 9.218,
-    "voteCount": 39,
+    "popularity": 14.9232,
+    "voteAverage": 9.238,
+    "voteCount": 40,
     "homepage": "https://dearyoumovie.com/",
     "posterPath": "/rjmhzdVS3Ia535pFawju857e2Na.jpg",
     "backdropPath": "/AwmlL79nKTcX5tzAhyoV298xXlz.jpg",
@@ -312,8 +312,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 9.218,
-      "votesCount": 39
+      "ratingValue": 9.238,
+      "votesCount": 40
     },
     {
       "source": "imdb",
@@ -542,6 +542,11 @@
       "iso_3166_1": "JP",
       "title": "給阿マ的情書",
       "type": "Alternative title"
+    },
+    {
+      "iso_3166_1": "MY",
+      "title": "给阿嬷的情书",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -594,5 +599,245 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1671548/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1671548,
+    "hash": "c54ae9454ac207619c66405af510d0a310c9a195c1e03c8d282a6e64dee4b394",
+    "summary_one_sentence": "When Xiaowei travels to Thailand to locate his family's estranged grandfather over an unpaid debt, he unravels a long-held secret about the identity of the person writing letters to his grandmother.",
+    "summary_short": "Hoping to track down his missing grandfather and resolve a pressing debt issue, Xiaowei travels to Thailand expecting a straightforward reunion with a billionaire relative. Instead, his search uncovers a deeply personal history that upends everything he believed about his family's past. As Xiaowei digs deeper into the mystery, he discovers that the faithful correspondent who wrote to his grandmother for decades was never her husband at all. This heartfelt discovery forces Xiaowei to re-evaluate his family's bonds and the true nature of love, sacrifice, and connection.",
+    "summary_long": "Faced with compounding financial difficulties and an urgent debt problem, Xiaowei embarks on a journey to Thailand to find his supposedly wealthy grandfather. Rumored to be a billionaire, the missing patriarch has been out of contact for a long time, leaving the family desperate for answers and financial relief. Upon arriving in Thailand, Xiaowei follows a trail of clues that leads him into unfamiliar surroundings and unexpected encounters. Rather than finding a lavish lifestyle or an easy financial rescue, Xiaowei uncovers a quiet, hidden truth about his family's history. He learns that the decades-long stream of letters arriving for his grandmother—letters that sustained her spirit for years—did not actually come from her legal husband. As Xiaowei piece together the trail left by the true author, he comes to understand the profound reasons behind this elaborate charade. The journey transforms from a desperate hunt for money into a tender exploration of unrequited affection, silent sacrifice, and enduring companionship. Ultimately, Xiaowei confronts the delicate reality of human relationships, realizing that emotional rescue often matters far more than financial salvation. Armed with this newfound understanding, he returns home with a deeper respect for his grandmother's past and a redefined sense of family legacy.",
+    "synopsis": "When pressing debt problems threaten his family's stability, young Xiaowei decides to journey to Thailand in search of his long-lost grandfather, who is rumored to be a wealthy billionaire living abroad. Desperate to restore contact and resolve the financial crisis, Xiaowei navigates a foreign land following the few clues his family possesses. However, as his investigation unfolds, Xiaowei discovers that the person who has been corresponding with his grandmother for decades through cherished letters is not her husband at all. What begins as a practical mission for monetary help quickly turns into an emotional journey of unraveling long-buried secrets, forgotten promises, and the quiet sacrifices people make for love.",
+    "keywords": [
+      "family secrets",
+      "mistaken identity",
+      "pen pals",
+      "search for relatives",
+      "long-distance relationship",
+      "financial trouble",
+      "thailand setting",
+      "hidden truth",
+      "grandfather",
+      "uncovering the past",
+      "family drama",
+      "culture shock",
+      "bittersweet revelation"
+    ],
+    "themes": [
+      {
+        "theme": "Family Secrets & Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Deception & Illusion",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Unrequited Love & Longing",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Search for Truth",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The full history and identity of the mysterious letter-writer are brought to light, forcing Xiaowei to confront the emotional impact this long-kept secret has on his family.",
+      "conflict": "Upon investigating the truth behind the long-distance communication, Xiaowei discovers a shocking discrepancy: the person who has been corresponding with his grandmother all these years is actually not her husband.",
+      "resolution": "With the truth revealed, Xiaowei comes to terms with the reality of his grandmother's past and finds closure regarding his family's true legacy.",
+      "introduction": "Xiaowei travels to Thailand in search of his estranged grandfather, whom his family believes is a wealthy relative currently out of reach due to mounting debt issues.",
+      "risingAction": "Xiaowei delves deeper into the secret correspondence, untangling a complex web of past promises, hidden identities, and long-buried emotional ties surrounding his family's history."
+    },
+    "characters": [
+      {
+        "name": "Xiaowei",
+        "role": "Hero",
+        "description": "The desperate, debt-ridden grandson whose search for his long-lost grandfather in Thailand drives the narrative and uncovers his family's hidden past."
+      },
+      {
+        "name": "Zheng Musheng (Den Bhagseng)",
+        "role": "Hero",
+        "description": "Xiaowei's grandfather who fled to Thailand to escape conscription and worked tirelessly to support his family back in China."
+      },
+      {
+        "name": "Xie Nanzhi (Zia Lamgi)",
+        "role": "Supporting Character",
+        "description": "A compassionate Thai-Chinese woman who befriended Zheng Musheng and faithfully continued corresponding with his family after his passing."
+      },
+      {
+        "name": "Ye Shurou (Iap Sogriu)",
+        "role": "Supporting Character",
+        "description": "Xiaowei's resilient grandmother in Chaoshan who spent decades raising her family while holding onto love through overseas letters."
+      },
+      {
+        "name": "Elderly Xie Nanzhi",
+        "role": "Mentor",
+        "description": "The elderly Lamgi living in Thailand who reveals the long-kept truth behind the romantic letters to Xiaowei."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Xiaowei",
+        "target": "Ye Shurou",
+        "description": "Grandson / Grandmother"
+      },
+      {
+        "source": "Ye Shurou",
+        "target": "Zheng Musheng",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Xiaowei",
+        "target": "Zheng Musheng",
+        "description": "Grandson / Estranged Grandfather"
+      },
+      {
+        "source": "Zheng Musheng",
+        "target": "Xie Nanzhi",
+        "description": "Sworn Siblings / Confidantes"
+      },
+      {
+        "source": "Xie Nanzhi",
+        "target": "Ye Shurou",
+        "description": "Secret Letter Writer / Benefactor (writing letters and sending remittances in Zheng Musheng's name)"
+      },
+      {
+        "source": "Xie Zehua",
+        "target": "Xie Nanzhi",
+        "description": "Adopted Son / Mother"
+      }
+    ],
+    "seo": {
+      "slug": "dear-you",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/dear-you](https://movnix.com/movie/dear-you)",
+        "name": "Dear You",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Xiaowei travels to Thailand to find his 'billionaire grandfather' who is out of contact due to debt problems, but unexpectedly finds the one who has been corresponding with his grandmother for years is not her husband."
+      },
+      "keywords": [
+        "Dear You",
+        "Dear You movie",
+        "Dear You synopsis",
+        "Thailand drama movie",
+        "family secret film",
+        "Dear You plot"
+      ],
+      "canonical": "[https://movnix.com/movie/dear-you](https://movnix.com/movie/dear-you)",
+      "metaTitle": "Dear You - Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Dear You - Movie Overview",
+        "og:description": "Xiaowei travels to Thailand to find his missing grandfather, only to uncover a shocking mystery behind his grandmother's letters."
+      },
+      "twitterCard": {
+        "twitter:title": "Dear You - Movie Overview",
+        "twitter:description": "Xiaowei travels to Thailand to find his missing grandfather, only to uncover a shocking mystery behind his grandmother's letters."
+      },
+      "metaDescription": "Xiaowei travels to Thailand searching for his grandfather, only to uncover a long-kept family secret behind years of hidden letters."
+    },
+    "faq": [
+      {
+        "answer": "Dear You is primarily a family drama and romance film that combines emotional mystery with historical romance across dual timelines.",
+        "question": "What is the dominant genre of Dear You?"
+      },
+      {
+        "answer": "No, Dear You is a standalone original film and is not part of any cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Dear You does not feature a post-credit scene, though the credits include historical context and photographs related to qiaopi letters.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film follows Xiaowei, a young man in heavy debt who secretly travels to Thailand to track down his supposedly wealthy grandfather. Upon arrival, he discovers his grandfather passed away decades ago and the romantic letters his grandmother received for fifty years were written by someone else.",
+        "question": "What is the main plot of Dear You?"
+      },
+      {
+        "answer": "The film features the Chaoshan (Teochew) dialect as its main spoken language, alongside Mandarin Chinese and Thai.",
+        "question": "In what languages is Dear You spoken?"
+      },
+      {
+        "answer": "The movie was directed and co-written by filmmaker Lan Hongchun.",
+        "question": "Who directed Dear You?"
+      },
+      {
+        "answer": "The film stars Li Sitong, Wang Yantong, Wu Shaoqing, Zheng Runqi, and Thai actress Usha Seamkhum.",
+        "question": "Who are the key cast members in Dear You?"
+      },
+      {
+        "answer": "Qiaopi are historical letters paired with monetary remittances sent home by overseas Chinese migrants to their families, serving as the central emotional anchor and mystery of the movie.",
+        "question": "What are the 'qiaopi' letters featured in the movie?"
+      },
+      {
+        "answer": "The specific characters and story are fictional, but the narrative is deeply inspired by real historical traditions and experiences of overseas Chinese migrants from the Chaoshan region.",
+        "question": "Is Dear You based on a true story?"
+      },
+      {
+        "answer": "Dear You has an official runtime of approximately 118 minutes (1 hour and 58 minutes).",
+        "question": "What is the runtime of Dear You?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary themes present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong language implied."
+      },
+      "violence": {
+        "score": 1,
+        "description": "No significant violence depicted in the premise."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity focused on family drama, deception, and personal discovery."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 5,
+      "science": 0,
+      "suspense": 7,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 23:49:59.017619",
+    "updated_at": "2026-07-27 23:49:59.017619"
+  }
 }
