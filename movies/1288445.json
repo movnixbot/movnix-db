@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 9.8692,
+    "popularity": 10.5099,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.mutiny.movie",
@@ -773,5 +773,232 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1288445/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1288445,
+    "hash": "561497c420e1216f5b202843de30be9f3b4a0e82ac4b8b3b92c7e8f8029f63c7",
+    "summary_one_sentence": "Framed for his billionaire boss's murder, Cole Reed infiltrates a cargo ship to track down the killers and uncovers a massive international conspiracy.",
+    "summary_short": "After witnessing the brutal murder of his billionaire employer, Cole Reed finds himself framed as the primary suspect. Determined to clear his name and exact revenge, he boards a cargo ship carrying those responsible. As he navigates the high-seas confrontation, Cole discovers that his boss's death is merely one piece of a deadly global conspiracy.",
+    "summary_long": "Cole Reed's life is turned upside down when his high-profile billionaire boss is assassinated right before his eyes. Before he can process the tragedy, corrupt forces frame Cole for the murder, forcing him on the run from international law enforcement. Driven by loyalty and a desire for justice, Cole tracks the perpetrators to a secluded cargo ship embarking on a long voyage. Infiltrating the vessel alone, he wages a stealthy, one-man war against a ruthless crew of mercenaries. As Cole fights his way through the ship's claustrophobic corridors, he uncovers encrypted files detailing a vast geopolitical plot. The assassination was not a personal vendetta, but a calculated move to trigger a global crisis for corporate gain. With time running out, Cole must defeat the mercenaries on board and broadcast the truth before the ship reaches its destination. Outnumbered and outgunned, his dangerous crusade becomes a fight not just for personal vengeance, but to prevent catastrophic worldwide fallout.",
+    "synopsis": "Mutiny is a high-octane action thriller that follows Cole Reed, a dedicated security operative whose life collapses when his billionaire employer is assassinated. Left as the sole witness and framed for the crime, Cole becomes an international fugitive hunted by authorities and the shadowy figures behind the hit. Refusing to go down quietly, Cole follows a trail of clues that leads him to a rogue cargo ship operating in international waters. Armed with his specialized combat skills, Cole boards the ship single-handedly to confront the killers. However, his mission for vengeance takes a dramatic turn when he uncovers evidence of a far-reaching international conspiracy embedded within the ship's cargo. Suspenseful and action-packed, Mutiny delivers a gripping tale of loyalty, betrayal, and high-seas survival as one man fights to expose the truth against overwhelming odds.",
+    "keywords": [
+      "framed for murder",
+      "revenge crusade",
+      "international conspiracy",
+      "cargo ship",
+      "one-man army",
+      "wrongfully accused",
+      "fugitive on the run",
+      "claustrophobic action",
+      "mercenaries",
+      "ex-special forces",
+      "maritime setting",
+      "high-stakes betrayal",
+      "survival thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Conspiracy & Corruption",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Justice vs. Framing",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Isolated at sea on the cargo vessel, Cole confronts the dangerous operatives executing the conspiracy in an explosive, high-stakes battle for survival and truth.",
+      "conflict": "Cole witnesses the murder of his billionaire boss and is framed for the crime, forcing him on the run from authorities and covert adversaries.",
+      "resolution": "Cole exposes the conspiracy and the true killers, securing justice for his fallen boss and restoring his freedom.",
+      "introduction": "Cole Reed, a former Special Forces operative working in private security, protects a high-profile billionaire.",
+      "risingAction": "Determined to avenge his boss and clear his name, Cole boards a cargo ship on a relentless solo mission, unraveling clues that reveal a far-reaching international conspiracy."
+    },
+    "characters": [
+      {
+        "name": "Cole Reed",
+        "role": "Hero",
+        "description": "An ex-Special Forces operative and security expert who goes on a high-stakes mission to clear his name and expose a global conspiracy after being framed for his billionaire boss's murder."
+      },
+      {
+        "name": "Marko Madsen",
+        "role": "Villain",
+        "description": "The ruthless criminal mastermind operating on the cargo ship, responsible for orchestration of the conspiracy and leading a human trafficking network."
+      },
+      {
+        "name": "Taran",
+        "role": "Supporting Character",
+        "description": "A tactical operative involved in the ship's high-stakes confrontation and international web of corruption."
+      },
+      {
+        "name": "Lieutenant Underwood",
+        "role": "Supporting Character",
+        "description": "A military or security officer connected to the authorities pursuing Cole Reed while trying to piece together the truth."
+      },
+      {
+        "name": "Padraig",
+        "role": "Supporting Character",
+        "description": "A formidable enforcer on board the cargo ship who opposes Cole Reed during his crusade."
+      },
+      {
+        "name": "Billionaire Industrialist Boss",
+        "role": "Other",
+        "description": "Cole Reed's high-profile employer whose sudden murder serves as the catalyst for the framed conspiracy and central plot."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cole Reed",
+        "target": "Billionaire Boss",
+        "description": "Employer and Security Expert (Cole is framed for his boss's murder)"
+      },
+      {
+        "source": "Cole Reed",
+        "target": "Marko Madsen",
+        "description": "Enemies / Antagonist (Marko leads the human trafficking operation aboard the ship)"
+      },
+      {
+        "source": "Cole Reed",
+        "target": "Annabelle Wallis's Character",
+        "description": "Allies (Co-protagonists uncovering the international conspiracy)"
+      },
+      {
+        "source": "Cole Reed",
+        "target": "Taran",
+        "description": "Adversaries / Mercenary Contacts (Adversaries involved in the ship conspiracy)"
+      }
+    ],
+    "seo": {
+      "slug": "mutiny",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/mutiny](https://movnix.com/movie/mutiny)",
+        "name": "Mutiny",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
+      },
+      "keywords": [
+        "Mutiny movie",
+        "Mutiny film plot",
+        "Cole Reed movie",
+        "action thriller movie",
+        "Mutiny synopsis",
+        "Mutiny release date"
+      ],
+      "canonical": "[https://movnix.com/movie/mutiny](https://movnix.com/movie/mutiny)",
+      "metaTitle": "Mutiny (2025) - Movie Synopsis, Cast & Latest Updates | Movnix",
+      "openGraph": {
+        "og:title": "Mutiny - Official Movie Overview & Plot | Movnix",
+        "og:description": "Framed for a billionaire's murder, Cole Reed embarks on a dangerous crusade aboard a cargo ship to uncover a massive international conspiracy."
+      },
+      "twitterCard": {
+        "twitter:title": "Mutiny - Movie Synopsis & Updates",
+        "twitter:description": "Framed for murder, Cole Reed fights back aboard a cargo ship to expose a deadly international conspiracy in Mutiny."
+      },
+      "metaDescription": "Framed for his billionaire boss's murder, Cole Reed uncover an international conspiracy aboard a cargo ship. Read the full Mutiny movie synopsis and updates."
+    },
+    "faq": [
+      {
+        "answer": "Mutiny is primarily an action-thriller, combining high-octane combat sequences with suspenseful conspiracy and mystery elements.",
+        "question": "What is the dominant genre of Mutiny?"
+      },
+      {
+        "answer": "No, Mutiny is an original standalone action film and not part of an existing franchise or cinematic universe.",
+        "question": "Is Mutiny part of an existing franchise?"
+      },
+      {
+        "answer": "Action movie star Jason Statham plays the lead role of Cole Reed.",
+        "question": "Who stars as the main character, Cole Reed?"
+      },
+      {
+        "answer": "The film is directed by French filmmaker Jean-François Richet, who previously directed the action hit Plane.",
+        "question": "Who directed Mutiny?"
+      },
+      {
+        "answer": "Much of the action takes place in an isolated setting aboard a cargo ship where Cole Reed uncovers an international conspiracy.",
+        "question": "What is the primary setting of the movie?"
+      },
+      {
+        "answer": "The main cast includes Annabelle Wallis, Roland Møller, Ramon Tikaram, Arnas Fedaravičius, Jason Wong, and Adrian Lester.",
+        "question": "Who else stars alongside Jason Statham in the cast?"
+      },
+      {
+        "answer": "As a standalone action thriller, Mutiny completes its story during the main runtime and does not feature a post-credits scene setting up a sequel.",
+        "question": "Is there a post-credits scene in Mutiny?"
+      },
+      {
+        "answer": "Cole Reed witnesses the murder of his billionaire boss and is framed for the crime, prompting his quest to clear his name and avenge his boss's death.",
+        "question": "What triggers Cole Reed's mission in Mutiny?"
+      },
+      {
+        "answer": "No, Mutiny is a fictional original story written by screenwriters Lindsay Michel and J.P. Davis.",
+        "question": "Is Mutiny based on a true story or a book?"
+      },
+      {
+        "answer": "Mutiny is released theatrically by Lionsgate and Sky Original in select regions, followed by digital and streaming availability.",
+        "question": "Where can viewers watch Mutiny?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild suspense and tense moments related to being hunted and uncovering a dangerous conspiracy."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity appropriate for an intense action-thriller setting."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence including murder, gunplay, physical combat, and revenge-driven conflict."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild or casual substance use, such as drinking or smoking in criminal/corporate underworld contexts."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content expected based on the core narrative focus."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from false accusations, murder of a close associate, and high-stakes peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 2,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 07:26:02.524382",
+    "updated_at": "2026-07-28 07:26:02.524382"
+  }
 }
