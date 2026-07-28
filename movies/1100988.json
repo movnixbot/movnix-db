@@ -3750,5 +3750,271 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1100988/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1100988,
+    "hash": "9e0509d8748eae4366c2972a165ecdd6901b2289c1553e53dc947bbc580fcef0",
+    "summary_one_sentence": "Twenty-eight years after the Rage virus devastated society, a young man ventures off a heavily defended island onto the mainland, discovering terrifying mutations among both the infected and the remaining survivors.",
+    "summary_short": "Nearly three decades after the original outbreak, a isolated island community manages to survive off the coast of mainland Britain, connected only by a heavily guarded causeway. When a member of the community makes the dangerous journey across to the mainland, he enters a nightmarish, ruined landscape. There, he uncovers shocking secrets and realizes that both the Rage virus and human society have mutated into entirely new forms of horror and wonder.",
+    "summary_long": "Twenty-eight years after the escape of the Rage virus, civilization as it once was is long gone. A resilient community of survivors has built a precarious refuge on a protected island, maintaining a fragile safety behind barricades and a single, heavily fortified causeway connected to the dark mainland. When a young man decides to leave the sanctuary of the island to venture into the ruined interior, he steps into a long-abandoned world reclaiming itself. As he journeys deeper into the mainland, he encounters eerie landscapes and unexpected wonders alongside profound dangers. The Rage virus has not remained static over the decades; it has evolved, giving rise to new and unpredictable manifestations among the infected. Even more chilling, the isolated human enclaves left on the mainland have developed twisted belief systems, brutal cultures, and terrifying adaptations of their own to survive. Trapped between mutated horrors and unpredictable human factions, the traveler uncovers dark secrets about the origins of the world's current state and the true cost of isolation. Ultimately, his journey reveals that the line between monster and survivor has become hopelessly blurred in this vast, dangerous wasteland.",
+    "synopsis": "Set nearly three decades after the initial release of the violent Rage virus, '28 Years Later' explores a world profoundly transformed by disaster. While a small, self-sustaining population maintains order on an isolated island off the coast, the mainland remains a dangerous mystery. The story follows a survivor who dares to cross the single causeway connecting the island to the mainland, embarking on a treacherous expedition through forgotten territory to uncover the truth of what has become of the world beyond their borders.",
+    "keywords": [
+      "rage virus",
+      "post-apocalyptic",
+      "viral outbreak",
+      "mutated infected",
+      "isolated community",
+      "island sanctuary",
+      "mainland expedition",
+      "dark secrets",
+      "survival horror",
+      "human mutation",
+      "causeway",
+      "desolate wasteland",
+      "epidemic thriller",
+      "societal collapse"
+    ],
+    "themes": [
+      {
+        "theme": "Survival and Isolation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Mutation and Evolution",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fear of the Unknown",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Human Nature in Crisis",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Horror",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Deep within mainland territory, hidden secrets come to light, forcing a high-stakes confrontation with mutated forces and dangerous survivors that threatens everything the island community built.",
+      "conflict": "A member of the island community makes the perilous choice to cross the causeway and venture onto the mainland, setting off a chain of events that threatens the delicate safety of the survivors.",
+      "resolution": "The aftermath of the mainland expedition irrevocably alters the protagonist's understanding of the world, leaving the future of human survival fundamentally changed.",
+      "introduction": "Twenty-eight years after the Rage virus devastates humanity, a small, heavily fortified island community maintains a precarious existence off the coast of the mainland, connected only by a single causeway.",
+      "risingAction": "As the protagonist navigates the desolate ruins of the mainland, they uncover disturbing mutations among the infected and realize that surviving human factions have evolved dangerous, unexpected ways of living."
+    },
+    "characters": [
+      {
+        "name": "Spike (played by Alfie Williams)",
+        "role": "Hero",
+        "description": "A young islander raised in safety who ventures into the infected mainland, driving the story's coming-of-age journey."
+      },
+      {
+        "name": "Jamie (played by Aaron Taylor-Johnson)",
+        "role": "Supporting Character",
+        "description": "Spike's protective scavenger father who guides and accompanies him into the dangerous mainland."
+      },
+      {
+        "name": "Isla (played by Jodie Comer)",
+        "role": "Supporting Character",
+        "description": "Spike's ailing mother whose need for urgent medical supplies motivates the family's perilous trek."
+      },
+      {
+        "name": "Dr. Ian Kelson (played by Ralph Fiennes)",
+        "role": "Mentor",
+        "description": "An enigmatic doctor surviving on the mainland who possesses deep knowledge of the virus and offers guidance."
+      },
+      {
+        "name": "Sir Lord Jimmy Crystal (played by Jack O'Connell)",
+        "role": "Villain",
+        "description": "A dark, twisted cult leader operating on the mainland who poses a severe human threat to the survivors."
+      },
+      {
+        "name": "Samson (played by Chi Lewis-Parry)",
+        "role": "Villain",
+        "description": "A highly evolved, physically formidable 'Alpha' infected, presenting a deadly physical threat."
+      },
+      {
+        "name": "Erik Sundqvist (played by Edvin Ryding)",
+        "role": "Supporting Character",
+        "description": "A fellow human survivor who aids or interacts with the main group during their journey."
+      },
+      {
+        "name": "Sam (played by Christopher Fulford)",
+        "role": "Supporting Character",
+        "description": "A senior member of the island survivor community."
+      },
+      {
+        "name": "Jenny (played by Stella Gonet)",
+        "role": "Supporting Character",
+        "description": "A resident of the fortified island community."
+      },
+      {
+        "name": "Rosey (played by Kim Allan)",
+        "role": "Supporting Character",
+        "description": "A member of the mainland/island survivor faction."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Spike",
+        "target": "Emi",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Spike",
+        "target": "Jamie",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Emi",
+        "target": "Jamie",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Spike",
+        "target": "Dr. Kelson",
+        "description": "Allies/Companions"
+      },
+      {
+        "source": "The Alpha",
+        "target": "Spike",
+        "description": "Adversaries/Hunter and Hunted"
+      },
+      {
+        "source": "Jamie",
+        "target": "Island Community",
+        "description": "Protector/Leader"
+      }
+    ],
+    "seo": {
+      "slug": "28-years-later",
+      "jsonLd": {
+        "name": "28 Years Later",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well."
+      },
+      "keywords": [
+        "28 Years Later",
+        "28 Years Later movie",
+        "Rage virus",
+        "28 Days Later sequel",
+        "horror movie 2025",
+        "post apocalyptic movie"
+      ],
+      "canonical": "[https://movnix.com/movie/28-years-later](https://movnix.com/movie/28-years-later)",
+      "metaTitle": "28 Years Later (2025) - Synopsis, Secrets & Movie Details",
+      "openGraph": {
+        "og:title": "28 Years Later - Return to the World of the Rage Virus",
+        "og:description": "28 years after the outbreak, a survivor crosses the causeway into the mutated mainland. Uncover the secrets, wonders, and horrors of 28 Years Later."
+      },
+      "twitterCard": {
+        "twitter:title": "28 Years Later - Official Movie Overview",
+        "twitter:description": "Beyond the causeway lies the mutated heart of the mainland. Explore 28 Years Later and face the horror beyond the island."
+      },
+      "metaDescription": "Discover 28 Years Later: 28 years after the Rage virus outbreak, a lone survivor ventures beyond the safe island causeway into the mutated mainland."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is the third installment in the 28 Days Later franchise, following 28 Days Later (2002) and 28 Weeks Later (2007).",
+        "question": "Is 28 Years Later part of a franchise?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene at the end of the movie.",
+        "question": "Is there a post-credit scene in 28 Years Later?"
+      },
+      {
+        "answer": "The film primary falls under post-apocalyptic horror and thriller, with strong elements of coming-of-age drama.",
+        "question": "What is the dominant genre of 28 Years Later?"
+      },
+      {
+        "answer": "The movie was directed by Danny Boyle, returning to the franchise after directing the original 28 Days Later.",
+        "question": "Who directed 28 Years Later?"
+      },
+      {
+        "answer": "The screenplay was written by Alex Garland, who also penned the original 28 Days Later.",
+        "question": "Who wrote the screenplay for 28 Years Later?"
+      },
+      {
+        "answer": "The main cast includes Jodie Comer, Aaron Taylor-Johnson, Jack O'Connell, Alfie Williams, and Ralph Fiennes.",
+        "question": "Who stars in 28 Years Later?"
+      },
+      {
+        "answer": "Set nearly three decades after the Rage virus outbreak, a community survives on a heavily defended island connected to the mainland. A young boy leaves the island into the mainland's dark interior to seek help for his ill mother, discovering mutated infected and dangerous survivors.",
+        "question": "What is the basic plot of 28 Years Later?"
+      },
+      {
+        "answer": "While it is the third film in the series, it serves as a direct follow-up primarily to the narrative sensibilities and continuity of the original 28 Days Later, exploring the long-term aftermath in Britain.",
+        "question": "Is 28 Years Later a direct sequel to 28 Weeks Later?"
+      },
+      {
+        "answer": "Yes, a direct sequel titled 28 Years Later: The Bone Temple was filmed back-to-back with this movie and directed by Nia DaCosta.",
+        "question": "Will there be a sequel to 28 Years Later?"
+      },
+      {
+        "answer": "The movie has a running time of approximately 115 minutes (1 hour and 55 minutes).",
+        "question": "What is the runtime of 28 Years Later?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong terror, disturbing imagery, mutant horror, intense suspense, and frightening themes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity and coarse language consistent with post-apocalyptic survival thrillers."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic depicted violence, gore, and violent encounters with infected mutants and hostile survivors."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Occasional depictions or references to alcohol, tobacco, or medical/survival substances."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content; possible brief non-explicit references."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving grief, existential dread, threat of infection, and extreme peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 6,
+      "suspense": 9,
+      "violence": 9
+    },
+    "created_at": "2026-07-28 07:18:33.058869",
+    "updated_at": "2026-07-28 07:18:33.058869"
+  }
 }
