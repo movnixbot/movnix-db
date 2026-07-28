@@ -1215,5 +1215,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1185806/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1185806,
+    "hash": "89a820256be61577c0aefa931b1452a310d4183d93ecb51d2ef3695eefa89f30",
+    "summary_one_sentence": "When a severe storm strands the PAW Patrol on a mysterious dinosaur island, they team up with a pup named Rex to stop Mayor Humdinger's dangerous mining from causing a catastrophic volcanic eruption.",
+    "summary_short": "After being blown off course by a massive storm, the PAW Patrol crash-lands on a hidden island inhabited by prehistoric dinosaurs. There, they meet Rex, a resourceful pup who has been living among the gentle giants and knows the land well. When the greedy Mayor Humdinger begins reckless mining operations that destabilize the island's dormant volcano, the pups must gear up for their most perilous rescue yet. Together, the team works tirelessly to neutralize the volcanic threat and protect both the dinosaurs and their new friend.",
+    "summary_long": "The adventure begins when a sudden and violent storm sweeps the PAW Patrol off their planned course, sending them crashing onto an uncharted island frozen in time. To their astonishment, the team discovers that the island is home to living, breathing dinosaurs coexisting in a vibrant ecosystem. They soon meet Rex, a brave disabled pup using a specialized wheeled frame who has adapted to life among the prehistoric creatures. While exploring, the pups uncover Mayor Humdinger's secret scheme to mine the island's rare, energy-rich crystals for his own selfish gain. Humdinger's heavy machinery and careless blasting accidentally rupture a fault line, awakening a massive, long-dormant volcano. As lava begins to flow and ash clouds cover the sky, panicked dinosaurs scatter across the unstable terrain. Ryder and Rex quickly formulate a multi-stage rescue plan, deploying customized dino-themed gear and vehicles to guide the giant beasts to safety. Facing falling debris, crumbling cliffs, and rising magma, each pup uses their unique skills to clear escape routes and contain the damage. Ultimately, through incredible teamwork, brave maneuvers, and Rex's deep knowledge of the island, the PAW Patrol manages to divert the lava flow, secure the volcano, and bring Mayor Humdinger's destructive operation to a halt.",
+    "synopsis": "PAW Patrol: The Dino Movie takes Ryder and his heroic team of pups on an extraordinary journey to a forgotten world where dinosaurs still roam. After a fierce storm leaves the patrol stranded on a uncharted tropical island, they form an instant bond with Rex, a heroic pup living alongside the ancient giants. The excitement quickly turns into high-stakes action when Mayor Humdinger's greed threatens to destroy the island's fragile environment, triggering severe seismic activity and a volcanic disaster. Blending humor, heart, and high-octane rescues, this feature-length adventure highlights the power of teamwork, inclusion, and environmental stewardship as the PAW Patrol faces their biggest challenge yet.",
+    "keywords": [
+      "dinosaurs",
+      "volcano eruption",
+      "island setting",
+      "rescue mission",
+      "talking animals",
+      "heroic pups",
+      "environmental threat",
+      "stranded character",
+      "reckless villain",
+      "teamwork",
+      "storm stranded",
+      "prehistoric adventure",
+      "disaster rescue"
+    ],
+    "themes": [
+      {
+        "theme": "Teamwork and Problem Solving",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival and Rescue",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Environmental Stewardship",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Friendship and Community",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The volcano erupts, forcing the team into their highest-stakes rescue operation yet as they work to contain the catastrophe and save both the island and its prehistoric inhabitants.",
+      "conflict": "Mayor Humdinger's reckless mining operations disrupt the island's natural balance and threaten to trigger a massive volcanic eruption.",
+      "resolution": "With the island secured and Humdinger's scheme halted, the PAW Patrol establishes a lasting alliance with Rex to protect the prehistoric paradise.",
+      "introduction": "The PAW Patrol arrives on a mysterious, uncharted dinosaur island following a severe storm and crosses paths with Rex, a brave pup stranded in the prehistoric land.",
+      "risingAction": "As volcanic activity escalates, the PAW Patrol teams up with Rex, utilizing new dino-themed gear and vehicles to navigate hazardous terrain and rescue endangered dinosaurs."
+    },
+    "characters": [
+      {
+        "name": "Ryder",
+        "role": "Mentor",
+        "description": "The ten-year-old human tech leader of the PAW Patrol who guides and coordinates the pups during rescue operations."
+      },
+      {
+        "name": "Skye",
+        "role": "Hero",
+        "description": "A fearless cockapoo and aerial rescue pup who takes a lead role in navigating air missions on the dinosaur island."
+      },
+      {
+        "name": "Chase",
+        "role": "Hero",
+        "description": "A brave German Shepherd police and traffic pup who takes charge on the ground to keep the team and island safe."
+      },
+      {
+        "name": "Rex",
+        "role": "Mentor",
+        "description": "A Bernese Mountain Dog dino expert stranded on the island who guides the PAW Patrol through dinosaur habits and terrain."
+      },
+      {
+        "name": "Mayor Humdinger",
+        "role": "Villain",
+        "description": "The greedy arch-rival whose reckless mining operations trigger the dangerous volcanic eruption on the island."
+      },
+      {
+        "name": "Marshall",
+        "role": "Comic Relief",
+        "description": "A clumsy yet dedicated Dalmatian firefighter pup who brings humor and bravery to high-stakes rescues."
+      },
+      {
+        "name": "Rubble",
+        "role": "Supporting Character",
+        "description": "An energetic English Bulldog construction pup essential for digging and heavy lifting during emergency rescues."
+      },
+      {
+        "name": "Rocky",
+        "role": "Supporting Character",
+        "description": "A resourceful eco-friendly pup who uses recycled items and tools to fix damaged machinery on the mission."
+      },
+      {
+        "name": "Zuma",
+        "role": "Supporting Character",
+        "description": "A laid-back Chocolate Labrador water rescue pup who handles water-based obstacles around the mysterious island."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PAW Patrol",
+        "target": "Rex",
+        "description": "Allies / Teammates"
+      },
+      {
+        "source": "PAW Patrol",
+        "target": "Mayor Humdinger",
+        "description": "Adversaries"
+      },
+      {
+        "source": "Rex",
+        "target": "Mayor Humdinger",
+        "description": "Island Protector vs. Environmental Threat"
+      }
+    ],
+    "seo": {
+      "slug": "paw-patrol-the-dino-movie",
+      "jsonLd": {
+        "name": "PAW Patrol: The Dino Movie",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Rex",
+            "@type": "Person"
+          },
+          {
+            "name": "Mayor Humdinger",
+            "@type": "Person"
+          }
+        ],
+        "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island."
+      },
+      "keywords": [
+        "PAW Patrol The Dino Movie",
+        "PAW Patrol dinosaur island",
+        "Rex PAW Patrol",
+        "PAW Patrol movie",
+        "Mayor Humdinger volcano",
+        "kids animated movie"
+      ],
+      "canonical": "[https://movnix.com/movie/paw-patrol-the-dino-movie](https://movnix.com/movie/paw-patrol-the-dino-movie)",
+      "metaTitle": "PAW Patrol: The Dino Movie - Official Rescue Mission & Plot",
+      "openGraph": {
+        "og:title": "PAW Patrol: The Dino Movie - Save Dinosaur Island!",
+        "og:description": "A storm lands the PAW Patrol on a mysterious island. Team up with Rex to stop Mayor Humdinger and save the dinosaurs from an erupting volcano!"
+      },
+      "twitterCard": {
+        "twitter:title": "PAW Patrol: The Dino Movie - Official Movie Overview",
+        "twitter:description": "The pups are back for a dino-sized rescue! Can the PAW Patrol and Rex save Dinosaur Island before the volcano erupts?"
+      },
+      "metaDescription": "Join the PAW Patrol on Dinosaur Island! When Mayor Humdinger triggers a volcano, the pups team up with Rex for their biggest rescue yet."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the popular PAW Patrol media franchise, following the adventures of Ryder and his team of rescue pups.",
+        "question": "Is PAW Patrol: The Dino Movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is animated action-adventure, tailored specifically for young children and family audiences.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "No, like most PAW Patrol releases, there are no mid-credit or post-credit scenes after the credits finish.",
+        "question": "Is there a post-credit scene in PAW Patrol: The Dino Movie?"
+      },
+      {
+        "answer": "Rex is a stranded pup living on the mysterious dinosaur island who joins forces with the PAW Patrol to assist in their rescue efforts.",
+        "question": "Who is Rex in the movie?"
+      },
+      {
+        "answer": "The team lands on the island after their vehicle gets caught in a powerful storm while out on a mission.",
+        "question": "How does the PAW Patrol team arrive on the dinosaur island?"
+      },
+      {
+        "answer": "Mayor Humdinger acts as the main antagonist whose reckless mining operations threaten the island and trigger a volcanic eruption.",
+        "question": "Who serves as the main antagonist in the film?"
+      },
+      {
+        "answer": "The PAW Patrol must execute a massive rescue operation to save the island, its dinosaurs, and Rex from a violent volcanic eruption.",
+        "question": "What is the primary rescue mission in the story?"
+      },
+      {
+        "answer": "Yes, the movie is specifically created to be safe, entertaining, and age-appropriate for preschoolers and young kids.",
+        "question": "Is this movie suitable for preschool-aged children?"
+      },
+      {
+        "answer": "The film highlights core values such as teamwork, bravery, helping others in danger, and respecting nature.",
+        "question": "What key themes are featured in the movie?"
+      },
+      {
+        "answer": "It is available on major digital streaming services, video-on-demand platforms, and physical home media formats.",
+        "question": "Where can audiences watch PAW Patrol: The Dino Movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Mild suspense surrounding a volcanic eruption, with no genuine horror or jumpscares."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or inappropriate language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Mild cartoon action and peril typical of children's animated rescue adventures."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or tobacco references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive material."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Low emotional intensity involving minor, age-appropriate rescue urgency for young audiences."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 8,
+      "comedy": 7,
+      "emotion": 6,
+      "fantasy": 2,
+      "mystery": 5,
+      "romance": 0,
+      "science": 4,
+      "suspense": 6,
+      "violence": 2
+    },
+    "created_at": "2026-07-28 12:23:16.947572",
+    "updated_at": "2026-07-28 12:23:16.947572"
+  }
 }

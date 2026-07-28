@@ -5,12 +5,12 @@
     "title": "Ghost Rider",
     "originalTitle": "Ghost Rider",
     "overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name. Plot TBA.",
-    "releaseDate": "2028-07-28",
+    "releaseDate": "1999-10-15",
     "runtime": 139,
     "budget": null,
     "revenue": null,
     "status": "Planned",
-    "popularity": 5,
+    "popularity": 4.0536,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1738010",
@@ -76,10 +76,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/yclChqeYaKbVDJLyxae2tIfnKBQ.jpg",
-      "width": 1047,
-      "height": 1571,
-      "aspectRatio": 0.666,
+      "filePath": "/a8tROiPvlrPErY23xTozi1Q67Fo.jpg",
+      "width": 1150,
+      "height": 1627,
+      "aspectRatio": 0.707,
       "type": "poster"
     },
     {
@@ -110,7 +110,7 @@
     {
       "tmdbPersonId": 17825,
       "name": "Shawn Levy",
-      "profilePath": "/uZ40wDFzxPmzROJl9KxPgEGv9ME.jpg",
+      "profilePath": "/rpAvyeds9OztUQUUMmgg7eivfLY.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
@@ -128,7 +128,7 @@
     {
       "tmdbPersonId": 1274663,
       "name": "Jonathan Tropper",
-      "profilePath": "/t6ztR16asT1JV3oIQIcLDB1DMsj.jpg",
+      "profilePath": "/8cyJtu5Jja9Rw6uZNkKotL1F2rc.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -140,6 +140,11 @@
       "iso_3166_1": "US",
       "title": "Marvel Studios' Ghost Rider",
       "type": "promotional title"
+    },
+    {
+      "iso_3166_1": "BR",
+      "title": "Motoqueiro Fantasma",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -151,12 +156,68 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        }
+      ]
     },
     "us": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
+        {
+          "name": "Starz Apple TV Channel",
+          "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
+        },
+        {
+          "name": "Starz Roku Premium Channel",
+          "logo": "/9laPF1MAiUxlqM8T98F3Gj0bhzd.jpg"
+        },
+        {
+          "name": "YouTube TV",
+          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+        },
+        {
+          "name": "Starz",
+          "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
+        },
+        {
+          "name": "Starz Amazon Channel",
+          "logo": "/esiLBRzDUwodjfN8gA4qj7l3ZF7.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
