@@ -10,9 +10,9 @@
     "budget": "10000000",
     "revenue": "4048606",
     "status": "Released",
-    "popularity": 18.0736,
-    "voteAverage": 6.804,
-    "voteCount": 626,
+    "popularity": 16.0693,
+    "voteAverage": 6.799,
+    "voteCount": 633,
     "homepage": "https://www.samuelgoldwynfilms.com/cold-storage",
     "posterPath": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
     "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
@@ -42,7 +42,7 @@
     {
       "tmdbId": 275988,
       "name": "Pariah",
-      "logoPath": null,
+      "logoPath": "/y4GU9rJyElzf58iSPtwhUSVegHU.png",
       "originCountry": "US"
     },
     {
@@ -1046,8 +1046,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.804,
-      "votesCount": 626
+      "ratingValue": 6.799,
+      "votesCount": 633
     },
     {
       "source": "imdb",
@@ -1360,5 +1360,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/696393/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 696393,
+    "hash": "ba587b1c9a5da6b532d7b205c66572129c0c15a144c7b61fb55739c007e20edd",
+    "summary_one_sentence": "When a dangerous, mutating fungus escapes a subterranean military base, two unlikely facility workers and a veteran bioterror operative must contain the deadly outbreak before it wipes out humanity.",
+    "summary_short": "A top-secret government facility housing a lethal, highly contagious fungal organism suffers a catastrophic containment breach. Trapped inside during an overnight shift, two ordinary employees are forced to team up with a hardened bioterrorism expert to stop the pathogen's rapid spread. Blending dark comedy with sci-fi horror, the trio must overcome absurd obstacles and gruesome threats to prevent a global catastrophe.",
+    "summary_long": "Deep beneath the earth, a dormant military facility conceals one of humanity's most dangerous secrets: a rapidly mutating, parasitic fungal strain capable of total ecological destruction. What begins as a routine night shift for two underprepared facility employees turns into a nightmare when an equipment failure breaks containment. As the fungus begins to spread and adapt to its environment, it infects everything in its path, turning the facility into a chaotic hazard zone. Desperate for help, the workers make contact with a grizzled, retired bioterrorism operative who understands the true, terrifying scope of the organism. Arriving at the scene, the operative leads the young staff through dark corridors, grotesque hazards, and spiraling panic. Armed with makeshift weapons and sheer resolve, the improbable team must outsmart the evolving parasite while racing against the clock. Tensions flare as personal drama and dark humor clash with the life-or-death stakes of their mission. Ultimately, they must pull off a dangerous plan to seal the facility and neutralize the threat before the fungus reaches the surface world.",
+    "synopsis": "Cold Storage is a genre-bending sci-fi horror comedy that follows two low-level employees working the overnight shift at a decommissioned government facility. Deep in the subterranean vaults lies a highly classified, mutating fungus that has been sealed away for decades. When the temperature controls fail, the parasitic organism awakens and rapidly breaches containment. To stop an impending global extinction event, the two workers must team up with a battle-hardened, cynical bioterrorism expert. Together, this unlikely trio faces a terrifying, hilarious, and desperate night of survival as they attempt to lock down the facility before the deadly outbreak reaches the outside world.",
+    "keywords": [
+      "fungal outbreak",
+      "containment breach",
+      "biohazard",
+      "mutating organism",
+      "horror comedy",
+      "night shift",
+      "underground facility",
+      "biological threat",
+      "reluctant heroes",
+      "extinction event",
+      "body horror",
+      "grizzled operative",
+      "race against time"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Responsibility and Duty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Heroism in Everyday People",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Humanity vs. Nature",
+        "confidence": 0.79
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The team faces a high-stakes, time-sensitive showdown against the fully unleashed fungal threat to execute a dangerous, last-ditch containment plan.",
+      "conflict": "With the fungus spreading fast and threatening global catastrophe, the duo must team up with a retired bioterrorism operative to contain the organism before it breaches the perimeter.",
+      "resolution": "With the immediate threat neutralized, the survivors deal with the aftermath of their harrowing night shift while humanity narrowly escapes an extinction-level event.",
+      "introduction": "Two low-level employees on an overnight shift at a remote storage facility encounter a deadly, rapidly mutating bio-agent that has escaped containment.",
+      "risingAction": "As the night progresses, the facility plunges into chaos with failing safety protocols, escalating mutations, and perilous environmental hazards forcing the group into increasingly desperate survival situations."
+    },
+    "characters": [
+      {
+        "name": "Travis \"Teacake\" Meacham",
+        "role": "Hero",
+        "description": "An easygoing ex-con working night shift security at the storage facility who rises to the occasion to contain the threat."
+      },
+      {
+        "name": "Naomi Williams",
+        "role": "Hero",
+        "description": "A sharp, highly resourceful storage facility employee who takes charge alongside Teacake to survive and lock down the facility."
+      },
+      {
+        "name": "Robert Quinn",
+        "role": "Mentor",
+        "description": "A grizzled, experienced former bioterrorism operative who originally locked the fungus away and provides tactical guidance to contain it."
+      },
+      {
+        "name": "Trini Romano",
+        "role": "Supporting Character",
+        "description": "Robert Quinn's bold former operative partner who aids him in responding to the containment breach."
+      },
+      {
+        "name": "Dr. Hero Martins",
+        "role": "Supporting Character",
+        "description": "A military biochemist who previously analyzed the parasitic organism during its initial recovery."
+      },
+      {
+        "name": "Ma Rooney",
+        "role": "Other",
+        "description": "An eccentric elderly customer at the storage facility whose presence inside creates unexpected complications."
+      },
+      {
+        "name": "Mutated Parasitic Fungus",
+        "role": "Villain",
+        "description": "A rapidly mutating, highly contagious alien organism that controls hosts and poses an existential threat to humanity."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Roberto Diaz",
+        "target": "Travis Thorne",
+        "description": "Allies in containing the fungal outbreak"
+      },
+      {
+        "source": "Roberto Diaz",
+        "target": "Naomi Williams",
+        "description": "Allies in containing the fungal outbreak"
+      },
+      {
+        "source": "Travis Thorne",
+        "target": "Naomi Williams",
+        "description": "Coworkers and romantic interests"
+      },
+      {
+        "source": "Roberto Diaz",
+        "target": "Trini Romano",
+        "description": "Former military partners and bioterror operatives"
+      }
+    ],
+    "seo": {
+      "slug": "cold-storage",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/cold-storage](https://movnix.com/movie/cold-storage)",
+        "name": "Cold Storage",
+        "@type": "Movie",
+        "genre": [
+          "Sci-Fi",
+          "Thriller",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction."
+      },
+      "keywords": [
+        "Cold Storage movie",
+        "Cold Storage synopsis",
+        "fungus thriller movie",
+        "Cold Storage plot",
+        "bioterror sci-fi movie"
+      ],
+      "canonical": "[https://movnix.com/movie/cold-storage](https://movnix.com/movie/cold-storage)",
+      "metaTitle": "Cold Storage (2024) - Plot, Synopsis & Movie Info",
+      "openGraph": {
+        "og:title": "Cold Storage - Can They Survive the Night Shift?",
+        "og:description": "A deadly mutating fungus escapes a secret facility. Three unlikely heroes must stop humanity's extinction before sunrise."
+      },
+      "twitterCard": {
+        "twitter:title": "Cold Storage - Can They Survive the Night Shift?",
+        "twitter:description": "A deadly mutating fungus escapes a secret facility. Three unlikely heroes must stop humanity's extinction before sunrise."
+      },
+      "metaDescription": "When a contagious fungus escapes a sealed facility, two employees and a bioterror operative must survive the night shift to save humanity."
+    },
+    "faq": [
+      {
+        "answer": "Cold Storage follows two night-shift employees working at a self-storage facility built over an abandoned military site. When a mutating, highly contagious parasitic fungus breaks containment, they team up with a grizzled bioterrorism operative to stop the outbreak and save humanity from extinction.",
+        "question": "What is the main plot of Cold Storage?"
+      },
+      {
+        "answer": "Cold Storage is primarily a sci-fi horror-comedy, blending biological body horror and tense thriller elements with droll action and workplace comedy.",
+        "question": "What is the dominant genre of Cold Storage?"
+      },
+      {
+        "answer": "The film stars Joe Keery and Georgina Campbell as the two night-shift workers, alongside Liam Neeson as the veteran bioterror operative. The supporting cast includes Lesley Manville and Vanessa Redgrave.",
+        "question": "Who stars in Cold Storage?"
+      },
+      {
+        "answer": "Yes, Cold Storage is adapted from the 2019 sci-fi novel of the same name written by veteran screenwriter David Koepp, who also penned the film's screenplay.",
+        "question": "Is Cold Storage based on a book?"
+      },
+      {
+        "answer": "No, Cold Storage is a standalone film and is not connected to any existing movie franchise or shared cinematic universe.",
+        "question": "Is Cold Storage part of a franchise?"
+      },
+      {
+        "answer": "No, Cold Storage is a self-contained story and does not feature any mid-credits or post-credits scenes.",
+        "question": "Is there a post-credits scene in Cold Storage?"
+      },
+      {
+        "answer": "The movie was directed by Jonny Campbell, known for directing television series such as Dracula, Westworld, and Doctor Who.",
+        "question": "Who directed Cold Storage?"
+      },
+      {
+        "answer": "The threat is an explosive, highly contagious space-borne fungal organism stored deep underground decades prior, which reawakens due to temperature changes and infects hosts rapidly.",
+        "question": "What is the threat facing the characters in Cold Storage?"
+      },
+      {
+        "answer": "The bulk of the movie takes place over the course of a single, chaotic night shift inside a subterranean storage facility.",
+        "question": "Where does most of the movie take place?"
+      },
+      {
+        "answer": "The film aims for a nostalgic, B-movie horror-comedy vibe—combining slimy, creature-feature body horror with lighthearted banter and romance between the lead characters.",
+        "question": "What is the tone and audience target for Cold Storage?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High suspense, body horror involving rapidly mutating organisms, terrifying claustrophobic set pieces, and apocalyptic survival stakes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity consistent with a fast-paced action-thriller night shift emergency."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Graphic depictions of fungal infection mutations, biological containment breaches, and lethal physical threats during a high-stakes survival scenario."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate references to chemical/biological hazards and potential casual alcohol or tobacco use."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content; brief mild humor or suggestive jokes possible, but no explicit scenes."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Sustained high-stakes tension, existential dread regarding global extinction, and intense life-or-death decision-making."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 5,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 8,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 13:01:47.240669",
+    "updated_at": "2026-07-28 13:01:47.240669"
+  }
 }
