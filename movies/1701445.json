@@ -1,0 +1,125 @@
+{
+  "movie": {
+    "tmdbId": 1701445,
+    "imdbId": null,
+    "title": "DC Universe",
+    "originalTitle": "DC Universe",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "1999-10-15",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 0.4768,
+    "voteAverage": 7,
+    "voteCount": 10,
+    "homepage": "https://mock-movie-website.com/movies/1701445",
+    "posterPath": "/Zz0ri3F7jzhnxknjeIgk40Dt2E.jpg",
+    "backdropPath": "/jVWh3ZUwlMAi1DgQOtR1DbLrdxH.jpg",
+    "collectionId": null
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [],
+  "keywords": [],
+  "videos": [],
+  "images": [
+    {
+      "filePath": "/Zz0ri3F7jzhnxknjeIgk40Dt2E.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jVWh3ZUwlMAi1DgQOtR1DbLrdxH.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/Zz0ri3F7jzhnxknjeIgk40Dt2E.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jVWh3ZUwlMAi1DgQOtR1DbLrdxH.jpg",
+      "width": 2400,
+      "height": 1350,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "DC Universe",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "DC Extended Universe",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/1701445"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/1701445"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=1701445"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1701445/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1701445/en.vtt"
+    }
+  ]
+}
