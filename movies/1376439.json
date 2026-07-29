@@ -482,5 +482,216 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1376439/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1376439,
+    "hash": "ddce873491cfb6f64a254ef5e90c6a46135c0e220f69a70eb93def46df11e1f4",
+    "summary_one_sentence": "After nineteen years of harsh imprisonment, an embittered Jean Valjean is given a chance at redemption when a merciful bishop forgives his theft and inspires him to reclaim his humanity.",
+    "summary_short": "Released after nineteen years of brutal hard labor, Jean Valjean emerges from prison a hardened, cynical man consumed by resentment toward society. Turned away by everyone in a small Provençal village, he is unexpectedly taken in by the compassionate Bishop Bienvenu, whose warmth momentarily softens his heart. However, driven by old habits and despair, Valjean steals the bishop's silver, only to be caught by the police shortly after. In a pivotal moment of grace, the bishop lies to protect Valjean and gifts him two silver candlesticks, igniting a profound spiritual transformation in the former convict.",
+    "summary_long": "Having served nineteen years of grueling hard labor, Jean Valjean is finally released into a world that continues to reject him. Tormented by violence and injustice, he harbors intense anger toward society, trusting no one and accepting the monster he believes he has become. Upon arriving in a quiet village in Provence, his criminal record causes every innkeeper and villager to slam their doors in his face. Exhausted and desperate, he stumbles upon the modest home of Bishop Bienvenu, a humble cleric who lives simply alongside his sister and a servant. Instead of fear or hostility, the bishop treats Valjean with profound kindness, offering him food, shelter, and respect. Although this unexpected benevolence shakes Valjean's inner cynicism, the lingering temptation to act out his dark impulses proves overwhelming in the dead of night. Valjean steals the bishop's precious silverware and flees into the darkness, only to be promptly arrested by the local authorities. When the police bring him back to face the bishop, Bienvenu stuns both the officers and Valjean by claiming the silver was a gift and insisting that Valjean also take two silver candlesticks he forgot. This act of unconditional forgiveness breaks Valjean's spirit of hatred, marking the decisive turning point where he vows to abandon his past and dedicate his remaining life to virtue.",
+    "synopsis": "Set in nineteenth-century France, 'Jean Valjean' explores the profound journey of a man seeking redemption after enduring nearly two decades of oppressive imprisonment. Marked as an outcast by a harsh yellow passport, Valjean arrives in Provence broken, resentful, and distrustful of humanity. When every door in town is shut against him, he finds an extraordinary refuge in the home of Bishop Bienvenu, whose simple life of radical grace offers a stark contrast to the cruelty of society. Though Valjean is initially trapped in the vicious cycle of his past choices, the bishop's selfless act of mercy serves as the catalyst for an enduring moral awakening, setting the stage for a timeless story of hope, forgiveness, and human transformation.",
+    "keywords": [
+      "redemption arc",
+      "ex-convict",
+      "moral transformation",
+      "second chances",
+      "act of mercy",
+      "social injustice",
+      "inner conflict",
+      "forgiveness",
+      "humanity reclaimed",
+      "societal prejudice",
+      "bishop's grace",
+      "historical drama",
+      "provence setting",
+      "temptation and guilt",
+      "rehabilitation"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption and Transformation",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Forgiveness and Compassion",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Social Injustice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Morality vs. Temptation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      }
+    ],
+    "story_structure": {
+      "climax": "Apprehended by the police and brought back, Valjean faces immediate re-arrest until the Bishop unexpectedly defends him, forgives his theft, and gifts him silver candlesticks.",
+      "conflict": "Valjean struggles between his ingrained resentment toward a harsh society and the unexpected grace offered to him when Bishop Bienvenu takes him in.",
+      "resolution": "Profoundly moved by this act of unconditional mercy, Valjean rejects his past cynicism and vows to transform his life, embarking on a path to reclaim his humanity.",
+      "introduction": "Jean Valjean is released from a brutal nineteen-year prison sentence, deeply hardened, bitter, and rejected by society as he wanders into a small village in Provence.",
+      "risingAction": "Despite receiving warmth and shelter, Valjean gives in to temptation and steals the Bishop's valuable silverware, fleeing into the night."
+    },
+    "characters": [
+      {
+        "name": "Jean Valjean",
+        "role": "Hero",
+        "description": "A former convict hardened by 19 years of hard labor who struggles with anger and inner demons before choosing a path of redemption and reclaiming his humanity."
+      },
+      {
+        "name": "Bishop Bienvenu (Monseigneur Myriel)",
+        "role": "Mentor",
+        "description": "A compassionate bishop who offers Valjean lodging without judgment and gifts him the stolen silverware and candlesticks, sparking Valjean's moral transformation."
+      },
+      {
+        "name": "Mademoiselle Baptistine",
+        "role": "Supporting Character",
+        "description": "The Bishop's sister who lives simply alongside him and offers a gentle, non-judgmental presence in the household."
+      },
+      {
+        "name": "Madame Magloire",
+        "role": "Supporting Character",
+        "description": "The Bishop's cautious servant who remains suspicious of outsiders and protective of the household's valuables."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bishop Bienvenu",
+        "target": "Jean Valjean",
+        "description": "Benefactor/Mentor"
+      },
+      {
+        "source": "Jean Valjean",
+        "target": "Bishop Bienvenu",
+        "description": "Protege/Beneficiary"
+      }
+    ],
+    "seo": {
+      "slug": "jean-valjean",
+      "jsonLd": {
+        "name": "Jean Valjean",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Jean Valjean is released from prison after nineteen years of hard labor. Filled with anger and a deep sense of injustice, an unexpected act of forgiveness from Bishop Bienvenu becomes the starting point of his transformation into a new man."
+      },
+      "keywords": [
+        "Jean Valjean",
+        "Les Miserables",
+        "Bishop Bienvenu",
+        "Jean Valjean movie",
+        "redemption story"
+      ],
+      "canonical": "[https://movnix.com/movie/jean-valjean](https://movnix.com/movie/jean-valjean)",
+      "metaTitle": "Jean Valjean - A Journey of Redemption and Humanity",
+      "openGraph": {
+        "og:title": "Jean Valjean - A Journey of Redemption and Humanity",
+        "og:description": "After 19 years of hard labor, Jean Valjean's heart is hardened by injustice—until a selfless act of mercy changes his life forever."
+      },
+      "twitterCard": {
+        "twitter:title": "Jean Valjean - A Journey of Redemption and Humanity",
+        "twitter:description": "After 19 years of hard labor, Jean Valjean's heart is hardened by injustice—until a selfless act of mercy changes his life forever."
+      },
+      "metaDescription": "Explore the powerful story of Jean Valjean, a former convict whose life is transformed by an unexpected act of mercy and forgiveness."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is historical drama and classic tragedy, focusing on human redemption and societal injustice.",
+        "question": "What is the dominant genre of Jean Valjean's story?"
+      },
+      {
+        "answer": "Jean Valjean spent nineteen years in prison undergoing hard labor, violence, and extreme suffering.",
+        "question": "How long was Jean Valjean imprisoned before his release?"
+      },
+      {
+        "answer": "He is turned away because society knows his background as an ex-convict, leading people to view him as a dangerous criminal.",
+        "question": "Why is Jean Valjean turned away when he arrives in the village in Provence?"
+      },
+      {
+        "answer": "Bishop Bienvenu welcomes him warmly into his modest home, where he lives simply with his sister and a single servant.",
+        "question": "Who provides Jean Valjean shelter when no one else will?"
+      },
+      {
+        "answer": "Haunted by temptation and society's negative perception of him, Jean Valjean steals Bishop Bienvenu's silverware.",
+        "question": "What item does Jean Valjean steal from his host?"
+      },
+      {
+        "answer": "Instead of accusing him, the Bishop forgives Jean Valjean, tells the police the silver was a gift, and gives him additional silver candlesticks.",
+        "question": "How does Bishop Bienvenu respond when the police capture Jean Valjean?"
+      },
+      {
+        "answer": "Yes, Jean Valjean's story originates from Victor Hugo's famous 1862 novel 'Les Misérables', which belongs to a widespread legacy of stage musical and film adaptations.",
+        "question": "Is this story part of a larger franchise or adaptation?"
+      },
+      {
+        "answer": "No, as a traditional literary narrative adaptation, the story follows a classic dramatic structure without modern cinematic post-credits scenes.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The Bishop's unexpected act of radical grace and forgiveness serves as the turning point that inspires Jean Valjean to reclaim his humanity.",
+        "question": "What is the primary catalyst for Jean Valjean's transformation?"
+      },
+      {
+        "answer": "The main themes are redemption, mercy versus strict justice, the corrupting nature of societal prejudice, and the capacity for moral rebirth.",
+        "question": "What are the key central themes explored in this narrative?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal fear elements, limited to internal turmoil and themes of anger and temptation."
+      },
+      "language": {
+        "score": 0,
+        "description": "No explicit or offensive language present."
+      },
+      "violence": {
+        "score": 4,
+        "description": "References to 19 years of hard labor, violence, and theft, but no explicit physical violence depicted in the text."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or references."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Strong themes of injustice, bitterness, internal struggle, desperation, and moral redemption."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 10,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 11:37:53.531921",
+    "updated_at": "2026-07-29 11:37:53.531921"
+  }
 }
