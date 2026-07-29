@@ -10,9 +10,9 @@
     "budget": "40000000",
     "revenue": "89400711",
     "status": "Released",
-    "popularity": 22.1984,
-    "voteAverage": 6.685,
-    "voteCount": 2011,
+    "popularity": 21.9843,
+    "voteAverage": 6.688,
+    "voteCount": 2016,
     "homepage": "https://www.amazon.com/salp/aworkingman?hhf",
     "posterPath": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
     "backdropPath": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
@@ -1413,8 +1413,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.685,
-      "votesCount": 2011
+      "ratingValue": 6.688,
+      "votesCount": 2016
     },
     {
       "source": "imdb",
@@ -1436,7 +1436,7 @@
     {
       "tmdbPersonId": 976,
       "name": "Jason Statham",
-      "profilePath": "/o7sfT7EBtzxwiJiKmCafoebJQ2q.jpg",
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
       "character": "Levon Cade",
       "job": "Actor",
       "department": "Acting",
@@ -1607,7 +1607,7 @@
     {
       "tmdbPersonId": 976,
       "name": "Jason Statham",
-      "profilePath": "/o7sfT7EBtzxwiJiKmCafoebJQ2q.jpg",
+      "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1861,5 +1861,296 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1197306/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1197306,
+    "hash": "2c13b26d92efc4d1b6dca736166f10de7b49fe4870b5770dc25d868d75474f1b",
+    "summary_one_sentence": "When his boss's daughter is kidnapped by human traffickers, a former black ops soldier abandons his peaceful construction job to rescue her and dismantle a vast corrupt network.",
+    "summary_short": "Levon Cade traded his high-stakes black ops career for a quiet life working in construction, hoping to leave violence behind forever. However, his peaceful existence is shattered when his employer's daughter, whom he treats like family, is abducted by a ruthless human trafficking syndicate. Forced to resurrect his deadly military skills, Levon embarks on a relentless search to bring her back safely. Along the way, he exposes a web of deep-seated corruption far more dangerous and expansive than he ever anticipated.",
+    "summary_long": "Levon Cade is an ex-black ops operative who has retired from elite military service to live a low-profile life as a construction worker. He values his newfound quiet and close bonds with his work crew, especially his boss and his boss's young daughter, Jenny. Tranquility turns to chaos when Jenny is suddenly snatched by a sinister human trafficking ring operating in the shadows. Realizing law enforcement cannot act fast enough, Levon activates his dormant skills and lethal training to track down her captors. His investigation leads him from back-alley criminal hideouts to high-end establishments fronting illegal operations. As he fights his way through various levels of the syndicate, Levon uncovers chilling evidence that influential figures outside the underworld are enabling the trade. Each violent confrontation brings him closer to Jenny while deepening the complexity of the rescue mission. Armed with unmatched tactic proficiency and unyielding determination, he prepares for a final showdown against a entrenched system of crime and corruption.",
+    "synopsis": "A Working Man is an action-thriller following Levon Cade, a retired black ops operative seeking solace in a simple construction job. When his boss's daughter is abducted by human traffickers, Levon is forced to utilize his formidable tactical background to rescue her. His journey takes him deep into a dark underworld, revealing a sprawling network of institutional corruption that reaches far beyond the street-level cartel.",
+    "keywords": [
+      "black ops veteran",
+      "vigilante justice",
+      "human trafficking",
+      "rescue mission",
+      "one-man army",
+      "former soldier",
+      "conspiracy",
+      "reluctant hero",
+      "systemic corruption",
+      "kidnapping",
+      "construction worker",
+      "revenge plot",
+      "protective instinct",
+      "dark underworld"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Justice and Corruption",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty and Loyalty",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Levon launches a high-stakes, violent raid on the syndicate's main stronghold, confronting the network's leadership in a final showdown to rescue the young woman.",
+      "conflict": "When his employer and friend's teenage daughter is kidnapped by a human trafficking network, Levon agrees to step back into the dangerous world he abandoned to locate and save her.",
+      "resolution": "With the daughter safely returned home and the criminal conspiracy dismantled, Levon completes his rescue mission and steps back toward his quiet life with his own family.",
+      "introduction": "Former black ops operative Levon Cade attempts to put his deadly past behind him, seeking a quiet, normal life as a construction foreman while striving to be a good father to his daughter.",
+      "risingAction": "Levon utilizes his specialized military skills and connections to track down the kidnappers, dismantling low-level operatives, fighting through violent enforcers, and discovering that the trafficking ring is part of a much larger web of systemic corruption."
+    },
+    "characters": [
+      {
+        "name": "Levon Cade",
+        "role": "Hero",
+        "description": "A decorated former black ops operative working in construction who uses his lethal skills to rescue his boss's kidnapped daughter."
+      },
+      {
+        "name": "Wolo Kolisnyk",
+        "role": "Villain",
+        "description": "A ruthless crime boss involved in the human trafficking ring Levon uncovers."
+      },
+      {
+        "name": "Joe Garcia",
+        "role": "Supporting Character",
+        "description": "Levon's construction boss and friend whose daughter goes missing, triggering Levon's rescue mission."
+      },
+      {
+        "name": "Gunny Lefferty",
+        "role": "Mentor",
+        "description": "A trusted military veteran contact who offers advice and aid as Levon delves back into his lethal past."
+      },
+      {
+        "name": "Jenny Garcia",
+        "role": "Supporting Character",
+        "description": "Joe's daughter who is abducted by traffickers, driving the plot's rescue efforts."
+      },
+      {
+        "name": "Dimi Kolisnyk",
+        "role": "Villain",
+        "description": "A dangerous key figure in the criminal syndicate operating alongside Wolo."
+      },
+      {
+        "name": "Merry Cade",
+        "role": "Supporting Character",
+        "description": "Levon's young daughter for whom he tries to maintain a quiet, normal life."
+      },
+      {
+        "name": "Carla Garcia",
+        "role": "Supporting Character",
+        "description": "Joe's wife who deals with the agonizing aftermath of her daughter's kidnapping."
+      },
+      {
+        "name": "Yuri",
+        "role": "Supporting Character",
+        "description": "An associate connected to the criminal underworld investigated by Levon."
+      },
+      {
+        "name": "Dougie",
+        "role": "Supporting Character",
+        "description": "A construction worker colleague who interacts with Levon in his day-to-day civilian life."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Levon Cade",
+        "target": "Joe Garcia",
+        "description": "Employee / Close Friend (Levon works as a construction foreman for Joe)"
+      },
+      {
+        "source": "Levon Cade",
+        "target": "Jenny Garcia",
+        "description": "Protector / Family Friend (Joe's daughter, who Levon treats like family and rescues)"
+      },
+      {
+        "source": "Levon Cade",
+        "target": "Merry Cade",
+        "description": "Father / Daughter"
+      },
+      {
+        "source": "Levon Cade",
+        "target": "Gunny Lefferty",
+        "description": "Former Military Comrades / Trusted Confidant"
+      },
+      {
+        "source": "Levon Cade",
+        "target": "Jordan Roth",
+        "description": "In-Laws / Strained Relationship (Levon's father-in-law and Merry's grandfather)"
+      },
+      {
+        "source": "Joe Garcia",
+        "target": "Carla Garcia",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Joe Garcia",
+        "target": "Jenny Garcia",
+        "description": "Father / Daughter"
+      },
+      {
+        "source": "Levon Cade",
+        "target": "Symon Kharchenko",
+        "description": "Enemies / Adversaries (Levon dismantles Symon's trafficking network)"
+      },
+      {
+        "source": "Symon Kharchenko",
+        "target": "Wolo Kolisnyk",
+        "description": "Mafia Boss / Captain (Wolo serves under Symon's Bratva syndicate)"
+      },
+      {
+        "source": "Wolo Kolisnyk",
+        "target": "Dimi Kolisnyk",
+        "description": "Father / Son (Dimi runs the human trafficking branch)"
+      },
+      {
+        "source": "Dimi Kolisnyk",
+        "target": "Viper and Artemis",
+        "description": "Boss / Operatives (Traffickers who kidnap Jenny on behalf of the syndicate)"
+      }
+    ],
+    "seo": {
+      "slug": "a-working-man",
+      "jsonLd": {
+        "name": "A Working Man",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined."
+      },
+      "keywords": [
+        "A Working Man movie",
+        "A Working Man plot",
+        "Levon Cade",
+        "action thriller movies",
+        "black ops movies",
+        "crime thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/a-working-man](https://movnix.com/movie/a-working-man)",
+      "metaTitle": "A Working Man - Synopsis, Plot Details & Movie News | Movnix",
+      "openGraph": {
+        "og:title": "A Working Man - Action Thriller Movie Plot & Overview",
+        "og:description": "Ex-black ops operative Levon Cade fights human traffickers and uncovers deep corruption to save his boss's daughter in the action thriller A Working Man."
+      },
+      "twitterCard": {
+        "twitter:title": "A Working Man - Action Thriller Movie Plot & Overview",
+        "twitter:description": "Ex-black ops operative Levon Cade fights human traffickers and uncovers deep corruption to save his boss's daughter in the action thriller A Working Man."
+      },
+      "metaDescription": "Ex-black ops operative Levon Cade fights human traffickers and uncovers deep corruption to save his boss's daughter in the action thriller A Working Man."
+    },
+    "faq": [
+      {
+        "answer": "A Working Man is primarily an action-thriller film featuring fast-paced martial arts, shootouts, and suspenseful covert operation elements.",
+        "question": "What is the dominant genre of A Working Man?"
+      },
+      {
+        "answer": "While A Working Man is adapted from the novel Levon's Trade by Chuck Dixon (which is part of a book series), the 2025 film is currently a standalone release, though its source material leaves room for potential sequels.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, A Working Man does not feature any mid-credits or post-credits scenes. The main story resolves fully before the credits roll.",
+        "question": "Is there a post-credit scene in A Working Man?"
+      },
+      {
+        "answer": "Jason Statham stars as Levon Cade, a former black ops commando trying to live a quiet civilian life as a construction foreman.",
+        "question": "Who stars as the lead character, Levon Cade?"
+      },
+      {
+        "answer": "The film was directed by David Ayer, known for directing action and crime films like Suicide Squad, Fury, and The Beekeeper.",
+        "question": "Who directed A Working Man?"
+      },
+      {
+        "answer": "The screenplay was co-written by Sylvester Stallone and David Ayer, adapted from Chuck Dixon's 2014 novel Levon's Trade.",
+        "question": "Who wrote the screenplay for the movie?"
+      },
+      {
+        "answer": "Yes, the movie is based on the 2014 novel Levon's Trade written by comic book and thriller novelist Chuck Dixon.",
+        "question": "Is A Working Man based on a book?"
+      },
+      {
+        "answer": "The supporting cast includes Michael Peña as Levon's construction boss Joe Garcia, David Harbour as Levon's veteran friend Gunny Lefferty, along with Jason Flemyng and Arianna Rivas.",
+        "question": "Who else stars in the film alongside Jason Statham?"
+      },
+      {
+        "answer": "A Working Man is rated R (or 18+ internationally) due to strong violent content, pervasive language, drug references, and dark themes involving human trafficking.",
+        "question": "What is the age rating for A Working Man?"
+      },
+      {
+        "answer": "The story follows Levon Cade, an ex-black ops agent working construction, who is drawn back into his violent past when his boss's daughter is kidnapped by a human trafficking network tied to organized crime and corruption.",
+        "question": "What is the central plot of A Working Man?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, though tense and distressing situations involving abduction and trafficking create uncomfortable suspense."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical of gritty action-thrillers and military/construction environments."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action-oriented violence consistent with military/black ops tactics, tactical combat, and violent confrontations involving human traffickers."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Minor to moderate references or depictions of criminal drug trade networks and casual substance use."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "No explicit sexual content depicted, but strong non-explicit references to human trafficking and potential sexual exploitation."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense and distressing themes involving kidnap, child endangerment, systemic corruption, and high-stakes survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-28 19:09:08.832607",
+    "updated_at": "2026-07-28 19:09:08.832607"
+  }
 }

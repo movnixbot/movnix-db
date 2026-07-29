@@ -2460,5 +2460,262 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/558/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 558,
+    "hash": "82b107a9726224054b1d30111ed7798e572cba2e12c4d20d3e37b0c378824fbf",
+    "summary_one_sentence": "Overwhelmed by the toll of his superhero lifestyle, Peter Parker abandons his Spider-Man identity, only to be forced back into action when a tragic accident creates a terrifying four-armed villain named Doctor Octopus.",
+    "summary_short": "Peter Parker struggles to balance his personal life, academics, and romantic feelings for Mary Jane Watson with the overwhelming demands of being Spider-Man. Exhausted and losing his superpowers, Peter decides to give up his superhero mantle for a chance at a normal life. However, when his mentor turned brilliant scientist Dr. Otto Octavius becomes the monstrous Doctor Octopus, Peter must embrace his destiny to save New York and the people he loves. Ultimately, Peter learns that true strength lies in accepting the sacrifice required to protect others.",
+    "summary_long": "Peter Parker's life as Spider-Man is unraveling his personal world, causing his grades to plummet, his finances to stall, and his relationship with Mary Jane Watson to drift as she becomes engaged to another man. Meanwhile, his best friend Harry Osborn harbors a deep resentment toward Spider-Man, whom he wrongfully blames for his father's death. Peter meets the brilliant scientist Dr. Otto Octavius, but a fusion energy demonstration goes catastrophically wrong, killing Octavius's wife and fusing four AI-controlled mechanical arms to his body. Driven mad by the neural interface of the arms, Octavius becomes 'Doc Ock' and embarks on a crusade to rebuild his destructive reactor. Losing his powers due to an emotional burnout, Peter casts his suit aside and attempts to live a quiet life as an ordinary college student. However, crime surges across the city, and Harry makes a deal with Doc Ock to capture Spider-Man in exchange for the tritium needed for the reactor. When Doc Ock kidnaps Mary Jane to lure the hero, Peter realizes his responsibilities cannot be abandoned and regains his abilities. After a ferocious battle aboard a runaway train, Peter saves the passengers, who vow to keep his identity secret before Doc Ock hands him over to Harry. Upon unmasking Peter, a stunned Harry lets him go to save Mary Jane, leading to a final confrontation where Peter appeals to Octavius's humanity to stop the reactor. Octavius sacrifices himself to destroy his creation, and Mary Jane, having discovered Peter's secret, chooses to stand by his side despite the constant danger.",
+    "synopsis": "Struggling to manage college, employment, and his deep affection for Mary Jane Watson, Peter Parker finds that wearing the mask of Spider-Man comes with an immense personal toll. As his inner conflict causes his superpowers to fail, a tragic lab accident gives rise to Doctor Octopus, a formidable new villain equipped with lethal mechanical tentacles. Faced with escalating danger to the city and his loved ones, Peter must navigate friendship, betrayal, and the heavy burden of responsibility to determine what it truly means to be a hero.",
+    "keywords": [
+      "identity crisis",
+      "superhero burnout",
+      "secret identity",
+      "reluctant hero",
+      "unrequited love",
+      "best friends to enemies",
+      "mad scientist",
+      "tragic villain",
+      "revenge plot",
+      "dual life",
+      "mentor turn enemy",
+      "hero's loss of powers",
+      "nyc superhero",
+      "responsibility vs desire",
+      "love triangle"
+    ],
+    "themes": [
+      {
+        "theme": "Identity Crisis",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Responsibility vs. Personal Desire",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Peter reclaims his powers and faces Doc Ock in a high-stakes battle to stop the destructive machine and save Mary Jane.",
+      "conflict": "Overwhelmed by financial trouble, struggling relationships, and failing powers, Peter abandons his Spider-Man identity just as scientist Dr. Otto Octavius transforms into a dangerous villain.",
+      "resolution": "Peter accepts the sacrifices required of his dual life, finding clarity in his path as Spider-Man while navigating his evolved relationships with Mary Jane and Harry.",
+      "introduction": "Peter Parker struggles to balance his personal life, academics, and duties as Spider-Man, leading to physical burnout and emotional exhaustion.",
+      "risingAction": "As crime surges across New York City and Doc Ock threatens the city with an unstable fusion reactor, Harry Osborn seeks revenge against Spider-Man and Mary Jane's safety is put on the line."
+    },
+    "characters": [
+      {
+        "name": "Peter Parker / Spider-Man",
+        "role": "Hero",
+        "description": "The protagonist struggling with personal sacrifices, loss of powers, and his duty to protect New York City."
+      },
+      {
+        "name": "Otto Octavius / Doctor Octopus",
+        "role": "Villain",
+        "description": "A brilliant scientist corrupted by his mechanical tentacles' AI who becomes the main antagonist threatening the city."
+      },
+      {
+        "name": "Mary Jane Watson",
+        "role": "Supporting Character",
+        "description": "Peter's primary love interest whose engagement and career choices force Peter to confront his feelings and hero identity."
+      },
+      {
+        "name": "Harry Osborn",
+        "role": "Anti Hero",
+        "description": "Peter's best friend consumed by revenge against Spider-Man for his father's death, driving him toward darker paths."
+      },
+      {
+        "name": "Aunt May Parker",
+        "role": "Mentor",
+        "description": "Peter's loving aunt who provides wisdom, moral guidance, and inspiration about what it truly means to be a hero."
+      },
+      {
+        "name": "J. Jonah Jameson",
+        "role": "Comic Relief",
+        "description": "The loud, cynical editor-in-chief of the Daily Bugle whose bluster and anti-Spider-Man antics provide humorous moments."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Peter Parker",
+        "target": "Mary Jane Watson",
+        "description": "Love Interest / Childhood Crush"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Harry Osborn",
+        "description": "Best Friends / Strained Alliance"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Doctor Octopus",
+        "description": "Enemies / Former Idol"
+      },
+      {
+        "source": "Harry Osborn",
+        "target": "Spider-Man",
+        "description": "Enemies / Seeking Revenge"
+      },
+      {
+        "source": "Doctor Octopus",
+        "target": "Mary Jane Watson",
+        "description": "Captor / Hostage"
+      }
+    ],
+    "seo": {
+      "slug": "spider-man-2",
+      "jsonLd": {
+        "name": "Spider-Man 2",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Peter Parker / Spider-Man",
+            "@type": "Person"
+          },
+          {
+            "name": "Doc Ock",
+            "@type": "Person"
+          },
+          {
+            "name": "Mary Jane Watson",
+            "@type": "Person"
+          },
+          {
+            "name": "Harry Osborn",
+            "@type": "Person"
+          }
+        ],
+        "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock."
+      },
+      "keywords": [
+        "Spider-Man 2",
+        "Peter Parker",
+        "Doc Ock",
+        "Mary Jane Watson",
+        "Harry Osborn",
+        "Spider-Man 2 synopsis",
+        "Marvel movies",
+        "Sam Raimi Spider-Man"
+      ],
+      "canonical": "[https://movnix.com/movie/spider-man-2](https://movnix.com/movie/spider-man-2)",
+      "metaTitle": "Spider-Man 2 (2004) - Synopsis, Plot & Movie Overview",
+      "openGraph": {
+        "og:title": "Spider-Man 2 - Movie Overview & Synopsis",
+        "og:description": "Peter Parker walks away from his superhero life just as Doc Ock threatens NYC. Read the full overview of Spider-Man 2."
+      },
+      "twitterCard": {
+        "twitter:title": "Spider-Man 2 - Movie Overview & Synopsis",
+        "twitter:description": "Peter Parker walks away from his superhero life just as Doc Ock threatens NYC. Read the full overview of Spider-Man 2."
+      },
+      "metaDescription": "Peter Parker faces a major identity crisis and hangs up the suit while Doc Ock threatens New York. Discover the full plot and details for Spider-Man 2."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Spider-Man 2 is the second installment in Sam Raimi's Spider-Man trilogy, following Spider-Man (2002) and preceding Spider-Man 3 (2007).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Spider-Man 2 does not have any mid-credits or post-credits scenes, as this trend was not standard practice for superhero films at the time of its release.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genres are Superhero, Action, and Sci-Fi, blended with strong elements of Drama and Romance.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "Tobey Maguire plays Peter Parker / Spider-Man.",
+        "question": "Who plays Peter Parker / Spider-Man in the film?"
+      },
+      {
+        "answer": "The primary antagonist is Dr. Otto Octavius, also known as Doc Ock, played by Alfred Molina.",
+        "question": "Who is the main villain in Spider-Man 2?"
+      },
+      {
+        "answer": "Peter experiences a psychological block and severe emotional burnout caused by the overwhelming stress of balancing his normal life with his responsibilities as Spider-Man.",
+        "question": "Why does Peter Parker lose his superpowers in the film?"
+      },
+      {
+        "answer": "Mary Jane Watson is Peter's primary love interest who pursues a successful acting career, but their relationship is complicated by Peter's double life and fear of putting her in danger.",
+        "question": "What role does Mary Jane Watson play in this story?"
+      },
+      {
+        "answer": "Harry Osborn harbors deep resentment toward Spider-Man, whom he blames for the death of his father, Norman Osborn (the Green Goblin).",
+        "question": "Why is Harry Osborn angry in this movie?"
+      },
+      {
+        "answer": "The film was directed by Sam Raimi.",
+        "question": "Who directed Spider-Man 2?"
+      },
+      {
+        "answer": "Yes, Spider-Man 2 received widespread critical acclaim, praised for its emotional depth, visual effects, and performance, and won the Academy Award for Best Visual Effects.",
+        "question": "Was Spider-Man 2 critically acclaimed?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Contains mild terror elements, particularly an intense, horror-inspired surgical room scene featuring Doc Ock's tentacles and occasional suspenseful jumpscares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity and superhero-style insults, suitable for a PG/PG-13 audience."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong comic-book/sci-fi action violence, including intense fight scenes, destructive mechanical tentacle attacks, explosions, and hospital mayhem."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal substance depiction, primarily restricted to background social drinking at upscale party scenes."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; includes mild romantic themes, flirting, and a passion-filled kiss between main characters."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional themes involving identity crisis, burden of responsibility, grief over lost family, unrequited love, and betrayal by a close friend."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 8,
+      "comedy": 4,
+      "emotion": 9,
+      "fantasy": 6,
+      "mystery": 2,
+      "romance": 7,
+      "science": 7,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 19:16:02.661971",
+    "updated_at": "2026-07-29 19:16:02.661971"
+  }
 }
