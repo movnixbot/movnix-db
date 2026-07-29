@@ -256,5 +256,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/785157/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 785157,
+    "hash": "c61d59994c417c3247733f38c48a2bfe2499ca605d216c79addb62e3dccc46ca",
+    "summary_one_sentence": "When a behavioral science major travels to a remote woodland retreat to investigate a series of mysterious murders at Capps Crossing, she becomes trapped in a dangerous web of deceit involving a local park ranger and his troubled son.",
+    "summary_short": "During a getaway deep in the woods, behavioral science student Amber and her friends find themselves targeted by a murderous killer operating around Capps Crossing. Leveraging her sharp athletic skills and expertise in psychological profiling, Amber attempts to outmaneuver the killer in a desperate battle for survival. However, as hidden motives and shifting perceptions begin to surface, she uncovers a twisted network of lies linked to the local ranger and his son. Ultimately, Amber must discern truth from deception before she and her friends become the next victims.",
+    "summary_long": "Amber, a gifted behavioral science student and accomplished athlete, travels to the dense forest of Capps Crossing alongside her friends for a weekend retreat. What begins as a relaxing getaway rapidly devolves into a nightmare when a lethal predator begins targeting the group one by one. As panic sets in, Amber relies on her keen understanding of human behavior and psychological profiling to anticipate the attacker's next move. She soon discovers that the killings are inextricably tied to the local park ranger and his son, whose dark past masks sinister secrets. Navigating the treacherous terrain, Amber uncovers a web of manipulation, lies, and calculated betrayal designed to keep the truth buried. Every attempt to reach safety is thwarted by carefully planned traps, forcing Amber into a high-stakes game of cat-and-mouse. As the line between reality and deception blurs, she realizes that the threat is far more complex than a simple forest killer. Pushed to her absolute physical and mental limits, Amber must confront the deceptive forces controlling Capps Crossing to escape with her life.",
+    "synopsis": "Capps Crossing: Wrong Side of Dead is a tense psychological horror-thriller centered on Amber, a brilliant behavioral science major and skilled athlete. Seeking a break from her studies, Amber embarks on a birthday trip with her friends into the isolated woods of Capps Crossing, only to stumble into a deadly trap. As a murderous figure terrorizes the group, Amber is forced to utilize her expertise in human behavior and mental profiling to unravel the motives driving the violence. Her investigation uncovers a dark, manipulative web surrounding the local park ranger and his son. Blending slasher elements with intricate psychological suspense, the film explores themes of survival, perception, and betrayal as Amber fights to outsmart a killer where nothing is as it appears.",
+    "keywords": [
+      "psychological thriller",
+      "wilderness survival",
+      "corrupt park ranger",
+      "behavioral profiling",
+      "cat-and-mouse game",
+      "survival horror",
+      "isolated forest",
+      "birthday trip gone wrong",
+      "serial killer",
+      "web of lies",
+      "murder mystery",
+      "deception and betrayal"
+    ],
+    "themes": [
+      {
+        "theme": "Deception and Betrayal",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Legacy and Protection",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Justice vs. Corruption",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The hidden truths explode into a dangerous confrontation, forcing her to rely on her behavioral science background to survive the ultimate trap.",
+      "conflict": "As her investigation deepens, she discovers unsettling discrepancies and secrets centered around the local ranger and his son.",
+      "resolution": "The deceptive web is unraveled, bringing light to the dark history of Capps Crossing in the aftermath of the harrowing ordeal.",
+      "introduction": "A behavioral science student arrives at Capps Crossing to study a series of unexplained murders, establishing her analytical approach to the local mystery.",
+      "risingAction": "Tension escalates as the investigator becomes increasingly ensnared in a web of deceit, making it difficult to discern allies from threats while navigating Capps Crossing."
+    },
+    "characters": [
+      {
+        "name": "Amber",
+        "role": "Hero",
+        "description": "A brilliant behavioral science major and athlete who uses her profiling skills and resourcefulness to survive and uncover the dark secrets at Capps Crossing."
+      },
+      {
+        "name": "Ranger Gary Mills",
+        "role": "Villain",
+        "description": "The local park ranger whose deceptive nature and dark agenda create a web of terror for visitors in Capps Crossing."
+      },
+      {
+        "name": "David Mills",
+        "role": "Villain",
+        "description": "The ranger's son, a brutal killer working alongside his father to trap and terrorize victims in the woods."
+      },
+      {
+        "name": "Sandra",
+        "role": "Mentor",
+        "description": "A seasoned figure who offers key guidance and insight into the sinister history and secrets of Capps Crossing."
+      },
+      {
+        "name": "Sidney",
+        "role": "Supporting Character",
+        "description": "One of Amber's close friends on the trip who becomes caught up in the deadly ordeal."
+      },
+      {
+        "name": "Becca",
+        "role": "Supporting Character",
+        "description": "A member of Amber's friend group whose presence adds to the dynamics and danger of the weekend getaway."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amber",
+        "target": "David",
+        "description": "Adversaries / Target and Killer"
+      },
+      {
+        "source": "Ranger Gary Mills",
+        "target": "David",
+        "description": "Father / Son"
+      },
+      {
+        "source": "Amber",
+        "target": "Ranger Gary Mills",
+        "description": "Investigator / Local Authority Figure & Suspect"
+      },
+      {
+        "source": "Amber",
+        "target": "Sandra",
+        "description": "Birthday Trip Companion / Ally"
+      }
+    ],
+    "seo": {
+      "slug": "capps-crossing-wrong-side-of-dead",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/capps-crossing-wrong-side-of-dead](https://movnix.com/movie/capps-crossing-wrong-side-of-dead)",
+        "name": "Capps Crossing: Wrong Side of Dead",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a behavioral science major investigates murders at Capps Crossing, she finds herself trapped in a twisted web of lies surrounding the local ranger and his son."
+      },
+      "keywords": [
+        "Capps Crossing Wrong Side of Dead",
+        "Capps Crossing movie",
+        "thriller movie",
+        "murder mystery film",
+        "behavioral science thriller",
+        "Capps Crossing overview"
+      ],
+      "canonical": "[https://movnix.com/movie/capps-crossing-wrong-side-of-dead](https://movnix.com/movie/capps-crossing-wrong-side-of-dead)",
+      "metaTitle": "Capps Crossing: Wrong Side of Dead - Synopsis & Review | Movnix",
+      "openGraph": {
+        "og:title": "Capps Crossing: Wrong Side of Dead - Thriller Overview",
+        "og:description": "A behavioral science major digs into murders at Capps Crossing, uncovering a dangerous web of lies involving the local ranger and his son."
+      },
+      "twitterCard": {
+        "twitter:title": "Capps Crossing: Wrong Side of Dead",
+        "twitter:description": "Investigating murders at Capps Crossing leads a behavioral science student into a deadly web of lies."
+      },
+      "metaDescription": "When a behavioral science major investigates murders at Capps Crossing, she uncovers a deadly web of lies. Read the full overview on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is a follow-up sequel to the original Capps Crossing film, though it is designed so it can also stand on its own.",
+        "question": "Is Capps Crossing: Wrong Side of Dead part of a franchise?"
+      },
+      {
+        "answer": "No, the film wraps up during its main ending and does not include any mid-credits or post-credits scenes.",
+        "question": "Is there a post-credits scene in Capps Crossing: Wrong Side of Dead?"
+      },
+      {
+        "answer": "The film's dominant genres are psychological thriller and horror, with key elements of suspense and survival drama.",
+        "question": "What is the dominant genre of Capps Crossing: Wrong Side of Dead?"
+      },
+      {
+        "answer": "The film follows a behavioral science major who embarks on a getaway in the woods, only to find herself embroiled in a sinister web of lies involving a disturbed local park ranger and his son.",
+        "question": "What is the main plot of Capps Crossing: Wrong Side of Dead?"
+      },
+      {
+        "answer": "The lead protagonist Amber is portrayed by actress Sabina Gadecki.",
+        "question": "Who plays the lead character, Amber?"
+      },
+      {
+        "answer": "The movie was written and directed by filmmaker Mike Stahl.",
+        "question": "Who directed and wrote Capps Crossing: Wrong Side of Dead?"
+      },
+      {
+        "answer": "In addition to Sabina Gadecki, the cast includes veteran actress Beverly D'Angelo alongside Garrett C. Phillips, Sarah Elizabeth Withers, and John Ryan McLaughlin.",
+        "question": "Who are some of the key cast members in the film?"
+      },
+      {
+        "answer": "No, the movie is a completely fictional narrative written by Mike Stahl.",
+        "question": "Is Capps Crossing: Wrong Side of Dead based on a true story?"
+      },
+      {
+        "answer": "The film is available digitally across major video-on-demand platforms, distributed by Lionsgate.",
+        "question": "Where can you watch Capps Crossing: Wrong Side of Dead?"
+      },
+      {
+        "answer": "No, the movie contains mature horror themes, psychological terror, and violent situations, making it intended for mature audiences.",
+        "question": "Is Capps Crossing: Wrong Side of Dead suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Suspenseful atmosphere and psychological dread involving murder and entrapment."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language appropriate for a mature thriller."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depictions of murder investigation, violence, and physical threats tied to a series of killings."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible mild alcohol or tobacco use typical of crime drama settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional tension involving themes of betrayal, danger, and deception."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 6,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 1,
+      "science": 3,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-30 01:17:21.408333",
+    "updated_at": "2026-07-30 01:17:21.408333"
+  }
 }
