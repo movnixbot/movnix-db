@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.6837,
+    "popularity": 10.2325,
     "voteAverage": 6,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1542643",
@@ -111,6 +111,13 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/v469M6EqyjtjwSu6wsKpmNesk75.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -204,6 +211,10 @@
         {
           "name": "Viu",
           "logo": "/o7WsYI2r1llIf9h6JTGVX9yTHPx.jpg"
+        },
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
         }
       ],
       "buy": []
@@ -239,5 +250,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1542643/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1542643,
+    "hash": "a524f69bf64fcb6f905915190bda1659564801cbf31fab9d2f30888fa91b08d1",
+    "summary_one_sentence": "When distorted online rumors push a high school girl to take her own life, her devastated older sister teams up with a detective to hunt down the anonymous cyber perpetrators.",
+    "summary_short": "After high school student Ji-eun dies by suicide following a wave of malicious online harassment that falsely portrayed her as a perpetrator, her sister So-eun refuses to let the truth remain buried. She enlists detective Jun-kyung to investigate the origin of the cyberbullying and bring the real culprits to justice. As Jun-kyung tracks the trail of digital clues across cyberspace, he uncovers a malicious web of anonymous accounts. Together, they fight to restore Ji-eun's reputation and expose the dark reality of cyber violence.",
+    "summary_long": "Ji-eun, a victimized high school student, finds herself falsely blamed and villainized after distorted posts and toxic comments go viral across social media. Overwhelmed by unrelenting public condemnation and cyberbullying, Ji-eun tragically ends her own life. Heartbroken and outraged by the injustice, her older sister So-eun seeks help from detective Jun-kyung to clear Ji-eun's name. Jun-kyung launches a targeted investigation into cyberspace, systematically pursuing the anonymous accounts and cyber attackers responsible for spreading the rumors. As the investigation progresses, what initially appeared to be simple high school gossip unravels into a far more sinister network of malicious intent. Clues surface one by one, exposing how online anonymity allowed bad actors to manipulate public perception and ruin an innocent life. Facing complex digital obstacles and hidden identities, Jun-kyung and So-eun press forward to hold the orchestrators accountable. Ultimately, the relentless pursuit highlights the devastating consequences of cyber crime and the fierce bond between sisters seeking closure.",
+    "synopsis": "Second Sister is a gripping crime thriller drama that delves into the dark side of social media, online anonymity, and mob mentality. Following the tragic suicide of high school student Ji-eun—who was driven to despair when online rumors turned her from victim to perpetrator—her sister So-eun seeks justice. Teaming up with detective Jun-kyung, they embark on a cyber hunt to track down the digital mob and reveal the truth behind Ji-eun's death.",
+    "keywords": [
+      "cyberbullying",
+      "online defamation",
+      "sister's revenge",
+      "truth seeking",
+      "digital investigation",
+      "cybercrime",
+      "grief and tragedy",
+      "anonymous online identity",
+      "malicious rumors",
+      "detective investigation",
+      "social media mob",
+      "web of lies",
+      "posthumous justice"
+    ],
+    "themes": [
+      {
+        "theme": "Truth and Perception",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Cyberbullying and Anonymity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Legacy and Sisterhood",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Justice and Revenge",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Mystery",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The investigation reaches a critical tipping point when Jun-kyung and So-eun confront the true orchestrator behind the cyber campaign, forcing a high-stakes showdown where digital evidence must be exposed despite severe pressure to bury the truth.",
+      "conflict": "Jun-kyung launches an investigation to track down the primary suspect in cyberspace, but faces the overwhelming challenge of cutting through pervasive online anonymity, widespread public misinformation, and hostile cyber harassment.",
+      "resolution": "The real facts surrounding Ji-eun's tragic fate are exposed, vindicating her memory. So-eun finds a sense of closure while the systemic dangers and human cost of cyber violence and online anonymity are brought into stark focus.",
+      "introduction": "High school student Ji-eun tragicaly takes her own life after being falsely branded a perpetrator online due to malicious posts and cyberbullying. Driven by grief and a desire to uncover the truth behind her unfair death, her sister So-eun seeks out detective Jun-kyung.",
+      "risingAction": "As Jun-kyung digs deeper into the digital trails and anonymous accounts, he uncovers a far more complex web of secrets. Clues slowly connect simple online rumors to deliberate manipulation, unraveling hidden motives and expanding the scope of the case beyond a single bad actor."
+    },
+    "characters": [
+      {
+        "name": "So-eun",
+        "role": "Hero",
+        "description": "The determined sister seeking justice and uncovering the truth behind Ji-eun's tragic death."
+      },
+      {
+        "name": "Jun-kyung",
+        "role": "Supporting Character",
+        "description": "The detective who assists So-eun by investigating the cybercrime and tracking down the anonymous suspect."
+      },
+      {
+        "name": "Ji-eun",
+        "role": "Other",
+        "description": "The deceased high school student whose tragic death and framed reputation drive the central mystery of the plot."
+      },
+      {
+        "name": "Anonymous Cyber Suspect(s)",
+        "role": "Villain",
+        "description": "The unseen instigators creating malicious online posts and distorted rumors that led to Ji-eun's suicide."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "So-eun",
+        "target": "Ji-eun",
+        "description": "Sisters"
+      },
+      {
+        "source": "So-eun",
+        "target": "Jun-kyung",
+        "description": "Allies / Case Partners"
+      },
+      {
+        "source": "Jun-kyung",
+        "target": "Ji-eun",
+        "description": "Investigator / Deceased Victim"
+      },
+      {
+        "source": "Anonymous Cyber Perpetrators",
+        "target": "Ji-eun",
+        "description": "Perpetrators / Victim"
+      },
+      {
+        "source": "Jun-kyung",
+        "target": "Anonymous Cyber Perpetrators",
+        "description": "Investigator / Suspects"
+      },
+      {
+        "source": "So-eun",
+        "target": "Anonymous Cyber Perpetrators",
+        "description": "Seeker of Truth & Justice / Target of Hunt"
+      }
+    ],
+    "seo": {
+      "slug": "second-sister",
+      "jsonLd": {
+        "name": "Second Sister",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After high school student Ji-eun tragically takes her life due to malicious online rumors, her sister So-eun teams up with detective Jun-kyung to uncover the truth and hunt down the anonymous perpetrator in cyberspace."
+      },
+      "keywords": [
+        "Second Sister movie",
+        "Second Sister film",
+        "cyber thriller movie",
+        "Korean mystery drama",
+        "Second Sister synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/second-sister](https://movnix.com/movie/second-sister)",
+      "metaTitle": "Second Sister Movie - Synopsis, Cast & Cyber Mystery Thriller",
+      "openGraph": {
+        "og:title": "Second Sister - Cyber Mystery Thriller Film",
+        "og:description": "When online rumors lead to tragedy, a grieving sister and a detective dive into cyberspace to expose the truth behind anonymous accounts."
+      },
+      "twitterCard": {
+        "twitter:title": "Second Sister - Cyber Mystery Thriller Film",
+        "twitter:description": "A grieving sister and a detective hunt down an anonymous online suspect to uncover the truth behind a tragic death."
+      },
+      "metaDescription": "Discover Second Sister: A cyber mystery thriller following So-eun and detective Jun-kyung as they uncover the dark web of rumors behind Ji-eun's tragic death."
+    },
+    "faq": [
+      {
+        "answer": "'Second Sister' follows So-eun, who seeks the help of detective Jun-kyung to uncover the truth behind her high school sister Ji-eun's tragic suicide after Ji-eun was falsely portrayed as a perpetrator due to malicious online rumors.",
+        "question": "What is the main premise of 'Second Sister'?"
+      },
+      {
+        "answer": "The dominant genre of 'Second Sister' is mystery thriller and crime drama, focusing on cybercrime, online defamation, and psychological suspense.",
+        "question": "What is the dominant genre of 'Second Sister'?"
+      },
+      {
+        "answer": "No, 'Second Sister' is a standalone film and is not part of an existing movie franchise.",
+        "question": "Is 'Second Sister' part of a movie franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene after the main credits end.",
+        "question": "Is there a post-credit scene in 'Second Sister'?"
+      },
+      {
+        "answer": "The key characters are Ji-eun, the high school victim of cyberbullying; So-eun, Ji-eun's determined older sister; and Jun-kyung, the detective helping track down cyber suspects.",
+        "question": "Who are the core characters in the story?"
+      },
+      {
+        "answer": "The film explores themes of cyberbullying, online anonymity, malicious commenting, victim-blaming, grief, and the pursuit of truth in the digital age.",
+        "question": "What primary themes does the film explore?"
+      },
+      {
+        "answer": "Jun-kyung investigates by hunting down anonymous online accounts, tracking digital footprints, and unraveling a complex web of online rumors and false identities.",
+        "question": "How does detective Jun-kyung investigate the case?"
+      },
+      {
+        "answer": "While the plot is a fictional narrative, it reflects realistic societal issues surrounding modern cyberbullying and online defamation.",
+        "question": "Is 'Second Sister' based on a true story?"
+      },
+      {
+        "answer": "Audiences who enjoy suspenseful crime investigation, digital-age mysteries, social issue dramas, and psychological thrillers will find this film compelling.",
+        "question": "What kind of audience would enjoy 'Second Sister'?"
+      },
+      {
+        "answer": "Availability depends on regional theatrical releases and streaming platform distribution rights.",
+        "question": "Where can I watch 'Second Sister'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild psychological suspense and disturbing themes surrounding suicide and anonymous online harassment."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and malicious online comments/cyberbullying text throughout."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Depictions or references to suicide, cyberbullying, and a detective hunting down suspects, though physical violence is limited."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to no substance abuse, potential mild references in realistic high school/adult environments."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or references described."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered around suicide, grief, severe online harassment, and public defamation."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 13:10:10.146733",
+    "updated_at": "2026-07-29 13:10:10.146733"
+  }
 }
