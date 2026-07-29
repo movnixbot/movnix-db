@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 56.8953,
+    "popularity": 56.354,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1307247",
@@ -228,5 +228,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1307247/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1307247,
+    "hash": "1cdb5ba7322a74d2d2e9102e0f104317683c05a4be761fb54fe02a5e593ad01e",
+    "summary_one_sentence": "Six years after surviving a high-altitude plane hijacking, former secret agent Mi-yeong and her family find their luxury cruise getaway invaded by a ruthless criminal syndicate.",
+    "summary_short": "Six years after their high-octane plane rescue, Mi-yeong and her family receive an invitation to attend a lavish wedding aboard an ocean liner. Hoping for a restful vacation, their peaceful getaway quickly turns into a nightmare when an armed syndicate hijacks the vessel in the middle of the ocean. With her husband and daughter captured, Mi-yeong must rely on her secret agent instincts and sharp combat skills to foil the plot and save everyone on board.",
+    "summary_long": "Six years after surviving a chaotic airplane hijacking, former secret agent Mi-yeong lives a quiet life while navigating everyday household drama with her husband Seok-hwan and their rebellious teenage daughter. Opportunity strikes when the family receives an invitation to attend a grand wedding aboard a luxury ocean cruise, offering them a long-overdue vacation. However, paradise on the high seas is short-lived when a ruthless international criminal syndicate suddenly seizes control of the ship. With the crew and passengers held hostage, Seok-hwan and their daughter are captured during the initial takeover. Realizing that her family is in imminent danger and that she is tied to a much larger conspiracy, Mi-yeong drops her mild-mannered persona. Navigating the sprawling decks, hallways, and deep waters of the cruise ship, she unleashes lethal martial arts and improvisational combat tactics to neutralize the threats. Working alongside unexpected allies made aboard the vessel, Mi-yeong races against time to dismantle the hijackers' plans and secure another wild rescue mission.",
+    "synopsis": "In this high-seas action comedy sequel, former covert operative Mi-yeong is attempting to lead an ordinary life alongside her bumbling husband Seok-hwan and their daughter. When an invitation to a luxury cruise ship wedding arrives, it promises a dream vacation, but the idyllic escape quickly devolves into chaos when armed criminals hijack the liner and hold its passengers hostage. Trapped in international waters, Mi-yeong is forced to reactivate her hidden tactical skills, outwit a formidable criminal network, and stage a high-stakes battle across the decks to protect her family and save the ship.",
+    "keywords": [
+      "cruise ship hijacking",
+      "former secret agent",
+      "family vacation gone wrong",
+      "high seas action",
+      "secret identity",
+      "martial arts comedy",
+      "hostage situation",
+      "slapstick action",
+      "undercover hero",
+      "vacation trapped",
+      "unintentional hero",
+      "action comedy sequel"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Heroism",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Deception and Mystery",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Exciting",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Comedic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A chaotic, high-stakes confrontation erupts on the open waters as the family unleashes their full combat prowess to neutralize the ultimate threat.",
+      "conflict": "The relaxing trip turns perilous when a dangerous crew of criminals takes control of the ocean liner, isolating the passengers far from help.",
+      "resolution": "With the crisis averted and the passengers safe, the family finally gets to enjoy their getaway while embracing their uniquely heroic dynamic.",
+      "introduction": "Following their high-flying adventures, an unassuming family accepts a mysterious invitation to a luxury cruise, hoping for a well-deserved, peaceful vacation.",
+      "risingAction": "Tensions mount as the family relies on covert tactics, unorthodox skills, and tight teamwork to navigate the ship and outmaneuver the hijackers."
+    },
+    "characters": [
+      {
+        "name": "Lee Mi-young",
+        "role": "Hero",
+        "description": "A former secret agent turned pretzel shop owner who steps up using her tactical skills to save her family and cruise passengers from hijackers."
+      },
+      {
+        "name": "Oh Suk-hwan",
+        "role": "Supporting Character",
+        "description": "Mi-young's loving, quirky husband who unintentionally gets swept into the dangerous cruise hostage crisis."
+      },
+      {
+        "name": "Lee Chul-seung",
+        "role": "Supporting Character",
+        "description": "Mi-young's former agent colleague who resurfaces during the chaos aboard the ship."
+      },
+      {
+        "name": "Jung Hyun-min",
+        "role": "Comic Relief",
+        "description": "A former flight attendant whose lavish cruise wedding serves as the catalyst for the family's wild getaway."
+      },
+      {
+        "name": "Ji-hoon",
+        "role": "Supporting Character",
+        "description": "A charismatic cruise ship magician who accidentally gets entangled with Mi-young and assists her during the takeover."
+      },
+      {
+        "name": "Seon-ah",
+        "role": "Comic Relief",
+        "description": "The eccentric head of the cruise ship's cabin staff determined to protect her ship and handle the crisis."
+      },
+      {
+        "name": "Anya",
+        "role": "Villain",
+        "description": "The ruthless, ambitious leader of the criminal organization that hijacks the luxury cruise ship."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mi-yeong",
+        "target": "Seok-hwan",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Mi-yeong",
+        "target": "Na-ri",
+        "description": "Mother and Daughter"
+      },
+      {
+        "source": "Seok-hwan",
+        "target": "Na-ri",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "Mi-yeong",
+        "target": "Criminal Syndicate",
+        "description": "Enemies / Target of Attack"
+      },
+      {
+        "source": "Seok-hwan",
+        "target": "Criminal Syndicate",
+        "description": "Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "ok-madam-bon-voyage",
+      "jsonLd": {
+        "name": "OK! Madam: Bon Voyage",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A family fresh off a daring high-altitude plane rescue gets mysteriously invited onto a luxury cruise, only to find themselves trapped in a wild, unpredictable new crisis."
+      },
+      "keywords": [
+        "OK Madam Bon Voyage",
+        "OK Madam 2",
+        "Korean action comedy",
+        "Uhm Jung Hwa",
+        "Park Sung Woong",
+        "Korean cruise movie"
+      ],
+      "canonical": "[https://movnix.com/movie/ok-madam-bon-voyage](https://movnix.com/movie/ok-madam-bon-voyage)",
+      "metaTitle": "OK! Madam: Bon Voyage - Korean Action Comedy Movie",
+      "openGraph": {
+        "og:title": "OK! Madam: Bon Voyage - Official Movie Overview",
+        "og:description": "Trapped on a luxury cruise! The family from the high-altitude rescue returns in OK! Madam: Bon Voyage for another wild, unpredictable crisis."
+      },
+      "twitterCard": {
+        "twitter:title": "OK! Madam: Bon Voyage - Official Movie Overview",
+        "twitter:description": "Trapped on a luxury cruise! The family from the high-altitude rescue returns in OK! Madam: Bon Voyage for another wild, unpredictable crisis."
+      },
+      "metaDescription": "A family fresh off a high-altitude plane rescue gets invited to a luxury cruise, only to face a chaotic new crisis on the high seas."
+    },
+    "faq": [
+      {
+        "answer": "Yes, 'OK! Madam: Bon Voyage' is the direct sequel to the 2020 South Korean action-comedy hit 'OK! Madam' (also known as 'Okay! Madam').",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film's primary genres are action and comedy, blending physical humor, martial arts, and high-stakes rescue scenarios.",
+        "question": "What is the dominant genre of 'OK! Madam: Bon Voyage'?"
+      },
+      {
+        "answer": "As with many South Korean action-comedies, there are mid- or post-credit scenes featuring comedic wrap-ups or bloopers, though specific post-credit details may vary by theatrical release cut.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "After surviving a previous high-altitude plane hijacking, former secret agent Mi-yeong and her family receive an invitation to a luxury cruise ship vacation, which quickly turns chaotic when a ruthless criminal syndicate hijacks the vessel and takes hostages.",
+        "question": "What is the main plot of 'OK! Madam: Bon Voyage'?"
+      },
+      {
+        "answer": "Uhm Jung-hwa returns as the former secret agent Mi-yeong, alongside Park Sung-woong as her devoted husband Seok-hwan.",
+        "question": "Who are the primary lead actors reprising their roles?"
+      },
+      {
+        "answer": "Unlike the first film which took place primarily aboard an airplane, this installment shifts the setting to a luxury cruise ship in open waters.",
+        "question": "Where does the main action of this sequel take place?"
+      },
+      {
+        "answer": "While watching the original film provides fun backstory on Mi-yeong's secret agent past and family dynamics, 'Bon Voyage' features a self-contained plot that can be enjoyed as a standalone movie.",
+        "question": "Do I need to watch the first 'OK! Madam' movie before watching this one?"
+      },
+      {
+        "answer": "The movie is a lighthearted action-comedy designed for broad audience appeal, containing stylized PG-13 level comedic violence and adventure without overly explicit content.",
+        "question": "Is 'OK! Madam: Bon Voyage' suitable for family viewing?"
+      },
+      {
+        "answer": "No, it is a completely fictional story created for entertainment, paying homage to classic action-comedy cinema like the 'Yes, Madam!' film series.",
+        "question": "Is 'OK! Madam: Bon Voyage' based on a true story?"
+      },
+      {
+        "answer": "The original audio language of the film is Korean, with various subtitled or dubbed versions available for international distribution.",
+        "question": "What primary language is the movie in?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense moments and suspense related to hostage situation, but no genuine horror elements."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent moderate profanity and comedic insults typical of action-comedy films."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high action violence involving gun threats, martial arts combat, and hijacking chaos aboard a ship, balanced by comedic tone."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual alcohol consumption in vacation and cruise settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate intensity from family peril and hostage situations, mitigated by frequent comedy."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 8,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 2,
+      "science": 1,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 22:13:58.703533",
+    "updated_at": "2026-07-28 22:13:58.703533"
+  }
 }
