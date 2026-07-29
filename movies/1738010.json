@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Planned",
-    "popularity": 4.0536,
+    "popularity": 4.2448,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1738010",
@@ -73,13 +73,6 @@
       "width": 1080,
       "height": 1620,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/a8tROiPvlrPErY23xTozi1Q67Fo.jpg",
-      "width": 1150,
-      "height": 1627,
-      "aspectRatio": 0.707,
       "type": "poster"
     },
     {
@@ -156,68 +149,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [
-        {
-          "name": "Catchplay",
-          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
-        }
-      ],
-      "buy": [
-        {
-          "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-        }
-      ]
+      "flatrate": [],
+      "buy": []
     },
     "us": {
-      "flatrate": [
-        {
-          "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-        },
-        {
-          "name": "Starz Apple TV Channel",
-          "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
-        },
-        {
-          "name": "Starz Roku Premium Channel",
-          "logo": "/9laPF1MAiUxlqM8T98F3Gj0bhzd.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-        },
-        {
-          "name": "Starz",
-          "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
-        },
-        {
-          "name": "Starz Amazon Channel",
-          "logo": "/esiLBRzDUwodjfN8gA4qj7l3ZF7.jpg"
-        }
-      ],
-      "buy": [
-        {
-          "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-        },
-        {
-          "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-        },
-        {
-          "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
-        },
-        {
-          "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
-        },
-        {
-          "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
-        }
-      ]
+      "flatrate": [],
+      "buy": []
     }
   },
   "reviews": [],
