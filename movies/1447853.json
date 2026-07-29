@@ -252,5 +252,238 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1447853/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1447853,
+    "hash": "4901d1e9a76eecc01a1b4d13dddbcaa0a9e77eef486ab6afe10a5df75be8ac38",
+    "summary_one_sentence": "\"Don't Look Back in Anger\" chronicles the meteoric rise of iconic Britpop rock band Oasis, tracing their journey from working-class Manchester to global stadium stardom as they reunite for Oasis Live '25.",
+    "summary_short": "\"Don't Look Back in Anger\" offers an intimate look into the legendary journey of Britpop titans Oasis, capturing their evolution from working-class origins in Manchester to worldwide music icons. Through rare archival footage, candid interviews, and untold stories, the documentary explores the fiery dynamic between brothers Liam and Noel Gallagher that defined their explosive career. Framed around their historic reunion for the Oasis Live '25 tour, the film celebrates the band's enduring legacy and massive cultural impact. It serves as both a triumphant retrospective for lifelong fans and an electric introduction for a new generation of rock enthusiasts.",
+    "summary_long": "Set against the backdrop of their historic Oasis Live '25 reunion, \"Don't Look Back in Anger\" delves deep into the meteoric trajectory of one of the UK's most influential rock bands. The documentary begins in the working-class neighborhood of Burnage, Manchester, exploring how Liam and Noel Gallagher channeled their raw surroundings into anthemic Britpop masterpieces. Through previously unseen archival footage, home videos, and fresh interviews, the narrative traces their rapid ascent through the 1990s music scene, culminating in record-breaking mega-concerts at Knebworth. Beyond the music, the film unpacks the infamous volatility, sibling rivalry, and intense media scrutiny that fueled both their creative genius and eventual public fallout. As the narrative bridges the gap between their bitter split in 2009 and their emotional return to the stage in 2025, it highlights the deeply personal reconciliation of the Gallagher brothers. Key figures from their inner circle and music industry veterans offer candid insights into the cultural phenomenon that Oasis became. Ultimately, the documentary illustrates how their raw energy, unapologetic attitude, and timeless songwriting defined an entire era of rock 'n' roll. The film concludes on an uplifting note, showing how their music continues to unite generations across the globe as they step back into the spotlight together.",
+    "synopsis": "\"Don't Look Back in Anger\" is a high-octane music documentary that captures the turbulent, triumphant story of Oasis. Framed by their landmark 2025 reunion tour, the film weaves together rare archival concert footage, unreleased audio, and intimate backstage moments to chronicle the band's rise from Manchester dreamers to global rock legends. Exploring the chaotic brilliance of Liam and Noel Gallagher, the documentary examines the music, the intense brotherhood, and the cultural movement that redefined British rock, offering a definitive, spoiler-free celebration of Oasis's timeless legacy.",
+    "keywords": [
+      "music documentary",
+      "band reunion",
+      "rock star",
+      "Oasis Live '25",
+      "Manchester",
+      "Britpop",
+      "behind the scenes",
+      "archival footage",
+      "untold stories",
+      "rise to fame",
+      "concert tour",
+      "rock and roll",
+      "musical journey"
+    ],
+    "themes": [
+      {
+        "theme": "Fame and Stardom",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy and Reconciliation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Nostalgia",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Ambition and Perseverance",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Triumphant",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a breaking point, leading to a fateful backstage rift that culminates in the band's dramatic breakup and years of separation.",
+      "conflict": "Volatile sibling dynamics, fierce media scrutiny, and the overwhelming pressures of sudden fame threaten to fracture the band from within.",
+      "resolution": "Time and legacy bring reflection, paving the way for a historic reconciliation as the brothers prepare to return to the stage together for Oasis Live '25.",
+      "introduction": "The narrative begins in working-class Manchester, detailing the early lives, musical origins, and initial spark between the Gallagher brothers as Oasis forms.",
+      "risingAction": "Oasis rapidly ascends the charts, producing iconic tracks, playing legendary stadium shows, and navigating decades of public fallouts and creative friction."
+    },
+    "characters": [
+      {
+        "name": "Noel Gallagher",
+        "role": "Hero",
+        "description": "The primary songwriter and lead guitarist whose creative vision and songwriting drove the band from Manchester to global stardom."
+      },
+      {
+        "name": "Liam Gallagher",
+        "role": "Anti Hero",
+        "description": "The iconic and rebellious frontman whose swagger, attitude, and powerhouse vocals give the band its raw, unpredictable edge."
+      },
+      {
+        "name": "Paul Arthurs",
+        "role": "Supporting Character",
+        "description": "Founding rhythm guitarist, affectionately known as Bonehead, who helped anchor the band's original signature sound."
+      },
+      {
+        "name": "Gem Archer",
+        "role": "Supporting Character",
+        "description": "Dependable rhythm guitarist who joined later in the band's career, providing musical versatility and stability."
+      },
+      {
+        "name": "Andy Bell",
+        "role": "Supporting Character",
+        "description": "Vocal and steady bassist who played a key role in holding down the rhythm section through major tours and albums."
+      },
+      {
+        "name": "Joey Waronker",
+        "role": "Supporting Character",
+        "description": "Acclaimed drummer joining the line-up to provide power and precision for the Oasis Live '25 reunion."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Liam Gallagher",
+        "target": "Noel Gallagher",
+        "description": "Brothers, Co-Founders, and Songwriting/Lead Vocal Dynamic (Rivals / Estranged Bandmates Reunited)"
+      },
+      {
+        "source": "Liam Gallagher",
+        "target": "Paul 'Bonehead' Arthurs",
+        "description": "Original Bandmate / Rhythm Guitarist and Close Friend"
+      },
+      {
+        "source": "Noel Gallagher",
+        "target": "Paul 'Bonehead' Arthurs",
+        "description": "Original Bandmate and Co-Founding Rhythm Guitarist"
+      },
+      {
+        "source": "Oasis (The Band)",
+        "target": "Steven Knight",
+        "description": "Documentary Creator / Writer / Producer"
+      }
+    ],
+    "seo": {
+      "slug": "dont-look-back-in-anger",
+      "jsonLd": {
+        "name": "Don't Look Back in Anger",
+        "@type": "Movie",
+        "genre": "Documentary",
+        "@context": "[https://schema.org](https://schema.org)",
+        "keywords": "Oasis, Music Documentary, Oasis Live '25, Rock Stardom",
+        "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+      },
+      "keywords": [
+        "Don't Look Back in Anger",
+        "Oasis documentary",
+        "Oasis Live 25",
+        "Oasis reunion",
+        "Liam Gallagher",
+        "Noel Gallagher",
+        "rock documentary"
+      ],
+      "canonical": "[https://movnix.com/movie/dont-look-back-in-anger](https://movnix.com/movie/dont-look-back-in-anger)",
+      "metaTitle": "Don't Look Back in Anger | Oasis Live '25 Documentary",
+      "openGraph": {
+        "og:title": "Don't Look Back in Anger - The Oasis Live '25 Documentary",
+        "og:description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25."
+      },
+      "twitterCard": {
+        "twitter:title": "Don't Look Back in Anger - Oasis Documentary",
+        "twitter:description": "Experience the rise of Oasis through rare footage and untold stories as they reunite for Oasis Live '25."
+      },
+      "metaDescription": "Experience the rise of Oasis through rare footage and untold stories as they reunite for Oasis Live '25. Follow their journey to global rock stardom."
+    },
+    "faq": [
+      {
+        "answer": "The documentary chronicles the rise of the iconic British rock band Oasis, tracing their journey from their origins in Manchester to global stardom, set against the backdrop of their Oasis Live '25 reunion.",
+        "question": "What is the main topic of Don't Look Back in Anger?"
+      },
+      {
+        "answer": "The dominant genre is music documentary, blending historical rock documentary elements with concert film aspects.",
+        "question": "What is the dominant genre of this film?"
+      },
+      {
+        "answer": "No, this is a standalone documentary film focused specifically on the history and reunion of Oasis.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Documentaries typically do not feature narrative post-credit scenes, though extra live performance footage or archival audio clips may play during or after the credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Yes, the film highlights rare footage and untold stories chronicling the band's history alongside their '25 reunion tour.",
+        "question": "Does the film feature unreleased archive material?"
+      },
+      {
+        "answer": "Yes, the narrative framing connects their classic journey from the 1990s directly to their highly anticipated Oasis Live '25 reunion.",
+        "question": "Does the documentary cover the Oasis Live '25 reunion?"
+      },
+      {
+        "answer": "Yes, it thoroughly examines their roots starting on the streets of Manchester before detailing their meteoric rise to worldwide fame.",
+        "question": "Does the film explore the band's origins?"
+      },
+      {
+        "answer": "It is aimed at long-time Oasis fans, general rock music enthusiasts, and pop culture fans interested in 1990s Britpop history.",
+        "question": "Who is the primary audience for this movie?"
+      },
+      {
+        "answer": "Yes, by covering their entire story from humble beginnings to global rock stardom, it serves as an accessible introduction to the band's history and legacy.",
+        "question": "Is this film suitable for newcomers to Oasis?"
+      },
+      {
+        "answer": "Yes, the film incorporates untold stories and insights covering both historic milestones and their return for the reunion.",
+        "question": "Will the film include interviews with band members?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, intense jumpscares, or frightening imagery present."
+      },
+      "language": {
+        "score": 8,
+        "description": "Frequent and explicit strong profanity throughout interviews, behind-the-scenes footage, and archival clips."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minor depictions of rowdy concert crowds and discussions of verbal altercations between band members."
+      },
+      "substance": {
+        "score": 7,
+        "description": "Frequent depictions and frank discussions of heavy drinking, cigarette smoking, and recreational drug use."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual references typical of rock-and-roll lifestyle discussions, with no explicit visual content."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional weight centered around strained family dynamics, high-stakes fame, and nostalgic reunion themes."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 1,
+      "science": 0,
+      "suspense": 3,
+      "violence": 2
+    },
+    "created_at": "2026-07-30 05:05:55.553512",
+    "updated_at": "2026-07-30 05:05:55.553512"
+  }
 }
