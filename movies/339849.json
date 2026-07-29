@@ -765,5 +765,265 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/339849/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 339849,
+    "hash": "1c79d4735a544a617591e532eae7bdd822b9bd6c06bd104f5d3aef72246514ff",
+    "summary_one_sentence": "When an attempt to free a stuck anchor capsizes their boat during a storm in the Gulf of Mexico, four friends are left stranded on an overturned hull in a desperate struggle for survival.",
+    "summary_short": "Based on a harrowing true story, four friends—including two NFL players—embark on an offshore fishing trip off the Florida coast. When their vessel capsizes in rough waters, leaving them without life vests or emergency gear, the men are trapped on the overturned boat facing severe hypothermia, dehydration, and massive waves. As time rapidly runs out, the U.S. Coast Guard battles treacherous weather conditions in a relentless search-and-rescue mission to locate them.",
+    "summary_long": "Based on Nick Schuyler's best-selling memoir, 'Not Without Hope' tells the tragic true story of four athletic friends who set off on a day trip 70 miles out into the Gulf of Mexico. When their anchor becomes trapped on the seabed as a fierce storm approaches, an attempt to forcefully dislodge it causes the boat to capsize, throwing all four men into choppy, freezing waters. With no communication devices, fresh water, or life jackets, the friends cling to the slick, overturned hull as ten-to-twelve-foot waves continually batter them. Meanwhile, back on shore, anxious families alert the authorities, prompting U.S. Coast Guard Captain Timothy Close to organize an extensive air and sea search. As hours turn into days, the men endure extreme physical exhaustion, dehydration, and hypothermia-induced hallucinations. The friends push their physical and mental limits to keep each other anchored, physically and emotionally, against the relentless ocean. The narrative toggles between the agonizing struggle for survival at sea and the high-stakes rescue efforts mounted on land. Ultimately, the film stands as a powerful testament to brotherhood, resilience, and the endurance of human hope amidst overwhelming adversity.",
+    "synopsis": "Based on extraordinary real-life events, 'Not Without Hope' follows trainer Nick Schuyler, his friend Will Bleakley, and NFL players Marquis Cooper and Corey Smith as they head out for a day of fishing in the Gulf of Mexico. When an unexpected accident capsizes their boat miles from land, the four companions find themselves stranded on the bottom of the vessel in the middle of an impending storm. Cut off from rescue and vulnerable to the unforgiving marine environment, they must rely on their physical conditioning and deep bond to stay alive. As the U.S. Coast Guard launches a massive search effort amidst deteriorating weather conditions, the story delivers an inspiring and tension-filled look at survival, love, and human endurance.",
+    "keywords": [
+      "survival at sea",
+      "capsized boat",
+      "stranded in open water",
+      "based on true events",
+      "man vs nature",
+      "hypothermia",
+      "coast guard search and rescue",
+      "psychological endurance",
+      "isolation at sea",
+      "dehydration and delirium",
+      "raging storm",
+      "bonds of friendship"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Friendship & Loyalty",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Hope & Resilience",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Human vs. Nature",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The desperate struggle reaches a breaking point as physical endurance fails and the remaining survivor faces the final, critical window for rescue.",
+      "conflict": "An unexpected weather shift and mechanical trouble lead to their boat capsizing, leaving the men stranded in open, unpredictable ocean waters.",
+      "resolution": "The aftermath of the ordeal unfolds as the survivor is located, leading to recovery and an enduring tribute to the strength and memory of those involved.",
+      "introduction": "Four friends set out on a boating and fishing trip off the coast of Florida, enjoying a bright day on the water.",
+      "risingAction": "As hours turn into days, the survivors battle severe dehydration, hypothermia, physical exhaustion, and harsh marine environments while search and rescue operations mobilize to locate them."
+    },
+    "characters": [
+      {
+        "name": "Nick Schuyler",
+        "role": "Hero",
+        "description": "A personal trainer stranded at sea after a fishing trip capsizes, who fights relentlessly against the elements to endure and survive the ordeal."
+      },
+      {
+        "name": "Captain Timothy Close",
+        "role": "Mentor",
+        "description": "A determined U.S. Coast Guard captain who leads, directs, and coordinates the intense search and rescue operation to locate the stranded men."
+      },
+      {
+        "name": "Marquis Cooper",
+        "role": "Supporting Character",
+        "description": "A professional NFL player and close friend on the vessel who fights alongside the group for survival in the open ocean."
+      },
+      {
+        "name": "Corey Smith",
+        "role": "Supporting Character",
+        "description": "An NFL player stranded in the water with his friends, enduring the extreme environmental elements and hypothermia."
+      },
+      {
+        "name": "Will Bleakley",
+        "role": "Supporting Character",
+        "description": "Nick's former college teammate who joins the fishing trip and battles severe conditions alongside his companions."
+      },
+      {
+        "name": "Marcia Schuyler",
+        "role": "Supporting Character",
+        "description": "Nick's mother, who provides emotional weight back on land while maintaining hope and pushing authorities for news."
+      },
+      {
+        "name": "Paula",
+        "role": "Supporting Character",
+        "description": "Nick's fiancée, who anxiously waits on shore and supports the family during the desperate rescue efforts."
+      },
+      {
+        "name": "Rebekah Cooper",
+        "role": "Supporting Character",
+        "description": "Marquis's wife, who holds out hope on land while waiting for news about her husband and his friends."
+      },
+      {
+        "name": "James Martin Kelly (Various Roles / Coast Guard Officer)",
+        "role": "Other",
+        "description": "A key supporting official assisting in the mainland coordination and military logistics of the search effort."
+      },
+      {
+        "name": "Chris Dingli (Coast Guard Crew / Local Official)",
+        "role": "Other",
+        "description": "A supporting member involved in the rescue operation and emergency response team."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nick Schuyler",
+        "target": "Marquis Cooper",
+        "description": "Friends / NFL Teammates"
+      },
+      {
+        "source": "Nick Schuyler",
+        "target": "Corey Smith",
+        "description": "Friends / NFL Teammates"
+      },
+      {
+        "source": "Nick Schuyler",
+        "target": "Will Bleakley",
+        "description": "Friends / College Football Teammates"
+      },
+      {
+        "source": "Marquis Cooper",
+        "target": "Corey Smith",
+        "description": "Friends / NFL Teammates"
+      },
+      {
+        "source": "Marquis Cooper",
+        "target": "Will Bleakley",
+        "description": "Friends / Fishing Trip Companions"
+      },
+      {
+        "source": "Corey Smith",
+        "target": "Will Bleakley",
+        "description": "Friends / Fishing Trip Companions"
+      }
+    ],
+    "seo": {
+      "slug": "not-without-hope",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/not-without-hope",
+        "name": "Not Without Hope",
+        "@type": "Movie",
+        "@context": "https://schema.org",
+        "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival."
+      },
+      "keywords": [
+        "Not Without Hope",
+        "Not Without Hope movie",
+        "survival drama",
+        "boat capsizes movie",
+        "stranded at sea movie",
+        "ocean survival film"
+      ],
+      "canonical": "https://movnix.com/movie/not-without-hope",
+      "metaTitle": "Not Without Hope - Official Movie Overview & Survival Story",
+      "openGraph": {
+        "og:title": "Not Without Hope - Stranded at Sea Survival Drama",
+        "og:description": "When a fishing boat capsizes off Mexico's coast, a group of friends is left stranded in open waters, struggling to survive."
+      },
+      "twitterCard": {
+        "twitter:title": "Not Without Hope - Official Movie Overview",
+        "twitter:description": "Stranded at sea off the coast of Mexico, friends fight for survival in this gripping drama."
+      },
+      "metaDescription": "A group of friends' fishing boat capsizes off the coast of Mexico, leaving them stranded at sea in a desperate fight for survival."
+    },
+    "faq": [
+      {
+        "answer": "Yes, the film is based on the 2010 non-fiction bestseller of the same name by Nick Schuyler and Jeré Longman, which details the tragic 2009 boating accident involving Schuyler and three friends, including NFL players Marquis Cooper and Corey Smith.",
+        "question": "Is Not Without Hope based on a true story?"
+      },
+      {
+        "answer": "The film is primarily a survival thriller and dramatic adventure based on real events.",
+        "question": "What is the dominant genre of Not Without Hope?"
+      },
+      {
+        "answer": "No, Not Without Hope is a standalone feature film and not part of any cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the film concludes, though the credits include tributes and historical context regarding the real-life individuals involved.",
+        "question": "Is there a post-credit scene in Not Without Hope?"
+      },
+      {
+        "answer": "The movie was directed by Joe Carnahan, who co-wrote the screenplay alongside E. Nicholas Mariani.",
+        "question": "Who directed Not Without Hope?"
+      },
+      {
+        "answer": "The cast features Zachary Levi as Nick Schuyler, alongside Josh Duhamel, Quentin Plair, Terrence Terrell, Marshall Cook, and JoBeth Williams.",
+        "question": "Who stars in Not Without Hope?"
+      },
+      {
+        "answer": "The film is rated R (or 14A depending on region) due to language throughout and intense peril.",
+        "question": "What is the official MPAA rating for the film?"
+      },
+      {
+        "answer": "The running time of the film is approximately 120 minutes (2 hours).",
+        "question": "What is the runtime of Not Without Hope?"
+      },
+      {
+        "answer": "While set off the coast in the Gulf of Mexico, the film was primarily shot on location and in water tank facilities in Malta.",
+        "question": "Where was the film shot?"
+      },
+      {
+        "answer": "The movie follows four athletic friends whose offshore fishing boat capsizes during an unexpected storm, stranding them in open ocean waters where they must fight dehydration, hypothermia, and exhaustion while awaiting a U.S. Coast Guard rescue operation.",
+        "question": "What is the main plot of Not Without Hope?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Tense and distressing situations involving isolation at sea and aquatic threats, though not a traditional horror film."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language during high-stress survival scenarios."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate physical peril, injuries, and desperate survival elements resulting from the boat capsizing."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor or casual alcohol consumption prior to the incident."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress, grief, panic, and suspense surrounding life-or-death survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 6,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-29 08:07:28.715852",
+    "updated_at": "2026-07-29 08:07:28.715852"
+  }
 }
