@@ -10,9 +10,9 @@
     "budget": "25000000",
     "revenue": "43285109",
     "status": "Released",
-    "popularity": 14.3037,
-    "voteAverage": 6.918,
-    "voteCount": 1700,
+    "popularity": 15.5675,
+    "voteAverage": 6.914,
+    "voteCount": 1705,
     "homepage": "https://www.nobody.movie",
     "posterPath": "/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
     "backdropPath": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
@@ -1275,8 +1275,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.918,
-      "votesCount": 1700
+      "ratingValue": 6.914,
+      "votesCount": 1705
     },
     {
       "source": "imdb",
@@ -1388,7 +1388,7 @@
     {
       "tmdbPersonId": 119251,
       "name": "Gage Munroe",
-      "profilePath": "/9IIuzYiVroMxZPEPNWU40GLWJGt.jpg",
+      "profilePath": "/lEeflzrrDK4uCqwqwVvYURSscH5.jpg",
       "character": "Brady Mansell",
       "job": "Actor",
       "department": "Acting",
@@ -1689,5 +1689,277 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1007734/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1007734,
+    "hash": "2b2b487d9f5ea0d47b3a36167daa5eb616ae33c2fe891736fa9cea82ec4e8367",
+    "summary_one_sentence": "Former assassin Hutch Mansell's peaceful family vacation devolves into chaos when a clash with a corrupt theme park operator pulls him back into a world of explosive violence.",
+    "summary_short": "Hutch Mansell attempts to leave his blood-soaked past behind by taking his family on a nostalgic getaway to a small-town theme park. However, trouble finds them when an encounter with a greedy park operator and a crooked local sheriff escalates into an all-out war. Forced to rely on his deadly skill set once again, Hutch must navigate corrupt authority figures and a ruthless crime boss. Ultimately, he must do whatever it takes to protect his loved ones and survive the bloody fallout.",
+    "summary_long": "Seeking a normal life, former government assassin Hutch Mansell decides to take his family on a quiet, nostalgic vacation to a quaint small-town theme park. What is supposed to be a harmless trip quickly sours after a confrontation with the park's corrupt operator. The situation worsens when the local crooked sheriff steps in, choosing to protect local criminal interests rather than enforce the law. As tensions boil over, Hutch finds himself targeted by a ruthless crime boss who controls the region's underworld. Unwilling to let his family become collateral damage, Hutch drops his mild-mannered persona and unleashes his full, lethal capabilities. He methodically dismantles the criminal network, utilizing everyday objects and tactical expertise to level the playing field. Along the way, his family is forced to reckon with the dangerous realities of Hutch's true nature as violence erupts around them. Fighting through waves of enforcers and corrupt officials, Hutch turns the theme park into a chaotic battleground. In the end, he ensures his family's safety by delivering brutal justice to everyone standing in their way.",
+    "synopsis": "In this high-octane sequel, former government operative Hutch Mansell tries to trade bullet-riddled chaos for wholesome family bonding by bringing his family to a nostalgic small-town theme park. However, their peaceful holiday is shattered when a minor altercation with a corrupt park operator spirals out of control. Caught between a crooked sheriff enforcing local criminal rule and a ruthless crime lord pulling the strings from the shadows, Hutch is left with no choice but to reactivate his lethal skill set. Blending dark humor with relentless action, Hutch turns the tables on his adversaries to safeguard his family and clean up a corrupt town.",
+    "keywords": [
+      "former assassin",
+      "family vacation",
+      "theme park setting",
+      "crooked sheriff",
+      "crime boss",
+      "reluctant hero",
+      "underestimated protagonist",
+      "action comedy",
+      "gun fu",
+      "vigilante justice",
+      "small town corruption",
+      "pulled back in",
+      "stylized violence",
+      "family protection"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Reluctant Hero / Inescapable Past",
+        "confidence": 0.95
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A chaotic, high-stakes showdown erupts across the theme park, where Hutch must confront the crime boss and their combined forces to protect his family.",
+      "conflict": "An unexpected altercation at the park draws the ire of a corrupt operator and a crooked local sheriff, putting Hutch's family directly in harm's way.",
+      "resolution": "With the corrupt network dismantled and the threat neutralized, Hutch secures his family's safety and finds a tentative balance between his domestic life and violent instincts.",
+      "introduction": "Hutch Mansell attempts to enjoy a peaceful, nostalgic family vacation at a small-town theme park, seeking a break from his violent past as a former assassin.",
+      "risingAction": "Forced to dust off his lethal skillset, Hutch navigates escalating threats and violent confrontations as a powerful, ruthless crime boss enters the fray."
+    },
+    "characters": [
+      {
+        "name": "Hutch Mansell",
+        "role": "Anti Hero",
+        "description": "A former lethal assassin attempting to balance a quiet family vacation with his violent past and deadly combat skills."
+      },
+      {
+        "name": "Lendina",
+        "role": "Villain",
+        "description": "A ruthless crime boss running an organized bootlegging operation, serving as the main antagonist."
+      },
+      {
+        "name": "Wyatt Martin",
+        "role": "Villain",
+        "description": "A corrupt theme park operator tangled in local criminal dealings who antagonizes Hutch and his family."
+      },
+      {
+        "name": "Sheriff Abel",
+        "role": "Villain",
+        "description": "A crooked law enforcement official working alongside local criminal elements to enforce control."
+      },
+      {
+        "name": "David Mansell",
+        "role": "Mentor",
+        "description": "Hutch's elderly, combat-savvy father and retired FBI agent who provides guidance and lethal backup."
+      },
+      {
+        "name": "The Barber",
+        "role": "Mentor",
+        "description": "Hutch's former government handler who manages his high-stakes hit contracts and operational intelligence."
+      },
+      {
+        "name": "Harry Mansell",
+        "role": "Supporting Character",
+        "description": "Hutch's adopted brother and trusted combat partner who assists him in taking down criminal threats."
+      },
+      {
+        "name": "Becca Mansell",
+        "role": "Supporting Character",
+        "description": "Hutch's resilient wife who tries to hold their family together during a turbulent vacation."
+      },
+      {
+        "name": "Sammy Mansell",
+        "role": "Supporting Character",
+        "description": "Hutch's young daughter whose involvement in a local dispute prompts her father's protective instincts."
+      },
+      {
+        "name": "Kartoush",
+        "role": "Villain",
+        "description": "A ruthless enforcer and henchman aligned with the criminal syndicate threat."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Hutch Mansell",
+        "target": "Becca Mansell",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Hutch Mansell",
+        "target": "David Mansell",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Hutch Mansell",
+        "target": "Harry Mansell",
+        "description": "Adopted Brothers"
+      },
+      {
+        "source": "Hutch Mansell",
+        "target": "Wyatt Martin",
+        "description": "Adversaries turned Allies"
+      },
+      {
+        "source": "Hutch Mansell",
+        "target": "Sheriff Abel",
+        "description": "Enemies"
+      },
+      {
+        "source": "Hutch Mansell",
+        "target": "Lendina",
+        "description": "Enemies"
+      },
+      {
+        "source": "Wyatt Martin",
+        "target": "Lendina",
+        "description": "Coerced Business Partners / Rivals"
+      },
+      {
+        "source": "Sheriff Abel",
+        "target": "Lendina",
+        "description": "Subordinate / Co-conspirators"
+      },
+      {
+        "source": "Sheriff Abel",
+        "target": "Wyatt Martin",
+        "description": "Corrupt Co-conspirators"
+      }
+    ],
+    "seo": {
+      "slug": "nobody-2",
+      "jsonLd": {
+        "name": "Nobody 2",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss."
+      },
+      "keywords": [
+        "Nobody 2",
+        "Nobody 2 movie",
+        "Hutch Mansell",
+        "Nobody sequel",
+        "Nobody 2 plot",
+        "action movie 2025"
+      ],
+      "canonical": "[https://movnix.com/movie/nobody-2](https://movnix.com/movie/nobody-2)",
+      "metaTitle": "Nobody 2 (2025) - Movie Overview, Cast & Release Details",
+      "openGraph": {
+        "og:title": "Nobody 2 - Official Movie Overview",
+        "og:description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation that turns violent when they clash with a crooked sheriff and a ruthless crime boss."
+      },
+      "twitterCard": {
+        "twitter:title": "Nobody 2 - Official Movie Overview",
+        "twitter:description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation that turns violent when they clash with a crooked sheriff and a ruthless crime boss."
+      },
+      "metaDescription": "Hutch Mansell's family vacation turns deadly in Nobody 2. Watch as he faces a crooked sheriff, corrupt park operator, and ruthless crime boss."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Nobody 2 is a direct sequel to the 2021 action-thriller film Nobody, expanding the franchise centered around former government assassin Hutch Mansell.",
+        "question": "Is Nobody 2 part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of Nobody 2 is action-thriller, featuring high-octane combat choreography, dark comedy elements, and intense suspense.",
+        "question": "What is the dominant genre of Nobody 2?"
+      },
+      {
+        "answer": "Bob Odenkirk reprises his lead role as Hutch Mansell, the former deadly government 'auditor' trying to live a normal suburban life.",
+        "question": "Who plays the lead character in Nobody 2?"
+      },
+      {
+        "answer": "In Nobody 2, Hutch Mansell attempts to reconnect with his family during a vacation at a small-town theme park, but violence erupts when they clash with local corrupt operators and a ruthless crime syndicate.",
+        "question": "What is the main storyline of Nobody 2?"
+      },
+      {
+        "answer": "Nobody 2 was directed by acclaimed Indonesian filmmaker Timo Tjahjanto, known for his intense action and thriller films like The Night Comes for Us.",
+        "question": "Who directed Nobody 2?"
+      },
+      {
+        "answer": "Yes, original cast members Bob Odenkirk, Connie Nielsen (Becca), RZA (Harry), Christopher Lloyd (David), and Colin Salmon (The Barber) all return for the sequel.",
+        "question": "Are key cast members from the original film returning for Nobody 2?"
+      },
+      {
+        "answer": "The new antagonists include crime boss Lendina (played by Sharon Stone), a corrupt sheriff named Abel (played by Colin Hanks), and theme park operator Wyatt Martin (played by John Ortiz).",
+        "question": "Who are the new antagonists featured in Nobody 2?"
+      },
+      {
+        "answer": "While starting from the Mansell family's suburban life, the majority of the film takes place in Plummerville, Wisconsin, centered around a nostalgic small-town theme park and waterpark.",
+        "question": "Where does the primary action of Nobody 2 take place?"
+      },
+      {
+        "answer": "Yes, Nobody 2 includes a mid-credits/post-credits scene that hints at future complications and potential sequels for Hutch Mansell and his family.",
+        "question": "Is there a post-credits scene in Nobody 2?"
+      },
+      {
+        "answer": "Nobody 2 was produced by 87North Productions alongside Universal Pictures and Odenkirk Provissiero Entertainment.",
+        "question": "Which production company produced Nobody 2?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low to moderate intensity driven by tension, threat of harm, and violent confrontation rather than traditional horror or supernatural elements."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong language, including profanities and aggressive verbal confrontations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of stylized action violence, brutal hand-to-hand combat, heavy gunplay, and lethal weapon use."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate depiction of alcohol consumption, casual smoking, and background drug-related criminal activity."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content beyond mild suggestive humor or brief romantic interactions between spouses."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving threats to family safety, hostage situations, and high-stakes criminal conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 9,
+      "comedy": 5,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 9
+    },
+    "created_at": "2026-07-28 13:19:30.32762",
+    "updated_at": "2026-07-28 13:19:30.32762"
+  }
 }
