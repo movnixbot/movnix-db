@@ -10,9 +10,9 @@
     "budget": "60000000",
     "revenue": "96000836",
     "status": "Released",
-    "popularity": 15.554,
-    "voteAverage": 6.925,
-    "voteCount": 1673,
+    "popularity": 16.292,
+    "voteAverage": 6.924,
+    "voteCount": 1674,
     "homepage": "https://www.20thcenturystudios.com/movies/the-amateur",
     "posterPath": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
     "backdropPath": "/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
@@ -1979,8 +1979,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.925,
-      "votesCount": 1673
+      "ratingValue": 6.924,
+      "votesCount": 1674
     },
     {
       "source": "imdb",
@@ -2345,5 +2345,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1087891/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1087891,
+    "hash": "0b378a70df1e8068625cad9dfb7b572c87b9e1b51c47afd562e8e484d4aeeaeb",
+    "summary_one_sentence": "When his wife is killed in a London terrorist attack, an introverted CIA decoder blackmails his agency into training him to hunt down her killers himself.",
+    "summary_short": "Charlie Heller is a brilliant but introverted CIA decoder whose world shatters when his wife is tragically killed in a London terrorist attack. Devastated and seeking justice, he turns to his supervisors, only to discover that bureaucratic priorities prevent them from taking action. Refusing to let the perpetrators go free, Charlie uses his intelligence and agency secrets to force the CIA into training him as a field operative. Armed with unique analytical skills and unwavering determination, he embarks on a dangerous personal mission across Europe to hunt down those responsible.",
+    "summary_long": "Charlie Heller works as a quiet, highly skilled cryptographer deep within the subterranean offices of CIA headquarters. His orderly life is completely shattered when a senseless terrorist attack in London takes the life of his beloved wife. Devastated by grief, Charlie expects the intelligence agency to mobilize its vast resources to bring the syndicate behind the attack to justice. However, he quickly realizes that political red tape and conflicting international interests mean his superiors have no intention of pursuing the killers. Unwilling to accept inaction, Charlie uncovers internal agency intelligence that he uses as leverage to blackmail the CIA leadership. He demands that they train him as a rogue operative and deploy him into the field, despite his complete lack of combat experience. Though initially dismissed by his instructors as an unlikely assassin, Charlie relies on his incredible intellect, problem-solving abilities, and tech savvy rather than brute strength. As he pursues the dangerous extremist network across international borders, he must constantly stay one step ahead of both deadly terrorists and CIA agents sent to reign him in. Ultimately, Charlie proves that a mind trained in pattern recognition and deduction can be just as lethal as any seasoned intelligence operative.",
+    "synopsis": "The Amateur is a high-stakes action thriller that follows Charlie Heller, a brilliant yet socially reserved CIA decoder who leads a quiet life analyzing encrypted data behind a desk. His world is thrown into chaos when a tragic terrorist attack in London claims the life of his wife. Upon discovering that his agency's leadership refuses to pursue the suspects due to bureaucratic obstacles, Charlie decides to abandon his desk job and seek justice on his own terms. Leveraging sensitive internal secrets to compel the CIA into preparing him for the field, he transitions from an armchair analyst into a relentless vigilante. Navigating a treacherous web of international espionage, lethal adversaries, and agency handlers determined to shut him down, Charlie must use his sharp intellect and resourcefulness to outmaneuver those standing between him and retribution.",
+    "keywords": [
+      "revenge plot",
+      "vigilante justice",
+      "grieving husband",
+      "cia decoder",
+      "rogue analyst",
+      "terrorism",
+      "london setting",
+      "bureaucratic inaction",
+      "unlikely hero",
+      "espionage",
+      "conspiracy thriller",
+      "introverted protagonist",
+      "one-man mission"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Justice vs. Bureaucracy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Individual Agency",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Transformation and Survival",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "He confronts the mastermind behind the attack in a tense, high-stakes final confrontation, forced to rely on his sharp mind and strategy rather than brute force to outsmart his enemies.",
+      "conflict": "His life falls apart when his wife is killed in a London terrorist attack, and his CIA supervisors refuse to take action to pursue those responsible.",
+      "resolution": "With the perpetrators brought to justice and the threat neutralized, he is left to process his grief and reconcile the person he became to avenge his wife.",
+      "introduction": "An introverted and highly skilled CIA decoder lives a quiet life defined by his intellect, routine, and marriage.",
+      "risingAction": "Determined to seek justice, he leverages classified intelligence to compel the agency to train him for the field, embarking on a dangerous personal mission across Europe to track down the perpetrators despite his lack of field experience."
+    },
+    "characters": [
+      {
+        "name": "Charles Heller",
+        "role": "Hero",
+        "description": "A brilliant, introverted CIA decoder who turns vigilante after his wife is murdered in a terrorist attack."
+      },
+      {
+        "name": "Schiller",
+        "role": "Villain",
+        "description": "A ruthless terrorist mercenary involved in the London attack who becomes Charles' primary target."
+      },
+      {
+        "name": "Robert Henderson",
+        "role": "Mentor",
+        "description": "A seasoned CIA veteran and colonel who reluctantly trains Charles to survive and operate in the field."
+      },
+      {
+        "name": "Sarah Heller",
+        "role": "Supporting Character",
+        "description": "Charles' beloved wife whose tragic death in London triggers his quest for vengeance."
+      },
+      {
+        "name": "The Bear",
+        "role": "Supporting Character",
+        "description": "A rugged, experienced CIA field agent who respects Charles' technical skills."
+      },
+      {
+        "name": "Alex Moore",
+        "role": "Supporting Character",
+        "description": "The stoic CIA Deputy Director who refuses to take official action following the attack."
+      },
+      {
+        "name": "Director O'Brien",
+        "role": "Supporting Character",
+        "description": "A high-ranking CIA official seeking to manage internal CIA protocol and corruption."
+      },
+      {
+        "name": "Inquiline Davies",
+        "role": "Supporting Character",
+        "description": "A reclusive hacker based in Istanbul who assists Charles with vital intelligence."
+      },
+      {
+        "name": "Carlos",
+        "role": "Comic Relief",
+        "description": "A lighthearted colleague at the CIA who offers humor amidst the tension."
+      },
+      {
+        "name": "Caleb",
+        "role": "Supporting Character",
+        "description": "An associate connected to intelligence and field logistics during Charles' mission."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Charlie Heller",
+        "target": "Sarah Heller",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Charlie Heller",
+        "target": "CIA Leadership / Supervisors",
+        "description": "Employee/Supervisors, Blackmailer/Blackmailed"
+      },
+      {
+        "source": "Charlie Heller",
+        "target": "CIA Instructors / Trainers",
+        "description": "Trainee/Mentors"
+      },
+      {
+        "source": "Charlie Heller",
+        "target": "Terrorists / Wife's Killers",
+        "description": "Hunter/Targets, Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "the-amateur",
+      "jsonLd": {
+        "name": "The Amateur",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action."
+      },
+      "keywords": [
+        "The Amateur movie",
+        "The Amateur movie plot",
+        "CIA thriller movies",
+        "action thriller",
+        "London terrorist attack movie",
+        "The Amateur synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-amateur](https://movnix.com/movie/the-amateur)",
+      "metaTitle": "The Amateur Movie Synopsis, Cast & Details | Movnix",
+      "openGraph": {
+        "og:title": "The Amateur - Official Movie Overview",
+        "og:description": "When the CIA refuses to act after a tragic attack, a brilliant decoder goes rogue to seek justice himself."
+      },
+      "twitterCard": {
+        "twitter:title": "The Amateur Movie Details",
+        "twitter:description": "An introverted CIA decoder takes matters into his own hands after a devastating loss. Read the synopsis and details."
+      },
+      "metaDescription": "A brilliant CIA decoder takes matters into his own hands after a tragic London attack. Discover 'The Amateur' overview, release info, and details."
+    },
+    "faq": [
+      {
+        "answer": "No, The Amateur is a standalone film and is not part of an existing cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, The Amateur does not contain any mid-credits or post-credits scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre of The Amateur is action-thriller, specifically falling under espionage and techno-thriller sub-genres.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Yes, the film is based on the 1981 novel of the same name written by Robert Littell.",
+        "question": "Is the movie based on a book?"
+      },
+      {
+        "answer": "Yes, it is a modern feature adaptation of Robert Littell's novel, which was previously adapted into a 1981 movie starring John Savage.",
+        "question": "Is The Amateur a remake?"
+      },
+      {
+        "answer": "Rami Malek stars as the main protagonist, Charlie Heller, a brilliant but introverted CIA decoder.",
+        "question": "Who plays the lead character in The Amateur?"
+      },
+      {
+        "answer": "The film was directed by James Hawes, with a screenplay written by Ken Nolan and Gary Spinelli.",
+        "question": "Who directed the movie?"
+      },
+      {
+        "answer": "The film follows Charlie Heller, a CIA cryptographer whose wife is killed in a London terrorist attack. When his agency supervisors refuse to take action, he uses his intelligence and cyber skills to force their hand and personally hunt down those responsible.",
+        "question": "What is the primary plot of The Amateur?"
+      },
+      {
+        "answer": "The Amateur is rated PG-13 for violence, action, and language.",
+        "question": "What is the MPA rating for the movie?"
+      },
+      {
+        "answer": "The film features a strong supporting cast including Laurence Fishburne, Rachel Brosnahan, Caitríona Balfe, Michael Stuhlbarg, Holt McCallany, and Jon Bernthal.",
+        "question": "Who else stars in the film alongside the lead?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Suspenseful and tense moments related to terrorist violence and deadly threats."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong profanity typical of espionage thrillers."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Explosions, terrorist attacks, and action violence as a CIA decoder pursues revenge."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background drinking or smoking typical of adult spy dramas."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, focused primarily on grief and action drama."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving grief over a spouse's murder and revenge."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 3,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-29 05:06:30.048376",
+    "updated_at": "2026-07-29 05:06:30.048376"
+  }
 }
