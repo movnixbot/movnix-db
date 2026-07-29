@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 21.3888,
+    "popularity": 19.8852,
     "voteAverage": 6.5,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1671541",
@@ -232,7 +232,7 @@
     {
       "tmdbPersonId": 5557717,
       "name": "Tang Mingdong",
-      "profilePath": null,
+      "profilePath": "/rHlanIUmJVMm01zxfq10KXZJsUG.jpg",
       "character": "袁术(voice)",
       "job": "Actor",
       "department": "Acting",
@@ -343,5 +343,295 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1671541/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1671541,
+    "hash": "6545e1735f33d9fbaa513b22cfc5d063d48a8e23294201243546195b270320f6",
+    "summary_one_sentence": "As the Eastern Han Dynasty falls into chaos, ambitious warlords clash for power in the capital, setting the stage for the legendary Three Kingdoms era.",
+    "summary_short": "In the waning days of the Eastern Han Dynasty, political instability and widespread rebellion threaten to dismantle the empire. Seeking to strip power from corrupt eunuchs, Cao Cao and Yuan Shao petition General He Jin, only for the tyrant Dong Zhuo to seize control of the capital. Swept into the escalating turmoil, emerging heroes and warlords like Liu Bei, Guan Yu, Zhang Fei, and Lü Bu must navigate betrayal and war to determine the fate of the Han Empire.",
+    "summary_long": "Toward the end of the Eastern Han Dynasty, imperial authority reaches a breaking point under the weight of corruption and nationwide social unrest. Hoping to curb the overreaching influence of the court eunuchs and restore order, Cao Cao and Yuan Shao press General-in-Chief He Jin into action. However, their desperate maneuvers spark a disastrous chain of events, allowing the ruthless warlord Dong Zhuo to march his troops into Luoyang. Dong Zhuo quickly seizes absolute authority, plotting to dethrone the reigning emperor and install a puppet ruler to solidify his dictatorship. As terror reigns within the capital, rival factions and ambitious warlords begin to rally across the country. Key figures like Yuan Shu, Sun Jian, and the formidable warrior Lü Bu step into the political arena to claim their own dominance. Meanwhile, the heroic trio of Liu Bei, Guan Yu, and Zhang Fei align themselves with the cause to protect the innocent and uphold justice amid the falling regime. Luoyang becomes a battlefield of strategic intrigue, shifting allegiances, and massive military clashes. With the fate of the great Han Empire hanging in the balance, this tumultuous crisis marks the violent dawn of a legendary battle for ultimate supremacy.",
+    "synopsis": "Set during the tumultuous decline of the Eastern Han Dynasty, Three Kingdoms: The Beginning chronicles the chaotic series of events that fractured ancient China and gave rise to some of history's most legendary figures. When political infighting between court eunuchs and military leaders brings the capital of Luoyang to the brink of ruin, the ruthless warlord Dong Zhuo capitalizes on the power vacuum. By seizing the throne and imposing a reign of terror, Dong Zhuo forces rival leaders, opportunistic generals, and righteous heroes to take up arms. Featuring iconic historical figures such as Cao Cao, Liu Bei, Guan Yu, Zhang Fei, Lü Bu, and Sun Jian, this animated historical drama explores the shifting alliances, fierce battles, and grand strategies that ignited an unforgettable era of war.",
+    "keywords": [
+      "Eastern Han Dynasty",
+      "Three Kingdoms period",
+      "political intrigue",
+      "warlords",
+      "dethronement",
+      "eunuch power struggles",
+      "dynastic fall",
+      "historical turmoil",
+      "military alliances",
+      "Luoyang",
+      "power vacuum",
+      "rise of heroes",
+      "sworn brothers",
+      "chaos and rebellion"
+    ],
+    "themes": [
+      {
+        "theme": "Power and Ambition",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Political Intrigue",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Chaos and Turmoil",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Loyalty and Duty",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.81
+      }
+    ],
+    "story_structure": {
+      "climax": "Violent conflict engulfs Luoyang as coalition forces and key warlords converge to clash directly with Dong Zhuo's regime over the fate of the capital and the throne.",
+      "conflict": "Dong Zhuo exploits the chaos in the capital to march his troops into Luoyang, plotting to dethrone the emperor and seize tyrannical control of the imperial court.",
+      "resolution": "The central authority of the Han Dynasty breaks down completely, scattering the imperial power structure and setting the stage for warlords to fragment the realm into competing territories.",
+      "introduction": "Toward the end of the Eastern Han Dynasty, widespread unrest grips the empire while political figures like Cao Cao and Yuan Shao seek to eliminate corrupt eunuchs and restore order through General He Jin.",
+      "risingAction": "As oppressive rule threatens the state, rival warlords and iconic heroes—including Liu Bei, Guan Yu, Zhang Fei, Sun Jian, and Lü Bu—emerge across the realm, assembling armies to challenge Dong Zhuo's power."
+    },
+    "characters": [
+      {
+        "name": "Cao Cao",
+        "role": "Hero",
+        "description": "A prominent warlord seeking to restore order to the Han Dynasty while maneuvering through the political turmoil."
+      },
+      {
+        "name": "Dong Zhuo",
+        "role": "Villain",
+        "description": "A ruthless warlord who seizes power in the capital, plotting to dethrone the emperor and plunge the empire into chaos."
+      },
+      {
+        "name": "Yuan Shao",
+        "role": "Hero",
+        "description": "An influential leader collaborating with Cao Cao to check the growing power of corrupt factions in the capital."
+      },
+      {
+        "name": "He Jin",
+        "role": "Supporting Character",
+        "description": "The General-in-Chief whose alliance is sought to restore order against the eunuchs before the crisis deepens."
+      },
+      {
+        "name": "Liu Bei",
+        "role": "Hero",
+        "description": "An emerging warlord driven by loyalty to the Han Dynasty, standing against the rising chaos."
+      },
+      {
+        "name": "Guan Yu",
+        "role": "Supporting Character",
+        "description": "A fiercely loyal and formidable warrior fighting alongside Liu Bei to restore peace."
+      },
+      {
+        "name": "Zhang Fei",
+        "role": "Supporting Character",
+        "description": "A brave and powerful warrior who fights passionately alongside Liu Bei and Guan Yu."
+      },
+      {
+        "name": "Lü Bu",
+        "role": "Anti Hero",
+        "description": "A mighty warrior navigating the conflict, known for his unmatched martial skill and shifting allegiances."
+      },
+      {
+        "name": "Sun Jian",
+        "role": "Hero",
+        "description": "A valiant warlord who rises to defend the realm during the collapse of order in Luoyang."
+      },
+      {
+        "name": "Yuan Shu",
+        "role": "Other",
+        "description": "An ambitious warlord aiming to capitalize on the imperial instability for his own power."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cao Cao",
+        "target": "Yuan Shao",
+        "description": "Political Allies / Warlord Rivals"
+      },
+      {
+        "source": "Cao Cao",
+        "target": "He Jin",
+        "description": "Political Allies"
+      },
+      {
+        "source": "Yuan Shao",
+        "target": "He Jin",
+        "description": "Political Allies"
+      },
+      {
+        "source": "Dong Zhuo",
+        "target": "He Jin",
+        "description": "Opportunistic Rivals"
+      },
+      {
+        "source": "Dong Zhuo",
+        "target": "Cao Cao",
+        "description": "Enemies / Antagonists"
+      },
+      {
+        "source": "Dong Zhuo",
+        "target": "Yuan Shao",
+        "description": "Enemies / Antagonists"
+      },
+      {
+        "source": "Liu Bei",
+        "target": "Guan Yu",
+        "description": "Sworn Brothers / Allies"
+      },
+      {
+        "source": "Liu Bei",
+        "target": "Zhang Fei",
+        "description": "Sworn Brothers / Allies"
+      },
+      {
+        "source": "Guan Yu",
+        "target": "Zhang Fei",
+        "description": "Sworn Brothers / Allies"
+      },
+      {
+        "source": "Yuan Shao",
+        "target": "Yuan Shu",
+        "description": "Half-Brothers / Warlord Rivals"
+      },
+      {
+        "source": "Lü Bu",
+        "target": "Dong Zhuo",
+        "description": "Allies / Key General"
+      },
+      {
+        "source": "Sun Jian",
+        "target": "Dong Zhuo",
+        "description": "Enemies / Opposing Warlords"
+      }
+    ],
+    "seo": {
+      "slug": "three-kingdoms-the-beginning",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/three-kingdoms-the-beginning](https://movnix.com/movie/three-kingdoms-the-beginning)",
+        "name": "Three Kingdoms: The Beginning",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Toward the end of the Eastern Han Dynasty, amid nationwide unrest, Cao Cao and Yuan Shao sought to enlist General-in-Chief He Jin's support to check the power of the eunuchs and restore the Han Dynasty to its rightful order. Unexpectedly, Dong Zhuo seized the chaos to march his troops into the capital, plotting to dethrone the reigning emperor and install a new one. Swept up in the torrential tide of troubled times, a host of warlords emerged one after another: Yuan Shu, Lü Bu, Sun Jian, as well as Liu Bei, Guan Yu and Zhang Fei. Turmoil engulfed Luoyang, and the fate of the great Han Empire stood at a crossroads…"
+      },
+      "keywords": [
+        "Three Kingdoms: The Beginning",
+        "Three Kingdoms movie",
+        "Eastern Han Dynasty",
+        "Cao Cao",
+        "Liu Bei",
+        "Dong Zhuo",
+        "Luoyang turmoil",
+        "Chinese historical drama"
+      ],
+      "canonical": "[https://movnix.com/movie/three-kingdoms-the-beginning](https://movnix.com/movie/three-kingdoms-the-beginning)",
+      "metaTitle": "Three Kingdoms: The Beginning | Synopsis & Overview",
+      "openGraph": {
+        "og:title": "Three Kingdoms: The Beginning - Epic Historical War Drama",
+        "og:description": "Amid the fall of the Eastern Han Dynasty, warlords emerge as turmoil engulfs Luoyang. Discover the epic story of Three Kingdoms: The Beginning."
+      },
+      "twitterCard": {
+        "twitter:title": "Three Kingdoms: The Beginning - Official Synopsis",
+        "twitter:description": "Turmoil engulfs Luoyang as warlords rise for control of the Han Empire. Read the story behind Three Kingdoms: The Beginning."
+      },
+      "metaDescription": "As the Eastern Han Dynasty falls into chaos, warlords rise to power in Luoyang. Watch Three Kingdoms: The Beginning to witness the fight for the Han Empire."
+    },
+    "faq": [
+      {
+        "answer": "The film follows the political turmoil at the end of the Eastern Han Dynasty, where warlords like Cao Cao, Yuan Shao, and Dong Zhuo vie for power amidst social unrest, leading to clashes that shape the fate of the Han Empire.",
+        "question": "What is 'Three Kingdoms: The Beginning' about?"
+      },
+      {
+        "answer": "Yes, 'Three Kingdoms: The Beginning' covers the early origins of the famous Three Kingdoms period, serving as an opening chapter to the broader epic narrative adaptation of the historic conflict.",
+        "question": "Is this movie part of a franchise or larger story?"
+      },
+      {
+        "answer": "The film is primarily a historical action drama and war epic, focusing on political intrigue, military strategy, and martial arts combat.",
+        "question": "What is the dominant genre of 'Three Kingdoms: The Beginning'?"
+      },
+      {
+        "answer": "Major figures include Cao Cao, Yuan Shao, Dong Zhuo, Lü Bu, Sun Jian, and the famous oath-brothers Liu Bei, Guan Yu, and Zhang Fei.",
+        "question": "Who are the key historical figures featured in the story?"
+      },
+      {
+        "answer": "The story takes place during the late Eastern Han Dynasty in ancient China, specifically around the fall of the imperial court in Luoyang during the late 2nd century AD.",
+        "question": "What historical time period serves as the backdrop for the film?"
+      },
+      {
+        "answer": "Post-credits scenes vary by regional releases, but many cuts include a mid-credits teaser hinting at the upcoming major campaigns and rising rivalries between Cao Cao and Liu Bei.",
+        "question": "Is there a post-credits scene in 'Three Kingdoms: The Beginning'?"
+      },
+      {
+        "answer": "The primary conflict begins with the effort to curb the power of the imperial eunuchs, which inadvertently allows the tyrant Dong Zhuo to seize control of the capital, provoking a coalition of warlords to oppose him.",
+        "question": "What central conflict drives the plot?"
+      },
+      {
+        "answer": "No prior knowledge is strictly necessary, as the film establishes the major political factions and character motivations from the ground up, though familiarity with the source material enhances appreciation of the historical context.",
+        "question": "Do I need prior knowledge of Chinese history or 'Romance of the Three Kingdoms' to enjoy the film?"
+      },
+      {
+        "answer": "Dong Zhuo acts as the primary overarching antagonist due to his despotic takeover of the capital Luoyang, supported by his formidable warrior Lü Bu.",
+        "question": "Who is the primary antagonist in this installment?"
+      },
+      {
+        "answer": "The film explores themes of loyalty, ambition, political corruption, brotherhood, and the chaotic transition of power during times of empire collapse.",
+        "question": "What are the central themes of the story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror elements, primarily involving intense depictions of wartime chaos and violent political overthrow."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language associated with military conflict, confrontation, and political threats."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depicts historical military conflict, political coups, warlord uprisings, and widespread warfare during the fall of the Han Dynasty."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional references to historical alcohol consumption during banquets and military gatherings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content depicted or referenced in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by national unrest, violent political intrigue, mass warfare, and existential threats to the empire."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 3,
+      "romance": 2,
+      "science": 0,
+      "suspense": 7,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 23:49:59.039012",
+    "updated_at": "2026-07-27 23:49:59.039012"
+  }
 }

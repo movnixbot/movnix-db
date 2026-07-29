@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": "1765893",
     "status": "Released",
-    "popularity": 5.2129,
+    "popularity": 5.3838,
     "voteAverage": 5.979,
     "voteCount": 73,
     "homepage": "https://www.forbiddenfruits.movie",
@@ -1111,7 +1111,7 @@
     {
       "tmdbPersonId": 2117434,
       "name": "Victoria Pedretti",
-      "profilePath": "/nYTgFPqxycgA64gQ7T7QCrK5mqC.jpg",
+      "profilePath": "/lzGbKFIBdecraIkofCB6YAOg1VR.jpg",
       "character": "Cherry",
       "job": "Actor",
       "department": "Acting",
@@ -1397,5 +1397,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1450527/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1450527,
+    "hash": "79bf1438034e362cfd15d229024967b4170da09fa967adc085205505b442900c",
+    "summary_one_sentence": "After hours at a mall store, a secretive witchy cult run by retail employees is thrown into chaos when a rebellious new hire threatens to unravel their performative sisterhood with bloody consequences.",
+    "summary_short": "At Free Eden, a retail store in the local mall, employee Apple runs a secret, witchy coven in the basement alongside her co-workers Cherry and Fig. Their superficial bond and performative sisterhood thrive in the shadows until a new employee named Pumpkin joins the team. Pumpkin's blunt refusal to conform exposes the dark hypocrisy within the group, forcing the women into a violent confrontation with their inner demons. As tensions boil over after hours, the cult must face their own toxic poisons or succumb to a gruesome fate.",
+    "summary_long": "By day, Free Eden appears to be just another mundane mall store, but by night, it hides a bizarre subculture beneath the sales floor. Employee Apple leads a secret, witchy femme cult in the basement alongside her fellow 'fruits', Cherry and Fig, using occult rituals to foster what they claim is an empowering sisterhood. However, beneath their polished aesthetic lies a toxic dynamic fueled by performative solidarity and hidden rivalries. Everything changes with the arrival of Pumpkin, an unapologetic new hire who sees right through the cult's pseudo-spiritual facade. Pumpkin continuously challenges Apple's authority and refuses to play along with the group's rituals, driving a wedge between the members. As Pumpkin's provocations escalate, the dark magic they dabble in begins to turn volatile, reflecting the suppressed hostility among the women. Forced into a psychological and physical pressure cooker, Cherry and Fig begin to question Apple’s leadership and their own motivations. To survive the night, each woman must confront her own personal toxic secrets and hypocrisies. Ultimately, their performative unity collapses into a struggle for survival where avoiding their true poisons means facing a violent, bloody fate.",
+    "synopsis": "Forbidden Fruits is a dark horror-comedy drama that blends retail satire with modern occultism. The story follows Apple, Cherry, and Fig, three employees at the Free Eden store who spend their after-hours running a secret, witchy coven in the basement. When new hire Pumpkin arrives and refuses to buy into their performative sisterhood, the fragile power dynamic unravels, spiraling into a chaotic and deadly confrontation with the toxic secrets they keep hidden.",
+    "keywords": [
+      "witchy cult",
+      "performative sisterhood",
+      "retail nightmare",
+      "after hours",
+      "dark comedy",
+      "workplace power struggle",
+      "toxic friendship",
+      "female-led horror",
+      "secret society",
+      "bloody fate",
+      "subversive satire",
+      "fruit symbolism"
+    ],
+    "themes": [
+      {
+        "theme": "Performative Sisterhood",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Power Dynamics and Rebellion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival and Self-Reckoning",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The rift within the group escalates into a violent reckoning, compelling the women to either face their internal poisons or suffer dire consequences.",
+      "conflict": "The arrival of a new hire, Pumpkin, disrupts the status quo by challenging the performative nature of the cult's sisterhood.",
+      "resolution": "The surviving members process the aftermath of the bloody confrontation, left with a broken dynamic and the tragic cost of their dynamic.",
+      "introduction": "Apple, alongside fellow employees Cherry and Fig, secretly operates a witchy femme cult in the basement of the Free Eden mall store after hours.",
+      "risingAction": "Ideological clashes and growing tensions force the members to confront their deeply buried hypocrisies and personal toxicity."
+    },
+    "characters": [
+      {
+        "name": "Pumpkin",
+        "role": "Hero",
+        "description": "The earnest new hire who joins Free Eden and challenges the toxic dynamics and performative sisterhood of the store's witchy cult."
+      },
+      {
+        "name": "Apple",
+        "role": "Villain",
+        "description": "The controlling and manipulative leader of Free Eden and the basement coven who ruthlessly enforces conformity and turns violent when her influence is challenged."
+      },
+      {
+        "name": "Cherry",
+        "role": "Anti Hero",
+        "description": "A complex member of the coven under Apple's thumb who harbors secret rebellions and eventually stands up to Apple's cruel leadership."
+      },
+      {
+        "name": "Fig",
+        "role": "Supporting Character",
+        "description": "A conflict-averse member of the coven torn between her allegiance to the group and her desire for a normal life outside Free Eden."
+      },
+      {
+        "name": "Sharon Sullivan",
+        "role": "Mentor",
+        "description": "The store manager of Free Eden who oversees the workplace environment and holds authority over the employees."
+      },
+      {
+        "name": "Pickle",
+        "role": "Other",
+        "description": "A former member of the coven whose tragic fate serves as a cautionary tale about the dark consequences of Apple's rule."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Apple",
+        "target": "Cherry",
+        "description": "Cult Co-founders / Performative Sisters"
+      },
+      {
+        "source": "Apple",
+        "target": "Fig",
+        "description": "Cult Co-founders / Performative Sisters"
+      },
+      {
+        "source": "Cherry",
+        "target": "Fig",
+        "description": "Fellow Cult Members / Performative Sisters"
+      },
+      {
+        "source": "Apple",
+        "target": "Pumpkin",
+        "description": "Cult Leader vs. Skeptical Rival"
+      },
+      {
+        "source": "Pumpkin",
+        "target": "Cherry",
+        "description": "Skeptical New Hire vs. Cult Member"
+      },
+      {
+        "source": "Pumpkin",
+        "target": "Fig",
+        "description": "Skeptical New Hire vs. Cult Member"
+      }
+    ],
+    "seo": {
+      "slug": "forbidden-fruits",
+      "jsonLd": {
+        "name": "Forbidden Fruits",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate."
+      },
+      "keywords": [
+        "Forbidden Fruits",
+        "Forbidden Fruits movie",
+        "thriller movie",
+        "horror thriller",
+        "witchy cult film",
+        "Free Eden movie"
+      ],
+      "canonical": "[https://movnix.com/movie/forbidden-fruits](https://movnix.com/movie/forbidden-fruits)",
+      "metaTitle": "Forbidden Fruits - Plot, Movie Overview & Updates",
+      "openGraph": {
+        "og:title": "Forbidden Fruits | Official Movie Overview",
+        "og:description": "Free Eden employee Apple secretly runs a witchy femme cult after hours. When a new hire challenges them, sisterhood turns bloody."
+      },
+      "twitterCard": {
+        "twitter:title": "Forbidden Fruits | Official Movie Overview",
+        "twitter:description": "Free Eden employee Apple secretly runs a witchy femme cult after hours. When a new hire challenges them, sisterhood turns bloody."
+      },
+      "metaDescription": "When a new hire challenges a secret after-hours cult at a mall store, sisterhood turns deadly in Forbidden Fruits. Read the full synopsis and updates."
+    },
+    "faq": [
+      {
+        "answer": "Forbidden Fruits follows Apple, an employee at a Free Eden mall store who secretly runs a witchy, femme cult in the basement after hours with her co-workers Cherry and Fig. When a new hire named Pumpkin challenges their performative sisterhood, the group must confront their own inner poisons before facing a violent downfall.",
+        "question": "What is the plot of Forbidden Fruits?"
+      },
+      {
+        "answer": "The dominant genre of Forbidden Fruits is horror, specifically blending elements of satire, psychological thriller, and dark comedy with supernatural subtext.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "No, Forbidden Fruits is a standalone original film and is not part of an existing franchise or cinematic universe.",
+        "question": "Is Forbidden Fruits part of a franchise?"
+      },
+      {
+        "answer": "The main characters include Apple, the ringleader of the secret basement cult, her fellow members Cherry and Fig, and Pumpkin, the new hire who disrupts their dynamic.",
+        "question": "Who are the main characters in Forbidden Fruits?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Forbidden Fruits. The narrative concludes definitively before the end credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film primarily takes place inside a mall store called Free Eden, specifically within its retail sales floor and the secretive basement hidden beneath it.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The movie explores themes of performative sisterhood, toxic workplace dynamics, consumer culture, female rage, and the destructive nature of hidden malice.",
+        "question": "What themes does Forbidden Fruits explore?"
+      },
+      {
+        "answer": "Due to its violent storyline, bloody elements, and dark psychological themes, the film is intended for mature audiences who enjoy horror and dark satire.",
+        "question": "Is Forbidden Fruits suitable for sensitive viewers?"
+      },
+      {
+        "answer": "The characters use fruit-inspired names—Apple, Cherry, Fig, and Pumpkin—playing on the film's title, the 'Free Eden' store setting, and the biblical imagery of forbidden fruit.",
+        "question": "What is the origin of the characters' names?"
+      },
+      {
+        "answer": "Forbidden Fruits is available on select digital streaming platforms and participating theatrical venues depending on regional distribution.",
+        "question": "Where can I watch Forbidden Fruits?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to high horror elements featuring occult practices, witchy cults, and sinister themes."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate potential for strong language amidst conflict and high-stress situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence implied by cult rituals and a teased bloody fate."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild potential for substance use linked to witchy rituals or psychological motifs."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content indicated beyond subtle thematic undertones."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving deep interpersonal rivalry, betrayal, and fatal stakes."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 6,
+      "fantasy": 6,
+      "mystery": 7,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 22:01:55.367773",
+    "updated_at": "2026-07-28 22:01:55.367773"
+  }
 }
