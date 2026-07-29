@@ -10,9 +10,9 @@
     "budget": "30000000",
     "revenue": "132675749",
     "status": "Released",
-    "popularity": 11.7937,
-    "voteAverage": 6.672,
-    "voteCount": 1244,
+    "popularity": 11.8976,
+    "voteAverage": 6.7,
+    "voteCount": 1249,
     "homepage": "http://www.blackphonemovie.com",
     "posterPath": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
     "backdropPath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
@@ -1789,8 +1789,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.672,
-      "votesCount": 1244
+      "ratingValue": 6.7,
+      "votesCount": 1249
     },
     {
       "source": "imdb",
@@ -2165,5 +2165,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1197137/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1197137,
+    "hash": "a836749081553df0486ab3bf931c68ac7a5f4ea4f1e319851419391f7845c617",
+    "summary_one_sentence": "Four years after surviving The Grabber, Finney Blake and his sister Gwen must decipher supernatural dream calls to stop a resurrected killer stalking a winter camp.",
+    "summary_short": "Four years after surviving his traumatic abduction, Finney Blake continues to struggle with the psychological aftermath of defeating The Grabber. When his younger sister Gwen begins experiencing supernatural dream calls from the black phone, she receives visions of boys being hunted at a winter camp. Realizing the supernatural threat is far from over, the siblings team up to unravel the mystery. Together, they must confront a terrifying killer who has returned from beyond the grave with newfound, personal power.",
+    "summary_long": "Set four years after Finney Blake successfully escaped and defeated his kidnapper, life remains difficult for the traumatized survivor. While Finney attempts to navigate his post-captivity life, his sister Gwen discovers that her psychic abilities are taking a darker, more unsettling turn. Gwen begins receiving mysterious phone calls in her dreams originating from the iconic black phone, accompanied by terrifying visions. These visions reveal three young boys being relentlessly stalked at a remote winter camp by an ominous entity. Recognizing that the supernatural calls are a dire warning, Gwen convinces Finney that they must take action to prevent another tragedy. As they investigate the camp and its dark connection to their past, they discover that the killer's spirit has transcended death. This resurrected force is not only stronger and more vengeful, but it also shares a deeply personal link to the Blake family. Finney and Gwen must rally their courage and face their deepest fears to permanently destroy an entity that threatens to consume them both.",
+    "synopsis": "Four years after surviving his harrowing ordeal at the hands of The Grabber, Finney Blake struggles to reintegrate into normal life while coping with post-traumatic stress. Meanwhile, his sister Gwen's psychic powers resurface through ominous dream calls from the uncanny black phone, projecting visions of three young boys in danger at a winter camp. Driven by a desperate need to save innocent lives and uncover the truth, the siblings embark on a perilous journey that unearths dark secrets connecting the killer to their own family history, leading to an ultimate confrontation with a powerful supernatural threat.",
+    "keywords": [
+      "supernatural horror",
+      "phone calls from the dead",
+      "serial killer ghost",
+      "prophetic dreams",
+      "trauma recovery",
+      "winter camp",
+      "sibling dynamic",
+      "kidnapping survivor",
+      "vengeful spirit",
+      "child endangerment",
+      "psychic abilities",
+      "small town horror",
+      "haunted communication"
+    ],
+    "themes": [
+      {
+        "theme": "Trauma and Recovery",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sibling Bond and Family Support",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Supernatural/Psychic Connection",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Confronting Past Evils",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Protection and Rescue",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The siblings come face-to-face with the escalated, terrifying force of the killer in a high-stakes supernatural confrontation that tests their resilience, bond, and survival instincts.",
+      "conflict": "Gwen's surreal visions reveal a sinister new threat connected to their past, forcing the siblings to confront the realization that the supernatural force from their childhood has returned stronger and far more personal.",
+      "resolution": "With the imminent threat confronted, Finney and Gwen begin processing the deep-seated trauma of their past and present ordeals, taking another step toward genuine healing.",
+      "introduction": "Four years after escaping captivity, Finney Blake attempts to navigate life alongside his sister Gwen, who starts experiencing troubling dreams involving calls from the Black Phone and visions of boys targeted at a winter camp.",
+      "risingAction": "As Gwen's dream-calls intensify, Finney and Gwen unravel clues surrounding the targeted winter camp, racing to understand the killer's motives and growing power while trying to protect potential new victims."
+    },
+    "characters": [
+      {
+        "name": "Finney Blake",
+        "role": "Hero",
+        "description": "The trauma-surviving protagonist who must overcome his past captivity to protect his sister and defeat the supernatural threat."
+      },
+      {
+        "name": "Gwen Blake",
+        "role": "Hero",
+        "description": "Finney's courageous younger sister whose psychic dreams and calls from the Black Phone uncover the core mystery."
+      },
+      {
+        "name": "The Grabber",
+        "role": "Villain",
+        "description": "The murderous spirit of the serial killer who reaches out from beyond the grave, growing even more powerful in death."
+      },
+      {
+        "name": "Ernesto Arellano",
+        "role": "Comic Relief",
+        "description": "The loyal twin brother of the late Robin Arellano who provides lighthearted energy while standing by Gwen and Finney."
+      },
+      {
+        "name": "Terrence Blake",
+        "role": "Supporting Character",
+        "description": "Finney and Gwen's troubled father trying to cope with trauma while attempting to protect his children."
+      },
+      {
+        "name": "Armando",
+        "role": "Mentor",
+        "description": "The camp owner who holds knowledge of past events and helps guide the group toward ending the haunting."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Finney Blake",
+        "target": "Gwen Blake",
+        "description": "Siblings / Allies"
+      },
+      {
+        "source": "Finney Blake",
+        "target": "The Grabber",
+        "description": "Victim / Killer (Rivals)"
+      },
+      {
+        "source": "Gwen Blake",
+        "target": "The Grabber",
+        "description": "Visionary / Antagonist"
+      },
+      {
+        "source": "Gwen Blake",
+        "target": "Three Winter Camp Boys",
+        "description": "Dream Vision Messenger / Potential Victims"
+      },
+      {
+        "source": "The Grabber",
+        "target": "Three Winter Camp Boys",
+        "description": "Supernatural Stalker / Prey"
+      }
+    ],
+    "seo": {
+      "slug": "black-phone-2",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/black-phone-2](https://movnix.com/movie/black-phone-2)",
+        "name": "Black Phone 2",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
+      },
+      "keywords": [
+        "Black Phone 2",
+        "The Black Phone 2 movie",
+        "Black Phone sequel",
+        "Finney Blake",
+        "Gwen Blake",
+        "The Grabber horror movie",
+        "Black Phone 2 plot",
+        "Black Phone 2 synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/black-phone-2](https://movnix.com/movie/black-phone-2)",
+      "metaTitle": "Black Phone 2 (2025) - Synopsis, Plot Details & Release Info",
+      "openGraph": {
+        "og:title": "Black Phone 2 - Official Plot & Movie Overview",
+        "og:description": "The Black Phone rings once more. Four years after surviving captivity, Finney and Gwen Blake must confront a killer who has grown even more powerful in death."
+      },
+      "twitterCard": {
+        "twitter:title": "Black Phone 2 - Official Plot & Movie Overview",
+        "twitter:description": "The Black Phone rings once more. Four years after surviving captivity, Finney and Gwen Blake must confront a killer who has grown even more powerful in death."
+      },
+      "metaDescription": "Four years after surviving The Grabber, Finney and Gwen Blake face a dark new terror when the Black Phone rings again. Discover Black Phone 2 plot details."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Black Phone 2 is part of a film franchise. It serves as a direct sequel to the 2021 supernatural horror hit The Black Phone.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of Black Phone 2 is supernatural horror, combined with elements of mystery and thriller.",
+        "question": "What is the dominant genre of Black Phone 2?"
+      },
+      {
+        "answer": "The movie was directed by Scott Derrickson, who also directed the first film and co-wrote the sequel screenplay with C. Robert Cargill.",
+        "question": "Who directed Black Phone 2?"
+      },
+      {
+        "answer": "Key returning cast members include Mason Thames as Finney Blake, Madeleine McGraw as Gwen Blake, Jeremy Davies as Terrence Blake, and Ethan Hawke as The Grabber.",
+        "question": "Who are the main cast members returning for Black Phone 2?"
+      },
+      {
+        "answer": "Set four years after Finney escapes captivity, the plot follows Gwen as she receives dream calls on the Black Phone showing visions of three boys being stalked at a winter camp. Together, the siblings head to the camp to solve the mystery and face a now-supernatural Grabber.",
+        "question": "What is the main plot of Black Phone 2?"
+      },
+      {
+        "answer": "Yes, Ethan Hawke reprises his role as The Grabber, returning as a ghostly entity who has become even more powerful and malevolent in death.",
+        "question": "Does Ethan Hawke return as The Grabber in the sequel?"
+      },
+      {
+        "answer": "While the original 2021 film was adapted directly from Joe Hill's short story 'The Black Phone', the sequel features an original storyline co-conceived by Joe Hill and expanded by screenwriters Scott Derrickson and C. Robert Cargill.",
+        "question": "Is Black Phone 2 based on a short story?"
+      },
+      {
+        "answer": "No, Black Phone 2 does not feature a post-credits scene, concluding its story once the main credits roll.",
+        "question": "Is there a post-credit scene in Black Phone 2?"
+      },
+      {
+        "answer": "The movie is set in 1982, four years after the events of the original film, taking place primarily at Alpine Lake Camp during a severe winter storm.",
+        "question": "When and where is Black Phone 2 set?"
+      },
+      {
+        "answer": "No, the movie is rated R due to strong violent content, bloody horror scenes, language, and disturbing supernatural themes.",
+        "question": "Is Black Phone 2 suitable for children or younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Disturbing visions, supernatural telephone calls, and ominous horror elements involving deceased victims."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate to strong profanity standard for tense horror/thriller themes."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Themes of abduction, stalking, and violent encounters involving a supernatural killer."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to no explicit substance abuse mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or themes indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity dealing with trauma, captivity aftermath, child endangerment, and psychological horror."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 6,
+      "mystery": 8,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 07:05:05.652503",
+    "updated_at": "2026-07-28 07:05:05.652503"
+  }
 }
