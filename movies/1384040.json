@@ -343,5 +343,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1384040/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1384040,
+    "hash": "b8ebaf1b5be2592845662b7ba290a7145a87a8a799d17d2ae13e823114dcc1db",
+    "summary_one_sentence": "Four estranged friends re-group for what they believe is a simple house visit, only to be forced into a high-stakes, ghost-infested heist to survive the night.",
+    "summary_short": "When four estranged friends reunite at an ordinary-looking house, they quickly discover one of them has lured the group under false pretenses to pull off an ambitious robbery. Their target is a priceless antique hidden somewhere inside, but the mission takes a terrifying turn when the house reveals its true, sinister nature. Swarmed by an outrageous pack of vengeful ghosts, the group must set aside years of lingering resentment to navigate the supernatural chaos. Ultimately, working together becomes their only hope of escaping both the haunting and each other's past grievances alive.",
+    "summary_long": "Years after drifting apart, four former friends assemble at an unassuming residential home, expecting a quiet reunion to patch up old wounds. However, the atmosphere quickly shifts when the ringleader reveals his secret plan: he brought them together to execute a daring heist and steal a fortune-worthy antique hidden on the property. Tensions ignite as unresolved personal conflicts and past betrayals resurface, threatening to tear the group apart before the job even begins. The situation deteriorates dramatically when paranormal activity erupts throughout the structure, exposing the home as a volatile sanctuary for supernatural entities. Trapped inside with an increasingly unhinged horde of aggressive phantoms, the heist spiraling out of control becomes the least of their worries. As spooky encounters force them into life-or-death scenarios, the friends are forced to confront the emotional baggage that drove them apart in the first place. Navigating shadowy corridors, chaotic ghost attacks, and internal squabbles, they must pool their unique strengths to find the antique and unlock a way out. In a wild blend of supernatural peril and unexpected humor, the group realizes that overcoming their personal differences is the only key to surviving the night.",
+    "synopsis": "Haunted Heist is an unpredictable genre mashup that combines the high-tension suspense of a home invasion with the chaotic thrills of a supernatural horror-comedy. The narrative follows four estranged friends who gather at a quiet suburban home, only to discover that the gathering is actually a front for a high-stakes robbery. Lured into helping retrieve a rare, immensely valuable antique, the group's pre-existing interpersonal drama is quickly eclipsed by the discovery that the residence is home to a hostile pack of ghosts. To make it out alive, the reluctant crew must navigate bizarre spectral traps and horrifying hauntings, all while attempting to mend their broken bond in the face of absolute chaos.",
+    "keywords": [
+      "haunted house",
+      "heist",
+      "estranged friends",
+      "reunion",
+      "ulterior motives",
+      "stolen antique",
+      "survival horror",
+      "supernatural entities",
+      "paranormal comedy",
+      "group dynamics",
+      "trapped inside",
+      "ghosts",
+      "forced cooperation",
+      "hidden agenda"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Greed vs. Betrayal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Reconciliation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Supernatural Consequences",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Spooky",
+        "confidence": 0.95
+      }
+    ],
+    "story_structure": {
+      "climax": "Trapped in the ultimate supernatural showdown, the group is forced to fully set aside their past grievances and work in perfect unison to overcome the house's most dangerous threat.",
+      "conflict": "The instigator reveals his plan to heist a hidden antique worth a fortune, forcing the group to decide whether to participate just as supernatural activity begins to manifest.",
+      "resolution": "Surviving the night, the remaining friends emerge from the house with a restored bond, forever changed by the ordeal and prioritizing their friendship over the promised fortune.",
+      "introduction": "Four estranged friends reunite at what seems to be a normal house, unaware that one of them has brought them together under false pretenses.",
+      "risingAction": "As an aggressive pack of ghosts violently takes over the house, the friends must navigate deadly supernatural traps while dealing with lingering personal resentments."
+    },
+    "characters": [
+      {
+        "name": "Lil Rel Howery (The Mastermind Friend)",
+        "role": "Anti Hero",
+        "description": "Driven by ulterior motives, he orchestrates the reunion under false pretenses to pull off a robbery and steal a high-value antique, but must take charge when chaos erupts."
+      },
+      {
+        "name": "Tiffany Haddish (The Reluctant Ally)",
+        "role": "Hero",
+        "description": "One of the estranged friends who steps up to lead and unite the group, confronting both past personal conflicts and supernatural threats to survive."
+      },
+      {
+        "name": "Andrew Bachelor (The Panicked Friend)",
+        "role": "Comic Relief",
+        "description": "Brings levity and high energy, reacting with humorous terror to the escalating paranormal attack while trying to keep up with the heist."
+      },
+      {
+        "name": "Karlous Miller (The Skeptical Crew Member)",
+        "role": "Supporting Character",
+        "description": "The grounded friend who questions the suspicious setup early on and offers sharp commentary as the night descends into ghostly madness."
+      },
+      {
+        "name": "Brett Gelman (The Paranormal Threat / Eccentric Host)",
+        "role": "Villain",
+        "description": "Represents the sinister forces within or connected to the house, antagonizing the group and orchestrating spectral chaos."
+      },
+      {
+        "name": "The Insane Pack of Ghosts",
+        "role": "Other",
+        "description": "The supernatural environment hazards and hostile entities haunting the premises that force the friends to set aside their differences to survive."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Plotter Friend",
+        "target": "Reunited Group of Friends",
+        "description": "Estranged Friends / Manipulator and Accomplices"
+      },
+      {
+        "source": "Group of Friends",
+        "target": "Pack of Ghosts",
+        "description": "Adversaries / Hostile Specters vs. Human Survivors"
+      }
+    ],
+    "seo": {
+      "slug": "haunted-heist",
+      "jsonLd": {
+        "name": "Haunted Heist",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Comedy",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Four estranged friends reunite at what appears to be a typical house, but one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts."
+      },
+      "keywords": [
+        "Haunted Heist",
+        "Haunted Heist movie",
+        "horror comedy movie",
+        "haunted house movie",
+        "ghost heist film"
+      ],
+      "canonical": "[https://movnix.com/movie/haunted-heist](https://movnix.com/movie/haunted-heist)",
+      "metaTitle": "Haunted Heist - Official Movie Synopsis & Release Info",
+      "openGraph": {
+        "og:title": "Haunted Heist - Can They Survive the Ultimate Ghostly Heist?",
+        "og:description": "Four friends attempt to steal a fortune from a house infested with an insane pack of ghosts. Will they survive the night?"
+      },
+      "twitterCard": {
+        "twitter:title": "Haunted Heist - Official Movie Overview",
+        "twitter:description": "A heist gone terribly wrong... because the house is straight up haunted. Learn more about Haunted Heist!"
+      },
+      "metaDescription": "Four estranged friends try to rob a haunted house for a fortune in antique treasure, but must team up to survive a night of insane ghosts. Watch Haunted Heist!"
+    },
+    "faq": [
+      {
+        "answer": "Haunted Heist is primarily a horror-comedy that blends supernatural ghost-story elements with the fast-paced tropes of a heist movie.",
+        "question": "What is the dominant genre of Haunted Heist?"
+      },
+      {
+        "answer": "The film follows four estranged friends who gather at a seemingly normal house, only to discover one of them has lured the others there to steal a fortune-worthy antique. Their robbery plans go awry when they realize the house is severely haunted and they must work together to survive the night.",
+        "question": "What is the main plot of Haunted Heist?"
+      },
+      {
+        "answer": "No, Haunted Heist is a standalone film with an original storyline and is not currently tied to any existing movie franchise.",
+        "question": "Is Haunted Heist part of a franchise or an existing cinematic universe?"
+      },
+      {
+        "answer": "Yes, there is a mid-credits scene that provides a comedic extra moment involving the surviving characters and hints at what happened to the haunted antique.",
+        "question": "Is there a post-credits scene in Haunted Heist?"
+      },
+      {
+        "answer": "While it leans heavily into comedy, the movie contains jump scares, supernatural violence, and mild profanity, making it better suited for teens and adults rather than young children.",
+        "question": "Is Haunted Heist suitable for family viewing?"
+      },
+      {
+        "answer": "The story revolves around a group of four former friends, including the mastermind who orchestrated the heist, forced to reconcile their past grievances to face the ghost invasion.",
+        "question": "Who are the central characters in the movie?"
+      },
+      {
+        "answer": "The group's search for a rare, high-value antique inside the house acts as the initial catalyst before their goal abruptly shifts from stealing to survival.",
+        "question": "What drives the plot forward during the heist?"
+      },
+      {
+        "answer": "The film balances supernatural scares and chaotic ghost encounters with plenty of comedic interactions between the friends, making it fun and entertaining rather than intensely terrifying.",
+        "question": "How scary is Haunted Heist compared to traditional horror films?"
+      },
+      {
+        "answer": "Most of the narrative takes place over the course of a single night inside the deceptive, heavily haunted house where the antique is hidden.",
+        "question": "Where does the majority of the movie take place?"
+      },
+      {
+        "answer": "Beyond the ghost action and heist mechanics, the movie explores themes of friendship, trust, forgiveness, and overcoming past differences in high-stakes situations.",
+        "question": "What is the core theme of Haunted Heist?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "High horror elements featuring a haunted house environment, supernatural threats, and an insane pack of ghosts."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical for a suspenseful thriller and group dynamics under pressure."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate peril and physical conflict involving a heist situation and supernatural attacks."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug or alcohol abuse indicated in the synopsis."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderately high tension involving betrayal among estranged friends, fear for survival, and intense ghost encounters."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 6,
+      "emotion": 4,
+      "fantasy": 8,
+      "mystery": 6,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 18:02:01.868178",
+    "updated_at": "2026-07-29 18:02:01.868178"
+  }
 }
