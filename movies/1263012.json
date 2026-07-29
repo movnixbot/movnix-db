@@ -1322,5 +1322,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1263012/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1263012,
+    "hash": "2e2fa0d78173869445c7711050fc68d53c0d7fc29374aee6de08d8d4a680426e",
+    "summary_one_sentence": "In 1977, aggrieved former real estate developer Tony Kiritsis takes a mortgage banker hostage using a wired shotgun dead man's switch, demanding $5 million and a public apology.",
+    "summary_short": "In February 1977, disgruntled real estate developer Tony Kiritsis takes mortgage broker Richard Hall hostage in Indianapolis, convinced the mortgage firm cheated him out of his valuable property. Rigging a shotgun directly to his captive's neck via a dead man's wire, Tony ensures that any attempt by police to shoot or subdue him will instantly detonate the weapon. He demands five million dollars, debt relief, and a full personal apology from the executives who ruined him. As the high-stakes 63-hour standoff unfolds, the hostage crisis turns into an intense national media circus.",
+    "summary_long": "In February 1977, Indianapolis real estate developer Tony Kiritsis reaches a severe breaking point after believing he was systematically swindled out of prime land by a prominent mortgage company. Seeking personal restitution and public vindication, Tony confronts the firm and takes mortgage broker Richard Hall hostage at gunpoint. To prevent law enforcement intervention, Tony constructs a lethal device: a wire connecting the trigger of a sawed-off shotgun aimed at Hall's skull directly to his own neck and finger as a dead man's switch. Forcing his captive into a vehicle, Tony moves Hall to his personal apartment, where an intense multi-day standoff with law enforcement begins. Tony contacts local radio stations and news organizations, broadcasting his furious diatribes while demanding $5 million, a formal debt release, and a public apology. As news coverage intensifies over 63 grueling hours, the broadcast transforms Tony into a bizarre, polarizing anti-hero to a fascinated television audience. Law enforcement, FBI negotiators, and family members work tirelessly behind the scenes to keep the volatile hostage-taker calm. Meanwhile, the psychological pressure inside the apartment mounts as both captor and captive grapple with exhaustion and fear. The film builds toward a harrowing confrontation as officials attempt to orchestrate a live televised resolution where any single misstep will trigger catastrophic violence.",
+    "synopsis": "Based on extraordinary real-life events, Dead Man's Wire tells the story of the infamous 1977 Indianapolis hostage standoff initiated by Tony Kiritsis. Believing himself to be the victim of predatory corporate greed that stripped away his life savings and land, Kiritsis takes mortgage broker Richard Hall hostage under horrific conditions. By wiring a 12-gauge shotgun directly to his captive's head and tethering the trigger to a dead man's switch around his own neck, Kiritsis creates an absolute stalemate: if police kill or incapacitate him, the gun will automatically fire and kill Hall instantly.\n\nDemanding a massive cash settlement, total debt forgiveness, and a televised personal apology from financial leadership, Kiritsis holds up in his apartment while the surrounding area is swarmed by law enforcement, SWAT teams, and eager journalists. As news outlets stream live audio and video of Kiritsis' anger, the event becomes one of the earliest viral media sensations in modern American history, sparking widespread public debate over institutional corruption and vigilante action. 'Dead Man's Wire' presents a tense, psychological exploration of rage, media influence, and desperation.",
+    "keywords": [
+      "hostage standoff",
+      "dead man's switch",
+      "revenge plot",
+      "media circus",
+      "anti-capitalist sentiment",
+      "1970s setting",
+      "corporate greed",
+      "police negotiation",
+      "booby-trapped",
+      "live broadcast",
+      "psychological drama",
+      "class rage",
+      "financial ruin",
+      "desperate man"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.96
+      },
+      {
+        "theme": "Justice and Accountability",
+        "confidence": 0.91
+      },
+      {
+        "theme": "Desperation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Individual vs. System",
+        "confidence": 0.84
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension reaches its peak during a live broadcasted press conference, where Kiritsis delivers an explosive monologue with the wire still in hand, forcing a definitive moment of reckoning.",
+      "conflict": "Desperate for retribution and public vindication, Kiritsis takes a mortgage broker hostage using a shotgun rigged to a dead man's switch, demanding $5 million, a formal apology, and a platform to air his grievances.",
+      "resolution": "The standoff ends with the hostage safely released, shifting the narrative to the complex legal, psychiatric, and societal aftermath of Kiritsis's actions.",
+      "introduction": "Former real estate developer Tony Kiritsis grows deeply resentful over a defaulted property deal, believing a mortgage company deliberately conspired to destroy him financially.",
+      "risingAction": "As Kiritsis barricades himself in his apartment with his captive, he negotiates through a local radio broadcaster, turning the high-stakes standoff into a tense media circus that captivates and divides the public."
+    },
+    "characters": [
+      {
+        "name": "Tony Kiritsis",
+        "role": "Anti Hero",
+        "description": "A desperate, volatile former developer who rigged a dead man's switch to hold a mortgage broker hostage and demand a $5 million refund and a public apology."
+      },
+      {
+        "name": "Richard Hall",
+        "role": "Supporting Character",
+        "description": "The mortgage company executive held hostage by Tony Kiritsis, serving as the innocent pawn caught in a high-stakes standoff."
+      },
+      {
+        "name": "M.L. Hall",
+        "role": "Villain",
+        "description": "The cold, unrepentant head of the mortgage firm accused of swindling Tony, whose refusal to apologize escalates the dangerous hostage crisis."
+      },
+      {
+        "name": "Detective Michael Grable",
+        "role": "Hero",
+        "description": "The lead law enforcement investigator attempting to navigate the explosive crisis and secure the hostage's safe release."
+      },
+      {
+        "name": "Fred Temple",
+        "role": "Mentor",
+        "description": "A respected radio personality who serves as a trusted intermediary and voice of reason between the kidnapper, police, and the public."
+      },
+      {
+        "name": "Linda Page",
+        "role": "Supporting Character",
+        "description": "An ambitious television journalist aiming to break the explosive 63-hour standoff story on live broadcast."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tony Kiritsis",
+        "target": "Richard Hall",
+        "description": "Hostage Taker / Hostage"
+      },
+      {
+        "source": "Tony Kiritsis",
+        "target": "Meridian Mortgage",
+        "description": "Aggrieved Client / Financial Institution"
+      },
+      {
+        "source": "Tony Kiritsis",
+        "target": "Indianapolis Police Department",
+        "description": "Suspect / Law Enforcement"
+      },
+      {
+        "source": "Tony Kiritsis",
+        "target": "Fred Heckman",
+        "description": "Captive Speaker / Radio Broadcaster Negotiator"
+      },
+      {
+        "source": "Richard Hall",
+        "target": "Meridian Mortgage",
+        "description": "Executive / Employer"
+      }
+    ],
+    "seo": {
+      "slug": "dead-mans-wire",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/dead-mans-wire",
+        "name": "Dead Man's Wire",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "https://schema.org",
+        "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology."
+      },
+      "keywords": [
+        "Dead Man's Wire",
+        "Tony Kiritsis",
+        "Tony Kiritsis movie",
+        "1977 hostage crisis movie",
+        "Dead Man's Wire synopsis",
+        "true crime drama"
+      ],
+      "canonical": "https://movnix.com/movie/dead-mans-wire",
+      "metaTitle": "Dead Man's Wire (1977 Hostage Drama) - Synopsis & Movie Info",
+      "openGraph": {
+        "og:title": "Dead Man's Wire - A Tense 1977 True Story Drama",
+        "og:description": "In 1977, Tony Kiritsis takes a mortgage banker hostage with a dead man's wire, demanding $5M and a personal apology."
+      },
+      "twitterCard": {
+        "twitter:title": "Dead Man's Wire - 1977 Hostage Drama",
+        "twitter:description": "Tony Kiritsis holds a banker hostage with a dead man's switch in this tense 1977 crime drama."
+      },
+      "metaDescription": "In 1977, Tony Kiritsis holds a mortgage banker hostage with a dead man's switch, demanding $5M and an apology. Discover the tense true-crime drama."
+    },
+    "faq": [
+      {
+        "answer": "Dead Man's Wire is a satirical crime thriller and biographical drama, blending high-stakes tension with dark humor and social commentary on corporate greed.",
+        "question": "What is the dominant genre of Dead Man's Wire?"
+      },
+      {
+        "answer": "No, Dead Man's Wire is a standalone film and is not connected to any existing movie franchise or cinematic universe.",
+        "question": "Is Dead Man's Wire part of a film franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the credits finish rolling. However, the film features an epilogue and real historical archival footage right before the final credits.",
+        "question": "Is there a post-credits scene in Dead Man's Wire?"
+      },
+      {
+        "answer": "Yes, the movie is based on the actual 1977 Indianapolis hostage standoff where Tony Kiritsis held mortgage executive Richard Hall captive for 63 hours.",
+        "question": "Is Dead Man's Wire based on a true story?"
+      },
+      {
+        "answer": "Bill Skarsgård stars as Tony Kiritsis, alongside an ensemble cast that includes Dacre Montgomery, Al Pacino, Colman Domingo, Myha'la, and Cary Elwes.",
+        "question": "Who plays Tony Kiritsis in the movie?"
+      },
+      {
+        "answer": "The film was directed by Oscar-nominated filmmaker Gus Van Sant, written by Austin Kolodney.",
+        "question": "Who directed Dead Man's Wire?"
+      },
+      {
+        "answer": "It refers to the 'dead man's switch' mechanism Tony Kiritsis created by wiring a sawed-off shotgun directly to his hostage's neck so that if Kiritsis was shot or let go of the wire, the gun would fire automatically.",
+        "question": "What does 'Dead Man's Wire' mean in the context of the story?"
+      },
+      {
+        "answer": "Kiritsis demands $5 million in financial restitution, full forgiveness of his mortgage debt, a personal public apology from the mortgage company executives, and complete immunity from police prosecution.",
+        "question": "What are Tony Kiritsis's primary demands?"
+      },
+      {
+        "answer": "Dead Man's Wire is rated R for strong language throughout, intensity, threats of violence, and brief drug references.",
+        "question": "What is the MPAA rating for Dead Man's Wire?"
+      },
+      {
+        "answer": "Yes, the filmmakers used the 2018 true-crime documentary 'Dead Man's Line' as primary historical research, collaborating with its creators during pre-production.",
+        "question": "Is Dead Man's Wire related to the documentary Dead Man's Line?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Tense and unsettling hostage scenario, though lacking traditional supernatural or horror elements."
+      },
+      "language": {
+        "score": 6,
+        "description": "Likely frequent strong language and heated verbal exchanges during a high-stress crisis."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High psychological threat of violence involving a rigged shotgun, hostage taking, and high-stakes coercion."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild depictions of smoking or alcohol use consistent with the 1970s setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Extremely intense psychological pressure, life-or-death confrontation, and prolonged crisis atmosphere."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 07:04:28.261961",
+    "updated_at": "2026-07-29 07:04:28.261961"
+  }
 }
