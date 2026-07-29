@@ -10,9 +10,9 @@
     "budget": "6000000",
     "revenue": "6223404",
     "status": "Released",
-    "popularity": 6.4452,
-    "voteAverage": 5.7,
-    "voteCount": 294,
+    "popularity": 6.3248,
+    "voteAverage": 5.68,
+    "voteCount": 295,
     "homepage": "https://www.neonrated.com/film/keeper",
     "posterPath": "/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
     "backdropPath": "/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
@@ -1322,8 +1322,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.7,
-      "votesCount": 294
+      "ratingValue": 5.68,
+      "votesCount": 295
     },
     {
       "source": "imdb",
@@ -1655,5 +1655,219 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1288072/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1288072,
+    "hash": "2f220679bef687c18d41cba964482753e4e73ce8e2adf5bfde02b255f5612159",
+    "summary_one_sentence": "During a romantic anniversary getaway at an isolated cabin, a woman is left alone to face terrifying visions and unravel her partner's horrifying, centuries-old secret.",
+    "summary_short": "To celebrate their first anniversary, Liz and her boyfriend Malcolm retreat to a secluded countryside cabin for a romantic weekend getaway. The trip takes an unsettling turn when Malcolm abruptly leaves for the city, leaving Liz isolated amidst terrifying visions and strange occurrences. As supernatural forces close in around her, Liz uncovers dark secrets about the cabin's past and her partner's sinister true nature. Left with no easy escape, she is forced to confront an ancient horror tied directly to the land.",
+    "summary_long": "Celebrating their one-year anniversary, Liz accompanies her boyfriend Malcolm to an isolated cabin in the woods for a quiet weekend getaway. Shortly after arriving, they receive an unexpected visit from Malcolm's cousin, and Liz is pressured into eating a strange cake left behind at the residence. Soon after, Liz begins suffering from horrifying visions of bloodied women and ghostly entities haunting the property. Claiming urgent business in the city, Malcolm departs, leaving Liz completely isolated as supernatural phenomena violently escalate around her. As she struggles to maintain her sanity and find a way home, her attempts to call for help fail due to a lack of signal. When Malcolm eventually returns, a suspicious Liz confronts him, discovering evidence that reveals his real history. Malcolm confesses that he and his cousin have spent two centuries sacrificing women to feed monstrous entities in exchange for extended life. Trapped by her partner, Liz undergoes a terrifying ordeal that connects her directly to the creatures. Imbued with dark vengeance, Liz turns the tables on a rapidly aging Malcolm, forcing him to face a brutal reckoning for his centuries of deception.",
+    "synopsis": "Hoping to celebrate their one-year anniversary, Liz and her boyfriend Malcolm retreat to a secluded cabin in the countryside for a quiet weekend away. What begins as a peaceful escape quickly grows tense following uncomfortable visits and strange occurrences around the property, including unsettling gifts and disturbing visions. When Malcolm is abruptly called back to the city, Liz finds herself stranded in total isolation. Alone in the eerie residence, she is forced to confront disturbing supernatural phenomena, uncanny apparitions, and the dreadful secrets embedded within the cabin's dark history.",
+    "keywords": [
+      "secluded cabin",
+      "isolation",
+      "anniversary getaway",
+      "cabin in the woods",
+      "unspeakable evil",
+      "dark secrets",
+      "psychological dread",
+      "sinister location",
+      "abandonment",
+      "survival horror",
+      "haunted cabin",
+      "paranoia",
+      "mysterious absence"
+    ],
+    "themes": [
+      {
+        "theme": "Isolation & Vulnerability",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Deception & Betrayal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Dark Secrets & Legacy",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Horror",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The unspeakable evil directly confronts Liz in a desperate fight for survival, forcing her to face the horrifying core reality hidden within the cabin.",
+      "conflict": "Malcolm is abruptly forced to return to the city, leaving Liz completely isolated in the remote cabin as unsettling events begin to manifest.",
+      "resolution": "The ordeal reaches its intense conclusion, leaving Liz to deal with the immediate aftermath and the chilling consequences of what was revealed.",
+      "introduction": "Liz and Malcolm arrive at a secluded cabin, hoping to enjoy a quiet, romantic anniversary getaway in the woods.",
+      "risingAction": "As strange phenomena escalate, Liz uncovers unsettling clues about the cabin's past and realizes she is not alone, heightened by her growing sense of paranoia and isolation."
+    },
+    "characters": [
+      {
+        "name": "Liz",
+        "role": "Hero",
+        "description": "The protagonist who visits the isolated cabin for a weekend getaway and must survive and uncover the horrific dark secrets lurking within."
+      },
+      {
+        "name": "Dr. Malcolm Westbridge",
+        "role": "Villain",
+        "description": "Liz's seemingly charming partner who harbors a centuries-old dark secret and sacrifices women to maintain his extended lifespan."
+      },
+      {
+        "name": "Darren Westbridge",
+        "role": "Supporting Character",
+        "description": "Malcolm's obnoxious cousin who is complicit in the long-standing dark legacy tied to the cabin."
+      },
+      {
+        "name": "Minka",
+        "role": "Supporting Character",
+        "description": "Darren's girlfriend whose brief visit to the cabin ends abruptly when she becomes an early target of the entity."
+      },
+      {
+        "name": "Maggie",
+        "role": "Supporting Character",
+        "description": "Liz's supportive friend who offers advice and a sounding board over the phone as strange events begin to occur."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Liz",
+        "target": "Malcolm",
+        "description": "Romantic Partners / Girlfriend & Boyfriend"
+      }
+    ],
+    "seo": {
+      "slug": "keeper",
+      "jsonLd": {
+        "name": "Keeper",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated and in the presence of an unspeakable evil that reveals the cabin's horrifying secrets."
+      },
+      "keywords": [
+        "Keeper movie",
+        "Keeper horror film",
+        "Keeper plot summary",
+        "secluded cabin horror",
+        "psychological thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/keeper](https://movnix.com/movie/keeper)",
+      "metaTitle": "Keeper (2026) - Official Movie Synopsis, Plot & Details",
+      "openGraph": {
+        "og:title": "Keeper - Official Movie Synopsis & Details",
+        "og:description": "A romantic anniversary weekend at a secluded cabin turns terrifying when an unspeakable evil reveals its horrifying secrets."
+      },
+      "twitterCard": {
+        "twitter:title": "Keeper - Official Movie Details",
+        "twitter:description": "When Malcolm leaves their secluded cabin, Liz is left isolated with an unspeakable evil. Uncover the secrets of Keeper."
+      },
+      "metaDescription": "Liz's romantic getaway turns into a nightmare when isolated at a secluded cabin with an unspeakable evil. Discover the horrifying secrets of Keeper."
+    },
+    "faq": [
+      {
+        "answer": "Keeper is primarily a folk horror and psychological horror film, blending tension, atmosphere, surreal imagery, and supernatural dread.",
+        "question": "What is the dominant genre of Keeper?"
+      },
+      {
+        "answer": "No, Keeper is a standalone original film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Keeper part of a film franchise?"
+      },
+      {
+        "answer": "No, Keeper does not contain any mid-credits or post-credits scenes. The story fully concludes before the end credits roll.",
+        "question": "Does Keeper have a post-credits scene?"
+      },
+      {
+        "answer": "Tatiana Maslany plays the lead role of Liz, while Rossif Sutherland stars opposite her as Malcolm.",
+        "question": "Who stars as Liz and Malcolm in the movie?"
+      },
+      {
+        "answer": "The film was directed by Osgood 'Oz' Perkins, known for horror films such as Longlegs and The Blackcoat's Daughter.",
+        "question": "Who directed Keeper?"
+      },
+      {
+        "answer": "The story follows Liz and her boyfriend Malcolm as they travel to a remote countryside cabin for a romantic anniversary weekend. After Malcolm temporarily leaves for the city, Liz is left isolated and experiences terrifying visions and supernatural encounters linked to the cabin's dark history.",
+        "question": "What is the basic plot setup of Keeper?"
+      },
+      {
+        "answer": "The supernatural events and hallucinations begin after Liz consumes a mysterious, drugged cake left inside the cabin.",
+        "question": "What triggers the disturbing visions Liz experiences?"
+      },
+      {
+        "answer": "No, Keeper is a fictional story created for the screen, written by Nick Lepard.",
+        "question": "Is Keeper based on a book or a true story?"
+      },
+      {
+        "answer": "The film has an official running time of approximately 99 minutes.",
+        "question": "What is the runtime of Keeper?"
+      },
+      {
+        "answer": "Keeper is rated R for strong horror violence, disturbing images, language, and some sexual material.",
+        "question": "What is the age rating for Keeper?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong horror elements featuring an unspeakable evil, intense isolation, atmospheric dread, and disturbing secrets."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate foul language likely present in tense and high-stress situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy threat of violence implicit in supernatural and survival horror scenarios."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to moderate casual alcohol or substance presence typical of a getaway setting."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic themes and intimate setting associated with an anniversary trip."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by psychological isolation, betrayal, fear, and harrowing supernatural encounters."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 2,
+      "mystery": 8,
+      "romance": 4,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-28 07:03:17.497457",
+    "updated_at": "2026-07-28 07:03:17.497457"
+  }
 }
