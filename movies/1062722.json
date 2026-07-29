@@ -3174,5 +3174,285 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1062722/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1062722,
+    "hash": "cac0339e81c3e33225b25401f4abf26c13db61e9b4133e80e0d18f2bf8ac661b",
+    "summary_one_sentence": "Driven by hubris, brilliant scientist Victor Frankenstein creates a living being from death, triggering a tragic sequence of events that destroys both creator and creation.",
+    "summary_short": "Dr. Victor Frankenstein is an ambitious scientist determined to conquer death by animating a creature assembled from body parts. Horrified by his success, Victor rejects his creation, leaving the monster to face a cruel and unwelcoming world alone. Rejected by humanity, the creature seeks vengeance against his maker, destroying everything Victor holds dear. Ultimately, Victor's dangerous ego leads to immense loss and the tragic destruction of both scientist and creation.",
+    "summary_long": "Dr. Victor Frankenstein, a brilliant but deeply egotistical scientist, becomes obsessed with uncovering the secrets of life and death. Working in isolation, he gathers human remains to assemble a towering figure and successfully animates it through a radical experiment. Immediately overwhelmed by terror and regret at the creature's monstrous form, Victor flees, abandoning his creation to wander the world alone. The creature attempts to find warmth, love, and connection among humans, but every encounter ends in horror, violence, and rejection due to his terrifying appearance. Driven to bitterness and despair by endless cruelty, the creature tracks down Victor to demand a companion of his own kind. Victor initially agrees, but he ultimately destroys the second creation out of fear, sparking the creature's ultimate wrath. The monster exacts revenge by tormenting Victor and systematically murdering those closest to him, including his bride on their wedding night. Tormented by grief and guilt, Victor devotes the rest of his life to pursuing the creature across desolate frozen wildernesses to destroy it. Exhausted by the relentless hunt, Victor dies before fulfilling his goal, leaving his tragic creation to mourn his maker before vanishing into the icy void.",
+    "synopsis": "Obsessed with unlocking the fundamental secrets of existence, brilliant scientist Dr. Victor Frankenstein succeeds in bringing a creature assembled from the dead to life. However, horrified by the reality of his achievement, Victor rejects the creature, leaving it to navigate a harsh and unforgiving world alone. As the monster encounters human prejudice and rejection, its desperate yearning for affection turns into bitter resentment toward its creator. Rich with themes of dangerous ambition, moral responsibility, and isolation, Frankenstein delivers a haunting drama about the destructive fallout when humanity plays God.",
+    "keywords": [
+      "mad scientist",
+      "gothic horror",
+      "playing god",
+      "tragic monster",
+      "creation myth",
+      "hubris",
+      "abandonment",
+      "revenge plot",
+      "isolation",
+      "ethical dilemma",
+      "promethean motif",
+      "monstrous experiment",
+      "nature vs nurture",
+      "tragic fate"
+    ],
+    "themes": [
+      {
+        "theme": "Hubris and Ambition",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Responsibility of Creation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Consequences of Playing God",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Mutual Destruction",
+        "confidence": 0.89
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Victor confronts the consequences of his actions in a final, perilous pursuit across extreme environments, determined to destroy the creature once and for all.",
+      "conflict": "Horrified by his creation's monstrous appearance, Victor abandons the creature, setting in motion a tragic cycle of rejection, isolation, and resentment.",
+      "resolution": "With both creator and creation broken by the relentless feud, the tragic journey ends as the creature departs into the frozen wilderness to meet his ultimate fate.",
+      "introduction": "Dr. Victor Frankenstein, driven by ambition and scientific curiosity, succeeds in animating a creature constructed from scavenged body parts in his laboratory.",
+      "risingAction": "The abandoned creature wanders the world seeking human connection, but repeated harsh rejections embitter him, prompting a campaign of vengeance against Victor and his loved ones that pushes the doctor to his breaking point."
+    },
+    "characters": [
+      {
+        "name": "Victor Frankenstein",
+        "role": "Anti Hero",
+        "description": "A brilliant yet hubristic scientist whose quest to conquer death leads to catastrophic consequences for himself and those around him."
+      },
+      {
+        "name": "The Creature",
+        "role": "Anti Hero",
+        "description": "A misunderstood and abandoned reanimated being who longs for human connection, driven to vengeance after constant rejection."
+      },
+      {
+        "name": "Elizabeth Harlander",
+        "role": "Supporting Character",
+        "description": "A compassionate and innocent presence in Victor's life who serves as an emotional anchor amidst his dark obsession."
+      },
+      {
+        "name": "Henrich Harlander",
+        "role": "Supporting Character",
+        "description": "A wealthy arms manufacturer and patron who finances Victor's radical scientific experiments."
+      },
+      {
+        "name": "The Blind Man",
+        "role": "Mentor",
+        "description": "A gentle and empathetic elder who treats the Creature with unconditional kindness, teaching him empathy and human connection."
+      },
+      {
+        "name": "Baron Leopold Frankenstein",
+        "role": "Supporting Character",
+        "description": "Victor's stern and demanding father whose high expectations and cold demeanor fuel Victor's desire for greatness."
+      },
+      {
+        "name": "Captain Anderson",
+        "role": "Supporting Character",
+        "description": "An Arctic expedition leader who rescues a dying Victor and bears witness to the tragic outcome of his hubris."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Victor Frankenstein",
+        "target": "The Creature",
+        "description": "Creator / Creation"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "Elizabeth Lavenza",
+        "description": "Fiancée / Adoptive Sister"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "Henry Clerval",
+        "description": "Best Friends"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "Robert Walton",
+        "description": "Confidant / Parallel Figures"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "William Frankenstein",
+        "description": "Brothers"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "Alphonse Frankenstein",
+        "description": "Father / Son"
+      },
+      {
+        "source": "The Creature",
+        "target": "William Frankenstein",
+        "description": "Victim / Murderer"
+      },
+      {
+        "source": "The Creature",
+        "target": "Elizabeth Lavenza",
+        "description": "Victim / Murderer"
+      },
+      {
+        "source": "The Creature",
+        "target": "Henry Clerval",
+        "description": "Victim / Murderer"
+      },
+      {
+        "source": "The Creature",
+        "target": "De Lacey Family",
+        "description": "Observed / Secret Benefactor"
+      },
+      {
+        "source": "Victor Frankenstein",
+        "target": "Justine Moritz",
+        "description": "Family Friend / Servant"
+      },
+      {
+        "source": "The Creature",
+        "target": "Justine Moritz",
+        "description": "Framed Victim / Frame Artist"
+      }
+    ],
+    "seo": {
+      "slug": "frankenstein",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/frankenstein](https://movnix.com/movie/frankenstein)",
+        "name": "Frankenstein",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
+      },
+      "keywords": [
+        "Frankenstein",
+        "Frankenstein movie overview",
+        "Victor Frankenstein",
+        "Frankenstein monster",
+        "sci-fi horror movie"
+      ],
+      "canonical": "[https://movnix.com/movie/frankenstein](https://movnix.com/movie/frankenstein)",
+      "metaTitle": "Frankenstein Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Frankenstein - The Iconic Tale of Science and Terror",
+        "og:description": "Dr. Victor Frankenstein brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
+      },
+      "twitterCard": {
+        "twitter:title": "Frankenstein - The Iconic Tale of Science and Terror",
+        "twitter:description": "Dr. Victor Frankenstein brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both creator and creation."
+      },
+      "metaDescription": "Dr. Victor Frankenstein creates a tragic creature in a monstrous experiment that leads to their shared undoing. Read the complete story overview on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is Gothic horror, combined with elements of science fiction and tragedy.",
+        "question": "What is the dominant genre of Frankenstein?"
+      },
+      {
+        "answer": "The main protagonist is Dr. Victor Frankenstein, a brilliant and ambitious scientist whose obsession leads to tragic consequences.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The core conflict revolves around Victor Frankenstein creating a living creature and subsequently abandoning it, leading the neglected creation to seek vengeance against its creator.",
+        "question": "What is the core conflict in Frankenstein?"
+      },
+      {
+        "answer": "While Mary Shelley's original novel is a standalone literary work, it has inspired numerous adaptations, cinematic universes (such as Universal Classic Monsters), sequels, and spinoffs over the decades.",
+        "question": "Is this story part of a larger franchise or universe?"
+      },
+      {
+        "answer": "Traditional cinematic adaptations of Frankenstein, particularly classic films from the 1930s, do not feature post-credit scenes, as this modern cinematic practice was not standard at the time.",
+        "question": "Is there a post-credit scene in film adaptations of Frankenstein?"
+      },
+      {
+        "answer": "No, Frankenstein is the name of the scientist, Dr. Victor Frankenstein. The creature is never given a formal name in the original story and is usually referred to as 'the Monster' or 'the Creature'.",
+        "question": "Is the Monster named Frankenstein?"
+      },
+      {
+        "answer": "Key themes include the dangers of unchecked ambition, the ethical limits of science, parental abandonment, isolation, and the consequences of societal prejudice based on appearance.",
+        "question": "What are the main thematic messages of Frankenstein?"
+      },
+      {
+        "answer": "Depending on the specific film adaptation, Frankenstein generally targets young adults and mature audiences due to dark themes, violence, psychological terror, and horror elements.",
+        "question": "What age demographic or audience rating is Frankenstein suitable for?"
+      },
+      {
+        "answer": "Victor assembles the creature using parts gathered from corpses and slaughterhouses, using advanced chemical and scientific experiments—often depicted in media as reanimating the body via electricity.",
+        "question": "How does Victor Frankenstein create the monster?"
+      },
+      {
+        "answer": "No, Frankenstein is a fictional novel written by Mary Shelley, first published anonymously in 1818, though it was influenced by contemporary scientific experiments in galvanism and electricity.",
+        "question": "Is Frankenstein based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong gothic horror themes, body horrific elements surrounding reanimation, eerie atmosphere, and psychological terror."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild to no profanity, utilizing formal 19th-century language and classic rhetoric."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence, including murders, strangulation, and tragic deaths resulting from the creature's actions and vengeance."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no drug or substance abuse depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense thematic elements involving severe grief, abandonment, existential dread, guilt, and obsession."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 3,
+      "mystery": 6,
+      "romance": 2,
+      "science": 8,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-29 05:01:30.844507",
+    "updated_at": "2026-07-29 05:01:30.844507"
+  }
 }
