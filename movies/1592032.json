@@ -271,5 +271,247 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1592032/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1592032,
+    "hash": "645c899b0020f7c3b711b5990b332953559224c2aade94516890a76fba666400",
+    "summary_one_sentence": "A former special forces soldier infiltrates the perilous underworld of northern Myanmar to rescue his kidnapped daughter from ruthless scam gangs and organ traffickers.",
+    "summary_short": "Driven by desperation, a retired special forces soldier embarks on a dangerous solo mission into northern Myanmar to locate his missing daughter. As he navigates the lawless border region, he uncovers a vast criminal network involved in human trafficking, online scams, and illegal organ harvesting. Confronting heavy opposition at every turn, he uses his elite combat training to dismantle the operation from the inside. His journey culminates in a tense, high-stakes showdown against the ruthless crime boss controlling the network.",
+    "summary_long": "After his daughter mysteriously vanishes without a trace, a highly skilled former special forces operative discovers evidence leading directly to northern Myanmar. Undeterred by the extreme danger of the lawless border zone, he secretly infiltrates the region to launch a solo rescue mission. As he delves deeper into the local underworld, he uncovers a horrific alliance between organ traffickers and armed cyber-scam syndicates. Armed with his extensive tactical background and survival instincts, he systematically tracks down key figures in the criminal hierarchy. Each step closer to his daughter forces him into brutal, high-intensity skirmishes against heavily armed mercenaries. Realizing the clock is ticking, he aggressively dismantles the syndicate's operations to force out their elusive leader. His relentless pursuit eventually leads him directly into the heart of the main criminal compound for a final battle. Facing overwhelming odds, he engages in a devastating showdown with the mastermind behind his daughter's captivity. Through sheer will and combat mastery, he fights to save his daughter and bring down the entire syndicate once and for all.",
+    "synopsis": "When a desperate father and former elite special forces soldier learns that his missing daughter has been abducted and taken to northern Myanmar, he launches an unrelenting solo rescue operation. Navigating a dangerous territory dominated by cyber-scam networks, human trafficking syndicates, and organ harvesters, he must rely on his deadly combat skills, tactical intellect, and fierce determination. To save his daughter, he will have to fight his way through a brutal criminal ecosystem and confront the dangerous syndicate leader in an explosive final battle.",
+    "keywords": [
+      "former special forces soldier",
+      "missing daughter",
+      "rescue mission",
+      "northern myanmar",
+      "scam syndicate",
+      "human trafficking",
+      "organ trafficking",
+      "crime boss",
+      "one man army",
+      "vigilante justice",
+      "fatherly protection",
+      "final showdown",
+      "criminal underworld",
+      "southeast asian setting",
+      "action thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "He breaches the crime boss's heavily fortified headquarters, engaging in a high-stakes confrontation with the mastermind behind the criminal empire to secure his daughter's freedom.",
+      "conflict": "He discovers that his daughter was abducted by a ruthless human-trafficking network, forcing him to venture into the lawless regions of northern Myanmar to rescue her.",
+      "resolution": "With the crime boss defeated and the trafficking network dismantled, he escapes the compound with his daughter and seeks safety beyond the border.",
+      "introduction": "A former special forces soldier attempts to lead a quiet life until his daughter goes missing under mysterious circumstances, prompting him to trace her whereabouts.",
+      "risingAction": "Infiltrating criminal compounds, he fights his way through ruthless scam syndicates, uncovers an organ-trafficking operation, and pieces together the boss's location while battling heavily armed enforcers."
+    },
+    "characters": [
+      {
+        "name": "Andy On Chi-Kit",
+        "role": "Hero",
+        "description": "A former special forces soldier determined to rescue his missing daughter, facing off against criminal syndicates."
+      },
+      {
+        "name": "Philip Ng Wan-Lung",
+        "role": "Villain",
+        "description": "The ruthless crime boss leading the scam gang and organ trafficking network in northern Myanmar."
+      },
+      {
+        "name": "Justin Cheung Kin-Sing",
+        "role": "Anti Hero",
+        "description": "A morally ambiguous mercenary or syndicate insider operating under his own personal rules."
+      },
+      {
+        "name": "Eason Hung Chun-Ga",
+        "role": "Comic Relief",
+        "description": "An upbeat ally who offers moments of levity amidst the high-stakes conflict."
+      },
+      {
+        "name": "Charlene Houghton",
+        "role": "Supporting Character",
+        "description": "The protagonist's missing daughter whose kidnapping sets the story's events in motion."
+      },
+      {
+        "name": "Julian Gaertner",
+        "role": "Villain",
+        "description": "A heavy-hitting foreign enforcer enforcing control over the trafficking operations."
+      },
+      {
+        "name": "Wang Dong",
+        "role": "Supporting Character",
+        "description": "A local contact providing critical intelligence and shelter inside Myanmar."
+      },
+      {
+        "name": "Zhu Yun'er",
+        "role": "Supporting Character",
+        "description": "A captive within the scam compound who aids in the hero's infiltration."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Former Special Forces Soldier",
+        "target": "Missing Daughter",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Former Special Forces Soldier",
+        "target": "Crime Boss",
+        "description": "Enemies/Antagonists"
+      },
+      {
+        "source": "Crime Boss",
+        "target": "Scam Gangs & Organ Traffickers",
+        "description": "Leader/Syndicate"
+      },
+      {
+        "source": "Scam Gangs & Organ Traffickers",
+        "target": "Missing Daughter",
+        "description": "Captors/Victim"
+      }
+    ],
+    "seo": {
+      "slug": "furious-attack",
+      "jsonLd": {
+        "name": "Furious Attack",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A former special forces soldier infiltrates northern Myanmar to rescue his missing daughter, fighting against scam gangs and organ traffickers in a final showdown with the crime boss."
+      },
+      "keywords": [
+        "Furious Attack movie",
+        "Furious Attack synopsis",
+        "action movie Myanmar",
+        "special forces rescue film",
+        "Furious Attack plot",
+        "scam gang action movie"
+      ],
+      "canonical": "[https://movnix.com/movie/furious-attack](https://movnix.com/movie/furious-attack)",
+      "metaTitle": "Furious Attack (2026) - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Furious Attack - Action Movie Synopsis & Story Details",
+        "og:description": "A former special forces soldier risks everything in northern Myanmar to save his daughter from ruthless organ traffickers and scam cartels."
+      },
+      "twitterCard": {
+        "twitter:title": "Furious Attack - Action Movie Synopsis & Details",
+        "twitter:description": "A former special forces soldier risks everything in northern Myanmar to save his daughter from ruthless organ traffickers and scam cartels."
+      },
+      "metaDescription": "A former special forces soldier infiltrates northern Myanmar to rescue his daughter from scam gangs and organ traffickers. Watch the final showdown."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Furious Attack is action, blended with elements of crime and thriller.",
+        "question": "What is the dominant genre of Furious Attack?"
+      },
+      {
+        "answer": "The film follows a former special forces soldier who infiltrates northern Myanmar to rescue his kidnapped daughter from dangerous scam gangs and organ traffickers in an explosive showdown against a powerful crime boss.",
+        "question": "What is the main plot of Furious Attack?"
+      },
+      {
+        "answer": "No, Furious Attack is a standalone martial arts action film and is not part of an existing movie franchise or series.",
+        "question": "Is Furious Attack part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene in Furious Attack. The story fully resolves before the end credits roll.",
+        "question": "Is there a post-credit scene in Furious Attack?"
+      },
+      {
+        "answer": "The movie stars martial arts actors Andy On Chi-Kit and Philip Ng Wan-Lung, alongside Justin Cheung Kin-Sing, Eason Hung Chun-Ga, and Charlene Houghton.",
+        "question": "Who stars in Furious Attack?"
+      },
+      {
+        "answer": "Furious Attack was directed and written by Huang Yi.",
+        "question": "Who directed Furious Attack?"
+      },
+      {
+        "answer": "The story primarily takes place in northern Myanmar, where the protagonist travels to navigate illegal underground operations.",
+        "question": "Where is Furious Attack set?"
+      },
+      {
+        "answer": "The movie has a fast-paced runtime of 77 minutes (1 hour and 17 minutes).",
+        "question": "What is the runtime of Furious Attack?"
+      },
+      {
+        "answer": "The original language of the film is Chinese, though international releases feature English subtitles and dubbing.",
+        "question": "In what language was Furious Attack originally released?"
+      },
+      {
+        "answer": "No, Furious Attack is a fictional action film, though its setting touches upon real-world issues surrounding regional scam compounds and human trafficking.",
+        "question": "Is Furious Attack based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild to moderate disturbing elements related to organ trafficking operations and tense crime boss confrontations."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and aggression typical of action thrillers."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence including combat, rescue operations, fighting against criminal gangs, and organ trafficking themes."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate references to organized crime operations and illegal trade."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content described."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional stakes involving a desperate father rescuing his missing child from life-threatening situations."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 10,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-07-29 16:10:33.891721",
+    "updated_at": "2026-07-29 16:10:33.891721"
+  }
 }
