@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 20.4085,
-    "voteAverage": 4.75,
-    "voteCount": 28,
+    "popularity": 18.5201,
+    "voteAverage": 4.793,
+    "voteCount": 29,
     "homepage": "https://mock-movie-website.com/movies/1694978",
     "posterPath": "/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",
     "backdropPath": "/6kheApG5qPsKbiKDxsGpOb6i6i6.jpg",
@@ -151,8 +151,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4.75,
-      "votesCount": 28
+      "ratingValue": 4.793,
+      "votesCount": 29
     },
     {
       "source": "crawled",
@@ -368,5 +368,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1694978/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1694978,
+    "hash": "19f6cf65bc59a151b3e26e30fe998b220062f90e476f87732aa8ddf84bbea240",
+    "summary_one_sentence": "A newlywed couple's sun-soaked Mediterranean yacht vacation turns into a nightmare as they face both a deadly shark in the water and a psychopathic killer on board.",
+    "summary_short": "What begins as a relaxing Mediterranean getaway for a newlywed couple and their close friends quickly devolves into a desperate struggle for survival. Trapped aboard a luxury yacht, the group discovers that a ruthless killer is hidden among them, orchestrating chaos from within. To make matters worse, a predatory shark stalks the surrounding waters, cutting off any chance of escape. As trust rapidly erodes, the survivors must navigate both human malice and nature's deadliest hunter.",
+    "summary_long": "Seeking the ultimate romantic getaway, a newlywed couple invites a group of close friends on an exclusive yacht voyage across the picturesque Mediterranean Sea. The initial atmosphere of luxury and celebration quickly sours as unsettling incidents begin to occur aboard the vessel. Tensions rise sharply when a crew member vanishes under suspicious circumstances, forcing the group to confront a terrifying reality: a psychopathic killer is operating in their midst. Paranoia spreads rapidly as long-buried secrets, jealousy, and motives surface, causing once-loyal friends to turn on one another. Attempts to call for help or flee to safety are shattered when the yacht's engine is sabotaged, leaving them stranded in open water. Adding to the horror, a massive and relentless killer shark is drawn to the vessel, turning the surrounding sea into a deadly trap. Stranded between the ruthless aquatic predator outside and the calculating murderer on deck, the group's numbers dwindle rapidly. Every decision becomes a heart-pounding gamble between trusting a potential murderer or risking the infested waters. Ultimately, the remaining survivors must unravel the killer's true identity and pull off a desperate gambit to escape the dual nightmare.",
+    "synopsis": "Set against the gorgeous, sun-drenched backdrop of the Mediterranean Sea, 'Chum' is a high-stakes horror-drama that blends psychological thriller elements with creature-feature suspense. The plot follows a newlywed couple celebrating their union alongside a small group of friends aboard a private yacht. The dream vacation morphs into a suffocating pressure cooker when a series of deliberate, malicious acts reveals that someone on board is a cold-blooded killer. Cut off from communication and unable to reach the mainland, the stranded group faces an agonizing psychological game of survival where anyone could be the murderer. The terror escalates exponentially as a monstrous shark begins circling the vessel, preying on anyone forced into the water and blocking all routes of escape. With nowhere to run and no one left to trust, the characters are forced to confront the darkest depths of human deception alongside the primal terror of nature's ultimate ocean predator.",
+    "keywords": [
+      "shark attack",
+      "killer on board",
+      "yacht vacation",
+      "mediterranean sea",
+      "survival horror",
+      "double threat",
+      "vacation gone wrong",
+      "isolated at sea",
+      "psychopathic killer",
+      "betrayal among friends",
+      "sun-drenched horror",
+      "creature feature",
+      "newlyweds",
+      "open water paranoia"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Trust and Betrayal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Human vs. Nature",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The surviving characters face a frantic, life-or-death showdown where they must simultaneously confront the killer on board and escape the apex predator circling nearby.",
+      "conflict": "The idyllic vacation turns into a dual-threat nightmare as the group realizes they are trapped between a predatory shark in the surrounding water and a psychopathic killer hiding among them.",
+      "resolution": "The immediate threat is neutralized, leaving the remaining survivors to endure the emotional and physical aftermath of the harrowing ordeal.",
+      "introduction": "A newlywed couple sets off on a luxurious Mediterranean yacht excursion with a group of close friends, expecting a relaxing and sun-drenched getaway.",
+      "risingAction": "Tension escalates on the isolated vessel as paranoia consumes the group, forcing them to navigate shifting alliances and deadly encounters with both internal and external threats."
+    },
+    "characters": [
+      {
+        "name": "Tina",
+        "role": "Hero",
+        "description": "A newlywed lawyer who must overcome her fear of the water to survive both a ruthless shark and a psychopath."
+      },
+      {
+        "name": "Roy",
+        "role": "Villain",
+        "description": "A vengeful fisherman driven mad by his wife's death who holds the survivors hostage to use as human bait."
+      },
+      {
+        "name": "Tom",
+        "role": "Supporting Character",
+        "description": "Tina's environmentalist husband whose immediate marital friction complicates their fight for survival."
+      },
+      {
+        "name": "Rick",
+        "role": "Comic Relief",
+        "description": "Tom's enthusiastic best man who organizes the disastrous yacht excursion."
+      },
+      {
+        "name": "Sadie",
+        "role": "Supporting Character",
+        "description": "Tina's cynical and unsupportive younger sister who accompanies the wedding party."
+      },
+      {
+        "name": "Britney",
+        "role": "Supporting Character",
+        "description": "A self-absorbed friend attending the Mediterranean excursion with the group."
+      },
+      {
+        "name": "Rachinda",
+        "role": "Supporting Character",
+        "description": "A close friend of the newlyweds who joins the celebratory boat tour."
+      },
+      {
+        "name": "Captain Daniels",
+        "role": "Supporting Character",
+        "description": "The catamaran skipper whose reassuring tour quickly ends when the shark attacks."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Newlywed Husband",
+        "target": "Newlywed Wife",
+        "description": "Husband/Wife (Newlyweds)"
+      },
+      {
+        "source": "Newlywed Couple",
+        "target": "Vacationing Friends",
+        "description": "Friends / Excursion Companions"
+      },
+      {
+        "source": "Psychopathic Killer",
+        "target": "Newlywed Couple & Friends",
+        "description": "Killer / Prey (Infiltrated Friend Group)"
+      },
+      {
+        "source": "The Predatory Shark",
+        "target": "Yacht Passengers",
+        "description": "Predator / Prey (External Threat)"
+      }
+    ],
+    "seo": {
+      "slug": "chum",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/chum](https://movnix.com/movie/chum)",
+        "name": "Chum",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst—transforming a sun-drenched escape into a fight for survival."
+      },
+      "keywords": [
+        "Chum movie",
+        "Chum thriller",
+        "survival horror movie",
+        "Mediterranean yacht thriller",
+        "shark attack movie",
+        "psycho killer movie"
+      ],
+      "canonical": "[https://movnix.com/movie/chum](https://movnix.com/movie/chum)",
+      "metaTitle": "Chum (Movie) - Mediterranean Survival Horror & Thriller",
+      "openGraph": {
+        "og:title": "Chum - Escape the Water. Survive the Crew.",
+        "og:description": "A dream Mediterranean voyage becomes a nightmare when a newlyweds' group is trapped between a man-eating shark and a killer on board."
+      },
+      "twitterCard": {
+        "twitter:title": "Chum - Escape the Water. Survive the Crew.",
+        "twitter:description": "A dream Mediterranean voyage becomes a nightmare when a newlyweds' group is trapped between a man-eating shark and a killer on board."
+      },
+      "metaDescription": "A Mediterranean yacht trip turns deadly when newlyweds face a ruthless shark and a killer on board. Watch Chum—a sun-drenched fight for survival."
+    },
+    "faq": [
+      {
+        "answer": "Chum is a horror-thriller and survival film that blends elements of aquatic creature features with human slasher tropes.",
+        "question": "What is the dominant genre of Chum?"
+      },
+      {
+        "answer": "No, Chum is a standalone horror-thriller and is not part of an established franchise or cinematic universe.",
+        "question": "Is Chum part of an existing film franchise?"
+      },
+      {
+        "answer": "No, there is no mid-credit or post-credit scene in Chum; the story concludes before the main credits roll.",
+        "question": "Is there a post-credit scene in Chum?"
+      },
+      {
+        "answer": "The film stars Alice Eve alongside Eric Michael Cole, Jim Klock, Elle Haymond, Sarah Siadat, Johnny Gaffney, and Lisa Yaro.",
+        "question": "Who stars in the movie Chum?"
+      },
+      {
+        "answer": "Chum was directed by Jonathan Zuck.",
+        "question": "Who directed Chum?"
+      },
+      {
+        "answer": "The story is set during a Mediterranean yacht excursion off the coast of Malta, which served as the primary filming location.",
+        "question": "Where does the story take place and where was it filmed?"
+      },
+      {
+        "answer": "The film follows a newlywed couple and their friends on a luxury boat trip who end up stranded in open waters, forced to survive both a relentless killer shark and a vengeful human killer.",
+        "question": "What is the main premise of Chum?"
+      },
+      {
+        "answer": "No, Chum is an original fictional screenplay written by Dick Grunert, Ryan R. Johnson, and James Kondelik.",
+        "question": "Is Chum based on a true story or a book?"
+      },
+      {
+        "answer": "Chum is unrated (NR) or rated R equivalent due to strong bloody violence, intense horror sequences, gore, and language.",
+        "question": "What is the MPAA rating for Chum?"
+      },
+      {
+        "answer": "Chum is available for streaming on digital platforms and subscription services such as AMC+.",
+        "question": "Where can I watch Chum?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong survival horror elements featuring intense suspense, threat of aquatic predation, and psychological dread from a killer aboard."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity driven by high-stakes survival scenarios and interpersonal panic."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence involving physical attacks, weapon usage, and fatal shark encounters causing severe injury and distress."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate alcohol consumption consistent with a vacation setting prior to the survival struggle."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, though typical swimwear attire is present given the Mediterranean setting."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional strain involving betrayal among friends, immediate life-or-death panic, and psychological manipulation."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 3,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-27 23:49:59.346733",
+    "updated_at": "2026-07-27 23:49:59.346733"
+  }
 }
