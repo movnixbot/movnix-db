@@ -2712,5 +2712,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/680493/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 680493,
+    "hash": "8ce779f10372f14f2646c217738d009421907198f128fa3faed29a6dad8375de",
+    "summary_one_sentence": "Drawn to the shrouded, monster-infested town of Silent Hill by a mysterious letter from his lost love Mary, James Sunderland must face horrifying truths that threaten to shatter his sanity.",
+    "summary_short": "When James receives an unexpected letter from his lost love Mary, he travels to Silent Hill, a once-familiar place now twisted by an encroaching dark nightmare. Searching for answers, he navigates fog-choked streets populated by monstrous creatures reflecting his deepest psychological torment. As the terrifying reality of the town unfolds, James is forced to confront dark secrets that challenge his very understanding of sanity.",
+    "summary_long": "Faced with a mysterious message from Mary, the love of his life who was previously believed to be gone, James Sunderland travels to the misty resort town of Silent Hill in desperate search of her. Upon arriving, he finds the town eerily abandoned, choked by an unnatural fog, and warped into a nightmare world where terrifying creatures stalk the shadows. As James explores familiar landmarks, he encounters strange individuals who are also trapped within the town's haunting, personal torment. Driven by a mix of devotion and grief, he pushes deeper into the unsettling darkness, battling unnatural beasts and surreal atmospheric horrors at every turn. Throughout his journey, the town manipulates his memories, blurring the line between objective reality and psychological delusion. The harrowing environment forces James to confront painful revelations regarding his past relationship with Mary and the events leading to her disappearance. Every horrific revelation chips away at his mental stability, bringing him face-to-face with the monstrous embodiments of his own guilt and grief. Ultimately, James must decide whether to embrace the terrifying truths of Silent Hill or succumb to the madness consuming him.",
+    "synopsis": "Return to Silent Hill follows James Sunderland, a man shattered by grief after losing the love of his life, Mary. When a chilling and seemingly impossible letter arrives signed in Mary's name, inviting him back to the special town they once shared, James is compelled to seek out the truth. He arrives in Silent Hill only to find it transformed into a surreal, fog-bound hellscape inhabited by horrific creatures and shifting dark forces. As James navigates the decay and nightmare atmosphere, he embarks on a terrifying journey through his own psyche, encountering monstrous manifestations that test his courage, love, and sanity.",
+    "keywords": [
+      "psychological horror",
+      "missing person",
+      "lost love",
+      "foggy town",
+      "desolate setting",
+      "grotesque monsters",
+      "descent into madness",
+      "unreliable reality",
+      "guilt-driven protagonist",
+      "dark secrets",
+      "decaying world",
+      "supernatural mystery",
+      "terrifying truth",
+      "dystopian atmosphere"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Grief & Guilt",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Sanity",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Love & Obsession",
+        "confidence": 0.93
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "James reaches the darkest depths of the town and faces the ultimate confrontation, forcing him to reckon with the terrifying truth behind Mary's disappearance and his own psyche.",
+      "conflict": "Upon arrival, James finds Silent Hill transformed into a nightmare world shrouded in fog and darkness, infested with horrific creatures that obstruct his search.",
+      "resolution": "With the hidden truths finally laid bare, James must accept the reality of his journey and face the tragic aftermath of his desperate search.",
+      "introduction": "James receives a mysterious letter from his lost love, Mary, prompting him to travel to their once-cherished town of Silent Hill in hopes of reuniting with her.",
+      "risingAction": "As James ventures deeper into the surreal town, he confronts terrifying monsters, meets strange inhabitants, and uncovers unsettling clues that challenge his perception of reality."
+    },
+    "characters": [
+      {
+        "name": "James Sunderland",
+        "role": "Anti Hero",
+        "description": "The tortured protagonist driven to Silent Hill by a letter from his deceased love, struggling with delusion, guilt, and his own dark past."
+      },
+      {
+        "name": "Mary Crane / Maria",
+        "role": "Hero",
+        "description": "James's lost love who beckons him to the town, as well as her alluring and mysterious doppelgänger encountered within Silent Hill."
+      },
+      {
+        "name": "Pyramid Head",
+        "role": "Villain",
+        "description": "A terrifying, monstrous stalker in Silent Hill that acts as an executioner and physical manifestation of James's guilt."
+      },
+      {
+        "name": "Laura",
+        "role": "Supporting Character",
+        "description": "A young girl wandering Silent Hill who claims to know Mary, guiding and perplexing James along his journey."
+      },
+      {
+        "name": "Eddie Dombrowski",
+        "role": "Comic Relief",
+        "description": "An unstable and erratic survivor James encounters whose bizarre behavior provides dark, unsettling humor."
+      },
+      {
+        "name": "M (Therapist)",
+        "role": "Mentor",
+        "description": "James's psychologist who attempts to ground him in reality and guide him through his severe grief and delusions."
+      },
+      {
+        "name": "Lying Figure / Monsters",
+        "role": "Other",
+        "description": "Grotesque manifestations and creatures populating the dark, nightmare version of Silent Hill."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "James Sunderland",
+        "target": "Mary",
+        "description": "Husband/Wife"
+      }
+    ],
+    "seo": {
+      "slug": "return-to-silent-hill",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/return-to-silent-hill](https://movnix.com/movie/return-to-silent-hill)",
+        "name": "Return to Silent Hill",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity."
+      },
+      "keywords": [
+        "Return to Silent Hill",
+        "Return to Silent Hill movie",
+        "Silent Hill movie",
+        "James Sunderland",
+        "Silent Hill horror movie",
+        "Return to Silent Hill plot",
+        "psychological horror film"
+      ],
+      "canonical": "[https://movnix.com/movie/return-to-silent-hill](https://movnix.com/movie/return-to-silent-hill)",
+      "metaTitle": "Return to Silent Hill (2026) - Official Movie Overview & News",
+      "openGraph": {
+        "og:title": "Return to Silent Hill - Official Overview",
+        "og:description": "When James receives a mysterious letter from his lost love Mary, he is drawn back to a dark and terrifying Silent Hill."
+      },
+      "twitterCard": {
+        "twitter:title": "Return to Silent Hill - Official Overview",
+        "twitter:description": "When James receives a mysterious letter from his lost love Mary, he is drawn back to a dark and terrifying Silent Hill."
+      },
+      "metaDescription": "Driven by a mysterious letter from Mary, James returns to Silent Hill, facing horrific monsters and a terrifying truth. Read the full plot overview."
+    },
+    "faq": [
+      {
+        "answer": "Yes, 'Return to Silent Hill' is part of the Silent Hill film franchise. It is the third feature film adaptation based on Konami's iconic video game series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no bonus or post-credits scene after the credits finish rolling.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is supernatural psychological horror and mystery.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "The movie is a direct adaptation based on the plot and characters of the 2001 survival horror video game 'Silent Hill 2' by Konami.",
+        "question": "What source material is Return to Silent Hill based on?"
+      },
+      {
+        "answer": "James Sunderland is portrayed by British actor Jeremy Irvine.",
+        "question": "Who plays the main character, James?"
+      },
+      {
+        "answer": "The film was directed by Christophe Gans, who also directed the original 2006 'Silent Hill' movie.",
+        "question": "Who directed Return to Silent Hill?"
+      },
+      {
+        "answer": "The film follows James Sunderland as he travels to the mysterious fog-laden town of Silent Hill after receiving a letter from his lost love, Mary. Once there, he faces terrifying monsters and uncovers harrowing truths that challenge his sanity.",
+        "question": "What is the main storyline of Return to Silent Hill?"
+      },
+      {
+        "answer": "No, it acts as a standalone reboot and independent story adaptation focused on the events of 'Silent Hill 2', rather than a direct narrative continuation of 'Silent Hill: Revelation'.",
+        "question": "Is Return to Silent Hill a direct sequel to the earlier films?"
+      },
+      {
+        "answer": "The musical score was composed by Akira Yamaoka, the original composer behind the iconic Silent Hill video game series soundtracks.",
+        "question": "Who composed the soundtrack for the film?"
+      },
+      {
+        "answer": "The film is rated R for strong bloody violence, disturbing content, graphic terror, and language.",
+        "question": "What is the MPAA rating for Return to Silent Hill?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 9,
+        "description": "Pervasive psychological horror, unsettling atmosphere, terrifying creature designs, and intense suspense."
+      },
+      "language": {
+        "score": 5,
+        "description": "Occasional strong profanity used in high-stress situations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic monster violence, violent encounters, and bloody physical injury."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor references to alcohol and medication."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild suggestive themes and implicit sexual undertones tied to creature designs and story themes."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Disturbing themes of tragic loss, grief, psychological despair, and loss of sanity."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 4,
+      "mystery": 9,
+      "romance": 6,
+      "science": 1,
+      "suspense": 10,
+      "violence": 8
+    },
+    "created_at": "2026-07-29 17:02:25.335287",
+    "updated_at": "2026-07-29 17:02:25.335287"
+  }
 }
