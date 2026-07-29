@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.6829,
-    "voteAverage": 7.294,
-    "voteCount": 194,
+    "popularity": 6.1991,
+    "voteAverage": 7.291,
+    "voteCount": 196,
     "homepage": "https://mock-movie-website.com/movies/1295400",
     "posterPath": "/iJIqxRnoFvPAAljIqzOJaztgFPd.jpg",
     "backdropPath": "/zo1SfeASCrbHFaXJN9y1RW7uU2m.jpg",
@@ -590,8 +590,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.294,
-      "votesCount": 194
+      "ratingValue": 7.291,
+      "votesCount": 196
     },
     {
       "source": "imdb",
@@ -887,5 +887,199 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1295400/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1295400,
+    "hash": "f331ed17a748baa7fb44b63502973309700e82b5f9bf8e7be90a06f0c0c25427",
+    "summary_one_sentence": "Fresh out of a fourteen-year prison sentence, a former bank robber embarks on an erratic journey to retrieve his stolen loot from his neurodivergent brother, who now believes he is John Lennon and cannot recall where he buried the money.",
+    "summary_short": "After serving fourteen years in prison for armed robbery, Anker is released and seeks to retrieve 41 million kroner hidden before his arrest. The money was buried by his brother, Manfred, who has since developed dissociative identity disorder, claims to be John Lennon, and cannot remember the location of the stash. Joined by a quirky cast of characters and pursued by a violent former accomplice, the brothers travel to their childhood home to search for the buried fortune. Along the way, their chaotic quest forces both men to uncover painful family secrets, confront past trauma, and discover their true identities.",
+    "summary_long": "Upon his release from a fourteen-year prison sentence for a bank robbery, Anker sets out to collect his hidden fortune of 41 million kroner. Before his arrest, he entrusted the key and the job of burying the cash to his brother Manfred, but upon reuniting, Anker discovers Manfred now lives with dissociative identity disorder, insists on being called John Lennon, and has forgotten where the money is buried. Determined to recover the loot—especially as his dangerous former heist partner Flemming demands his share—Anker takes Manfred on a road trip back to their family's former forest home, which has since been turned into an Airbnb run by an eccentric couple. The journey grows increasingly absurd when an unconventional psychiatric patient named Lothar organizes a Beatles tribute band consisting of other psychiatric patients to help Manfred play out his delusion and regain his memories. As the group digs around the property, they unearth a series of long-buried items instead of the money, triggering repressed memories of childhood abuse at the hands of the brothers' late father. Violent encounters with Flemming further heighten the stakes, forcing Anker to defend his family while facing the truth behind his father's mysterious disappearance years ago. Ultimately, digging through the dirt yields a profound psychological awakening rather than mere financial wealth, compelling Anker to stop denying his own flaws and reconcile with his brother.",
+    "synopsis": "The Last Viking is a darkly comedic, offbeat Danish crime drama following Anker, a short-tempered bank robber released after serving a fourteen-year prison term. Before going to prison, Anker tasked his brother Manfred with hiding the multi-million-kroner heist payout. However, in the intervening years, Manfred has developed dissociative identity disorder, lost all memory of the hidden cash, and strictly identifies as Beatle icon John Lennon. Faced with an urgent threat from a former accomplice seeking his cut, Anker embarks on a journey with Manfred back to their childhood home in hopes of triggering his brother's memory. Framed around themes of trauma, family legacy, and self-discovery, the film balances dark humor and grim crime tropes with a touching story of fraternal reconciliation.",
+    "keywords": [
+      "ex-convict",
+      "estranged brothers",
+      "hidden loot",
+      "memory loss",
+      "road trip",
+      "black comedy",
+      "brotherhood",
+      "stolen money",
+      "family reunion",
+      "self-discovery",
+      "heist aftermath",
+      "mental illness",
+      "dark comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Brotherhood and Family Bonds",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity and Self-Discovery",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Memory and Mental Health",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Redemption and Past Mistakes",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "A major breakthrough or confrontation occurs where fragments of Manfred's memory resurface, forcing both brothers to face hard truths about their relationship and the reality of the money.",
+      "conflict": "Manfred is the only person who knows where the stolen money is buried, but due to his mental illness, he has forgotten the location, leaving the brothers with no clear path to the treasure.",
+      "resolution": "The journey reaches its end as Anker and Manfred come to terms with who they are, finding a new sense of identity and purpose beyond the long-lost loot.",
+      "introduction": "Anker is released from prison after fourteen years for a robbery, seeking to reclaim the hidden loot and rebuild his life alongside his mentally fragile brother, Manfred.",
+      "risingAction": "The brothers embark on a road trip across familiar and unfamiliar places, attempting to trigger Manfred's memory while navigating his unpredictable mental state, growing tension, and personal baggage from their past."
+    },
+    "characters": [
+      {
+        "name": "Anker",
+        "role": "Anti Hero",
+        "description": "A former convict recently released from prison who seeks to recover stolen loot with his brother while confronting his past and identity."
+      },
+      {
+        "name": "Manfred",
+        "role": "Supporting Character",
+        "description": "Anker's mentally ill brother who holds the key to the missing money but has forgotten where it is hidden, driving their journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anker",
+        "target": "Manfred",
+        "description": "Brothers, Former Accomplices"
+      }
+    ],
+    "seo": {
+      "slug": "the-last-viking",
+      "jsonLd": {
+        "name": "The Last Viking",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After serving fourteen years for robbery, Anker is released from prison and reunites with his mentally ill brother Manfred, who alone knows where the stolen money is hidden but has forgotten its location, sending them on a journey to recover the loot and confront who they are."
+      },
+      "keywords": [
+        "The Last Viking",
+        "The Last Viking movie",
+        "The Last Viking synopsis",
+        "The Last Viking plot",
+        "Anker and Manfred"
+      ],
+      "canonical": "[https://movnix.com/movie/the-last-viking](https://movnix.com/movie/the-last-viking)",
+      "metaTitle": "The Last Viking - Synopsis, Plot & Movie Details",
+      "openGraph": {
+        "og:title": "The Last Viking - Synopsis & Movie Details",
+        "og:description": "After 14 years in prison, Anker teams up with his brother Manfred to find hidden loot while confronting who they truly are."
+      },
+      "twitterCard": {
+        "twitter:title": "The Last Viking - Movie Overview",
+        "twitter:description": "Follow Anker and Manfred on a quest to recover hidden robbery money and confront their past."
+      },
+      "metaDescription": "Released after 14 years, Anker reunites with his brother Manfred to find hidden robbery loot on a deeply personal journey of discovery."
+    },
+    "faq": [
+      {
+        "answer": "No, \"The Last Viking\" is an original standalone film written and directed by Anders Thomas Jensen, not part of any existing film series or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene at the end of the film.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The movie is primarily a dark comedy crime drama, balancing humorous situations with deeper emotional themes.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "The film stars Nikolaj Lie Kaas as Anker and Mads Mikkelsen as his brother Manfred, alongside Sofie Gråbøl, Lars Brygmann, Bodil Jørgensen, and Søren Malling.",
+        "question": "Who stars in \"The Last Viking\"?"
+      },
+      {
+        "answer": "The film was written and directed by acclaimed Danish filmmaker Anders Thomas Jensen, known for work such as \"Riders of Justice\" and \"Adam's Apples\".",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The primary language of \"The Last Viking\" is Danish, with supplementary dialogue in Swedish.",
+        "question": "What language is the movie in?"
+      },
+      {
+        "answer": "The story follows Anker upon his release from prison after serving time for a robbery. He needs to retrieve the hidden heist money, but his brother Manfred, who buried it, has suffered a mental breakdown and forgotten where it is hidden.",
+        "question": "What is the primary plot of the movie?"
+      },
+      {
+        "answer": "No, \"The Last Viking\" is a completely fictional story created and written directly for the screen by Anders Thomas Jensen.",
+        "question": "Is \"The Last Viking\" based on a true story or book?"
+      },
+      {
+        "answer": "The film is an international co-production from Denmark and Sweden, produced by Zentropa Entertainments.",
+        "question": "Which countries produced the film?"
+      },
+      {
+        "answer": "No, the film includes mature content, violent beats, dark comedic themes, and strong language, intended primarily for adult viewers.",
+        "question": "Is \"The Last Viking\" suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, with mild psychological tension stemming from memory loss and criminal history."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language typical of crime drama narratives."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Themes involving armed robbery, prison time, and potential physical conflict during the recovery of stolen money."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild potential references to substance use associated with prison and crime culture."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content depicted or referenced in the summary."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity involving mental illness, familial conflict, and personal identity."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 0,
+      "suspense": 7,
+      "violence": 4
+    },
+    "created_at": "2026-07-27 23:49:59.028951",
+    "updated_at": "2026-07-27 23:49:59.028951"
+  }
 }
