@@ -2,19 +2,19 @@
   "tvShow": {
     "tmdbId": 325022,
     "imdbId": "tt43351182",
-    "name": "GTO",
+    "name": "GTO (2026)",
     "originalName": "GTO",
     "overview": "Maverick teacher Eikichi Onizuka takes on a new role at the elite Seishin Academy, where he struggles to connect with students locked to their screens.",
     "firstAirDate": "2026-07-20",
-    "lastAirDate": "2026-07-20",
+    "lastAirDate": "2026-07-27",
     "status": "Returning Series",
-    "popularity": 5.731,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 9.3342,
+    "voteAverage": 7,
+    "voteCount": 1,
     "type": "Scripted",
     "posterPath": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
     "backdropPath": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg",
-    "certification": "15"
+    "certification": "TV-14"
   },
   "seasons": [
     {
@@ -27,12 +27,43 @@
           "episode_type": "standard",
           "id": 7367999,
           "name": "Episode 1",
-          "overview": "",
+          "overview": "Onizuka lands an unexpected teaching job at a private academy, where he must navigate disinterested staff and students obsessed with social media.",
           "production_code": "",
           "runtime": 56,
           "season_number": 1,
           "show_id": 325022,
           "still_path": "/awVNXfmbLkGq3cHFQkICXTEfYsl.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a64dcc30eca1b6716bac312",
+              "adult": false,
+              "gender": 2,
+              "id": 1759228,
+              "known_for_department": "Directing",
+              "name": "Satoru Nakajima",
+              "original_name": "中島悟",
+              "popularity": 0.7301,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-27",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7578697,
+          "name": "Episode 2",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 325022,
+          "still_path": "/ssLTMHd4VpUxK28S9folfHnFhXx.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -73,6 +104,12 @@
       "name": "Kansai Television",
       "logoPath": "/bXc1vp0lER6PDHtsVe12pSPwNkv.png",
       "originCountry": "JP"
+    },
+    {
+      "tmdbId": 118986,
+      "name": "Media Pulpo",
+      "logoPath": "/pBaZ2OSWsuI6ujQlmogawsBz38q.png",
+      "originCountry": "JP"
     }
   ],
   "keywords": [],
@@ -91,13 +128,6 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
-    },
-    {
-      "filePath": "/jdB7KYkZg56rOjPw1wpIlukU8a.jpg",
-      "width": 900,
-      "height": 1350,
-      "aspectRatio": 0.667,
-      "type": "poster"
     },
     {
       "filePath": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
@@ -121,7 +151,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 58050,
@@ -257,6 +293,33 @@
       "job": "Actor",
       "department": "Acting",
       "order": 14
+    },
+    {
+      "tmdbPersonId": 5664491,
+      "name": "Nagatomi Kotaro",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4708119,
+      "name": "伊藤茜",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3125796,
+      "name": "Kazuhisa Ando",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
     }
   ],
   "alternativeTitles": [
@@ -275,11 +338,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
