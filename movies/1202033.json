@@ -1166,5 +1166,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1202033/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1202033,
+    "hash": "f674a5ccedee10b7819f27228a6a9c75b7f68805bb79d95f5b9978889c3825c5",
+    "summary_one_sentence": "When Sherlock Holmes mysteriously vanishes on the eve of her wedding in Malta, intrepid young detective Enola Holmes must put her nuptials on hold to untangle a deadly conspiracy involving stolen imperial gold and her ultimate nemesis.",
+    "summary_short": "In Malta for her upcoming wedding to Lord Tewkesbury, Enola Holmes's life is turned upside down on her big day when Sherlock mysteriously disappears. Partnering with Dr. Watson, Enola leaves the altar behind to track a trail of cryptic clues scattered across the island. Her investigation uncovers an escaped Professor Moriarty and a hidden imperial conspiracy dating back decades. To save her family and resolve her own doubts about marriage, Enola must outsmart her ultimate nemesis before time runs out.",
+    "summary_long": "Enola Holmes and Lord Tewkesbury arrive in sun-drenched Malta to prepare for their upcoming wedding, though Enola remains conflicted about sacrificing her independence. Moments before the ceremony, Dr. John Watson brings shocking news that Sherlock Holmes has been kidnapped. Leaving Tewkesbury at the altar, Enola investigates Sherlock's hotel room and discovers a scrap of lace alongside the word 'Khost' written in Morse code. The investigation soon escalates when Tewkesbury's mother is also abducted and an underlying imperial cover-up regarding stolen Afghan gold comes to light. Enola learns that her longtime foe, Professor Moriarty, has escaped custody and engineered the entire plot under the alias Professor Adeline Rathe. Moriarty deliberately used Sherlock as bait to force Enola into locating the long-buried treasure hidden along the Maltese coast. Joining forces with Watson, Maltese freedom fighters, and eventually Tewkesbury himself, Enola sets a clever trap to corner Moriarty. After exposing corrupt military officials and retrieving the stolen fortune, Enola ensures the gold is restored to its rightful home. With the mystery solved, Enola and Tewkesbury finally wed, with Enola retaining both her independent career and her true identity.",
+    "synopsis": "Set against the dramatic backdrop of Malta, Enola Holmes 3 follows the adventurous young detective as she prepares to marry her beloved Lord Tewkesbury. However, her plans for a quiet wedding collapse when Dr. Watson arrives with alarming news: Sherlock Holmes has been abducted. Forced to put her personal life on hold, Enola dives into a treacherous investigation filled with coded messages, military secrets, and returning adversaries. As she navigates high-stakes intrigue across the island, Enola must draw on all her wits to save her brother and confront a sinister mastermind without losing herself in the process.",
+    "keywords": [
+      "female detective",
+      "missing person investigation",
+      "brother and sister",
+      "malta",
+      "pre-wedding jeopardy",
+      "historical mystery",
+      "victorian era",
+      "sleuth",
+      "family rescue",
+      "mediterranean setting",
+      "crime solving",
+      "period drama",
+      "action adventure"
+    ],
+    "themes": [
+      {
+        "theme": "Family Loyalty",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Independence",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Duty vs. Personal Life",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Enola faces a high-stakes confrontation against the masterminds of the plot, placing her life and sharp intellect on the line to rescue Sherlock and unmask the truth.",
+      "conflict": "Her plans for a peaceful future are suddenly derailed when her brother, Sherlock, vanishes without a trace, forcing her to launch an immediate investigation.",
+      "resolution": "With the mystery solved and the threat neutralized, Enola reaffirms her autonomy as a master detective while redefining her path forward in love and life.",
+      "introduction": "Enola Holmes arrives in Malta, balancing her growing reputation as an independent detective with the personal preparations for her upcoming wedding.",
+      "risingAction": "Enola navigates the unfamiliar and treacherous landscape of Malta, untangling a complex web of clues, dangerous secrets, and hidden motives behind Sherlock's disappearance."
+    },
+    "characters": [
+      {
+        "name": "Enola Holmes",
+        "role": "Hero",
+        "description": "A clever, independent young detective who sets aside her wedding plans in Malta to rescue her brother and solve a high-stakes conspiracy."
+      },
+      {
+        "name": "Moriarty",
+        "role": "Villain",
+        "description": "A brilliant and ruthless criminal mastermind operating under the alias Professor Adeline Rathe to manipulate Enola into solving a puzzle."
+      },
+      {
+        "name": "Sherlock Holmes",
+        "role": "Mentor",
+        "description": "Enola's famous detective brother who guides her through coded clues after he is kidnapped while investigating a secret case."
+      },
+      {
+        "name": "Eudoria Holmes",
+        "role": "Mentor",
+        "description": "Enola's radical and fiercely free-spirited mother who provides wisdom, tactical support, and unconventional maternal guidance."
+      },
+      {
+        "name": "Lord Tewkesbury",
+        "role": "Supporting Character",
+        "description": "Enola's devoted fiancé who stands by her side during the investigation and aids in her escape with the looted treasure."
+      },
+      {
+        "name": "Dr. John Watson",
+        "role": "Comic Relief",
+        "description": "Sherlock's newly met associate who provides humorous moments, frantic assistance, and bumbling companionship on Enola's quest."
+      },
+      {
+        "name": "Lady Tewkesbury",
+        "role": "Supporting Character",
+        "description": "Tewkesbury's mother whose sudden disappearance in Malta ties directly into Moriarty's intricate revenge scheme."
+      },
+      {
+        "name": "Edith",
+        "role": "Mentor",
+        "description": "A martial arts expert and confidante to Eudoria who offers practical wisdom and physical defense training."
+      },
+      {
+        "name": "Mikiel Mizzi",
+        "role": "Supporting Character",
+        "description": "A Maltese freedom fighter who allies with Enola to uncover British military corruption and fight for local independence."
+      },
+      {
+        "name": "Sergeant Nicholas Smith",
+        "role": "Other",
+        "description": "A local law enforcement officer involved in maintaining order amidst the chaos surrounding the central mystery."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Enola Holmes",
+        "target": "Sherlock Holmes",
+        "description": "Siblings / Fellow Detectives"
+      },
+      {
+        "source": "Enola Holmes",
+        "target": "Viscount Tewkesbury",
+        "description": "Fiancé / Betrothed"
+      },
+      {
+        "source": "Enola Holmes",
+        "target": "Moriarty",
+        "description": "Nemeses / Enemies"
+      },
+      {
+        "source": "Sherlock Holmes",
+        "target": "Moriarty",
+        "description": "Arch-enemies"
+      }
+    ],
+    "seo": {
+      "slug": "enola-holmes-3",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/enola-holmes-3](https://movnix.com/movie/enola-holmes-3)",
+        "name": "Enola Holmes 3",
+        "@type": "Movie",
+        "genre": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case."
+      },
+      "keywords": [
+        "Enola Holmes 3",
+        "Enola Holmes 3 plot",
+        "Sherlock Holmes disappearance",
+        "Enola Holmes Malta",
+        "Enola Holmes 3 movie"
+      ],
+      "canonical": "[https://movnix.com/movie/enola-holmes-3](https://movnix.com/movie/enola-holmes-3)",
+      "metaTitle": "Enola Holmes 3 - Plot, Synopsis & News",
+      "openGraph": {
+        "og:title": "Enola Holmes 3 - Mystery & Adventure in Malta",
+        "og:description": "Enola Holmes heads to Malta, where Sherlock's sudden disappearance plunges her into a perilous new case."
+      },
+      "twitterCard": {
+        "twitter:title": "Enola Holmes 3 - Official Movie Overview",
+        "twitter:description": "Enola Holmes heads to Malta, where Sherlock's sudden disappearance plunges her into a perilous new case."
+      },
+      "metaDescription": "Detective Enola Holmes' wedding plans unravel in Malta when Sherlock suddenly disappears, plunging her into a perilous new mystery."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Enola Holmes 3 is the third installment in Netflix's Enola Holmes film franchise, following Enola Holmes (2020) and Enola Holmes 2 (2022).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are mystery, action-adventure, and period comedy-drama.",
+        "question": "What is the dominant genre of Enola Holmes 3?"
+      },
+      {
+        "answer": "While traveling to Malta to marry Lord Tewkesbury, Enola's wedding plans are disrupted when her brother Sherlock mysteriously vanishes, pulling her into a dangerous international conspiracy.",
+        "question": "What is the plot of Enola Holmes 3?"
+      },
+      {
+        "answer": "While starting in London, the main setting of the movie shifts to the Mediterranean island of Malta.",
+        "question": "Where does Enola Holmes 3 take place?"
+      },
+      {
+        "answer": "Millie Bobby Brown returns as Enola Holmes, alongside Henry Cavill as Sherlock Holmes, Louis Partridge as Viscount Tewkesbury, Himesh Patel as Dr. John Watson, Sharon Duncan-Brewster as Moriarty, and Helena Bonham Carter as Eudoria Holmes.",
+        "question": "Who stars in Enola Holmes 3?"
+      },
+      {
+        "answer": "The characters are based on Nancy Springer's book series 'The Enola Holmes Mysteries', but the plot of Enola Holmes 3 is an original storyline written by Jack Thorne.",
+        "question": "Is Enola Holmes 3 based on a specific book?"
+      },
+      {
+        "answer": "Yes, continuing the franchise's signature style, Enola frequently breaks the fourth wall to address and interact directly with the audience.",
+        "question": "Does Enola Holmes break the fourth wall in this film?"
+      },
+      {
+        "answer": "The film was directed by Philip Barantini, taking over directorial duties for the franchise from Harry Bradbeer.",
+        "question": "Who directed Enola Holmes 3?"
+      },
+      {
+        "answer": "Yes, there is a mid-credit sequence that teases the future direction of Sherlock Holmes and Moriarty's ongoing conflict.",
+        "question": "Is there a post-credit scene in Enola Holmes 3?"
+      },
+      {
+        "answer": "Enola Holmes 3 is available to stream globally exclusively on Netflix.",
+        "question": "Where can I watch Enola Holmes 3?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild suspense surrounding abductions and tense mystery elements, but no graphic horror or severe scares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity and period-typical expressions."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate action violence including hand-to-hand combat, gunshots, arson, and high-speed chases without graphic gore."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional social drinking of wine during dinners and period social settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic kissing, embracing between betrothed characters, and brief swimming scenes in full period undergarments."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional stakes involving Sherlock's disappearance, high-stakes political intrigue, and life-threatening situations."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 6,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 5,
+      "science": 2,
+      "suspense": 8,
+      "violence": 4
+    },
+    "created_at": "2026-07-28 23:08:08.51985",
+    "updated_at": "2026-07-28 23:08:08.51985"
+  }
 }
