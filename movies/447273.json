@@ -4065,5 +4065,246 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/447273/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 447273,
+    "hash": "c4b78d6be1cc1fe96134d04089d52871ef0f54c63898fd06b90395b6c5c216ee",
+    "summary_one_sentence": "When an evil queen threatens her life out of jealousy, Princess Snow White unites with seven magical dwarves and a charming bandit to reclaim her stolen kingdom.",
+    "summary_short": "After the mysterious disappearance of the benevolent King, the Evil Queen takes control of the land with a cruel and despotic rule. Consumed by jealousy over Snow White's inner beauty, the Queen attempts to assassinate the young princess, forcing her to flee deep into the dark woods. There, Snow White discovers refuge with seven magical dwarves and a brave bandit named Jonathan. Together, this unlikely group prepares to survive the Queen's tyrannical pursuit and fight to restore peace to their home.",
+    "summary_long": "Following the mysterious disappearance of the land's benevolent King, his kingdom falls under the tyrannical rule of the Evil Queen. Driven by intense jealousy over Princess Snow White's pure heart and inner beauty, the Queen marks the young royal for death. Narrowly escaping the castle, Snow White vanishes into the depths of a dark, dangerous forest to survive. Deep within the woods, she encounters a humble cottage inhabited by seven magical dwarves who offer her shelter and protection. Shortly after, she meets Jonathan, a resourceful young bandit who shares her desire to liberate the oppressed land. As news of Snow White's survival reaches the castle, the Queen unleashes her full might and dark magic to hunt down the princess. Enduring relentless pursuits and formidable perils, Snow White learns to embrace her own strength and leadership alongside her newfound allies. Together, the dwarves, Jonathan, and Snow White rally their courage to mount a final stand against the dark forces ruling the kingdom. Ultimately, their shared resilience and hope spark a movement to reclaim the throne and restore harmony to the realm.",
+    "synopsis": "Set in a once-flourishing kingdom now shadowed by tyranny, this fantasy drama follows Princess Snow White during a time of great peril. After her father, the benevolent King, inexplicably vanishes, the kingdom is seized by the Evil Queen, whose cruel reign spreads fear throughout the land. As Snow White grows into a young woman whose inner beauty and grace inspire hope, the Queen's envy turns murderous, prompting an attempt on the princess's life. Forced to abandon her home, Snow White journeys into an enchanted and perilous forest where she finds refuge with seven magical dwarves. Her journey takes an adventurous turn when she crosses paths with Jonathan, a bold young bandit who becomes an essential ally in her struggle. Facing the Queen's relentless hunt and dangerous magical threats, Snow White must transform from a hunted fugitive into a courageous leader capable of uniting her allies and taking back the kingdom.",
+    "keywords": [
+      "evil queen",
+      "jealous stepmother",
+      "princess on the run",
+      "dark forest",
+      "magical dwarves",
+      "bandit companion",
+      "rebellion",
+      "taking back the kingdom",
+      "inner beauty",
+      "royal exile",
+      "relentless pursuit",
+      "tyrannical rule",
+      "fairy tale reimagining",
+      "survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Rebellion and Justice",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Jealousy and Tyranny",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Found Family and Alliance",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "Snow White and her allies confront the Evil Queen in a decisive battle for the throne, risking everything to end her tyrannical rule.",
+      "conflict": "Driven by jealousy over Snow White's inner beauty, the Evil Queen attempts to assassinate her, forcing the princess to flee for her life into the dark woods.",
+      "resolution": "With the tyranny vanquished, peace and harmony return to the kingdom, allowing Snow White to help lead her land toward a brighter future alongside her companions.",
+      "introduction": "Princess Snow White lives under the oppressive rule of the Evil Queen, who took control of the kingdom following the mysterious disappearance of the benevolent King.",
+      "risingAction": "Snow White joins forces with seven magical dwarves and a resourceful bandit named Jonathan, banding together to evade the Queen's relentless hunt and rally resistance to take back the realm."
+    },
+    "characters": [
+      {
+        "name": "Princess Snow White",
+        "role": "Hero",
+        "description": "A kind and compassionate princess whose inner strength, courage, and pure heart inspire those around her as she fights to reclaim her kingdom."
+      },
+      {
+        "name": "The Evil Queen",
+        "role": "Villain",
+        "description": "A ruthless and jealous ruler who dominates the land with cruelty and relentlessly pursues Snow White to destroy her."
+      },
+      {
+        "name": "Jonathan",
+        "role": "Anti Hero",
+        "description": "A cynical young bandit leader who fends for his people through thievery, later joining Snow White's cause to overthrow the Queen."
+      },
+      {
+        "name": "The Seven Dwarves",
+        "role": "Comic Relief",
+        "description": "A group of magical companions living deep in the woods who offer refuge, levity, and aid to Snow White in her quest."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Snow White",
+        "target": "Evil Queen",
+        "description": "Enemies / Step-monarch and Princess"
+      },
+      {
+        "source": "Snow White",
+        "target": "Seven Dwarves",
+        "description": "Allies / Protectors"
+      },
+      {
+        "source": "Snow White",
+        "target": "Jonathan",
+        "description": "Allies / Love Interest"
+      },
+      {
+        "source": "Snow White",
+        "target": "Benevolent King",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "Evil Queen",
+        "target": "Benevolent King",
+        "description": "Ruler and Predecessor / Husband and Wife"
+      },
+      {
+        "source": "Jonathan",
+        "target": "Seven Dwarves",
+        "description": "Allies"
+      },
+      {
+        "source": "Jonathan",
+        "target": "Evil Queen",
+        "description": "Enemies"
+      },
+      {
+        "source": "Seven Dwarves",
+        "target": "Evil Queen",
+        "description": "Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "snow-white",
+      "jsonLd": {
+        "name": "Snow White",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom."
+      },
+      "keywords": [
+        "Snow White",
+        "Snow White movie",
+        "Evil Queen",
+        "Seven Dwarves",
+        "Snow White plot",
+        "fantasy adventure film"
+      ],
+      "canonical": "[https://movnix.com/movie/snow-white](https://movnix.com/movie/snow-white)",
+      "metaTitle": "Snow White - Movie Overview, Plot & Cast Details",
+      "openGraph": {
+        "og:title": "Snow White - Official Movie Overview",
+        "og:description": "Join Princess Snow White, seven magical dwarves, and the bandit Jonathan as they fight to reclaim the kingdom from the Evil Queen."
+      },
+      "twitterCard": {
+        "twitter:title": "Snow White - Official Movie Overview",
+        "twitter:description": "Join Princess Snow White, seven magical dwarves, and the bandit Jonathan as they fight to reclaim the kingdom from the Evil Queen."
+      },
+      "metaDescription": "Snow White escapes the Evil Queen's wrath, finding refuge with seven magical dwarves and a bandit named Jonathan to reclaim her kingdom. Read more."
+    },
+    "faq": [
+      {
+        "answer": "The film's primary genres are musical fantasy, adventure, and drama, combining classic fairy-tale elements with action and musical performances.",
+        "question": "What is the dominant genre of this film?"
+      },
+      {
+        "answer": "Yes, it is part of Disney's line of live-action reimagining projects that adapt classic animated Disney feature films into live-action cinema.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the story concludes before the credits, and there is no extra post-credits sequence or stinger at the end of the film.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "No, unlike the prince in the 1937 animated original, Jonathan is reimagined as a young, rogue bandit and rebel leader who steals to help the kingdom's impoverished citizens.",
+        "question": "Is Jonathan a prince in this adaptation?"
+      },
+      {
+        "answer": "Driven by jealousy, the Evil Queen targets Snow White after her Magic Mirror reveals that Snow White's inner beauty, kindness, and moral courage make her the true 'fairest of them all'.",
+        "question": "Why does the Evil Queen try to kill Snow White?"
+      },
+      {
+        "answer": "When the Evil Queen dispatches her Huntsman to murder Snow White, the Huntsman cannot bring himself to carry out the deed and instead urges the princess to flee deep into the forest.",
+        "question": "How does Snow White escape into the dark woods?"
+      },
+      {
+        "answer": "Snow White forms an alliance with seven magical dwarves living in a secluded forest cottage, as well as Jonathan and his team of rebellious bandits.",
+        "question": "Who allies with Snow White during her journey?"
+      },
+      {
+        "answer": "Yes, rather than acting as a passive damsel in distress, Snow White actively rallies her allies, inspires the subjects of the realm, and directly confronts the Evil Queen to restore peace.",
+        "question": "Does Snow White play an active role in taking back the kingdom?"
+      },
+      {
+        "answer": "No, while it maintains iconic iconic elements like the poison apple, magic mirror, and seven dwarves, it expands the backstory, introduces new dynamic characters, updates character motivations, and adds new musical numbers.",
+        "question": "Is this film a direct beat-for-beat remake of the 1937 animated movie?"
+      },
+      {
+        "answer": "Yes, it is aimed at general family audiences, featuring musical sequences and uplifting themes, though parents should note mild action sequences and dark fantasy magic related to the Evil Queen.",
+        "question": "Is the movie suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild tense atmospheric elements with dark woods and a cruel antagonist."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language present in the synopsis."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mild to moderate violence including assassination attempts, pursuit, and fantasy action conflict."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate thematic elements involving peril, jealousy, and fleeing danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 6,
+      "comedy": 3,
+      "emotion": 7,
+      "fantasy": 9,
+      "mystery": 4,
+      "romance": 5,
+      "science": 0,
+      "suspense": 6,
+      "violence": 4
+    },
+    "created_at": "2026-07-29 22:01:54.592964",
+    "updated_at": "2026-07-29 22:01:54.592964"
+  }
 }
