@@ -263,5 +263,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1518403/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1518403,
+    "hash": "e08f435d250e8997b2f8e6be7311d992f1dd5488d79432f55460bea1fd350fbc",
+    "summary_one_sentence": "Grieving the loss of his father, 12-year-old Jacob moves to Fernfield, where a forgotten VHS tape and a bond with a neglected, basketball-playing golden retriever help him heal and rediscover his passion for the game.",
+    "summary_short": "After losing his father, 12-year-old Jacob relocates with his mother to his late dad’s childhood home in Fernfield. While exploring, Jacob finds a VHS tape showing his father playing basketball alongside a legendary hoop-shooting golden retriever. Inspired by this discovery, Jacob forms a bond with a local, neglected golden retriever he names Buddy. Together, they embark on a heart-wrenching and inspiring journey on and off the court.",
+    "summary_long": "Twelve-year-old Jacob is struggling to cope with the sudden loss of his father, an avid basketball fan who deeply inspired his young son. Seeking a fresh start, Jacob and his mother move into his dad's childhood home located in the small town of Fernfield. While sorting through his late father's old possessions, Jacob uncovers a forgotten VHS tape depicting his dad playing basketball alongside a miraculous golden retriever. Struck by this magical piece of family history, Jacob begins visiting the same community court depicted in the footage. There, he encounters a neglected local golden retriever who displays an uncanny affinity for basketball. Jacob takes the dog in, naming him Buddy in honor of the original legend, and the pair quickly develop an inseparable connection. As Jacob practices for the local basketball team, Buddy becomes his ultimate teammate and emotional anchor. Together, they navigate the ups and downs of competitive play while helping Jacob's family honor his father's legacy.",
+    "synopsis": "Air Bud Returns follows 12-year-old Jacob, an aspiring basketball player grappling with deep grief after the passing of his father. Moving to his dad's hometown of Fernfield, Jacob feels disconnected until a hidden VHS tape unveils a magical chapter of his father's past—playing basketball alongside a golden retriever. Driven by curiosity and a desire to connect with his dad's memory, Jacob stumbles upon a lonely, neglected golden retriever in town. Naming the dog Buddy, Jacob discovers the canine possesses extraordinary athletic talent. As Jacob attempts to find his footing on the court and adapt to his new life, his blossoming friendship with Buddy helps him process his grief, rebuild his confidence, and embrace the power of family, sportsmanship, and healing.",
+    "keywords": [
+      "golden retriever",
+      "boy and his dog",
+      "grief and loss",
+      "father-son bond",
+      "basketball",
+      "small town",
+      "childhood memory",
+      "neglected animal",
+      "fresh start",
+      "VHS tape",
+      "coming of age",
+      "sports drama",
+      "family legacy",
+      "moving to a new town"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Companionship",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Healing and Resilience",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Uplifting",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "During a crucial, high-stakes game, Jacob and his team face a formidable opponent while unexpected obstacles threaten to prevent Buddy from helping them when they need it most.",
+      "conflict": "Struggling to cope with his grief and fit into a new town, Jacob finds a neglected golden retriever named Buddy and forms a bond, while facing local challenges and personal doubts about his basketball abilities.",
+      "resolution": "Jacob embraces his father's legacy, discovers his own strength both on and off the court, and secures a loving, permanent home for Buddy.",
+      "introduction": "12-year-old Jacob and his mother move to his late father's childhood home in Fernfield, where Jacob discovers an old VHS tape featuring his father playing basketball alongside a talented golden retriever.",
+      "risingAction": "Jacob and Buddy start practicing together, leading to Jacob gaining confidence and earning a spot on the local basketball team as Buddy becomes a beloved community mascot and secret teammate."
+    },
+    "characters": [
+      {
+        "name": "Jacob",
+        "role": "Hero",
+        "description": "An aspiring 12-year-old basketball player who moves to his father's childhood home while grieving his loss and embarks on a journey of growth and basketball with Buddy."
+      },
+      {
+        "name": "Buddy",
+        "role": "Supporting Character",
+        "description": "A neglected golden retriever named by Jacob who connects him to his father's memory and becomes his basketball companion."
+      },
+      {
+        "name": "Jacob's Mother",
+        "role": "Supporting Character",
+        "description": "A supportive parent who moves with Jacob to his father's childhood home in Fernfield to start fresh after their loss."
+      },
+      {
+        "name": "Jacob's Father",
+        "role": "Mentor",
+        "description": "Jacob's deceased father, whose legacy and historical VHS basketball tape inspire Jacob to pursue his passion and bond with Buddy."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jacob",
+        "target": "Buddy",
+        "description": "Owner/Pet and Teammates"
+      },
+      {
+        "source": "Jacob",
+        "target": "Jacob's Mother",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Jacob",
+        "target": "Jacob's Father",
+        "description": "Father/Son (Deceased)"
+      },
+      {
+        "source": "Jacob's Father",
+        "target": "Original Air Bud",
+        "description": "Former Basketball Teammates/Owner"
+      }
+    ],
+    "seo": {
+      "slug": "air-bud-returns",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/air-bud-returns](https://movnix.com/movie/air-bud-returns)",
+        "name": "Air Bud Returns",
+        "@type": "Movie",
+        "genre": [
+          "Family",
+          "Drama",
+          "Sports"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "12-year-old Jacob is an aspiring basketball player coping with the recent loss of his father. After moving to Fernfield, Jacob discovers a VHS tape of his father playing basketball with a golden retriever, inspiring his own journey with a neglected dog named Buddy."
+      },
+      "keywords": [
+        "Air Bud Returns",
+        "Air Bud movie",
+        "Jacob and Buddy",
+        "Fernfield basketball golden retriever",
+        "family sports movie"
+      ],
+      "canonical": "[https://movnix.com/movie/air-bud-returns](https://movnix.com/movie/air-bud-returns)",
+      "metaTitle": "Air Bud Returns (2026) - Synopsis & Movie Info | Movnix",
+      "openGraph": {
+        "og:title": "Air Bud Returns - Official Movie Synopsis",
+        "og:description": "12-year-old Jacob discovers a new spark for basketball and healing when he meets Buddy, a neglected golden retriever in Fernfield."
+      },
+      "twitterCard": {
+        "twitter:title": "Air Bud Returns - Official Movie Synopsis",
+        "twitter:description": "Jacob and a talented golden retriever named Buddy team up in Air Bud Returns."
+      },
+      "metaDescription": "Discover Air Bud Returns: 12-year-old Jacob finds hope and basketball magic with a golden retriever named Buddy in Fernfield."
+    },
+    "faq": [
+      {
+        "answer": "The movie follows 12-year-old Jacob, who moves to his late father's childhood home in Fernfield while grieving his death. After discovering a VHS tape of his dad playing basketball with a golden retriever, Jacob befriends a neglected dog named Buddy and begins his own hoops adventure.",
+        "question": "What is the main plot of Air Bud Returns?"
+      },
+      {
+        "answer": "Yes, Air Bud Returns is part of the famous Air Bud franchise, acting as a legacy continuation set in the familiar town of Fernfield.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are Family, Sports, and Drama.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The main human protagonist is 12-year-old Jacob, an aspiring basketball player coping with the loss of his father.",
+        "question": "Who is the main protagonist of the movie?"
+      },
+      {
+        "answer": "Basketball is the central sport featured in the movie.",
+        "question": "What sport is featured in Air Bud Returns?"
+      },
+      {
+        "answer": "The story takes place in Fernfield, the childhood home of Jacob's father and the classic setting of the original Air Bud story.",
+        "question": "Where does the movie take place?"
+      },
+      {
+        "answer": "No, there is no post-credits scene, though the credits include extra outtakes and playful clips of Buddy.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Jacob finds an old VHS tape in his father's home showing his dad playing basketball on a local court alongside a basketball-playing golden retriever.",
+        "question": "How does Jacob discover the original Air Bud connection?"
+      },
+      {
+        "answer": "The film deals with themes of grief and loss, emotional healing, family legacy, friendship, and perseverance through sports.",
+        "question": "What themes are explored in the film?"
+      },
+      {
+        "answer": "Air Bud Returns is a PG-rated family film suitable for children, teens, and viewers of all ages.",
+        "question": "What age group is Air Bud Returns suitable for?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary jump scares present."
+      },
+      "language": {
+        "score": 0,
+        "description": "Clean, family-friendly dialogue with no strong coarse language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal violence; involves mild themes of animal neglect and typical sports action."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional themes involving grief over the loss of a parent and coping with major life changes."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 5,
+      "emotion": 9,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-07-29 09:14:06.49065",
+    "updated_at": "2026-07-29 09:14:06.49065"
+  }
 }
