@@ -451,5 +451,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1285669/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1285669,
+    "hash": "3ecf28416c874c0847a66cbf6be03d2016d8ce3f2dc24df5cc6c35c149cb87d1",
+    "summary_one_sentence": "Four teenage slackers launch a multi-million-dollar Bitcoin heist from their bedrooms, inadvertently sparking a high-stakes struggle against shadowy web operatives and real-world danger.",
+    "summary_short": "Bored and seeking quick wealth, four teenage friends orchestrate an ambitious multi-million-dollar Bitcoin heist right from the comfort of their bedrooms. Their initial triumph quickly sours as the breach pulls them into the darkest, unmonitored corners of the internet. Unknowingly targeting the wrong digital syndicate, the group soon finds that the cyber threats they sparked are crossing over into their physical lives.",
+    "summary_long": "LifeHack follows four teenage slackers who spend their days navigating online forums, gaming, and daydreaming about easy money. Driven by bravado and technical cleverness, the group devises an audacious plan to pull off a multi-million-dollar Bitcoin heist directly from their bedrooms. What begins as a thrill-seeking prank quickly transforms into an impossibly lucrative breach, leaving them with digital assets beyond their wildest dreams. However, their sudden success instantly attracts the attention of ruthless cybercriminals operating in the dark web's deepest shadows. As the teens attempt to launder the stolen cryptocurrency, they unravel a insidious network of blackmail, extortion, and cyber warfare. Tensions flare within the group as paranoia takes root, forcing each member to question who they can truly trust. The stakes escalate drastically when dangerous actors move beyond digital intimidation and track down the boys' physical locations. Trapped between relentless unseen adversaries and their own spiraling choices, the teens must use every bit of their technical ingenuity to survive.",
+    "synopsis": "When four everyday teenage slackers uncover a major security loophole in a cryptocurrency network, they attempt an unprecedented multi-million-dollar Bitcoin heist from their bedrooms. Intoxicated by their initial success, the group soon discovers that the digital fortune belonged to a dangerous subterranean syndicate operating in the darkest corners of the internet. As sophisticated threats escalate from cyber harassment to real-world pursuit, the teens are thrust into a high-octane battle of wits and survival where a single mistake behind a screen carries deadly physical consequences.",
+    "keywords": [
+      "bitcoin heist",
+      "teenage slackers",
+      "cybercrime",
+      "dark web",
+      "bedroom hackers",
+      "cryptocurrency",
+      "tech thriller",
+      "high-stakes heist",
+      "digital underworld",
+      "escalating stakes",
+      "real-world danger",
+      "amateur criminals"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Greed & Ambition",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Technology & Cyber Threat",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Consequences of Actions",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "With their internet access cut off and armed intruders closing in, the group must rely on physical survival instincts rather than code to pull off one final, desperate play.",
+      "conflict": "The heist unexpectedly succeeds, but transferring the massive digital fortune alerts dangerous cybercriminals and a relentless dark web syndicate to their true identities.",
+      "resolution": "In the aftermath of the breach, the surviving friends reckon with the devastating cost of their reckless ambition as they face both legal consequences and a permanently altered future.",
+      "introduction": "Four high school slackers spend their free time in dark web forums and crypto markets, deciding to pull off an ambitious, multi-million-dollar Bitcoin heist entirely from their bedrooms.",
+      "risingAction": "As the teens attempt to launder the stolen crypto, their digital footprint catches up with them, turning online extortion and doxxing into real-world threats right outside their front doors."
+    },
+    "characters": [
+      {
+        "name": "Kyle (Georgie Farmer)",
+        "role": "Hero",
+        "description": "The ringleader of the group of teenage hackers who initiates the cryptocurrency heist targeting tech billionaire Don Heard."
+      },
+      {
+        "name": "Alex (Yasmin Finney)",
+        "role": "Supporting Character",
+        "description": "One of the key members of the teenage hacker crew using her digital skills to pull off the online heist."
+      },
+      {
+        "name": "Sid (Roman Hayeck-Green)",
+        "role": "Supporting Character",
+        "description": "A core member of the slacker gamer cohort participating in the high-stakes cyber raid."
+      },
+      {
+        "name": "Petey (James Scholz)",
+        "role": "Comic Relief",
+        "description": "A quirky member of the teenage hacker group providing banter and technical support from his bedroom."
+      },
+      {
+        "name": "Lindsey Heard (Jessica Reynolds)",
+        "role": "Anti Hero",
+        "description": "The crypto billionaire's daughter whose social media vulnerability is exploited, but who turns around to confront and manipulate the hackers."
+      },
+      {
+        "name": "Don Heard (Charlie Creed-Miles)",
+        "role": "Villain",
+        "description": "A cocky and ruthless tech billionaire whose vast cryptocurrency fortune becomes the group's primary heist target."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Alex",
+        "target": "Sam",
+        "description": "Best Friends / Heist Partners"
+      },
+      {
+        "source": "Alex",
+        "target": "Leo",
+        "description": "Co-conspirators / Hardware Techs"
+      },
+      {
+        "source": "Alex",
+        "target": "Mia",
+        "description": "Co-conspirators / Social Engineers"
+      },
+      {
+        "source": "Sam",
+        "target": "Leo",
+        "description": "Friends / Fellow Slackers"
+      },
+      {
+        "source": "Sam",
+        "target": "Mia",
+        "description": "Friends / Fellow Slackers"
+      },
+      {
+        "source": "Leo",
+        "target": "Mia",
+        "description": "Friends / Fellow Slackers"
+      },
+      {
+        "source": "Teenage Slackers",
+        "target": "Shadowy Web Operatives",
+        "description": "Targets / Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "lifehack",
+      "jsonLd": {
+        "name": "LifeHack",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet-and a danger beyond their computer screens."
+      },
+      "keywords": [
+        "LifeHack movie",
+        "Bitcoin heist movie",
+        "cyber thriller",
+        "dark web thriller",
+        "teen heist film"
+      ],
+      "canonical": "[https://movnix.com/movie/lifehack](https://movnix.com/movie/lifehack)",
+      "metaTitle": "LifeHack Movie - Cyber Heist & Dark Web Thriller",
+      "openGraph": {
+        "og:title": "LifeHack Movie - Cyber Heist Thriller",
+        "og:description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist, spiraling into the darkest corners of the internet."
+      },
+      "twitterCard": {
+        "twitter:title": "LifeHack Movie - Cyber Heist Thriller",
+        "twitter:description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist, spiraling into the darkest corners of the internet."
+      },
+      "metaDescription": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, spiraling into the dark web and real-world danger."
+    },
+    "faq": [
+      {
+        "answer": "LifeHack is primarily a cyber-heist thriller and mystery film, specifically utilizing the 'screenlife' format where the narrative unfolds entirely across digital computer and device screens.",
+        "question": "What is the dominant genre of LifeHack?"
+      },
+      {
+        "answer": "No, LifeHack is a standalone original film. However, it shares production DNA and its screenlife storytelling format with films like Searching and Missing, as it is co-produced by Timur Bekmambetov.",
+        "question": "Is LifeHack part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, LifeHack does not feature a post-credits scene, concluding its story when the main end credits roll.",
+        "question": "Is there a post-credits scene in LifeHack?"
+      },
+      {
+        "answer": "The film follows four teenage slackers who attempt a multi-million-dollar Bitcoin heist from their bedrooms, targeting a tech billionaire. Their successful hack spirals into real-world danger when they get pulled into high-stakes cyber warfare.",
+        "question": "What is the plot premise of LifeHack?"
+      },
+      {
+        "answer": "LifeHack was written and directed by Ronan Corrigan, making it his debut feature film.",
+        "question": "Who directed LifeHack?"
+      },
+      {
+        "answer": "While the story is inspired by real-world events surrounding cryptocurrency cybercrime and online hacker culture, the specific plot and characters in the movie are fictional.",
+        "question": "Is LifeHack based on a true story?"
+      },
+      {
+        "answer": "The ensemble cast includes Georgie Farmer, Yasmin Finney, Roman Hayeck-Green, James Scholz, Jessica Reynolds, and Charlie Creed-Miles.",
+        "question": "Who is in the main cast of LifeHack?"
+      },
+      {
+        "answer": "LifeHack is geared toward mature teens and adult audiences due to suspenseful thriller themes, strong language, depictions of cybercrime, and psychological danger.",
+        "question": "What age rating or content advisory does LifeHack carry?"
+      },
+      {
+        "answer": "The movie is shot entirely through the perspective of modern technology, including webcams, desktop screens, encrypted messaging platforms, and streaming feeds.",
+        "question": "What makes the visual style of LifeHack unique?"
+      },
+      {
+        "answer": "LifeHack premiered at film festivals such as SXSW before securing theatrical and digital distribution. Check local theater listings or major video-on-demand streaming platforms for availability.",
+        "question": "Where can I watch LifeHack?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Mild psychological suspense and disturbing themes linked to spiraling into dark web corners."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language expected from teenagers in high-stakes situations."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate violence anticipated as teen hackers face real-world danger beyond their screens."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate references or casual subcultural substance use standard among slacker themes."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content based on the core plot synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High tension and psychological strain stemming from dangerous real-world escalation."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 6,
+      "comedy": 5,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 1,
+      "science": 7,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-29 12:38:46.058569",
+    "updated_at": "2026-07-29 12:38:46.058569"
+  }
 }
