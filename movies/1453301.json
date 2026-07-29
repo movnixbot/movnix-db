@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.0423,
+    "popularity": 1.62,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1453301",
@@ -31,15 +31,15 @@
   ],
   "companies": [
     {
-      "tmdbId": 140988,
-      "name": "Giraffe Slide",
-      "logoPath": null,
-      "originCountry": null
-    },
-    {
       "tmdbId": 53366,
       "name": "Cinema Dal",
       "logoPath": "/4WeR8jscvUbmRXpvZyK6hq0jM4Y.png",
+      "originCountry": "KR"
+    },
+    {
+      "tmdbId": 140988,
+      "name": "Giraffe Slide",
+      "logoPath": null,
       "originCountry": "KR"
     }
   ],
@@ -162,6 +162,33 @@
       "job": "Actor",
       "department": "Acting",
       "order": 4
+    },
+    {
+      "tmdbPersonId": 1606060,
+      "name": "Kim See-eun",
+      "profilePath": "/3l3UoHpgfAXScBr2c7XGlztIn6V.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 1723846,
+      "name": "Kang Ji-won",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 2491478,
+      "name": "Shin Mun-sung",
+      "profilePath": "/aICrE8zEb5NQkCOp4h7xHj5lCCV.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
     },
     {
       "tmdbPersonId": 2777489,
