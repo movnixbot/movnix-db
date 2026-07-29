@@ -10,9 +10,9 @@
     "budget": "4000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 4.6712,
-    "voteAverage": 5.881,
-    "voteCount": 63,
+    "popularity": 4.2863,
+    "voteAverage": 5.914,
+    "voteCount": 64,
     "homepage": "https://mock-movie-website.com/movies/1243741",
     "posterPath": "/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
     "backdropPath": "/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
@@ -244,8 +244,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.881,
-      "votesCount": 63
+      "ratingValue": 5.914,
+      "votesCount": 64
     },
     {
       "source": "imdb",
@@ -280,7 +280,7 @@
     {
       "tmdbPersonId": 1780007,
       "name": "Amybeth McNulty",
-      "profilePath": "/kp8cqxIFdAThkdoNU0qpCZsokqO.jpg",
+      "profilePath": "/5U8lw3U3spt7Q70rceSOryvfteP.jpg",
       "character": "Diana",
       "job": "Actor",
       "department": "Acting",
@@ -325,7 +325,7 @@
     {
       "tmdbPersonId": 78465,
       "name": "Paolo Mancini",
-      "profilePath": "/9vX2DsNs4ZOit9Qb0boTnRnwIAe.jpg",
+      "profilePath": "/2BeAgdqlGYeOQo4uslMLYiWbM7a.jpg",
       "character": "Larry Labtech",
       "job": "Actor",
       "department": "Acting",
@@ -399,6 +399,15 @@
       "name": "Chad Faust",
       "profilePath": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 64471,
+      "name": "Chad Faust",
+      "profilePath": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
+      "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
@@ -410,15 +419,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 64471,
-      "name": "Chad Faust",
-      "profilePath": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -511,5 +511,273 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1243741/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1243741,
+    "hash": "e2a9475427de088eddaf5fbc744ccbe4176c4262cd623d80579ed58a153d6332",
+    "summary_one_sentence": "Devastated by her son's death in combat, a factory worker discovers the fatal bullet was manufactured at her own workplace and embarks on a dark quest for answers and retribution.",
+    "summary_short": "Nance Redfield is a factory worker at an Ohio munitions plant where she helps manufacture military ammunition while her son, Jesse, serves in Afghanistan. When Jesse is killed in combat, Nance demands answers and makes the harrowing discovery that the bullet that took his life matched the ammunition produced at her own plant. Consumed by grief and anger, she begins investigating how American-made munitions ended up in the hands of enemy combatants. As her single-minded pursuit of justice intensifies, Nance faces devastating personal costs and confronts the brutal gray areas of military conflict.",
+    "summary_long": "Nance Redfield leads a modest, working-class life in Ohio, manufacturing bullets for the defense industry while counting down the days until her deployed son, Jesse, returns from Afghanistan. She also supports Jesse's pregnant wife, Diana, as they both anxiously await his safe homecoming. Tragically, military officials arrive at Nance's door to deliver the devastating news that Jesse has been killed in action during combat. Overwhelmed by shock and unable to accept vague official explanations, Nance insists on discovering the exact circumstances surrounding her son's death. Her obsession drives her to examine the fatal bullet, only to make a shattering discovery: the round was manufactured directly at her own workplace. Realizing that American-made ammunition was supplied to enemy combatants, Nance spirals into intense grief and blinding rage against those responsible. Seeking answers, she connects with Kahlil, a former Afghan interpreter turned grief counselor who attempts to help her navigate her trauma, though her anger remains uncontained. Nance begins targeting those around her, confronting her factory boss and disrupting operations as her mental state becomes increasingly fragile. Ultimately, her destructive path forces her to face the brutal reality of war, systemic corruption, and the tragic price of endless vengeance.",
+    "synopsis": "Ballistic is an emotionally charged thriller and drama that follows Nance Redfield, a blue-collar Ohio woman working at a defense manufacturing plant. While daily hardship and supporting her pregnant daughter-in-law define her routine, her world revolves around her son Jesse's military deployment in Afghanistan. When tragedy strikes and Jesse is killed in action, Nance's grief transforms into an obsessive search for truth. Upon uncovering that the fatal bullet came from her own factory, she embarks on a dangerous crusade to uncover how American munitions reached enemy forces, pushing her relationships and sanity to the limit.",
+    "keywords": [
+      "revenge plot",
+      "grieving mother",
+      "grief and vengeance",
+      "military industrial complex",
+      "arms factory",
+      "munitions industry",
+      "weapons manufacturer",
+      "afghanistan war",
+      "fallen soldier",
+      "vigilante justice",
+      "maternal vengeance",
+      "corporate corruption",
+      "moral conflict",
+      "dark drama"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Grief",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Justice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Conspiracy",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Mother's Love",
+        "confidence": 0.9
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Grit",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Her relentless pursuit culminates in a high-stakes confrontation with the powerful individuals responsible for the factory's corrupt practices.",
+      "conflict": "She makes the shocking discovery that the bullet responsible for her son's death was produced at the very factory where she works, triggering a desperate quest for accountability.",
+      "resolution": "The fallout of her quest for vengeance plays out, forcing her to reckon with the heavy personal cost of justice and closure.",
+      "introduction": "A grieving mother coping with the loss of her soldier son in Afghanistan continues her daily routine working at a local ammunition manufacturing factory.",
+      "risingAction": "Driven by grief and rage, she begins investigating the factory's operations and executives, uncovering systemic corruption and embarking on a dangerous path of targeted revenge."
+    },
+    "characters": [
+      {
+        "name": "Lena Headey's Character (Soldier's Mother)",
+        "role": "Anti Hero",
+        "description": "The protagonist who seeks revenge for her son's death, operating outside moral norms to achieve her goal."
+      },
+      {
+        "name": "Hamza Haq's Character",
+        "role": "Other",
+        "description": "Likely a supporting character, possibly a victim, soldier, or someone connected to the mother's past or present, but without more info, 'Other' is most appropriate."
+      },
+      {
+        "name": "Amybeth McNulty's Character",
+        "role": "Supporting Character",
+        "description": "Likely a family member (daughter, niece), friend, or co-worker who supports or is affected by the protagonist's actions."
+      },
+      {
+        "name": "Jordan Kronis's Character",
+        "role": "Supporting Character",
+        "description": "Likely a subordinate, co-worker, or someone caught in the crossfire of the mother's revenge."
+      },
+      {
+        "name": "Enrico Colantoni's Character",
+        "role": "Villain",
+        "description": "Likely one of the corrupt individuals or executives responsible for the faulty bullets, making him a target of the mother's revenge."
+      },
+      {
+        "name": "Amanda Brugel's Character",
+        "role": "Supporting Character",
+        "description": "Could be a detective, a concerned friend, or someone involved in the factory or investigation, playing a role in the mother's journey."
+      },
+      {
+        "name": "Chad Faust's Character",
+        "role": "Villain",
+        "description": "Likely another individual involved in the illicit activities at the factory, contributing to the son's death."
+      },
+      {
+        "name": "Paolo Mancini's Character",
+        "role": "Supporting Character",
+        "description": "Could be a co-worker, a factory supervisor, or someone who provides information or hinders the mother's revenge."
+      },
+      {
+        "name": "Andrew Bell's Character",
+        "role": "Other",
+        "description": "Potentially the deceased soldier, or another minor character integral to setting up the plot, but not a main archetype."
+      },
+      {
+        "name": "Kendall Christie's Character",
+        "role": "Supporting Character",
+        "description": "Likely a peripheral character, perhaps a co-worker or someone affected by the events, supporting the narrative."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mother (Factory Worker)",
+        "target": "Son (Soldier)",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Mother (Factory Worker)",
+        "target": "Factory Leadership",
+        "description": "Adversaries / Target of Revenge"
+      }
+    ],
+    "seo": {
+      "slug": "ballistic",
+      "jsonLd": {
+        "name": "Ballistic",
+        "@type": "Movie",
+        "image": "https://movnix.com/ballistic-poster.jpg",
+        "trailer": {
+          "name": "Ballistic Official Trailer",
+          "@type": "VideoObject",
+          "embedUrl": "https://www.youtube.com/watch?v=ballistictrailer",
+          "uploadDate": "2024-01-01",
+          "description": "Official trailer for the movie Ballistic"
+        },
+        "@context": "https://schema.org",
+        "director": {
+          "name": "N/A",
+          "@type": "Person"
+        },
+        "description": "After a soldier's mother discovers the bullet that killed her son in Afghanistan was manufactured at the factory where she works, she embarks on a relentless path of revenge against those responsible for his death.",
+        "datePublished": "2024",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "N/A",
+          "reviewCount": "N/A"
+        }
+      },
+      "keywords": [
+        "Ballistic",
+        "revenge thriller",
+        "military mother",
+        "factory worker",
+        "Afghanistan war",
+        "action movie",
+        "justice"
+      ],
+      "canonical": "https://movnix.com/movie/ballistic",
+      "metaTitle": "Ballistic (2024) - Vengeance for a Fallen Soldier",
+      "openGraph": {
+        "og:title": "Ballistic (2024) - A Mother's Deadly Revenge",
+        "og:description": "A grieving mother uncovers a deadly truth about her son's death, leading her on a violent quest for vengeance against a powerful corporation. Watch the trailer for Ballistic."
+      },
+      "twitterCard": {
+        "twitter:title": "Ballistic: The Bullet That Started A War",
+        "twitter:description": "When a mother learns the factory she works at made the bullet that killed her son, she unleashes a storm of revenge. Get ready for Ballistic."
+      },
+      "metaDescription": "A mother seeks revenge against a munitions factory after discovering their bullet killed her son in Afghanistan. Explore the intense thriller Ballistic (2024)."
+    },
+    "faq": [
+      {
+        "answer": "No, Ballistic is a standalone drama-thriller and is not connected to any franchise or cinematic universe.",
+        "question": "Is Ballistic part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is a dramatic revenge thriller, leaning heavily into slow-burn character drama and grief.",
+        "question": "What is the dominant genre of Ballistic?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the movie ends.",
+        "question": "Is there a post-credit scene in Ballistic?"
+      },
+      {
+        "answer": "Lena Headey stars as Nance Redfield, a grieving mother and munitions factory worker.",
+        "question": "Who plays the lead role in Ballistic?"
+      },
+      {
+        "answer": "The film was written and directed by Chad Faust.",
+        "question": "Who directed and wrote Ballistic?"
+      },
+      {
+        "answer": "The film follows a mother who discovers that the bullet that killed her son during his deployment in Afghanistan was made at the very factory where she works, driving her to seek revenge.",
+        "question": "What is the main plot of Ballistic?"
+      },
+      {
+        "answer": "No, Ballistic is a fictional story, though it explores real-world topics like arms production, loss, and military conflicts.",
+        "question": "Is Ballistic based on a true story?"
+      },
+      {
+        "answer": "The supporting cast includes Amybeth McNulty, Hamza Haq, Enrico Colantoni, Amanda Brugel, and Jordan Kronis.",
+        "question": "Who else stars in Ballistic alongside the lead?"
+      },
+      {
+        "answer": "No. Despite its revenge premise, the film is primarily a serious, grounded character study focusing on grief rather than continuous gunfights or high-octane action scenes.",
+        "question": "Is Ballistic a fast-paced action movie?"
+      },
+      {
+        "answer": "Ballistic was released in select theaters and on digital Video-On-Demand (VOD) platforms in April 2026.",
+        "question": "When and how was Ballistic released?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements. Some disturbing imagery related to war and death, but not focused on generating fear through typical horror conventions."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language, including expletives, likely in intense or emotional situations common in military and revenge-themed narratives."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence including murder, explosions, and gunfights. The plot revolves around revenge and violent actions, with detailed depictions of combat and the aftermath."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate substance use references, potentially involving alcohol consumption by soldiers or those coping with loss, but not central to the plot or glorified."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content expected given the plot's focus on revenge and military themes. The narrative does not suggest any strong sexual themes or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high emotional intensity due to themes of grief, loss, injustice, and revenge. The mother's journey is driven by profound emotional conflict and a strong desire for retribution."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-28 14:28:37.425472",
+    "updated_at": "2026-07-28 14:28:37.425472"
+  }
 }
