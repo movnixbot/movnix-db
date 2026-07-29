@@ -209,5 +209,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1567802/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1567802,
+    "hash": "ee4ec4127c55f1bc9d0847973e04f9de5d6c83b77fc1cbef5f43e21464548d1c",
+    "summary_one_sentence": "If These Walls Could Rock explores the debauchery, creative magic, and untold history of West Hollywood's legendary Sunset Marquis hotel, a sanctuary where generations of rock icons checked in, partied hard, and shaped music history.",
+    "summary_short": "Directed by Tyler Measom and Craig A. Williams, 'If These Walls Could Rock' takes audiences behind the gated sanctuary of the Sunset Marquis in West Hollywood. For over six decades, this discreet haven served as a primary hideaway for iconic musicians seeking escape, inspiration, and wild camaraderie. Through rare archival footage, animation, and candid interviews with music legends, the documentary uncovers how a modest motel became the beating heart of rock culture. It presents an intimate look at the legendary hotel where unforgettable songs were written, wild parties unfolded, and music history was made.",
+    "summary_long": "For over sixty years, the Sunset Marquis in West Hollywood has served as a legendary retreat where rock icons checked in, let loose, and created music history. 'If These Walls Could Rock' examines the rich evolution of this iconic hotel from an unassuming West Hollywood motel into an essential sanctuary for world-renowned musicians. The documentary combines rare archival footage, vivid animation, and first-hand recollections to reveal the wild stories that unfolded beyond the public eye. Legendary artists including Bruce Springsteen, Ringo Starr, Slash, Cyndi Lauper, and Dave Grohl share candid memories of write-ups, wild parties, and late-night creative sessions within its walls. Beyond the celebrity debauchery and rock folklore, the film highlights the touching father-and-son legacy of hotel founders George and Mark Rosenthal. Their unique stewardship cultivated a private haven where artists felt protected, allowing them to collaborate freely and let down their guard away from the spotlight. Viewers are guided through the secret recording studios, lush gardens, and private villas that fostered some of rock's greatest anthems. Ultimately, the film offers a comprehensive chronicle of an unofficial rock headquarters, capturing the true spirit of a location that fundamentally shaped modern music culture.",
+    "synopsis": "Tucked away just off the Sunset Strip in West Hollywood, the Sunset Marquis hotel has long operated as a legendary refuge for touring musicians, actors, and cultural icons. 'If These Walls Could Rock' is an engaging documentary that pulls back the curtain on this famous retreat, detailing over six decades of rock 'n' roll history, wild debauchery, and creative genius. Combining archival materials, stylized animations, and revealing interviews with Hall of Fame artists, the film explores how the hotel became a crucial backdrop for songwriting, late-night jam sessions, and unforgettable Hollywood lore. Far more than a collection of wild party stories, the documentary also delves into the hotel's founding family and their dedication to preserving a safe, private haven for artists. For fans of music history, this documentary offers a compelling look into the hidden sanctuary where rock's greatest legends lived, worked, and made history.",
+    "keywords": [
+      "rock and roll history",
+      "sunset marquis",
+      "1970s music",
+      "1980s music",
+      "hedonism",
+      "hotel culture",
+      "los angeles",
+      "celebrity lifestyle",
+      "behind the scenes",
+      "untold stories",
+      "sex drugs and rock n roll",
+      "music legends",
+      "wild parties",
+      "sunset strip"
+    ],
+    "themes": [
+      {
+        "theme": "Rock 'n' Roll Culture & Hedonism",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Fame & Music Industry History",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Nostalgia & Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sanctuary & Community",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Wild",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Exhilarating",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "A pivotal moment where the wild lifestyle and creative tension reach a fever pitch, threatening to derail the artists' careers or destroy the sanctuary of the hotel itself.",
+      "conflict": "The clash between the musicians' desperate need for creative freedom and privacy versus the chaotic, high-stakes pressure of fame and the wild, hedonistic lifestyle of the era.",
+      "resolution": "A reflective look back at the enduring legacy of the hotel and how the music and memories created within its walls defined a golden era of rock history.",
+      "introduction": "An introduction to the Sunset Marquis hotel in Los Angeles, setting the stage in the 1970s and 1980s as the ultimate sanctuary and playground for legendary rock musicians.",
+      "risingAction": "Anecdotes and accounts build as secret late-night jam sessions, infamous party escapades, and intense creative clashes unfold behind closed doors."
+    },
+    "characters": [
+      {
+        "name": "Billy Bob Thornton",
+        "role": "Supporting Character",
+        "description": "An iconic artist and frequent hotel guest (affectionately known as the 'Mayor of the Marquis') who serves as a key commentator, sharing firsthand recollections of the Sunset Marquis' rock 'n' roll legacy."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "George Rosenthal",
+        "target": "Mark Rosenthal",
+        "description": "Father and Son / Co-owners and Stewards of the Sunset Marquis"
+      },
+      {
+        "source": "George Rosenthal",
+        "target": "Sunset Marquis Hotel",
+        "description": "Founder and Visionary"
+      },
+      {
+        "source": "Mark Rosenthal",
+        "target": "Sunset Marquis Hotel",
+        "description": "Owner and Manager who transformed and saved the sanctuary"
+      },
+      {
+        "source": "Bruce Springsteen",
+        "target": "Stevie Van Zandt",
+        "description": "E Street Bandmates / Longtime Friends and Collaborators"
+      },
+      {
+        "source": "Joe Elliott",
+        "target": "Phil Collen",
+        "description": "Def Leppard Bandmates and Frequent Hotel Guests"
+      },
+      {
+        "source": "Sharon Osbourne",
+        "target": "Kelly Osbourne",
+        "description": "Mother and Daughter / Hotel Guests"
+      },
+      {
+        "source": "Mark Rosenthal",
+        "target": "Rock Icons (Slash, Dave Grohl, Ringo Starr, Bruce Springsteen)",
+        "description": "Host and Sanctuary Guardian to Hotel Guests"
+      }
+    ],
+    "seo": {
+      "slug": "if-these-walls-could-rock",
+      "jsonLd": {
+        "name": "If These Walls Could Rock",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Rock stars, wild parties, and untold stories come alive at LA's iconic Sunset Marquis hotel, where music legends created unforgettable moments during the hedonistic peak of '70s and '80s rock culture."
+      },
+      "keywords": [
+        "If These Walls Could Rock",
+        "Sunset Marquis hotel",
+        "LA rock history",
+        "70s rock culture",
+        "80s rock legends",
+        "Sunset Marquis documentary",
+        "rock star stories"
+      ],
+      "canonical": "[https://movnix.com/movie/if-these-walls-could-rock](https://movnix.com/movie/if-these-walls-could-rock)",
+      "metaTitle": "If These Walls Could Rock | Sunset Marquis Rock 'n' Roll History",
+      "openGraph": {
+        "og:title": "If These Walls Could Rock | Untold Stories of the Sunset Marquis",
+        "og:description": "Go inside LA's legendary Sunset Marquis hotel to explore the hedonistic peak of '70s and '80s rock culture with the legends who lived it."
+      },
+      "twitterCard": {
+        "twitter:title": "If These Walls Could Rock | Sunset Marquis Rock History",
+        "twitter:description": "Rock stars, wild parties, and untold stories from LA's iconic Sunset Marquis hotel during the '70s and '80s rock boom."
+      },
+      "metaDescription": "Discover the wild stories, rock stars, and legendary '70s and '80s parties that defined LA's iconic Sunset Marquis hotel."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is music documentary. It combines candid interviews, archival footage, and animation to explore rock history and culture.",
+        "question": "What is the dominant genre of If These Walls Could Rock?"
+      },
+      {
+        "answer": "No, it is a standalone feature-length documentary directed by Tyler Measom and Craig A. Williams.",
+        "question": "Is this film part of a franchise?"
+      },
+      {
+        "answer": "As a non-fiction documentary feature, it does not feature narrative mid- or post-credit scenes, though additional archival photos or music tracks typically play during the credits.",
+        "question": "Is there a post-credit scene in If These Walls Could Rock?"
+      },
+      {
+        "answer": "The film features interviews with rock icons including Bruce Springsteen, Ringo Starr, Slash, Dave Grohl, Cyndi Lauper, Roger Daltrey, Gene Simmons, Nancy Wilson, and Morrissey, among others.",
+        "question": "Which famous musicians appear in the documentary?"
+      },
+      {
+        "answer": "The film centers entirely around the iconic Sunset Marquis hotel in West Hollywood, Los Angeles, which served as a legendary sanctuary for touring rock stars.",
+        "question": "What primary location is highlighted in the film?"
+      },
+      {
+        "answer": "While exploring over six decades of the hotel's history, it places special focus on the hedonistic peak of '70s and '80s rock culture.",
+        "question": "What time period does the documentary cover?"
+      },
+      {
+        "answer": "Yes, it is a non-fiction film based on real-life events, untold stories, and firsthand accounts of musicians and staff at the Sunset Marquis.",
+        "question": "Is If These Walls Could Rock based on a true story?"
+      },
+      {
+        "answer": "No, while it features tales of rock 'n' roll debauchery, it also examines the hotel as a creative refuge for songwriting and covers the personal story of hotel founder George Rosenthal and his son, Mark.",
+        "question": "Does the documentary focus only on wild party stories?"
+      },
+      {
+        "answer": "The documentary is intended for mature audiences and rock fans, given its honest depiction of '70s and '80s rock-and-roll party culture, language, and wild stories.",
+        "question": "What is the age rating or target audience for the film?"
+      },
+      {
+        "answer": "Following its premiere at select theater events, the documentary is available digitally on platforms such as Apple TV and Amazon.",
+        "question": "Where can viewers watch If These Walls Could Rock?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening content."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language likely present in anecdotes and rock culture commentary."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to low violence; references to wild rockstar behavior or minor hotel room destruction typical of the era."
+      },
+      "substance": {
+        "score": 7,
+        "description": "Frequent drug and alcohol references detailing the hedonistic rock star lifestyle of the '70s and '80s."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate sexual references and themes consistent with 1970s and '80s rock music culture and party lifestyles."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity focused on nostalgia, artistic legacy, and behind-the-scenes rock history."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 5,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 4,
+      "science": 0,
+      "suspense": 3,
+      "violence": 2
+    },
+    "created_at": "2026-07-29 07:08:37.443925",
+    "updated_at": "2026-07-29 07:08:37.443925"
+  }
 }
