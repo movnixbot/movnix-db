@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 3.6074,
+    "popularity": 3.0559,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.searchlightpictures.com/super-troopers-3",
@@ -72,6 +72,55 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Farva DX",
+      "key": "IrxkWPi4QxQ",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Syrup Bukkake",
+      "key": "W-tV8ylfn7E",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
+    {
+      "name": "\"Women Can Be Criminals\" Official Clip",
+      "key": "zJDf51tCnJw",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
+    {
+      "name": "In Theaters August 7 - Get Tickets Meow",
+      "key": "mTrrq8DU3ns",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Special Livestream Q&A",
+      "key": "JaZZ4CNWBDU",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
+    {
+      "name": "Tour Announcement",
+      "key": "nwRftB0iwWg",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
+    {
+      "name": "Purchase the Popcorn Bucket and Liter* O'Cola Cup",
+      "key": "h6gaIbCyRUQ",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
     {
       "name": "The United States of Farva - Get Tickets Meow",
       "key": "YPZx_pTKZQk",
@@ -303,13 +352,22 @@
       "order": 0
     },
     {
+      "tmdbPersonId": 56251,
+      "name": "Kevin Heffernan",
+      "profilePath": "/2FgG3oPF1A7d6W4KaNNZV7kJ83g.jpg",
+      "character": "Rodney 'Rod' Farva",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
       "tmdbPersonId": 56253,
       "name": "Paul Soter",
       "profilePath": "/avsOygcEmFUB5INWGoexgaTJ2u0.jpg",
       "character": "Carl Foster",
       "job": "Actor",
       "department": "Acting",
-      "order": 1
+      "order": 2
     },
     {
       "tmdbPersonId": 52051,
@@ -318,22 +376,13 @@
       "character": "MacIntyre 'Mac' Womack",
       "job": "Actor",
       "department": "Acting",
-      "order": 2
+      "order": 3
     },
     {
       "tmdbPersonId": 56252,
       "name": "Erik Stolhanske",
       "profilePath": "/eVMov7majKwNO8eOMcwweaAnBJj.jpg",
       "character": "Robbie 'Rabbit' Roto",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 56251,
-      "name": "Kevin Heffernan",
-      "profilePath": "/2FgG3oPF1A7d6W4KaNNZV7kJ83g.jpg",
-      "character": "Rodney 'Rod' Farva",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -438,18 +487,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 52049,
-      "name": "Jay Chandrasekhar",
-      "profilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 52051,
-      "name": "Steve Lemme",
-      "profilePath": "/iQnIsjeUA34B2w4EuM8mR1TglJZ.jpg",
+      "tmdbPersonId": 56253,
+      "name": "Paul Soter",
+      "profilePath": "/avsOygcEmFUB5INWGoexgaTJ2u0.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -465,18 +505,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 56253,
-      "name": "Paul Soter",
-      "profilePath": "/avsOygcEmFUB5INWGoexgaTJ2u0.jpg",
+      "tmdbPersonId": 52051,
+      "name": "Steve Lemme",
+      "profilePath": "/iQnIsjeUA34B2w4EuM8mR1TglJZ.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
     },
     {
-      "tmdbPersonId": 56252,
-      "name": "Erik Stolhanske",
-      "profilePath": "/eVMov7majKwNO8eOMcwweaAnBJj.jpg",
+      "tmdbPersonId": 52049,
+      "name": "Jay Chandrasekhar",
+      "profilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -489,6 +529,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 56252,
+      "name": "Erik Stolhanske",
+      "profilePath": "/eVMov7majKwNO8eOMcwweaAnBJj.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
