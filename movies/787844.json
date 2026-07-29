@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.1018,
-    "voteAverage": 3.75,
-    "voteCount": 4,
+    "popularity": 7.6458,
+    "voteAverage": 4.2,
+    "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/787844",
     "posterPath": "/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
     "backdropPath": "/skyvaf7uhxMrQNIy3NZSN77SswS.jpg",
@@ -24,6 +24,10 @@
     {
       "tmdbId": 18,
       "name": "Drama"
+    },
+    {
+      "tmdbId": 53,
+      "name": "Thriller"
     },
     {
       "tmdbId": 80,
@@ -62,6 +66,62 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Nate Parker & David Oyelowo Talk Solitary Confinement in ComingSoon.net Exclusive",
+      "key": "ug3x43CGekc",
+      "site": "YouTube",
+      "size": 360,
+      "type": "Featurette"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "JoIM7C6LVn4",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "2svpfCr-_kU",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "UQ_31dzDRqk",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "e0XouFRtXSo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "7-h9QuIarq8",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Trailer 3",
+      "key": "iRlR5GuXhIs",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "name": "Official Trailer 2",
+      "key": "VyF-Zqhqkn4",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
     {
       "name": "Official Trailer",
       "key": "BBCbPkjp-Sw",
@@ -104,6 +164,20 @@
       "width": 2000,
       "height": 2829,
       "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wsgaT33xVpRnZ8U8gPWmJE7Ipmm.jpg",
+      "width": 1920,
+      "height": 2880,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wu9N17bvgK09i31BUD30i8XNlrd.jpg",
+      "width": 1920,
+      "height": 2880,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -154,13 +228,27 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/gSCTkPmrTtdqsC91am09c9QOCcx.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4bFYC9o8pVFioz96W39rB0y3atq.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 3.75,
-      "votesCount": 4
+      "ratingValue": 4.2,
+      "votesCount": 5
     },
     {
       "source": "crawled",
@@ -305,12 +393,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1549012,
-      "name": "Christina Lee Storm",
-      "profilePath": null,
+      "tmdbPersonId": 77277,
+      "name": "Nate Parker",
+      "profilePath": "/l3VCYGarBzInxjEDL9pjPC2ljNB.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -318,8 +406,8 @@
       "name": "Nate Parker",
       "profilePath": "/l3VCYGarBzInxjEDL9pjPC2ljNB.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -336,17 +424,17 @@
       "name": "Nate Parker",
       "profilePath": "/l3VCYGarBzInxjEDL9pjPC2ljNB.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 77277,
-      "name": "Nate Parker",
-      "profilePath": "/l3VCYGarBzInxjEDL9pjPC2ljNB.jpg",
+      "tmdbPersonId": 1549012,
+      "name": "Christina Lee Storm",
+      "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
