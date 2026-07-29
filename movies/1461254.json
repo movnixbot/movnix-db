@@ -10,7 +10,7 @@
     "budget": "2020000",
     "revenue": "17450000",
     "status": "Released",
-    "popularity": 4.335,
+    "popularity": 4.0163,
     "voteAverage": 6.3,
     "voteCount": 15,
     "homepage": "https://global.showbox.co.kr/forums/QA9URT74M/threads/T4GHSFV32",
@@ -631,5 +631,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1461254/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1461254,
+    "hash": "2ff5dd136e38b4246f2267c1fbbff66b8e9d7e31817c6bb82ab094da41817f98",
+    "summary_one_sentence": "When a road-view photography crew travels to the notorious Salmokji Reservoir to reshoot footage after a mysterious ghost-like figure is spotted on their map, they become trapped in a nightmare driven by dark, ancient waters.",
+    "summary_short": "Sent to the infamous Salmokji Reservoir to update street-view maps after an unsettling visual anomaly is captured, a production crew sets out to quickly complete their assignment. Led by producer Han Su-in, the team seeks not only to fix the mapping error but also to investigate the sudden disappearance of a senior colleague who last visited the site. As night falls over the secluded lake, eerie visual glitches, supernatural occurrences, and whispering voices from the murky depths begin to haunt the crew. Trapped by the reservoir's dark history and sinister waters, they must untangle the secret behind the lake before it claims them all.",
+    "summary_long": "After a mysterious image resembling a ghostly figure appears on a public road-view mapping platform, a media company comes under heavy pressure to immediately re-survey the secluded Salmokji Reservoir. Producer Han Su-in volunteers to lead the reshoot team to the isolated site, driven partly by concern for her missing senior colleague, Woo Gyo-sil, who disappeared there days earlier. Accompanied by a veteran cameraman, a former Navy salvage specialist, a junior vlog creator, and a young production assistant, the crew arrives at the eerie reservoir aiming to finish their task quickly. However, as they begin reviewing newly recorded footage, they notice unsettling visual distortions and strange figures in the images that none of them saw in real time. The atmosphere turns sinister when Su-in's ex-boyfriend and fellow producer Ki-tae arrives to assist, just as the team makes a shocking encounter with their traumatized missing colleague. Forced to spend the night stranded near the water's edge, the group utilizes night-vision cameras and audio equipment, only to pick up eerie whispering sounds emanating from the lake. Tensions flare among the crew as they realize the reservoir is tied to a past unresolved crime and supernatural water spirits intent on dragging victims beneath the surface. One by one, the crew members succumb to hallucinatory visions and terrifying attacks driven by the entity residing in the depths. Su-in and Ki-tae must piece together the truth behind the cursed location while desperately trying to escape before the sinister waters consume them permanently.",
+    "synopsis": "Salmokji: Whispering Water is a chilling South Korean folk horror thriller set around the notorious Salmokji Reservoir in Yesan County. When a routine road-view mapping update reveals a horrifying anomaly—a ghost-like head floating near the water—a determined production team led by producer Han Su-in is dispatched to reshoot the area. Driven by the urgent need to rectify the footage and find her missing senior colleague who vanished at the site, Su-in and her crew step into a secluded landscape shrouded in unsettling urban legends. As the team utilizes specialized cameras and audio devices to document the surroundings, they encounter impossible visual glitches, strange apparitions, and haunting whispers calling to them from the deep, dark water. Blending found-footage aesthetics with atmospheric dread, the story explores the tragic past buried beneath the reservoir as the line between technical malfunction and supernatural malice dissolves.",
+    "keywords": [
+      "found footage",
+      "water ghost",
+      "folk horror",
+      "reservoir",
+      "film crew",
+      "road view mapping",
+      "urban legend",
+      "deep water",
+      "aquatic horror",
+      "eerie atmosphere",
+      "supernatural phenomenon",
+      "unidentified figure",
+      "missing person investigation",
+      "technological haunting"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets of the Past",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fear of the Unknown",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Guilt and Consequences",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Trapped at the remote reservoir, Su-in and her team face a desperate struggle for survival against the entity lurking in the deep water, reaching a peak of supernatural terror.",
+      "conflict": "Upon reviewing the new recordings, the crew notices terrifying visual anomalies and learns that a senior colleague previously disappeared at the reservoir, revealing that an unsolved mystery surrounds the location.",
+      "resolution": "The harrowing encounter comes to a haunting end, leaving the surviving crew members deeply traumatized while the disturbing secrets of Salmokji remain buried beneath the water.",
+      "introduction": "A road-view filming crew, led by producer Su-in, travels to the isolated Salmokji Reservoir to reshoot mapping footage after visual distortions and an unidentified figure were captured at the site.",
+      "risingAction": "As night falls, unsettling phenomena escalate—strange sounds emanate from the dark waters, equipment malfunctions, and malevolent entities begin terrorizing the team as paranoia grows within the group."
+    },
+    "characters": [
+      {
+        "name": "Han Su-in (Kim Hye-yoon)",
+        "role": "Hero",
+        "description": "A determined producer-director who steps up to lead the reshoot at the reservoir following her senior colleague's mysterious disappearance."
+      },
+      {
+        "name": "Yoon Ki-tae (Lee Jong-won)",
+        "role": "Supporting Character",
+        "description": "Su-in's ex-boyfriend and fellow producer who arrives at the reservoir to assist the crew amidst escalating tensions."
+      },
+      {
+        "name": "Woo Gyo-sil (Kim Jun-han)",
+        "role": "Mentor",
+        "description": "Su-in's senior PD whose initial investigation of Salmokji Reservoir and subsequent disappearance drive the investigation."
+      },
+      {
+        "name": "Song Gyeong-tae (Kim Young-sung)",
+        "role": "Supporting Character",
+        "description": "A skeptical veteran cameraman on the crew who pushes to investigate the unexplained visual anomalies in the footage."
+      },
+      {
+        "name": "Song Gyeong-jun (Oh Dong-min)",
+        "role": "Supporting Character",
+        "description": "A practical crew member and former Navy special salvage unit veteran who aids the team during underwater dangers."
+      },
+      {
+        "name": "Jang Seong-bin (Yoon Jae-chan)",
+        "role": "Supporting Character",
+        "description": "The youngest PD on the filming team assisting the crew with field operations."
+      },
+      {
+        "name": "Moon Se-jeong (Jang Da-ah)",
+        "role": "Comic Relief",
+        "description": "An enthusiastic junior PD and vlogger who joins the team eagerly searching for supernatural content for her channel."
+      },
+      {
+        "name": "Jeon So-hyun",
+        "role": "Supporting Character",
+        "description": "A key supporting cast member connected to the history and incidents around the reservoir."
+      },
+      {
+        "name": "Sul Youn-ji",
+        "role": "Supporting Character",
+        "description": "A supporting character involved in the mysterious occurrences surrounding the dark waters."
+      },
+      {
+        "name": "Lee Sung-wook",
+        "role": "Supporting Character",
+        "description": "A seasoned supporting actor portraying a local figure tied to the reservoir's hidden crime."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Film Crew Lead",
+        "target": "Street-View Camera Operator",
+        "description": "Colleagues / Production Team"
+      },
+      {
+        "source": "Production Crew",
+        "target": "Local Resident",
+        "description": "Informant / Source of Local Secrets"
+      },
+      {
+        "source": "Production Crew",
+        "target": "Unidentified Figure",
+        "description": "Investigators / Target of Investigation"
+      },
+      {
+        "source": "Sinister Water Entity",
+        "target": "Production Crew",
+        "description": "Hostile Threat / Antagonist to Crew"
+      }
+    ],
+    "seo": {
+      "slug": "salmokji-whispering-water",
+      "jsonLd": {
+        "name": "Salmokji: Whispering Water",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "director": {
+          "name": "Lee Sang-min",
+          "@type": "Person"
+        },
+        "description": "An incident unfolds when a film crew goes to a reservoir to update the road view where an unidentified figure was filmed, and they encounter something in the dark, deep waters.",
+        "datePublished": "2026-04-08"
+      },
+      "keywords": [
+        "salmokji whispering water",
+        "salmokji movie",
+        "korean horror movie",
+        "salmokji reservoir",
+        "salmokji 2026"
+      ],
+      "canonical": "[https://movnix.com/movie/salmokji-whispering-water](https://movnix.com/movie/salmokji-whispering-water)",
+      "metaTitle": "Salmokji: Whispering Water (2026) - Korean Horror Movie",
+      "openGraph": {
+        "og:title": "Salmokji: Whispering Water (2026) | Korean Horror Movie",
+        "og:description": "When a film crew updates road-view footage at an isolated reservoir, they awaken something terrifying in the deep, dark waters."
+      },
+      "twitterCard": {
+        "twitter:title": "Salmokji: Whispering Water (2026)",
+        "twitter:description": "A film crew investigates an unidentified figure at a remote reservoir, uncovering dark secrets hidden in the water."
+      },
+      "metaDescription": "A film crew updates a road-view map at a remote reservoir and encounters a terrifying entity in dark waters. Discover Salmokji: Whispering Water."
+    },
+    "faq": [
+      {
+        "answer": "Salmokji: Whispering Water is primarily a South Korean folk horror and supernatural thriller movie, incorporating elements of mystery and found-footage storytelling.",
+        "question": "What is the dominant genre of Salmokji: Whispering Water?"
+      },
+      {
+        "answer": "The story follows a road-view mapping film crew led by producer Su-in who travel to the secluded Salmokji Reservoir to reshoot footage after an unidentified figure appears in their recordings. While investigating, they encounter terrifying supernatural phenomena and a dark entity lurking beneath the water.",
+        "question": "What is the plot overview of Salmokji: Whispering Water?"
+      },
+      {
+        "answer": "No, Salmokji: Whispering Water is a standalone South Korean horror film and is not currently part of an established movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes after the film concludes, though the final sequence of the main feature leaves an ominous lingering impression.",
+        "question": "Is there a post-credit scene in Salmokji: Whispering Water?"
+      },
+      {
+        "answer": "While the story's supernatural plot is fictional, it is inspired by local urban legends and set around the real-life Salmokji Reservoir located in Yesan County, South Korea.",
+        "question": "Is Salmokji: Whispering Water based on a true story or real location?"
+      },
+      {
+        "answer": "The film was written and directed by Lee Sang-min. It features an ensemble cast starring Kim Hye-yoon, Lee Jong-won, Kim Jun-han, Kim Young-sung, Oh Dong-min, Yoon Jae-chan, and Jang Da-ah.",
+        "question": "Who stars in and directs Salmokji: Whispering Water?"
+      },
+      {
+        "answer": "The movie was filmed in original Korean language, with subtitles provided in various international languages depending on regional release.",
+        "question": "What language is the movie filmed in?"
+      },
+      {
+        "answer": "The film was theatrically released in South Korea in April 2026, followed by international releases across Asia and other regions starting in May 2026.",
+        "question": "When was Salmokji: Whispering Water released?"
+      },
+      {
+        "answer": "The official running time of the movie is approximately 95 minutes (1 hour and 35 minutes).",
+        "question": "What is the runtime of Salmokji: Whispering Water?"
+      },
+      {
+        "answer": "No, due to intense horror themes, terrifying imagery, jump scares, and psychological tension, the movie carries age ratings such as NC16 or PG-13/R depending on the country classification.",
+        "question": "Is Salmokji: Whispering Water suitable for all ages?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High levels of atmospheric horror, intense jump scares, eerie supernatural occurrences, and deep water dread."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and profanity during panicked and high-stress situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate violence including drowning scenes, physical struggles, and chilling body horror."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor depiction of alcohol consumption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Sustained feelings of dread, panic, and unsettling psychological tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 2,
+      "mystery": 9,
+      "romance": 0,
+      "science": 3,
+      "suspense": 10,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 07:11:10.179239",
+    "updated_at": "2026-07-28 07:11:10.179239"
+  }
 }
