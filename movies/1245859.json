@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": "520942",
     "status": "Released",
-    "popularity": 7.4427,
+    "popularity": 12.3736,
     "voteAverage": 7,
     "voteCount": 16,
     "homepage": "https://mock-movie-website.com/movies/1245859",
@@ -22,12 +22,12 @@
   "collection": null,
   "genres": [
     {
-      "tmdbId": 18,
-      "name": "Drama"
-    },
-    {
       "tmdbId": 35,
       "name": "Comedy"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 1,
@@ -253,6 +253,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/eeZk9aehDJuKxWQE1ckhkFMp7FP.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/26qNlewRD6k1f85zpK2FXNUSVOk.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/a554mmWwFQOZsP8UVRY2RW1BSB8.jpg",
       "width": 3840,
       "height": 2160,
@@ -298,6 +312,13 @@
       "filePath": "/3whprnTCLEjcCRXVH1b65eUK48r.jpg",
       "width": 1280,
       "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/doyrRgi3WcrfrXK2Wu95jtDHAwS.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -451,6 +472,24 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 1189506,
+      "name": "Peter Glanz",
+      "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1733919,
+      "name": "Oliver Roskill",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 75585,
       "name": "Mark Hopkins",
       "profilePath": null,
@@ -472,24 +511,6 @@
       "tmdbPersonId": 1189506,
       "name": "Peter Glanz",
       "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1189506,
-      "name": "Peter Glanz",
-      "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1733919,
-      "name": "Oliver Roskill",
-      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
