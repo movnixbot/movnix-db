@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.7842,
+    "popularity": 2.4362,
     "voteAverage": 5.3,
     "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1386343",
@@ -354,5 +354,256 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1386343/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1386343,
+    "hash": "5a4b25f5de9f3519365e42796f074b9859bbb99d60eacf2a56f36089078f05c7",
+    "summary_one_sentence": "When two wounded strangers collapse inside a local store while fleeing an armed gang, the employees and patrons must barricade themselves in a desperate fight for survival.",
+    "summary_short": "An ordinary workday at a local store turns into a high-stakes siege when two bloodied strangers collapse inside seeking refuge from a relentless, heavily armed gang. Faced with immediate danger, the store's staff and trapped customers decide to lock the doors and barricade the building to protect the unknown victims. As the gang surrounds the perimeter and demands the strangers be handed over, paranoia and moral conflict begin to fracture the group inside. Isolated from emergency help, the reluctant defenders must unleash their darkest survival instincts to make it through the violent night alive.",
+    "summary_long": "What begins as a routine workday inside a local store rapidly devolves into a nightmare when two bleeding, frantic individuals burst through the entrance desperately seeking shelter. Close on their heels is a brutal, heavily armed gang intent on finishing the violent hit they started outside. Recognizing the lethal threat, the quick-thinking store employees and terrified customers collaborate to seal off the doors and barricade every vulnerable entryway. Trapped inside with no immediate access to law enforcement, the group finds themselves unexpectedly transformed into reluctant protectors of total strangers. Outside, the ruthless gang surrounds the premises, issuing deadly ultimatums and repeatedly attempting to breach the makeshift fortress. Inside, tension escalates rapidly as fear, mistrust, and moral dilemmas divide the hostages over whether to sacrifice the injured pair to save themselves. As night deepens and the gang launches escalating physical attacks against the barricades, violent confrontations erupt on all sides. The siege forces the survivors to utilize everyday store supplies as improvised weapons to defend their perimeter against the relentless onslaught. With trust completely shattered and raw survival instincts taking control, each person inside is driven to their absolute physical and psychological limits. Ultimately, the ordeal becomes a bloody test of endurance where making it to sunrise requires decisions that will change them forever.",
+    "synopsis": "We Die Tonight is a high-octane action-thriller drama centered on a quiet establishment that suddenly becomes ground zero for a violent siege. When two bloodied, hunted strangers collapse through the entrance, the store's workers and patrons are forced into a split-second decision to barricade themselves inside against an approaching gang of ruthless killers. With the building completely surrounded and outside help out of reach, the trapped occupants face an agonizing standoff that tests their morality, trust, and resolve. As the gang aggressively tries to force their way in, the group inside must navigate internal panic and tap into their rawest survival instincts to endure the night.",
+    "keywords": [
+      "barricade horror",
+      "siege",
+      "confined space",
+      "convenience store",
+      "armed gang",
+      "protecting strangers",
+      "race against time",
+      "desperate survival",
+      "hostile takeover",
+      "tense situation",
+      "innocent bystanders",
+      "life or death",
+      "violent night"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Protection & Duty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Morality vs. Self-Preservation",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Community & Solidarity",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The siege reaches its boiling point as the gang launches an all-out assault, forcing the staff into a direct, life-or-death confrontation to defend the store and survive the night.",
+      "conflict": "An armed and ruthless gang arrives at the store's doorstep, demanding access to finish off the victims, forcing the unprepared employees to make a high-stakes choice.",
+      "resolution": "The violent ordeal comes to a tense close, leaving the surviving employees to deal with the aftermath of their desperate defense and the emotional weight of what transpired.",
+      "introduction": "The night shift staff at a local store find themselves in an ordinary routine until two severely injured individuals collapse inside, desperately seeking refuge.",
+      "risingAction": "The staff rapidly barricade the entrances, turning the store into a makeshift fortress while tensions surge inside, resources dwindle, and the gang attempts increasingly aggressive ways to breach their defenses."
+    },
+    "characters": [
+      {
+        "name": "Francki (Christian Magdu)",
+        "role": "Hero",
+        "description": "Takes charge by barricading the store and trapping everyone inside to protect a stranger, driving the main conflict and survival effort."
+      },
+      {
+        "name": "Ellie (Amanda Lindh)",
+        "role": "Supporting Character",
+        "description": "A store worker or customer caught in the siege who must navigate the rising tension and threat of the invading gang."
+      },
+      {
+        "name": "Conny (Kristoffer Joner)",
+        "role": "Anti Hero",
+        "description": "A pragmatist trapped inside whose survival instinct conflicts with protecting a stranger, questioning the morality of their sacrifice."
+      },
+      {
+        "name": "Sture (Emil Almén)",
+        "role": "Supporting Character",
+        "description": "One of the individuals trapped inside the store attempting to survive the night as chaos erupts."
+      },
+      {
+        "name": "Isa (Emilia Roosmann)",
+        "role": "Supporting Character",
+        "description": "A member of the barricaded group forced to confront dark survival instincts under pressure."
+      },
+      {
+        "name": "Leo (Clara Christiansson Drake)",
+        "role": "Supporting Character",
+        "description": "Part of the group trapped inside, contributing to the internal dynamics and tensions of the siege."
+      },
+      {
+        "name": "Kim (Jonathan Fredriksson)",
+        "role": "Supporting Character",
+        "description": "A bystander in the store caught in the crossfire between the barricaded survivors and the gang."
+      },
+      {
+        "name": "Elsa (Ia Langhammer)",
+        "role": "Mentor",
+        "description": "An older store occupant who offers a grounded perspective and guidance as moral panic threatens to tear the group apart."
+      },
+      {
+        "name": "Bengt (Kardo Razzazi)",
+        "role": "Supporting Character",
+        "description": "A trapped occupant whose trust and moral boundary crumble as the siege intensifies."
+      },
+      {
+        "name": "The Shadow (Otto Fahlgren)",
+        "role": "Villain",
+        "description": "A key member of the pursuing armed gang attempting to breach the store and execute the target."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Francki",
+        "target": "Ellie",
+        "description": "Coworkers / Secret love interest"
+      },
+      {
+        "source": "Francki",
+        "target": "Wounded Strangers",
+        "description": "Protector / Reluctant ally"
+      },
+      {
+        "source": "Store Staff and Patrons",
+        "target": "Wounded Strangers",
+        "description": "Conflicted protectors / Accidental allies"
+      },
+      {
+        "source": "Armed Gang",
+        "target": "Wounded Strangers",
+        "description": "Ruthless pursuers / Enemies"
+      },
+      {
+        "source": "Armed Gang",
+        "target": "Store Staff and Patrons",
+        "description": "Hostile attackers / Siege threat"
+      }
+    ],
+    "seo": {
+      "slug": "we-die-tonight",
+      "jsonLd": {
+        "name": "We Die Tonight",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When two bleeding people fall into the store, the staff has to barricade themselves. To protect the unknown people from an armed gang trying to break in and finish the job."
+      },
+      "keywords": [
+        "We Die Tonight movie",
+        "We Die Tonight synopsis",
+        "thriller movies",
+        "siege thriller",
+        "We Die Tonight plot",
+        "action thriller film"
+      ],
+      "canonical": "[https://movnix.com/movie/we-die-tonight](https://movnix.com/movie/we-die-tonight)",
+      "metaTitle": "We Die Tonight (2026) - Thriller Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "We Die Tonight - Official Movie Overview",
+        "og:description": "A store staff is forced to barricade themselves inside to protect two bleeding strangers from a ruthless armed gang trying to break in."
+      },
+      "twitterCard": {
+        "twitter:title": "We Die Tonight - Movie Synopsis",
+        "twitter:description": "A store staff is forced to barricade themselves inside to protect two bleeding strangers from a ruthless armed gang trying to break in."
+      },
+      "metaDescription": "When two wounded strangers seek refuge in a store, the staff must barricade themselves against an armed gang. Read the full synopsis and overview."
+    },
+    "faq": [
+      {
+        "answer": "We Die Tonight is primarily a suspense survival thriller and siege drama focused on high-stakes tension and moral dilemmas.",
+        "question": "What is the dominant genre of We Die Tonight?"
+      },
+      {
+        "answer": "No, We Die Tonight is an original standalone movie and is not part of a larger franchise or film series.",
+        "question": "Is We Die Tonight part of a franchise?"
+      },
+      {
+        "answer": "No, the film does not feature a mid-credits or post-credits scene.",
+        "question": "Is there a post-credit scene in We Die Tonight?"
+      },
+      {
+        "answer": "The movie was directed by Swedish filmmaker Richard Holm.",
+        "question": "Who directed We Die Tonight?"
+      },
+      {
+        "answer": "The movie was originally filmed in Swedish under the title 'Vi Dör I Natt'.",
+        "question": "What is the original language and title of the film?"
+      },
+      {
+        "answer": "When a wounded stranger fleeing an armed gang collapses into a remote local store, the store staff and customers lock themselves inside to defend the stranger and survive the night.",
+        "question": "What is the main plot setup of We Die Tonight?"
+      },
+      {
+        "answer": "The main cast includes Kristoffer Joner, Amanda Lindh, and Christian Magdu.",
+        "question": "Who are the lead actors in We Die Tonight?"
+      },
+      {
+        "answer": "The narrative is primarily set inside a single rural store where the characters are barricaded far away from quick police response.",
+        "question": "Where does the majority of the story take place?"
+      },
+      {
+        "answer": "The film has a total runtime of approximately 87 minutes.",
+        "question": "What is the runtime of We Die Tonight?"
+      },
+      {
+        "answer": "No, the film is intended for mature audiences due to intense violence, dark themes, and constant life-or-death suspense.",
+        "question": "Is We Die Tonight suitable for young viewers?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate fear and suspense driven by a siege situation and looming violent danger."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate to strong profanity given the high-stress, dangerous environment."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence involving bleeding victims, armed gang threats, and tense life-or-death confrontation."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no explicit drug or alcohol focus implied in the premise."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the narrative context."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes of peril, survival under siege, and protecting vulnerable strangers."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-29 11:35:25.903962",
+    "updated_at": "2026-07-29 11:35:25.903962"
+  }
 }
