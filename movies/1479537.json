@@ -525,5 +525,239 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1479537/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1479537,
+    "hash": "de1e983a1b9a11598bd26aa50edf8f3c110e7ba0a88672e370f0780a17754c35",
+    "summary_one_sentence": "To avoid jail time for a campus crime, two reckless fraternity brothers masquerade as devout Christian camp counselors to complete their court-ordered community service.",
+    "summary_short": "After pulling a stunt on campus that lands them in legal trouble, two party-loving fraternity brothers are forced to fulfill court-ordered community service. Desperate to avoid a harsh sentence, they fake religious devotion and secure positions as counselors at a strict Christian youth camp. As they struggle to maintain their pious facade while dealing with innocent campers, strict directors, and unexpected moral dilemmas, they are forced to confront their own shallow lifestyles. Ultimately, their chaotic summer journey brings about unexpected personal growth and genuine reflection.",
+    "summary_long": "Facing severe legal consequences after committing a wild crime on their college campus, two self-absorbed fraternity brothers are handed a strict court-ordered community service mandate. Seeing an easy way out, the duo decides to fake a newfound faith and apply for positions as counselors at a devout Christian summer camp. Upon arrival, their out-of-place party habits immediately clash with the wholesome environment, rigid schedules, and conservative camp directors. As they attempt to dodge actual work and keep their secret hidden, they are assigned to lead a group of impressionable young campers who look up to them for spiritual guidance. Navigating absurd religious activities, awkward group devotionals, and constant threats of exposure, the duo finds themselves unexpectedly caring for the kids in their charge. Over time, the absurd charade forces them to reflect on their past selfishness, accountability, and true character. Through a series of comedic misadventures and heartwarming moments, the brothers begin to learn real lessons about maturity and empathy. When their past actions threaten to catch up with them, they must choose between running away or taking true responsibility for their lives.",
+    "synopsis": "When two hedonistic college fraternity brothers get caught committing a major infraction on campus, a judge sentences them to mandatory community service. In a frantic bid to fulfill their sentence without doing hard labor, they bluff their way into hiring as counselors at a conservative Christian youth camp. Completely out of their element, the pair must learn to speak the language of faith, endure strict camp rules, and guide impressionable youth, all while trying to keep their criminal records and wild lifestyles a secret. What begins as a cynical scheme to dodge consequences turns into an unpredictable journey of unexpected friendships, absurd misunderstandings, and personal discovery.",
+    "keywords": [
+      "fake identity",
+      "community service",
+      "summer camp",
+      "frat culture",
+      "christian camp",
+      "deception",
+      "fish out of water",
+      "buddy comedy",
+      "avoiding justice",
+      "redemption arc",
+      "religious satire",
+      "mistaken identity",
+      "campus crime"
+    ],
+    "themes": [
+      {
+        "theme": "Deception and Impersonation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Redemption and Atonement",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Culture Clash / Fish Out of Water",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Accountability and Consequences",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Satirical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Absurd",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Their deception reaches a boiling point during a major camp-wide event, where a series of chaotic missteps threatens to reveal their true identities to both the camp leadership and the court.",
+      "conflict": "To dodge harsher penalties, they lie their way into positions as counselors at a strict Christian summer camp, forcing two self-centered frat-stars into a conservative, highly regulated environment.",
+      "resolution": "Forced to confront the fallout of their actions, the pair must take accountability for their fraud and original crime, leading to unexpected personal growth and a newfound sense of responsibility.",
+      "introduction": "Two wild, party-focused college fraternity members commit a campus offense and are sentenced to complete court-ordered community service.",
+      "risingAction": "As they struggle to maintain their facade, the duo must navigate vigilant camp directors, rowdy campers, and wholesome activities, with their reckless habits constantly threatening to blow their cover."
+    },
+    "characters": [
+      {
+        "name": "Matt Cornett (Frat Star 1)",
+        "role": "Anti Hero",
+        "description": "A college frat member who poses as a devout camp counselor solely to avoid legal consequences, driven by self-interest before finding eventual growth."
+      },
+      {
+        "name": "Ramon Reed (Frat Star 2)",
+        "role": "Anti Hero",
+        "description": "The partner-in-crime frat brother scheme participant who brings chaotic energy and deception to the religious camp setting."
+      },
+      {
+        "name": "Missi Pyle (Camp Director)",
+        "role": "Mentor",
+        "description": "The devout authority figure running the camp, offering guidance while remaining oblivious to the duo's true motives."
+      },
+      {
+        "name": "Chris Klein (Senior Counselor / Authority Figure)",
+        "role": "Supporting Character",
+        "description": "An earnest staff member who enforces camp rules and creates obstacles for the protagonists' cover story."
+      },
+      {
+        "name": "Brec Bassinger (Fellow Counselor)",
+        "role": "Supporting Character",
+        "description": "A genuine camp counselor who acts as a moral foil to the main duo, unintentionally pushing them toward self-reflection."
+      },
+      {
+        "name": "Nathan Gamble (Camp Staff)",
+        "role": "Comic Relief",
+        "description": "An overly enthusiastic camp staff member whose quirky antics highlight the absurdity of the protagonists' situation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Frat Brother 1",
+        "target": "Frat Brother 2",
+        "description": "Fraternity Brothers / Partners in Crime"
+      },
+      {
+        "source": "Frat Brother 1",
+        "target": "Camp Director",
+        "description": "Deceptive Employee / Authority Figure"
+      },
+      {
+        "source": "Frat Brother 2",
+        "target": "Camp Director",
+        "description": "Deceptive Employee / Authority Figure"
+      },
+      {
+        "source": "Frat Brother 1",
+        "target": "Camp Campers",
+        "description": "Fake Counselor / Mentors"
+      },
+      {
+        "source": "Frat Brother 2",
+        "target": "Camp Campers",
+        "description": "Fake Counselor / Mentors"
+      }
+    ],
+    "seo": {
+      "slug": "bad-counselors",
+      "jsonLd": {
+        "name": "Bad Counselors",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After committing a crime on campus, two frat-stars pretend to be Christian camp counselors in order to fulfill court ordered community service."
+      },
+      "keywords": [
+        "Bad Counselors",
+        "Bad Counselors movie",
+        "comedy movie",
+        "frat comedy",
+        "camp counselor movie"
+      ],
+      "canonical": "[https://movnix.com/movie/bad-counselors](https://movnix.com/movie/bad-counselors)",
+      "metaTitle": "Bad Counselors - Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Bad Counselors - Official Movie Synopsis",
+        "og:description": "Two frat stars fake being Christian camp counselors to fulfill court-ordered community service after a campus crime."
+      },
+      "twitterCard": {
+        "twitter:title": "Bad Counselors - Movie Details",
+        "twitter:description": "Two frat stars fake being Christian camp counselors to fulfill court-ordered community service after a campus crime."
+      },
+      "metaDescription": "Two frat stars pretend to be Christian camp counselors to dodge jail after a campus crime. Watch Bad Counselors for hilarious community service chaos."
+    },
+    "faq": [
+      {
+        "answer": "Bad Counselors is primarily a comedy with faith-based and heartwarming elements.",
+        "question": "What is the dominant genre of Bad Counselors?"
+      },
+      {
+        "answer": "No, Bad Counselors is a standalone film and not part of an existing movie franchise.",
+        "question": "Is Bad Counselors part of a movie franchise?"
+      },
+      {
+        "answer": "No, Bad Counselors does not feature any post-credits or mid-credits scenes.",
+        "question": "Is there a post-credits scene in Bad Counselors?"
+      },
+      {
+        "answer": "The film stars Matt Cornett and Ramon Reed as the two fraternity brothers, alongside Brec Bassinger, McKaley Miller, Missi Pyle, and Chris Klein.",
+        "question": "Who stars in Bad Counselors?"
+      },
+      {
+        "answer": "Bad Counselors was directed by Chris Dowling.",
+        "question": "Who directed Bad Counselors?"
+      },
+      {
+        "answer": "After getting into legal trouble following a wild night, two frat brothers face expulsion unless they complete 120 hours of community service. Their solution is to fake their way through serving as counselors at a Christian youth camp.",
+        "question": "What is the main plot of Bad Counselors?"
+      },
+      {
+        "answer": "Parental caution is advised for younger children due to early scenes featuring heavy drinking, party antics, and dishonesty used to show the characters' dark-to-light story arc.",
+        "question": "Is Bad Counselors suitable for kids?"
+      },
+      {
+        "answer": "The movie explores themes of redemption, second chances, faith, honesty, and genuine friendship.",
+        "question": "What core themes are explored in the film?"
+      },
+      {
+        "answer": "The movie was filmed on location in North Carolina.",
+        "question": "Where was Bad Counselors filmed?"
+      },
+      {
+        "answer": "Bad Counselors had a nationwide theatrical run via Fathom Events in July 2026 and is available on digital and video-on-demand platforms.",
+        "question": "Where can I watch Bad Counselors?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary themes present."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language consistent with fraternity culture and comedy tropes."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal physical violence implied by the initial crime, but predominantly light tone."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Frequent references to alcohol and party culture associated with fraternity life."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild sexual references, crude humor, and suggestive jokes common in college comedies."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Low emotional intensity; lightweight comedic premise around deception and community service."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 3,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 3,
+      "science": 0,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-07-29 05:19:10.888857",
+    "updated_at": "2026-07-29 05:19:10.888857"
+  }
 }
