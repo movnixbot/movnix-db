@@ -1884,5 +1884,269 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/858024/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 858024,
+    "hash": "bdcacea53a7f5801225341917032d1b980d139d9801283c9888a2d532aa495dc",
+    "summary_one_sentence": "Set in 1590s England, Hamnet imagines the tender romance and crushing tragedy between William Shakespeare and his wife Agnes, whose profound grief over the sudden death of their eleven-year-old son inspires the creation of the iconic play Hamlet.",
+    "summary_short": "In 1580s Warwickshire, young Latin tutor William Shakespeare falls in love with Agnes, an intuitive woman with a deep bond to nature and healing. After marrying and starting a family, William moves to London to pursue a career in the theater while Agnes raises their children in Stratford. Tragedy strikes when bubonic plague claims the life of their eleven-year-old son, Hamnet, devastating the couple and straining their marriage. Struggling to process his profound grief, William channels his heartbreak into writing his masterpiece, Hamlet, culminating in an emotional reckoning for both parents.",
+    "summary_long": "In late 16th-century England, a struggling Latin tutor named William Shakespeare falls deeply in love with Agnes, an enigmatic woman gifted with supernatural intuition and herbal knowledge. Despite family opposition, the pair marry and begin a family in Stratford, eventually having three children: Susanna, and twins Hamnet and Judith. Recognizing her husband's yearning for artistic creation, Agnes encourages William to move to London, where he quickly finds success as an actor and playwright while she remains behind to raise their children. In 1596, bubonic plague reaches Stratford and afflicts young Judith, leading her twin brother Hamnet to make a quiet, heartbreaking trade to save her life. Hamnet dies of the fever at just eleven years old, leaving Agnes and William completely shattered by the insurmountable loss. Distance and differing ways of grieving strain the couple's bond as William returns to London, unable to directly confront the memory of his deceased son. Four years later, Agnes travels to London after learning William has named his latest theatrical production after their late boy. Attending the Globe Theatre, Agnes discovers that the play Hamlet is not an exploitation of their tragedy, but William's transcendent love letter and memorial to their son, allowing them both to find forgiveness, connection, and emotional healing.",
+    "synopsis": "Set against the backdrop of Elizabethan England, Hamnet offers an intimate, emotional reinterpretation of the life and family of William Shakespeare. The story centers on Agnes Hathaway, a free-spirited, intuitive herbalist who falls in love with a young, aspiring Latin tutor in Warwickshire. After marrying, the couple builds a life together and welcomes three children, though the husband's creative ambitions eventually draw him to the burgeoning theater scene in London. As he establishes himself as a playwright, Agnes manages their household in Stratford amidst societal expectations and personal sacrifices. However, when an unexpected illness strikes their household, the family faces an unprecedented test of love, resilience, and faith. Hamnet explores the deep bonds of twinship, the crushing weight of familial tragedy, and the extraordinary ways art can emerge from the darkest corners of human heartbreak.",
+    "keywords": [
+      "grief and loss",
+      "historical fiction",
+      "elizabethan era",
+      "death of a child",
+      "bubonic plague",
+      "artistic inspiration",
+      "herbalism",
+      "motherhood",
+      "literary fiction",
+      "twins",
+      "william shakespeare",
+      "stratford-upon-avon",
+      "magical realism"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family and Parenthood",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Art and Healing",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Love and Devotion",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartbreaking",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "In the wake of an overwhelming personal tragedy, the shattered family faces profound grief, prompting the father to channel his immense heartbreak into crafting a powerful new theatrical masterpiece in London.",
+      "conflict": "The strain of geographical separation is compounded by the constant, invisible threat of the bubonic plague sweeping across Elizabethan England, casting a shadow over the family's fragile stability.",
+      "resolution": "Agnes travels to London to witness a performance of the new play, discovering a cathartic space where art immortalizes lost love and offers a path toward healing and emotional solace.",
+      "introduction": "In 1580s Warwickshire, a free-spirited herbalist named Agnes falls in love with a young Latin tutor. They marry and build a life together in Stratford-upon-Avon, eventually raising three children while the husband pursues a career in London's booming theater scene.",
+      "risingAction": "When sudden illness strikes the household, panic ensues as the family desperately seeks a cure. Tensions escalate as tragic circumstances force an unthinkable struggle between life and death."
+    },
+    "characters": [
+      {
+        "name": "Agnes Shakespeare",
+        "role": "Hero",
+        "description": "A spirited, intuitive woman deeply connected to nature who fiercely loves her family and navigates profound grief after tragic loss."
+      },
+      {
+        "name": "William Shakespeare",
+        "role": "Hero",
+        "description": "An ambitious and sensitive playwright who struggles with loss and channels his devastating grief into timeless artistic creation."
+      },
+      {
+        "name": "Hamnet Shakespeare",
+        "role": "Supporting Character",
+        "description": "The affectionate and bright 11-year-old twin son whose tragic death from the plague profoundly reshapes his family's lives."
+      },
+      {
+        "name": "Bartholomew Hathaway",
+        "role": "Mentor",
+        "description": "Agnes's steadfast brother who serves as a grounding pillar of emotional support and guidance during times of hardship."
+      },
+      {
+        "name": "Mary Shakespeare",
+        "role": "Supporting Character",
+        "description": "William's pragmatic mother who helps maintain the household and family life in Stratford."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Agnes",
+        "target": "William Shakespeare",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Agnes",
+        "target": "Hamnet Shakespeare",
+        "description": "Mother and Son"
+      },
+      {
+        "source": "Agnes",
+        "target": "Judith Shakespeare",
+        "description": "Mother and Daughter"
+      },
+      {
+        "source": "Agnes",
+        "target": "Susanna Shakespeare",
+        "description": "Mother and Daughter"
+      },
+      {
+        "source": "William Shakespeare",
+        "target": "Hamnet Shakespeare",
+        "description": "Father and Son"
+      },
+      {
+        "source": "William Shakespeare",
+        "target": "Judith Shakespeare",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "William Shakespeare",
+        "target": "Susanna Shakespeare",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "Hamnet Shakespeare",
+        "target": "Judith Shakespeare",
+        "description": "Twins / Brother and Sister"
+      },
+      {
+        "source": "John Shakespeare",
+        "target": "William Shakespeare",
+        "description": "Father and Son"
+      },
+      {
+        "source": "John Shakespeare",
+        "target": "Agnes",
+        "description": "Father-in-law and Daughter-in-law"
+      },
+      {
+        "source": "Mary Shakespeare",
+        "target": "William Shakespeare",
+        "description": "Mother and Son"
+      },
+      {
+        "source": "Mary Shakespeare",
+        "target": "Agnes",
+        "description": "Mother-in-law and Daughter-in-law"
+      }
+    ],
+    "seo": {
+      "slug": "hamnet",
+      "jsonLd": {
+        "name": "Hamnet",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet."
+      },
+      "keywords": [
+        "Hamnet",
+        "Hamnet movie",
+        "Shakespeare Hamlet inspiration",
+        "Hamnet story",
+        "Hamnet release date"
+      ],
+      "canonical": "[https://movnix.com/movie/hamnet](https://movnix.com/movie/hamnet)",
+      "metaTitle": "Hamnet - The Story Behind Shakespeare's Hamlet | Movnix",
+      "openGraph": {
+        "og:title": "Hamnet - Inspired by Shakespeare's Hamlet",
+        "og:description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet."
+      },
+      "twitterCard": {
+        "twitter:title": "Hamnet - Inspired by Shakespeare's Hamlet",
+        "twitter:description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet."
+      },
+      "metaDescription": "Discover Hamnet, the powerful story of love and loss that inspired William Shakespeare's timeless masterpiece, Hamlet."
+    },
+    "faq": [
+      {
+        "answer": "Hamnet is primarily a historical drama.",
+        "question": "What is the dominant genre of Hamnet?"
+      },
+      {
+        "answer": "No, Hamnet is a standalone story and is not part of any cinematic franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes.",
+        "question": "Is there a post-credit scene in Hamnet?"
+      },
+      {
+        "answer": "It is based on Maggie O'Farrell's acclaimed novel of the same name, which reimagines the life of William Shakespeare's family surrounding the death of his young son.",
+        "question": "What is Hamnet based on?"
+      },
+      {
+        "answer": "It is a fictionalized historical drama inspired by real historical figures—specifically William Shakespeare, his wife Agnes (Anne) Hathaway, and their son Hamnet, who died in 1596.",
+        "question": "Is Hamnet based on a true story?"
+      },
+      {
+        "answer": "The film adaptation stars Jessie Buckley as Agnes Hathaway and Paul Mescal as William Shakespeare.",
+        "question": "Who stars in the film adaptation of Hamnet?"
+      },
+      {
+        "answer": "The film adaptation of Hamnet is directed by Academy Award-winning director Chloé Zhao.",
+        "question": "Who directed Hamnet?"
+      },
+      {
+        "answer": "The story centers on a family's overwhelming love and grief following the loss of their 11-year-old son, depicting how this personal tragedy inspired Shakespeare to create his iconic play, Hamlet.",
+        "question": "What is the primary story of Hamnet?"
+      },
+      {
+        "answer": "Hamnet explores the emotional origin story of Hamlet, showing how Shakespeare transformed his deep personal sorrow over his son Hamnet's death into the famous theatrical tragedy.",
+        "question": "How does Hamnet connect to Shakespeare's play Hamlet?"
+      },
+      {
+        "answer": "Hamnet addresses heavy emotional themes including illness, child death, and intense grief, making it best suited for teens and adult audiences rather than young children.",
+        "question": "Is Hamnet suitable for young children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild disturbing themes and imagery associated with plague-era illness and grief, but no traditional horror jumpscares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal profanity, featuring period-appropriate language."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild violence including brief physical altercations, depictions of illness and death from the plague, and stage fighting."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional consumption of alcohol and use of herbal remedies."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate sexual content including romantic intimacy, partial nudity, and artistic depictions of childbirth."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely intense themes surrounding the illness and loss of a child, marital strain, and severe parental grief."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 1,
+      "comedy": 1,
+      "emotion": 10,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 7,
+      "science": 0,
+      "suspense": 3,
+      "violence": 2
+    },
+    "created_at": "2026-07-29 01:04:22.955468",
+    "updated_at": "2026-07-29 01:04:22.955468"
+  }
 }
