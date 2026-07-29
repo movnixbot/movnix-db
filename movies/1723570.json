@@ -6,15 +6,15 @@
     "originalTitle": "Mary Beth Barone: Galaxy Brain",
     "overview": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
     "releaseDate": "2026-07-28",
-    "runtime": 139,
+    "runtime": 56,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.7257,
+    "popularity": 3.0997,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/82148356",
-    "posterPath": "/4xtEvgdpA2tkG9j27WqeO1JsoZ2.jpg",
+    "posterPath": "/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
     "backdropPath": "/ylMmsuM6Dwb3Jh7fwzZbRgQO4jT.jpg",
     "collectionId": null
   },
@@ -49,7 +49,7 @@
   ],
   "images": [
     {
-      "filePath": "/4xtEvgdpA2tkG9j27WqeO1JsoZ2.jpg",
+      "filePath": "/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -61,6 +61,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+      "width": 1693,
+      "height": 2539,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/4xtEvgdpA2tkG9j27WqeO1JsoZ2.jpg",
@@ -137,11 +144,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
