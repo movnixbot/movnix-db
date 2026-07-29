@@ -396,5 +396,263 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1003598/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1003598,
+    "hash": "012b0f885d793433abe0823f74651dd8c2b3ae57ace5b211361d9aedbbf95543",
+    "summary_one_sentence": "As the fabric of the multiverse unravels, Earth's mightiest heroes and allies across alternate realities must unite in an epic final stand to save existence from total destruction.",
+    "summary_short": "As the catastrophic collision of realities known as incursions threatens the cosmos, the multiverse teeters on the brink of absolute collapse. Heroes from across different timelines and dimensions are forced to forge unprecedented alliances to confront an existential cosmic threat. Serving as the climactic conclusion to Marvel Studios' Multiverse Saga, the Avengers face their ultimate test where the fate of every universe hangs in the balance.",
+    "summary_long": "Following years of escalating multiversal instability, the catastrophic phenomenon known as incursions begins collapsing entire universes into one another. As reality disintegrates, Earth's mightiest heroes find themselves torn from their home worlds and thrust into a fragmented cosmic landscape. To survive, legendary champions from across alternate timelines, past eras, and parallel realities must overcome deep-seated differences and unite against an existential threat. Facing an adversary capable of reshaping or erasing entire dimensions at will, the heroes are forced to make unimaginable sacrifices. Every decision carries monumental weight as the boundaries of space and time dissolve around them. As battles rage across shattered worlds, the remnants of the MCU must discover what truly defines a hero when everything they have ever known is at risk of being forgotten. Ultimately, this desperate final stand will determine whether a single coherent universe can be restored or if all of creation will fade into void. The epic saga reaches its definitive peak, forever altering the destiny of Marvel's cinematic universe.",
+    "synopsis": "Avengers: Secret Wars stands as the grand finale of Phase Six and the entire Multiverse Saga within the Marvel Cinematic Universe. With the multiverse fractured by incursions and realities colliding on an unprecedented scale, heroes from every corner of the cosmos must come together to prevent complete obliteration. Combining science fiction, high-stakes action, and deep emotional drama, this momentous event marks the ultimate showdown that will reshape the future of the MCU.",
+    "keywords": [
+      "multiverse collapse",
+      "alternate realities",
+      "incursions",
+      "battle royale",
+      "superhero crossover",
+      "patchwork planet",
+      "saga climax",
+      "cosmic threat",
+      "god emperor",
+      "ensemble cast",
+      "timeline collision",
+      "existential threat",
+      "reality warping",
+      "multiversal war"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Identity and Destiny",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A decisive, large-scale showdown unfolds at the epicenter of the multiversal convergence, where the ultimate fate of existence hangs in the balance.",
+      "conflict": "Catastrophic multiversal incursions threaten the total collapse of all known dimensions, pitting reality itself against total extinction.",
+      "resolution": "The dust settles to reveal a newly reshaped reality, establishing a fresh status quo for the surviving universe and its remaining heroes.",
+      "introduction": "Following the sprawling events of the Multiverse Saga, heroes across multiple timelines and alternate dimensions are introduced navigating an increasingly fragile and interconnected multiversal reality.",
+      "risingAction": "Allies and heroes from across various realities must forge unprecedented alliances, traversing fragmented worlds to combat a powerful cosmic threat and avert total annihilation."
+    },
+    "characters": [
+      {
+        "name": "Victor von Doom / Doctor Doom",
+        "role": "Villain",
+        "description": "A brilliant mastermind and central antagonist of the Multiverse Saga whose immense power and ambition pose an existential threat to the multiverse."
+      },
+      {
+        "name": "Reed Richards / Mister Fantastic",
+        "role": "Hero",
+        "description": "The ultra-intelligent leader of the Fantastic Four who utilizes his genius intellect and stretching abilities to lead the charge against multiversal threats."
+      },
+      {
+        "name": "Sue Storm / Invisible Woman",
+        "role": "Hero",
+        "description": "A compassionate and powerful member of the Fantastic Four capable of turning invisible and projecting high-strength force fields."
+      },
+      {
+        "name": "Ben Grimm / The Thing",
+        "role": "Supporting Character",
+        "description": "The rock-skinned muscle of the Fantastic Four who provides loyal protection and formidable strength to his family of heroes."
+      },
+      {
+        "name": "Johnny Storm / Human Torch",
+        "role": "Supporting Character",
+        "description": "The fiery, hot-headed member of the Fantastic Four who generates flames and flies into battle alongside his team."
+      },
+      {
+        "name": "Bucky Barnes / Winter Soldier",
+        "role": "Anti Hero",
+        "description": "A lethal former assassin and seasoned operative with a cybernetic arm, balancing his dark past with his fight for good."
+      },
+      {
+        "name": "Yelena Belova",
+        "role": "Anti Hero",
+        "description": "A highly trained Black Widow assassin with a pragmatic demeanor and sharp wit who leads with deadly efficiency."
+      },
+      {
+        "name": "Alexei Shostakov / Red Guardian",
+        "role": "Comic Relief",
+        "description": "A boisterous super-soldier and father figure whose eccentric pride and humor offset his battle-hardened combat skills."
+      },
+      {
+        "name": "John Walker / U.S. Agent",
+        "role": "Anti Hero",
+        "description": "A morally complex and aggressive super-soldier driven by a relentless duty to prove his worth as a defender."
+      },
+      {
+        "name": "Ava Starr / Ghost",
+        "role": "Supporting Character",
+        "description": "A molecularly unstable operative with phasing capabilities who uses her unique abilities to assist in dangerous stealth missions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Victor von Doom / Doctor Doom",
+        "target": "Reed Richards / Mister Fantastic",
+        "description": "Arch-rivals / Nemeses"
+      },
+      {
+        "source": "Reed Richards / Mister Fantastic",
+        "target": "Sue Storm / Invisible Woman",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Sam Wilson / Captain America",
+        "target": "Bucky Barnes / Winter Soldier",
+        "description": "Allies / Close Friends"
+      },
+      {
+        "source": "Loki",
+        "target": "Thor",
+        "description": "Adoptive Brothers / Allies"
+      },
+      {
+        "source": "Stephen Strange / Doctor Strange",
+        "target": "Wong",
+        "description": "Allies / Fellow Masters of the Mystic Arts"
+      },
+      {
+        "source": "Deadpool / Wade Wilson",
+        "target": "Wolverine / Logan",
+        "description": "Allies / Frenemies"
+      }
+    ],
+    "seo": {
+      "slug": "avengers-secret-wars",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/avengers-secret-wars](https://movnix.com/movie/avengers-secret-wars)",
+        "name": "Avengers: Secret Wars",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga."
+      },
+      "keywords": [
+        "Avengers Secret Wars",
+        "MCU Phase Six",
+        "The Multiverse Saga",
+        "Marvel Cinematic Universe",
+        "Avengers 6",
+        "Marvel movies"
+      ],
+      "canonical": "[https://movnix.com/movie/avengers-secret-wars](https://movnix.com/movie/avengers-secret-wars)",
+      "metaTitle": "Avengers: Secret Wars - MCU Multiverse Saga Finale | Movnix",
+      "openGraph": {
+        "og:title": "Avengers: Secret Wars - MCU Multiverse Saga Finale",
+        "og:description": "The epic finale to the MCU Multiverse Saga in Phase Six. Get the latest details on Avengers: Secret Wars."
+      },
+      "twitterCard": {
+        "twitter:title": "Avengers: Secret Wars - MCU Multiverse Saga Finale",
+        "twitter:description": "The epic finale to the MCU Multiverse Saga in Phase Six. Get the latest details on Avengers: Secret Wars."
+      },
+      "metaDescription": "Discover Avengers: Secret Wars, the epic finale of the MCU Phase Six Multiverse Saga. Stay updated with news, release info, and plot updates."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Avengers: Secret Wars is part of the Marvel Cinematic Universe (MCU) franchise and serves as the grand finale of The Multiverse Saga.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Avengers: Secret Wars is a major installment in Phase Six of the Marvel Cinematic Universe.",
+        "question": "What phase of the Marvel Cinematic Universe is Avengers: Secret Wars in?"
+      },
+      {
+        "answer": "The dominant genres are Superhero, Action, Adventure, and Science Fiction.",
+        "question": "What is the dominant genre of Avengers: Secret Wars?"
+      },
+      {
+        "answer": "While official details are To Be Announced (TBA), Marvel Cinematic Universe films traditionally feature mid-credits and post-credits scenes to wrap up story beats or tease future projects.",
+        "question": "Is there a post-credits scene in Avengers: Secret Wars?"
+      },
+      {
+        "answer": "The exact plot is To Be Announced (TBA), but it is expected to draw inspiration from the iconic Marvel Comics Secret Wars storylines involving multiversal incursions.",
+        "question": "What is the plot of Avengers: Secret Wars?"
+      },
+      {
+        "answer": "Yes, it is designed as a direct follow-up to Avengers: Doomsday within Phase Six of the MCU.",
+        "question": "Is Avengers: Secret Wars a direct sequel to another MCU movie?"
+      },
+      {
+        "answer": "Anthony and Joe Russo (the Russo brothers) are set to direct the film.",
+        "question": "Who is directing Avengers: Secret Wars?"
+      },
+      {
+        "answer": "Specific cast details remain TBA, but the film is expected to showcase a massive ensemble cast featuring heroes and villains from across the Marvel multiverse.",
+        "question": "Which characters are expected to appear in Avengers: Secret Wars?"
+      },
+      {
+        "answer": "Like previous MCU Avengers movies, it is expected to be rated PG-13 for intense sequences of sci-fi action and violence.",
+        "question": "What is the expected age rating for Avengers: Secret Wars?"
+      },
+      {
+        "answer": "Yes, major MCU event films like Avengers: Secret Wars are traditionally formatted for and released in premium formats including IMAX.",
+        "question": "Will Avengers: Secret Wars be released in IMAX?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense atmospheric elements, eerie multiversal anomalies, and occasional startling moments."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate profanity and strong language typical of PG-13 action blockbusters."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of fantasy and sci-fi action violence, featuring large-scale superhero battles, multiversal destruction, and intense hand-to-hand combat."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Infrequent depictions of casual alcohol consumption in social settings or minor verbal references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or nudity; minor romantic subplots or mild flirtatious banter."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense thematic elements involving existential multiversal threats, high stakes, and significant character sacrifices."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 10,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 5,
+      "romance": 2,
+      "science": 8,
+      "suspense": 7,
+      "violence": 7
+    },
+    "created_at": "2026-07-29 12:28:14.479416",
+    "updated_at": "2026-07-29 12:28:14.479416"
+  }
 }
