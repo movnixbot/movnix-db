@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.4325,
+    "popularity": 3.9951,
     "voteAverage": 3,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1309121",
@@ -34,9 +34,36 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 305762,
+      "name": "Bhavana Film Productions",
+      "logoPath": null,
+      "originCountry": "IN"
+    },
+    {
+      "tmdbId": 305763,
+      "name": "Blitzkreig Films",
+      "logoPath": null,
+      "originCountry": null
+    },
+    {
+      "tmdbId": 305765,
+      "name": "APK Cinema",
+      "logoPath": null,
+      "originCountry": "IN"
+    }
+  ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "ANOMIE THE EQUATION OF DEATH - OFFICIAL TRAILER | BHAVANA | RAHMAN | RIYAS MARATH | 6 FEB",
+      "key": "T1KYD7PsOeM",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg",
@@ -170,19 +197,10 @@
       "tmdbPersonId": 148361,
       "name": "Rahman",
       "profilePath": "/3heEOBLha0ImREOUmzWm5nVKUt.jpg",
-      "character": "ACP Mohammed Ghibran",
+      "character": "ACP Mohammed Gibran",
       "job": "Actor",
       "department": "Acting",
       "order": 1
-    },
-    {
-      "tmdbPersonId": 2007264,
-      "name": "Vishnu Agasthya",
-      "profilePath": "/ixiM5uFuc6CGud3j43oIgbvKiZB.jpg",
-      "character": "Prasad",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 2
     },
     {
       "tmdbPersonId": 1625681,
@@ -191,13 +209,22 @@
       "character": "Ziyan Philip",
       "job": "Actor",
       "department": "Acting",
-      "order": 3
+      "order": 2
     },
     {
       "tmdbPersonId": 591137,
       "name": "Arjun Lal",
       "profilePath": "/5IfBGN1r3cJmYQgC9vQIWmfqJ9t.jpg",
       "character": "Alby",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2007264,
+      "name": "Vishnu Agasthya",
+      "profilePath": "/ixiM5uFuc6CGud3j43oIgbvKiZB.jpg",
+      "character": "Prasad",
       "job": "Actor",
       "department": "Acting",
       "order": 4
