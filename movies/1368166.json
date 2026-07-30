@@ -10,9 +10,9 @@
     "budget": "35000000",
     "revenue": "399644671",
     "status": "Released",
-    "popularity": 51.1852,
-    "voteAverage": 7.278,
-    "voteCount": 2712,
+    "popularity": 44.808,
+    "voteAverage": 7.3,
+    "voteCount": 2736,
     "homepage": "https://thehousemaid.movie",
     "posterPath": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
     "backdropPath": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
@@ -2687,13 +2687,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/rkwuTmWw8hJ57NIjF8WXvV0pOGl.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.278,
-      "votesCount": 2712
+      "ratingValue": 7.3,
+      "votesCount": 2736
     },
     {
       "source": "imdb",
@@ -2758,28 +2765,28 @@
       "order": 4
     },
     {
+      "tmdbPersonId": 2035942,
+      "name": "Sarah Cooper",
+      "profilePath": "/85Ys0z9F6LCi0ZloiW2X6WHbZ1i.jpg",
+      "character": "Pam",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
       "tmdbPersonId": 20,
       "name": "Elizabeth Perkins",
       "profilePath": "/t9Cfx8R8hxB1Od46s9CXJMwwNTA.jpg",
       "character": "Mrs. Winchester",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 6
     },
     {
       "tmdbPersonId": 1517553,
       "name": "Amanda Joy Erickson",
       "profilePath": "/3BieG0s7lddZr8wsNF6Rwfrz9Tm.jpg",
       "character": "Suzanne",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 6
-    },
-    {
-      "tmdbPersonId": 2035942,
-      "name": "Sarah Cooper",
-      "profilePath": "/85Ys0z9F6LCi0ZloiW2X6WHbZ1i.jpg",
-      "character": "Pam",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -3235,5 +3242,250 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1368166/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1368166,
+    "hash": "032799cd60d22296083056a0fba0cda3bf09c73ac7908c364989f890d9f39d28",
+    "summary_one_sentence": "Hired as a live-in housekeeper for a wealthy family to escape her past, a young woman becomes entangled in a dangerous web of obsession, deception, and control when she discovers the dark secrets hidden behind her employers' polished exterior.",
+    "summary_short": "Desperate for work while on parole, Millie Calloway accepts a live-in housekeeper job for wealthy couple Nina and Andrew Winchester. Although the position initially seems like a fresh start, Millie is soon unsettled by Nina’s unpredictable behavior and her own growing attraction to Andrew. As hidden motives surface and disturbing household secrets come to light, Millie realizes the mansion’s polished facade conceals a sinister game. Trapped in an escalating battle of power, Millie must use her own sharp instincts to survive.",
+    "summary_long": "Hoping to leave her criminal past behind and fulfill her parole requirements, Millie Calloway accepts a live-in housekeeper position with the affluent Winchester family. Upon moving into their lavish mansion, she is assigned a tiny attic room with a door that inexplicably locks only from the outside. Nina Winchester displays chaotic, volatile behavior that constantly pushes Millie to her limit, while her handsome husband Andrew appears to be a gentle, long-suffering spouse. Seeking comfort from the household's erratic tension, Millie begins a secretive romantic affair with Andrew, who eventually kicks Nina out of the house. However, the truth is revealed that Nina strategically orchestrated the affair to escape Andrew, a covert sadist who has secretly imprisoned and tormented her for years. When Andrew turns his controlling, abusive tendencies onto Millie and locks her in the attic, he underestimates her resilient and violent history. Millie turns the tables on her captor, trapping Andrew in his own torture chamber and subduing him until his death. Ultimately, Nina and Millie secretly align to ensure Andrew's death is ruled an accident, freeing both women from his reign of terror.",
+    "synopsis": "Desperate for a fresh start to fulfill her parole conditions, Millie Calloway jumps at the chance to work as a live-in housemaid for Nina and Andrew Winchester, a wealthy couple residing in an upscale estate. Despite her dubious résumé, Nina eagerly hires Millie, assigning her to a cramped attic bedroom on the top floor. At first, the job offers much-needed stability, but the atmosphere quickly sours as Nina displays erratic, manipulative behavior and subjects Millie to bewildering demands. Meanwhile, Andrew stands out as a charming, empathetic contrast to his wife's instability, sparking a subtle attraction between him and Millie. As cryptic warnings from the estate's staff hint at underlying danger, Millie finds herself drawn deeper into the Winchesters' private life. What begins as a battle for job security evolves into a tense psychological drama where nothing is as it appears, and every occupant of the house harbors high-stakes secrets.",
+    "keywords": [
+      "live-in housemaid",
+      "domestic thriller",
+      "escaping the past",
+      "wealthy employer",
+      "power dynamics",
+      "dark secrets",
+      "seductive game",
+      "scandal",
+      "deception",
+      "class divide",
+      "hidden motives",
+      "psychological suspense",
+      "twisted marriage",
+      "wealth inequality"
+    ],
+    "themes": [
+      {
+        "theme": "Class Warfare and Power Dynamics",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Escaping the Past",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Seductive",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A dramatic shift in power exposes the true monster behind the estate's doors, trapping Millie in a desperate, life-or-death battle for survival inside the house.",
+      "conflict": "Millie soon discovers that her new employer, Nina Winchester, displays increasingly erratic, cruel behavior, while the family's secrets and strange domestic dynamics make Millie's job precarious and terrifying.",
+      "resolution": "With the shocking truth revealed, Millie uses her quick wit and past resourcefulness to turn the tables, securing her freedom and stepping into a secret new role.",
+      "introduction": "Desperate for a fresh start after serving time in prison, Millie Calloway lands a live-in housemaid position for the affluent Winchester family at their lavish estate.",
+      "risingAction": "As Nina's psychological mind games escalate, Millie finds solace and growing attraction in Nina's charming, mistreated husband, Andrew, leading her deeper into a web of deceit, paranoia, and dangerous hidden motives."
+    },
+    "characters": [
+      {
+        "name": "Millie Calloway",
+        "role": "Hero",
+        "description": "The resilient protagonist seeking a fresh start who takes the housemaid job, only to get caught in a dangerous web of secrets and power dynamics."
+      },
+      {
+        "name": "Nina Winchester",
+        "role": "Villain",
+        "description": "The wealthy, volatile, and controlling employer whose erratic behavior and dark secrets drive the central conflict of the household."
+      },
+      {
+        "name": "Andrew Winchester",
+        "role": "Anti Hero",
+        "description": "Nina's charming and wealthy husband who draws Millie into a seductive, complex relationship with hidden motives."
+      },
+      {
+        "name": "Cecelia Winchester",
+        "role": "Supporting Character",
+        "description": "The young daughter of Nina and Andrew whose presence adds tension and nuance to Millie's responsibilities in the house."
+      },
+      {
+        "name": "Enzo",
+        "role": "Supporting Character",
+        "description": "The enigmatic gardener who offers subtle warnings and assistance to Millie while navigating his own ties to the family."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Millie Calloway",
+        "target": "Nina Winchester",
+        "description": "Employer/Employee, Complex Dynamics"
+      },
+      {
+        "source": "Millie Calloway",
+        "target": "Andrew Winchester",
+        "description": "Employer/Employee, Romantic/Seductive Intrigue"
+      },
+      {
+        "source": "Nina Winchester",
+        "target": "Andrew Winchester",
+        "description": "Husband/Wife, Controlling/Manipulative"
+      },
+      {
+        "source": "Millie Calloway",
+        "target": "Cecelia Winchester",
+        "description": "Caretaker/Child"
+      },
+      {
+        "source": "Nina Winchester",
+        "target": "Cecelia Winchester",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Andrew Winchester",
+        "target": "Cecelia Winchester",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Millie Calloway",
+        "target": "Enzo",
+        "description": "Acquaintances/Allies"
+      }
+    ],
+    "seo": {
+      "slug": "the-housemaid",
+      "jsonLd": {
+        "name": "The Housemaid",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power."
+      },
+      "keywords": [
+        "The Housemaid movie",
+        "The Housemaid plot",
+        "Millie Calloway",
+        "Andrew Winchester",
+        "Nina Winchester",
+        "thriller movies"
+      ],
+      "canonical": "[https://movnix.com/movie/the-housemaid](https://movnix.com/movie/the-housemaid)",
+      "metaTitle": "The Housemaid Movie: Plot, Overview & Secrets | Movnix",
+      "openGraph": {
+        "og:title": "The Housemaid - A Seductive Game of Secrets and Power",
+        "og:description": "Millie Calloway's dream job as a live-in housemaid for the wealthy Winchesters unravels into a dangerous game of scandal and power."
+      },
+      "twitterCard": {
+        "twitter:title": "The Housemaid Movie Overview",
+        "twitter:description": "Millie Calloway's dream job as a live-in housemaid unravels into a dangerous game of secrets, scandal, and power."
+      },
+      "metaDescription": "Discover The Housemaid. Millie Calloway accepts a live-in maid job for the wealthy Winchesters, entering a dangerous game of secrets, scandal, and power."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of The Housemaid is erotic psychological thriller and mystery.",
+        "question": "What is the dominant genre of The Housemaid?"
+      },
+      {
+        "answer": "While the movie is a standalone entry based on the popular book series by Freida McFadden, it marks the start of a film franchise, with a sequel titled The Housemaid's Secret in development.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in The Housemaid. Once the main film concludes and the credits roll, the story is complete.",
+        "question": "Is there a post-credit scene in The Housemaid?"
+      },
+      {
+        "answer": "Yes, the film is an adaptation of Freida McFadden's best-selling 2022 psychological thriller novel of the same name.",
+        "question": "Is The Housemaid based on a book?"
+      },
+      {
+        "answer": "The film stars Sydney Sweeney as Millie Calloway, Amanda Seyfried as Nina Winchester, Brandon Sklenar as Andrew Winchester, and Michele Morrone as Enzo Accardi.",
+        "question": "Who stars in the film adaptation of The Housemaid?"
+      },
+      {
+        "answer": "The movie was directed by Paul Feig, with a screenplay written by Rebecca Sonnenshine.",
+        "question": "Who directed The Housemaid?"
+      },
+      {
+        "answer": "The film is rated R for strong bloody violence, sexual content, sexual assault, nudity, and pervasive strong language.",
+        "question": "What is the age rating for The Housemaid?"
+      },
+      {
+        "answer": "The runtime of The Housemaid is approximately 131 minutes (2 hours and 11 minutes).",
+        "question": "What is the runtime of the movie?"
+      },
+      {
+        "answer": "The story follows Millie, a young woman with a criminal past, who takes a live-in housemaid position for the wealthy Winchester family, only to find herself trapped in a dangerous game of psychological manipulation, dark secrets, and power.",
+        "question": "What is the core premise of The Housemaid?"
+      },
+      {
+        "answer": "Yes, Freida McFadden wrote subsequent books in the series, including The Housemaid's Secret and The Housemaid Is Watching.",
+        "question": "Are there sequels to the original book?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Psychological thriller elements with suspense, isolation, and unsettling atmospheric tension."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity and strong language used throughout."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy psychological abuse, domestic violence, and violent physical altercations."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual alcohol consumption and references to prescription medications."
+      },
+      "sexualContent": {
+        "score": 6,
+        "description": "Explicit references to sexual intimacy, seduction, and erotic thrill-seeking dynamics."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity featuring severe psychological manipulation, gaslighting, and high-stakes peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 5,
+      "science": 0,
+      "suspense": 10,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 17:11:35.124385",
+    "updated_at": "2026-07-28 17:11:35.124385"
+  }
 }
