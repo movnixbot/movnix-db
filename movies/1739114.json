@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.3357,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 0.4829,
+    "voteAverage": 1,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1739114",
     "posterPath": "/rodvBufUBa9A9B9wHSXFADaRQYI.jpg",
-    "backdropPath": null,
+    "backdropPath": "/gI5bPHFDQAsU3jUMAwGYRIWMZtS.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -49,14 +49,54 @@
       "type": "poster"
     },
     {
+      "filePath": "/gI5bPHFDQAsU3jUMAwGYRIWMZtS.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/rodvBufUBa9A9B9wHSXFADaRQYI.jpg",
       "width": 1180,
       "height": 1572,
       "aspectRatio": 0.751,
       "type": "poster"
+    },
+    {
+      "filePath": "/2YnHpk5yiVsfnCdZw0KydwDz7uW.jpg",
+      "width": 1080,
+      "height": 1539,
+      "aspectRatio": 0.702,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tOwJTLUNdvnO8qGrBNEadTMm3LP.jpg",
+      "width": 1026,
+      "height": 1539,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cbwBth8ZKV7sTKP3BmP1YUodCgD.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gI5bPHFDQAsU3jUMAwGYRIWMZtS.jpg",
+      "width": 1820,
+      "height": 1024,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 1,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,

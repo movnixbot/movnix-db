@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.2664,
+    "popularity": 3.5214,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1404521",
@@ -41,8 +41,8 @@
   "keywords": [],
   "videos": [
     {
-      "name": "Chinna Chinna Aasai | Trailer | Indrans | Madhubala | July 28 | JioHotstar",
-      "key": "cWHsZZN2Z6A",
+      "name": "Chinna Chinna Aasai - Pre Release Teaser | Indrans| Madhubala|Govind Vasantha|Varsha|Abhijith Babuji",
+      "key": "cBNeqrcs300",
       "site": "YouTube",
       "size": 2160,
       "type": "Trailer"
@@ -78,6 +78,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/8THEBd1bdOsJZRGTCR3oYrFHaiP.jpg",
+      "width": 1086,
+      "height": 1448,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
       "filePath": "/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg",
       "width": 1152,
       "height": 1728,
@@ -96,6 +103,20 @@
       "width": 1920,
       "height": 1079,
       "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/m1tbRcU5BMMv1omA87fEYdQMCtl.jpg",
+      "width": 1672,
+      "height": 941,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jXJPKPs2buwgd65VgFwCnztD105.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
       "type": "backdrop"
     }
   ],
@@ -128,7 +149,7 @@
     {
       "tmdbPersonId": 1620957,
       "name": "Aparna Balamurali",
-      "profilePath": "/mcptef8UwyAtd7WkUPrgmxUE1YA.jpg",
+      "profilePath": "/yhltqG1SowF0IaHxLXCVQZacz1S.jpg",
       "character": "Jaanaki",
       "job": "Actor",
       "department": "Acting",
@@ -147,7 +168,7 @@
       "tmdbPersonId": 3772357,
       "name": "Sai Janani",
       "profilePath": null,
-      "character": null,
+      "character": "Young \tLeela",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -174,7 +195,7 @@
       "tmdbPersonId": 1306567,
       "name": "Kaali Venkat",
       "profilePath": "/w36lwArVQb0lDIJEenBECHqSdpG.jpg",
-      "character": null,
+      "character": "Leela's Father",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -217,11 +238,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Sun Nxt",
+          "logo": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Sun Nxt",
+          "logo": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
+        }
+      ],
       "buy": []
     }
   },

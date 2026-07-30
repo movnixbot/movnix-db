@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.255,
+    "popularity": 2.4529,
     "voteAverage": 10,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1686301",
@@ -56,6 +56,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t6FnLoc2PSUrfpdYC0a83fP9zU5.jpg",
+      "width": 1000,
+      "height": 1481,
+      "aspectRatio": 0.675,
       "type": "poster"
     },
     {
@@ -313,5 +320,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1686301/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1686301,
+    "hash": "fd4242bba156e741a8593071079f84268db1b3fbcaf111a24d437b136d3e5a75",
+    "summary_one_sentence": "Reema and her friends travel to an isolated island resort to investigate an unexpected inheritance, only to unleash a deadly familial curse rooted in black magic and ancient tantric rituals.",
+    "summary_short": "When Reema unexpectedly inherits a deserted island resort, she travels there with three close friends to uncover the story behind her lineage. Upon arrival, the group is confronted by strange locals and cryptic messages left by Reema's deceased mother. They soon realize the island is bound by a horrifying legacy of dark tantric rituals and black magic. To escape the island's malevolent forces, Reema and her friends must face their deepest fears before time runs out.",
+    "summary_long": "After receiving news of an unexpected inheritance, Reema decides to visit an abandoned resort situated on a remote, atmospheric island. Wanting support and company, she brings along three of her closest friends to help explore the property and uncover her family's forgotten past. Upon their arrival, the group is immediately unnerved by the strange, unwelcoming behavior of the island's local inhabitants. As Reema explores the decaying resort, she begins discovering disturbing, cryptic messages hidden by her late mother. These mysterious clues gradually reveal that Reema's family line is bound to a sinister curse steeped in dark tantric rituals and black magic. As paranormal phenomena intensify and sinister forces tighten their grip on the island, fear and paranoia begin to destroy the group's unity. Tensions mount among the friends as they are forced to confront their own suppressed trauma and terrifying psychological fears. Ultimately, Reema must decipher her mother's final warnings and break the ancestral curse if any of them hope to survive the island's deadly trap.",
+    "synopsis": "'Mala' is an atmospheric horror-thriller that follows Reema, a young woman who travels to a remote island to claim an abandoned resort inherited from her late mother. Joined by three trusted friends, Reema hopes to learn the truth about her enigmatic past, but the trip quickly turns terrifying as the group uncovers unsettling local customs and cryptic messages scattered throughout the estate. As Reema unravels her mother's hidden warnings, she discovers her family's dark ties to ancient tantric rituals and black magic. Combining supernatural dread with intense emotional drama, 'Mala' presents a gripping fight for survival where unearthing inherited secrets comes with a deadly price.",
+    "keywords": [
+      "inherited property",
+      "abandoned resort",
+      "remote island",
+      "cryptic messages",
+      "family curse",
+      "tantric rituals",
+      "black magic",
+      "sinister locals",
+      "dark secrets",
+      "survival horror",
+      "psychological tension",
+      "occult mystery",
+      "island horror",
+      "maternal legacy"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "The Occult & Curse",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Uncovering the Truth",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fear and Isolation",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The terrifying truth of the curse culminates in a direct confrontation with the island's dark forces, where Reema and her friends must face their ultimate fears to break free from its grip.",
+      "conflict": "Upon arrival, the group encounters unsettling local residents and cryptic messages, revealing that the island is bound by a sinister familial curse rooted in ancient tantric rituals and dark magic.",
+      "resolution": "In the aftermath of the harrowing ordeal, the surviving characters process the horrific reality of Reema's lineage and the permanent mark left on their lives.",
+      "introduction": "Reema inherits an abandoned island resort and travels to the remote location with three close friends, hoping to uncover the truth behind her late mother's legacy.",
+      "risingAction": "As paranoia grows and escape becomes increasingly difficult, strange phenomena escalate around the resort, testing the bond between the friends and forcing Reema deeper into her family's occult history."
+    },
+    "characters": [
+      {
+        "name": "Reema",
+        "role": "Hero",
+        "description": "The central protagonist who inherits an abandoned resort on a remote island and must confront her late mother's past and an ancient familial curse."
+      },
+      {
+        "name": "Robert",
+        "role": "Villain",
+        "description": "The resort's sinister property manager whose obsequious demeanor and evasive behavior conceal dark secrets about the island's rituals."
+      },
+      {
+        "name": "Island Shaman",
+        "role": "Mentor",
+        "description": "A spiritual guide who aids Reema in deciphering ancient scrolls and understanding the supernatural forces at play."
+      },
+      {
+        "name": "Reema's Friends",
+        "role": "Supporting Character",
+        "description": "A loyal trio of companions who travel with Reema to explore the resort and help her navigate the dangerous mysteries on the island."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Reema",
+        "target": "Friends",
+        "description": "Close friends / Companions"
+      },
+      {
+        "source": "Reema",
+        "target": "Late Mother",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Reema",
+        "target": "Locals",
+        "description": "Antagonistic / Cryptic local residents"
+      }
+    ],
+    "seo": {
+      "slug": "mala",
+      "jsonLd": {
+        "name": "Mala",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Reema inherits an abandoned resort on a remote island, and with her three friends, sets out to uncover the truth behind her inheritance. She soon discovers strange locals, cryptic messages from her late mother, and a familial curse involving tantric rituals and black magic."
+      },
+      "keywords": [
+        "Mala movie",
+        "Mala horror movie",
+        "Mala film synopsis",
+        "Indian horror thriller",
+        "black magic movie",
+        "tantric ritual film"
+      ],
+      "canonical": "[https://movnix.com/movie/mala](https://movnix.com/movie/mala)",
+      "metaTitle": "Mala (2026) Movie - Synopsis, Cast & Plot Details",
+      "openGraph": {
+        "og:title": "Mala - Uncover the Dark Secrets of the Island Curse",
+        "og:description": "When Reema inherits a remote island resort, she uncovers cryptic messages, tantric rituals, and a sinister family curse. Can she survive the island's grip?"
+      },
+      "twitterCard": {
+        "twitter:title": "Mala - Horror Thriller Movie",
+        "twitter:description": "A remote island, cryptic messages, and a terrifying family curse. Discover the truth behind Mala."
+      },
+      "metaDescription": "Reema and her friends unravel a deadly family curse, black magic, and dark secrets on a remote island resort in the horror thriller Mala."
+    },
+    "faq": [
+      {
+        "answer": "Mala follows Reema, a young woman who inherits an abandoned resort on a remote island from her aunt. Traveling there with three friends, she discovers strange locals, cryptic messages from her late mother, and a dark familial curse rooted in tantric rituals and black magic.",
+        "question": "What is the main plot of Mala?"
+      },
+      {
+        "answer": "The dominant genre of Mala is supernatural horror and psychological thriller, incorporating elements of South Asian mythology and occult practices.",
+        "question": "What is the dominant genre of Mala?"
+      },
+      {
+        "answer": "No, Mala is a standalone supernatural thriller film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Mala does not feature a post-credits scene; the story concludes fully before the final credits roll.",
+        "question": "Is there a post-credit scene in Mala?"
+      },
+      {
+        "answer": "The main protagonist is Reema, played by Indigo Sabharwal, who must navigate her family's dark legacy to survive the island.",
+        "question": "Who is the main protagonist of Mala?"
+      },
+      {
+        "answer": "No, Mala is an original fictional story written by Nisha Sabharwal and directed by Trishul Thejasvi, drawing thematic inspiration from Indian dark magic and tantric traditions.",
+        "question": "Is Mala based on a true story or a book?"
+      },
+      {
+        "answer": "The film was directed by Trishul Thejasvi and written by Nisha Sabharwal.",
+        "question": "Who directed and wrote the movie Mala?"
+      },
+      {
+        "answer": "The film explores themes of inherited generational trauma, familial betrayal, spiritual awakening, and confronting unknown psychological and occult forces.",
+        "question": "What key themes are explored in Mala?"
+      },
+      {
+        "answer": "No, Mala is intended for mature horror and thriller audiences due to its dark themes, depictions of black magic rituals, and tense, frightening atmosphere.",
+        "question": "Is Mala suitable for younger audiences or families?"
+      },
+      {
+        "answer": "Mala is available to watch on select digital streaming and video-on-demand platforms, including Hoopla.",
+        "question": "Where can viewers stream or watch Mala?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong supernatural and psychological horror involving black magic, occult rituals, and unsettling atmosphere."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong language typical of high-tension survival situations."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate violence driven by survival peril, dark rituals, and ominous threats."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving grief over a deceased parent, psychological dread, and intense survival stress."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 07:04:10.997295",
+    "updated_at": "2026-07-30 07:04:10.997295"
+  }
 }
