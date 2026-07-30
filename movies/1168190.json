@@ -1372,5 +1372,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1168190/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1168190,
+    "hash": "60b99324f0bef4a8aa9b710156c387697d1c5607809d5c8419c1377379fe8912",
+    "summary_one_sentence": "When their father dies under mysterious circumstances, estranged half-brothers Jonny and James team up to uncover a dangerous conspiracy tied to their family's past.",
+    "summary_short": "After learning of their father's sudden and suspicious death, estranged half-brothers Jonny and James are forced to reunite despite years of personal rift. Their search for answers quickly plunges them into a shadowy network of criminal activity and hidden family secrets. As danger mounts around them, the duo must reconcile their differences to survive the unfolding threat. Ultimately, uncovering the truth requires confronting a conspiracy that could shatter their family legacy forever.",
+    "summary_long": "The sudden and mysterious death of their father forces estranged half-brothers Jonny and James to cross paths after years of distance. Despite their contrasting personalities and deeply rooted rivalries, both brothers are driven by a shared need to discover what truly happened. As they begin investigating his final days, they discover a trail of buried secrets that links their father to high-stakes crime and political corruption. Their relentless digging attracts the attention of dangerous operatives determined to keep the truth hidden at all costs. Shifting between explosive high-octane action and sharp, comedic banter, the brothers navigate a web of deception that pushes their bond to its absolute limit. Along the way, they encounter unexpected allies and treacherous betrayals, realizing that their father's past was far more complex than either had ever imagined. Each revelation brings them closer to a massive conspiracy threatening not just their lives, but the stability of their entire community. To bring the orchestrators to justice, Jonny and James must learn to trust each other again and leverage their combined strengths. In a dramatic final showdown, the brothers face off against the mastermind behind their father's death to protect what remains of their family.",
+    "synopsis": "The Wrecking Crew is a high-energy blend of action, drama, and comedy that follows two estranged half-brothers, Jonny and James, who are pulled back together by tragedy following their father's mysterious death. Driven by grief and unanswered questions, the mismatched duo embarks on an investigation that uncovers a deep-seated conspiracy woven with crime, hidden identities, and dangerous family secrets. Balancing explosive confrontation with lighthearted brotherly friction, the film delivers an engaging mystery as the brothers race against the clock to expose the truth before those responsible eliminate them.",
+    "keywords": [
+      "estranged brothers",
+      "father's death",
+      "conspiracy",
+      "family secrets",
+      "sibling rivalry",
+      "mystery investigation",
+      "action comedy",
+      "buddy comedy",
+      "uncovering the truth",
+      "family drama",
+      "crime mystery",
+      "reluctant partners",
+      "reunion"
+    ],
+    "themes": [
+      {
+        "theme": "Family Bonds and Estrangement",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Conspiracy and Truth-Seeking",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Legacy and Secrets",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Grief and Justice",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The brothers confront the primary mastermind behind the conspiracy in an explosive showdown, risking everything to protect their loved ones and bring the truth to light.",
+      "conflict": "The brothers are compelled to reluctantly team up to investigate their father's death, forcing them to confront both external dangers and deep-seated past family grievances.",
+      "resolution": "With the conspiracy exposed and justice served, Jonny and James begin to heal their personal rift and forge a new path forward together.",
+      "introduction": "Estranged half-brothers Jonny and James lead starkly contrasting lives until the sudden, suspicious death of their private investigator father forces them to cross paths again.",
+      "risingAction": "As Jonny and James follow a trail of hidden clues and unmask a far-reaching network of corruption, powerful syndicate forces attempt to silence them, pushing the mismatched pair into high-stakes battles."
+    },
+    "characters": [
+      {
+        "name": "James Hale",
+        "role": "Hero",
+        "description": "A disciplined, rock-solid former Navy SEAL and family man who seeks truth and order while investigating his father's death."
+      },
+      {
+        "name": "Jonny Hale",
+        "role": "Anti Hero",
+        "description": "A hard-drinking, impetuous, suspended detective whose reckless behavior and trauma drive his quest for vengeance and closure."
+      },
+      {
+        "name": "Marcus Robichaux",
+        "role": "Villain",
+        "description": "A ruthless real estate mogul scheming to expand his fortune through land theft and corrupt conspiracies."
+      },
+      {
+        "name": "Governor Peter Mahoe",
+        "role": "Villain",
+        "description": "A corrupt politician colluding with powerful figures behind the land-grab conspiracy."
+      },
+      {
+        "name": "Pika",
+        "role": "Comic Relief",
+        "description": "A foul-mouthed computer hacker sidekick who assists the brothers with technical intelligence while delivering lighthearted banter."
+      },
+      {
+        "name": "Leila Hale",
+        "role": "Supporting Character",
+        "description": "James's supportive and perceptive wife who helps ground him amidst the mounting family turmoil."
+      },
+      {
+        "name": "Valentina",
+        "role": "Supporting Character",
+        "description": "Jonny's long-suffering ex-girlfriend who challenges his self-destructive tendencies."
+      },
+      {
+        "name": "Detective Rennert",
+        "role": "Supporting Character",
+        "description": "A seasoned law enforcement officer involved in the investigation around the family's past and father's death."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jonny",
+        "target": "James",
+        "description": "Estranged half-brothers / Allies"
+      },
+      {
+        "source": "Jonny",
+        "target": "Father",
+        "description": "Father and Son (Deceased)"
+      },
+      {
+        "source": "James",
+        "target": "Father",
+        "description": "Father and Son (Deceased)"
+      }
+    ],
+    "seo": {
+      "slug": "the-wrecking-crew",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-wrecking-crew](https://movnix.com/movie/the-wrecking-crew)",
+        "name": "The Wrecking Crew",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart."
+      },
+      "keywords": [
+        "The Wrecking Crew",
+        "The Wrecking Crew movie",
+        "Jonny and James",
+        "action movie conspiracy",
+        "family conspiracy film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-wrecking-crew](https://movnix.com/movie/the-wrecking-crew)",
+      "metaTitle": "The Wrecking Crew - Plot, Overview & Movie Details | Movnix",
+      "openGraph": {
+        "og:title": "The Wrecking Crew - Official Movie Details",
+        "og:description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death to uncover a deadly family conspiracy."
+      },
+      "twitterCard": {
+        "twitter:title": "The Wrecking Crew - Official Movie Details",
+        "twitter:description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death to uncover a deadly family conspiracy."
+      },
+      "metaDescription": "Estranged half-brothers Jonny and James reunite after their father's death to uncover a conspiracy that threatens to tear their family apart."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of The Wrecking Crew is action-comedy, blending high-stakes martial arts and explosive set pieces with buddy-cop humor and mystery elements.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "No, The Wrecking Crew is a standalone original film based on an original concept developed by Jonathan Tropper, Jason Momoa, and Dave Bautista.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "No, the movie concludes cleanly during the main credits without an extra mid-credit or post-credit scene.",
+        "question": "Is there a post-credit or mid-credit scene?"
+      },
+      {
+        "answer": "Jason Momoa stars as Jonny, a suspended police detective, while Dave Bautista plays his estranged half-brother James, a U.S. Navy SEAL.",
+        "question": "Who stars as the estranged half-brothers Jonny and James?"
+      },
+      {
+        "answer": "The primary setting and filming location for the movie is Hawaii, specifically around Honolulu, where the central mystery and action take place.",
+        "question": "Where is the movie set and filmed?"
+      },
+      {
+        "answer": "The film was directed by Ángel Manuel Soto and written by screenwriter Jonathan Tropper.",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The mystery begins with the sudden hit-and-run death of their father, Walter Hale, a Hawaiian private investigator who uncovered a corrupt land conspiracy before he died.",
+        "question": "What sets the plot in motion?"
+      },
+      {
+        "answer": "The Wrecking Crew is rated R for strong violence, pervasive language, and brief adult material.",
+        "question": "What age rating does the movie have?"
+      },
+      {
+        "answer": "While the main plot and mystery are resolved by the end, the surviving dynamic between Jonny and James leaves the door open for potential future adventures together.",
+        "question": "Does the movie leave room for a sequel?"
+      },
+      {
+        "answer": "The movie was produced by Amazon MGM Studios and is available to stream on Prime Video.",
+        "question": "Where can viewers watch The Wrecking Crew?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, mostly restricted to suspenseful atmosphere surrounding a mysterious death."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate use of strong language and profanity during high-stress conflict situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence, action sequences, and physical confrontations typical of an action-mystery thriller."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Occasional social drinking and casual tobacco or substance use in adult environments."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content, though brief suggestive references or light romantic subplots may be present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional weight involving themes of grief, family betrayal, and conspiracy."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 06:03:41.877421",
+    "updated_at": "2026-07-30 06:03:41.877421"
+  }
 }
