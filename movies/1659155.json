@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 51.4192,
-    "voteAverage": 5.8,
-    "voteCount": 9,
+    "popularity": 53.0559,
+    "voteAverage": 6.1,
+    "voteCount": 20,
     "homepage": "https://www.netflix.com/title/81783055",
     "posterPath": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
     "backdropPath": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
@@ -149,7 +149,49 @@
       "type": "poster"
     },
     {
+      "filePath": "/wIAcaNVNfk5Prk4l9zurFAmVUtO.jpg",
+      "width": 1680,
+      "height": 2520,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gkgD1J5GU28LEUEhwKINzyqvC5p.jpg",
+      "width": 1200,
+      "height": 1800,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/lAQ4SrExB8z5QchpmNHQDU5AJMU.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5SNXr1bVkGJiM5zufEVjLbY8nmZ.jpg",
+      "width": 1684,
+      "height": 2528,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cvYjRxZxQ9cyllgrKHoBm5XSDnY.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/qlVf7RfnIYmVPgSO9b16m2wv7JU.jpg",
       "width": 2560,
       "height": 1440,
       "aspectRatio": 1.778,
@@ -182,13 +224,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/4EZij1V3y9KKyKvlG2GHvtQQuI0.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.8,
-      "votesCount": 9
+      "ratingValue": 6.1,
+      "votesCount": 20
     },
     {
       "source": "crawled",
@@ -243,13 +292,31 @@
       "order": 4
     },
     {
+      "tmdbPersonId": 588841,
+      "name": "Mabel del Pozo",
+      "profilePath": "/rcl3y06AXmHd3Xwiebdqh8xcbys.jpg",
+      "character": "Berta",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 5321214,
+      "name": "Celine Fortenbacher",
+      "profilePath": "/bmfMdcWB4XqtJaCUmN21DzmGVqK.jpg",
+      "character": "Rose",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
       "tmdbPersonId": 4400038,
       "name": "Olaya Lopez",
       "profilePath": null,
       "character": "Police Officer",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 7
     },
     {
       "tmdbPersonId": 2997263,
@@ -258,7 +325,7 @@
       "character": "Uncle",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 8
     },
     {
       "tmdbPersonId": 981313,
@@ -309,7 +376,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
@@ -352,5 +424,209 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1659155/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1659155,
+    "hash": "b4bf3be603910d62f408af232e926501c767bde538b00f206b895dac6ef990c3",
+    "summary_one_sentence": "Following her mother's sudden passing, an estranged daughter returns home only to suspect that her father's growing obsession with conspiracy theories hides a darker secret behind the tragedy.",
+    "summary_short": "After her mother dies under unexpected circumstances, Berlin-based DJ Ruth returns to her quiet hometown in northern Spain to reconnect with her family. Upon arriving, she discovers that her estranged father, Martín, has transformed into a paranoid recluse obsessed with dark conspiracy theories. As Martín's behavior grows increasingly erratic and aggressive, Ruth begins to suspect that her mother's death was not an accident and that her father might be hiding a sinister secret. Trapped under the same roof with a man she barely recognizes, Ruth must unravel the truth behind her family's collapse before her own grip on reality slips.",
+    "summary_long": "Estranged from her family and living in Berlin, Ruth receives devastating news regarding the sudden, untimely death of her mother, Lucía. Returning to her hometown in northern Spain for the funeral, Ruth attempts to comfort her father, Martín, but finds a man deeply changed. Since his retirement, Martín has fallen down a rabbit hole of radical internet conspiracy theories, becoming paranoid, hostile, and deeply distrustful of the world. As Ruth investigates strange voicemail messages and inconsistent details surrounding the night of her mother's death, Martín's volatile behavior leads her to suspect foul play. Her suspicion rapidly turns into obsession as she begins to believe her own father may have murdered her mother to conceal his dangerous secret plans. Tensions inside the household escalate into emotional confrontations, forcing local authorities to intervene as accusations fly from both sides. Driven by grief, Ruth struggles to discern whether her father is a dangerous fanatic or if her own desperation for answers is clouding her judgment. Ultimately, the tragic truth exposes how unchecked fear, misinformation, and unaddressed grief can shatter a family from within. The haunting aftermath leaves Ruth reflecting on how easily individuals choose comforting delusions over uncomfortable realities.",
+    "synopsis": "The Truthers (Los creyentes) is a psychological thriller that explores the destructive impact of conspiracy theories, paranoia, and grief on family bonds. After learning of her mother's sudden death, Ruth returns to her small hometown in Spain to reconnect with her father, Martín. Instead of finding a grieving widower, she encounters an aggressive man consumed by radical conspiracy theories and fringe belief systems. As Ruth uncovers unsettling discrepancies surrounding her mother's supposed accident, her father's unpredictable behavior causes her to question everything she knows about him. As tension mounts between father and daughter, Ruth finds herself caught in a psychological cat-and-mouse game where the line between reality, suspicion, and obsession constantly blurs.",
+    "keywords": [
+      "conspiracy theories",
+      "estranged father",
+      "suspicious death",
+      "grief",
+      "paranoia",
+      "hometown return",
+      "family secrets",
+      "psychological tension",
+      "unreliable perspective",
+      "obsessive behavior",
+      "small town mystery",
+      "domestic thriller",
+      "false certainty"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Secrets and Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Paranoia and Distrust",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Search for Truth",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "Ruth confronts a shocking, central revelation about her family and the town that forces a direct showdown between the constructed reality she believed and the destabilizing truth.",
+      "conflict": "Upon reuniting with her father, Ruth notices deeply unsettling changes in his behavior and erratic beliefs, forcing her to question the official narrative surrounding her mother's passing.",
+      "resolution": "In the aftermath of the confrontation, the immediate danger subsides, leaving Ruth to pick up the pieces of her altered reality and find a bittersweet path forward with her remaining family.",
+      "introduction": "Ruth returns to her quiet hometown following the sudden, unexpected death of her mother, attempting to process her grief and reconnect with her family.",
+      "risingAction": "As Ruth digs deeper into her family's recent past, she uncovers strange anomalies, cryptic records, and a web of local secrets that align with her father's bizarre claims, raising the stakes and her own paranoia."
+    },
+    "characters": [
+      {
+        "name": "Ruth",
+        "role": "Hero",
+        "description": "The protagonist who returns to her hometown after her mother's death and drives the investigation into her family's secrets."
+      },
+      {
+        "name": "Ruth's Father",
+        "role": "Other",
+        "description": "The central figure of mystery whose odd behavior sparks Ruth's suspicions regarding the true nature of her mother's death."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ruth",
+        "target": "Mother",
+        "description": "Estranged daughter / Deceased mother whose sudden death drives the plot"
+      },
+      {
+        "source": "Ruth",
+        "target": "Father",
+        "description": "Daughter / Father experiencing strained reunification and mutual suspicion"
+      },
+      {
+        "source": "Father",
+        "target": "Mother",
+        "description": "Husband / Wife; his obsession with conspiracy theories stems from or hides the truth of her death"
+      }
+    ],
+    "seo": {
+      "slug": "the-truthers",
+      "jsonLd": {
+        "name": "The Truthers",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened."
+      },
+      "keywords": [
+        "The Truthers movie",
+        "The Truthers synopsis",
+        "Ruth movie",
+        "mystery drama film",
+        "The Truthers plot"
+      ],
+      "canonical": "[https://movnix.com/movie/the-truthers](https://movnix.com/movie/the-truthers)",
+      "metaTitle": "The Truthers - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "The Truthers - Official Movie Details",
+        "og:description": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened."
+      },
+      "twitterCard": {
+        "twitter:title": "The Truthers - Official Movie Details",
+        "twitter:description": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened."
+      },
+      "metaDescription": "After her mother's sudden death, Ruth returns home and uncovers troubling secrets about her father. Read the full synopsis and details for The Truthers."
+    },
+    "faq": [
+      {
+        "answer": "The Truthers follows Ruth, who returns to her hometown after the sudden death of her mother. Upon reuniting with her father, his increasingly odd behavior makes her question what really happened surrounding her mother's passing.",
+        "question": "What is the plot of The Truthers?"
+      },
+      {
+        "answer": "The film's dominant genres are psychological thriller, mystery, and drama.",
+        "question": "What is the dominant genre of The Truthers?"
+      },
+      {
+        "answer": "No, The Truthers is a standalone film and is not part of a franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene in The Truthers. The story concludes before the credits roll.",
+        "question": "Is there a post-credit scene in The Truthers?"
+      },
+      {
+        "answer": "No, The Truthers is an original fictional story written specifically for the screen.",
+        "question": "Is The Truthers based on a true story or a book?"
+      },
+      {
+        "answer": "The story revolves around Ruth, a grieving woman seeking answers, and her father, whose strange and suspicious behavior drives the narrative.",
+        "question": "Who are the central characters in the movie?"
+      },
+      {
+        "answer": "The movie is intended for mature audiences who enjoy suspenseful stories, containing psychological tension, grief themes, and intense family drama.",
+        "question": "What age rating or target audience is The Truthers intended for?"
+      },
+      {
+        "answer": "While it features intense suspense, paranoia, and unsettling situations, it functions primarily as a psychological thriller rather than a traditional horror film.",
+        "question": "Is The Truthers a horror movie?"
+      },
+      {
+        "answer": "The primary themes include grief, family secrets, trust, deception, and the search for truth in the face of psychological uncertainty.",
+        "question": "What are the main themes explored in The Truthers?"
+      },
+      {
+        "answer": "Availability depends on regional distribution, but the film can typically be found in select theaters or on major digital rental and streaming platforms.",
+        "question": "Where can I watch The Truthers?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Moderate psychological tension, eerie atmosphere, and unsettling themes."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong language and tense verbal confrontations."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild implied violence and suspense surrounding a mysterious death."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Infrequent depictions of alcohol consumption during emotional scenes."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving maternal grief, familial distrust, and psychological unraveling."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 1,
+      "science": 2,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-07-27 17:56:06.614199",
+    "updated_at": "2026-07-27 11:00:01.093"
+  }
 }
