@@ -8,13 +8,13 @@
     "releaseDate": "2026-07-22",
     "runtime": 82,
     "budget": "500000",
-    "revenue": "295731",
+    "revenue": "435843",
     "status": "Released",
-    "popularity": 22.523,
-    "voteAverage": 8,
-    "voteCount": 4,
+    "popularity": 28.1255,
+    "voteAverage": 8.714,
+    "voteCount": 7,
     "homepage": "https://www.altitude.film/pinocchio-unstrung",
-    "posterPath": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
+    "posterPath": "/r0hCOPsYHFc7qok51canND9TVoN.jpg",
     "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
     "collectionId": null,
     "certification": "NR"
@@ -51,6 +51,13 @@
     {
       "name": "PINOCCHIO UNSTRUNG Interview with Cast & Crew",
       "key": "tjcdU5F6UU0",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
+    {
+      "name": "Rhys Frake-Waterfield Talks Pinocchio Unstrung, Gives Poohniverse: Monsters Assemble Update",
+      "key": "ITwdBklbYuM",
       "site": "YouTube",
       "size": 1080,
       "type": "Featurette"
@@ -156,7 +163,7 @@
   ],
   "images": [
     {
-      "filePath": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
+      "filePath": "/r0hCOPsYHFc7qok51canND9TVoN.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -188,13 +195,6 @@
       "width": 785,
       "height": 1178,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -297,6 +297,13 @@
     },
     {
       "filePath": "/uAwyXRsiBXZplRDKvxFOBnCuoEt.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -1239,13 +1246,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/6stxRhXAcigNgrrDjgrXxtnyTui.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8,
-      "votesCount": 4
+      "ratingValue": 8.714,
+      "votesCount": 7
     },
     {
       "source": "imdb",
@@ -1395,21 +1409,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 3122176,
-      "name": "Rhys Frake-Waterfield",
-      "profilePath": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1482026,
       "name": "Scott Chambers",
       "profilePath": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3122176,
+      "name": "Rhys Frake-Waterfield",
+      "profilePath": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -1445,6 +1459,11 @@
     {
       "iso_3166_1": "US",
       "title": "Pinocchio Unstrung",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "MX",
+      "title": "Pinocchio: El Lado Oscuro",
       "type": ""
     }
   ],

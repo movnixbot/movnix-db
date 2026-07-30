@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 15.7733,
-    "voteAverage": 5.722,
-    "voteCount": 36,
+    "popularity": 13.0647,
+    "voteAverage": 5.73,
+    "voteCount": 37,
     "homepage": "https://mock-movie-website.com/movies/1414413",
     "posterPath": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
     "backdropPath": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
@@ -245,8 +245,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.722,
-      "votesCount": 36
+      "ratingValue": 5.73,
+      "votesCount": 37
     },
     {
       "source": "imdb",
@@ -495,5 +495,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1414413/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1414413,
+    "hash": "844e8a65e8d123a648aa4f7acac52e0fa88494529faef6d9f29d172151ececc2",
+    "summary_one_sentence": "When an elite military officer and his squad attend a team member's wedding in Mexico, they are ambushed by a ruthless drug cartel and forced to fight their way to survival.",
+    "summary_short": "Decorated military officer Captain Jordan Wright and his elite squad take leave to attend a team member's wedding in a quiet Mexican town. What begins as a joyous celebration quickly turns into a nightmare when a deadly drug cartel attacks the gathering to claim the family's land. Cut off from immediate backup and heavily outnumbered, Wright must rally his squad and use all their combat skills to protect innocent survivors. Together, the battle-tested soldiers wage an all-out war against the cartel in a desperate bid for survival.",
+    "summary_long": "Captain Jordan Wright, a decorated U.S. military officer, leads a close-knit squad of elite soldiers through high-stakes combat operations. After completing a difficult deployment, the team takes leave to travel to Mexico for the wedding of their fellow soldier and gunner-medic, Alberto. Upon arriving, Wright and his men receive a warm welcome from Alberto's family, but underlying tension brews due to local land disputes. The celebration is shattered when a murderous drug cartel violently ambushes the wedding in an attempt to seize control of the territory. Taken by surprise and facing overwhelming firepower, Wright quickly takes command to protect the civilians and stabilize the chaotic situation. Navigating the hostile terrain without standard military support, the squad is forced to rely entirely on their tactical training and unyielding brotherhood. As the brutal cartel closes in, innocent lives are caught in the crossfire, escalating the conflict into a high-stakes siege. Determined not to leave anyone behind, Wright leads a fierce tactical counterattack against the heavily armed cartel forces. Through grit, strategy, and mutual sacrifice, the soldiers fight relentlessly to safeguard the survivors and secure a path to safety.",
+    "synopsis": "Brothers Under Fire follows Captain Jordan Wright, a seasoned military leader who travels to Mexico with his squad to celebrate the wedding of one of their own. The festivities are abruptly shattered when a deadly drug cartel attacks the venue as part of an ongoing violent land dispute. Isolated in hostile territory without official military backing, Captain Wright and his men must call upon their combat experience, unit cohesion, and tactical survival skills to protect innocent lives and battle their way through enemy territory.",
+    "keywords": [
+      "drug cartel",
+      "military squad",
+      "ambush",
+      "battle for survival",
+      "brotherhood",
+      "mexico setting",
+      "interrupted wedding",
+      "tactical combat",
+      "behind enemy lines",
+      "rescue mission",
+      "squadron leadership",
+      "high-stakes standoff",
+      "gunfight"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Brotherhood and Loyalty",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty vs. Self-Preservation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a boiling point in a high-stakes tactical showdown where Jordan and his men must make a desperate stand against the cartel's full force.",
+      "conflict": "The peaceful celebration is shattered when the group unexpectedly crosses paths with a ruthless cartel, turning their leave into a sudden struggle for survival.",
+      "resolution": "The dust settles after the fierce battle, leaving Jordan and the remaining survivors to process the harrowing ordeal and count the cost of their brotherhood.",
+      "introduction": "Captain Jordan Wright and his squad arrive in Mexico to celebrate a teammate's wedding, enjoying brief respite from military duty.",
+      "risingAction": "As violence erupts, Jordan attempts to guide the surviving squad members to safety through enemy territory while relentless cartel forces pursue them."
+    },
+    "characters": [
+      {
+        "name": "Captain Jordan Wright",
+        "role": "Hero",
+        "description": "A seasoned military leader who takes charge to fight off the cartel and lead his surviving men to safety."
+      },
+      {
+        "name": "Alberto Castillo",
+        "role": "Villain",
+        "description": "A dangerous cartel adversary who initiates the deadly conflict against the squad."
+      },
+      {
+        "name": "Lieutenant Carson",
+        "role": "Mentor",
+        "description": "A key tactical officer who advises Captain Wright and helps guide the squad under pressure."
+      },
+      {
+        "name": "Isabella Perez",
+        "role": "Supporting Character",
+        "description": "A local contact and bystander who assists the squad during the cartel ambush."
+      },
+      {
+        "name": "Baker",
+        "role": "Comic Relief",
+        "description": "A member of the group who provides lighthearted commentary and levity amidst the high-stress firefight."
+      },
+      {
+        "name": "Danny Walton",
+        "role": "Anti Hero",
+        "description": "A fierce soldier with unpredictable tendencies who relies on aggressive tactics to defeat enemies."
+      },
+      {
+        "name": "Miguel",
+        "role": "Other",
+        "description": "A local resident caught in the crossfire whose alliance helps the squad navigate hostile territory."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Captain Jordan Wright",
+        "target": "Squadron Members",
+        "description": "Commander/Squad Leader"
+      },
+      {
+        "source": "Captain Jordan Wright",
+        "target": "Drug Cartel",
+        "description": "Enemies/Combatants"
+      },
+      {
+        "source": "Squadron Members",
+        "target": "Drug Cartel",
+        "description": "Enemies/Combatants"
+      },
+      {
+        "source": "Groom (Squad Member)",
+        "target": "Bride",
+        "description": "Husband/Wife"
+      }
+    ],
+    "seo": {
+      "slug": "brothers-under-fire",
+      "jsonLd": {
+        "name": "Brothers Under Fire",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men."
+      },
+      "keywords": [
+        "Brothers Under Fire",
+        "Brothers Under Fire movie",
+        "Brothers Under Fire synopsis",
+        "action movie",
+        "cartel action thriller",
+        "Captain Jordan Wright"
+      ],
+      "canonical": "[https://movnix.com/movie/brothers-under-fire](https://movnix.com/movie/brothers-under-fire)",
+      "metaTitle": "Brothers Under Fire | Action Thriller Movie - Movnix",
+      "openGraph": {
+        "og:title": "Brothers Under Fire | Official Movie Synopsis",
+        "og:description": "Captain Jordan Wright and his squad must survive a deadly showdown with a Mexican cartel in Brothers Under Fire."
+      },
+      "twitterCard": {
+        "twitter:title": "Brothers Under Fire | Action Thriller Movie",
+        "twitter:description": "When a wedding leave turns deadly in Mexico, Captain Jordan Wright leads his men in a war against a ruthless cartel."
+      },
+      "metaDescription": "When a military squad on leave in Mexico is ambushed by a cartel, Captain Jordan Wright must fight to lead his men to safety in Brothers Under Fire."
+    },
+    "faq": [
+      {
+        "answer": "Brothers Under Fire is primarily an action-thriller film centered on intense military survival and fighting against a ruthless drug cartel.",
+        "question": "What is the dominant genre of Brothers Under Fire?"
+      },
+      {
+        "answer": "No, Brothers Under Fire is a standalone film and is not part of an existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Kiefer Sutherland stars as the lead character, Captain Jordan Wright.",
+        "question": "Who plays Captain Jordan Wright in the movie?"
+      },
+      {
+        "answer": "The film was directed by Justin Chadwick, from a screenplay written by Delbert Hancock and Ian Mackenzie Jeffers.",
+        "question": "Who directed Brothers Under Fire?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the movie ends.",
+        "question": "Is there a post-credit scene in Brothers Under Fire?"
+      },
+      {
+        "answer": "The story follows Captain Jordan Wright and his military squad as they travel to Mexico for a fellow soldier's wedding, only to be ambushed by a violent cartel, forcing them to shift from celebration to a fight for survival.",
+        "question": "What is the main plot of Brothers Under Fire?"
+      },
+      {
+        "answer": "The primary setting for the film's events is in Mexico, where the squad's leave for a wedding turns into a combat zone.",
+        "question": "Where is the movie set?"
+      },
+      {
+        "answer": "The movie has an approximate running time of 101 minutes (1 hour and 41 minutes).",
+        "question": "What is the runtime of Brothers Under Fire?"
+      },
+      {
+        "answer": "Brothers Under Fire was released on April 17, 2026.",
+        "question": "When was Brothers Under Fire released?"
+      },
+      {
+        "answer": "No, the film features heavy violence, intense military combat, and mature themes involving cartels, making it suited for adult audiences.",
+        "question": "Is Brothers Under Fire suitable for children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements focused primarily on intense suspense, life-or-death peril, and threatened brutality from armed cartel members."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity consistent with military personnel in high-stress, life-threatening combat scenarios."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence including gunfights, explosive tactical encounters, and lethal combat against a murderous drug cartel."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Moderate presence of substances, including casual alcohol consumption during leave/wedding festivities and thematic references to cartel drug trade operations."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the narrative overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered on combat survival, brotherly sacrifice, hostage distress, and protecting squad members under heavy fire."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-07-28 07:27:56.151481",
+    "updated_at": "2026-07-28 07:27:56.151481"
+  }
 }
