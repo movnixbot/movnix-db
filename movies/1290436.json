@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 12.0643,
+    "popularity": 10.5396,
     "voteAverage": 7.2,
     "voteCount": 39,
     "homepage": "https://mock-movie-website.com/movies/1290436",
@@ -469,5 +469,216 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1290436/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1290436,
+    "hash": "6368a3088464e600e6e9bd9f5991cd907aee799ffdb3c74efdaa26af781d0045",
+    "summary_one_sentence": "Two young camp counselors navigate the bittersweet complexities of growing up and drifting apart over the course of a eventful French summer camp.",
+    "summary_short": "Set against the backdrop of a summer camp transitioning from the urban tower blocks of Paris to the scenic countryside of the Drôme region, Shaï and Djeneba take on the responsibility of guiding a group of lively kids. As they manage the daily joys and chaotic challenges of camp life, the two friends are forced to confront their own maturing perspectives and evolving identities. Ultimately, the season highlights the delicate, inevitable tension between holding onto youth and accepting the reality of growing apart. Through warm humor and tender drama, their shared journey becomes an insightful snapshot of early adulthood.",
+    "summary_long": " Shaï and Djeneba, two vibrant counselors from the Parisian suburbs, embark on a journey south to lead a summer camp in the picturesque Drôme countryside. Charged with keeping a spirited group of children engaged and safe, they throw themselves into daytime games, outdoor adventures, and evening campfire routines. However, beneath the sunny surface and playful dynamic lies a growing rift as their personal ambitions and maturity levels begin to diverge. Shaï struggles with uncertainty about his future back in Paris, while Djeneba finds herself leaning toward new paths and independent goals. As the weeks pass, minor misunderstandings and differing priorities lead to quiet friction, testing the strength of their longtime friendship. Despite these underlying tensions, they remain dedicated to providing the campers with an unforgettable, transformative summer experience. Interactions with local residents, fellow counselors, and the children themselves offer moments of self-reflection that push both leads toward greater emotional clarity. By the time the camp session draws to a close and bags are packed for the return trip north, Shaï and Djeneba must candidly address how much they have changed. Their shared summer becomes a pivotal turning point, marking the bittersweet end of one chapter and the realistic beginning of another.",
+    "synopsis": "Summer Beats is a heartwarming yet grounded coming-of-age drama that follows Shaï and Djeneba, two energetic camp counselors who travel from the high-rises of Paris to the picturesque landscapes of the Drôme region for a seasonal youth program. Responsible for a lively group of city kids adapting to life in the countryside, the duo balances the daily humor, chaotic fun, and unexpected obstacles of running camp activities. Beneath the sunny routines and outdoor excursions, however, lies an authentic exploration of late adolescence and modern youth culture. As the summer unfolds, the close-knit dynamic between the two friends is challenged by personal growth, shifting priorities, and the subtle, bittersweet realization that growing up often means growing apart. Blending lighthearted comedic moments with poignant emotional depth, the film offers a realistic and relatable look at friendship, responsibility, and the delicate transition into adulthood.",
+    "keywords": [
+      "coming-of-age",
+      "french cinema",
+      "summer camp",
+      "youth culture",
+      "growing apart",
+      "city vs countryside",
+      "drôme region",
+      "paris tower blocks",
+      "camp counselors",
+      "slice of life",
+      "friendship friction",
+      "summer vibes",
+      "bittersweet relationship"
+    ],
+    "themes": [
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Friendship and Growing Apart",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Urban vs. Rural Divide",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Responsibility and Mentorship",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A pivotal moment during the camp season pushes their relationship to a breaking point, forcing both counselors to face hard truths about their shared past and diverging futures.",
+      "conflict": "As they navigate the responsibilities of guiding the kids, underlying tensions emerge regarding their personal ambitions, evolving identities, and the shifting nature of their friendship.",
+      "resolution": "As the summer draws to a close, Shaï and Djeneba find a new understanding of themselves and each other, accepting the inevitability of change as they transition into the next chapter of adulthood.",
+      "introduction": "Shaï and Djeneba, two young adults from the Parisian suburbs, journey to the rural Drôme region to work as counselors at a summer camp, setting the stage for their summer and dynamic.",
+      "risingAction": "The daily demands of camp life, interpersonal drama among the campers, and personal crossroads force Shaï and Djeneba to confront the emotional distance growing between them."
+    },
+    "characters": [
+      {
+        "name": "Shaï",
+        "role": "Hero",
+        "description": "A youth leader navigating personal growth, friendship, and the transition into adulthood during a summer camp."
+      },
+      {
+        "name": "Djeneba",
+        "role": "Hero",
+        "description": "Shaï's close companion and co-leader, wrestling with evolving relationships and life changes alongside him."
+      },
+      {
+        "name": "Camp Directors / Senior Staff",
+        "role": "Mentor",
+        "description": "Older figures who guide the youth leaders through the challenges of managing campers and taking on adult responsibilities."
+      },
+      {
+        "name": "Fellow Camp Counselors",
+        "role": "Supporting Character",
+        "description": "The surrounding team of activity leaders who share the daily work, camaraderie, and interpersonal dynamics of the camp."
+      },
+      {
+        "name": "Camp Kids / Mischievous Counselors",
+        "role": "Comic Relief",
+        "description": "Energetic campers and playful peers who bring humor, unpredictability, and lightheartedness to the journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Shaï",
+        "target": "Djeneba",
+        "description": "Childhood Friends / Co-Counselors"
+      },
+      {
+        "source": "Djeneba",
+        "target": "Shaï",
+        "description": "Childhood Friends / Co-Counselors"
+      }
+    ],
+    "seo": {
+      "slug": "summer-beats",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/summer-beats](https://movnix.com/movie/summer-beats)",
+        "name": "Summer Beats",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "From the tower blocks of Paris to the countryside of the Drôme region, Shaï and Djeneba lead summer camp activities while grappling with growing up and growing apart."
+      },
+      "keywords": [
+        "Summer Beats",
+        "Summer Beats movie",
+        "Shaï and Djeneba",
+        "coming of age drama",
+        "French cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/summer-beats](https://movnix.com/movie/summer-beats)",
+      "metaTitle": "Summer Beats (2026) - Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Summer Beats - Watch Trailer & Movie Info",
+        "og:description": "Follow Shaï and Djeneba from the tower blocks of Paris to the Drôme countryside as they lead summer camp activities and navigate growing apart."
+      },
+      "twitterCard": {
+        "twitter:title": "Summer Beats Movie",
+        "twitter:description": "Shaï and Djeneba lead summer camp activities while grappling with growing up and growing apart in Summer Beats."
+      },
+      "metaDescription": "Shaï and Djeneba navigate summer camp leadership, coming of age, and growing apart from Paris to Drôme in the drama film Summer Beats."
+    },
+    "faq": [
+      {
+        "answer": "No, Summer Beats (originally titled Ma frère) is a standalone French coming-of-age drama and comedy directed by Lise Akoka and Romane Guéret, not connected to any existing cinematic franchise.",
+        "question": "Is Summer Beats part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene in Summer Beats. The film concludes as the main credits begin.",
+        "question": "Is there a post-credit scene in Summer Beats?"
+      },
+      {
+        "answer": "The dominant genres of Summer Beats are coming-of-age drama and comedy, focusing on friendship, personal growth, and transition into young adulthood.",
+        "question": "What is the dominant genre of Summer Beats?"
+      },
+      {
+        "answer": "The main characters are 19-year-old childhood friends Shaï and Djeneba, portrayed by lead actors Fanta Kebe and Shirel Nataf.",
+        "question": "Who are the main characters and who plays them?"
+      },
+      {
+        "answer": "Summer Beats is co-directed and co-written by French filmmakers Lise Akoka and Romane Guéret.",
+        "question": "Who directed Summer Beats?"
+      },
+      {
+        "answer": "Set between the tower blocks of Paris's 19th arrondissement and the countryside of the Drôme region in southeast France, the story follows Shaï and Djeneba as they work as counselors at a summer camp, supervising kids while navigating their own evolving friendship.",
+        "question": "What is the setting and premise of the movie?"
+      },
+      {
+        "answer": "No, Summer Beats is an original fictional story written for the screen by Lise Akoka, Romane Guéret, and Catherine Paillé.",
+        "question": "Is Summer Beats based on a true story or a book?"
+      },
+      {
+        "answer": "The movie is aimed primarily at young adults and general audiences interested in realistic coming-of-age stories, contemporary drama, and French cinema.",
+        "question": "What age demographic or audience rating is Summer Beats suitable for?"
+      },
+      {
+        "answer": "Yes, Summer Beats premiered as part of the official selection (Cannes Première section) at the 2025 Cannes Film Festival.",
+        "question": "Did Summer Beats premiere at any major film festivals?"
+      },
+      {
+        "answer": "The film has a total runtime of approximately 1 hour and 52 minutes (112 minutes).",
+        "question": "What is the approximate runtime of Summer Beats?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary scenes present."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language and realistic youth slang throughout."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal violence, limited to occasional mild verbal conflict or arguments between camp leaders."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual depiction of social alcohol consumption or cigarette smoking by young adults."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic themes and brief references to adolescent relationships."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity focusing on themes of coming of age, changing friendships, and personal identity."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 5,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 5,
+      "science": 0,
+      "suspense": 2,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 23:47:49.024708",
+    "updated_at": "2026-07-27 23:47:49.024708"
+  }
 }
