@@ -1,29 +1,546 @@
 {
   "tvShow": {
     "tmdbId": 292533,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
+    "imdbId": "tt43492801",
+    "name": "Wrath",
+    "originalName": "Fúria",
+    "overview": "A wounded amnesiac finds refuge with an MMA coach and steps into the ring, torn between hope for a new future and a dangerous past that keeps closing in.",
+    "firstAirDate": "2026-07-29",
+    "lastAirDate": "2026-07-29",
+    "status": "Ended",
+    "popularity": 14.3823,
     "voteAverage": null,
     "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "type": "Miniseries",
+    "posterPath": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+    "backdropPath": "/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "68365d41958826d3b1414e6a",
+      "air_date": "2026-07-29",
+      "episodes": [
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 6268110,
+          "name": "Purpose",
+          "overview": "An amnesiac on the brink of death is reluctantly taken in by an MMA coach. As brutal flashbacks emerge, a pompous young fighter aims for the spotlight.",
+          "production_code": "",
+          "runtime": 53,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/dDUFv6fPfkjBEp7NTxMFAymlYoj.jpg",
+          "vote_average": 6,
+          "vote_count": 1,
+          "crew": [],
+          "guest_stars": [
+            {
+              "character": "Franco",
+              "credit_id": "6a69f26aa3ac09ca2065e6fc",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 1694031,
+              "known_for_department": "Acting",
+              "name": "Breno de Filippo",
+              "original_name": "Breno De Filippo",
+              "popularity": 0.3673,
+              "profile_path": "/Al96cwV2NFgd1qronpDzCT5upLD.jpg"
+            },
+            {
+              "character": "Aníbal",
+              "credit_id": "6a69f27770355d235d3d148b",
+              "order": 501,
+              "adult": false,
+              "gender": 2,
+              "id": 1927755,
+              "known_for_department": "Acting",
+              "name": "Kelner Macêdo",
+              "original_name": "Kelner Macêdo",
+              "popularity": 0.6344,
+              "profile_path": "/uhGovKTSjaAGLdQmQ5QsVTIi0vc.jpg"
+            },
+            {
+              "character": "Paulina",
+              "credit_id": "6a69f2c550a5c9c256240957",
+              "order": 502,
+              "adult": false,
+              "gender": 0,
+              "id": 6377369,
+              "known_for_department": "Acting",
+              "name": "Valentina Couto",
+              "original_name": "Valentina Couto",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Tanque",
+              "credit_id": "6a69f2d68c679e34d3f641f0",
+              "order": 503,
+              "adult": false,
+              "gender": 2,
+              "id": 2267084,
+              "known_for_department": "Acting",
+              "name": "Gabriel Chadan",
+              "original_name": "Gabriel Chadan",
+              "popularity": 0.1699,
+              "profile_path": "/gqukQwmekXqEh3BzmHnfHPyq0WD.jpg"
+            },
+            {
+              "character": "Árbitro galpão das lutas",
+              "credit_id": "6a69f308a1c7e1c0e337871a",
+              "order": 504,
+              "adult": false,
+              "gender": 0,
+              "id": 6377372,
+              "known_for_department": "Acting",
+              "name": "Will Viana",
+              "original_name": "Will Viana",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Apresentador Galpão das Lutas",
+              "credit_id": "6a69f34b70355d235d3d149f",
+              "order": 505,
+              "adult": false,
+              "gender": 0,
+              "id": 3729999,
+              "known_for_department": "Acting",
+              "name": "Carlos Simões",
+              "original_name": "Carlos Simões",
+              "popularity": 0.181,
+              "profile_path": null
+            },
+            {
+              "character": "Coach Alpha Rio",
+              "credit_id": "6a69f3549cbb3d2f0be5baab",
+              "order": 506,
+              "adult": false,
+              "gender": 0,
+              "id": 5407533,
+              "known_for_department": "Acting",
+              "name": "Fabrício Victorino",
+              "original_name": "Fabrício Victorino",
+              "popularity": 0.5238,
+              "profile_path": null
+            },
+            {
+              "character": "Olivia",
+              "credit_id": "6a69f3d3379bd935fb3d1476",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 3391695,
+              "known_for_department": "Acting",
+              "name": "Camilla Damião",
+              "original_name": "Camilla Damião",
+              "popularity": 0.7782,
+              "profile_path": "/qw8nKlkH5VsTPDlCNaAOTfaZglY.jpg"
+            },
+            {
+              "character": "Catolé",
+              "credit_id": "6a69f3f7469794418f740612",
+              "order": 508,
+              "adult": false,
+              "gender": 0,
+              "id": 6377375,
+              "known_for_department": "Acting",
+              "name": "Jonas Ponciano",
+              "original_name": "Jonas Ponciano",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Fabrizio",
+              "credit_id": "6a69f4171cde28f4205e90a6",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 3679551,
+              "known_for_department": "Acting",
+              "name": "Zé Wendell",
+              "original_name": "Zé Wendell",
+              "popularity": 0.119,
+              "profile_path": "/cr0cLz0r2D26WbpQFcHaveycdA7.jpg"
+            },
+            {
+              "character": "Apostador",
+              "credit_id": "6a69f42693fb42299b862650",
+              "order": 510,
+              "adult": false,
+              "gender": 0,
+              "id": 4291231,
+              "known_for_department": "Directing",
+              "name": "Léo Lira",
+              "original_name": "Léo Lira",
+              "popularity": 0.0757,
+              "profile_path": null
+            },
+            {
+              "character": "Portuga",
+              "credit_id": "6a69f4682dd324ae373d13c9",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 107920,
+              "known_for_department": "Acting",
+              "name": "Ricardo Pereira",
+              "original_name": "Ricardo Pereira",
+              "popularity": 0.3165,
+              "profile_path": "/ka35HapmYDkf1GSzmcDcl3YWEQa.jpg"
+            },
+            {
+              "character": "Wagner Terremoto",
+              "credit_id": "6a69f4911cbb1d7b55862633",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 2199944,
+              "known_for_department": "Acting",
+              "name": "Matheus Baptista",
+              "original_name": "Matheus Batista",
+              "popularity": 0.0479,
+              "profile_path": null
+            }
+          ]
+        },
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7608352,
+          "name": "Head and Heart",
+          "overview": "Expelled for uncontrolled aggression, Marcelo earns a second chance at Academia Trindade and works his way into the ring. Toni and Yana make a deal.",
+          "production_code": "",
+          "runtime": 44,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/9bBaLfWWiCeIZEEmN45VK19oX6X.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7608353,
+          "name": "Scar",
+          "overview": "Toni teaches Marcelo how to evolve beyond his anger as someone from his past issues a harsh warning. Gabi unveils hopeful plans for Trindade's future.",
+          "production_code": "",
+          "runtime": 54,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/i7beJl2oHM1THn3nqXTO4KyVFgg.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7608354,
+          "name": "The Rules of the Game",
+          "overview": "The Trindade crew comes together and settles into their swanky new training facility. Gabi and Marcelo grow closer as Toni keeps his eyes on the prize.",
+          "production_code": "",
+          "runtime": 49,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/w9O5tQ0uYbuNMFxZ8whtdO6tl9a.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 5,
+          "episode_type": "standard",
+          "id": 7608355,
+          "name": "Ghost",
+          "overview": "A glimpse into Marcelo's life before Trindade illuminates the man behind the mask: where he's from, how he ended up in Rio — and his true identity.",
+          "production_code": "",
+          "runtime": 47,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/yoZsmjq0MbIrKD0Tg2YUAHP9G1e.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-07-29",
+          "episode_number": 6,
+          "episode_type": "finale",
+          "id": 7608356,
+          "name": "The Decision",
+          "overview": "Yana and Toni investigate Novaes' secret dealings. With Marcelo's back against the ropes, will he finally be able to turn his rage and regret into glory?",
+          "production_code": "",
+          "runtime": 54,
+          "season_number": 1,
+          "show_id": 292533,
+          "still_path": "/irHOhtS0o0kaPi6SH5ncA43Fskp.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Miniseries",
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "overview": "",
+      "id": 458414,
+      "poster_path": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 80,
+      "name": "Crime"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 93200,
+      "name": "Zola Filmes",
+      "logoPath": "/hYL55TNReAFUf4agzkrvV92z6fS.png",
+      "originCountry": "BR"
+    }
+  ],
   "keywords": [],
   "videos": [],
-  "images": [],
+  "images": [
+    {
+      "filePath": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+      "width": 667,
+      "height": 1000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xCurpja4mQub6TP7de79dJYOSVS.jpg",
+      "width": 1000,
+      "height": 1499,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/prVHXXwzX8NvtukEuDOxB4GC5Ix.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/lJxhBWIUyWGM6U2im0sPFMCyJUk.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+      "width": 1482,
+      "height": 2222,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/gzbi8EpTbeCeskzyKnbymzNNrgv.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/d8ZbteOYAVt2GpU3YFSpTVGWaMy.jpg",
+      "width": 1280,
+      "height": 721,
+      "aspectRatio": 1.775,
+      "type": "backdrop"
+    }
+  ],
   "ratings": [],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 2853985,
+      "name": "Vinícius Neri",
+      "profilePath": "/vrvK5eWfHj6nDcaMRi1Oitt2E6f.jpg",
+      "character": "Marcelo Lázaro",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 575447,
+      "name": "Fábio Lago",
+      "profilePath": "/aD0gCVtKmN1veh0aauvNyJhZ3WP.jpg",
+      "character": "Toni Trindade",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 2652283,
+      "name": "Alice Carvalho",
+      "profilePath": "/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg",
+      "character": "Gabriela Trinidade",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 2507560,
+      "name": "MC Cabelinho",
+      "profilePath": "/byy8YwrFhCkqzkwWxvVq0yw2tDz.jpg",
+      "character": "Júnior Malamute",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 931850,
+      "name": "Bianca Comparato",
+      "profilePath": "/sDYX8F5TInMRmqdyECO9xyt3Ir1.jpg",
+      "character": "Yana Novaes",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 558258,
+      "name": "Babu Santana",
+      "profilePath": "/uEOL1Q3pNMZmzYF3nJcIcgeGAtV.jpg",
+      "character": "Britadeira",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 129886,
+      "name": "Eduardo Moscovis",
+      "profilePath": "/vRIEz0KKxwO63ULtKhDkPWji9wU.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 112182,
+      "name": "Cláudia Raia",
+      "profilePath": "/8CtXg9ZbsggMCMIFTyn02wsQYE4.jpg",
+      "character": "Dienifer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 54974,
+      "name": "José Henrique Fonseca",
+      "profilePath": "/yH4RSweRPeRvUqAPgwGBV7xNmlm.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 54974,
+      "name": "José Henrique Fonseca",
+      "profilePath": "/yH4RSweRPeRvUqAPgwGBV7xNmlm.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2292551,
+      "name": "Fernanda Laignier",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1247823,
+      "name": "Eduardo Pop",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2521503,
+      "name": "Igor Verde",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": "tt43492801",
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
