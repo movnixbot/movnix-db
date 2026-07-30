@@ -478,5 +478,371 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1600421/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1600421,
+    "hash": "4e19b6a0d76c1ad6efc306fb5e6d0952c43ac684ae61efac14fe108debc5d34f",
+    "summary_one_sentence": "Stray Kids: The dominATE Experience offers fans an immersive front-row seat to the K-pop group's record-breaking world tour, blending electrifying live performances with exclusive behind-the-scenes footage and candid interviews.",
+    "summary_short": "This captivating concert film captures the explosive energy of global K-pop sensation Stray Kids during their landmark dominATE world tour. Audiences are treated to high-octane stage performances alongside intimate behind-the-scenes moments that reveal the band's dedication and creative journey. Through deep, personal interviews, the members reflect on their monumental success, personal growth, and the strong bond they share with their fans. Ultimately, it serves as a triumphant celebration of Stray Kids' artistry and their indelible impact on the music industry.",
+    "summary_long": "Stray Kids: The dominATE Experience brings the world-renowned K-pop group's record-breaking tour to the big screen in a grand, cinematic celebration. The film immerses viewers directly into the heart of their spectacular live shows, highlighting their complex choreography, powerful vocals, and unmatched stage presence. Beyond the flashing lights and roaring crowds, the narrative ventures backstage to document the immense preparation and dedication required to execute a global tour of this scale. Viewers gain rare, unedited access to the eight members as they navigate high-stakes rehearsals, emotional highs, and the quiet moments between massive stadium shows. Candid interviews allow each band member to open up about their artistic evolution, personal struggles, and mutual brotherhood. The documentary thoughtfully weaves together live performance highlights with reflective storytelling, illustrating how Stray Kids forged their distinct identity in the music world. It also highlights the powerful, symbiotic connection between the group and their global fanbase, STAY, showing how their music unites millions across borders. By the conclusion, the film stands not only as a record of an extraordinary tour, but as a testament to Stray Kids' relentless drive and artistic legacy.",
+    "synopsis": "Stray Kids: The dominATE Experience is an epic concert documentary that captures the global K-pop powerhouse Stray Kids at the peak of their world tour. Blending electrifying front-row concert footage with exclusive behind-the-scenes access, the film offers an intimate look into the lives and artistry of the eight-member group. Through candid interviews and raw backstage moments, viewers discover the dedication, passion, and personal stories driving their record-breaking success, making it an essential, inspiring watch for dedicated fans and music lovers alike.",
+    "keywords": [
+      "concert film",
+      "k-pop",
+      "live performance",
+      "behind-the-scenes",
+      "world tour",
+      "boy group",
+      "musical performance",
+      "artist interviews",
+      "fan culture",
+      "music documentary",
+      "backstage access",
+      "stadium tour",
+      "idol group"
+    ],
+    "themes": [
+      {
+        "theme": "Performance and Artistry",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Fan Connection and Community",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Behind-the-Scenes Intimacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Global Stardom and Success",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Energetic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Exhilarating",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The experience reaches its emotional and musical peak during the tour's grandest concert set-piece, where the explosive synergy between Stray Kids' live performance and the overwhelming energy of their fans creates an unforgettable stadium moment.",
+      "conflict": "The ongoing narrative challenge stems from the immense pressure, physical demands, and meticulous preparation required to execute a massive, high-stakes global tour while maintaining authentic personal bonds and creative integrity as a group.",
+      "resolution": "The journey concludes with reflective reflections from the band members after the show, celebrating their shared accomplishments, the strong bond built with their global fandom, and a lasting look at their impact as live performers.",
+      "introduction": "The film opens with the anticipation of the record-breaking 'dominATE' world tour, introducing the global K-Pop sensation Stray Kids both on stage and in intimate, behind-the-scenes moments as they prepare to connect with their fans.",
+      "risingAction": "Energy builds through a sequence of high-octane live concert performances, interspersed with raw interview footage and backstage access that reveal the band's dedication, individual personalities, and the teamwork behind the spectacular stage show."
+    },
+    "characters": [
+      {
+        "name": "Bang Chan",
+        "role": "Mentor",
+        "description": "As the group's leader and main producer, he guides Stray Kids, shapes their creative vision, and supports the members."
+      },
+      {
+        "name": "Lee Know",
+        "role": "Hero",
+        "description": "A main dancer and vocalist who delivers captivating stage presence and high-precision performances."
+      },
+      {
+        "name": "Changbin",
+        "role": "Comic Relief",
+        "description": "A main rapper and producer known for his explosive energy on stage and playful, witty personality off stage."
+      },
+      {
+        "name": "Hyunjin",
+        "role": "Hero",
+        "description": "A main dancer and visual center whose dramatic artistic expression drives the visual intensity of the tour."
+      },
+      {
+        "name": "Han",
+        "role": "Hero",
+        "description": "An all-rounder producer, rapper, and vocalist who fuels the concert's narrative with versatile energy."
+      },
+      {
+        "name": "Felix",
+        "role": "Hero",
+        "description": "A main dancer and rapper whose signature deep voice and charismatic charisma anchor key moments in the performance."
+      },
+      {
+        "name": "Seungmin",
+        "role": "Supporting Character",
+        "description": "A main vocalist whose steady, emotional vocal performances support and ground the group's live sound."
+      },
+      {
+        "name": "I.N",
+        "role": "Supporting Character",
+        "description": "The youngest member whose bright vocal growth and charm round out the group's collective energy."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bang Chan",
+        "target": "Lee Know",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "Changbin",
+        "description": "Bandmates / 3RACHA Sub-unit Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "Hyunjin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "Han",
+        "description": "Bandmates / 3RACHA Sub-unit Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "Felix",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Bang Chan",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "Changbin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "Hyunjin",
+        "description": "Bandmates / Dance Racha Sub-unit Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "Han",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "Felix",
+        "description": "Bandmates / Dance Racha Sub-unit Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Lee Know",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Changbin",
+        "target": "Hyunjin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Changbin",
+        "target": "Han",
+        "description": "Bandmates / 3RACHA Sub-unit Members"
+      },
+      {
+        "source": "Changbin",
+        "target": "Felix",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Changbin",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Changbin",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Hyunjin",
+        "target": "Han",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Hyunjin",
+        "target": "Felix",
+        "description": "Bandmates / Dance Racha Sub-unit Members"
+      },
+      {
+        "source": "Hyunjin",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Hyunjin",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Han",
+        "target": "Felix",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Han",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Han",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Felix",
+        "target": "Seungmin",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Felix",
+        "target": "I.N",
+        "description": "Bandmates / Fellow Group Members"
+      },
+      {
+        "source": "Seungmin",
+        "target": "I.N",
+        "description": "Bandmates / Vocal Racha Sub-unit Members"
+      }
+    ],
+    "seo": {
+      "slug": "stray-kids-the-dominate-experience",
+      "jsonLd": {
+        "name": "Stray Kids: The dominATE Experience",
+        "@type": "Movie",
+        "genre": [
+          "Documentary",
+          "Music"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Featuring global K-Pop sensation Stray Kids with a live performance from their record-breaking world tour, behind-the-scenes footage, and intimate interviews."
+      },
+      "keywords": [
+        "Stray Kids",
+        "dominATE Experience",
+        "Stray Kids concert film",
+        "K-Pop world tour",
+        "Stray Kids movie",
+        "Stray Kids behind the scenes",
+        "STAY Kpop",
+        "Stray Kids live performance"
+      ],
+      "canonical": "[https://movnix.com/movie/stray-kids-the-dominate-experience](https://movnix.com/movie/stray-kids-the-dominate-experience)",
+      "metaTitle": "Stray Kids: The dominATE Experience | Concert Film & Behind the Scenes",
+      "openGraph": {
+        "og:title": "Stray Kids: The dominATE Experience - Official Concert Film",
+        "og:description": "Get front-row access to Stray Kids' record-breaking world tour, featuring live performances, exclusive behind-the-scenes footage, and intimate interviews."
+      },
+      "twitterCard": {
+        "twitter:title": "Stray Kids: The dominATE Experience - Official Concert Film",
+        "twitter:description": "Get front-row access to Stray Kids' record-breaking world tour with live performances, behind-the-scenes footage, and intimate interviews."
+      },
+      "metaDescription": "Experience Stray Kids: The dominATE Experience concert film! Watch live tour performances, exclusive behind-the-scenes footage, and intimate band interviews."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of the film is a music concert documentary, combining live stage performance footage with documentary-style behind-the-scenes content.",
+        "question": "What is the dominant genre of Stray Kids: The dominATE Experience?"
+      },
+      {
+        "answer": "No, it is a standalone concert documentary film centered around Stray Kids' record-breaking dominATE world tour.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Concert films often feature extra encore moments, bloopers, or special messages from the members during or after the credits, so fans are encouraged to stay until the very end.",
+        "question": "Is there a post-credits scene in the film?"
+      },
+      {
+        "answer": "The film features all eight members of the global K-Pop group Stray Kids: Bang Chan, Lee Know, Changbin, Hyunjin, HAN, Felix, Seungmin, and I.N.",
+        "question": "Who is featured in Stray Kids: The dominATE Experience?"
+      },
+      {
+        "answer": "The film showcases live performances from Stray Kids' sold-out dominATE world tour, including stadium shows like SoFi Stadium, alongside behind-the-scenes footage and intimate interviews.",
+        "question": "What does the film cover?"
+      },
+      {
+        "answer": "The concert film's live performances were directed by Paul Dugdale, with documentary segments directed by Farah X.",
+        "question": "Who directed Stray Kids: The dominATE Experience?"
+      },
+      {
+        "answer": "Yes, as a music concert documentary, it is generally family-friendly and suitable for fans of all ages.",
+        "question": "Is Stray Kids: The dominATE Experience suitable for all ages?"
+      },
+      {
+        "answer": "Yes, the film offers exclusive behind-the-scenes footage and candid, intimate interviews with the members, giving fans unique insight into their tour journey.",
+        "question": "Are there behind-the-scenes moments and interviews included?"
+      },
+      {
+        "answer": "Yes, the movie was released in premium formats including IMAX, offering fans an immersive front-row concert experience with enhanced visual and audio quality.",
+        "question": "Is the film available in special cinema formats like IMAX?"
+      },
+      {
+        "answer": "Not at all. While long-time fans (STAYs) will appreciate the intimate member access and live songs, newcomers can easily enjoy the high-energy musical production and performance spectacle.",
+        "question": "Do I need to be a long-time fan to enjoy Stray Kids: The dominATE Experience?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror, frightening imagery, or jumpscares present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Infrequent mild language in song lyrics or casual behind-the-scenes banter."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence or aggressive behavior depicted."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance use portrayed or referenced."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild suggestive dance moves typical of pop music concert performances."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild emotional intensity from passionate fan interactions and personal interviews."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 6,
+      "comedy": 3,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 0,
+      "romance": 0,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-07-30 15:12:13.119935",
+    "updated_at": "2026-07-30 15:12:13.119935"
+  }
 }
