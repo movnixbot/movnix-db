@@ -10,7 +10,7 @@
     "budget": "15000000",
     "revenue": "10134166",
     "status": "Released",
-    "popularity": 3.0098,
+    "popularity": 2.9793,
     "voteAverage": 6.572,
     "voteCount": 182,
     "homepage": "https://www.searchlightpictures.com/is-this-thing-on",
@@ -1482,5 +1482,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1140498/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1140498,
+    "hash": "86a5893df81bd4eb3ec2dcf782ef57f92def9d1be28590dab9a3cafad6a4007f",
+    "summary_one_sentence": "As their marriage quietly unravels, a middle-aged couple navigates identity, co-parenting, and the pursuit of new dreams amidst an impending divorce in New York City.",
+    "summary_short": "Alex and Tess find themselves at a painful crossroads as their long-term marriage quietly falls apart. Facing middle age and an impending divorce, Alex attempts to find new purpose by plunging into the competitive New York comedy scene. Meanwhile, Tess is forced to confront the deep personal sacrifices she made over the years to keep their family afloat. Together, they must learn to navigate the complexities of co-parenting while discovering whether their love can evolve into a different form.",
+    "summary_long": "Is This Thing On? follows the emotional and bittersweet dissolution of Alex and Tess's marriage. After years together, the couple quietly realizes that they have grown apart, forcing them to confront the reality of an impending divorce. As Alex hits middle age, he experiences an identity crisis and decides to seek a fresh spark by chasing a long-dormant dream in the New York stand-up comedy circuit. This sudden shift forces Tess to reflect deeply on her own life choices and the individual sacrifices she made to sustain their household. As Alex tests out jokes on stage about his failing relationship, Tess fights to redefine her identity outside of being a wife and mother. The narrative deeply explores the friction and awkwardness of their new co-parenting dynamic as they try to keep stability for their children. Throughout the process, painful arguments give way to moments of vulnerability and shared history. Ultimately, both Alex and Tess must learn to let go of the past and accept their new realities. In the end, they are left to discover if a relationship born out of romance can successfully transform into an enduring, supportive friendship.",
+    "synopsis": "Set against the backdrop of a bustling New York City, Is This Thing On? is a poignant and humorous exploration of mid-life transitions and modern relationships. The story centers on Alex and Tess, a couple whose marriage is quietly but definitively unraveling. Facing the daunting prospect of divorce and middle age, Alex attempts to reinvent himself by stepping onto the stage of the local comedy scene, using humor to process his grief and uncertainty. Concurrently, Tess undergoes her own quiet revolution, examining the personal ambitions she sidelined for her family and stepping out from the shadow of her old life. The series offers a raw, authentic, and heartfelt look at the challenges of co-parenting, the pain of letting go, and the resilient nature of love as it adapts to a changing family dynamic.",
+    "keywords": [
+      "midlife crisis",
+      "divorce drama",
+      "stand-up comedy",
+      "marriage in crisis",
+      "co-parenting",
+      "identity transformation",
+      "new beginnings",
+      "sacrificial love",
+      "new york city setting",
+      "bittersweet romance",
+      "emotional vulnerability",
+      "family dynamics",
+      "finding purpose"
+    ],
+    "themes": [
+      {
+        "theme": "Identity and Midlife Crisis",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Family Legacy and Co-parenting",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival and Rebuilding",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical turning point forces Alex and Tess to directly confront the reality of their impending divorce, testing their emotional boundaries and the future of their family dynamic.",
+      "conflict": "As Alex pursues his new passion, Tess is forced to confront the personal and professional sacrifices she made to sustain their family, driving a wedge between their individual identities.",
+      "resolution": "Both individuals begin to accept their separate paths, discovering how to redefine their relationship and explore whether their love can transition into a new, supportive form.",
+      "introduction": "Alex struggles with middle age and the quiet unraveling of his marriage to Tess, prompting him to seek a fresh start and a sense of purpose in the competitive New York stand-up comedy scene.",
+      "risingAction": "The couple attempts to navigate the complexities of co-parenting while growing apart, with Alex facing the vulnerability of the stage and Tess striving to reclaim her independence."
+    },
+    "characters": [
+      {
+        "name": "Alex Novak",
+        "role": "Hero",
+        "description": "A melancholic man facing middle age and divorce who unexpectedly finds an emotional outlet and new sense of purpose in the New York stand-up comedy scene."
+      },
+      {
+        "name": "Tess Novak",
+        "role": "Hero",
+        "description": "Alex's soon-to-be ex-wife and a former Olympic athlete who confronts the personal sacrifices she made for her family while exploring a new path as a coach."
+      },
+      {
+        "name": "Balls",
+        "role": "Comic Relief",
+        "description": "Alex's eccentric, joyful, and supportive best friend whose uniquely weird and genuine personality lifts Alex's spirits during his darkest moments."
+      },
+      {
+        "name": "Christine",
+        "role": "Supporting Character",
+        "description": "An artsy friend of the family who provides free-ranging monologues and acts as a sounding board for Tess."
+      },
+      {
+        "name": "Marilyn",
+        "role": "Mentor",
+        "description": "Alex's blunt but loving mother who provides tough love and grounded guidance to her son as he navigates his separation."
+      },
+      {
+        "name": "Jan",
+        "role": "Supporting Character",
+        "description": "Alex's soft-spoken, big-hearted father who radiates goodwill and offers quiet emotional support to his family."
+      },
+      {
+        "name": "Stephen",
+        "role": "Supporting Character",
+        "description": "One half of a married couple close to the Novaks, helping them maintain their shared social ties amidst the divorce."
+      },
+      {
+        "name": "Geoffrey",
+        "role": "Supporting Character",
+        "description": "Stephen's husband and a loyal friend to both Alex and Tess as they adjust to co-parenting and their new lives."
+      },
+      {
+        "name": "Felix Novak",
+        "role": "Supporting Character",
+        "description": "One of Alex and Tess's young sons who is trying to understand the breakdown of his parents' marriage and his father's new passion."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Alex",
+        "target": "Tess",
+        "description": "Husband/Wife navigating an impending divorce and co-parenting"
+      },
+      {
+        "source": "Tess",
+        "target": "Alex",
+        "description": "Wife/Husband navigating an impending divorce and co-parenting"
+      }
+    ],
+    "seo": {
+      "slug": "is-this-thing-on",
+      "jsonLd": {
+        "name": "Is This Thing On?",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form."
+      },
+      "keywords": [
+        "Is This Thing On?",
+        "Is This Thing On movie",
+        "Is This Thing On synopsis",
+        "Alex and Tess movie",
+        "NY comedy drama",
+        "divorce comedy drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/is-this-thing-on](https://movnix.com/movie/is-this-thing-on)",
+      "metaTitle": "Is This Thing On? (2026) - Synopsis & Movie Info",
+      "openGraph": {
+        "og:title": "Is This Thing On? - Movie Synopsis & Details",
+        "og:description": "Alex and Tess navigate middle age, an impending divorce, and self-discovery in the New York comedy scene."
+      },
+      "twitterCard": {
+        "twitter:title": "Is This Thing On? - Movie Synopsis & Details",
+        "twitter:description": "Alex and Tess navigate middle age, an impending divorce, and self-discovery in the New York comedy scene."
+      },
+      "metaDescription": "As their marriage unravels, Alex and Tess navigate middle age, divorce, and new beginnings in the New York comedy scene. Discover Is This Thing On?"
+    },
+    "faq": [
+      {
+        "answer": "The story follows Alex and Tess as their marriage quietly unravels. Facing middle age and impending divorce, Alex seeks new purpose in the New York comedy scene, while Tess confronts the sacrifices she made for their family as they both navigate co-parenting, identity, and the evolving nature of love.",
+        "question": "What is \"Is This Thing On?\" about?"
+      },
+      {
+        "answer": "The dominant genre is comedy-drama (dramedy), blending heartfelt character drama about marital separation with comedic elements set against the New York stand-up comedy world.",
+        "question": "What is the dominant genre of \"Is This Thing On?\"?"
+      },
+      {
+        "answer": "No, \"Is This Thing On?\" is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes fully before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main characters are Alex, a middle-aged man turning to stand-up comedy amid a marital split, and Tess, his wife who is re-examining her own life choices and personal sacrifices.",
+        "question": "Who are the primary main characters in the story?"
+      },
+      {
+        "answer": "The story is primarily set in New York, moving between the vibrant local stand-up comedy scene and domestic suburban/city living environments.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "No, it is an original story designed to explore relatable, contemporary adult themes regarding modern relationships, co-parenting, and self-discovery.",
+        "question": "Is \"Is This Thing On?\" based on a true story or a book?"
+      },
+      {
+        "answer": "Key themes include mid-life identity crises, the emotional complexities of divorce, personal sacrifice within relationships, co-parenting, and finding light and purpose through artistic expression.",
+        "question": "What are the major themes explored in the story?"
+      },
+      {
+        "answer": "While it deals with family topics like co-parenting, the mature focus on divorce, adult relationship dynamics, and comedy club settings make it best suited for adult and mature audiences.",
+        "question": "Is \"Is This Thing On?\" suitable for a general family audience?"
+      },
+      {
+        "answer": "The core conflict revolves around Alex and Tess negotiating the end of their marriage while striving to maintain a functional co-parenting relationship and rebuild their separate identities.",
+        "question": "What is the central conflict driving the plot?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror, jump scares, or supernatural elements present."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language anticipated within the context of adult stand-up comedy and interpersonal arguments."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or graphic conflict depicted in the premises."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Social drinking and casual alcohol consumption typical of nightlife and comedy club environments."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild adult themes and references to intimate relationships relating to marriage and dating post-divorce."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to strong emotional intensity centered around divorce, mid-life identity crises, and family strain."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 6,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 5,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-07-27 18:00:06.706867",
+    "updated_at": "2026-07-27 18:00:06.706867"
+  }
 }
