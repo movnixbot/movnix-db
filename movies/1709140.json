@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.266,
+    "popularity": 0.6114,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1709140",
@@ -258,5 +258,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1709140/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1709140,
+    "hash": "ab8734a3d23f87f7d263eea8656f1a91b28fa7c4bc1ec436e37b8ff93893ec6b",
+    "summary_one_sentence": "A mysterious invitation draws a group of friends to an isolated island, where they must confront a ancient curse to survive the night.",
+    "summary_short": "A group of friends accepts a cryptic invitation to a remote island, expecting an exclusive getaway. However, their retreat quickly turns treacherous as they inadvertently unleash a centuries-old curse haunting the property. Cut off from the mainland, they are forced to band together to survive the night. As fear and paranoia mount, they must unravel the island's dark history before it consumes them all.",
+    "summary_long": "Seeking an unforgettable escape, a tight-knit group of friends responds to a cryptic invitation granting them access to an enigmatic, secluded island. Upon arrival, the idyllic atmosphere rapidly fades as strange, unexplainable phenomena begin to torment the guests. They soon discover that the island harbors a dark past, bound by a terrifying curse that has slumbered for hundreds of years. Distrust grows within the group as the supernatural forces manipulate their deepest fears and secrets. With escape routes severed and no contact with the outside world, their luxurious retreat descends into a desperate nightmare. As the malevolent presence grows stronger, the survivors are forced to navigate hidden corridors and decipher ancient clues left behind by the island's previous occupants. Each revelation brings them closer to the truth, but at a devastating cost to their unity and sanity. In a tense climax against the clock, the remaining friends must make harrowing sacrifices to break the curse before dawn. Ultimately, they face a grim battle for survival where not everyone is destined to leave the island alive.",
+    "synopsis": "When an intriguing and mysterious invitation arrives, a group of close friends embarks on a journey to a remote island for an exclusive getaway. What begins as a memorable retreat soon devolves into a nerve-wracking ordeal as strange occurrences disrupt their stay. The island, steeped in forgotten history, holds a dark centuries-old curse that awakens to prey upon the unexpected visitors. Cut off from all help and facing rising tensions within their ranks, the group must decipher the mysteries of the island's past to survive the sinister forces working against them.",
+    "keywords": [
+      "haunted house",
+      "remote island",
+      "ancient curse",
+      "cryptic invitation",
+      "fight for survival",
+      "friends trapped",
+      "dark secrets",
+      "paranormal mystery",
+      "gothic horror",
+      "survival horror",
+      "isolated setting",
+      "sinister history",
+      "psychological dread"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Supernatural Curses",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Deception and Mystery",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The dark history of the curse reaches its peak as the surviving friends face a ultimate confrontation against the island's full sinister forces.",
+      "conflict": "The guests discover that the property is tied to a centuries-old curse, trapping them on the island and forcing them to confront supernatural threats.",
+      "resolution": "The ordeal draws to a close, leaving the surviving group to pick up the pieces in the aftermath of their harrowing nightmare.",
+      "introduction": "A group of friends receives a cryptic invitation and arrives at a secluded house on a remote island, setting the scene for a seemingly intriguing getaway.",
+      "risingAction": "As strange and malevolent phenomena escalate, tension grows among the group, turning their struggle for answers into a desperate battle to stay alive."
+    },
+    "characters": [
+      {
+        "name": "Vince Balboa",
+        "role": "Hero",
+        "description": "Takes a central role among the group of friends, driving the effort to survive the island's curse."
+      },
+      {
+        "name": "Marissa Shankar",
+        "role": "Supporting Character",
+        "description": "One of the invited friends who helps navigate the threats on the remote island."
+      },
+      {
+        "name": "Malachi Durant",
+        "role": "Anti Hero",
+        "description": "A complex member of the group whose morally ambiguous choices stem from self-preservation."
+      },
+      {
+        "name": "Evan Keys",
+        "role": "Comic Relief",
+        "description": "Uses humor and lighthearted commentary to cope with the increasingly dire situation."
+      },
+      {
+        "name": "Gerard Sanders",
+        "role": "Mentor",
+        "description": "Provides background knowledge and warnings regarding the island's centuries-old history."
+      },
+      {
+        "name": "Jessica Joy Hardee",
+        "role": "Supporting Character",
+        "description": "A key member of the getaway group fighting alongside the others for survival."
+      },
+      {
+        "name": "Connor Carlson",
+        "role": "Villain",
+        "description": "Connected to the cryptic invitation and manipulating events behind the ancient curse."
+      },
+      {
+        "name": "Robert Hall",
+        "role": "Other",
+        "description": "An enigmatic local figure whose true motives regarding the curse remain unclear."
+      },
+      {
+        "name": "John Craig",
+        "role": "Supporting Character",
+        "description": "Struggles alongside the main party as the supernatural threats escalate."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Group of Friends",
+        "target": "Enigmatic Host",
+        "description": "Lured by / Invited by"
+      },
+      {
+        "source": "Group of Friends",
+        "target": "Ancient Curse",
+        "description": "Victims / Threat"
+      }
+    ],
+    "seo": {
+      "slug": "house-on-haunted-hill",
+      "jsonLd": {
+        "name": "House on Haunted Hill",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a group of friends is drawn to a remote island by a cryptic invitation, they uncover a centuries-old curse that turns their getaway into a fight for survival."
+      },
+      "keywords": [
+        "House on Haunted Hill",
+        "horror movie",
+        "island horror",
+        "haunted house curse",
+        "survival horror film"
+      ],
+      "canonical": "[https://movnix.com/movie/house-on-haunted-hill](https://movnix.com/movie/house-on-haunted-hill)",
+      "metaTitle": "House on Haunted Hill | Horror Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "House on Haunted Hill | Fight for Survival",
+        "og:description": "A cryptic invitation leads a group of friends to a remote island with a centuries-old curse. Can they survive?"
+      },
+      "twitterCard": {
+        "twitter:title": "House on Haunted Hill | Fight for Survival",
+        "twitter:description": "A cryptic invitation leads a group of friends to a remote island with a centuries-old curse. Can they survive?"
+      },
+      "metaDescription": "A remote island getaway turns deadly when friends uncover an ancient curse in House on Haunted Hill. Read the synopsis and details."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is supernatural horror, blending elements of mystery and survival thriller.",
+        "question": "What is the dominant genre of House on Haunted Hill?"
+      },
+      {
+        "answer": "A group of friends travels to a remote island after receiving a cryptic invitation, only to awaken a centuries-old curse that turns their trip into a desperate fight for survival.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "While it shares a title with classic horror titles, this specific story stands as its own distinct entry focusing on a remote island curse.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene after the main feature ends.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "No, due to intense horror violence, psychological terror, and unsettling supernatural themes, it is intended for mature audiences.",
+        "question": "Is House on Haunted Hill suitable for children?"
+      },
+      {
+        "answer": "The film is set primarily on an isolated, remote island that holds a dark, ancient history.",
+        "question": "Where does the movie take place?"
+      },
+      {
+        "answer": "No, the movie is a completely fictional work of supernatural horror.",
+        "question": "Is House on Haunted Hill based on a true story?"
+      },
+      {
+        "answer": "The main events are triggered when the friends accept a mysterious, cryptic invitation to visit the island.",
+        "question": "What sets off the main events of the story?"
+      },
+      {
+        "answer": "The story revolves around a group of close friends who inadvertently become trapped on the island together.",
+        "question": "Who are the primary characters in the film?"
+      },
+      {
+        "answer": "The movie explores themes of isolation, ancient curses, survival against supernatural forces, and the consequences of unraveling forgotten history.",
+        "question": "What are the key themes of the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High levels of horror and suspense, featuring a supernatural curse, tension, psychological terror, and jump scares."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate profanity likely present during high-stress and life-threatening situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Moderate to strong violence consistent with horror survival themes, featuring life-threatening encounters and perilous situations."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate casual alcohol consumption or brief social substance use common in getaway settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content, though mild suggestive dialogue or romantic subplots may occur."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by isolated survival terror, fear of betrayal, and persistent atmospheric dread."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-29 15:02:32.82108",
+    "updated_at": "2026-07-29 15:02:32.82108"
+  }
 }
