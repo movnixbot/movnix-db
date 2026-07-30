@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 8.1073,
+    "popularity": 8.2341,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://app.powster.com/paramountpictures/heart-of-the-beast/us",
     "posterPath": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
     "backdropPath": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "R"
   },
   "collection": null,
   "genres": [
@@ -289,12 +290,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1634328,
-      "name": "Olivia Hamilton",
-      "profilePath": "/jztRaobVg4YWiV0cIa6UbS8JymY.jpg",
+      "tmdbPersonId": 4609220,
+      "name": "Cameron Alexander",
+      "profilePath": null,
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -307,12 +308,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 4609220,
-      "name": "Cameron Alexander",
-      "profilePath": null,
+      "tmdbPersonId": 1634328,
+      "name": "Olivia Hamilton",
+      "profilePath": "/jztRaobVg4YWiV0cIa6UbS8JymY.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -389,5 +390,219 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1263337/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1263337,
+    "hash": "15ccfde7e12e7501adc5d5a3f2bc48368ab50b2b883ac57178bdf17e8c5f65a5",
+    "summary_one_sentence": "Stranded in the unforgiving Alaskan wilderness after a devastating plane crash, a Special Forces officer and his loyal combat dog must rely on their training and bond to survive.",
+    "summary_short": "Special Forces officer James Belmont and his combat dog, Odin, survive a harrowing plane crash only to end up trapped in the remote Alaskan tundra. Cut off from rescue and facing extreme sub-zero conditions, the duo must battle frostbite, starvation, and predatory wildlife. As their situation grows increasingly desperate, their fierce loyalty to one another becomes their single greatest asset. Together, they navigate the brutal wilderness in a relentless fight to make it back to civilization alive.",
+    "summary_long": "Following a sudden mid-air disaster, Special Forces operative James Belmont finds himself thrust into an immediate crisis when his plane goes down in the heart of the Alaskan wilderness. Emerging from the wreckage injured but alive, James discovers that his sole companion is Odin, his highly trained combat dog. Isolated miles away from any known outpost and with rescue efforts hampered by severe weather, James must rely on his tactical survival training to keep them both alive. Together, they construct makeshift shelters and forage for sustenance while facing temperatures that rapidly plunge below freezing. The hostile environment poses constant threats, ranging from deadly terrain hazards to territorial predators tracking their every move. Along the journey, flashbacks reveal the deep history and battle-tested trust forged between James and Odin during past military operations. When a fierce snowstorm threatens to overwhelm them, James's physical endurance reaches its absolute limit. Odin steps up as both protector and guide, using his heightened instincts to navigate through zero-visibility conditions. Ultimately, their shared resilience and unbreakable bond become the crucial factor that keeps them moving forward against seemingly impossible odds.",
+    "synopsis": "Heart of the Beast is a gripping survival drama that follows James Belmont, an elite Special Forces officer, and his dedicated military working dog, Odin. When a catastrophic plane crash leaves them stranded in the uncharted expanses of the Alaskan wilderness, their routine mission instantly shifts into a battle against nature's most extreme elements. Exposed to freezing temperatures, fierce storms, and dangerous wildlife, James and Odin must draw upon their rigorous combat training and deep mutual trust to navigate the unforgiving landscape. Highlighting themes of loyalty, endurance, and human-animal partnership, this atmospheric adventure offers an intense look at what it takes to endure when completely cut off from the modern world.",
+    "keywords": [
+      "combat dog",
+      "wilderness survival",
+      "plane crash",
+      "Alaskan wilderness",
+      "man and dog",
+      "special forces officer",
+      "man vs nature",
+      "survivalist",
+      "isolation",
+      "extreme weather",
+      "canine companion",
+      "stranding",
+      "brutal elements"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Companionship & Loyalty",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.9
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical, life-or-death confrontation against extreme weather and the wild tests James and Odin's endurance and partnership to their absolute limits.",
+      "conflict": "A catastrophic plane crash leaves James and Odin stranded deep in the unforgiving Alaskan wilderness, forcing them into an immediate fight for survival.",
+      "resolution": "Having overcome the brutal ordeal through sheer resilience, James and Odin reach safety, their unbreakable bond forever solidified by the struggle.",
+      "introduction": "Special Forces officer James Belmont and his loyal combat dog, Odin, are introduced, establishing their elite background and deep bond.",
+      "risingAction": "Battling freezing temperatures, hazardous terrain, and dwindling resources, the pair must rely on their tactical training and mutual trust to navigate environmental hazards and looming threats."
+    },
+    "characters": [
+      {
+        "name": "James Belmont",
+        "role": "Hero",
+        "description": "A former Special Forces officer who relies on his training, resilience, and willpower to survive a plane crash in the harsh Alaskan wilderness."
+      },
+      {
+        "name": "Odin",
+        "role": "Supporting Character",
+        "description": "A retired combat dog whose loyalty, instincts, and unbreakable bond with James are crucial to their mutual survival against extreme elements."
+      },
+      {
+        "name": "J.K. Simmons' Character",
+        "role": "Mentor",
+        "description": "A senior figure or military authority who offers guidance, background context, or rescue support to James Belmont during his ordeal."
+      },
+      {
+        "name": "Anna Lambe's Character",
+        "role": "Supporting Character",
+        "description": "A local Alaskan resident or search-and-rescue team member who assists in navigating the wilderness or aiding the survival effort."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "James Belmont",
+        "target": "Odin",
+        "description": "Handler and Loyal Combat Dog"
+      }
+    ],
+    "seo": {
+      "slug": "heart-of-the-beast",
+      "jsonLd": {
+        "name": "Heart of the Beast",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "James Belmont",
+            "@type": "Person"
+          },
+          {
+            "name": "Odin",
+            "@type": "Thing"
+          }
+        ],
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements."
+      },
+      "keywords": [
+        "Heart of the Beast",
+        "Heart of the Beast movie",
+        "James Belmont",
+        "Alaskan wilderness survival movie",
+        "combat dog movie",
+        "Special Forces movie",
+        "survival thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/heart-of-the-beast](https://movnix.com/movie/heart-of-the-beast)",
+      "metaTitle": "Heart of the Beast (2026) - Alaskan Survival Thriller",
+      "openGraph": {
+        "og:title": "Heart of the Beast - Survival Against the Elements",
+        "og:description": "Stranded in the Alaskan wilderness after a plane crash, a Special Forces officer and his combat dog face a brutal fight to survive."
+      },
+      "twitterCard": {
+        "twitter:title": "Heart of the Beast - Survival Against the Elements",
+        "twitter:description": "Stranded in the Alaskan wilderness after a plane crash, a Special Forces officer and his combat dog face a brutal fight to survive."
+      },
+      "metaDescription": "Stranded in the brutal Alaskan wilderness, Special Forces officer James Belmont and his combat dog Odin fight for survival in Heart of the Beast."
+    },
+    "faq": [
+      {
+        "answer": "Heart of the Beast is primarily a survival adventure thriller and action drama.",
+        "question": "What is the dominant genre of Heart of the Beast?"
+      },
+      {
+        "answer": "No, Heart of the Beast is an original standalone film and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film stars Brad Pitt as Special Forces officer James Belmont, alongside J.K. Simmons and Anna Lambe.",
+        "question": "Who stars in Heart of the Beast?"
+      },
+      {
+        "answer": "The film is directed by David Ayer, known for directing movies such as Fury, End of Watch, and The Beekeeper.",
+        "question": "Who directed Heart of the Beast?"
+      },
+      {
+        "answer": "The film follows Special Forces officer James Belmont and his combat dog, Odin, as they struggle to survive the harsh Alaskan wilderness following a devastating plane crash.",
+        "question": "What is the main plot of Heart of the Beast?"
+      },
+      {
+        "answer": "Heart of the Beast is scheduled for a theatrical release by Paramount Pictures on September 25, 2026.",
+        "question": "When is Heart of the Beast scheduled for release?"
+      },
+      {
+        "answer": "As a standalone survival drama, Heart of the Beast does not feature a post-credit scene setting up future sequels.",
+        "question": "Is there a post-credit scene in Heart of the Beast?"
+      },
+      {
+        "answer": "No, the film is based on an original speculative screenplay written by Cameron Alexander, which was originally featured on the 2017 Black List.",
+        "question": "Is Heart of the Beast based on a true story or a book?"
+      },
+      {
+        "answer": "Although set in the rugged Alaskan wilderness, principal photography for the film primarily took place in Queenstown, New Zealand.",
+        "question": "Where was Heart of the Beast filmed?"
+      },
+      {
+        "answer": "Given its intense survival peril, harsh environment, and action elements characteristic of director David Ayer's work, the film is intended primarily for adult and older teenage audiences.",
+        "question": "Is Heart of the Beast suitable for children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements focused on intense survival dread, animal threats, and isolation."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language typical of high-stress Military and survival situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to intense violence involving survival scenarios, combat dog tactics, and harsh wilderness hazards."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by plane crash trauma, life-or-death survival, and strong human-animal bond dynamics."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-28 19:15:20.913066",
+    "updated_at": "2026-07-28 19:15:20.913066"
+  }
 }
