@@ -10,7 +10,7 @@
     "budget": "40000000",
     "revenue": null,
     "status": "Post Production",
-    "popularity": 4.9508,
+    "popularity": 4.293,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.amazon.com/salp/verity?hhf=",
@@ -341,6 +341,13 @@
       "height": 1590,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/aLgDTj5yNGGm6khoMyoKQOS9YIF.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -372,7 +379,7 @@
     {
       "tmdbPersonId": 2299,
       "name": "Josh Hartnett",
-      "profilePath": "/9JS3PeypxTmHVXOnLCMRzJzySxO.jpg",
+      "profilePath": "/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg",
       "character": "Jeremy Crawford",
       "job": "Actor",
       "department": "Acting",
@@ -433,8 +440,8 @@
       "order": 8
     },
     {
-      "tmdbPersonId": 1833907,
-      "name": "Alex Hedlund",
+      "tmdbPersonId": 1114792,
+      "name": "Nick Antosca",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -442,8 +449,8 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1114792,
-      "name": "Nick Antosca",
+      "tmdbPersonId": 1833907,
+      "name": "Alex Hedlund",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -569,5 +576,250 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1283515/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1283515,
+    "hash": "bad1715ba6e63e186c8174ea7d34c8403493186c28fac5f9fc4eae0f7644d1ba",
+    "summary_one_sentence": "Struggling writer Lowen Ashleigh accepts a deal to finish the hit book series of incapacitated author Verity Crawford, only to uncover horrific family secrets hidden within her home.",
+    "summary_short": "Lowen Ashleigh, a struggling author, is hired by Jeremy Crawford to complete the remaining books of his injured wife, bestselling novelist Verity Crawford. Moving into the Crawford estate to sift through Verity's notes, Lowen discovers an unpublished, chilling autobiography detailing disturbing family tragedies. As Lowen grows closer to Jeremy, the boundary between Verity's fiction and reality blurs into a dangerous psychological trap. She must decide whether the horrific manuscript reveals an appalling truth or an elaborate deceit.",
+    "summary_long": "Lowen Ashleigh is on the brink of financial ruin when she receives the opportunity of a lifetime: finishing the wildly popular book series of renowned author Verity Crawford, who is in a vegetative state following a tragic car accident. Invited by Verity's grieving husband, Jeremy, Lowen stays at the Crawford residence to sort through Verity’s chaotic office and research notes. While searching for plot outlines, Lowen uncovers an unedited, deeply unsettling manuscript that Verity kept hidden. The autobiography depicts Verity's dark, manipulative inner thoughts and implies her involvement in the mysterious deaths of her two young daughters. Terrified by what she reads, Lowen watches the bedridden Verity closely and begins to suspect that the woman is faking her catatonic state. As tension rises and Lowen falls deeply in love with Jeremy, she grapples with whether to reveal the disturbing manuscript to him. Bizarre occurrences around the mansion build toward a horrifying confrontation that forces Lowen to question who the true villain of the house really is. Ultimately, a devastating revelation flips the narrative, leaving Lowen to navigate a sinister web of truth, perception, and morality.",
+    "synopsis": "Lowen Ashleigh, a reclusive and financially struggling writer, receives an extraordinary career offer from Jeremy Crawford. Jeremy's wife, bestselling thriller author Verity Crawford, has been left severely incapacitated after a devastating accident and cannot complete her contract for a mega-popular series. Lowen agrees to step in as a ghostwriter and moves into the eerie Crawford family estate to sort through Verity's extensive notes and research.\n\nWhile immersed in Verity's chaotic workplace, Lowen discovers an unpublished manuscript that was never meant to be found—an intimate, chilling autobiography. The text reveals horrifying secrets about the family's past, including sinister details surrounding the recent deaths of the Crawfords' two young daughters. As Lowen reads deeper into the harrowing confession, she notices unsettling anomalies in the house, fueling her suspicion that Verity’s tragic condition might not be what it seems.\n\nIsolated in an atmosphere heavy with grief and suspense, Lowen finds herself torn between her growing feelings for Jeremy and the terrifying contents of the manuscript. Bound by psychological tension and mounting dread, this gripping mystery explores the terrifying grey area between art, delusion, and deceptive human nature.",
+    "keywords": [
+      "ghostwriter",
+      "unreliable narrator",
+      "found manuscript",
+      "dark secrets",
+      "psychological mind games",
+      "grief and trauma",
+      "claustrophobic setting",
+      "forbidden attraction",
+      "moral ambiguity",
+      "twisted family dynamic",
+      "disturbing truths",
+      "obsession",
+      "gaslighting"
+    ],
+    "themes": [
+      {
+        "theme": "Deception and Truth",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Obsession and Morality",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Grief and Trauma",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Motherhood",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Disturbing",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions overflow when the chilling revelations in the manuscript collide with suspicions about Verity's true condition, leading to a desperate, high-stakes confrontation that forever alters the dynamic among Lowen, Jeremy, and Verity.",
+      "conflict": "Lowen moves into the Crawford family estate to sort through Verity's office notes, finding herself caught between growing romantic feelings for Jeremy and the unnerving, heavy atmosphere surrounding the home and Verity's bedside care.",
+      "resolution": "A final, game-changing discovery presents a completely different perspective on the horrific events, leaving Lowen forced to live with enduring doubt over which version of the truth is real.",
+      "introduction": "Lowen Ashleigh, a struggling writer facing financial ruin, is hired by Jeremy Crawford to complete the remaining books in a mega-bestselling series created by his wife, Verity, who was left incapacitated after a tragic accident.",
+      "risingAction": "While researching, Lowen uncovers an unpublished manuscript—an autobiography containing disturbing, horrifying confessions attributed to Verity. As strange occurrences happen in the house, Lowen struggles with whether to reveal the unsettling document to Jeremy."
+    },
+    "characters": [
+      {
+        "name": "Lowen Ashleigh",
+        "role": "Hero",
+        "description": "A struggling writer hired to complete a bestselling book series who uncovers dark secrets in the Crawford household."
+      },
+      {
+        "name": "Verity Crawford",
+        "role": "Villain",
+        "description": "The enigmatic and incapacitated bestselling author whose disturbing manuscript reveals a dark, manipulative nature."
+      },
+      {
+        "name": "Jeremy Crawford",
+        "role": "Supporting Character",
+        "description": "Verity's grieving husband who hires Lowen and becomes her primary emotional anchor and love interest."
+      },
+      {
+        "name": "Crew Crawford",
+        "role": "Supporting Character",
+        "description": "Verity and Jeremy's young surviving son whose innocence contrasts with the surrounding family trauma."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lowen Ashleigh",
+        "target": "Jeremy Crawford",
+        "description": "Love Interest / Employer-Employee"
+      },
+      {
+        "source": "Jeremy Crawford",
+        "target": "Verity Crawford",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Lowen Ashleigh",
+        "target": "Verity Crawford",
+        "description": "Ghostwriter/Author (Rivals for Jeremy's affection)"
+      },
+      {
+        "source": "Verity Crawford",
+        "target": "Crew Crawford",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Jeremy Crawford",
+        "target": "Crew Crawford",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Verity Crawford",
+        "target": "Harper Crawford",
+        "description": "Mother/Daughter (Deceased)"
+      },
+      {
+        "source": "Verity Crawford",
+        "target": "Chastin Crawford",
+        "description": "Mother/Daughter (Deceased)"
+      },
+      {
+        "source": "Lowen Ashleigh",
+        "target": "Corey",
+        "description": "Ex-Boyfriend / Literary Agent"
+      }
+    ],
+    "seo": {
+      "slug": "verity",
+      "jsonLd": {
+        "name": "Verity",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
+      },
+      "keywords": [
+        "Verity",
+        "Verity movie",
+        "Verity plot",
+        "Verity synopsis",
+        "Lowen Ashleigh",
+        "Jeremy Crawford",
+        "psychological thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/verity](https://movnix.com/movie/verity)",
+      "metaTitle": "Verity Movie Synopsis, Plot & Overview | Movnix",
+      "openGraph": {
+        "og:title": "Verity - Movie Overview & Synopsis | Movnix",
+        "og:description": "Lowen Ashleigh uncovers disturbing truths while ghostwriting for bestselling author Verity Crawford inside her home."
+      },
+      "twitterCard": {
+        "twitter:title": "Verity - Movie Overview & Synopsis | Movnix",
+        "twitter:description": "Lowen Ashleigh uncovers disturbing truths while ghostwriting for bestselling author Verity Crawford inside her home."
+      },
+      "metaDescription": "Lowen Ashleigh is hired to ghostwrite for author Verity Crawford, uncovering disturbing truths inside the Crawford home. Read the full overview."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a psychological thriller and mystery, incorporating strong elements of romantic and erotic suspense.",
+        "question": "What is the dominant genre of Verity?"
+      },
+      {
+        "answer": "Yes, Verity is based on Colleen Hoover's bestselling 2018 novel of the same name.",
+        "question": "Is this movie based on a book?"
+      },
+      {
+        "answer": "No, it is a standalone story and not part of an existing cinematic franchise or universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a standalone psychological thriller, the film does not feature any post-credits scenes.",
+        "question": "Is there a post-credit scene in Verity?"
+      },
+      {
+        "answer": "Dakota Johnson stars as ghostwriter Lowen Ashleigh, Anne Hathaway portrays the mysterious author Verity Crawford, and Josh Hartnett plays Verity's husband, Jeremy Crawford.",
+        "question": "Who plays the lead characters in Verity?"
+      },
+      {
+        "answer": "The film was directed by Michael Showalter, with a screenplay penned by Nick Antosca.",
+        "question": "Who directed the movie adaptaton of Verity?"
+      },
+      {
+        "answer": "Lowen is hired by Jeremy Crawford to complete his injured wife Verity's unfinished bestselling book series, requiring Lowen to stay at their home to sort through Verity's writing notes and outlines.",
+        "question": "Why is Lowen Ashleigh hired to live with the Crawford family?"
+      },
+      {
+        "answer": "While searching through Verity's office, Lowen uncovers an unpublished, chilling manuscript containing dark confessions about Verity's past and her family.",
+        "question": "What disturbing discovery does Lowen make while working on the books?"
+      },
+      {
+        "answer": "No, the movie contains mature themes, psychological intensity, disturbing content, and erotic suspense intended for adult audiences.",
+        "question": "Is Verity suitable for younger audiences?"
+      },
+      {
+        "answer": "Distributed by Amazon MGM Studios, Verity was scheduled for a theatrical release before becoming available for streaming on Prime Video.",
+        "question": "Where can viewers watch Verity?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong psychological horror elements, deeply disturbing themes, unsettling domestic tension, and chilling unrevealed motives."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong profanity, explicit language, and harsh dialogue throughout."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Depictions of severe child abuse, attempted infanticide, physical assault, and graphic violence detailed in an manuscript."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate inclusion of alcohol consumption and prescription medication use in high-stress contexts."
+      },
+      "sexualContent": {
+        "score": 9,
+        "description": "Explicit and graphic depictions of sexual encounters, intense intimacy, and erotic themes integrated throughout the narrative."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high psychological tension, heavy themes of grief, betrayal, manipulation, moral ambiguity, and deep emotional trauma."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 7,
+      "science": 0,
+      "suspense": 10,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 05:03:49.708368",
+    "updated_at": "2026-07-30 05:03:49.708368"
+  }
 }
