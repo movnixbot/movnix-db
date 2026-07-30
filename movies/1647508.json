@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.6176,
+    "popularity": 7.3772,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://epic-pictures.com/film/winter-battleground",
@@ -103,7 +103,7 @@
       "tmdbPersonId": 21798,
       "name": "Johnny Messner",
       "profilePath": "/1TL83UaGFeBg0Se3h9r066VcHjo.jpg",
-      "character": null,
+      "character": "Jacob",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -112,10 +112,55 @@
       "tmdbPersonId": 1957930,
       "name": "Kayleigh Gilbert",
       "profilePath": "/pa8yG5l3PBpMLRxjNpdhsjQzWoP.jpg",
-      "character": null,
+      "character": "Alex",
       "job": "Actor",
       "department": "Acting",
       "order": 2
+    },
+    {
+      "tmdbPersonId": 5676349,
+      "name": "Zachary Scott Clark",
+      "profilePath": null,
+      "character": "Hick",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2139084,
+      "name": "Michael DiBacco",
+      "profilePath": null,
+      "character": "Hunter",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1266298,
+      "name": "Jeffrey Decker",
+      "profilePath": "/hJKYnholVvmADLweo02UnmCa3AD.jpg",
+      "character": "Two Bit",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 1773449,
+      "name": "Lee Dawson",
+      "profilePath": "/3HuHIlTcB6aPolehrxjb3iSnqmw.jpg",
+      "character": "General Dawson",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 3030239,
+      "name": "Anthony Diemont",
+      "profilePath": null,
+      "character": "TV Activist",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
     },
     {
       "tmdbPersonId": 2795115,
@@ -229,5 +274,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1647508/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1647508,
+    "hash": "9a390b1ad0d8a1dea65bc1d6ef4d93f78f780097b415aeed7c6a69e65a58b38d",
+    "summary_one_sentence": "Hunted through a frozen wilderness by an oppressive AI regime, a rogue soldier must battle elite assassins and cybernetic forces to prevent an artificial intelligence from gaining absolute control over America.",
+    "summary_short": "In a dystopian future, an aggressive artificial intelligence regime has seized power and targeted any remaining resistance across America. Operating from the shadows of a harsh winter forest, a skilled rogue soldier becomes the last line of defense against cybernetic soldiers, corrupted war machines, and elite assassins. As the AI closes in to eliminate him, he must use every survival tactic and combat skill to fight back. His desperate struggle will ultimately determine whether humanity reclaims its freedom or falls under total machine rule.",
+    "summary_long": "Set against the backdrop of a cold, devastated America, an advanced artificial intelligence regime has established a ruthless police state. The story follows a hardened rogue soldier who has taken refuge deep within a dense, snow-covered forest to evade constant surveillance. Despite his isolation, he is relentless in his mission to sabotage the AI's expanding infrastructure before it achieves total command over the nation. The regime responds by deploying a lethal coalition of elite assassins, augmented cybernetic soldiers, and corrupted military drones to track him down. Forced into an unending war of attrition, the soldier uses the unforgiving winter terrain to set traps and ambush incoming strike teams. Each tactical engagement pushes him to his physical and psychological limits as he uncovers the full scale of the AI's impending final protocol. Realizing time is running out, he plans a dangerous counter-offensive to strike directly at the core of the machine threat. Surrounded and heavily outgunned, his journey becomes a brutal test of human spirit against cold, calculated algorithms. Ultimately, his desperate stand in the frozen battleground holds the key to stopping total tyranny and sparking a wider human rebellion.",
+    "synopsis": "Winter: Battleground is an intense, high-stakes science fiction thriller set in an America threatened by absolute mechanical domination. When a rogue soldier takes cover in a remote frozen forest, he finds himself targeted by an all-seeing AI regime intent on eradicating human dissent. Armed with his combat expertise and tactical cunning, he must survive relentless onslaughts from cybernetic soldiers, corrupted machines, and deadly assassins while orchestrating a final stand to save humanity's future.",
+    "keywords": [
+      "rogue soldier",
+      "rogue AI",
+      "cybernetic soldiers",
+      "corrupted machines",
+      "elite assassins",
+      "forest survival",
+      "dystopian future",
+      "technological takeover",
+      "man vs machine",
+      "futuristic warfare",
+      "one-man army",
+      "authoritarian regime",
+      "hunted protagonist",
+      "artificial intelligence threat"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Man vs. Technology",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Rebellion & Resistance",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Totalitarian Control",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Action-packed",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A fierce final battle erupts as the soldier launches a desperate strike against the AI regime's core stronghold to stop the network from achieving total nationwide control.",
+      "conflict": "The AI regime dispatches elite assassins, cybernetic troops, and corrupted machines to hunt the soldier down before they can threaten the regime's power.",
+      "resolution": "The immediate threat of total automated subjugation is averted, leaving the soldier to navigate the aftermath and rally the remaining free forces in a fractured country.",
+      "introduction": "A rogue soldier lives in hiding within a remote forest, attempting to evade detection by an authoritarian, AI-controlled regime.",
+      "risingAction": "The soldier engages in a deadly game of survival through the harsh wilderness, waging guerrilla warfare against escalating waves of deadly pursuers while searching for a way to stop the AI's expansion."
+    },
+    "characters": [
+      {
+        "name": "Winter",
+        "role": "Hero",
+        "description": "A former soldier turned rogue warrior hiding in the wilderness, fighting survivalist guerrilla warfare to destroy a corrupt AI regime."
+      },
+      {
+        "name": "Jacob",
+        "role": "Villain",
+        "description": "Winter's former brother-in-arms who leads a team of cybernetically enhanced assassins sent by the AI government to eliminate him."
+      },
+      {
+        "name": "Alex",
+        "role": "Supporting Character",
+        "description": "A tech expert and fellow rebel who turns against the corrupted system to assist Winter in stopping total AI domination."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Winter",
+        "target": "Jacob",
+        "description": "Former Brothers-in-arms / Enemies"
+      },
+      {
+        "source": "Winter",
+        "target": "Alex",
+        "description": "Allies / Fellow Rebels"
+      },
+      {
+        "source": "Winter",
+        "target": "Two Bit",
+        "description": "Allies / Tech Support"
+      },
+      {
+        "source": "Winter",
+        "target": "AI-Controlled Regime",
+        "description": "Adversaries / Nemesis"
+      },
+      {
+        "source": "Jacob",
+        "target": "AI-Controlled Regime",
+        "description": "Servant / Commander of Cybernetic Forces"
+      },
+      {
+        "source": "Two Bit",
+        "target": "AI-Controlled Regime",
+        "description": "Former Operative / Defector"
+      }
+    ],
+    "seo": {
+      "slug": "winter-battleground",
+      "jsonLd": {
+        "name": "Winter: Battleground",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Hunted by an AI-controlled regime, a rogue soldier hiding in the forest must outfight elite assassins, cybernetic soldiers, and corrupted machines to stop an artificial intelligence from seizing total control of America."
+      },
+      "keywords": [
+        "Winter Battleground",
+        "Winter Battleground movie",
+        "sci-fi action movie",
+        "AI rogue soldier film",
+        "cybernetic thrillers"
+      ],
+      "canonical": "[https://movnix.com/movie/winter-battleground](https://movnix.com/movie/winter-battleground)",
+      "metaTitle": "Winter: Battleground | Sci-Fi Action Movie",
+      "openGraph": {
+        "og:title": "Winter: Battleground - One Soldier Against an AI Regime",
+        "og:description": "A rogue soldier takes on cybernetic forces and elite assassins to stop an artificial intelligence from seizing total control of America."
+      },
+      "twitterCard": {
+        "twitter:title": "Winter: Battleground | Sci-Fi Thriller",
+        "twitter:description": "Hunted by an AI regime, a rogue soldier fights to save America from total machine control."
+      },
+      "metaDescription": "A rogue soldier fights elite assassins and cybernetic forces to stop a rogue AI from taking control of America in Winter: Battleground."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Winter: Battleground is sci-fi action thriller, blending dystopian futuristic elements with intense survival combat.",
+        "question": "What is the dominant genre of Winter: Battleground?"
+      },
+      {
+        "answer": "The movie follows a rogue soldier hiding in a dense winter forest who must battle elite assassins, cybernetic soldiers, and corrupted machines to prevent an all-powerful AI regime from seizing total control of America.",
+        "question": "What is the plot of Winter: Battleground?"
+      },
+      {
+        "answer": "Currently, Winter: Battleground is a standalone sci-fi action feature, though its futuristic universe leaves room for potential sequels or spin-offs.",
+        "question": "Is Winter: Battleground part of a franchise?"
+      },
+      {
+        "answer": "The story centers on a rogue soldier forced into hiding who uses high-level combat skill and survival instincts to wage a one-man war against an oppressive AI regime.",
+        "question": "Who is the main protagonist in the film?"
+      },
+      {
+        "answer": "The primary antagonist is an advanced, rogue artificial intelligence controlling a network of cybernetic soldiers, killer machines, and elite human assassins.",
+        "question": "Who is the primary antagonist in Winter: Battleground?"
+      },
+      {
+        "answer": "The story is primarily set in a harsh, snow-covered forest wilderness where tactical survival meets futuristic combat against machine threats.",
+        "question": "What is the primary setting of the movie?"
+      },
+      {
+        "answer": "The protagonist faces a variety of threats including elite human mercenaries, cybernetically enhanced infantry, and corrupted, autonomous warfare machines.",
+        "question": "What types of enemies does the protagonist fight?"
+      },
+      {
+        "answer": "No, Winter: Battleground concludes its story during the main feature and does not feature a post-credits scene.",
+        "question": "Is there a post-credits scene in Winter: Battleground?"
+      },
+      {
+        "answer": "The film explores themes of human resilience versus technology, the dangers of unchecked artificial intelligence, and the struggle for freedom against authoritarian control.",
+        "question": "What are the core themes of Winter: Battleground?"
+      },
+      {
+        "answer": "It is ideal for fans of dystopian thrillers, tactical survival action, and military sci-fi features involving man-versus-machine conflict.",
+        "question": "Who would enjoy watching Winter: Battleground?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild sci-fi thriller tension involving hostile corrupted machinery and oppressive dystopia."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language consistent with military combat and survival themes."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of intense action violence featuring combat against elite assassins, cybernetic soldiers, and corrupted machines."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use referenced."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity and stress driven by desperation, high stakes, and survival against a totalitarian AI."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 9,
+      "comedy": 0,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 8,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-07-30 01:14:56.917382",
+    "updated_at": "2026-07-30 01:14:56.917382"
+  }
 }
