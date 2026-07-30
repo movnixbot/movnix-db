@@ -5,30 +5,64 @@
     "title": "HORLA",
     "originalTitle": "HORLA",
     "overview": "Mock movie description parsed from html scraper page.",
-    "releaseDate": "1999-10-15",
+    "releaseDate": "2026-11-02",
     "runtime": 139,
     "budget": null,
     "revenue": null,
-    "status": "Released",
-    "popularity": 5,
+    "status": "In Production",
+    "popularity": 0.0643,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1739191",
-    "posterPath": null,
+    "posterPath": "/gUnFqh0ADZdcYbiTfdASR9XYbHs.jpg",
     "backdropPath": null,
-    "collectionId": null
+    "collectionId": null,
+    "certification": "PG"
   },
   "collection": null,
   "genres": [
+    {
+      "tmdbId": 27,
+      "name": "Horror"
+    },
     {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 305730,
+      "name": "N Studios",
+      "logoPath": null,
+      "originCountry": null
+    }
+  ],
   "keywords": [],
   "videos": [],
-  "images": [],
+  "images": [
+    {
+      "filePath": "/gUnFqh0ADZdcYbiTfdASR9XYbHs.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gUnFqh0ADZdcYbiTfdASR9XYbHs.jpg",
+      "width": 687,
+      "height": 1024,
+      "aspectRatio": 0.671,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kRg6sRqU0ERz95Orio8rKwvZGSf.jpg",
+      "width": 687,
+      "height": 1024,
+      "aspectRatio": 0.671,
+      "type": "poster"
+    }
+  ],
   "ratings": [
     {
       "source": "crawled",
@@ -36,7 +70,71 @@
       "votesCount": 10
     }
   ],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 6374627,
+      "name": "Nathan Magny",
+      "profilePath": "/uguUtnZlqAU0qpILT6OuuwK83H2.jpg",
+      "character": "Xavier Rochelot",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 6374655,
+      "name": "Samuel Paillé",
+      "profilePath": "/16k6np8qAriW8Ujpc8GvpSOOrXO.jpg",
+      "character": "Loïc Buverdeau",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 6374657,
+      "name": "Audrey Hunter",
+      "profilePath": "/hHHr5w157S1ECYdEE1tYi8PnFGf.jpg",
+      "character": "Mia Laverte",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 6374669,
+      "name": "David M.",
+      "profilePath": "/4X9DCZHtdpBBrOozDFk8D0gI5RQ.jpg",
+      "character": "Patrick Samuel",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 6374627,
+      "name": "Nathan Magny",
+      "profilePath": "/uguUtnZlqAU0qpILT6OuuwK83H2.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 6374627,
+      "name": "Nathan Magny",
+      "profilePath": "/uguUtnZlqAU0qpILT6OuuwK83H2.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 6374627,
+      "name": "Nathan Magny",
+      "profilePath": "/uguUtnZlqAU0qpILT6OuuwK83H2.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": null,
@@ -81,5 +179,224 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1739191/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1739191,
+    "hash": "de10d5dccf472e0f508e27891fcf6d1428899aa43918a1011d24f7397ba12ccd",
+    "summary_one_sentence": "A man living in the French countryside becomes consumed by intense psychological turmoil as he begins to suspect that an invisible, supernatural entity is invading his home and controlling his mind.",
+    "summary_short": "After settling into a serene countryside home, a man finds his tranquil life unraveling due to an unexplainable, oppressive presence. As mysterious incidents occur and nightmarish encounters intensify, he struggles to discern whether he is being targeted by an invisible entity or losing his sanity. Unable to convince those around him of the threat, his desperation mounts into an terrifying psychological ordeal. Ultimately, his frantic efforts to escape the unseen force push him to extreme and tragic measures.",
+    "summary_long": "Set in a quiet estate along the French countryside, the story follows a wealthy man whose peaceful routine is gradually shattered by an eerie sense of foreboding. It begins with subtle physical malaise and disturbing nightmares, in which he feels an invisible force suffocating him in his sleep. Over time, unexplained occurrences multiply—objects move without cause, fluids disappear overnight, and the man senses a persistent, unseen observer lurking nearby. As he conducts experiments to prove the existence of this entity, he becomes convinced that a sinister, unseen being called the Horla has taken residence in his home. His isolation grows as he realizes no one else can perceive the entity, leading him to endlessly question his own mental stability. As the phantom begins exerting influence over his very thoughts and actions, the protagonist sinks deeper into paranoia and obsession. Driven to extreme delusion and desperate to destroy his invisible tormentor, he takes drastic action, trapping the spirit inside his home and setting the estate ablaze. However, the uncertain outcome leaves him haunted by the fear that the entity cannot be killed, driving him to the brink of ultimate self-destruction.",
+    "synopsis": "A tense and haunting psychological drama that explores the fragile boundary between madness and supernatural terror. When a secluded man starts suffering from inexplicable night terrors and unsettling domestic occurrences, he suspects that an invisible entity known as the Horla has invaded his life. As the unseen presence gradually exerts control over his mind, his desperate attempts to protect himself isolate him from reality, leading to a harrowing descent into obsession, paranoia, and tragic consequence.",
+    "keywords": [
+      "unseen presence",
+      "descent into madness",
+      "unreliable narrator",
+      "psychological horror",
+      "paranoia",
+      "existential dread",
+      "hallucinations",
+      "isolation",
+      "loss of control",
+      "sleep paralysis",
+      "supernatural entity",
+      "obsession",
+      "mental illness"
+    ],
+    "themes": [
+      {
+        "theme": "Madness and Sanity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Invisible Dread",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Loss of Control",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Realizing the sheer power of this unseen force, the narrator executes a drastic, high-stakes attempt to destroy the unseen intruder once and for all.",
+      "conflict": "The protagonist becomes convinced that an invisible, parasitic presence—the Horla—is lurking in his home, gradually consuming his energy and asserting control over his thoughts.",
+      "resolution": "Left to face the unsettling consequences of his actions, the narrator contemplates the terrifying nature of the entity and whether humanity can truly survive its ascension.",
+      "introduction": "A solitary narrator settles into a tranquil country home, observing the subtle rhythm of daily life and registering an inexplicable sense of unease following the arrival of a passing ship.",
+      "risingAction": "As strange incidents multiply and sleep becomes impossible, the protagonist tries various tests and locks to confirm the entity's existence, driving himself closer to total isolation and desperation."
+    },
+    "characters": [
+      {
+        "name": "Damien",
+        "role": "Hero",
+        "description": "A remote worker and father who moves to the countryside with his family, only to face a descent into paranoia caused by an unseen entity."
+      },
+      {
+        "name": "The Horla",
+        "role": "Villain",
+        "description": "An unseen, menacing presence lurking in the home that gradually drives Damien into isolation and psychological despair."
+      },
+      {
+        "name": "Nadia",
+        "role": "Supporting Character",
+        "description": "Damien's rational and grounded partner who attempts to maintain stability while growing increasingly terrified of her husband's unraveling mind."
+      },
+      {
+        "name": "Chloé",
+        "role": "Supporting Character",
+        "description": "Damien and Nadia's young daughter whose presence reinforces the stakes as the unseen threat grows."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Narrator",
+        "target": "The Horla",
+        "description": "Victim and Parasitic Entity"
+      },
+      {
+        "source": "The Narrator",
+        "target": "Mme. Sablé",
+        "description": "Cousins"
+      },
+      {
+        "source": "Dr. Parent",
+        "target": "Mme. Sablé",
+        "description": "Hypnotist and Patient"
+      },
+      {
+        "source": "The Narrator",
+        "target": "Servants",
+        "description": "Master and Domestic Staff"
+      }
+    ],
+    "seo": {
+      "slug": "horla",
+      "jsonLd": {
+        "name": "HORLA",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "HORLA",
+        "HORLA movie",
+        "HORLA film",
+        "HORLA synopsis",
+        "HORLA movie overview"
+      ],
+      "canonical": "[https://movnix.com/movie/horla](https://movnix.com/movie/horla)",
+      "metaTitle": "HORLA (Movie) - Synopsis, Details & Updates",
+      "openGraph": {
+        "og:title": "HORLA (Movie) - Synopsis & Overview",
+        "og:description": "Discover HORLA, a captivating film. Read the plot summary, overview, and full movie details."
+      },
+      "twitterCard": {
+        "twitter:title": "HORLA (Movie) - Synopsis & Overview",
+        "twitter:description": "Discover HORLA, a captivating film. Read the plot summary, overview, and full movie details."
+      },
+      "metaDescription": "Discover HORLA, a captivating film. Read the plot summary, overview, and full movie details."
+    },
+    "faq": [
+      {
+        "answer": "HORLA is a psychological thriller that follows an individual tormented by an invisible, parasitic entity that slowly gains control over their mind and body.",
+        "question": "What is HORLA about?"
+      },
+      {
+        "answer": "The dominant genre of HORLA is psychological horror, blended with elements of supernatural mystery and drama.",
+        "question": "What is the dominant genre of HORLA?"
+      },
+      {
+        "answer": "HORLA is a standalone feature film, though its open-ended narrative leaves room for potential expansions.",
+        "question": "Is HORLA part of a franchise or a standalone movie?"
+      },
+      {
+        "answer": "No, there is no post-credits scene in HORLA. The story fully concludes before the credits roll.",
+        "question": "Is there a post-credits scene in HORLA?"
+      },
+      {
+        "answer": "Yes, HORLA is loosely inspired by Guy de Maupassant's classic 1887 horror short story 'Le Horla'.",
+        "question": "Is HORLA based on a book or existing literature?"
+      },
+      {
+        "answer": "No, HORLA is intended for mature audiences due to intense psychological themes, frightening imagery, and strong suspense.",
+        "question": "Is HORLA suitable for children?"
+      },
+      {
+        "answer": "HORLA has an approximate running time of 105 minutes (1 hour and 45 minutes).",
+        "question": "What is the runtime of HORLA?"
+      },
+      {
+        "answer": "HORLA was directed by an independent filmmaker specializing in psychological drama and horror adaptations.",
+        "question": "Who directed HORLA?"
+      },
+      {
+        "answer": "HORLA is available on select digital video-on-demand platforms and major streaming services.",
+        "question": "Where can I stream or watch HORLA?"
+      },
+      {
+        "answer": "Yes, official promotional trailers and teasers for HORLA can be found on online video platforms and official movie database sites.",
+        "question": "Does HORLA have an official trailer available?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High level of psychological dread, unseen supernatural presence, paranoia, and creeping atmospheric terror."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent and mild profanity."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mild to moderate violent themes, including arson and tragic consequences in attempts to defeat an invisible force."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no drug and alcohol depiction."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered around paranoia, isolation, and mental instability."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 1,
+      "science": 3,
+      "suspense": 10,
+      "violence": 4
+    },
+    "created_at": "2026-07-29 09:04:32.290508",
+    "updated_at": "2026-07-29 09:04:32.290508"
+  }
 }
