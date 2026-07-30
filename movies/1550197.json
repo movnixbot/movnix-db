@@ -10,7 +10,7 @@
     "budget": "1000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 0.8113,
+    "popularity": 2.0662,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1550197",
@@ -292,5 +292,239 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1550197/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1550197,
+    "hash": "a8e627c4423cfde4af65158a1160927709c279b4bd725d2030ee1364096d3aec",
+    "summary_one_sentence": "Seeking shelter in a desolate Italian chateau, an injured narrator becomes captivated by a hauntingly lifelike portrait of a young woman and discovers the tragic story behind its creation.",
+    "summary_short": "After seeking refuge in a remote, abandoned castle to recover from a wound, a weary traveler stumbles upon an extraordinarily realistic painting of a beautiful young bride. Intrigued and disturbed by its lifelike intensity, he consults a small book found in the room to uncover the history of the artwork. He learns that the passion of the obsessive artist who painted her inadvertently drained the real woman's vitality into the canvas. Ultimately, the artist's obsession culminated in the tragic death of his bride the exact moment he finished the masterpiece.",
+    "summary_long": "A wounded narrator seeking shelter enters an abandoned Italian chateau during a stormy night to rest and recover. While resting in a dimly lit, uniquely decorated room, he notices a striking oval portrait depicting a radiant young bride. Surprised by the painting's breathtaking realism and almost magical aura, he adjusts his candle to examine the artwork more closely. Overwhelmed by its lifelike quality and unsettling presence, he turns to a small volume on his pillow that details the history of the chateau's art collection. Reading through the text, he discovers that the subject was a young woman of rare beauty who married a passionate, highly renowned artist. Her only rival for her husband's affection was his absolute obsession with his art, which slowly consumed his every waking hour. When the artist decided to paint her portrait, she dutifully complied despite her growing dread of his dark studio and consumed focus. Day after day, as the artist poured his soul into every stroke of the brush, he failed to notice that his bride's health was rapidly declining. As the portrait neared completion, the lingering color faded completely from her cheeks and transferred onto the canvas. Upon applying the final brushstroke and declaring the portrait to be 'Life itself!', the artist turned to his wife only to realize she had died in the chair.",
+    "synopsis": "Adapted from Edgar Allan Poe's classic gothic short story, 'The Oval Portrait' explores the dangerous intersection of art, obsession, and mortality. When an injured traveler takes refuge in an abandoned chateau, he encounters an eerie, incredibly realistic portrait of a beautiful young woman that consumes his thoughts. Through a mysterious chronicle found within the castle, he unravels the haunting history of a passionate painter whose consumed devotion to creating a masterpiece inadvertently drained the life force from his beloved bride, culminating in a chilling reflection on the cost of immortalizing beauty.",
+    "keywords": [
+      "gothic horror",
+      "obsession",
+      "art imitating life",
+      "framing device",
+      "tragic beauty",
+      "abandoned chateau",
+      "fatal passion",
+      "life-draining portrait",
+      "unreliable narrator",
+      "morbid aesthetic",
+      "romanticism",
+      "metafiction",
+      "psychological horror",
+      "vampirism metaphor"
+    ],
+    "themes": [
+      {
+        "theme": "Art versus Life",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Destructive Obsession",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Mortality and Beauty",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Neglect and Sacrifice",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Gothic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The narrator reads the story of the portrait's subject—a young bride whose artist husband became obsessed with painting her, gradually draining her vitality as he captured her image on canvas.",
+      "conflict": "While admiring the strange artwork in his bedroom, the narrator discovers a remarkably lifelike portrait of a beautiful young woman that profoundly disturbs and fascinates him.",
+      "resolution": "The tale concludes as the artist puts the final brushstroke on the canvas, realizing the terrible cost of his artistic obsession.",
+      "introduction": "A wounded narrator and his servant seek shelter for the night in a recently abandoned, grand Italian chateau.",
+      "risingAction": "Curious about the painting's origins, the narrator consults a small book in the room that details the histories of the chateau's art collection."
+    },
+    "characters": [
+      {
+        "name": "Ava",
+        "role": "Hero",
+        "description": "A resilient young artist struggling to revive her dormant career who becomes the central perspective after discovering the misterious painting."
+      },
+      {
+        "name": "Whitlock",
+        "role": "Mentor",
+        "description": "A polite, graceful antique shopkeeper who holds deep secrets and a personal connection to the supernatural portrait."
+      },
+      {
+        "name": "Grayson",
+        "role": "Villain",
+        "description": "An impatient and menacing figure who repeatedly orchestrates attempts to acquire the cursed painting."
+      },
+      {
+        "name": "Julian",
+        "role": "Comic Relief",
+        "description": "A cowardly art thief and fence who avoids doing dirty work himself, providing pathetic comic relief through his failed heist attempts."
+      },
+      {
+        "name": "Gora",
+        "role": "Supporting Character",
+        "description": "The ghost of the woman trapped within the oval portrait who jealousy haunts and watches over those drawn to it."
+      },
+      {
+        "name": "Colby Frost",
+        "role": "Other",
+        "description": "A featured cast member playing a minor supporting role in the narrative."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Narrator",
+        "target": "Pedro",
+        "description": "Master/Servant"
+      },
+      {
+        "source": "The Painter",
+        "target": "The Young Bride",
+        "description": "Husband/Wife (and Artist/Model)"
+      },
+      {
+        "source": "The Narrator",
+        "target": "The Young Bride",
+        "description": "Observer/Subject of Obsession"
+      },
+      {
+        "source": "The Painter",
+        "target": "His Art",
+        "description": "Obsessive Creator/Rival for Affection"
+      }
+    ],
+    "seo": {
+      "slug": "edgar-allan-poes-the-oval-portrait",
+      "jsonLd": {
+        "name": "Edgar Allan Poe's The Oval Portrait",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A wounded narrator finds refuge in an abandoned Italian chateau and discovers a lifelike portrait of a young woman."
+      },
+      "keywords": [
+        "Edgar Allan Poe",
+        "The Oval Portrait",
+        "The Oval Portrait movie",
+        "gothic horror film",
+        "movie synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/edgar-allan-poes-the-oval-portrait](https://movnix.com/movie/edgar-allan-poes-the-oval-portrait)",
+      "metaTitle": "Edgar Allan Poe's The Oval Portrait | Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Edgar Allan Poe's The Oval Portrait",
+        "og:description": "A wounded narrator finds refuge in an abandoned Italian chateau and discovers a lifelike portrait of a young woman."
+      },
+      "twitterCard": {
+        "twitter:title": "Edgar Allan Poe's The Oval Portrait",
+        "twitter:description": "A wounded narrator finds refuge in an abandoned Italian chateau and discovers a lifelike portrait of a young woman."
+      },
+      "metaDescription": "A wounded narrator finds refuge in an abandoned chateau and discovers a hauntingly lifelike portrait of a young woman in Edgar Allan Poe's classic tale."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is Gothic fiction, characterized by its dark, moody atmosphere, themes of obsession, and psychological horror.",
+        "question": "What is the dominant genre of 'The Oval Portrait'?"
+      },
+      {
+        "answer": "It is originally a short story written by Edgar Allan Poe, first published in 1842, though it has inspired various film adaptations.",
+        "question": "Is 'The Oval Portrait' a movie or a literary work?"
+      },
+      {
+        "answer": "No, it is a standalone short story by Edgar Allan Poe, not part of a larger literary franchise or cinematic universe.",
+        "question": "Is 'The Oval Portrait' part of a franchise or larger series?"
+      },
+      {
+        "answer": "Since 'The Oval Portrait' is a classic short story, it does not have post-credit scenes, though its famous twist ending serves a similar surprising purpose.",
+        "question": "Is there a post-credit scene in 'The Oval Portrait'?"
+      },
+      {
+        "answer": "The story takes place in a dark, recently abandoned chateau located in the Apennines mountains of Italy.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The main characters are the wounded narrator, his servant Pedro, the young artist obsessed with his work, and his beautiful bride.",
+        "question": "Who are the main characters in the story?"
+      },
+      {
+        "answer": "The central theme is the destructive relationship between art and life, exploring how an artist's fatal obsession with perfection can consume reality.",
+        "question": "What is the central theme of 'The Oval Portrait'?"
+      },
+      {
+        "answer": "The narrator finds a small volume on his pillow that contains descriptions and histories of all the paintings hanging in the chateau.",
+        "question": "How does the narrator learn the story behind the portrait?"
+      },
+      {
+        "answer": "As the painter completes the final stroke of the portrait and declares 'This is indeed Life itself!', he turns to find that his bride has died.",
+        "question": "What happens at the end of 'The Oval Portrait'?"
+      },
+      {
+        "answer": "It is one of Poe's shortest stories, renowned for its frame narrative structure and powerful commentary on the tragic cost of artistic passion.",
+        "question": "Why is 'The Oval Portrait' significant in Edgar Allan Poe's work?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate Gothic horror featuring eerie psychological obsession, disturbing themes of art draining human life, an abandoned chateau setting, and an uncanny, unnerving portrait."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or coarse language; written in formal 19th-century elevated prose."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal physical violence; includes a brief mention of the narrator being wounded and an implicit, psychological death of a young woman as her life force is metaphorically consumed by her husband's painting."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor substance reference; the wounded narrator suffers from incipient delirium, with earlier texts hinting at opium use for pain relief."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content; focuses strictly on romantic devotion and artistic obsession."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by tragic obsession, neglect, monomania, and the shocking revelation of a young bride's death."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 3,
+      "mystery": 9,
+      "romance": 6,
+      "science": 0,
+      "suspense": 9,
+      "violence": 2
+    },
+    "created_at": "2026-07-30 12:02:49.437479",
+    "updated_at": "2026-07-30 12:02:49.437479"
+  }
 }
