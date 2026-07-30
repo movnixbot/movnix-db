@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 34.1332,
+    "popularity": 34.8023,
     "voteAverage": 7.7,
     "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1408170",
@@ -361,5 +361,267 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1408170/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1408170,
+    "hash": "ad3f3d484c0cccd944a65067695f2d895041dde58fcf0d162cf19f3a5ef9d5c7",
+    "summary_one_sentence": "An orphan raised in a rural village finds his romantic connection with an educated young woman caught in a web of deceit, political rivalry, and violent village warfare.",
+    "summary_short": "Raised in Sri Ramapuram by a respected foster mother, Lenin falls in love with Bharathi, who has recently returned from her urban education. Their budding romance blossoms against the backdrop of a traditional festival, but local power struggles and scheming rivals soon destabilize the community. When a sudden betrayal alters family ties and political alliances, their love ignites a large-scale conflict across the village. Lenin must step up to combat systemic corruption and protect those he holds dear.",
+    "summary_long": "Set against the culturally rich backdrop of a rural village celebrating the traditional Bharatham festival, an orphan named Lenin grows up under the care of a prominent local woman, Jayanthi. After completing her urban studies, Bharathi returns home, and a quiet, genuine romance develops between her and Lenin. However, beneath the surface of the village lies a simmering web of political rivalries, land disputes, and personal grudges. Outward foes like corrupt politicians and power-hungry local factions seek to assert total control over the region. The delicate peace shatters when unexpected betrayals and sudden disappearances jeopardize arranged family alliances. Bharathi and Lenin's devotion to one another unknowingly exposes these hidden motives, triggering a domino effect of hostility and bloodshed. Driven to defend his loved ones and restore justice to the region, Lenin confronts internal traitors and ruthless adversaries in an all-out battle for survival.",
+    "synopsis": "Lenin is an intense rural action-drama centered on an orphan who grows up in a close-knit village under the care of a benevolent matriarch. Life takes a romantic turn when Bharathi returns from the city, and the pair form a deep, peaceful connection amid local festival preparations. However, underlying power struggles, political greed, and hidden vendettas loom over the community. When deceit and unexpected circumstances disrupt traditional alliances, Lenin and Bharathi's relationship becomes the flashpoint for a massive conflict, forcing Lenin to stand against systemic corruption and defend his community.",
+    "keywords": [
+      "star-crossed lovers",
+      "rural politics",
+      "feuding families",
+      "unintended consequences",
+      "out-of-towner",
+      "forbidden romance",
+      "escalating violence",
+      "small town secrets",
+      "innocent catalyst",
+      "mob violence",
+      "class conflict",
+      "culture clash",
+      "tragic romance"
+    ],
+    "themes": [
+      {
+        "theme": "Conflict & Consequences",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Class & Urban vs. Rural Divide",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Love & Romance",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The hostilties culminate in a chaotic, large-scale confrontation where the survival of the lovers and the fate of the warring communities hang in the balance.",
+      "conflict": "Tensions ignite when Lenin and Bharathi's relationship crosses traditional boundaries, unexpectedly triggering a deeply rooted clash between rival village factions.",
+      "resolution": "In the aftermath of the tragic clash, the characters confront the bitter consequences of the feud and attempt to forge a path forward amidst the changed community landscape.",
+      "introduction": "Lenin, a young man raised in an urban environment, navigates his everyday life and enters into a peaceful, romantic relationship with Bharathi.",
+      "risingAction": "As animosity escalates across the rural landscape, local enmities intensify, sweeping Lenin and Bharathi into a dangerous downward spiral of retaliatory violence."
+    },
+    "characters": [
+      {
+        "name": "Lenin (Akhil Akkineni)",
+        "role": "Hero",
+        "description": "A loyal orphan raised in Sri Ramapuram whose deep romantic bond with Bharathi unintentionally sparks a violent and widespread village conflict."
+      },
+      {
+        "name": "Bharathi (Bhagyashri Borse)",
+        "role": "Supporting Character",
+        "description": "An independent, city-educated woman who returns home and becomes Lenin's passionate love interest, setting off complex family rivalries."
+      },
+      {
+        "name": "Yathiraju (Sivaji Sontineni)",
+        "role": "Villain",
+        "description": "A power-hungry antagonist who seeks absolute dominance over the village land and manipulates conflicts for personal gain."
+      },
+      {
+        "name": "Jayanthi (Easwari Rao)",
+        "role": "Mentor",
+        "description": "The respected matriarch and village leader who takes in Lenin as an orphan and guides him in protecting their community."
+      },
+      {
+        "name": "Village Ally / Local (Sunil Varma)",
+        "role": "Comic Relief",
+        "description": "Provides lighthearted comedic moments and levity amidst the escalating tensions and dramatic village feuds."
+      },
+      {
+        "name": "Key Supporter (Brahmaji)",
+        "role": "Supporting Character",
+        "description": "A dependable ally within the village involved in the surrounding political and social dynamics."
+      },
+      {
+        "name": "Special Guest / Narrator (N.T. Rama Rao Jr.)",
+        "role": "Other",
+        "description": "Contributes through a special guest voiceover or cameo appearance to frame the epic scale of the story."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lenin",
+        "target": "Bharathi",
+        "description": "Lovers / Romantic Partners"
+      },
+      {
+        "source": "Jayanthi",
+        "target": "Lenin",
+        "description": "Adoptive Mother / Adopted Son"
+      },
+      {
+        "source": "Jayanthi",
+        "target": "Vasanth",
+        "description": "Mother / Son"
+      },
+      {
+        "source": "Lenin",
+        "target": "Vasanth",
+        "description": "Foster Brothers"
+      },
+      {
+        "source": "Neelakantham",
+        "target": "Bharathi",
+        "description": "Father / Daughter"
+      },
+      {
+        "source": "Neelakantham",
+        "target": "Vaidehi",
+        "description": "Father / Daughter"
+      },
+      {
+        "source": "Bharathi",
+        "target": "Vaidehi",
+        "description": "Sisters"
+      },
+      {
+        "source": "Vasanth",
+        "target": "Vaidehi",
+        "description": "Lovers / Betrothed"
+      },
+      {
+        "source": "Tulasi",
+        "target": "Bharathi",
+        "description": "Unwanted Suitor / Antagonist"
+      },
+      {
+        "source": "MLA Raghava Reddy",
+        "target": "Sri Ramapuram Village",
+        "description": "Political Rival / Antagonist"
+      }
+    ],
+    "seo": {
+      "slug": "lenin",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/lenin](https://movnix.com/movie/lenin)",
+        "name": "Lenin",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict."
+      },
+      "keywords": [
+        "Lenin movie",
+        "Lenin plot",
+        "Bharathi",
+        "village conflict drama",
+        "romantic drama movie",
+        "Lenin synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/lenin](https://movnix.com/movie/lenin)",
+      "metaTitle": "Lenin Movie Overview, Plot & Release Details | Movnix",
+      "openGraph": {
+        "og:title": "Lenin Movie Overview & Synopsis | Movnix",
+        "og:description": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict."
+      },
+      "twitterCard": {
+        "twitter:title": "Lenin Movie Overview & Synopsis | Movnix",
+        "twitter:description": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict."
+      },
+      "metaDescription": "Discover Lenin, a movie following young Lenin and Bharathi whose romance inadvertently triggers a violent, large-scale village conflict."
+    },
+    "faq": [
+      {
+        "answer": "Lenin is primarily a rural action-drama combined with a romantic narrative.",
+        "question": "What is the dominant genre of Lenin?"
+      },
+      {
+        "answer": "No, Lenin is a standalone film and is not part of any existing franchise.",
+        "question": "Is Lenin part of a movie franchise?"
+      },
+      {
+        "answer": "No, Lenin does not contain any post-credit or mid-credit scenes.",
+        "question": "Is there a post-credit scene in Lenin?"
+      },
+      {
+        "answer": "Akhil Akkineni stars as Lenin, while Bhagyashri Borse plays the lead female role of Bharathi.",
+        "question": "Who plays the lead roles of Lenin and Bharathi?"
+      },
+      {
+        "answer": "The movie was written and directed by Murali Kishor Abburu.",
+        "question": "Who written and directed the movie Lenin?"
+      },
+      {
+        "answer": "Lenin is an Indian film originally produced and released in the Telugu language.",
+        "question": "What language was the movie Lenin originally made in?"
+      },
+      {
+        "answer": "The plot follows an urban-raised young man named Lenin whose peaceful romance with Bharathi inadvertently triggers betrayal, revenge, and a violent village conflict.",
+        "question": "What is the premise of Lenin's story?"
+      },
+      {
+        "answer": "Yes, the film draws recurring literal and allegorical themes from Indian epics like the Mahabharata and Ramayana to frame its village feud narrative.",
+        "question": "Does Lenin contain mythological references?"
+      },
+      {
+        "answer": "The musical score and soundtrack for Lenin were composed by Thaman S.",
+        "question": "Who composed the music and soundtrack for Lenin?"
+      },
+      {
+        "answer": "Lenin has a runtime of approximately 2 hours and 36 minutes and carries an 'A' (Adults Only) age rating in India.",
+        "question": "What is the official runtime and age rating of Lenin?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror or jumpscare elements present in the core narrative."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language and harsh dialect appropriate for intense confrontation scenes."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Portrays large-scale village conflict and violent clashes triggered by the narrative events."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild or incidental depictions of substance use within a village or social setting."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Focuses on a romantic relationship without explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional drama driven by romantic conflict leading to widespread community disruption."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 8,
+      "science": 0,
+      "suspense": 6,
+      "violence": 8
+    },
+    "created_at": "2026-07-29 16:05:51.977629",
+    "updated_at": "2026-07-29 16:05:51.977629"
+  }
 }
