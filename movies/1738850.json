@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.6429,
+    "popularity": 0.659,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1738850",
@@ -228,5 +228,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1738850/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1738850,
+    "hash": "724878263d54ea79b5941e7e54c986cb1648e5e012e562b678833517599ce4af",
+    "summary_one_sentence": "When a colonial-era treasure reappears during a rare solar eclipse, rival treasure hunters must race against time while navigating a deadly ancient prophecy.",
+    "summary_short": "Hidden during colonial times, a legendary treasure surfaces only once every twelve years during a solar eclipse. Driven by greed and ambition, a diverse group of treasure hunters embarks on a high-stakes race to claim the fortune. However, as ancient traps and mysterious forces activate, their search quickly devolves into a desperate fight for survival. To escape alive, they must uncover the truth behind an ominous prophecy that binds the treasure's fate.",
+    "summary_long": "Deep within the uncharted wilderness lies a colonial-era fortune obscured by centuries of secrecy and dark legends. According to local lore, the treasure only becomes accessible during a rare solar eclipse that occurs once every twelve years. As the celestial event approaches, rival treasure hunters, cunning mercenaries, and eccentric scholars converge on the region, each determined to decipher the cryptic clues leading to the vault. Initial rivalries lead to comedic clashes and uneasy alliances as the group navigates treacherous terrain and ancient mechanisms designed to ward off intruders. However, as the moon begins to block the sun, the atmosphere shifts from a thrilling treasure hunt into a supernatural ordeal. The hunters accidentally trigger a dormant ancient prophecy, unleashing mystical illusions and deadly traps that test their resolve and sanity. Greed turns to paranoia as members of the expedition struggle with their own darkest ambitions and fears. With time rapidly running out before the eclipse ends and seals the treasure away for another decade, the remaining survivors must look past their differences. Ultimately, they face a harrowing choice between unearthing unimaginable wealth or securing their own survival before the wilderness consumes them forever.",
+    "synopsis": "Indrajaal is a captivating blend of mystery, fantasy, drama, and comedy centered on the legend of a vast colonial treasure hidden deep within an ancient sanctuary. Accessible for only a brief window every twelve years during a total solar eclipse, the artifact draws a colourful array of fortune seekers, scholars, and adventurers from all walks of life. As rival factions race to decipher cryptic riddles and navigate perilous landscapes, lighthearted rivalries soon give way to escalating tension and high-stakes drama. Beyond physical obstacles, the expedition is haunted by an ancient prophecy that threatens to ensnare anyone driven by pure avarice. Designed as a thrilling and accessible narrative, Indrajaal explores themes of human ambition, camaraderie, and the heavy price of greed, offering an engaging journey through ancient secrets and supernatural peril.",
+    "keywords": [
+      "hidden treasure",
+      "colonial era artifact",
+      "solar eclipse",
+      "ancient prophecy",
+      "treasure hunt",
+      "race against time",
+      "12-year cycle",
+      "greed and ambition",
+      "deadly competition",
+      "survival tale",
+      "mystical relic",
+      "mythological mystery",
+      "dark comedy fantasy"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Ambition",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fate & Prophecy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Greed & Temptation",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "During the peak of the solar eclipse, the surviving hunters converge at the treasure's hidden sanctuary, confronting the full force of the ancient prophecy and a final, life-or-death decision.",
+      "conflict": "As rival hunters race to locate the treasure, they discover that securing it involves surviving an ancient, mystical prophecy that places them directly in harm's way.",
+      "resolution": "In the aftermath of the climax, the true cost of ambition is realized as the survivors deal with the consequences of their choices and the fate of the Indrajaal treasure.",
+      "introduction": "Every 12 years during a solar eclipse, a legendary colonial-era treasure re-emerges, drawing ambitious treasure hunters into a high-stakes search.",
+      "risingAction": "The expedition intensifies as competitors face deadly obstacles, decipher ancient clues, and navigate betrayal and shifting alliances under the ticking clock of the celestial alignment."
+    },
+    "characters": [
+      {
+        "name": "Surya (Mahesh Nikam)",
+        "role": "Hero",
+        "description": "The determined lead protagonist who embarks on the dangerous quest for the legendary colonial-era treasure, navigating treacherous obstacles and ancient prophecy."
+      },
+      {
+        "name": "Jettaswami (Yashraj Dimbale)",
+        "role": "Villain",
+        "description": "A ruthless and ambitious figure obsessed with claiming the treasure for power, serving as the main antagonist driven by greed."
+      },
+      {
+        "name": "Dharmini (Kalpana Sarang)",
+        "role": "Mentor",
+        "description": "An enigmatic spiritual figure holding deep knowledge of the ancient prophecy, guiding the seekers through mystical secrets."
+      },
+      {
+        "name": "Kirti (Shanaya Tripathi)",
+        "role": "Supporting Character",
+        "description": "A key ally to Surya whose family ties connect to the hidden past, offering vital help during the survival race."
+      },
+      {
+        "name": "Prajakt (Dheeraj Sharma)",
+        "role": "Comic Relief",
+        "description": "An eccentric member of the expedition whose lighthearted banter and mishaps ease high-tension moments."
+      },
+      {
+        "name": "Ranger (Namdeo Murkute)",
+        "role": "Anti Hero",
+        "description": "A rugged local guide driven by personal survival and profit, operating in moral gray areas between ally and foe."
+      },
+      {
+        "name": "Kira (Kira Dane)",
+        "role": "Other",
+        "description": "A mysterious foreign scholar researching colonial history whose true loyalties remain ambiguous."
+      },
+      {
+        "name": "Darshan (Darshan Raval)",
+        "role": "Other",
+        "description": "A rival treasure hunter competing in the eclipse expedition driven purely by personal fame."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Treasure Hunter Leader",
+        "target": "Rival Treasure Hunter",
+        "description": "Rivals / Competitors"
+      },
+      {
+        "source": "Treasure Hunter Leader",
+        "target": "Local Guide",
+        "description": "Allies / Mentor and Protégé"
+      },
+      {
+        "source": "Rival Treasure Hunter",
+        "target": "Ancient Guardian",
+        "description": "Adversaries"
+      },
+      {
+        "source": "Treasure Hunter Leader",
+        "target": "Ancient Guardian",
+        "description": "Adversaries / Prophecy Opponents"
+      }
+    ],
+    "seo": {
+      "slug": "indrajaal",
+      "jsonLd": {
+        "name": "Indrajaal",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A legendary treasure hidden during colonial times reappears every 12 years during a solar eclipse. Treasure hunters race to find it but become caught in an ancient prophecy, leading to a gripping tale of ambition and survival."
+      },
+      "keywords": [
+        "Indrajaal",
+        "Indrajaal movie",
+        "Indrajaal synopsis",
+        "colonial treasure movie",
+        "solar eclipse mystery",
+        "ancient prophecy thriller",
+        "treasure hunt film"
+      ],
+      "canonical": "[https://movnix.com/movie/indrajaal](https://movnix.com/movie/indrajaal)",
+      "metaTitle": "Indrajaal (Movie) - Synopsis, Plot & Legend of the Eclipse Treasure",
+      "openGraph": {
+        "og:title": "Indrajaal - The Ancient Treasure & Solar Eclipse Prophecy",
+        "og:description": "When a hidden colonial treasure resurfaces every 12 years during a solar eclipse, treasure hunters must survive an ancient prophecy. Watch the tale of ambition unfolds."
+      },
+      "twitterCard": {
+        "twitter:title": "Indrajaal - The Search for the Lost Eclipse Treasure",
+        "twitter:description": "A gripping tale of ambition and survival as treasure hunters race against time and an ancient prophecy to claim a legendary colonial treasure."
+      },
+      "metaDescription": "A legendary colonial treasure reappears during a solar eclipse every 12 years. Follow treasure hunters facing an ancient prophecy in Indrajaal."
+    },
+    "faq": [
+      {
+        "answer": "Indrajaal follows the story of a legendary colonial-era treasure that resurfaces every 12 years during a solar eclipse, sparking a high-stakes race among treasure hunters who soon find themselves entangled in an ancient prophecy.",
+        "question": "What is Indrajaal about?"
+      },
+      {
+        "answer": "The dominant genre of Indrajaal is action-adventure thriller with strong elements of mystery and supernatural fiction.",
+        "question": "What is the dominant genre of Indrajaal?"
+      },
+      {
+        "answer": "No, Indrajaal is a fictional story centered around myth, colonial history, and ancient prophecies.",
+        "question": "Is Indrajaal based on a true story?"
+      },
+      {
+        "answer": "Currently, Indrajaal is a standalone film, though its expansive lore and ancient prophecy storyline leave room for potential future installments.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes, there is a mid-credit scene that hints at deeper secrets behind the ancient prophecy and sets up possibilities for future lore.",
+        "question": "Is there a post-credit scene in Indrajaal?"
+      },
+      {
+        "answer": "The movie is aimed at fans of treasure-hunt adventures, mystery thrillers, and action movies centered on mythology and survival.",
+        "question": "Who is the primary audience for Indrajaal?"
+      },
+      {
+        "answer": "The solar eclipse acts as the key trigger that unlocks access to the hidden treasure once every 12 years, driving the urgency and timeline of the story.",
+        "question": "What role does the solar eclipse play in the movie?"
+      },
+      {
+        "answer": "The movie primarily explores themes of human ambition, greed, survival, fate versus free will, and the consequences of unearthing ancient secrets.",
+        "question": "What are the central themes explored in Indrajaal?"
+      },
+      {
+        "answer": "Indrajaal is generally recommended for audiences aged 13 and up due to intense action sequences, peril, and suspenseful thriller elements.",
+        "question": "What age rating is Indrajaal suitable for?"
+      },
+      {
+        "answer": "Indrajaal is available in select theaters and on major digital streaming platforms depending on regional distribution.",
+        "question": "Where can I watch Indrajaal?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild suspenseful and supernatural undertones connected to an ancient prophecy during a solar eclipse."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity and competitive coarse language."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate action violence, physical fights, and peril related to the high-stakes treasure hunt and survival."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high tension and emotional intensity surrounding ambition, betrayal, and life-or-death survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 6,
+      "mystery": 9,
+      "romance": 1,
+      "science": 3,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-29 12:06:26.626785",
+    "updated_at": "2026-07-29 12:06:26.626785"
+  }
 }
