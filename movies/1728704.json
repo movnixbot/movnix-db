@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 83.1998,
-    "voteAverage": 4,
-    "voteCount": 2,
+    "popularity": 98.5893,
+    "voteAverage": 2.833,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1728704",
     "posterPath": "/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
     "backdropPath": "/5XZqtQNB3XAnn7kFgU0XsSHbevV.jpg",
@@ -95,8 +95,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4,
-      "votesCount": 2
+      "ratingValue": 2.833,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -204,5 +204,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1728704/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1728704,
+    "hash": "da93243c94c954df5fd5fd99fcdad3299a49b8b892f20a4e419e1d1424d144fa",
+    "summary_one_sentence": "When a woman is used as a bet in a high-stakes card game, she finds herself in the hands of a man who has harbored a long-standing obsession with her.",
+    "summary_short": "A gripping dramatic tale unfolds around a woman who becomes the ultimate prize in a tense, high-stakes card game. When her current partner loses her as a wager, she is handed over to the winner—a man who has been secretly obsessed with her for a long time. Trapped in a web of power dynamics and intense passion, she must navigate her new reality alongside her captor. The drama deepens as feelings, control, and dangerous desires collide in an intimate showdown.",
+    "summary_long": "The narrative centers on a woman whose life is upended during an intense, underground high-stakes card game. Faced with overwhelming stakes, her partner makes the reckless decision to put her up as a bargaining chip, ultimately losing the match. The victor turns out to be a figure from the past who has secretly harbored a dark, consuming obsession with her for years. Claiming his prize, he brings her into his world, blurring the lines between captivity and seductive fascination. As she tries to figure out his true motives, she struggles to maintain her agency while navigating the charged, volatile dynamic between them. Secret loyalties and lingering debts surface, complicating their intense connection as time goes on. With tensions rising, she must decide whether to escape his grasp or confront the complex emotions growing between them. Ultimately, the high-stakes gamble forces both characters to face the real consequences of their desires and the true cost of obsession.",
+    "synopsis": "Siping is a dramatic narrative exploring theme of obsession, power, and desire. The story follows a woman whose fate is gambled away in a shadowy, high-stakes card game. Her winning claim belongs to a man driven by a long-held fixation on her, setting off a delicate psychological power struggle as she finds herself under his control. Unfolding in an intimate yet tense atmosphere, the narrative delves into whether their dynamic is purely dangerous coercion or something far more complex, keeping viewers engaged without revealing the key twists of its final act.",
+    "keywords": [
+      "high stakes gambling",
+      "card game",
+      "woman as wager",
+      "unrequited obsession",
+      "possessive lover",
+      "erotic thriller",
+      "power dynamics",
+      "gambling debt",
+      "dark romance",
+      "dangerous attraction",
+      "psychological tension",
+      "secret obsession",
+      "lust and deception"
+    ],
+    "themes": [
+      {
+        "theme": "Obsession",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Objectification and Control",
+        "confidence": 0.92
+      },
+      {
+        "theme": "High Stakes Gambling",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival and Agency",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.81
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical confrontation forces both characters to face the full weight of their emotional attachment and power dynamic, putting their emerging relationship to the ultimate test.",
+      "conflict": "Struggling to maintain her autonomy, the female lead must navigate the complex power dynamics and emotional intensity of being claimed as a prize by a powerful, fixated man.",
+      "resolution": "The dynamic between them transforms, establishing a new understanding where agency and mutual obsession redefine the terms of their connection.",
+      "introduction": "The protagonist finds herself caught in a precarious position as she is used as a bet in a high-stakes card game, leading to her being won by an intensely passionate man from her past who has harbored a long-standing obsession with her.",
+      "risingAction": "As they spend more time together, tension escalates through intense psychological maneuvering, shifting boundaries, and the gradual uncovering of deep-seated motivations behind his obsession."
+    },
+    "characters": [
+      {
+        "name": "Aliyah (played by Shanon Tampon)",
+        "role": "Hero",
+        "description": "The protagonist who is wagered in a high-stakes card game and forced to navigate a complex, tense dynamic with the man who won her."
+      },
+      {
+        "name": "Arnold (played by Juan Calma)",
+        "role": "Anti Hero",
+        "description": "The man long obsessed with Aliyah who wins her in the card game, pursuing his intense desires through morally ambiguous actions."
+      },
+      {
+        "name": "Dennis (played by Richard Solano)",
+        "role": "Villain",
+        "description": "The card player who gambles Aliyah away in a high-stakes game, triggering the main conflict."
+      },
+      {
+        "name": "Mariel (played by Cheena Dizon)",
+        "role": "Supporting Character",
+        "description": "A key figure connected to the central group who influences the dramatic unfolding of the story."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Obsessed Man",
+        "target": "Siping",
+        "description": "Obsessor/Object of Obsession"
+      },
+      {
+        "source": "The Original Wagerer",
+        "target": "Siping",
+        "description": "Gambler/Human Wager"
+      },
+      {
+        "source": "The Obsessed Man",
+        "target": "The Original Wagerer",
+        "description": "Card Game Rivals"
+      }
+    ],
+    "seo": {
+      "slug": "siping",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/siping](https://movnix.com/movie/siping)",
+        "name": "Siping",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A gripping story about a woman wagered in a high-stakes card game. But the stakes get even hotter when she’s won by the man who’s long been obsessed with her."
+      },
+      "keywords": [
+        "Siping movie",
+        "Siping drama",
+        "high stakes card game movie",
+        "romantic thriller",
+        "obsession movie",
+        "Siping watch online"
+      ],
+      "canonical": "[https://movnix.com/movie/siping](https://movnix.com/movie/siping)",
+      "metaTitle": "Siping (2026) Movie - Watch Online, Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Siping - High-Stakes Romance & Thriller",
+        "og:description": "Wagered in a card game, she's won by the man obsessed with her. Read the full story and details for Siping on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Siping - High-Stakes Romance & Thriller",
+        "twitter:description": "Wagered in a card game, she's won by the man obsessed with her. Read the full story and details for Siping on Movnix."
+      },
+      "metaDescription": "A woman is wagered in a high-stakes card game and won by the man obsessed with her. Discover Siping's gripping storyline and details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "No, Siping is a standalone film and is not part of any film franchise or cinematic universe.",
+        "question": "Is Siping part of a movie franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene in Siping. The narrative fully concludes before the credits roll.",
+        "question": "Is there a post-credits scene in Siping?"
+      },
+      {
+        "answer": "Siping is primarily an romantic drama and erotic thriller, combining elements of suspense, romance, and high-stakes drama.",
+        "question": "What is the dominant genre of Siping?"
+      },
+      {
+        "answer": "The film centers on a woman who is wagered as a prize in a high-stakes card game. Tensions rise when she is won by a man who has held a long-standing obsession with her.",
+        "question": "What is the main story of Siping?"
+      },
+      {
+        "answer": "The film stars Shannon Sizon and Cheena Dizon alongside Richard Solano and Juan Calma.",
+        "question": "Who stars in Siping?"
+      },
+      {
+        "answer": "Siping was directed by Filipino filmmaker Christopher Novabos.",
+        "question": "Who directed Siping?"
+      },
+      {
+        "answer": "Siping was released in July 2026.",
+        "question": "When was Siping released?"
+      },
+      {
+        "answer": "Siping is available for streaming on Vivamax, the platform where it originally premiered.",
+        "question": "Where can I watch or stream Siping?"
+      },
+      {
+        "answer": "The primary language spoken in the film is Tagalog (Filipino).",
+        "question": "What language is spoken in Siping?"
+      },
+      {
+        "answer": "Siping is intended for mature audiences due to adult themes, sensual content, and intense dramatic situations.",
+        "question": "What is the maturity rating for Siping?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited to mild psychological tension and suspense."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate profanity and strong language used during high-stakes gambling scenes and arguments."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate physical altercations and threats stemming from illegal gambling, high stakes, and obsessive dynamics."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate depictions of alcohol consumption and smoking associated with gambling and nightlife environments."
+      },
+      "sexualContent": {
+        "score": 8,
+        "description": "High levels of sexual content, including strong romantic obsession, sensuality, and explicit themes."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity, driven by themes of obsession, human wagering, desperation, and interpersonal conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 7,
+      "science": 0,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-07-30 01:08:50.380924",
+    "updated_at": "2026-07-30 01:08:50.380924"
+  }
 }
