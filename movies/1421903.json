@@ -713,5 +713,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1421903/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1421903,
+    "hash": "6fd4e003a928009e18ad223ea58cb5623f99705d2948447418b5e574f22b4145",
+    "summary_one_sentence": "Set in 13th-century England, Robert Eggers' Werwulf follows a cursed medieval farmer fighting to protect his family as a ravenous beast terrorizes their isolated village.",
+    "summary_short": "In 13th-century England, a rural community is haunted by an ancient, predatory creature stalking the foggy countryside. A cursed farmer, struggling against a horrific fate inflicted upon him in childhood, attempts to protect his wife and family as local folklore becomes a brutal reality. Meanwhile, a relentless local beast hunter arrives to track down the creature before it consumes the entire settlement. As paranoia and superstition fracture the village, the line between man and monster rapidly dissolves.",
+    "summary_long": "Directed by Robert Eggers, Werwulf transports audiences to 13th-century England, where an isolated village lives in absolute terror of a ravenous beast lurking in the surrounding wilderness. The story follows a quiet medieval farmer who relocates with his wife and children to a remote settlement in hopes of building a peaceful life. However, his past returns to haunt him, unveiling a dire curse placed upon him during his childhood that manifests under the light of the full moon. As mysterious, violent attacks begin devouring local villagers, paranoia spreads rapidly through the terrified community. Enter a seasoned, ruthless beast hunter determined to track down and slaughter the creature at any cost. Distrust and religious hysteria turn the villagers against one another as they desperately seek someone to blame for the nightmare unfolding around them. While the hunter closes in on his prey, the farmer desperately fights to retain his humanity and shield his beloved family from both the monster within him and the wrath of the townspeople. Ultimately, as the full moon reaches its apex, a harrowing confrontation ensues where devotion, damnation, and instinct collide in a tragic struggle for survival.",
+    "synopsis": "Directed and co-written by visionary filmmaker Robert Eggers alongside Icelandic poet Sjón, Werwulf is a visceral medieval folk horror film set in 13th-century England. The narrative centers on an afflicted farmer (Aaron Taylor-Johnson) living in a remote rural village with his wife (Lily-Rose Depp) and children. When a predatory monster begins terrorizing the foggy countryside, ancient folklore manifests as a gruesome reality for the vulnerable settlement. As a relentless beast hunter (Willem Dafoe) leads a crusade to eradicate the threat, fear and religious fervor consume the isolated populace. Spoken in authentic Middle English, Werwulf explores themes of devotion, superstition, and the harrowing descent into monsterhood as a family desperately fights to survive the terror stalking their land.",
+    "keywords": [
+      "lycanthropy",
+      "werewolf",
+      "body horror",
+      "inner demon",
+      "damnation",
+      "religious horror",
+      "tragic drama",
+      "ancient curse",
+      "moral decay",
+      "psychological horror",
+      "obsession",
+      "dark fantasy",
+      "folklore horror"
+    ],
+    "themes": [
+      {
+        "theme": "Devotion",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Damnation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Inner Monstrosity",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Harrowing",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Under the full moon, the terrifying transformation culminates in a desperate, violent clash between faith, the relentless hunter, and the monstrous beast within.",
+      "conflict": "A brutal, mysterious beast begins hunting along the countryside, threatening the community and casting a dark shadow over the farmer's household.",
+      "resolution": "In the harrowing aftermath, the tragic reality of damnation takes its toll, leaving irreversible scars on the family and the isolated community.",
+      "introduction": "In 13th-century England, a humble farmer lives a devout, isolated life with his family in a fog-drenched rural village governed by deep superstition and faith.",
+      "risingAction": "As paranoia and dread grip the settlement, a relentless beast hunter arrives while the farmer suffers horrifying physical and mental torments, wrestling with an emerging curse."
+    },
+    "characters": [
+      {
+        "name": "The Cursed Farmer",
+        "role": "Anti Hero",
+        "description": "The central protagonist played by Aaron Taylor-Johnson who struggles with his inner torment and tragic affliction as he succumbs to a terrifying curse."
+      },
+      {
+        "name": "The Farmer's Wife",
+        "role": "Supporting Character",
+        "description": "Played by Lily-Rose Depp, a devoted spouse torn between love and survival as her husband succumbs to the devilish creature within."
+      },
+      {
+        "name": "The Hunter",
+        "role": "Mentor",
+        "description": "Played by Willem Dafoe, a hardened tracker who possesses knowledge of ancient folklore and serves as a relentless guide in hunting the beast."
+      },
+      {
+        "name": "The Farmer's Daughter",
+        "role": "Supporting Character",
+        "description": "Played by Bodhi Rae Breathnach, an innocent family member trapped in the mounting horror and tension of her household."
+      },
+      {
+        "name": "The Young Farmer",
+        "role": "Supporting Character",
+        "description": "Played by Vidal Arzoni, a local villager caught up in the paranoia and threat facing the community."
+      },
+      {
+        "name": "The Beast / Werwulf",
+        "role": "Villain",
+        "description": "The terrifying creature stalking the medieval countryside that embodies the dark curse plaguing the village."
+      },
+      {
+        "name": "The Town Elders / Villagers",
+        "role": "Other",
+        "description": "Portrayed by Ralph Ineson, Ned Dennehy, Jack Morris, Jan Bijvoet, and Ritchi Edwards, representing the superstitious local community driven to mob mentality and paranoia."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Cursed Farmer",
+        "target": "The Farmer's Wife",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "The Cursed Farmer",
+        "target": "The Hunter",
+        "description": "Prey/Hunter"
+      },
+      {
+        "source": "The Cursed Farmer",
+        "target": "The Children",
+        "description": "Father/Children"
+      },
+      {
+        "source": "The Farmer's Wife",
+        "target": "The Children",
+        "description": "Mother/Children"
+      },
+      {
+        "source": "The Hunter",
+        "target": "The Isolated Village",
+        "description": "Protector/Community"
+      }
+    ],
+    "seo": {
+      "slug": "werwulf",
+      "jsonLd": {
+        "name": "Werwulf",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A harrowing tale of devotion, damnation and the devil within."
+      },
+      "keywords": [
+        "werwulf",
+        "werwulf movie",
+        "horror movie",
+        "dark fantasy",
+        "devotion and damnation"
+      ],
+      "canonical": "[https://movnix.com/movie/werwulf](https://movnix.com/movie/werwulf)",
+      "metaTitle": "Werwulf | Official Movie Overview & Story Details",
+      "openGraph": {
+        "og:title": "Werwulf | A Tale of Devotion and Damnation",
+        "og:description": "A harrowing tale of devotion, damnation and the devil within."
+      },
+      "twitterCard": {
+        "twitter:title": "Werwulf | A Tale of Devotion and Damnation",
+        "twitter:description": "A harrowing tale of devotion, damnation and the devil within."
+      },
+      "metaDescription": "Discover Werwulf: a harrowing tale of devotion, damnation, and the devil within. Explore story details and themes in this chilling dark horror narrative."
+    },
+    "faq": [
+      {
+        "answer": "Werwulf is primarily a supernatural psychological horror and gothic drama, focusing on themes of damnation, dark devotion, and psychological terror.",
+        "question": "What is the dominant genre of Werwulf?"
+      },
+      {
+        "answer": "No, Werwulf is an independent, standalone film with an original storyline and is not connected to any existing cinematic universe.",
+        "question": "Is Werwulf part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credit scene in Werwulf?"
+      },
+      {
+        "answer": "The film follows a harrowing story centered on devotion and damnation, exploring human nature when confronted with an internal and external evil force.",
+        "question": "What is the central premise of Werwulf?"
+      },
+      {
+        "answer": "No, Werwulf is a fictional narrative inspired by classic dark folklore and gothic horror traditions rather than a specific book or true event.",
+        "question": "Is Werwulf based on a true story or a novel?"
+      },
+      {
+        "answer": "Werwulf is intended for mature audiences due to intense horror elements, disturbing thematic content, violence, and dark psychological themes.",
+        "question": "What is the age rating for Werwulf?"
+      },
+      {
+        "answer": "The film maintains an intense, oppressive, and atmospheric tone, emphasizing feelings of existential dread, moral corruption, and harrowing psychological suspense.",
+        "question": "What is the overall tone and atmosphere of the movie?"
+      },
+      {
+        "answer": "While referencing beastly transformations in folklore, the film heavily uses the concept metaphorically and spiritually to explore the devilish nature within mankind.",
+        "question": "Does Werwulf feature traditional werewolf mythology?"
+      },
+      {
+        "answer": "Werwulf is best suited for fans of atmospheric horror, dark psychological thrillers, modern gothic cinema, and story-driven supernatural dramas.",
+        "question": "Who is the target audience for Werwulf?"
+      },
+      {
+        "answer": "Werwulf is available in participating theaters as well as on major digital Video-on-Demand (VOD) platforms for rental or purchase.",
+        "question": "Where can I watch or stream Werwulf?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 9,
+        "description": "Relentless gothic dread, nightmarish folk horror elements, terrifying creature stalkings, and disturbing psychological torment."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong medieval profanity and archaic coarse language spoken in Middle English."
+      },
+      "violence": {
+        "score": 9,
+        "description": "Extremely visceral, graphic medieval violence, brutal beast attacks, and bloody physical transformations."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal depiction of tavern drinking or herbal medieval remedies."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Brief natural nudity within dark period contexts, but minimal explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Harrowing emotional strain, themes of damnation, overwhelming paranoia, and intense psychological dread."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 7,
+      "mystery": 6,
+      "romance": 3,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-30 07:08:46.547883",
+    "updated_at": "2026-07-30 07:08:46.547883"
+  }
 }
