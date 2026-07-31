@@ -2,7 +2,7 @@
   "movie": {
     "tmdbId": 1683639,
     "imdbId": null,
-    "title": "怖偶惊情",
+    "title": "Horror Doll",
     "originalTitle": "怖偶惊情",
     "overview": "Mock movie description parsed from html scraper page.",
     "releaseDate": "2026-04-30",
@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.2791,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.5364,
+    "voteAverage": 2,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1683639",
     "posterPath": "/6OaThuWPmamergMyVNK8AaQ2kPx.jpg",
     "backdropPath": "/fAj9Nm9RoOVO4oBgThUCuhwsAdQ.jpg",
@@ -66,14 +66,33 @@
       "type": "poster"
     },
     {
+      "filePath": "/xe0SZSFk2pU2DxBQq7dRP80m6QH.jpg",
+      "width": 853,
+      "height": 1280,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/fAj9Nm9RoOVO4oBgThUCuhwsAdQ.jpg",
       "width": 1436,
       "height": 808,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/rTypmzRCZlZxv1c0fFEBDL4bIP.jpg",
+      "width": 1366,
+      "height": 768,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
