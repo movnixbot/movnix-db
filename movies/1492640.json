@@ -2,15 +2,15 @@
   "movie": {
     "tmdbId": 1492640,
     "imdbId": "tt6933238",
-    "title": "UNABOMBER",
-    "originalTitle": "UNABOMBER",
-    "overview": "Follows Ted Kaczynski’s transformation from Harvard prodigy into the infamous Unabomber, who carried out a nationwide bombing campaign in the U.S. from 1978 to 1995, killing 3 people and injuring 23. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "title": "Unabomber",
+    "originalTitle": "Unabomber",
+    "overview": "The story of Ted Kaczynski’s transformation from Harvard prodigy into the infamous Unabomber, who carried out a nationwide bombing campaign in the U.S. from 1978 to 1995, killing 3 people and injuring 23. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
     "releaseDate": "2026-09-25",
     "runtime": 139,
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 0.9135,
+    "popularity": 1.6741,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1492640",
@@ -24,6 +24,14 @@
     {
       "tmdbId": 53,
       "name": "Thriller"
+    },
+    {
+      "tmdbId": 80,
+      "name": "Crime"
+    },
+    {
+      "tmdbId": 36,
+      "name": "History"
     },
     {
       "tmdbId": 1,
@@ -199,5 +207,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1492640/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1492640,
+    "hash": "fc1089bff06b951d446e081451f9b6e989b9968e9ebfd78208d60182e5a6fdcc",
+    "summary_one_sentence": "This tense thriller details Ted Kaczynski's descent from a traumatized Harvard prodigy into the Unabomber, whose deadly 17-year bombing campaign sparks a relentless FBI manhunt.",
+    "summary_short": "Brilliant Harvard prodigy Ted Kaczynski undergoes deeply troubling psychological experiments conducted by Professor Henry Murray, setting off a descent into extreme anti-technology fanaticism and isolation. Between 1978 and 1995, Kaczynski carries out a deadly nationwide mail-bombing campaign across the United States that leaves three dead and 23 injured. Decades later, FBI agent Joanne Miller leads a high-stakes investigation to uncover the elusive killer's identity and put an end to his reign of terror. The narrative exposes the haunting backstory and chilling consequences of unbridled psychological manipulation, isolation, and radical ideology.",
+    "summary_long": "The narrative delves into the complex life of Ted Kaczynski, beginning with his early days as a gifted young prodigy attending Harvard University. While at Harvard, Kaczynski becomes an unwitting subject in controversial and emotionally abusive psychological experiments orchestrated by Professor Henry Murray. These traumatic experiences deeply scar Kaczynski, fueling a growing paranoia, extreme anti-technology ideology, and a profound alienation from society. Retreating into a secluded cabin, he begins constructing homemade explosive devices to target academics, executives, and airlines. From 1978 to 1995, his terrifying mail-bombing campaign claims three lives and injures 23 others, keeping the entire nation in a constant state of fear. As panic spreads, FBI agent Joanne Miller leads a dedicated, multi-agency investigation to track down the mysterious domestic terrorist. Miller faces immense pressure to piece together cryptic writings and obscure forensic clues to identify the bomber. Decades of trauma and seclusion finally collide as the relentless manhunt closes in on Kaczynski's isolated hideout. Ultimately, the story offers a chilling examination of how brilliant ambition, when warped by psychological cruelty and radical isolation, can breed devastating tragedy.",
+    "synopsis": "UNABOMBER is a gripping psychological thriller and drama that explores the rise and fall of one of America's most infamous domestic terrorists, Ted Kaczynski. Beginning with his youth as an exceptional mathematics prodigy at Harvard, the narrative illuminates his pivotal exposure to coercive psychological testing under Professor Henry Murray. This unsettling trauma seeds a radical retreat into isolation and an escalating hatred of modern technological society. As Kaczynski orchestrates a deadly 17-year campaign of untraceable mail bombs across the United States, FBI agent Joanne Miller spearheads a tense, high-stakes manhunt to decipher his motives and stop the violence. The story balances an intense law enforcement procedural with a dark character study, probing the destructive intersection of genius, psychological abuse, and extreme isolation.",
+    "keywords": [
+      "unabomber",
+      "biographical thriller",
+      "fbi manhunt",
+      "serial bomber",
+      "psychological experiments",
+      "isolation",
+      "domestic terrorism",
+      "harvard prodigy",
+      "radicalization",
+      "true crime",
+      "anti-technology",
+      "obsession",
+      "psychological drama"
+    ],
+    "themes": [
+      {
+        "theme": "Isolation & Alienation",
+        "confidence": 0.98
+      },
+      {
+        "theme": "The Price of Ambition",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Psychological Manipulation & Trauma",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Obsession & Pursuit",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Consequences of the Past",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Psychological Thriller",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Somber",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A breakthrough in the investigation forces a direct confrontation with Kaczynski's identity, bringing the years-long, intense pursuit to a dramatic head.",
+      "conflict": "Kaczynski launches a deadly, nationwide bombing campaign, while FBI agent Joanne Miller leads a high-stakes manhunt to track down the elusive domestic terrorist.",
+      "resolution": "The capture of the Unabomber brings an end to the reign of terror, leaving behind a sobering reflection on the cost of unchecked ambition and deep isolation.",
+      "introduction": "Ted Kaczynski's early life unfolds, showcasing his transition from a brilliant Harvard prodigy to a recluse shaped by controversial psychological experiments.",
+      "risingAction": "As the body count and fear rise over nearly two decades, investigators struggle with a web of cryptic manifestos, complex bomb designs, and a cold trail."
+    },
+    "characters": [
+      {
+        "name": "Ted Kaczynski",
+        "role": "Villain",
+        "description": "A former Harvard math prodigy who transforms into a domestic terrorist, orchestrating a violent nationwide bombing campaign."
+      },
+      {
+        "name": "Joanne Miller",
+        "role": "Hero",
+        "description": "A dedicated FBI agent who leads the high-stakes, nationwide manhunt to bring Kaczynski to justice."
+      },
+      {
+        "name": "Henry Murray",
+        "role": "Other",
+        "description": "A controversial Harvard professor whose abusive psychological experiments serve as a key catalyst for Kaczynski's descent."
+      },
+      {
+        "name": "Christiana Morgan",
+        "role": "Supporting Character",
+        "description": "An academic partner involved alongside Professor Murray in his psychological studies at Harvard."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Henry Murray",
+        "target": "Ted Kaczynski",
+        "description": "Experimenter / Subject"
+      },
+      {
+        "source": "Joanne Miller",
+        "target": "Ted Kaczynski",
+        "description": "Investigator / Target"
+      }
+    ],
+    "seo": {
+      "slug": "unabomber",
+      "jsonLd": {
+        "name": "UNABOMBER",
+        "@type": "Movie",
+        "about": {
+          "name": "Ted Kaczynski",
+          "@type": "Person"
+        },
+        "genre": [
+          "Biography",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Follows Ted Kaczynski’s transformation from Harvard prodigy into the infamous Unabomber, who carried out a nationwide bombing campaign in the U.S. from 1978 to 1995."
+      },
+      "keywords": [
+        "Unabomber movie",
+        "Ted Kaczynski",
+        "FBI manhunt",
+        "Henry Murray experiments",
+        "true crime drama",
+        "Joanne Miller",
+        "Harvard prodigy bomber"
+      ],
+      "canonical": "[https://movnix.com/movie/unabomber](https://movnix.com/movie/unabomber)",
+      "metaTitle": "UNABOMBER Movie: The True Story of Ted Kaczynski & The FBI Manhunt",
+      "openGraph": {
+        "og:title": "UNABOMBER - The Rise and Manhunt of Ted Kaczynski",
+        "og:description": "Follow Ted Kaczynski’s descent from Harvard prodigy to the infamous Unabomber in this gripping crime drama centered on ambition, isolation, and the FBI search."
+      },
+      "twitterCard": {
+        "twitter:title": "UNABOMBER - The Unabomber Movie",
+        "twitter:description": "From Harvard prodigy to America's most wanted fugitive. Explore the chilling true story behind UNABOMBER and the FBI manhunt."
+      },
+      "metaDescription": "Discover the true story of Ted Kaczynski in UNABOMBER. Follow his journey from Harvard prodigy to notorious fugitive and the FBI manhunt that brought him down."
+    },
+    "faq": [
+      {
+        "answer": "UNABOMBER follows Ted Kaczynski's transformation from a Harvard prodigy into the infamous Unabomber, detailing his 1978–1995 nationwide bombing campaign, the psychological experiments he endured, and the high-stakes FBI investigation to capture him.",
+        "question": "What is the plot of UNABOMBER?"
+      },
+      {
+        "answer": "The dominant genre of UNABOMBER is true crime drama and biographical thriller.",
+        "question": "What is the dominant genre of UNABOMBER?"
+      },
+      {
+        "answer": "Yes, UNABOMBER is based on the real-life events of Ted Kaczynski, the mathematician-turned-terrorist who carried out a nationwide bombing campaign in the United States from 1978 to 1995.",
+        "question": "Is UNABOMBER based on a true story?"
+      },
+      {
+        "answer": "No, UNABOMBER is a standalone title and is not part of any cinematic franchise or universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit scenes in UNABOMBER.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The FBI manhunt for the Unabomber in the story is led by Agent Joanne Miller.",
+        "question": "Who leads the FBI manhunt in UNABOMBER?"
+      },
+      {
+        "answer": "Ted Kaczynski was subjected to controversial psychological experiments led by Professor Henry Murray during his time at Harvard.",
+        "question": "Who conducted the psychological experiments on Ted Kaczynski?"
+      },
+      {
+        "answer": "The bombing campaign spanned from 1978 to 1995, resulting in 3 deaths and 23 injuries.",
+        "question": "How many casualties were caused by the Unabomber's campaign in the film?"
+      },
+      {
+        "answer": "The title explores themes of extreme isolation, unchecked ambition, the long-term effects of psychological trauma, and the relentless pursuit of justice.",
+        "question": "What themes are explored in UNABOMBER?"
+      },
+      {
+        "answer": "The primary focus is Ted Kaczynski, examining his transition from an academic prodigy to one of the most notorious criminals in American history.",
+        "question": "Who is the main focus of UNABOMBER?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Unsettling atmosphere, psychological torment, and disturbing true-crime terror elements related to bombings and isolation."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate coarse language and strong profanity typical of intense crime and law enforcement dramas."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depictions and discussion of violent bombings, resulting in severe injuries and deaths, as well as themes of terrorism."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Minor or implied substance use, including alcohol, smoking, or medicinal elements related to psychological experiments."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No significant sexual content, nudity, or sexually explicit themes."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by themes of unethical psychological manipulation, severe isolation, obsessive manhunts, and real-world tragedy."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 5,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 13:27:04.815972",
+    "updated_at": "2026-07-30 13:27:04.815972"
+  }
 }
