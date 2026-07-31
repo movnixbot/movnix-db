@@ -10,9 +10,9 @@
     "budget": "45000000",
     "revenue": "135148320",
     "status": "Released",
-    "popularity": 18.7209,
-    "voteAverage": 5.843,
-    "voteCount": 1302,
+    "popularity": 20.6297,
+    "voteAverage": 5.845,
+    "voteCount": 1312,
     "homepage": "https://anacondamovie.com",
     "posterPath": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
     "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
@@ -1547,13 +1547,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/nOBg83vLItidiME3IsmTKBVNEii.jpg",
-      "width": 1364,
-      "height": 2048,
-      "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
       "filePath": "/4ez32V02YQrM2CnLOZdfE2MBcL4.jpg",
       "width": 800,
       "height": 1200,
@@ -1900,8 +1893,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.843,
-      "votesCount": 1302
+      "ratingValue": 5.845,
+      "votesCount": 1312
     },
     {
       "source": "imdb",
@@ -2253,5 +2246,238 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1234731/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1234731,
+    "hash": "32950973722ece927840516fca03c29b02de5ce4b0167c5485528ff7c981d17d",
+    "summary_one_sentence": "A group of middle-aged friends attempting to remake their favorite childhood film in the rainforest must fight for survival against giant snakes, dangerous criminals, and unpredictable nature.",
+    "summary_short": "Facing mid-life crises, a group of lifelong friends travels deep into the rainforest to recreate their favorite movie from their youth. However, their lighthearted filmmaking passion project quickly turns into a desperate struggle for survival. Surrounded by natural disasters, lethal giant snakes, and hostile criminals, they are forced to band together in ways they never anticipated.",
+    "summary_long": "Feeling stuck in their routine lives and longing for the passion of their youth, a circle of friends decides to confront their mid-life crises with an ambitious adventure. They pack their gear and head deep into the rainforest to shoot a remake of the beloved movie that brought them together years ago. What begins as a nostalgic and comedic filmmaking expedition rapidly devolves into chaotic peril. Unforgiving weather and sudden natural disasters strike their camp, threatening to strand them far from civilization. To make matters worse, they cross paths with a ruthless gang of violent criminals operating in the dense jungle. As if human threats and nature's fury were not enough, massive, deadly snakes begin hunting them through the undergrowth. With their equipment destroyed and their lives on the line, the friends must rely on their ingenuity, humor, and deep-seated bonds to navigate the nightmare. Ultimate survival requires them to step into the roles of the true heroes they always dreamed of becoming.",
+    "synopsis": "Driven by a shared desire to reignite their youthful spark amidst mid-life crises, a close-knit group of friends journeys into a remote rainforest to remake their favorite childhood movie. What starts as a humorous, nostalgic passion project morphs into an intense battle for survival when they encounter extreme weather, armed criminals, and terrifying giant snakes. Combining elements of adventure, comedy, horror, and drama, this story explores friendship, resilience, and the wild unpredictability of chasing one's dreams into the deep jungle.",
+    "keywords": [
+      "mid-life crisis",
+      "film within a film",
+      "rainforest survival",
+      "creature feature",
+      "giant snake",
+      "horror comedy",
+      "natural disaster",
+      "violent criminals",
+      "movie remake",
+      "jungle expedition",
+      "nostalgia",
+      "survival comedy",
+      "group dynamics"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Mid-life Crisis",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Friendship & Loyalty",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Nostalgia",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Comedic",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "In a frantic, high-stakes battle for survival, the friends must pool their limited resources and rely on one another to overcome both lethal apex predators and armed criminals.",
+      "conflict": "The group's lighthearted movie project devolves into true survival as the extreme environment presents unexpected threats, testing their resolve and personal bonds.",
+      "resolution": "With the primary threats defeated, the surviving friends escape the jungle, emerging from the life-threatening ordeal with a newfound appreciation for life and deepened camaraderie.",
+      "introduction": "A group of middle-aged friends dealing with mid-life crises journey into a remote rainforest with the goal of remaking their favorite film from their youth.",
+      "risingAction": "Tensions mount as the friends navigate a gauntlet of compounding dangers, including severe natural disasters, predatory giant snakes, and confrontations with violent criminals."
+    },
+    "characters": [
+      {
+        "name": "Doug McCallister",
+        "role": "Hero",
+        "description": "An unfulfilled wedding videographer who leads his friends into the Amazon to follow his dream of directing, ultimately stepping up to save his friends and face down the ultimate dangers."
+      },
+      {
+        "name": "Ronald \"Griff\" Griffin Jr.",
+        "role": "Anti Hero",
+        "description": "A struggling actor whose selfish lies and ego drive the group into danger, though he eventually redeems himself by fighting alongside his friends."
+      },
+      {
+        "name": "Kenny Trent",
+        "role": "Comic Relief",
+        "description": "An eccentric, self-proclaimed 'Buffalo sober' friend whose quirky antics and chaotic energy provide constant humor amidst life-threatening situations."
+      },
+      {
+        "name": "Claire Simons",
+        "role": "Supporting Character",
+        "description": "A grounded member of the friend group who manages old romantic tensions with Griff while helping keep the team focused on surviving."
+      },
+      {
+        "name": "Ana Almeida",
+        "role": "Villain",
+        "description": "An illegal gold miner who tricks the group under false pretenses and turns violently against them at gunpoint to force them into labor."
+      },
+      {
+        "name": "Carlos Santiago Braga",
+        "role": "Other",
+        "description": "An eccentric snake handler hired by the group who serves as their ill-fated guide into the treacherous jungle."
+      },
+      {
+        "name": "Ice Cube",
+        "role": "Mentor",
+        "description": "Appearing as himself on location, he equips and advises the stranded group on how to survive and conquer the monstrous threats."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Middle-Aged Friends",
+        "target": "Dangerous Criminals",
+        "description": "Enemies / Survival Adversaries"
+      },
+      {
+        "source": "Middle-Aged Friends",
+        "target": "Giant Snakes",
+        "description": "Predator / Prey"
+      },
+      {
+        "source": "Middle-Aged Friends Group",
+        "target": "Middle-Aged Friends Group",
+        "description": "Childhood Friends / Movie Remake Crew"
+      }
+    ],
+    "seo": {
+      "slug": "anaconda",
+      "jsonLd": {
+        "name": "Anaconda",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals."
+      },
+      "keywords": [
+        "Anaconda movie",
+        "Anaconda synopsis",
+        "rainforest survival movie",
+        "action comedy thriller",
+        "Anaconda remake plot"
+      ],
+      "canonical": "[https://movnix.com/movie/anaconda](https://movnix.com/movie/anaconda)",
+      "metaTitle": "Anaconda | Official Movie Synopsis & Plot",
+      "openGraph": {
+        "og:title": "Anaconda | Movie Overview & Details",
+        "og:description": "Friends attempting to remake a childhood favorite in the rainforest face giant snakes and dangerous criminals in this survival story."
+      },
+      "twitterCard": {
+        "twitter:title": "Anaconda Movie Overview",
+        "twitter:description": "Friends in mid-life crises fight for survival against giant snakes and violent criminals in the rainforest."
+      },
+      "metaDescription": "A group of friends head to the rainforest to remake a classic film, only to face giant snakes, disaster, and criminals. Read the full synopsis now."
+    },
+    "faq": [
+      {
+        "answer": "Yes. It serves as a self-referential meta-reboot and the seventh installment in the Anaconda film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes. The credits include bonus scenes and reveals, including a mid-credits reveal that the snake handler Santiago survived his encounter with the anaconda.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film's primary genres are action-adventure, comedy, and horror, combining creature-feature thrillers with self-aware meta-comedy.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The main cast features Jack Black, Paul Rudd, Steve Zahn, Thandiwe Newton, Daniela Melchior, and Selton Mello.",
+        "question": "Who are the lead actors starring in the movie?"
+      },
+      {
+        "answer": "The film was directed by Tom Gormican, who previously directed The Unbearable Weight of Massive Talent.",
+        "question": "Who directed the movie?"
+      },
+      {
+        "answer": "It is a meta-reboot. Instead of re-telling the original story, it follows characters in the real world attempting to make an fan remake of the original 1997 movie.",
+        "question": "Is this film a direct remake or a meta-reboot?"
+      },
+      {
+        "answer": "The plot primarily takes place deep in the Amazon rainforest in Brazil, where the friends travel to film their project.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Yes. Both Ice Cube and Jennifer Lopez make surprise cameo appearances in the movie.",
+        "question": "Are there any cameo appearances from stars of the original 1997 film?"
+      },
+      {
+        "answer": "The screenplay was written by Tom Gormican and Kevin Etten.",
+        "question": "Who wrote the screenplay for the movie?"
+      },
+      {
+        "answer": "Facing mid-life crises and feeling unfulfilled in their adult lives, a group of lifelong friends decide to reclaim their youth by remaking their favorite childhood movie on a shoestring budget.",
+        "question": "What drives the main characters to go into the rainforest?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to high creature-feature suspense, jumpscares, and threat of being eaten alive or attacked by dangerous wildlife."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate to strong profanity typical of action-comedy and survival adventure films involving adults in crisis."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of action violence including attacks from giant snakes, encounters with violent criminals, and survival scenarios in dangerous terrain."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate alcohol or tobacco consumption typical of adult friends gathering."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual content; possibly brief crude humor or mild suggestive comments among friends."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Sustained peril, life-threatening situations, and themes of mid-life crisis and mortality."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 8,
+      "comedy": 6,
+      "emotion": 4,
+      "fantasy": 1,
+      "mystery": 3,
+      "romance": 1,
+      "science": 2,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-29 13:05:04.629319",
+    "updated_at": "2026-07-29 13:05:04.629319"
+  }
 }
