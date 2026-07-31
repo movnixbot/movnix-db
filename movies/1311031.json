@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "733030221",
     "status": "Released",
-    "popularity": 130.7019,
-    "voteAverage": 8.178,
-    "voteCount": 1151,
+    "popularity": 190.997,
+    "voteAverage": 8.321,
+    "voteCount": 1262,
     "homepage": "https://mock-movie-website.com/movies/1311031",
     "posterPath": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdropPath": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -434,6 +434,13 @@
     },
     {
       "filePath": "/xqvqzqymdcV2S8gTw5HjECbesUE.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/psJD18bOAPQktsmb5vjPh7M1A3f.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -1731,8 +1738,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.178,
-      "votesCount": 1151
+      "ratingValue": 8.321,
+      "votesCount": 1262
     },
     {
       "source": "imdb",
@@ -2151,8 +2158,18 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        }
+      ]
     },
     "us": {
       "flatrate": [
@@ -2165,7 +2182,24 @@
           "logo": "/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        }
+      ]
     }
   },
   "reviews": [
