@@ -10,9 +10,9 @@
     "budget": "35000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 6.9293,
-    "voteAverage": 7.564,
-    "voteCount": 94,
+    "popularity": 7.0194,
+    "voteAverage": 7.536,
+    "voteCount": 96,
     "homepage": "https://mock-movie-website.com/movies/1318335",
     "posterPath": "/TPo1gsNCswrgyxrqdGN44OmPuH.jpg",
     "backdropPath": "/6LpnsToxRww4wsFDX4HUcNKTNF4.jpg",
@@ -210,8 +210,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.564,
-      "votesCount": 94
+      "ratingValue": 7.536,
+      "votesCount": 96
     },
     {
       "source": "crawled",
@@ -483,5 +483,220 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1318335/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1318335,
+    "hash": "e250b54b15ee4125b5c533e7c04dbe1742f1ee9acd16f3c96b6c63837e04231c",
+    "summary_one_sentence": "Against the backdrop of World War II and the Nazi occupation of France, a French journalist, a German diplomat, and an aspiring young actress navigate the treacherous moral and political landscape of collaboration and survival.",
+    "summary_short": "Before war engulfs Europe, French newspaperman Jean and young German Francophile Otto share a deep bond rooted in their mutual desire for continental peace. However, when World War II breaks out and France falls under German occupation, their allegiance to peace shifts into active collaboration with the enemy regime. As Jean leverages the occupied press for propaganda and Otto assumes his role as the Reich's ambassador in Paris, Jean’s daughter Corinne is thrust into a perilous environment where art, politics, and survival ruthlessly collide.",
+    "summary_long": "Set against the tragic escalation and aftermath of World War II, *The Rays and Shadows* chronicles the complex personal and political trajectories of Jean and Otto. Initially united by an idealistic vision of European peace, the French journalist and the young German admirer find their friendship tested and redefined by the reality of war. When Nazi forces occupy France, both men step into pivotal roles within the newly established collaborationist hierarchy. Jean quickly rises to power as a prominent press baron, using his media influence to fervently advocate for cooperation with the Third Reich. Meanwhile, Otto ascends to the position of Reich Ambassador in Paris, serving as a key diplomatic face of the occupation. Caught in the center of this moral tempest is Jean’s daughter, Corinne, whose promising acting career is dramatically disrupted by the war. As she navigates the volatile cultural sphere of occupied Paris, Corinne finds herself thrown into the lion’s pit, forced to confront the dark reality of her father's political choices. Ultimately, the story delves into the compromise of integrity, the corrupting influence of power, and the devastating personal cost paid by those caught between opposing forces during one of history's darkest hours.",
+    "synopsis": "*The Rays and Shadows* is a sweeping historical drama that explores the fraught intersection of personal ambition, political ideology, and wartime survival during World War II. The narrative follows Jean, an influential French journalist, and Otto, a passionate German Francophile, who begin as allies advocating for peace between their nations. When war erupts and France falls under Nazi occupation, the dynamic between the two men transforms as they embrace prominent positions within the occupation regime—Jean as a powerful collaborationist press baron and Otto as the Reich's high-ranking ambassador in Paris. Meanwhile, Jean’s daughter Corinne, a talented young actress on the brink of stardom, must navigate the treacherous waters of an occupied culture where art is heavily politicized. Rich in historical texture, the film presents a nuanced examination of moral compromise and human vulnerability within a torn continent.",
+    "keywords": [
+      "Nazi-occupied France",
+      "World War II",
+      "wartime collaboration",
+      "media propaganda",
+      "press baron",
+      "diplomatic intrigue",
+      "film industry",
+      "moral corruption",
+      "pre-war pacifism",
+      "Franco-German relations",
+      "occupied Paris",
+      "political ambition",
+      "divided loyalties"
+    ],
+    "themes": [
+      {
+        "theme": "Collaboration and Resistance",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Divided Loyalties",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Moral Corruption and Power",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "As the war turns and the full impact of collaboration unravels, Jean, Otto, and Corinne face intense moral reckonings and personal crises where their ideals, loyalty, and survival collide.",
+      "conflict": "The outbreak of World War II and the subsequent Nazi occupation of France tear through Europe, shattering peace efforts and placing the friends on perilous political paths in an occupied nation.",
+      "resolution": "Following the liberation, the characters confront the devastating consequences of their wartime choices and moral compromises, leaving behind a legacy of tragic ruin and historical reflection.",
+      "introduction": "In pre-war Europe, French journalist Jean Luchaire and German idealist Otto Abetz form a bond advocating for European peace, while Jean's daughter Corinne launches a promising cinematic career in France.",
+      "risingAction": "Otto becomes the Reich's ambassador in Paris while Jean rises as a powerful press baron advocating active collaboration with the occupying forces, drawing Corinne into the dangerous political and social machinery of wartime Paris."
+    },
+    "characters": [
+      {
+        "name": "Jean Luchaire",
+        "role": "Anti Hero",
+        "description": "A French newspaper baron and former pacifist who chooses collaboration with the Nazi occupiers to maintain influence and power during World War II."
+      },
+      {
+        "name": "Corinne Luchaire",
+        "role": "Hero",
+        "description": "Jean's daughter and a rising screen star who navigates the perilous, high-stakes world of occupied Paris as she gets pulled into her father's political shadow."
+      },
+      {
+        "name": "Otto Abetz",
+        "role": "Villain",
+        "description": "A German Francophile who becomes the Reich's ambassador in Paris, using his position and ties to Jean to enforce Nazi strategy in France."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jean",
+        "target": "Corinne",
+        "description": "Father / Daughter"
+      },
+      {
+        "source": "Jean",
+        "target": "Otto",
+        "description": "Friends / Political Allies"
+      },
+      {
+        "source": "Otto",
+        "target": "Corinne",
+        "description": "Father's Friend and Political Ally"
+      }
+    ],
+    "seo": {
+      "slug": "the-rays-and-shadows",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-rays-and-shadows](https://movnix.com/movie/the-rays-and-shadows)",
+        "name": "The Rays and Shadows",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Jean and Otto, a French newspaperman and a young German Francophile, are fighting for peace in Europe. When war breaks out and France is occupied, Jean becomes a collaborationist press baron while Otto becomes the Reich’s ambassador in Paris."
+      },
+      "keywords": [
+        "The Rays and Shadows",
+        "The Rays and Shadows movie",
+        "WWII drama movie",
+        "French film occupied France",
+        "Jean and Otto movie",
+        "historical drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-rays-and-shadows](https://movnix.com/movie/the-rays-and-shadows)",
+      "metaTitle": "The Rays and Shadows - Movie Synopsis & Cast Info | Movnix",
+      "openGraph": {
+        "og:title": "The Rays and Shadows - WWII Historical Drama",
+        "og:description": "As war breaks out and France is occupied, two former allies take powerful roles in WWII Paris while a rising star is thrown into the lion's pit."
+      },
+      "twitterCard": {
+        "twitter:title": "The Rays and Shadows - Movie Details",
+        "twitter:description": "Explore the dramatic story of Jean, Otto, and Corinne in occupied France during WWII."
+      },
+      "metaDescription": "Discover The Rays and Shadows: Jean, Otto, and Corinne navigate love, ambition, and collaboration in WWII occupied France. Read full overview on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "No, 'The Rays and Shadows' (Les Rayons et les Ombres) is a standalone historical drama film and is not part of a film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, historical biographical dramas of this nature do not typically feature post-credit scenes, and there are no extra mid- or post-credit scenes following the end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film primarily falls under the historical drama, war, and biographical film genres.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Yes, the film is based on real events surrounding French journalist Jean Luchaire, his actress daughter Corinne Luchaire, and German ambassador Otto Abetz during WWII and the German occupation of France.",
+        "question": "Is 'The Rays and Shadows' based on a true story?"
+      },
+      {
+        "answer": "The film was directed by acclaimed César Award-winning French filmmaker Xavier Giannoli.",
+        "question": "Who directed 'The Rays and Shadows'?"
+      },
+      {
+        "answer": "The film stars Jean Dujardin as Jean, Nastya Golubeva Carax as Corinne, and August Diehl as Otto Abetz.",
+        "question": "Who are the lead actors in 'The Rays and Shadows'?"
+      },
+      {
+        "answer": "The story follows two former peace advocates—a French newspaperman named Jean and a German Francophile named Otto—during WWII, as Jean becomes a collaborationist press baron and Otto becomes the Reich ambassador in Paris, while Jean's actress daughter Corinne is caught in the crossfire.",
+        "question": "What is the main premise of 'The Rays and Shadows'?"
+      },
+      {
+        "answer": "The primary original language of the film is French.",
+        "question": "What is the original language of the film?"
+      },
+      {
+        "answer": "The epic historical drama has a runtime of approximately 3 hours and 15 minutes (195 minutes).",
+        "question": "What is the runtime of 'The Rays and Shadows'?"
+      },
+      {
+        "answer": "The story takes place in Europe, primarily focusing on Paris, France, before and during the Nazi occupation in World War II.",
+        "question": "Where does the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements beyond general atmospheric tension of war."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild coarse language appropriate to a dramatic historical setting."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Thematic elements of wartime conflict, military occupation, and personal peril."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild, period-typical social drinking or smoking implied by the setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content depicted or implied."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by WWII occupation, political betrayal, and moral conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 3,
+      "science": 0,
+      "suspense": 7,
+      "violence": 5
+    },
+    "created_at": "2026-07-30 01:02:05.790311",
+    "updated_at": "2026-07-30 01:02:05.790311"
+  }
 }

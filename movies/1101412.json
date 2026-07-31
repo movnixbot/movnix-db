@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 13.0639,
+    "popularity": 55.8477,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1101412",
@@ -65,6 +65,13 @@
   "keywords": [],
   "videos": [
     {
+      "name": "Official Trailer 2",
+      "key": "Krs0VDIjhmE",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Trailer"
+    },
+    {
       "name": "Official Trailer",
       "key": "Rsztt5qDj_A",
       "site": "YouTube",
@@ -102,6 +109,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/mgHlawXgRTSrok72c6QwHNkbAfS.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/jApymnmrokEGb9fQ755KCwZF7yI.jpg",
       "width": 891,
       "height": 1336,
@@ -117,6 +131,13 @@
     },
     {
       "filePath": "/ckKAdEz49bJ10jCLbCYIzVHJGEu.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -162,6 +183,13 @@
       "width": 960,
       "height": 1440,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/grv9x1F3jqXqP4c4TctX5km8GTH.jpg",
+      "width": 1620,
+      "height": 2400,
+      "aspectRatio": 0.675,
       "type": "poster"
     },
     {
@@ -269,6 +297,15 @@
       "order": null
     },
     {
+      "tmdbPersonId": 56502,
+      "name": "Peter Spierig",
+      "profilePath": "/1M1FX7YR9Dq0DhawzQ0vT0tx678.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 56501,
       "name": "Michael Spierig",
       "profilePath": "/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg",
@@ -284,15 +321,6 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 56502,
-      "name": "Peter Spierig",
-      "profilePath": "/1M1FX7YR9Dq0DhawzQ0vT0tx678.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -406,5 +434,232 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1101412/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1101412,
+    "hash": "b694b1f691c87433f1f78f28c161bb168feaf6a9a93bcb461939af19f40c41c5",
+    "summary_one_sentence": "Trapped thousands of feet in the air after a sudden rockslide on Thailand's Mount Kwan, two climbers must face terrifying heights, hostile weather, and overwhelming odds to survive.",
+    "summary_short": "Following a tragic loss, grieving climber Jax Hunter teams up with her late sister's adventurous friend, Luce, to honor her memory with a perilous trek across Mount Kwan in Thailand. Their tribute turns into a nightmare when a devastating rockslide destroys their path, stranding them thousands of feet above the ground on sheer cliffs. Exposed to dangerous weather and dizzying drops, the pair must combine their skills and battle psychological terror to find a way down. Every move becomes a high-stakes struggle for endurance and closure amidst vertigo-inducing stakes.",
+    "summary_long": "Still reeling from the loss of her sister Shiloh, Jax Hunter seeks closure by agreeing to a daring tribute proposed by Shiloh's fearless best friend, Luce. Together, the two travel to Thailand to tackle the infamous plank walk on Mount Kwan, a treacherous climbing route known for extreme elevation and sheer drop-offs. Initial camaraderie gives way to mounting tension as they scale dizzying heights, navigating physical obstacles while processing deep grief. Disasters strike unexpectedly when a sudden, massive rockslide obliterates the connecting pathways, leaving Jax and Luce stranded thousands of feet above the jungle floor. Suspended high above safety with minimal supplies and limited gear, they are forced to confront severe exposure, harsh elements, and terrifying vertigo. As rescue options diminish, old secrets and hidden tension surface, testing their mutual trust and willpower. To navigate the sheer rock faces, they must perform high-stakes maneuvers where a single misstep means certain death. Facing psychological exhaustion and environmental threats, the duo pushes past physical limits to craft an audacious escape strategy. Ultimately, Jax must confront her deepest personal fears head-on as they fight every second for survival.",
+    "synopsis": "A tense survival thriller and sequel to the 2022 hit 'Fall', 'Fall 2: Deadpoint' follows Jax Hunter as she embarks on a dangerous mountain ascent on Mount Kwan in Thailand alongside her late sister's bold friend, Luce. Intended as a memorial climb, their journey turns into a life-or-death battle when a sudden rockslide leaves them trapped thousands of feet above the ground on razor-thin ledges. Forced to endure psychological trauma, extreme exposure, and impossible physical challenges, the two climbers must rely on sheer grit and resourceful tactics to overcome vertigo-inducing heights and survive.",
+    "keywords": [
+      "survival thriller",
+      "vertigo",
+      "extreme height",
+      "mountain climbing",
+      "trapped in high places",
+      "isolation",
+      "impossible odds",
+      "sheer exposure",
+      "survival against the elements",
+      "perilous journey",
+      "Thailand setting",
+      "climbing accidents",
+      "rock climbing",
+      "high stakes tension"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Human vs. Nature",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Overcoming Fear",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Trust and Partnership",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "With their temporary shelter giving way and options running out, Jax faces her deepest fears to execute a high-stakes, life-or-death maneuver suspended over the sheer drop.",
+      "conflict": "A sudden, terrifying rockslide destroys their path and destroys vital equipment, leaving the duo stranded on a narrow plank thousands of feet above the ground with no immediate means of descent or rescue.",
+      "resolution": "Surviving the grueling ordeal, the survivors find closure regarding Shiloh's death and a renewed resolve to live life fully.",
+      "introduction": "Grieving the loss of her sister Shiloh, Jax Hunter teams up with Shiloh's daring friend Luce to embark on a tribute climb across the perilous plank walk of Mount Kwan in Thailand.",
+      "risingAction": "As dehydration, extreme exposure, and vertigo set in, Jax and Luce must make dangerous physical attempts to signal for help and secure safety while working through lingering grief and interpersonal tension."
+    },
+    "characters": [
+      {
+        "name": "Jax Hunter",
+        "role": "Hero",
+        "description": "Grieving the loss of her sister Hunter, Jax travels to Thailand to tackle Mount Kwan's dangerous plank walk, where she must confront her deepest fears and fight for survival."
+      },
+      {
+        "name": "Luce",
+        "role": "Supporting Character",
+        "description": "A fearless friend of Hunter who accompanies Jax on the climbing expedition and helps her navigate the perils of Mount Kwan."
+      },
+      {
+        "name": "Tom Brittney's Character",
+        "role": "Supporting Character",
+        "description": "A fellow climber or companion involved in the high-stakes expedition across Mount Kwan."
+      },
+      {
+        "name": "Joe",
+        "role": "Supporting Character",
+        "description": "A climber encountered during the treacherous journey in Thailand."
+      },
+      {
+        "name": "Young Jax",
+        "role": "Supporting Character",
+        "description": "Appears in flashback sequences depicting Jax's earlier life and bond with her sister."
+      },
+      {
+        "name": "Jordan Coleman's Character",
+        "role": "Supporting Character",
+        "description": "A member of the supporting cast assisting in the mountain climbing narrative."
+      },
+      {
+        "name": "Alexandra Bartlett's Character",
+        "role": "Supporting Character",
+        "description": "A nearby climber or local presence during the perilous Mount Kwan trek."
+      },
+      {
+        "name": "Andrey Kasushkin's Character",
+        "role": "Supporting Character",
+        "description": "Part of the mountain climbing environment and supporting ensemble."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Climber 1",
+        "target": "Climber 2",
+        "description": "Climbing Partners / Co-survivors"
+      }
+    ],
+    "seo": {
+      "slug": "fall-2-deadpoint",
+      "jsonLd": {
+        "name": "Fall 2: Deadpoint",
+        "@type": "Movie",
+        "genre": [
+          "Thriller",
+          "Survival",
+          "Adventure"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival."
+      },
+      "keywords": [
+        "Fall 2 Deadpoint",
+        "Fall 2 movie",
+        "Fall sequel",
+        "survival thriller",
+        "rock climbing movie",
+        "Mount Kwan Thailand"
+      ],
+      "canonical": "[https://movnix.com/movie/fall-2-deadpoint](https://movnix.com/movie/fall-2-deadpoint)",
+      "metaTitle": "Fall 2: Deadpoint - Survival Thriller Movie Details | Movnix",
+      "openGraph": {
+        "og:title": "Fall 2: Deadpoint - Official Synopsis & Movie Details",
+        "og:description": "Two climbers become trapped thousands of feet above Thailand's Mount Kwan. Experience the vertigo-inducing fight for survival in Fall 2: Deadpoint."
+      },
+      "twitterCard": {
+        "twitter:title": "Fall 2: Deadpoint - Survival Thriller",
+        "twitter:description": "Trapped thousands of feet high on Mount Kwan, two climbers face impossible odds in Fall 2: Deadpoint."
+      },
+      "metaDescription": "Trapped thousands of feet high on Thailand's Mount Kwan, two climbers battle sheer exposure and vertigo in Fall 2: Deadpoint. Read the full synopsis."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Fall 2: Deadpoint is the second installment in the Fall film series, serving as a sequel to the 2022 survival thriller movie Fall.",
+        "question": "Is Fall 2: Deadpoint part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of the movie is survival thriller, featuring strong elements of suspense, tension, and high-altitude action.",
+        "question": "What is the dominant genre of Fall 2: Deadpoint?"
+      },
+      {
+        "answer": "The movie is set in Thailand on the dangerous cliffs and high-altitude trails of Mount Kwan.",
+        "question": "Where does Fall 2: Deadpoint take place?"
+      },
+      {
+        "answer": "Yes, it is a direct sequel set in the same universe, expanding on the fallout of the events from the original film.",
+        "question": "Is Fall 2: Deadpoint a direct sequel to Fall (2022)?"
+      },
+      {
+        "answer": "The film stars Harriet Slater as Jax Hunter and Arsema Thomas as Luce, along with Tom Brittney in a supporting role.",
+        "question": "Who are the lead actors starring in Fall 2: Deadpoint?"
+      },
+      {
+        "answer": "The film was directed by the filmmaking duo Peter and Michael Spierig (the Spierig Brothers).",
+        "question": "Who directed Fall 2: Deadpoint?"
+      },
+      {
+        "answer": "While traversing a perilous plank walk across Mount Kwan, a sudden devastating rockslide destroys their path, trapping the two climbers thousands of feet in the air.",
+        "question": "What triggers the fight for survival in the movie?"
+      },
+      {
+        "answer": "No, Fall 2: Deadpoint is a fictional story written by Scott Mann and Jonathan Frank.",
+        "question": "Is Fall 2: Deadpoint based on a true story?"
+      },
+      {
+        "answer": "The film is rated PG-13 for strong language, violent content, bloody images, and intense peril.",
+        "question": "What is the MPA rating for Fall 2: Deadpoint?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene after the story concludes, though the film leaves room for a planned third installment in the series.",
+        "question": "Is there a post-credit scene in Fall 2: Deadpoint?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Sustained tension, claustrophobia, intense acrophobia, and life-threatening dread throughout."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to strong profanity used during moments of extreme stress and panic."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate peril, physical injuries, and dangerous survival situations involving high falls and harsh elements."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity driven by relentless peril, fear of heights, and psychological distress."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 1,
+      "suspense": 10,
+      "violence": 5
+    },
+    "created_at": "2026-07-29 19:18:21.691824",
+    "updated_at": "2026-07-29 19:18:21.691824"
+  }
 }
