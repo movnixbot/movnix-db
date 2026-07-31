@@ -10,25 +10,73 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.5174,
+    "popularity": 0.7421,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1298508",
-    "posterPath": null,
-    "backdropPath": null,
+    "posterPath": "/9inlSXE3kW5WEFyI5wnxDTf7aj4.jpg",
+    "backdropPath": "/fBnZviGuiJytxRuIpjrdOfv8Z7X.jpg",
     "collectionId": null
   },
   "collection": null,
   "genres": [
     {
+      "tmdbId": 18,
+      "name": "Drama"
+    },
+    {
+      "tmdbId": 28,
+      "name": "Action"
+    },
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
+    },
+    {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 146598,
+      "name": "World Wrestling Entertainment",
+      "logoPath": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
   "videos": [],
-  "images": [],
+  "images": [
+    {
+      "filePath": "/9inlSXE3kW5WEFyI5wnxDTf7aj4.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fBnZviGuiJytxRuIpjrdOfv8Z7X.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/9inlSXE3kW5WEFyI5wnxDTf7aj4.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fBnZviGuiJytxRuIpjrdOfv8Z7X.jpg",
+      "width": 1650,
+      "height": 928,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
   "ratings": [
     {
       "source": "crawled",
