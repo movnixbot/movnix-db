@@ -2,22 +2,22 @@
   "movie": {
     "tmdbId": 1510795,
     "imdbId": "tt37697399",
-    "title": "Shake, Rattle & Roll Evil Origins",
-    "originalTitle": "Shake, Rattle & Roll Evil Origins",
+    "title": "Shake, Rattle & Roll: Evil Origins",
+    "originalTitle": "Shake, Rattle & Roll: Evil Origins",
     "overview": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
     "releaseDate": "2026-06-05",
     "runtime": 148,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1462,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 36.8634,
+    "voteAverage": 2,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1510795",
     "posterPath": "/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
     "backdropPath": "/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
     "collectionId": 527950,
-    "certification": "R-13"
+    "certification": "16"
   },
   "collection": {
     "tmdbId": 527950,
@@ -36,18 +36,25 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 8238,
+      "name": "Regal Entertainment",
+      "logoPath": "/3f3SS3sep9V3Nf7RAxNd5UUEw1E.png",
+      "originCountry": "PH"
+    }
+  ],
   "keywords": [],
   "videos": [
     {
-      "name": "SHAKE, RATTLE & ROLL EVIL ORIGINS OFFICIAL TRAILER | Regal Entertainment Inc. | MMFF51",
+      "name": "Official Trailer",
       "key": "A5QQvRaHxDw",
       "site": "YouTube",
       "size": 1080,
       "type": "Trailer"
     },
     {
-      "name": "SHAKE, RATTLE & ROLL EVIL ORIGINS OFFICIAL TEASER | Regal Entertainment Inc.",
+      "name": "Official Teaser",
       "key": "A3gbYYnVW1M",
       "site": "YouTube",
       "size": 1080,
@@ -73,6 +80,13 @@
       "filePath": "/6evn0A1Mvxe9p5r2CVxFfbOoetw.jpg",
       "width": 1365,
       "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg",
+      "width": 821,
+      "height": 1231,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -180,9 +194,21 @@
       "height": 1215,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/3plYmIoJbgDF1HOaZ9dKGbvcq6U.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
     {
       "source": "imdb",
       "ratingValue": 6.7,
@@ -397,7 +423,7 @@
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt37697399",
-    "wikidataId": null,
+    "wikidataId": "Q136006859",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null

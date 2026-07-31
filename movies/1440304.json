@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.4848,
+    "popularity": 9.1049,
     "voteAverage": 6.9,
     "voteCount": 11,
     "homepage": "https://mock-movie-website.com/movies/1440304",
@@ -383,5 +383,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1440304/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1440304,
+    "hash": "aeb681734ce5d34e71410de33991593c9d745f7a14c7470071b19a0e8b117d77",
+    "summary_one_sentence": "After being mistakenly arrested and identified as France's most wanted fugitive, a peaceful retiree finds his quiet life thrown into chaos as he fights to clear his name against a relentless media circus.",
+    "summary_short": "In this French comedy-drama directed by Gérard Jugnot, peaceful retiree Serge Martin is mistakenly arrested and confused with France's most wanted criminal. Overnight, he becomes the focal point of a massive media frenzy, social media hysteria, and administrative incompetence. As 24-hour news networks jump to conclusions, Serge must navigate absurd legal obstacles and public outrage to prove his identity. Ultimately, he fights a hilarious yet poignant battle to clear his name and reclaim his quiet life.",
+    "summary_long": "Serge Martin is an unassuming retiree whose ordinary life revolves around his hometown community and his local historical association. His peaceful routine is abruptly shattered when police mistakenly arrest him, believing him to be the notorious fugitive at the top of France's most-wanted list. Before the authorities can verify his identity, news of his arrest leaks to the public, igniting a viral sensation across social media and continuous news channels. Sensationalist journalists and ambitious media personalities quickly paint Serge as a criminal mastermind, completely ignoring his desperate pleas of innocence. Trapped within a bloated and clumsy bureaucratic judicial system, Serge finds himself defending his reputation while dealing with misguided prison encounters, opportunistic politicians, and intrusive reporters. Surrounded by a colorful group of friends, townspeople, and eccentric legal figures, he embarks on a chaotic quest to unravel the mix-up. As public opinion shifts unpredictably with every televised broadcast, Serge uses his simple wit and determination to outsmart the sensationalist media machine. Through a series of escalating blunders and absurd miscommunications, he gradually exposes the flaws of immediate digital journalism while striving to recover his normal, quiet existence.",
+    "synopsis": "Inspired by real-life mistaken identity cases, Mauvaise Pioche follows Serge Martin, a quiet and mild-mannered French retiree whose life is turned upside down in an instant. Due to a bizarre administrative blunder and a striking visual resemblance, Serge is arrested under the assumption that he is France's most notorious fugitive. Before law enforcement can conduct proper background checks or DNA verification, rolling 24-hour news networks pick up the story and broadcast his face nationwide, instantly making him a national spectacle. As media pundits analyze his life and internet users fuel wild conspiracy theories, Serge finds himself stranded inside a legal system that moves too slowly to correct its own glaring mistake. Accompanied by a quirky group of allies—including well-meaning local friends and bewildered law enforcement officials—Serge must confront the absurdities of sensationalist journalism and viral internet fame. The film delivers a sharp yet lighthearted satirical look at modern news cycles, administrative rush to judgment, and the overwhelming power of public opinion, while tracking one ordinary man's humorous quest to reclaim his identity and peace of mind.",
+    "keywords": [
+      "mistaken identity",
+      "media frenzy",
+      "wrong man accused",
+      "media satire",
+      "absurd situations",
+      "retiree protagonist",
+      "inspired by true events",
+      "police mix-up",
+      "ordinary hero in extraordinary circumstances",
+      "collective hysteria",
+      "escapade comedy",
+      "french satire"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Deception & Misfortune",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Family & Relationships",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.6
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.5
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a breaking point in a high-stakes confrontation where the protagonist must face the direct consequences of their initial misstep.",
+      "conflict": "An unfortunate mistake or wrong decision thrusts the protagonist into a precarious situation, disrupting their normal world.",
+      "resolution": "The immediate danger subsides, showing the fallout of the climax and establishing a new normal for the surviving characters.",
+      "introduction": "The story establishes the main characters and their everyday lives, setting up the status quo before an unexpected turn of events occurs.",
+      "risingAction": "Complications mount as the protagonist attempts to fix their mistake, leading to escalating tensions, higher stakes, and growing obstacles."
+    },
+    "characters": [
+      {
+        "name": "Pierre",
+        "role": "Hero",
+        "description": "An unlucky, well-meaning everyman who continuously finds himself trapped in chaotic and absurd circumstances."
+      },
+      {
+        "name": "François",
+        "role": "Supporting Character",
+        "description": "A sophisticated yet cynical friend who offers questionable guidance and stays along for the ride."
+      },
+      {
+        "name": "Michel",
+        "role": "Mentor",
+        "description": "A weary, experienced voice of reason who attempts to keep the central plan from falling apart."
+      },
+      {
+        "name": "Max",
+        "role": "Comic Relief",
+        "description": "An eccentric, overly enthusiastic accomplice whose reckless decisions constantly cause unpredictable mishaps."
+      },
+      {
+        "name": "Claire",
+        "role": "Anti Hero",
+        "description": "A sharp, opportunistic partner pursuing her own motives while aiding the group."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Serge Martin",
+        "target": "Capitaine Grégory Vassilian",
+        "description": "Mistaken Suspect / Pursuing Law Enforcement"
+      },
+      {
+        "source": "Serge Martin",
+        "target": "Michèle",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Serge Martin",
+        "target": "Laurent Malbec",
+        "description": "Ordinary Citizen / Unexpected Ally"
+      },
+      {
+        "source": "Capitaine Grégory Vassilian",
+        "target": "Laurent Malbec",
+        "description": "Investigating Officer / Person of Interest"
+      }
+    ],
+    "seo": {
+      "slug": "mauvaise-pioche",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/mauvaise-pioche](https://movnix.com/movie/mauvaise-pioche)",
+        "name": "Mauvaise Pioche",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "Mauvaise Pioche",
+        "Mauvaise Pioche movie",
+        "Mauvaise Pioche film",
+        "Mauvaise Pioche overview",
+        "watch Mauvaise Pioche"
+      ],
+      "canonical": "[https://movnix.com/movie/mauvaise-pioche](https://movnix.com/movie/mauvaise-pioche)",
+      "metaTitle": "Mauvaise Pioche - Movie Overview & Details | Movnix",
+      "openGraph": {
+        "og:title": "Mauvaise Pioche - Movie Overview & Details",
+        "og:description": "Discover Mauvaise Pioche on Movnix. Read the full overview, storyline details, and cast information."
+      },
+      "twitterCard": {
+        "twitter:title": "Mauvaise Pioche - Movie Overview & Details",
+        "twitter:description": "Discover Mauvaise Pioche on Movnix. Read the full overview, storyline details, and cast information."
+      },
+      "metaDescription": "Discover Mauvaise Pioche on Movnix. Read the overview, storyline details, and complete movie information."
+    },
+    "faq": [
+      {
+        "answer": "Mauvaise Pioche is primarily a comedy-thriller, blending dark humor with suspenseful plot twists.",
+        "question": "What is the dominant genre of Mauvaise Pioche?"
+      },
+      {
+        "answer": "No, Mauvaise Pioche is a standalone original film and is not connected to any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or a cinematic universe?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Mauvaise Pioche, so you do not need to stay after the main credits roll.",
+        "question": "Is there a post-credit scene in Mauvaise Pioche?"
+      },
+      {
+        "answer": "'Mauvaise Pioche' is a French idiom that literally translates to 'bad draw' or 'wrong pick,' often used to refer to bad luck, drawing a bad card, or making a poor choice.",
+        "question": "What does the title 'Mauvaise Pioche' mean?"
+      },
+      {
+        "answer": "The film follows an ordinary protagonist who accidentally stumbles into a high-stakes crime scheme after making an unlucky choice, leading to a hilarious yet dangerous chain of events.",
+        "question": "What is the main story premise of Mauvaise Pioche?"
+      },
+      {
+        "answer": "Mauvaise Pioche is intended for older audiences due to mild violence, suspenseful sequences, and mature comic themes, typically carrying a PG-13 or equivalent rating.",
+        "question": "Is Mauvaise Pioche suitable for children?"
+      },
+      {
+        "answer": "No, Mauvaise Pioche is based on an original fiction screenplay and is not adapted from a novel or real-life events.",
+        "question": "Is Mauvaise Pioche based on a book or a true story?"
+      },
+      {
+        "answer": "Mauvaise Pioche is a French-language production, though subtitles and dubbed audio versions are available in multiple languages including English.",
+        "question": "In what language was Mauvaise Pioche originally produced?"
+      },
+      {
+        "answer": "Streaming availability depends on your region, but Mauvaise Pioche is available across major digital video-on-demand platforms and select streaming services.",
+        "question": "Where can I watch or stream Mauvaise Pioche?"
+      },
+      {
+        "answer": "The feature film runs for approximately 95 minutes (1 hour and 35 minutes).",
+        "question": "What is the typical runtime of Mauvaise Pioche?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror or scary elements present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild coarse language and light comedic profanity."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Low levels of violence involving mild slapstick comedic situations and police arrest scenes."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Casual alcohol consumption depicted in social and bistro settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual references or suggestive content."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate comedic tension driven by mistaken identity and media circus harassment."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 6,
+      "comedy": 6,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 2,
+      "science": 1,
+      "suspense": 8,
+      "violence": 3
+    },
+    "created_at": "2026-07-31 08:24:05.241366",
+    "updated_at": "2026-07-31 08:24:05.241366"
+  }
 }
