@@ -207,5 +207,258 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1673568/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1673568,
+    "hash": "be89e7f032f3b9936932b31dc58002c2d0de0bc133d34d32a537c2ebf36e6ee9",
+    "summary_one_sentence": "A live-streamed special broadcasting the star-studded world premiere of 'The Devil Wears Prada 2' directly from New York City's Lincoln Center to global audiences.",
+    "summary_short": "Disney+ and Hulu bring subscribers a front-row view of the world premiere of 'The Devil Wears Prada 2' live from Lincoln Center. The global event features glamourous red carpet arrivals, high-fashion showcases, and behind-the-scenes interviews with the film's cast and creators. Serving as the official celebration ahead of the film's theatrical debut, this special captures the high-energy excitement of America's fashion capital.",
+    "summary_long": "The Devil Wears Prada 2 Red Carpet World Premiere brings moviegoers and fashion enthusiasts directly to Lincoln Center in New York City for an exclusive live-streaming event. Broadcast globally across Disney+ and Hulu, the special delivers extensive coverage of one of the year's most anticipated red carpet gatherings. Audiences get to experience the glitz of America's fashion capital as stars, filmmakers, and high-profile guests arrive in head-turning couture. The live broadcast features candid behind-the-scenes interviews that offer insights into the making of the sequel and the legacy of the franchise. Viewers are given a close-up look at the intricate details of the fashion on display as well as the electric atmosphere surrounding the venue. Expert commentators and hosts guide the audience through key arrivals, fan interactions, and memorable cast reunions. The special effectively bridges the gap between Hollywood premiere luxury and home viewers around the globe. By highlighting the union of cinema and fashion, the event serves as the ultimate festive kickoff ahead of the movie's wide release in theaters. Ultimately, it offers an immersive, unscripted celebration of luxury, style, and cinematic storytelling.",
+    "synopsis": "Streamed live to subscribers on Disney+ and Hulu, 'The Devil Wears Prada 2 Red Carpet World Premiere' provides a front-row, spoiler-free pass to the star-studded premiere event at New York City’s iconic Lincoln Center. The special highlights couture fashion arrivals, live celebrity interactions, and exclusive behind-the-scenes interviews as the cast and crew celebrate the release of the long-awaited sequel.",
+    "keywords": [
+      "red carpet premiere",
+      "live stream",
+      "fashion industry",
+      "celebrity interviews",
+      "Lincoln Center",
+      "New York City",
+      "high fashion",
+      "behind the scenes",
+      "red carpet arrivals",
+      "streaming event",
+      "star-studded premiere",
+      "couture",
+      "Hollywood glamour",
+      "film kickoff"
+    ],
+    "themes": [
+      {
+        "theme": "Fashion & Glamour",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Celebrity & Media Culture",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Exclusive Access & Behind the Scenes",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Glamorous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Celebratory",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The arrival and grand red-carpet moment of the main cast members, delivering peak star power and viral media moments right before entering the venue.",
+      "conflict": "The dynamic pressure and unpredictable energy of orchestrating a live, high-fashion red carpet broadcast with stars, media, and real-time interviews.",
+      "resolution": "The red carpet festivities wrap up as the stars move inside for the premiere screening, setting the tone for the movie's official theatrical debut.",
+      "introduction": "The live broadcast opens at New York City's iconic Lincoln Center, setting the stage for a global audience tuning in for an exclusive, front-row look at fashion's biggest night.",
+      "risingAction": "A steady arrival of celebrity guests, high-couture style reveals, and candid behind-the-scenes interviews that build anticipation and excitement throughout the evening."
+    },
+    "characters": [
+      {
+        "name": "Andy Sachs",
+        "role": "Hero",
+        "description": "An ambitious and principled journalist who navigates complex high-fashion dynamics and personal growth."
+      },
+      {
+        "name": "Emily Charlton",
+        "role": "Supporting Character",
+        "description": "A sharp-witted, fashion-obsessed executive who serves as a loyal, competitive counterweight and former colleague."
+      },
+      {
+        "name": "Nigel Kipling",
+        "role": "Mentor",
+        "description": "A seasoned fashion industry insider who guides others through the unwritten rules and demands of high fashion."
+      },
+      {
+        "name": "Brad Goreski",
+        "role": "Other",
+        "description": "A real-life celebrity stylist and fashion personality appearing as himself to host red carpet premiere coverage."
+      },
+      {
+        "name": "Tefi Pessoa",
+        "role": "Comic Relief",
+        "description": "A popular digital creator and host who brings humor, charm, and lighthearted energy to live media commentary."
+      },
+      {
+        "name": "Sophie Flay",
+        "role": "Other",
+        "description": "A broadcast journalist and event host presenting real-time red carpet interviews and coverage."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Miranda Priestly",
+        "target": "Andy Sachs",
+        "description": "Editor-in-Chief / Features Editor (Former Assistant)"
+      },
+      {
+        "source": "Miranda Priestly",
+        "target": "Emily Charlton",
+        "description": "Former Boss / Rival Fashion Executive"
+      },
+      {
+        "source": "Miranda Priestly",
+        "target": "Nigel Kipling",
+        "description": "Editor-in-Chief / Trusted Right-Hand & Art Director"
+      },
+      {
+        "source": "Andy Sachs",
+        "target": "Emily Charlton",
+        "description": "Former Co-Assistants / Professional Allies"
+      },
+      {
+        "source": "Andy Sachs",
+        "target": "Nigel Kipling",
+        "description": "Mentee / Mentor & Trusted Friend"
+      },
+      {
+        "source": "Miranda Priestly",
+        "target": "Stuart Simmons",
+        "description": "Wife / Husband"
+      }
+    ],
+    "seo": {
+      "slug": "the-devil-wears-prada-2-red-carpet-world-premiere",
+      "jsonLd": {
+        "name": "The Devil Wears Prada 2 Red Carpet World Premiere",
+        "@type": "Event",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "name": "Lincoln Center",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "NY",
+            "addressCountry": "US",
+            "addressLocality": "New York"
+          }
+        },
+        "organizer": [
+          {
+            "name": "Disney+",
+            "@type": "Organization"
+          },
+          {
+            "name": "Hulu",
+            "@type": "Organization"
+          }
+        ],
+        "description": "Get ready for couture, cameras, and cast moments as Disney+ and Hulu livestream the The Devil Wears Prada 2 world premiere from New York City’s Lincoln Center."
+      },
+      "keywords": [
+        "The Devil Wears Prada 2",
+        "The Devil Wears Prada 2 red carpet",
+        "The Devil Wears Prada 2 premiere",
+        "Disney+ live stream",
+        "Hulu live stream",
+        "Lincoln Center NYC premiere"
+      ],
+      "canonical": "[https://movnix.com/movie/the-devil-wears-prada-2-red-carpet-world-premiere](https://movnix.com/movie/the-devil-wears-prada-2-red-carpet-world-premiere)",
+      "metaTitle": "The Devil Wears Prada 2 Red Carpet World Premiere | Watch Live",
+      "openGraph": {
+        "og:title": "The Devil Wears Prada 2 Red Carpet World Premiere Live Stream",
+        "og:description": "Stream the world premiere live from Lincoln Center on Disney+ and Hulu. Get front-row access to red carpet fashion, cast interviews, and behind-the-scenes moments."
+      },
+      "twitterCard": {
+        "twitter:title": "The Devil Wears Prada 2 Red Carpet World Premiere",
+        "twitter:description": "Watch the world premiere live from NYC's Lincoln Center on Disney+ and Hulu. See fashion arrivals and cast interviews live!"
+      },
+      "metaDescription": "Stream The Devil Wears Prada 2 red carpet premiere live from Lincoln Center on Disney+ and Hulu. Experience fashion, cast interviews, and exclusive access."
+    },
+    "faq": [
+      {
+        "answer": "Yes, The Devil Wears Prada 2 is part of a franchise, serving as the sequel to the iconic 2006 film The Devil Wears Prada.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is comedy-drama, focusing on high fashion, corporate dynamics, and personal relationship balance.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "The live red carpet coverage is streamed globally to subscribers on Disney+ and Hulu.",
+        "question": "Where can I watch the world premiere red carpet livestream?"
+      },
+      {
+        "answer": "The event is hosted live from Lincoln Center in New York City, America's fashion capital.",
+        "question": "Where is the physical red carpet premiere taking place?"
+      },
+      {
+        "answer": "Details regarding a post-credit scene remain confidential until the official theatrical release, so viewers are encouraged to stay through the end credits in theaters.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "The livestream features front-row access to high-fashion red carpet arrivals, live cast and crew interviews, and exclusive behind-the-scenes footage.",
+        "question": "What content can viewers expect during the premiere broadcast?"
+      },
+      {
+        "answer": "Yes, access to the live event broadcast requires an active subscription to Disney+ or Hulu.",
+        "question": "Do I need a subscription to watch the live event?"
+      },
+      {
+        "answer": "Yes, the livestream is made available globally to Disney+ and Hulu subscribers across supported countries.",
+        "question": "Is the livestream accessible to international audiences?"
+      },
+      {
+        "answer": "No, the livestream captures the red carpet premiere event, serving as the official kickoff celebration for the film's upcoming theatrical release.",
+        "question": "Does this livestream replace the film's theatrical premiere?"
+      },
+      {
+        "answer": "The premiere event is officially brought to viewers worldwide through a joint broadcast by Disney+ and Hulu.",
+        "question": "Who is presenting and broadcasting the event?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror, disturbing imagery, or scary elements."
+      },
+      "language": {
+        "score": 0,
+        "description": "No offensive language, profanity, or inappropriate dialogue."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence, physical aggression, or weapons are present in this red carpet event coverage."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance usage references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or suggestive behavior."
+      },
+      "emotionalIntensity": {
+        "score": 1,
+        "description": "Extremely low emotional intensity, presenting lighthearted celebrity red carpet interviews and glamour fashion."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 0,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 0,
+      "romance": 0,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-07-31 09:06:38.859156",
+    "updated_at": "2026-07-31 09:06:38.859156"
+  }
 }
