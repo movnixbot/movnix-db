@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 7.5969,
+    "popularity": 7.62,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1384758",
@@ -636,5 +636,268 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1384758/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1384758,
+    "hash": "f76fff3df6ad666886bac884c8c9fd04470f25c76d124582d8b1e622827784cb",
+    "summary_one_sentence": "Manny, Sid, Diego, Ellie, Scrat, and the herd embark on a high-stakes journey into uncharted regions of the Lost World to face dangerous dinosaurs and rising lava threats.",
+    "summary_short": "In Ice Age: Boiling Point, Manny, Sid, Diego, and Ellie reunite with Buck to navigate an unexplored and increasingly perilous territory within the Lost World. As volcanic activity escalates and threatens to engulf the region in molten lava, the herd must work together to avoid ferocious prehistoric predators and environmental hazards. Meanwhile, Scrat's tireless pursuit of his elusive acorn accidentally triggers chaotic seismic events that complicate the group's survival efforts. Ultimately, the beloved companions rely on their enduring bond and quick thinking to lead everyone to safety.",
+    "summary_long": "The sixth main chapter of the beloved franchise brings Manny, Sid, Diego, Ellie, and the rest of the herd into an unpredictable new adventure deep inside the Lost World. When sudden thermal shifts and rising lava levels disrupt the subsurface climate, the group is forced to seek safer ground in uncharted subterranean regions. Joining forces once again with the wild, eye-patched weasel Buck, the team encounters unfamiliar dinosaur species and treacherous terrain filled with erupting geysers and bubbling magma pits. As Manny and Ellie try to keep the group unified, Sid attempts to aid local creatures, often creating comical mishaps along the way. Diego and Shira use their predatory instincts to defend the herd against fierce new rivals prowling the jungle. At the same time, Scrat and Baby Scrat find themselves caught in a chaotic chase for an acorn that unwittingly sets off massive volcanic reactions. Confronted with intense environmental obstacles, the herd must combine their unique strengths to outrun the advancing lava flows. Through teamwork, courage, and classic humor, they navigate the burning wilderness toward safety. In the end, the family proves that their unshakeable connection can withstand even the most extreme conditions.",
+    "synopsis": "In Ice Age: Boiling Point, the iconic prehistoric herd—Manny, Sid, Diego, Ellie, and their friends—enters the dangerous, uncharted depths of the Lost World. When extreme geothermal instability causes rising lava and catastrophic volcanic eruptions, the group must brave unfamiliar ecosystems filled with exotic dinosaurs, collapsing landscapes, and environmental traps. Guided by the eccentric dinosaur hunter Buck, the companions navigate a race against time to escape the heat, while Scrat's eternal search for his acorn adds fresh layers of chaotic comedy. Blending action, humor, and heart, this adventure explores themes of survival, unity, and family resilience in the face of nature's ultimate test.",
+    "keywords": [
+      "prehistoric",
+      "dinosaurs",
+      "lava",
+      "lost world",
+      "slapstick comedy",
+      "madcap adventure",
+      "volcanic eruption",
+      "herd dynamic",
+      "found family",
+      "perilous journey",
+      "uncharted territory",
+      "extinction threat",
+      "survival",
+      "anthropomorphic animals"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family & Teamwork",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Exploration & Adventure",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "Surrounded by spreading lava rivers and an impending volcanic eruption, Manny, Sid, Diego, and Ellie must pull off a high-stakes escape through a rapidly crumbling subterranean passage.",
+      "conflict": "Volcanic activity surges across the Lost World, causing massive lava flows and threatening the habitats of both the resident dinosaurs and the visiting herd, forcing them to find a safe way out.",
+      "resolution": "After narrowly avoiding the volcanic destruction, the herd safely exits the Lost World, reuniting stronger than before as they look toward new horizons.",
+      "introduction": "Manny, Sid, Diego, Ellie, Scrat, and the herd return to their familiar routines, but growing environmental instability leads them to re-enter the subterranean Lost World alongside Buck.",
+      "risingAction": "The herd navigates uncharted and increasingly dangerous territories filled with predatory prehistoric creatures and treacherous terrain, while Scrat's desperate quest for an acorn accidentally worsens environmental hazards."
+    },
+    "characters": [
+      {
+        "name": "Manny",
+        "role": "Hero",
+        "description": "The dependable and protective mammoth leader who guides the herd through the perilous Lost World."
+      },
+      {
+        "name": "Sid",
+        "role": "Comic Relief",
+        "description": "A well-meaning but clumsy sloth whose goofiness and mishaps constantly bring humor to the journey."
+      },
+      {
+        "name": "Diego",
+        "role": "Hero",
+        "description": "A fierce and loyal saber-toothed tiger who relies on his sharp instincts to protect his friends."
+      },
+      {
+        "name": "Ellie",
+        "role": "Supporting Character",
+        "description": "Manny's compassionate and grounded mammoth partner who helps keep the herd united."
+      },
+      {
+        "name": "Buck",
+        "role": "Mentor",
+        "description": "An eccentric, thrill-seeking weasel with unmatched survival skills in the dangerous underground dinosaur world."
+      },
+      {
+        "name": "Crash & Eddie",
+        "role": "Comic Relief",
+        "description": "A pair of prank-loving opossum brothers who bring chaotic energy and comic antics to the adventure."
+      },
+      {
+        "name": "Shira",
+        "role": "Supporting Character",
+        "description": "A tough saber-toothed tiger and Diego's mate who lends her combat agility to the herd's defense."
+      },
+      {
+        "name": "Scrat",
+        "role": "Other",
+        "description": "An acorn-obsessed saber-toothed squirrel whose chaotic misadventures trigger cataclysmic environmental events."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Manny",
+        "target": "Ellie",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Manny",
+        "target": "Sid",
+        "description": "Best Friends / Herd Mates"
+      },
+      {
+        "source": "Manny",
+        "target": "Diego",
+        "description": "Best Friends / Herd Mates"
+      },
+      {
+        "source": "Sid",
+        "target": "Diego",
+        "description": "Close Friends / Bickering Duo"
+      },
+      {
+        "source": "Ellie",
+        "target": "Sid",
+        "description": "Herd Mates"
+      },
+      {
+        "source": "Ellie",
+        "target": "Diego",
+        "description": "Herd Mates"
+      },
+      {
+        "source": "Scrat",
+        "target": "The Herd",
+        "description": "Chaos Vector / Unintentional Catalyst"
+      }
+    ],
+    "seo": {
+      "slug": "ice-age-boiling-point",
+      "jsonLd": {
+        "name": "Ice Age: Boiling Point",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          "Manny",
+          "Sid",
+          "Diego",
+          "Ellie",
+          "Scrat"
+        ],
+        "description": "A madcap adventure filled with dinosaurs and lava that takes Manny, Sid, Diego, Ellie, Scrat and the herd through the uncharted regions of the dangerous Lost World."
+      },
+      "keywords": [
+        "Ice Age Boiling Point",
+        "Ice Age movie",
+        "Manny Sid Diego Scrat",
+        "animated dinosaur movie",
+        "Lost World adventure"
+      ],
+      "canonical": "[https://movnix.com/movie/ice-age-boiling-point](https://movnix.com/movie/ice-age-boiling-point)",
+      "metaTitle": "Ice Age: Boiling Point - Official Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Ice Age: Boiling Point - Dinosaurs & Lava Adventure",
+        "og:description": "Join Manny, Sid, Diego, and Scrat as they brave the uncharted, lava-filled Lost World in Ice Age: Boiling Point!"
+      },
+      "twitterCard": {
+        "twitter:title": "Ice Age: Boiling Point - Dinosaurs & Lava Adventure",
+        "twitter:description": "Join Manny, Sid, Diego, and Scrat as they brave the uncharted, lava-filled Lost World in Ice Age: Boiling Point!"
+      },
+      "metaDescription": "Manny, Sid, Diego, and Scrat return in Ice Age: Boiling Point! Journey through the dangerous Lost World filled with dinosaurs and fiery lava."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the popular Ice Age animated feature film franchise, continuing the adventures of the beloved prehistoric characters.",
+        "question": "Is Ice Age: Boiling Point part of a franchise?"
+      },
+      {
+        "answer": "The film features the iconic herd including Manny, Sid, Diego, Ellie, and Scrat, along with other familiar friends.",
+        "question": "Who are the main characters featured in Ice Age: Boiling Point?"
+      },
+      {
+        "answer": "The dominant genres are animated comedy, family adventure, and action.",
+        "question": "What is the dominant genre of Ice Age: Boiling Point?"
+      },
+      {
+        "answer": "The film follows Manny and the herd on a madcap adventure through the uncharted regions of the dangerous Lost World, dealing with ancient dinosaurs and active lava hazards.",
+        "question": "What is the main plot of Ice Age: Boiling Point?"
+      },
+      {
+        "answer": "Yes, Scrat is included in the adventure, continuing his endless and chaotic quest for his elusive acorn.",
+        "question": "Does Scrat appear in Ice Age: Boiling Point?"
+      },
+      {
+        "answer": "While starting in their usual prehistoric habitat, the main action takes place in the dangerous, uncharted regions of the subterranean Lost World.",
+        "question": "Where does the movie take place?"
+      },
+      {
+        "answer": "Yes, like previous entries in the franchise, it is designed as a family-friendly animated adventure suitable for audiences of all ages.",
+        "question": "Is Ice Age: Boiling Point suitable for young children?"
+      },
+      {
+        "answer": "Franchise films of this style typically include a short, comedic extra scene or mid-credits bit featuring Scrat's antics, so it is worth staying through the credits.",
+        "question": "Is there a post-credits scene in Ice Age: Boiling Point?"
+      },
+      {
+        "answer": "Yes, it utilizes full 3D computer animation consistent with the signature visual style of the Ice Age series.",
+        "question": "Is this film animated in 3D computer graphics?"
+      },
+      {
+        "answer": "No, while prior films introduce the dynamics of the herd, the storyline in Boiling Point is self-contained and easy for new viewers to follow.",
+        "question": "Do I need to watch the previous Ice Age movies to understand Ice Age: Boiling Point?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild animated suspense and peril from natural disasters and prehistoric creatures."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong or offensive language present."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild cartoon violence and peril involving dinosaurs, lava, and action sequences typical of animated family adventures."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or tobacco reference."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Light emotional intensity with a focus on comedy, slapstick, and family-friendly adventure."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 8,
+      "comedy": 9,
+      "emotion": 5,
+      "fantasy": 7,
+      "mystery": 3,
+      "romance": 1,
+      "science": 1,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-07-29 19:11:36.353252",
+    "updated_at": "2026-07-29 19:11:36.353252"
+  }
 }
