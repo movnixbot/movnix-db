@@ -1065,5 +1065,275 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1167307/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1167307,
+    "hash": "ca96c74d9468cd169faa4d98437483433cce9e45a1c02e14278b441b27b7e627",
+    "summary_one_sentence": "An animated epic following David, a humble shepherd whose unshakable faith and courage guide him from defeating the formidable giant Goliath to facing trials that shape the destiny of an entire kingdom.",
+    "summary_short": "Beginning in quiet devotion as a simple shepherd, young David's life changes forever when the giant Goliath threatens his nation. Armed only with a sling, a few stones, and deep faith in God, he boldly steps forward to confront the giant when others falter. As his miraculous victory brings both acclaim and dangerous opposition, David must navigate trials of loyalty, love, and resilience. Ultimately, his journey becomes a fight not just for a crown, but for the soul of his kingdom.",
+    "summary_long": "David's journey begins in the tranquil fields, where his days are filled with humble devotion, family bonds, and a steadfast faith in God. When the fearsome giant Goliath emerges to terrorize the nation, none of Israel's seasoned warriors dare to challenge him. Moved by divine purpose rather than worldly ambition, the young shepherd steps forward armed only with his sling, a handful of stones, and unshakable trust. David's remarkable victory over Goliath instantly transforms him into a national hero, but it also thrusts him into a perilous realm of political rivalry and royal envy. Pursued by powerful foes who feel threatened by his destiny, David must rely on his inner strength, wisdom, and faith to survive. Throughout his ongoing trials, he forms deep bonds of love and friendship while enduring profound tests of courage and selflessness. Each conflict refines his spirit, teaching him the high personal cost of true leadership and integrity. Facing relentless threats both internal and external, David stands firm against adversity to protect those he loves. Ultimately, his heroic path culminates in a monumental struggle that will decide the ultimate destiny and spiritual foundation of the entire realm.",
+    "synopsis": "Rooted in devotion, family, and history, 'David' tells the timeless animated story of a humble shepherd boy who rises to become a legendary figure. Guided by faith and the melodic wisdom of his mother's heart, David leads a peaceful life until the arrival of Goliath, a colossal warrior who strikes terror across the nation. Where experienced armies falter in fear, David relies on his spiritual resolve, stepping up to challenge the giant with only a simple sling and a few stones. His unexpected triumph ignites a grander story of purpose, adventure, and hardship as powerful forces seek to thwart his ultimate calling. Blending historical drama with family-oriented storytelling, this narrative explores profound themes of love, loyalty, and divine perseverance, capturing a young hero's quest to heal and lead his kingdom.",
+    "keywords": [
+      "biblical epic",
+      "david and goliath",
+      "shepherd boy",
+      "underdog hero",
+      "giant slayer",
+      "ancient israel",
+      "coming of age",
+      "divine calling",
+      "faith vs fear",
+      "musical epic",
+      "battle for a kingdom",
+      "destined for greatness",
+      "hero's journey"
+    ],
+    "themes": [
+      {
+        "theme": "Unshakable Faith and Devotion",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Courage and Duty",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Power vs. Purpose",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Loyalty and Sacrifice",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heroic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "David faces the ultimate struggle against internal and external enemies—a decisive battle for leadership where the fate and spiritual foundation of the entire kingdom hang in the balance.",
+      "conflict": "The nation faces a dire existential threat when the formidable giant Goliath rises, terrorizing the people and challenging anyone to face him.",
+      "resolution": "The conflict settles, defining the future of the nation and establishing David's enduring legacy as a ruler shaped by courage and devotion.",
+      "introduction": "David begins as a humble, devoted shepherd boy whose life is shaped by quiet faith, family, and spiritual devotion far from the public eye.",
+      "risingAction": "Stepping forward with only a sling and a few stones, young David confronts the giant. In the aftermath, his path becomes fraught with peril as he is pursued by dangerous powers and tested across bonds of love, loyalty, and purpose."
+    },
+    "characters": [
+      {
+        "name": "David",
+        "role": "Hero",
+        "description": "A young shepherd whose unwavering faith, courage, and sling lead him to defeat Goliath and protect his nation."
+      },
+      {
+        "name": "Samuel",
+        "role": "Mentor",
+        "description": "The wise prophet who acts as a spiritual guide, anointing David and preparing him for his destiny."
+      },
+      {
+        "name": "Goliath",
+        "role": "Villain",
+        "description": "The formidable giant warrior who terrorizes Israel and threatens the kingdom."
+      },
+      {
+        "name": "King Saul",
+        "role": "Anti Hero",
+        "description": "The troubled king of Israel who is driven by paranoia and power, testing David's loyalty."
+      },
+      {
+        "name": "Nitzevet",
+        "role": "Supporting Character",
+        "description": "David's mother, whose love, warmth, and songs nurture David's devotion and character."
+      },
+      {
+        "name": "Eliab",
+        "role": "Supporting Character",
+        "description": "David's eldest brother, a soldier in Saul's army who initially doubts David's courage."
+      },
+      {
+        "name": "Jesse",
+        "role": "Supporting Character",
+        "description": "David's father, a patriarch in Bethlehem who guides his family and flock."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "David",
+        "target": "Nitzevet",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "David",
+        "target": "Jesse",
+        "description": "Father/Son"
+      },
+      {
+        "source": "David",
+        "target": "Samuel",
+        "description": "Spiritual Mentor / Prophet and Chosen Anointed"
+      },
+      {
+        "source": "David",
+        "target": "Goliath",
+        "description": "Adversaries / Battle Opponents"
+      },
+      {
+        "source": "David",
+        "target": "King Saul",
+        "description": "Court Musician, Servant, and Threatened Monarch Rival"
+      },
+      {
+        "source": "David",
+        "target": "Jonathan",
+        "description": "Devoted Friends and Allies"
+      },
+      {
+        "source": "King Saul",
+        "target": "Jonathan",
+        "description": "Father/Son and King/Prince"
+      },
+      {
+        "source": "David",
+        "target": "Eliab",
+        "description": "Brothers"
+      },
+      {
+        "source": "David",
+        "target": "Zeruiah",
+        "description": "Siblings (Brother/Sister)"
+      },
+      {
+        "source": "David",
+        "target": "King Achish",
+        "description": "Adversaries / Warring Monarchy"
+      }
+    ],
+    "seo": {
+      "slug": "david",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/david](https://movnix.com/movie/david)",
+        "name": "David",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom."
+      },
+      "keywords": [
+        "David movie",
+        "David and Goliath",
+        "faith-based movie",
+        "biblical epic",
+        "David synopsis",
+        "David film 2025"
+      ],
+      "canonical": "[https://movnix.com/movie/david](https://movnix.com/movie/david)",
+      "metaTitle": "David (2025) - Official Movie Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "David - The Epic Story of Faith and Courage",
+        "og:description": "Follow David's legendary rise from a faithful shepherd to the hero who faced Goliath and fought for the soul of a kingdom."
+      },
+      "twitterCard": {
+        "twitter:title": "David - The Epic Story of Faith and Courage",
+        "twitter:description": "Follow David's legendary rise from a faithful shepherd to the hero who faced Goliath and fought for the soul of a kingdom."
+      },
+      "metaDescription": "From humble shepherd to kingdom defender, follow David's epic journey of faith, courage, and his legendary battle against Goliath."
+    },
+    "faq": [
+      {
+        "answer": "David is primarily an animated biblical drama and adventure film, focusing on themes of faith, courage, and overcoming impossible odds.",
+        "question": "What is the dominant genre of David?"
+      },
+      {
+        "answer": "The film follows the story of David, a young shepherd devoted to God, who rises to national prominence after confronting the giant Goliath with just a sling and unyielding faith, leading to a trial of loyalty, love, and leadership for the soul of the kingdom.",
+        "question": "What is the plot of David?"
+      },
+      {
+        "answer": "Yes, David is based on the famous biblical narrative of David from the Old Testament/Hebrew Bible, specifically detailing his early life as a shepherd boy through his dramatic encounter with Goliath.",
+        "question": "Is David based on a true story or historical account?"
+      },
+      {
+        "answer": "While it tells a standalone chapter of King David's early life, it is produced by Angel Studios, known for creating standalone faith-based and historical biblical animated and live-action titles.",
+        "question": "Is David part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "Faith-based animated features typically do not feature traditional superhero-style post-credits teaser scenes, though extra artwork or musical performances are often featured alongside the credits.",
+        "question": "Is there a post-credits scene in David?"
+      },
+      {
+        "answer": "The movie is designed for family audiences of all ages, particularly fans of animated features, biblical adventures, and inspirational stories of faith and bravery.",
+        "question": "Who is the target audience for David?"
+      },
+      {
+        "answer": "Key themes include unshakable faith in God, overcoming fear and adversity, humility versus pride, loyalty, and finding purpose beyond one's apparent limitations.",
+        "question": "What are the main themes explored in the movie?"
+      },
+      {
+        "answer": "The pivotal battle is depicted through dynamic animation that contrasts the overwhelming physical stature of the giant Goliath with David's quiet devotion, agility, and reliance on divine strength.",
+        "question": "How is the story of David and Goliath depicted in the film?"
+      },
+      {
+        "answer": "Yes, while it contains mild thematic intensity due to the conflict between David and Goliath, the violence is handled in a family-friendly animated manner.",
+        "question": "Is David suitable for young children?"
+      },
+      {
+        "answer": "This adaptation emphasizes David's spiritual foundation—from his mother's songs and his humble life as a shepherd—offering a deeply personal and emotional look at his internal journey before becoming a leader.",
+        "question": "What makes this adaptation of David's story unique?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense moments and threat posed by a intimidating giant foe."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or offensive language present."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Depicts iconic battle themes involving combat against a terrorizing giant, sling warfare, and conflict over a kingdom."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance usage references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional weight focusing on faith, courage, pursuit, and high-stakes national struggle."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 2,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 7,
+      "violence": 6
+    },
+    "created_at": "2026-07-31 06:07:50.627973",
+    "updated_at": "2026-07-31 06:07:50.627973"
+  }
 }
