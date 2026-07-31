@@ -4,18 +4,18 @@
     "imdbId": "tt36415524",
     "title": "The Gentleman Thief",
     "originalTitle": "The Gentleman Thief",
-    "overview": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit. As tensions mount and old enemies from the past resurface, he faces a life-or-death struggle. To survive, he must draw upon all the skills, experience, and cunning tricks that once made him the best in his field. As the stakes rise, a compelling story of loyalty, betrayal, and the will to survive unfolds.",
+    "overview": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.",
     "releaseDate": "2026-07-31",
-    "runtime": 139,
+    "runtime": 97,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.8615,
-    "voteAverage": 4,
-    "voteCount": 2,
+    "popularity": 19.1873,
+    "voteAverage": 6.5,
+    "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1458215",
-    "posterPath": "/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
-    "backdropPath": "/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
+    "posterPath": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+    "backdropPath": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
     "collectionId": 1149170
   },
   "collection": {
@@ -49,6 +49,12 @@
       "name": "Convergence Entertainment",
       "logoPath": "/13GyIWMzFvDqJN6I6tZCQYzWr7L.png",
       "originCountry": "US"
+    },
+    {
+      "tmdbId": 181905,
+      "name": "Prime Video India",
+      "logoPath": null,
+      "originCountry": "IN"
     }
   ],
   "keywords": [],
@@ -63,18 +69,25 @@
   ],
   "images": [
     {
-      "filePath": "/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
+      "filePath": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
     },
     {
-      "filePath": "/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
+      "filePath": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
     },
     {
       "filePath": "/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
@@ -84,7 +97,21 @@
       "type": "poster"
     },
     {
+      "filePath": "/14VvGpoJdP66ufZPzdHnTNBqZbI.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
@@ -94,8 +121,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4,
-      "votesCount": 2
+      "ratingValue": 6.5,
+      "votesCount": 7
     },
     {
       "source": "crawled",
@@ -135,7 +162,7 @@
       "tmdbPersonId": 1080843,
       "name": "Emily Skinner",
       "profilePath": "/8yUD1mq0nspMy1bYPV4rQRTvLmF.jpg",
-      "character": "Skinner",
+      "character": "Violet",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -256,12 +283,26 @@
       "job": "Producer",
       "department": "Production",
       "order": null
+    },
+    {
+      "tmdbPersonId": 49281,
+      "name": "Chris Sivertson",
+      "profilePath": "/x3ZO5nWnTYF9MGwNxYLJXPP2cVi.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
     }
   ],
   "alternativeTitles": [
     {
       "iso_3166_1": "US",
       "title": "Cash Out 3",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "套现3",
       "type": ""
     }
   ],
@@ -279,7 +320,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
