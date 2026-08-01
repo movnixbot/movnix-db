@@ -510,5 +510,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1195803/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1195803,
+    "hash": "19b07a642933b94d1e124e1aba35f6c6895083d7c124937be310eedec7357689",
+    "summary_one_sentence": "In a seaside fishing village, an outcast woman orders a custom wicker husband, only for their blossoming romance to ignite jealousy and destabilize the local community.",
+    "summary_short": "Marginated by her coastal community, a lonely woman seeks companionship by commissioning a life-sized husband woven from wicker. To the astonishment of the locals, her intricate creation comes to life and a genuine romance blossoms between them. However, as their affection deepens, the townsfolk grow increasingly envious, threatening the delicate social hierarchy of the village.",
+    "summary_long": "Set in a quiet, insular fishing village, an outcast woman struggles with deep loneliness and the contempt of her neighbors. Desperate for human connection, she approaches the local basketmaker to craft a bespoke husband made entirely out of woven wicker. Expecting little more than a symbolic companion, she is stunned when the meticulously crafted figure manifests a life of its own. As they spend time together, an authentic and tender romance flourishes between the outcast and her unusual partner. Her newfound happiness does not go unnoticed by the village, which has long relied on keeping her at the bottom of the social ladder. The sight of a shunned woman thriving with a devoted, albeit unconventional, companion ignites bitter jealousy among the residents. Spurred by resentment and fear of the unknown, the townsfolk begin to plot against the couple, determined to dismantle their bond. Ultimately, their blossoming affection challenges the village's rigid social order and forces the community to confront its own cruelties.",
+    "synopsis": "Wicker is a whimsical yet poignant fantasy drama that explores the depths of isolation, love, and social prejudice in a tight-knit coastal town. When an outcast woman decides to defy her cruel surroundings by ordering a custom-made wicker husband from a local craftsman, she sets off an unexpected chain of events. The beautifully detailed creation brings warmth and romance into her life, turning her solitary existence into one of profound joy. Yet, as their affection disrupts the traditional dynamics of the village, petty jealousy and suspicion quickly boil over. The film offers an evocative look at what it means to belong, blending magical realism with emotional drama as one woman fights to protect the unique love she has found.",
+    "keywords": [
+      "outcast protagonist",
+      "fishing village setting",
+      "artificial spouse",
+      "wicker creation",
+      "basketmaker",
+      "unconventional romance",
+      "village jealousy",
+      "social order conflict",
+      "magical realism",
+      "lonely outcast",
+      "manufactured companion",
+      "small town prejudice",
+      "folk fantasy",
+      "forbidden love",
+      "craftsmanship drama"
+    ],
+    "themes": [
+      {
+        "theme": "Loneliness and Isolation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Jealousy and Social Order",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Unconventional Love and Companionship",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Conformity vs. Individuality",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.79
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The village's growing resentment erupts into a direct confrontation that threatens the physical existence of the wicker husband and tests the woman's commitment.",
+      "conflict": "An unexpected, deep romance blooms between the woman and her woven companion, directly defying the rigid expectations and social norms of the village.",
+      "resolution": "The explosive clash alters the community's power dynamics, forcing both the village and the outcast to face the costs of intolerance and individual freedom.",
+      "introduction": "An isolated outcast living on the fringes of a tight-knit fishing village commissions a custom husband crafted from wicker by the local basketmaker.",
+      "risingAction": "As the couple's bond grows stronger, envy and suspicion spread among the townspeople, leading to escalating hostility toward the non-traditional relationship."
+    },
+    "characters": [
+      {
+        "name": "The Fisherwoman (Olivia Colman)",
+        "role": "Hero",
+        "description": "An ostracized, independent outcast who challenges rigid village social norms by commissioning her ideal partner."
+      },
+      {
+        "name": "The Wicker Husband (Alexander Skarsgård)",
+        "role": "Hero",
+        "description": "An intricately woven life partner whose soulful nature, strength, and devoted charm transform the fisherwoman's life."
+      },
+      {
+        "name": "The Basketmaker (Peter Dinklage)",
+        "role": "Mentor",
+        "description": "A master local craftsman who uses his skill to create the wicker husband, enabling the central dynamic."
+      },
+      {
+        "name": "Village Elite / Socialite (Elizabeth Debicki)",
+        "role": "Villain",
+        "description": "A high-status villager whose jealousy and devotion to strict social hierarchy spark antagonism against the unconventional couple."
+      },
+      {
+        "name": "Town Gossip / Local Resident (Richard E. Grant)",
+        "role": "Comic Relief",
+        "description": "An eccentric member of the community whose judgmental observations provide humorous commentary on village life."
+      },
+      {
+        "name": "Village Community Members (Marli Siu, Nabhaan Rizwan, Kiell Smith-Bynoe, Gustav Lindh, Ella Bruccoleri)",
+        "role": "Supporting Character",
+        "description": "Townsfolk whose collective envy, fascination, and social prejudice fuel the upheaval surrounding the wicker creation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Outcast Woman",
+        "target": "Wicker Husband",
+        "description": "Husband/Wife (Romance)"
+      },
+      {
+        "source": "Basketmaker",
+        "target": "Wicker Husband",
+        "description": "Creator/Creation"
+      },
+      {
+        "source": "Outcast Woman",
+        "target": "Basketmaker",
+        "description": "Client/Craftsperson"
+      },
+      {
+        "source": "Local Community",
+        "target": "Outcast Woman",
+        "description": "Hostile Villagers / Ostracizers"
+      },
+      {
+        "source": "Local Community",
+        "target": "Wicker Husband",
+        "description": "Threat / Object of Jealousy"
+      }
+    ],
+    "seo": {
+      "slug": "wicker",
+      "jsonLd": {
+        "name": "Wicker",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An outcast in a fishing village commissions a husband for herself made out of wicker from the local basketmaker, but her unexpected romance with the intricate creation sparks jealousy and threatens the village's social order."
+      },
+      "keywords": [
+        "Wicker movie",
+        "Wicker film",
+        "Wicker romance movie",
+        "indie drama",
+        "fantasy romance film"
+      ],
+      "canonical": "[https://movnix.com/movie/wicker](https://movnix.com/movie/wicker)",
+      "metaTitle": "Wicker - Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Wicker - Official Movie Details",
+        "og:description": "An outcast's wicker-woven husband brings unexpected romance—and dangerous jealousy—to a quiet fishing village."
+      },
+      "twitterCard": {
+        "twitter:title": "Wicker - Official Movie Details",
+        "twitter:description": "An outcast's wicker-woven husband brings unexpected romance—and dangerous jealousy—to a quiet fishing village."
+      },
+      "metaDescription": "An outcast orders a husband woven from wicker, but their unexpected romance sparks jealousy and threatens a fishing village's delicate social order."
+    },
+    "faq": [
+      {
+        "answer": "Wicker follows an outcast woman living in a fishing village who commissions the local basketmaker to create a husband for her out of wicker. Unexpectedly, a genuine romance develops between her and the intricate creation, which sparks jealousy and threatens the social order of the village.",
+        "question": "What is the main plot of Wicker?"
+      },
+      {
+        "answer": "The film blends dark fairy-tale romance, drama, and folk-inspired fantasy.",
+        "question": "What is the dominant genre of Wicker?"
+      },
+      {
+        "answer": "No, Wicker is a standalone feature film and not part of an existing franchise, series, or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Wicker is adapted from the short story 'The Wicker Husband' by Ursula Wills-Jones.",
+        "question": "Is Wicker based on a book or original screenplay?"
+      },
+      {
+        "answer": "No, there are no additional scenes or post-credits sequences after the final credits roll.",
+        "question": "Is there a post-credits scene in Wicker?"
+      },
+      {
+        "answer": "The narrative explores themes of loneliness, societal judgment, unconditional love, human desire, and the fear of the unconventional.",
+        "question": "Who are the primary themes aimed at in the story?"
+      },
+      {
+        "answer": "The story is set in a secluded, close-knit seaside fishing village.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Due to mature thematic elements surrounding romance, social hostility, and adult drama, Wicker is generally intended for mature audiences.",
+        "question": "Is Wicker suitable for children?"
+      },
+      {
+        "answer": "The basketmaker acts as the craftsman who brings the woman's vision to life, crafting the intricate wicker husband that sets the emotional and central conflict of the story in motion.",
+        "question": "What role does the basketmaker play in the narrative?"
+      },
+      {
+        "answer": "The unexpected warmth and romantic bond between the outcast woman and her wicker companion spark resentment, ridicule, and jealousy among the villagers, challenging their traditional social dynamic.",
+        "question": "Why does the wicker husband cause conflict in the village?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Uncanny and unsettling folk-tale elements involving an animated or beloved wicker sculpture."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild thematic insults or infrequent harsh vocabulary typical of a tense village conflict."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Potential mild physical conflict stemming from village jealousy and hostility toward the outcast."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no explicit substance use depicted."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild romantic and sensual themes between the outcast protagonist and her creation."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to strong emotional themes of social ostracization, yearning, jealousy, and mob mentality."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 8,
+      "mystery": 6,
+      "romance": 9,
+      "science": 1,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-07-31 17:02:03.945229",
+    "updated_at": "2026-07-31 17:02:03.945229"
+  }
 }
