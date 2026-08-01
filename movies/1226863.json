@@ -10,9 +10,9 @@
     "budget": "110000000",
     "revenue": "1011157101",
     "status": "Released",
-    "popularity": 98.58,
-    "voteAverage": 8.264,
-    "voteCount": 3275,
+    "popularity": 95.1538,
+    "voteAverage": 8.268,
+    "voteCount": 3295,
     "homepage": "https://www.thesupermariogalaxymovie.com",
     "posterPath": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
@@ -2464,6 +2464,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/4NrLXvvrECj1EXLiyl78ddFAUa5.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "width": 3840,
       "height": 2160,
@@ -3013,8 +3020,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.264,
-      "votesCount": 3275
+      "ratingValue": 8.268,
+      "votesCount": 3295
     },
     {
       "source": "imdb",
@@ -3164,24 +3171,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 5720,
-      "name": "Chris Meledandri",
-      "profilePath": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1275812,
-      "name": "Shigeru Miyamoto",
-      "profilePath": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 113901,
       "name": "Michael Jelenic",
       "profilePath": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
@@ -3197,6 +3186,24 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1275812,
+      "name": "Shigeru Miyamoto",
+      "profilePath": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5720,
+      "name": "Chris Meledandri",
+      "profilePath": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -3309,7 +3316,16 @@
       ]
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Peacock Premium",
+          "logo": "/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+        },
+        {
+          "name": "Peacock Premium Plus",
+          "logo": "/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",

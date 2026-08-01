@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 36.8634,
-    "voteAverage": 2,
-    "voteCount": 1,
+    "popularity": 96.1819,
+    "voteAverage": 3.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1510795",
     "posterPath": "/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
     "backdropPath": "/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
@@ -87,6 +87,13 @@
       "filePath": "/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg",
       "width": 821,
       "height": 1231,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6vPUy1NfDWy3OswowgxOqC49KyR.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -206,8 +213,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 2,
-      "votesCount": 1
+      "ratingValue": 3.5,
+      "votesCount": 2
     },
     {
       "source": "imdb",
@@ -464,5 +471,264 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1510795/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1510795,
+    "hash": "b3c18dbe89f82ccbd409985cd7be1ae604e71cec7379f5a23627197de6e08d0d",
+    "summary_one_sentence": "Spanning three distinct eras from colonial 1775 to a desolate 2050, Shake, Rattle & Roll Evil Origins presents three terrifying tales of cloistered nuns battling demonic forces, partygoers hunted by a killer, and survivors navigating a post-apocalyptic Philippines overrun by legendary aswangs.",
+    "summary_short": "Shake, Rattle & Roll Evil Origins presents a chilling triptych of horror across different periods of Philippine history and future. In 1775, a secluded convent becomes a battleground for survival when cloistered nuns inadvertently unleash an ancient, malevolent force. Shifting to 2025, a festive Halloween masquerade ball descends into chaos as a relentless killer stalks a group of friends. Finally, in 2050, humanity struggles for existence in a dystopian wasteland dominated by predatory aswangs.",
+    "summary_long": "Unfolding across three distinct chapters, Shake, Rattle & Roll Evil Origins explores the terrifying evolution of darkness in the Philippines through time. The anthology opens in 1775 during the Spanish colonial era, where a group of nuns must fight to survive the night after an unholy evil is liberated within their remote convent walls. As their holy sanctuary turns into a house of horror, the sisters must rely on faith and grit to withstand the demonic threat. The narrative then shifts to 2025, focusing on a group of friends attending an exclusive Halloween masquerade ball. What begins as a night of celebration quickly devolves into a fight for survival when a serial killer turns the venue into a slaughterhouse. Trapped inside, the friends are forced to navigate suspenseful twists and deadly traps. The final act moves forward to 2050, portraying a bleak, post-apocalyptic vision of the Philippines that has fallen completely under the tyrannical rule of monstrous aswangs. Amidst the ruined landscape, a small band of human survivors must navigate deadly terrain and outsmart apex predators to keep humanity alive. Together, these three strands construct a relentless narrative on terror, folklore, and the enduring nature of evil.",
+    "synopsis": "Blending historic supernatural horror, modern slasher thrills, and futuristic creature feature storytelling, Shake, Rattle & Roll Evil Origins delivers a multi-era anthology of survival. Beginning in 1775 during Spanish colonial rule, a secluded order of nuns finds their convent invaded by a newly unleashed evil, turning sacred grounds into a terrifying nightmare. In 2025, a high-society Halloween masquerade party becomes a deadly game of cat-and-mouse when a serial killer begins hunting attendees one by one. The final segment leaps into 2050, revealing a ruined, post-apocalyptic Philippines where mythical aswangs have claimed dominion over earth's remnants, forcing remaining humans to fight for everyday survival. The film weaves dark folklore and intense suspense into a sprawling horror saga.",
+    "keywords": [
+      "anthology horror",
+      "filipino folklore",
+      "aswang",
+      "spanish colonial period",
+      "cloister",
+      "nuns in peril",
+      "ancient evil",
+      "halloween masquerade",
+      "serial killer",
+      "slasher",
+      "post-apocalyptic",
+      "multi-era narrative",
+      "survival horror",
+      "creature feature"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Unleashed Evil",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Apocalyptic Horror",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Isolation and Fear",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dreadful",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The desperate struggles in each timeline reach a peak as the ultimate origin and true depth of the evil are confronted, forcing characters in every era into high-stakes battles for their lives and souls.",
+      "conflict": "Across each era, humanity confronts different manifestations of evil, beginning with the accidental release of an ancient force in the cloister, a deadly serial killer's rampage at the masquerade, and the overarching dominion of demonic lore over society in the future.",
+      "resolution": "The overarching origin of the evil that binds these three eras together is revealed, illustrating how actions taken in the past directly reshaped the dark future of the Philippines.",
+      "introduction": "The narrative introduces three distinct timelines across Philippine history: 1775, where nuns face a sinister threat in a Spanish colonial cloister; 2025, where friends attend a fateful Halloween masquerade ball; and 2050, where humanity struggles to survive in a post-apocalyptic future ruled by the aswang.",
+      "risingAction": "Tension builds across all three time periods as the nuns fight to survive the night inside their sanctuary, the partygoers attempt to escape the ball amidst chaos, and the future survivors uncover the sinister historical thread connecting all three events."
+    },
+    "characters": [
+      {
+        "name": "Sister Maria (Carla Abellana)",
+        "role": "Hero",
+        "description": "A devout nun in 1775 who leads the survival effort against the demonic forces unleashed within the cloister."
+      },
+      {
+        "name": "The Serial Killer (Richard Gutierrez)",
+        "role": "Villain",
+        "description": "A ruthless murderer stalking and attacking guests during the 2025 Halloween masquerade ball."
+      },
+      {
+        "name": "Aswang Overlord (Ivana Alawi)",
+        "role": "Villain",
+        "description": "The terrifying ruler of the post-apocalyptic Philippines in 2050 who subjugates the remaining human survivors."
+      },
+      {
+        "name": "Mother Superior (Janice de Belen)",
+        "role": "Mentor",
+        "description": "An elder nun who possesses ancient knowledge regarding the evil entity trapped beneath the convent."
+      },
+      {
+        "name": "Veterana Resistance Leader (Manilyn Reynes)",
+        "role": "Mentor",
+        "description": "A hardened survivor in 2050 guiding the younger generation of rebels against the Aswang regime."
+      },
+      {
+        "name": "Party Host (Loisa Andalio)",
+        "role": "Supporting Character",
+        "description": "A socialite who organizes the fateful 2025 masquerade ball and helps her friends navigate the horror."
+      },
+      {
+        "name": "Hero's Ally (Francine Diaz)",
+        "role": "Supporting Character",
+        "description": "A key member of the 2025 friend group trying to escape the murderous rampage."
+      },
+      {
+        "name": "Scared Friend (Seth Fedelin)",
+        "role": "Comic Relief",
+        "description": "A nervous companion at the masquerade ball whose comedic panic breaks the intense tension."
+      },
+      {
+        "name": "Wandering Scavenger (JM Ibarra)",
+        "role": "Anti Hero",
+        "description": "A solitary figure in 2050 who acts out of self-interest but ultimately helps the resistance fighting the Aswang."
+      },
+      {
+        "name": "Novice Nun (Fyang Smith)",
+        "role": "Supporting Character",
+        "description": "A young initiate in 1775 caught in the middle of the terror inside the convent."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mother Superior (1775)",
+        "target": "Sister Maria (1775)",
+        "description": "Mentorship / Fellow Nuns surviving the cloister siege"
+      },
+      {
+        "source": "Sister Maria (1775)",
+        "target": "The Released Evil Entity (1775)",
+        "description": "Adversaries / Target of ancient curse"
+      },
+      {
+        "source": "Halloween Masquerade Group (2025)",
+        "target": "The Serial Killer (2025)",
+        "description": "Victims / Hunter and Prey"
+      },
+      {
+        "source": "Human Resistance Leader (2050)",
+        "target": "Aswang Overlord (2050)",
+        "description": "Rivals / Opposing forces in post-apocalyptic Philippines"
+      },
+      {
+        "source": "The Released Evil Entity (1775)",
+        "target": "Aswang Overlord (2050)",
+        "description": "Ancestral Origin / Evolutionary Descendant"
+      }
+    ],
+    "seo": {
+      "slug": "shake-rattle-roll-evil-origins",
+      "jsonLd": {
+        "name": "Shake, Rattle & Roll Evil Origins",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Anthology"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 1775 during the Spanish colonial period in the Philippines, nuns attempt to survive the night after an unknown evil is freed in their cloister. In 2025, friends attend a Halloween masquerade ball attacked by a serial killer. In 2050, a post-apocalyptic Philippines is ruled by the aswang."
+      },
+      "keywords": [
+        "Shake Rattle and Roll Evil Origins",
+        "Shake Rattle Roll Evil Origins",
+        "Filipino horror movie",
+        "Aswang horror movie",
+        "Philippine horror anthology"
+      ],
+      "canonical": "[https://movnix.com/movie/shake-rattle-roll-evil-origins](https://movnix.com/movie/shake-rattle-roll-evil-origins)",
+      "metaTitle": "Shake, Rattle & Roll Evil Origins - Official Overview & Details",
+      "openGraph": {
+        "og:title": "Shake, Rattle & Roll Evil Origins - Movie Overview",
+        "og:description": "Three eras of terror collide in Shake, Rattle & Roll Evil Origins—from colonial 1775 to a post-apocalyptic 2050 ruled by the aswang."
+      },
+      "twitterCard": {
+        "twitter:title": "Shake, Rattle & Roll Evil Origins",
+        "twitter:description": "Three eras of terror collide in Shake, Rattle & Roll Evil Origins—from colonial 1775 to a post-apocalyptic 2050 ruled by the aswang."
+      },
+      "metaDescription": "Explore Shake, Rattle & Roll Evil Origins: A horror anthology spanning 1775 Spanish era, a 2025 killer party, and a 2050 post-apocalyptic aswang-ruled future."
+    },
+    "faq": [
+      {
+        "answer": "Yes, 'Shake, Rattle & Roll Evil Origins' is part of the long-running Philippine horror anthology franchise, 'Shake, Rattle & Roll', famous for featuring multiple distinct horror stories within a single film.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is anthology horror, blending period supernatural horror, slasher, and post-apocalyptic creature feature elements across its three segments.",
+        "question": "What is the dominant genre of Shake, Rattle & Roll Evil Origins?"
+      },
+      {
+        "answer": "The movie consists of three distinct storylines set across different time periods: 1775 during the Spanish colonial era, 2025 in the present day, and a futuristic 2050.",
+        "question": "How many segments are featured in this movie?"
+      },
+      {
+        "answer": "Set during the Spanish colonial period in the Philippines, the 1775 segment follows nuns who must try to survive the night inside their cloister after an unknown evil is accidentally unleashed.",
+        "question": "What is the plot of the 1775 segment?"
+      },
+      {
+        "answer": "In the 2025 segment, a group of friends attends a lavish Halloween masquerade ball that turns into a horrific night of terror when a serial killer attacks the party.",
+        "question": "What happens in the 2025 segment?"
+      },
+      {
+        "answer": "Fast-forwarding to 2050, this segment explores a post-apocalyptic Philippines where society has fallen and the land is ruled by the monstrous aswang.",
+        "question": "What takes place in the 2050 segment?"
+      },
+      {
+        "answer": "Yes, the film prominently features the aswang, a shape-shifting creature from classic Philippine folklore and mythology, in its post-apocalyptic chapter.",
+        "question": "Does the movie feature monsters from Philippine folklore?"
+      },
+      {
+        "answer": "While each story takes place in a completely different era (1775, 2025, and 2050), they are bound together by the overarching theme of evil's origins and its evolution throughout history and into the future.",
+        "question": "Are the three storylines in the film connected?"
+      },
+      {
+        "answer": "As is standard for anthology horror films in the franchise, audiences are encouraged to stay through the credits for potential bonus stingers, extra scares, or teasers for future chapters.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The movie is targeted at fans of horror anthologies, Filipino folklore, slasher films, and apocalyptic supernatural thrillers.",
+        "question": "Who is the target audience for Shake, Rattle & Roll Evil Origins?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High levels of horror involving demonic cloister threats, slasher violence at a party, and post-apocalyptic aswang creature horror."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language standard for high-stress horror and slasher situations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Strong violent themes including slasher attacks by a serial killer, supernatural cloister attacks, and a dark post-apocalyptic monster-ruled world."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Potential light alcohol or party substance presence during the masquerade ball scene."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by survival horror, mortal danger, and apocalyptic dread across multiple timelines."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 8,
+      "mystery": 8,
+      "romance": 1,
+      "science": 5,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-31 17:22:23.475361",
+    "updated_at": "2026-07-31 17:22:23.475361"
+  }
 }

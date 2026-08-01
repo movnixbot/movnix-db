@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.1795,
-    "voteAverage": 7.5,
-    "voteCount": 4,
+    "popularity": 6.0652,
+    "voteAverage": 5.917,
+    "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1497463",
-    "posterPath": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "posterPath": "/sibLxfckIiI821iG00YpXopY4LG.jpg",
     "backdropPath": "/5RV8HvB5CJXsiA9j49gQvCWPkdo.jpg",
     "collectionId": null
   },
@@ -75,7 +75,7 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+      "filePath": "/sibLxfckIiI821iG00YpXopY4LG.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -87,6 +87,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/sibLxfckIiI821iG00YpXopY4LG.jpg",
+      "width": 834,
+      "height": 1200,
+      "aspectRatio": 0.695,
+      "type": "poster"
     },
     {
       "filePath": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
@@ -122,13 +129,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/uxKCKiYdhl27gxWjLuccz8NfSeH.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.5,
-      "votesCount": 4
+      "ratingValue": 5.917,
+      "votesCount": 6
     },
     {
       "source": "crawled",
@@ -228,7 +242,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "ES",
+      "title": "todo lo que nunca fuimos",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt37284855",
     "wikidataId": null,
