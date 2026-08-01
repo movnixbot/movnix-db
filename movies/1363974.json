@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.2361,
-    "voteAverage": 6.4,
-    "voteCount": 10,
+    "popularity": 13.3239,
+    "voteAverage": 6.5,
+    "voteCount": 11,
     "homepage": "https://slime-movie-2.com",
     "posterPath": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
     "backdropPath": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
@@ -297,6 +297,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/qD8lZenxZOd5ERe7Bt3Uu1jGECZ.jpg",
+      "width": 1600,
+      "height": 2262,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
       "filePath": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
       "width": 1600,
       "height": 900,
@@ -363,8 +370,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.4,
-      "votesCount": 10
+      "ratingValue": 6.5,
+      "votesCount": 11
     },
     {
       "source": "imdb",
@@ -606,7 +613,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Crunchyroll Amazon Channel",
+          "logo": "/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
+        }
+      ],
       "buy": []
     }
   },
