@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 15.9679,
-    "voteAverage": 7.235,
-    "voteCount": 1101,
+    "popularity": 15.5453,
+    "voteAverage": 7.241,
+    "voteCount": 1109,
     "homepage": "https://www.netflix.com/title/81319485",
     "posterPath": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
     "backdropPath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
@@ -661,6 +661,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/tkHGRwG5ALfDrLXuZVlnUXnTGFV.jpg",
+      "width": 832,
+      "height": 1248,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
       "width": 3840,
       "height": 2160,
@@ -1037,13 +1044,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/eba91upDRQ1FoqLXQc8wp2jSkAf.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.235,
-      "votesCount": 1101
+      "ratingValue": 7.241,
+      "votesCount": 1109
     },
     {
       "source": "imdb",
@@ -1193,24 +1207,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 959442,
-      "name": "Guy Heeley",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 23227,
-      "name": "Steven Knight",
-      "profilePath": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 212240,
       "name": "Tom Harper",
       "profilePath": "/bt5yUl0oEPjSVwt8ZlFuQrxhv0Y.jpg",
@@ -1229,9 +1225,27 @@
       "order": null
     },
     {
+      "tmdbPersonId": 23227,
+      "name": "Steven Knight",
+      "profilePath": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2037,
       "name": "Cillian Murphy",
       "profilePath": "/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 959442,
+      "name": "Guy Heeley",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
