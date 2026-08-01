@@ -10,9 +10,9 @@
     "budget": "28000000",
     "revenue": "132227793",
     "status": "Released",
-    "popularity": 38.0465,
-    "voteAverage": 6.928,
-    "voteCount": 1387,
+    "popularity": 38.7545,
+    "voteAverage": 6.917,
+    "voteCount": 1406,
     "homepage": "https://a24films.com/films/the-drama",
     "posterPath": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
     "backdropPath": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
@@ -756,6 +756,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/es6gCx4FDKohYjMlTpy7xneyldI.jpg",
+      "width": 720,
+      "height": 1026,
+      "aspectRatio": 0.702,
+      "type": "poster"
+    },
+    {
       "filePath": "/hLh6Ivz2Iyl0dr1QGN11GMiFYIh.jpg",
       "width": 545,
       "height": 800,
@@ -1477,13 +1484,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/es6gCx4FDKohYjMlTpy7xneyldI.jpg",
-      "width": 720,
-      "height": 1026,
-      "aspectRatio": 0.702,
-      "type": "poster"
-    },
-    {
       "filePath": "/5QsvFU8YaGvfXv7MamgWu1l3AmK.jpg",
       "width": 736,
       "height": 981,
@@ -1523,6 +1523,20 @@
       "width": 735,
       "height": 1057,
       "aspectRatio": 0.695,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2ZQXtqlSFOYD9Sp8CoK2cUyIHhv.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/w4HtYb7XiOU1kNZl6xltXf7NBX4.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -2152,8 +2166,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.928,
-      "votesCount": 1387
+      "ratingValue": 6.917,
+      "votesCount": 1406
     },
     {
       "source": "imdb",
@@ -2170,7 +2184,7 @@
     {
       "tmdbPersonId": 505710,
       "name": "Zendaya",
-      "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+      "profilePath": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
       "character": "Emma",
       "job": "Actor",
       "department": "Acting",
@@ -2312,15 +2326,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1280021,
-      "name": "Kristoffer Borgli",
-      "profilePath": "/ftLljVAuKvECl8rAG7JbiGANy8P.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1145520,
       "name": "Ari Aster",
       "profilePath": "/45lOHyHwdMgyKm6u3jwLtyfwOjc.jpg",
@@ -2330,18 +2335,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 131399,
-      "name": "Lars Knudsen",
-      "profilePath": "/cQzlwxBM0UEKcWfoL0cR8PLBLCW.jpg",
+      "tmdbPersonId": 2339011,
+      "name": "Tyler Campellone",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 2339011,
-      "name": "Tyler Campellone",
-      "profilePath": null,
+      "tmdbPersonId": 1280021,
+      "name": "Kristoffer Borgli",
+      "profilePath": "/ftLljVAuKvECl8rAG7JbiGANy8P.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 131399,
+      "name": "Lars Knudsen",
+      "profilePath": "/cQzlwxBM0UEKcWfoL0cR8PLBLCW.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -2403,7 +2417,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max Amazon Channel",
+          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
