@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 2.6677,
+    "popularity": 2.7245,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://klaraandthesun.movie",
@@ -493,5 +493,249 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/858035/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 858035,
+    "hash": "b2668f6672d8283da744a69bfabf7bd109aef90f9ae09ba5f99d592f5c47f5db",
+    "summary_one_sentence": "An empathetic Artificial Friend named Klara forms a deep, heartwarming bond with a fragile young girl, bringing healing and hope to a grieving family.",
+    "summary_short": "In a near-future world, an artificial companion named Klara longs to find a loving home and fulfill her purpose. Upon meeting Josie, a young girl struggling with health issues and a strained family life, Klara senses an instant connection. Through her unwavering loyalty, innocent perspective, and gentle presence, Klara helps ease the household's heavy emotional burden. Together, they form a profound relationship that illuminates the power of love and devotion.",
+    "summary_long": "Klara is an extraordinarily observant Artificial Friend who desires nothing more than to find a home where she can make a meaningful difference. Her journey changes forever when she meets Josie, a fragile girl dealing with a fraught relationship with her mother alongside the residual grief of a past family loss. Recognizing a kindred spirit in Josie, Klara joins the household, determined to be the devoted companion the young girl needs. As Josie navigates her delicate health and emotional struggles, Klara approaches the human world with innocent wonder and profound devotion. She carefully observes the complex dynamics between Josie and her mother, seeking ways to bring harmony back to their lives. Despite the underlying tensions and sorrow in the home, Klara's gentle optimism acts as a guiding light. Her unconditional loyalty gradually begins to repair emotional ruptures and bring comfort to the family. Ultimately, Klara's dedication demonstrates how empathy and love can transcend artificial boundaries to heal human hearts.",
+    "synopsis": "Klara and the Sun follows the emotional story of Klara, an Artificial Friend designed to provide companionship to young people. When Klara is adopted by Josie, a sensitive girl living under the shadow of family tragedy and a tense relationship with her mother, Klara steps into a environment marked by hidden grief and unspoken love. Through her keen powers of observation and quiet devotion, Klara begins to transform the atmosphere of the household. The narrative gracefully explores themes of sacrifice, connection, and maternal love, presenting a heartwarming and thought-provoking look at how genuine devotion can bring hope to a broken world.",
+    "keywords": [
+      "artificial intelligence",
+      "artificial friend",
+      "dystopian society",
+      "loneliness and connection",
+      "devotion and loyalty",
+      "substitute child",
+      "human condition",
+      "mother-daughter relationship",
+      "sacrifice",
+      "observational narrator",
+      "childhood illness",
+      "solar energy",
+      "innocence",
+      "grief and loss"
+    ],
+    "themes": [
+      {
+        "theme": "Artificial Intelligence and Consciousness",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Love and Sacrifice",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Grief, Loss, and Family Dynamics",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Loneliness and Companionship",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Humanity and What It Means to Be Human",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Introspective",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "Josie's illness reaches a critical, life-or-death turning point, putting Klara's devotion and belief in the Sun's miraculous intervention to its ultimate test.",
+      "conflict": "Klara becomes integrated into Josie's home and learns that Josie suffers from a dangerous illness caused by 'lifting,' while also discovering the hidden emotional motives and grief driving Josie's mother.",
+      "resolution": "Josie recovers and moves forward into adulthood, leaving Klara to reflect peacefully on her fulfilled purpose, the nature of memories, and the mystery of human love.",
+      "introduction": "Klara, an extraordinarily observant Artificial Friend (AF), observes the human world from a store window before being chosen by Josie, a frail and sickly teenager living in a high-pressure future society.",
+      "risingAction": "As Josie's health turns precarious, Klara develops a unique, devotion-like faith in the Sun's restorative power and undertakes a quiet, perilous quest across the nearby fields to perform a special sacrifice on Josie's behalf."
+    },
+    "characters": [
+      {
+        "name": "Klara",
+        "role": "Hero",
+        "description": "An observant Artificial Friend with innocent wonder and unwavering loyalty who seeks to heal Josie and her family."
+      },
+      {
+        "name": "Josie",
+        "role": "Supporting Character",
+        "description": "A fragile young girl dealing with illness and a complex family history who forms a deep bond with Klara."
+      },
+      {
+        "name": "Josie's Mother (Chrissie)",
+        "role": "Supporting Character",
+        "description": "A mother grieving past loss and fiercely protective, whose fraught relationship with Josie drives much of the emotional tension."
+      },
+      {
+        "name": "Rick",
+        "role": "Supporting Character",
+        "description": "Josie's close childhood friend and neighbor who shares a unique bond with her outside the social norms."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Klara",
+        "target": "Josie",
+        "description": "Artificial Friend and Companion"
+      },
+      {
+        "source": "Josie",
+        "target": "Chrissie (The Mother)",
+        "description": "Daughter and Mother"
+      },
+      {
+        "source": "Josie",
+        "target": "Rick",
+        "description": "Childhood Best Friends and Romantic Interest"
+      },
+      {
+        "source": "Klara",
+        "target": "Chrissie (The Mother)",
+        "description": "Artificial Friend and Employer (Intended Substitute)"
+      },
+      {
+        "source": "Josie",
+        "target": "Paul (The Father)",
+        "description": "Daughter and Father"
+      },
+      {
+        "source": "Chrissie (The Mother)",
+        "target": "Paul (The Father)",
+        "description": "Ex-Husband and Ex-Wife / Co-parents"
+      },
+      {
+        "source": "Klara",
+        "target": "The Sun",
+        "description": "Devotee and Deified Source of Healing"
+      },
+      {
+        "source": "Klara",
+        "target": "Manager",
+        "description": "Store Product and Mentor/Guide"
+      }
+    ],
+    "seo": {
+      "slug": "klara-and-the-sun",
+      "jsonLd": {
+        "name": "Klara and the Sun",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world."
+      },
+      "keywords": [
+        "Klara and the Sun movie",
+        "Klara and the Sun plot",
+        "Klara and the Sun film",
+        "Kazuo Ishiguro movie adaptation",
+        "Klara and the Sun synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/klara-and-the-sun](https://movnix.com/movie/klara-and-the-sun)",
+      "metaTitle": "Klara and the Sun (2025) - Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "Klara and the Sun - Movie Overview | Movnix",
+        "og:description": "Follow Klara, an Artificial Friend whose unwavering loyalty and innocent wonder help heal a grieving family in Klara and the Sun."
+      },
+      "twitterCard": {
+        "twitter:title": "Klara and the Sun - Movie Overview | Movnix",
+        "twitter:description": "Follow Klara, an Artificial Friend whose unwavering loyalty and innocent wonder help heal a grieving family in Klara and the Sun."
+      },
+      "metaDescription": "Discover Klara and the Sun. An Artificial Friend named Klara forms a powerful bond with Josie, bringing hope and healing to a grieving family."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Klara and the Sun is based on the acclaimed 2021 speculative fiction novel written by Nobel Prize-winning author Kazuo Ishiguro.",
+        "question": "Is Klara and the Sun based on a book?"
+      },
+      {
+        "answer": "The dominant genre is sci-fi drama, combining futuristic speculative technology with deep emotional themes regarding love, human connection, and grief.",
+        "question": "What is the dominant genre of Klara and the Sun?"
+      },
+      {
+        "answer": "No, Klara and the Sun is a standalone story and is not connected to any cinematic universe or book franchise.",
+        "question": "Is Klara and the Sun part of a franchise?"
+      },
+      {
+        "answer": "The story centers on Klara, an observant solar-powered Artificial Friend (AF), and Josie, a frail young girl who selects Klara to be her companion.",
+        "question": "Who are the primary characters in the story?"
+      },
+      {
+        "answer": "No, Klara and the Sun is a self-contained story without any teaser or post-credits scene.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "An Artificial Friend (AF) is a sophisticated humanoid solar-powered robot created to provide companionship and lessen social isolation for adolescents.",
+        "question": "What is an Artificial Friend (AF) in this world?"
+      },
+      {
+        "answer": "The central themes revolve around what it truly means to love, whether a human heart can ever be replicated, and how families cope with grief and illness.",
+        "question": "What is the central theme of Klara and the Sun?"
+      },
+      {
+        "answer": "The feature film adaptation of Kazuo Ishiguro's novel was directed by Taika Waititi.",
+        "question": "Who directed the feature film adaptation?"
+      },
+      {
+        "answer": "Klara, being solar-powered, views the Sun as a living, benevolent deity with extraordinary healing powers, prompting her to make sacrifices in hopes of saving Josie.",
+        "question": "What is the significance of the Sun in the title?"
+      },
+      {
+        "answer": "While it lacks extreme violence or explicit content, it tackles heavy emotional subjects such as terminal illness, loss, and mortality, making it best suited for teenagers and adults.",
+        "question": "Is Klara and the Sun suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Mild underlying dystopian tension and existential dread, but no traditional horror or jumpscares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Very mild and infrequent strong language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence; themes deal with illness rather than physical conflict."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minor references to medication, medical procedures, and casual adult alcohol consumption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romantic material."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional weight surrounding serious childhood illness, family grief, loss, and artificial life existentialism."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 1,
+      "mystery": 5,
+      "romance": 3,
+      "science": 8,
+      "suspense": 5,
+      "violence": 1
+    },
+    "created_at": "2026-07-31 13:06:28.860839",
+    "updated_at": "2026-07-31 13:06:28.860839"
+  }
 }

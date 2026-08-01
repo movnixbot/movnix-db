@@ -10,9 +10,9 @@
     "budget": "215000000",
     "revenue": "758725893",
     "status": "Released",
-    "popularity": 45.5232,
-    "voteAverage": 6.744,
-    "voteCount": 18738,
+    "popularity": 63.5618,
+    "voteAverage": 6.7,
+    "voteCount": 18752,
     "homepage": "https://www.sonypictures.com/movies/theamazingspiderman",
     "posterPath": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
     "backdropPath": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
@@ -2520,8 +2520,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.744,
-      "votesCount": 18738
+      "ratingValue": 6.7,
+      "votesCount": 18752
     },
     {
       "source": "imdb",
@@ -2676,24 +2676,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 20204,
-      "name": "James Vanderbilt",
-      "profilePath": "/pg4kZ7a3GDoSqmuF8Tmw4jw5L6N.jpg",
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 87742,
-      "name": "Marc Webb",
-      "profilePath": "/20mVzuzAwkznDVp7HJnTpVvoEvx.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 7627,
       "name": "Laura Ziskin",
       "profilePath": "/nw6ZfMnDdoeWJCMiM4mQp8arZD1.jpg",
@@ -2712,12 +2694,30 @@
       "order": null
     },
     {
+      "tmdbPersonId": 20204,
+      "name": "James Vanderbilt",
+      "profilePath": "/pg4kZ7a3GDoSqmuF8Tmw4jw5L6N.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 977941,
       "name": "Matt Tolmach",
       "profilePath": "/8mniHJVwoJdVpwxW278yJwz8c1T.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 87742,
+      "name": "Marc Webb",
+      "profilePath": "/20mVzuzAwkznDVp7HJnTpVvoEvx.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -2939,5 +2939,270 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1930/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1930,
+    "hash": "913c4cbf3732feaf71d01d0e632af63a6f9f3aa76337de06326086b2e35e6cbc",
+    "summary_one_sentence": "After discovering his late father's secret research, teenager Peter Parker gains spider-like superpowers and must protect New York City from a mutated reptilian monster known as the Lizard.",
+    "summary_short": "High school outcast Peter Parker gains extraordinary spider-like abilities after being bitten by a genetically modified spider at Oscorp laboratories. Driven by the tragic loss of his Uncle Ben, Peter adopts the vigilante identity of Spider-Man to fight crime across New York. Meanwhile, he navigates a romance with his classmate Gwen Stacy while uncovering secrets about his parents' sudden disappearance. When his father's former partner, Dr. Curt Connors, accidentally transforms into the monstrous Lizard, Peter must step up to stop a city-wide catastrophe.",
+    "summary_long": "Abandoning his ordinary high school life after a mysterious briefcase leads him to Oscorp, Peter Parker investigates the work of his late scientist father, Richard Parker. There, Peter crosses paths with Dr. Curt Connors, his father's former colleague who is working on cross-species genetics to regenerate lost limbs. Sneaking into a restricted lab, Peter is bitten by a genetically altered spider and soon develops superhuman strength, agility, and the ability to cling to surfaces. Tragic consequences follow when Peter lets a thief escape, leading to the murder of his beloved Uncle Ben, which inspires Peter to construct web-shooters and become the vigilante Spider-Man. As he tracks down criminals, Peter also sparks a relationship with Gwen Stacy, who turns out to be the daughter of Police Captain George Stacy. Meanwhile, Peter shares his father's missing algorithm with Dr. Connors to help complete the regeneration formula. Desperate to prove the serum's success to his superiors, Connors tests it on himself, temporarily restoring his missing arm but mutating into a giant, aggressive Lizard. Recognizing the danger Connors poses to New York City, Peter balances his personal grief and romantic life with his responsibility to protect others. In a climactic battle atop Oscorp Tower, Spider-Man and Captain Stacy combine forces to neutralize the Lizard's plan to release a mutagenic gas over the entire city.",
+    "synopsis": "The Amazing Spider-Man offers an origin story centered on Peter Parker, an uncommonly bright high school student carrying the emotional weight of his parents' mysterious abandonment years earlier. Raised by his devoted Uncle Ben and Aunt May, Peter's life changes dramatically when he discovers a hidden briefcase belonging to his father, leading him straight to Oscorp and geneticist Dr. Curt Connors. Upon acquiring extraordinary arachnid abilities, Peter undergoes a dramatic transformation—both physical and moral—as a tragic personal loss forces him to reconcile power with personal responsibility. Balancing his budding romance with intelligent classmate Gwen Stacy against growing tensions with the local police, Peter must embrace his destiny as a hero when a groundbreaking medical experiment goes disastrously wrong.",
+    "keywords": [
+      "teenage superhero",
+      "secret identity",
+      "bite by radioactive spider",
+      "high school drama",
+      "coming of age",
+      "vigilante justice",
+      "great power great responsibility",
+      "genetic mutation",
+      "hero origin story",
+      "masked crimefighter",
+      "dual life",
+      "loss of loved one",
+      "web slinger"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Double Life",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Responsibility",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Thrilling",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Spider-Man engages in a high-stakes battle atop a skyscraper to halt a disastrous device from unleashing a city-wide chemical mutation.",
+      "conflict": "After gaining extraordinary powers from a genetically modified spider bite, Peter must come to terms with his new abilities and the overwhelming personal responsibility that accompanies them.",
+      "resolution": "With the city saved, Peter honors a difficult personal promise, accepts his double life as a hero, and steps forward as New York's full-time protector.",
+      "introduction": "Peter Parker, an awkward high school student living with his Aunt May and Uncle Ben, navigates the typical challenges of adolescence while discovering his passion for science.",
+      "risingAction": "As Peter designs his suit and steps into the role of a masked vigilante, he faces a growing wave of crime in New York City alongside a dangerous new reptilian threat emerging from a top-secret science lab."
+    },
+    "characters": [
+      {
+        "name": "Peter Parker / Spider-Man",
+        "role": "Hero",
+        "description": "A high school student who gains spider-like powers and accepts the burden of responsibility to protect New York City."
+      },
+      {
+        "name": "Dr. Curt Connors / The Lizard",
+        "role": "Villain",
+        "description": "A Oscorp scientist who transforms into a dangerous reptilian creature after testing a regeneration formula on himself."
+      },
+      {
+        "name": "Uncle Ben Parker",
+        "role": "Mentor",
+        "description": "Peter's uncle whose moral guidance and tragically fateful death instill Peter's core sense of responsibility."
+      },
+      {
+        "name": "Gwen Stacy",
+        "role": "Supporting Character",
+        "description": "Peter's intelligent high school classmate and love interest who assists him in stopping Connors."
+      },
+      {
+        "name": "Captain George Stacy",
+        "role": "Supporting Character",
+        "description": "Gwen's father and a police captain who initially pursues Spider-Man before recognizing his good intentions."
+      },
+      {
+        "name": "Aunt May Parker",
+        "role": "Supporting Character",
+        "description": "Peter's loving aunt who provides emotional support and grounded parental care."
+      },
+      {
+        "name": "Dr. Rajit Ratha",
+        "role": "Supporting Character",
+        "description": "An Oscorp executive who pressures Dr. Connors to rush human trials, accelerating his transformation into the Lizard."
+      },
+      {
+        "name": "Flash Thompson",
+        "role": "Comic Relief",
+        "description": "A high school bully who picks on Peter early on, but later reveals a softer side as a enthusiastic Spider-Man fan."
+      },
+      {
+        "name": "Richard Parker",
+        "role": "Other",
+        "description": "Peter's father whose mysterious past research sets the story's events in motion."
+      },
+      {
+        "name": "Mary Parker",
+        "role": "Other",
+        "description": "Peter's mother who drops him off with Ben and May before disappearing alongside her husband."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Peter Parker",
+        "target": "Gwen Stacy",
+        "description": "Love Interest / High School Classmates"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Dr. Curt Connors",
+        "description": "Mentee and Opponent (Spider-Man vs. The Lizard)"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Ben Parker",
+        "description": "Uncle and Father Figure"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "May Parker",
+        "description": "Aunt and Guardian"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Captain George Stacy",
+        "description": "Adversaries turned Allies / Father of Gwen Stacy"
+      },
+      {
+        "source": "Dr. Curt Connors",
+        "target": "Richard Parker",
+        "description": "Former Scientific Research Partners"
+      },
+      {
+        "source": "Peter Parker",
+        "target": "Flash Thompson",
+        "description": "High School Bully turned Respectful Classmate"
+      }
+    ],
+    "seo": {
+      "slug": "the-amazing-spider-man",
+      "jsonLd": {
+        "name": "The Amazing Spider-Man",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man."
+      },
+      "keywords": [
+        "The Amazing Spider-Man",
+        "Peter Parker",
+        "Spider-Man movie",
+        "Marvel superhero",
+        "Spider-Man synopsis",
+        "high school superhero"
+      ],
+      "canonical": "[https://movnix.com/movie/the-amazing-spider-man](https://movnix.com/movie/the-amazing-spider-man)",
+      "metaTitle": "The Amazing Spider-Man - Synopsis, Cast & Details | Movnix",
+      "openGraph": {
+        "og:title": "The Amazing Spider-Man - Official Movie Overview",
+        "og:description": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man."
+      },
+      "twitterCard": {
+        "twitter:title": "The Amazing Spider-Man - Official Movie Overview",
+        "twitter:description": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man."
+      },
+      "metaDescription": "Discover the story of teenage Peter Parker as he balances high school life and superhuman superhero duties in The Amazing Spider-Man."
+    },
+    "faq": [
+      {
+        "answer": "The film follows high school teenager Peter Parker as he acquires spider-like superpowers after being bitten by a genetically modified spider. While uncovering clues about his parents' mysterious disappearance, he must step up as Spider-Man to stop Dr. Curt Connors, a scientist who transforms into the deadly Lizard.",
+        "question": "What is the main plot of The Amazing Spider-Man?"
+      },
+      {
+        "answer": "Yes, it is the first film in Sony's 'The Amazing Spider-Man' reboot duology, which was followed by 'The Amazing Spider-Man 2' in 2014. Andrew Garfield's Spider-Man also crosses over into Marvel's 'Spider-Man: No Way Home' (2021).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Andrew Garfield stars as Peter Parker / Spider-Man, alongside Emma Stone as Gwen Stacy, Rhys Ifans as Dr. Curt Connors / Lizard, and Martin Sheen and Sally Field as Uncle Ben and Aunt May.",
+        "question": "Who stars as Peter Parker / Spider-Man in the film?"
+      },
+      {
+        "answer": "The primary genres are Superhero, Action, Adventure, and Sci-Fi, balanced with a strong coming-of-age teen drama and romance.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "The primary villain is Dr. Curt Connors, an Oscorp geneticist who uses a limb-regeneration reptilian serum on himself, accidentally turning into the monstrous Lizard.",
+        "question": "Who is the primary villain in the film?"
+      },
+      {
+        "answer": "Yes, there is a mid-credits scene where Dr. Curt Connors is approached in a prison cell by a mysterious figure in shadow, setting up future storylines for Oscorp and the Sinister Six.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "It is completely unconnected in continuity. 'The Amazing Spider-Man' is a ground-up reboot featuring an updated origin story, a new director, and a completely new cast from Tobey Maguire's 2002–2007 film trilogy.",
+        "question": "How does this film connect to the earlier Sam Raimi Spider-Man trilogy?"
+      },
+      {
+        "answer": "The Amazing Spider-Man is rated PG-13 for intense sequences of action and violence.",
+        "question": "What is the MPAA rating for the movie?"
+      },
+      {
+        "answer": "The film was directed by Marc Webb, best known for directing the romantic comedy-drama '(500) Days of Summer'.",
+        "question": "Who directed The Amazing Spider-Man?"
+      },
+      {
+        "answer": "Gwen Stacy (played by Emma Stone) is the primary love interest. Mary Jane Watson does not appear in this movie.",
+        "question": "Is Gwen Stacy or Mary Jane Watson the main love interest in this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Mild horror elements including a reptilian monster transformation, dark sewer encounters, and suspenseful jumpscares."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild profanity and mild insults typical of a PG-13 action film."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate superhero action violence featuring sci-fi combat, destruction, and physical confrontations with a monstrous villain."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal depiction of alcohol or substance use, restricted to standard background adult settings."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Innocuous romantic themes, mild flirting, and kissing between high school teens."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional themes involving grief, loss of a parental figure, superhero burden, and high school bullying."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 5,
+      "emotion": 6,
+      "fantasy": 5,
+      "mystery": 6,
+      "romance": 6,
+      "science": 7,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-08-01 06:01:37.496319",
+    "updated_at": "2026-08-01 06:01:37.496319"
+  }
 }
