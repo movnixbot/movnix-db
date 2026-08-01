@@ -303,5 +303,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1493123/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1493123,
+    "hash": "a63e73013a6c6bf2e9e5df07dbb0b3e4f523ce27693c5647ebd71740806e7871",
+    "summary_one_sentence": "When a deal to free their kidnapped daughter falls through, a couple relies on commander SOVA and engineer SID to execute a daring rescue mission broadcast live to the world.",
+    "summary_short": "After their daughter is abducted into occupied territory, a couple's desperate attempt at a negotiated exchange catastrophically fails. Left with no peaceful options, commander SOVA and engineer SID launch an explosive military raid on the enemy stronghold. Accompanying the team is a journalist who streams the perilous operation live to a global audience. As the mission unfolds in real time, the journalist must choose between securing a safe escape or exposing the full truth.",
+    "summary_long": "In a region torn apart by hostile occupation, a couple faces nightmare circumstances when their young daughter is kidnapped and held deep within enemy-controlled land. Desperate to secure her freedom, they arrange a covert handoff, but the negotiation collapses into violence, leaving them out of options. Seeing no alternative, tactical commander SOVA and specialist engineer SID take charge, devising a high-risk extraction plan to infiltrate the enemy's fortified killhouse. An embedded journalist joins the strike team to record every move, streaming the raid live across the globe to bring international attention to the crisis. As SOVA leads the tactical push and SID bypasses the installation's lethal defenses, the team meets intense enemy resistance. Inside the complex, firefights erupt in every corridor, turning the rescue into a fight for sheer survival. Meanwhile, the journalist captures damning live footage that exposes deep-seated secrets and war crimes. With the enemy closing in and extraction routes compromised, the journalist is forced to make an agonizing moral decision between personal safety and transmitting the unvarnished truth.",
+    "synopsis": "Killhouse is an edge-of-your-seat war action drama following a high-stakes hostage extraction in heavily defended occupied territory. After a peaceful negotiation to save a kidnapped young girl fails, tactical commander SOVA and tech expert SID unite to launch a daring infiltration operation. The stakes escalate exponentially due to an embedded journalist who broadcasts the raw operation to a worldwide livestream. Balancing explosive military combat with high-tension human drama, the story investigates the harrowing cost of truth, media exposure, and family devotion under fire.",
+    "keywords": [
+      "hostage rescue",
+      "occupied territory",
+      "livestreamed conflict",
+      "journalist truth vs survival",
+      "daring operation",
+      "kidnapped child",
+      "failed deal",
+      "military commander",
+      "combat engineer",
+      "race against time",
+      "war zone drama",
+      "high-stakes mission",
+      "media manipulation",
+      "tactical action"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Truth vs. Self-Preservation",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Urgent",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Inside enemy lines, the rescue operation reaches a critical turning point as the journalist faces a defining crossroad: securing immediate personal escape or staying exposed to broadcast the full, unvarnished truth.",
+      "conflict": "Attempted negotiations collapse, causing a peaceful exchange to fail and leaving direct, dangerous intervention as the only remaining pathway to save the girl.",
+      "resolution": "The fallout of the journalist's choice echoes globally, revealing the true cost of the operation and bringing closure to the family's fight to save their daughter.",
+      "introduction": "A desperate couple faces every parent's worst nightmare when their daughter is kidnapped and taken into hostile occupied territory, setting a high-stakes emergency in motion.",
+      "risingAction": "Commander SOVA and engineer SID launch a daring clandestine infiltration into enemy-held territory, accompanied by a journalist broadcasting the high-stakes raid live to a global audience."
+    },
+    "characters": [
+      {
+        "name": "Commander SOVA (played by Serhiy Strelnykov)",
+        "role": "Hero",
+        "description": "A brilliant and brave special forces commander who leads a high-stakes, drone-assisted tactical operation into occupied territory to rescue hostages."
+      },
+      {
+        "name": "SID (played by Denis Kapustin)",
+        "role": "Supporting Character",
+        "description": "An inventive defense engineer and drone company commander who partners with SOVA to coordinate and execute the tech-driven rescue mission."
+      },
+      {
+        "name": "Anna (played by Alexandra Soroka)",
+        "role": "Hero",
+        "description": "A desperate mother who braves extreme dangers in occupied gray-zone territory to retrieve her kidnapped young daughter."
+      },
+      {
+        "name": "Enemy Commander / FSB Colonel (played by Oleksandr Rudko)",
+        "role": "Villain",
+        "description": "An antagonistic officer who orchestrates hostile blockades, ambushes, and hostage captivity within occupied territory."
+      },
+      {
+        "name": "The Journalist (played by Audrey McAlpine / Martin Hugh Henley)",
+        "role": "Supporting Character",
+        "description": "A reporter covering the frontlines who livestreams the tactical operation worldwide and must decide whether to save herself or expose the truth."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Desperate Couple",
+        "target": "Kidnapped Daughter",
+        "description": "Parents/Daughter"
+      },
+      {
+        "source": "Commander SOVA",
+        "target": "Engineer SID",
+        "description": "Commander/Engineer (Comrades)"
+      },
+      {
+        "source": "Desperate Couple",
+        "target": "Commander SOVA",
+        "description": "Allies/Operation Teammates"
+      },
+      {
+        "source": "Desperate Couple",
+        "target": "Engineer SID",
+        "description": "Allies/Operation Teammates"
+      },
+      {
+        "source": "Fearless Journalist",
+        "target": "Rescue Team (Couple, SOVA, & SID)",
+        "description": "Chronicler/Livestreamer"
+      }
+    ],
+    "seo": {
+      "slug": "killhouse",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/killhouse](https://movnix.com/movie/killhouse)",
+        "name": "Killhouse",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A couple races to rescue their kidnapped daughter from occupied territory. When a deal fails, commander SOVA and engineer SID launch a daring operation livestreamed worldwide by a journalist who must choose between escape and truth."
+      },
+      "keywords": [
+        "Killhouse",
+        "Killhouse movie",
+        "Killhouse synopsis",
+        "Killhouse plot",
+        "action thriller movie",
+        "commander SOVA",
+        "engineer SID"
+      ],
+      "canonical": "[https://movnix.com/movie/killhouse](https://movnix.com/movie/killhouse)",
+      "metaTitle": "Killhouse Movie - Synopsis, Plot & Thriller Details | Movnix",
+      "openGraph": {
+        "og:title": "Killhouse - Action Thriller Movie Details",
+        "og:description": "Commander SOVA and engineer SID launch a high-stakes rescue mission streamed live to the world in Killhouse."
+      },
+      "twitterCard": {
+        "twitter:title": "Killhouse Movie - Plot & Details",
+        "twitter:description": "A couple races against time to rescue their kidnapped daughter in Killhouse. Read the full story on Movnix."
+      },
+      "metaDescription": "A couple races to rescue their kidnapped daughter in occupied territory. Commander SOVA and SID launch a daring operation in Killhouse."
+    },
+    "faq": [
+      {
+        "answer": "Killhouse is primarily an action-thriller featuring heavy elements of military suspense and drama.",
+        "question": "What is the dominant genre of Killhouse?"
+      },
+      {
+        "answer": "No, Killhouse is a standalone action-thriller feature film and is not part of an existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Killhouse tells a self-contained story and does not feature any mid-credit or post-credit scenes.",
+        "question": "Is there a post-credit scene in Killhouse?"
+      },
+      {
+        "answer": "The story centers on a couple trying to rescue their kidnapped daughter from occupied territory. After a deal fails, a military team launches a dangerous mission that is broadcast to a global audience.",
+        "question": "What is the main plot of Killhouse?"
+      },
+      {
+        "answer": "Commander SOVA and engineer SID head the daring military operation after initial negotiations collapse.",
+        "question": "Who leads the rescue operation in the movie?"
+      },
+      {
+        "answer": "The journalist livestreams the operation worldwide and must decide whether to ensure their own safety by escaping or stay to reveal the full truth.",
+        "question": "What central conflict does the journalist face?"
+      },
+      {
+        "answer": "No, Killhouse is an original fictional narrative focused on military conflict and modern media streaming culture.",
+        "question": "Is Killhouse based on a true story or a novel?"
+      },
+      {
+        "answer": "The narrative takes place primarily within hostile occupied territory where the kidnapped daughter is held hostage.",
+        "question": "Where does the film take place?"
+      },
+      {
+        "answer": "Due to high-stakes violence, kidnapping themes, and tense military combat, Killhouse is intended for mature audiences.",
+        "question": "Is Killhouse suitable for younger audiences?"
+      },
+      {
+        "answer": "An embedded journalist livestreams the entire operation in real-time, making the mission visible to audiences across the globe.",
+        "question": "How does the rest of the world find out about the rescue mission?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Tense and suspenseful hostage situations with psychological pressure, but minimal jump scares or supernatural horror."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical of high-stakes military action thrillers."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Intense military action, tactical combat, weapon use, and life-threatening hostage rescue scenarios."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal depiction, potentially mild references to tobacco or alcohol usage in military settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional stakes involving child abduction, perilous combat operations, and moral dilemmas broadcast publicly."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 3,
+      "science": 2,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 07:05:24.471985",
+    "updated_at": "2026-08-01 07:05:24.471985"
+  }
 }
