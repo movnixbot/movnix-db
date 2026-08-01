@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "3300444",
     "status": "Released",
-    "popularity": 30.4428,
-    "voteAverage": 6.524,
-    "voteCount": 476,
+    "popularity": 24.7575,
+    "voteAverage": 6.519,
+    "voteCount": 479,
     "homepage": "https://bleeckerstreetmedia.com/the-return",
     "posterPath": "/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
     "backdropPath": "/vgT0kAaWU88do5RrCfHhXRVPnXM.jpg",
@@ -715,8 +715,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.524,
-      "votesCount": 476
+      "ratingValue": 6.519,
+      "votesCount": 479
     },
     {
       "source": "imdb",
@@ -1147,5 +1147,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/975511/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 975511,
+    "hash": "2828cc52cea1587dced2b58e8a2e4456b85a9669e1ce13a7263299880c6f9ccd",
+    "summary_one_sentence": "After twenty years at war and adrift at sea, a traumatized King Odysseus washes ashore on Ithaca to find his kingdom overrun by hostile suitors and must reclaim his throne, wife, and son.",
+    "summary_short": "Two decades after departing for the Trojan War, Odysseus washes up on the shores of Ithaca as a broken, unrecognizable wanderer haunted by the ghosts of his past. In his absence, a horde of ruthless suitors has occupied his palace, pressuring Queen Penelope to choose a new king while plotting against his grown son, Telemachus. To protect his family and restore order to his decaying realm, the reluctant monarch must shed his shame and embrace his inner warrior once more. Ultimately, Odysseus confronts the invaders in a bloody bid to reclaim his life and unite with his wife.",
+    "summary_long": "Twenty years after leaving to fight in the Trojan War, King Odysseus washes ashore on his native island of Ithaca, physically battered and deeply traumatized by combat and loss. Disguising himself as a humble beggar, he observes his island in ruin and his palace overrun by arrogant, parasitic suitors vying for the crown. His devoted wife, Penelope, resists their aggressive demands for marriage by employing clever stalling tactics, while their son, Telemachus, struggles to maintain dignity and safety against assassination threats. Aided by loyal servants, Odysseus secretly reveals his identity to Telemachus, and together they devise a plan to end the suitors' tyrannical occupation. During a contest orchestrated by Penelope involving Odysseus's legendary hunting bow, the disguised king step forward when no suitor can string the weapon. Revealing his true self, Odysseus string the bow with ease and launches a relentless, brutal slaughter against the suitors trapped inside the great hall. Telemachus fights alongside his father, securing their victory and ending the years of terror that plagued Ithaca. With the suitors eliminated and peace restored, Odysseus and Penelope finally reconcile, coming to terms with two decades of grief and distance.",
+    "synopsis": "An evocative, grounded retelling of the final chapters of Homer's epic poem The Odyssey, 'The Return' explores the visceral human cost of war and longing. Decades after departing for the Trojan War, King Odysseus returns to Ithaca not as a triumphant conqueror, but as a traumatized, solitary survivor. His kingdom has fallen into disarray, occupied by opportunistic suitors who demand Queen Penelope's hand in marriage and threaten the life of his young adult son, Telemachus. Hiding his identity under the guise of an impoverished wanderer, Odysseus must confront both the internal scars of his brutal past and the external forces threatening to eradicate his legacy before he can reclaim his home.",
+    "keywords": [
+      "ancient greece",
+      "greek mythology",
+      "homecoming",
+      "trojan war aftermath",
+      "disguised king",
+      "reclamation of throne",
+      "aging warrior",
+      "ithaca",
+      "long journey home",
+      "family reunion",
+      "loyalty and betrayal",
+      "haggard hero",
+      "kingdom in turmoil"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Identity & Recognition",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Homecoming",
+        "confidence": 0.95
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Odysseus reveals his true identity during a contest of skill and strength, confronting the suitors in a decisive battle for his kingdom.",
+      "conflict": "While Odysseus has finally reached his homeland, he finds his palace overrun by arrogant suitors vying for his crown and his wife's hand.",
+      "resolution": "With his home secured and authority restored, Odysseus reunites with his family and brings peace back to Ithaca.",
+      "introduction": "Odysseus washes ashore on Ithaca after twenty years away, disguised and unrecognized in a kingdom that has moved on in his long absence.",
+      "risingAction": "In disguise, Odysseus assesses who remains loyal, gathers key allies, and devises a cunning strategy to reclaim his house without revealing himself prematurely."
+    },
+    "characters": [
+      {
+        "name": "Odysseus",
+        "role": "Hero",
+        "description": "The battle-weary king of Ithaca who returns home after twenty years away, determined to reclaim his kingdom and save his family."
+      },
+      {
+        "name": "Antinous",
+        "role": "Villain",
+        "description": "An arrogant and dangerous suitor attempting to claim the throne of Ithaca by coercing Penelope and plotting against Telemachus."
+      },
+      {
+        "name": "Penelope",
+        "role": "Supporting Character",
+        "description": "The loyal queen of Ithaca who steadfastly holds out hope for her husband's return while resisting pressure from relentless suitors."
+      },
+      {
+        "name": "Telemachus",
+        "role": "Supporting Character",
+        "description": "The son of Odysseus and Penelope who stands up to the suitors and assists his father in reclaiming their home."
+      },
+      {
+        "name": "Eumaeus",
+        "role": "Mentor",
+        "description": "A loyal swineherd and trusted servant who aids Odysseus upon his arrival and offers guidance during his disguise."
+      },
+      {
+        "name": "Eurycleia",
+        "role": "Other",
+        "description": "The devoted nursemaid who first recognizes Odysseus by his scar and keeps his true identity secret."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Odysseus",
+        "target": "Penelope",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Odysseus",
+        "target": "Telemachus",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Penelope",
+        "target": "Telemachus",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Odysseus",
+        "target": "Antinous",
+        "description": "Enemies / Sovereign vs. Usurping Suitor"
+      },
+      {
+        "source": "Penelope",
+        "target": "Antinous",
+        "description": "Target of unwanted courtings / Captor-Hostage dynamic"
+      },
+      {
+        "source": "Telemachus",
+        "target": "Antinous",
+        "description": "Rivals / Oppressors"
+      },
+      {
+        "source": "Odysseus",
+        "target": "Eumaeus",
+        "description": "Master/Loyal Servant"
+      },
+      {
+        "source": "Odysseus",
+        "target": "Eurycleia",
+        "description": "King/Nurse"
+      }
+    ],
+    "seo": {
+      "slug": "the-return",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-return](https://movnix.com/movie/the-return)",
+        "name": "The Return",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war."
+      },
+      "keywords": [
+        "The Return",
+        "The Return movie",
+        "Odysseus movie",
+        "The Odyssey film",
+        "Ithaca film",
+        "Trojan War drama"
+      ],
+      "canonical": "[https://movnix.com/movie/the-return](https://movnix.com/movie/the-return)",
+      "metaTitle": "The Return (2024) Movie - Plot, Overview & Release Info",
+      "openGraph": {
+        "og:title": "The Return | Official Movie Overview",
+        "og:description": "After 20 years away, Odysseus returns to a changed Ithaca. Explore the story and details for the epic drama movie, The Return."
+      },
+      "twitterCard": {
+        "twitter:title": "The Return | Official Movie Overview",
+        "twitter:description": "After 20 years away, Odysseus returns to a changed Ithaca. Explore the story and details for the epic drama movie, The Return."
+      },
+      "metaDescription": "Odysseus returns to Ithaca after twenty years away, haggard and unrecognized. Discover the dramatic story of his homecoming in The Return."
+    },
+    "faq": [
+      {
+        "answer": "The Return is primarily a historical drama and psychological character study that retells the climax of Homer's ancient Greek epic poem, The Odyssey.",
+        "question": "What is the dominant genre of The Return?"
+      },
+      {
+        "answer": "No, The Return is a standalone historical drama film and is not part of any cinematic franchise, universe, or direct sequel series.",
+        "question": "Is The Return part of a film franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene or mid-credits scene in The Return. The narrative fully concludes before the credits roll.",
+        "question": "Is there a post-credits scene in The Return?"
+      },
+      {
+        "answer": "Yes, the film is an adaptation of the second half of Homer's classical epic poem, The Odyssey, focusing specifically on Odysseus's homecoming to Ithaca.",
+        "question": "Is The Return based on a book or historical legend?"
+      },
+      {
+        "answer": "The film was directed by Uberto Pasolini and stars Ralph Fiennes as Odysseus, Juliette Binoche as Penelope, and Charlie Plummer as Telemachus.",
+        "question": "Who stars in and directs The Return?"
+      },
+      {
+        "answer": "No, unlike standard fantastical adaptations, The Return omits mythical creatures and supernatural elements like the Cyclops or Sirens, focusing instead on a grounded, realistic, and gritty drama.",
+        "question": "Does the movie include the mythical monsters and supernatural elements from The Odyssey?"
+      },
+      {
+        "answer": "The Return has an official running time of approximately 116 minutes (1 hour and 56 minutes).",
+        "question": "What is the runtime of The Return?"
+      },
+      {
+        "answer": "The movie was filmed primarily on location in Greece (including the island of Corfu) and in Italy.",
+        "question": "Where was The Return filmed?"
+      },
+      {
+        "answer": "Yes, The Return reunites Ralph Fiennes and Juliette Binoche on screen nearly 30 years after they starred together in the Academy Award-winning film The English Patient (1996) and Emily Brontë's Wuthering Heights (1992).",
+        "question": "Have Ralph Fiennes and Juliette Binoche worked together before?"
+      },
+      {
+        "answer": "The film made its world premiere at the Toronto International Film Festival in September 2024 before receiving its theatrical release in late 2024 and early 2025.",
+        "question": "When was The Return released?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements present; focused primarily on drama and historical/mythological return."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity indicated in the premise."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Implied thematic violence related to war and fighting, with potential for bloody confrontations upon reclaiming the throne, but low based purely on the overview."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Negligible to mild potential for period-typical wine consumption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit romantic elements referenced."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity surrounding long displacement, loss, aging, and reclaiming one's homeland."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 3,
+      "mystery": 5,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 23:02:21.828217",
+    "updated_at": "2026-07-30 23:02:21.828217"
+  }
 }
