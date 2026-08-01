@@ -454,5 +454,294 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1741109/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1741109,
+    "hash": "964ab963cc23e530c431d391bffb3246f0ff7df3a0802992e309d700e43f092b",
+    "summary_one_sentence": "WWE SummerSlam 2026: Saturday kicks off the two-night 39th annual event live from U.S. Bank Stadium in Minneapolis, Minnesota, featuring high-stakes championship battles, bitter rivalries, and the headlining Undisputed WWE Championship showdown between CM Punk and Cody Rhodes.",
+    "summary_short": "Taking place at U.S. Bank Stadium in Minneapolis, Minnesota, WWE SummerSlam 2026: Saturday marks the explosive opening night of WWE's historic 39th annual SummerSlam event. Broadcast across ESPN and international streaming platforms, Night 1 features marquee superstars from Raw and SmackDown delivering high-flying action and dramatic confrontations. The night is headlined by a fierce Undisputed WWE Championship contest between CM Punk and Cody Rhodes, alongside intense marquee matchups including a Hell in a Cell clash between Brock Lesnar and Oba Femi.",
+    "summary_long": "The 39th annual SummerSlam opens its two-night spectacle at U.S. Bank Stadium in Minneapolis, Minnesota, delivering high-stakes professional wrestling action across both the Raw and SmackDown brand divisions. Night 1 features a stacked card of grudge matches and championship showdowns, highlighting the dramatic culminations of months of storytelling. Liv Morgan puts her Women's World Championship on the line against Queen of the Ring winner IYO Sky, while SmackDown General Manager Nick Aldis returns to in-ring competition to settle a bitter personal conflict with Gunther. Heavyweights clash inside the brutal Hell in a Cell structure as Brock Lesnar takes on rising force Oba Femi in their final trilogy fight. Tensions boil over in multi-competitor showcase matches involving elite tag teams and returning legends. In the night's main event, CM Punk defends the Undisputed WWE Championship against former champion Cody Rhodes in a highly anticipated singles match.",
+    "synopsis": "Held on August 1, 2026, at U.S. Bank Stadium in Minneapolis, Minnesota, WWE SummerSlam 2026: Saturday serves as Night 1 of WWE's premier summer event, known as 'The Biggest Party of the Summer.' Featuring top superstars from both Raw and SmackDown, the broadcast includes high-octane physical competition and dramatic storylines, headlined by CM Punk defending the Undisputed WWE Championship against Cody Rhodes, a high-impact Hell in a Cell match between Brock Lesnar and Oba Femi, a Women's World Championship defense by Liv Morgan, and the long-awaited ring return of Nick Aldis.",
+    "keywords": [
+      "professional wrestling",
+      "sports entertainment",
+      "championship bout",
+      "stadium spectacle",
+      "scripted rivalry",
+      "babyface vs heel",
+      "tag team match",
+      "hell in a cell",
+      "live drama",
+      "combat theater",
+      "grudge match",
+      "pay-per-view",
+      "high-stakes feud",
+      "athletic spectacle"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Redemption",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The main event reaches its critical peak as favored competitors traded devastating finishers, outside interference looms, and a decisive pinfall determines the evening's ultimate victor.",
+      "conflict": "Rivalries across the brand rosters reach a boiling point, pitting champions against relentless contenders vying for supremacy and championship gold on the summer's biggest stage.",
+      "resolution": "Night 1 concludes with fallout from the championship battles, setting immediate aftermath trajectories while fueling anticipation for the second night of action.",
+      "introduction": "WWE establishes the grand stage at U.S. Bank Stadium in Minneapolis, setting the scene for Night 1 of the two-night SummerSlam spectacle with high-stakes match lineups.",
+      "risingAction": "Tensions explode across the match card as underdogs fight for career-defining moments, personal vendettas escalate, and wrestlers battle through high-impact maneuvers to gain momentum."
+    },
+    "characters": [
+      {
+        "name": "Isaac Odugbesan",
+        "role": "Supporting Character",
+        "description": "Dominant powerhouse competitor aiming to make a major statement on a monumental stage."
+      },
+      {
+        "name": "Brock Lesnar",
+        "role": "Other",
+        "description": "An unstoppable, overwhelming force of nature who functions as an ultimate boss battle."
+      },
+      {
+        "name": "Phil Brooks",
+        "role": "Anti Hero",
+        "description": "Outspoken and unyielding veteran fighting on his own terms regardless of authority."
+      },
+      {
+        "name": "Cody Rhodes",
+        "role": "Hero",
+        "description": "Virtuous and resilient flagship hero driven by honor and fulfilling a multi-generational legacy."
+      },
+      {
+        "name": "Masami Odate",
+        "role": "Supporting Character",
+        "description": "High-flying tactical specialist known for elite acrobatic skill and intense in-ring focus."
+      },
+      {
+        "name": "Gionna Daddio",
+        "role": "Villain",
+        "description": "Cunning and manipulative competitor who uses sabotage and distraction to secure victory."
+      },
+      {
+        "name": "Nicholas Aldis",
+        "role": "Mentor",
+        "description": "Strict authority figure who regulates proceedings, enforces rules, and dictates match conditions."
+      },
+      {
+        "name": "Walter Hahn",
+        "role": "Villain",
+        "description": "Imposing and brutal powerhouse who treats the ring as sacred while punishing all opponents."
+      },
+      {
+        "name": "Joshua Fatu",
+        "role": "Hero",
+        "description": "Passionate fan-favorite fighter reliant on emotional grit and overwhelming crowd backing."
+      },
+      {
+        "name": "Jonathan Solofa Fatu",
+        "role": "Comic Relief",
+        "description": "High-energy twin partner who provides levity, animated reactions, and unpredictable dynamic flair."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CM Punk",
+        "target": "Cody Rhodes",
+        "description": "Rivals"
+      },
+      {
+        "source": "Brock Lesnar",
+        "target": "Oba Femi",
+        "description": "Rivals"
+      },
+      {
+        "source": "Paul Heyman",
+        "target": "Brock Lesnar",
+        "description": "Manager/Client"
+      },
+      {
+        "source": "Liv Morgan",
+        "target": "IYO SKY",
+        "description": "Rivals"
+      },
+      {
+        "source": "Gunther",
+        "target": "Nick Aldis",
+        "description": "Rivals"
+      },
+      {
+        "source": "Jey Uso",
+        "target": "Jimmy Uso",
+        "description": "Allies/Brothers"
+      },
+      {
+        "source": "Jey Uso",
+        "target": "Solo Sikoa",
+        "description": "Rivals/Brothers"
+      },
+      {
+        "source": "LA Knight",
+        "target": "Solo Sikoa",
+        "description": "Allies"
+      }
+    ],
+    "seo": {
+      "slug": "wwe-summerslam-2026-saturday",
+      "jsonLd": {
+        "name": "WWE SummerSlam 2026: Saturday",
+        "@type": "SportsEvent",
+        "endDate": "2026-08-01T23:00:00-05:00",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "name": "U.S. Bank Stadium",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "MN",
+            "addressCountry": "US",
+            "addressLocality": "Minneapolis"
+          }
+        },
+        "organizer": {
+          "url": "[https://www.wwe.com](https://www.wwe.com)",
+          "name": "WWE",
+          "@type": "Organization"
+        },
+        "startDate": "2026-08-01T19:00:00-05:00",
+        "description": "The 39th annual WWE SummerSlam kicks off Night 1 live from U.S. Bank Stadium in Minneapolis, Minnesota.",
+        "eventStatus": "[https://schema.org/EventScheduled](https://schema.org/EventScheduled)",
+        "eventAttendanceMode": "[https://schema.org/OfflineEventAttendanceMode](https://schema.org/OfflineEventAttendanceMode)"
+      },
+      "keywords": [
+        "WWE SummerSlam 2026",
+        "SummerSlam Saturday",
+        "SummerSlam Minnesota",
+        "WWE U.S. Bank Stadium",
+        "WWE livestreaming",
+        "WWE PPV 2026"
+      ],
+      "canonical": "[https://movnix.com/movie/wwe-summerslam-2026-saturday](https://movnix.com/movie/wwe-summerslam-2026-saturday)",
+      "metaTitle": "WWE SummerSlam 2026: Night 1 (Saturday) - Live from Minneapolis",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/wwe-summerslam-2026-saturday](https://movnix.com/movie/wwe-summerslam-2026-saturday)",
+        "og:type": "video.other",
+        "og:title": "WWE SummerSlam 2026: Saturday - Live in Minneapolis",
+        "og:description": "Catch Night 1 of the 39th annual WWE SummerSlam live from U.S. Bank Stadium in Minneapolis, Minnesota on Saturday, August 1, 2026."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "WWE SummerSlam 2026: Night 1 (Saturday)",
+        "twitter:description": "Don't miss WWE SummerSlam 2026: Saturday live from U.S. Bank Stadium in Minneapolis on August 1, 2026."
+      },
+      "metaDescription": "Watch WWE SummerSlam 2026: Saturday live from U.S. Bank Stadium in Minneapolis, MN. Get event details, streaming info, match card updates, and news."
+    },
+    "faq": [
+      {
+        "answer": "Yes. It is the 39th annual edition of WWE SummerSlam, one of WWE's flagship Premium Live Events (PLEs).",
+        "question": "Is this event part of a franchise or annual series?"
+      },
+      {
+        "answer": "The event falls under professional wrestling, sports entertainment, and live action programming.",
+        "question": "What is the dominant genre of WWE SummerSlam 2026: Saturday?"
+      },
+      {
+        "answer": "It takes place live at U.S. Bank Stadium in Minneapolis, Minnesota.",
+        "question": "Where is WWE SummerSlam 2026: Saturday taking place?"
+      },
+      {
+        "answer": "Yes, SummerSlam 2026 is a two-night event held across Saturday, August 1, and Sunday, August 2, 2026.",
+        "question": "Is WWE SummerSlam 2026 a multi-night event?"
+      },
+      {
+        "answer": "The main event on Saturday features CM Punk defending the Undisputed WWE Championship against Cody Rhodes.",
+        "question": "What is the main event match scheduled for Saturday night?"
+      },
+      {
+        "answer": "Highlights include Liv Morgan defending the Women's World Championship against IYO SKY, Brock Lesnar facing Oba Femi in a Hell in a Cell match, and Gunther taking on Nick Aldis.",
+        "question": "What other key matches are scheduled for Saturday night?"
+      },
+      {
+        "answer": "In the United States, it streams live on ESPN (via ESPN Unlimited) and Disney+ services, while international audiences can watch via Netflix or local broadcast partners.",
+        "question": "How can viewers watch or stream WWE SummerSlam 2026: Saturday?"
+      },
+      {
+        "answer": "The main event card begins streaming live at 6:00 PM ET / 3:00 PM PT, preceded by a Kickoff pre-show starting two hours prior.",
+        "question": "What time does WWE SummerSlam 2026: Saturday begin?"
+      },
+      {
+        "answer": "While sports entertainment events do not feature film-style post-credit scenes, WWE typically broadcasts a live post-show press conference featuring interviews with wrestlers and chief executive personnel following the main broadcast.",
+        "question": "Is there a post-credit scene or post-show content?"
+      },
+      {
+        "answer": "U.S. Bank Stadium enforces a clear bag policy; only clear plastic, vinyl, or PVC bags non-exceeding 12\" x 6\" x 12\" are permitted inside.",
+        "question": "Are fans attending in person allowed to bring bags or personal items into U.S. Bank Stadium?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements limited to intimidating superstar entrances or menacing character themes."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional mild to moderate profanity in promotional segments, commentary, and audience chants."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Frequent physical combat, high-impact wrestling maneuvers, weapons use, and specialty stipulations like Hell in a Cell."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Occasional depictions of alcohol consumption among stadium audience members or event sponsors."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Form-fitting athletic attire and occasional mild suggestive taunts, but no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "High dramatic tension driven by long-standing rivalries, high-stakes championship matches, and energetic crowd atmosphere."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 9,
+      "comedy": 3,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 4,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-08-01 18:04:13.901342",
+    "updated_at": "2026-08-01 18:04:13.901342"
+  }
 }
