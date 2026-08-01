@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 109.6598,
-    "voteAverage": 6.6,
-    "voteCount": 124,
+    "popularity": 119.697,
+    "voteAverage": 6.788,
+    "voteCount": 212,
     "homepage": "https://www.netflix.com/title/81715790",
     "posterPath": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
     "backdropPath": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
@@ -161,13 +161,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/hyJtuA70A4aR2D8WXtaLFGLfo1y.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/xLIrYVEkHwC69XUMVCzabJxbvAb.jpg",
       "width": 1498,
       "height": 2247,
@@ -178,6 +171,20 @@
       "filePath": "/oFHa7vMuLRZsYBc4rQZx9GrAX3s.jpg",
       "width": 900,
       "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3oqaC3Obac9mx2LGUvrDDHMjOFn.jpg",
+      "width": 1680,
+      "height": 2520,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hyJtuA70A4aR2D8WXtaLFGLfo1y.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -227,13 +234,6 @@
       "filePath": "/k64Eg5qDYnegDWnVos5oEPxmoA8.jpg",
       "width": 1000,
       "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/3oqaC3Obac9mx2LGUvrDDHMjOFn.jpg",
-      "width": 1680,
-      "height": 2520,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -304,6 +304,13 @@
       "filePath": "/gCVvyV9MXU2SSREJ1XkGte8SuFq.jpg",
       "width": 750,
       "height": 1124,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gIoNwidiHSnhAZ50NZNskq1Tw0c.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -467,13 +474,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wep83Fr5whDylPyEzLHBYm2pw0m.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.6,
-      "votesCount": 124
+      "ratingValue": 6.788,
+      "votesCount": 212
     },
     {
       "source": "crawled",
@@ -618,6 +632,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 2043,
+      "name": "John Davis",
+      "profilePath": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 68843,
       "name": "Jon Hurwitz",
       "profilePath": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
@@ -636,9 +659,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 68844,
-      "name": "Hayden Schlossberg",
-      "profilePath": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg",
+      "tmdbPersonId": 68843,
+      "name": "Jon Hurwitz",
+      "profilePath": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -654,18 +677,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2043,
-      "name": "John Davis",
-      "profilePath": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 68843,
-      "name": "Jon Hurwitz",
-      "profilePath": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
+      "tmdbPersonId": 68844,
+      "name": "Hayden Schlossberg",
+      "profilePath": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -759,6 +773,11 @@
       "iso_3166_1": "CN",
       "title": "72小时",
       "type": "网友直译野名"
+    },
+    {
+      "iso_3166_1": "AZ",
+      "title": "72 Saat",
+      "type": ""
     }
   ],
   "externalIds": {
