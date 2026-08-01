@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.6483,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 0.8761,
+    "voteAverage": 6.833,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1466662",
     "posterPath": "/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
     "backdropPath": "/aEXYk8VsZVcNhwo67oRkPI46pT8.jpg",
@@ -124,6 +124,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6.833,
+      "votesCount": 3
+    },
     {
       "source": "imdb",
       "ratingValue": 5.3,
@@ -259,5 +264,219 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1466662/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1466662,
+    "hash": "314a2caa34d7c4edeb46a761990be105e8a9ee60e04f7f3094b5a7b450a71ddc",
+    "summary_one_sentence": "To earn a living, a young woman takes a demanding live-in job assisting a wealthy prince's mistress in a surveillance-heavy Paris mansion, where a delicate bond forms amid constant control.",
+    "summary_short": "Desperate to earn money before entering the army, Laura takes a live-in position at an opulent Paris mansion serving Souria, the mistress of a wealthy Saudi prince. Faced with rigorous demands, bizarre rules, and relentless surveillance, Laura initially struggles to adapt to her employer's erratic dominance. Over time, Laura begins to understand the oppressive isolation behind Souria's cruel demeanor, bringing the two distinct women closer together. As tension mounts, Laura realizes that both she and Souria are trapped in a dangerous, gilded prison.",
+    "summary_long": "Looking to save money to pursue her dream of joining the military, Laura interviews for a high-paying, live-in assistant position in Paris's exclusive Golden Triangle. She lands the job at a sprawling, clinical mansion to serve Souria, a hyper-feminine woman living under the thumb of her absentee lover, a powerful Saudi prince. Laura is immediately thrust into a demanding routine governed by strict rules, invasive security cameras, and Souria's volatile temperament. Though Souria initially treats Laura with hostility and contempt, Laura's physical resilience allows her to endure the harsh treatment. As Laura observes the constant monitoring and extreme isolation governing the household, she begins to perceive the deep vulnerability hidden beneath Souria's domineering facade. A fragile understanding develops between the two contrasting women as they navigate the rigid dynamics of wealth, privilege, and subjection. As Souria's anxiety deepens while awaiting her benefactor's visits, Laura senses that their opulent surroundings conceal genuine danger. Ultimately, Laura comes to realize that the grand mansion is less of a residence and more of a golden cage trapping them both.",
+    "synopsis": "Set within the lavish confines of Paris's Golden Triangle, 'Madame' (also known as 'Le Triangle d'or') follows Laura, a resilient young woman who accepts a live-in maid and assistant role to secure her financial future. She serves Souria, the glamorous mistress of an elusive Saudi prince who maintains strict control over the sprawling mansion through intense surveillance and exacting expectations. Initially subjected to relentless cruelty and bizarre mandates, Laura gradually uncovers the claustrophobic reality of Souria's isolated existence. As the dynamic between the two women shifts from antagonism to mutual understanding, Laura discovers that beneath the surface of extreme luxury lies a oppressive environment threatening both of their futures.",
+    "keywords": [
+      "gilded cage",
+      "female bond",
+      "class divide",
+      "constant surveillance",
+      "excessive luxury",
+      "Paris setting",
+      "power dynamics",
+      "psychological tension",
+      "trapped women",
+      "domestic worker",
+      "wealthy lover",
+      "imminent danger",
+      "isolation"
+    ],
+    "themes": [
+      {
+        "theme": "Isolation & The Gilded Cage",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Class & Inequality",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Female Solidarity & Connection",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Surveillance & Control",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival & Vulnerability",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The mounting tensions and threats surrounding Souria reach a critical boiling point, forcing Laura to make a dangerous choice to intervene.",
+      "conflict": "Laura struggles to adapt to the oppressive environment of constant surveillance while trying to navigate the complex power dynamics of Souria's isolated existence.",
+      "resolution": "In the aftermath of the crisis, both women must reckon with the true cost of their connection and the reality of the cage surrounding them.",
+      "introduction": "Laura takes a job working for Souria, a woman living in a luxurious Paris mansion funded by a wealthy Saudi prince, entering an unfamiliar world of excessive wealth.",
+      "risingAction": "As Laura and Souria forge a fragile connection, Laura becomes increasingly aware that Souria is in danger and that the mansion is functioning as a perilous gilded cage."
+    },
+    "characters": [
+      {
+        "name": "Laura",
+        "role": "Hero",
+        "description": "A pragmatic young woman taking on a demanding live-in position to support herself before joining the army, who maintains her agency and resilience within an oppressive environment."
+      },
+      {
+        "name": "Souria",
+        "role": "Other",
+        "description": "A wealthy Saudi prince's mistress living in a luxurious gilded cage, who masks her extreme insecurity and lack of control behind a demanding and haughty demeanor."
+      },
+      {
+        "name": "Emre",
+        "role": "Supporting Character",
+        "description": "The prince's butler and assistant who forms a supportive bond with Laura while navigating his own private sorrow and duties."
+      },
+      {
+        "name": "Prince Al-Saleh",
+        "role": "Villain",
+        "description": "The wealthy Saudi prince who keeps Souria under constant surveillance and maintains strict control over her life and household."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Laura",
+        "target": "Souria",
+        "description": "Employer/Employee & Allies"
+      },
+      {
+        "source": "Souria",
+        "target": "Saudi Prince",
+        "description": "Lovers (Mistress/Patron)"
+      },
+      {
+        "source": "Laura",
+        "target": "Saudi Prince",
+        "description": "Employer/Employee"
+      }
+    ],
+    "seo": {
+      "slug": "madame",
+      "jsonLd": {
+        "name": "Madame",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "To make ends meet, Laura takes a job working for Souria in a grand mansion in Paris’s Golden Triangle. Installed there by her lover, a wealthy Saudi prince, Souria lives in anticipation of his visits. As Laura struggles to adjust to this world of excessive luxury and constant surveillance, a fragile bond begins to form between the two women. But Laura senses that Souria is in danger, and that this gilded cage may be closing in on them both."
+      },
+      "keywords": [
+        "Madame movie",
+        "Madame synopsis",
+        "Madame plot overview",
+        "Paris thriller movie",
+        "Laura and Souria movie"
+      ],
+      "canonical": "[https://movnix.com/movie/madame](https://movnix.com/movie/madame)",
+      "metaTitle": "Madame (2026) - Official Movie Synopsis & Plot Overview | Movnix",
+      "openGraph": {
+        "og:title": "Madame - Movie Overview & Synopsis",
+        "og:description": "Laura takes a job in a grand Paris mansion, forming a bond with Souria. But behind the luxury and surveillance, a dangerous trap is closing in."
+      },
+      "twitterCard": {
+        "twitter:title": "Madame - Movie Overview & Synopsis",
+        "twitter:description": "Laura takes a job in a grand Paris mansion, forming a bond with Souria. But behind the luxury and surveillance, a dangerous trap is closing in."
+      },
+      "metaDescription": "Laura takes a job in a luxurious Paris mansion and forms a fragile bond with Souria. But danger looms in this gilded cage. Read the full plot overview."
+    },
+    "faq": [
+      {
+        "answer": "No, 'Madame' (also known as 'Le Triangle d'Or') is a standalone feature film and is not part of any cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the movie does not feature any mid-credit or post-credit scenes after the story concludes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film's dominant genres are psychological thriller and drama, blending intense workplace tension with themes of power, control, and survival.",
+        "question": "What is the dominant genre of 'Madame'?"
+      },
+      {
+        "answer": "The story is set inside an opulent, heavily monitored mansion located in Paris’s prestigious Golden Triangle district.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The core dynamic focuses on Laura, a young woman taking a demanding live-in job out of financial necessity, and Souria (Madame), a wealthy prince's lover living in an isolated, luxury gilded cage.",
+        "question": "Who are the central characters in the film?"
+      },
+      {
+        "answer": "The movie is directed by Hélène Rosselet-Ruiz, marking her feature film directorial debut.",
+        "question": "Who directed the film?"
+      },
+      {
+        "answer": "The film has a total running time of approximately 90 minutes.",
+        "question": "What is the approximate runtime of 'Madame'?"
+      },
+      {
+        "answer": "The main conflict arises as Laura navigates the oppressive, boundary-pushing demands of her employer, only to discover that both women are trapped in a high-surveillance environment controlled by an unseen, powerful figure.",
+        "question": "What is the central conflict of the plot?"
+      },
+      {
+        "answer": "No, 'Madame' is a fictional drama, though it uses realistic social dynamics regarding extreme wealth disparity, isolation, and employer-employee power struggles.",
+        "question": "Is 'Madame' based on a true story?"
+      },
+      {
+        "answer": "No, due to its mature themes, psychological intensity, and unsettling depictions of surveillance and manipulation, the film is intended for mature audiences.",
+        "question": "Is 'Madame' suitable for young children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited to a general sense of suspense, surveillance, and claustrophobia."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language suitable for a mature drama."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Low levels of physical violence, mostly implied or threatened danger within a dramatic context."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Occasional social drinking and passive substance presence typical of luxury social settings."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild romantic and sensual themes related to relationships, but no explicit sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Highly intense themes surrounding psychological control, surveillance, vulnerability, and impending danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-07-30 07:02:01.021405",
+    "updated_at": "2026-07-30 07:02:01.021405"
+  }
 }
