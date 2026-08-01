@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 99.7834,
-    "voteAverage": 6.577,
-    "voteCount": 13,
+    "popularity": 99.2975,
+    "voteAverage": 6.7,
+    "voteCount": 15,
     "homepage": "https://mock-movie-website.com/movies/1430698",
     "posterPath": "/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
     "backdropPath": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
@@ -110,6 +110,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/xzFh9apPHlaEez7nM2EVZfISGnB.jpg",
       "width": 1983,
       "height": 3000,
@@ -127,13 +134,6 @@
       "filePath": "/gvME997uYyJVLsXhL13fl1OoBPp.jpg",
       "width": 768,
       "height": 1152,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-      "width": 2000,
-      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -183,8 +183,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.577,
-      "votesCount": 13
+      "ratingValue": 6.7,
+      "votesCount": 15
     },
     {
       "source": "crawled",
@@ -311,6 +311,10 @@
         {
           "name": "YouTube",
           "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
         }
       ]
     }
