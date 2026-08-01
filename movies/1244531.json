@@ -805,5 +805,257 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1244531/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1244531,
+    "hash": "ca9655a05d1b964266fb55619925aaa99d0f5cf1b2390d6d63c64fffa8519f92",
+    "summary_one_sentence": "During World War II, a stranded unit of young Australian soldiers adrift in the Timor Sea must fight for survival against enemy strikes, internal conflict, and a giant, relentless great white shark.",
+    "summary_short": "Set during the chaos of World War II, a troop of young Australian soldiers finds themselves stranded in the open ocean after their vessel is destroyed while crossing the Timor Sea. Left with only a flimsy, shrinking raft hundreds of miles from land, the men face extreme exposure, starvation, and growing psychological strain. Their plight escalates into terror when enemy forces launch aerial attacks and a monstrous great white shark begins stalking their small sanctuary. To survive, the soldier must overcome personal tensions and work together against both human and natural threats.",
+    "summary_long": "In the midst of World War II, a transport boat carrying a troop of young Australian soldiers across the treacherous Timor Sea is sunk, leaving the surviving crew marooned in open water. Clinging desperately to a small, rapidly deteriorating raft, the men are stranded hundreds of miles from help with minimal supplies and no clear route to safety. As dehydration, scorching heat, and exhaustion take hold, internal friction threatens to tear the group apart from within. The situation turns fatal when enemy military forces locate the wreckage, subjecting the defenceless soldiers to terrifying strafing runs. However, an even deadlier menace lurks beneath the waves in the form of an extraordinarily large and aggressive great white shark. Drawn by blood and movement, the relentless predator begins systematically hunting the men and battering their precarious floating refuge. With their raft losing integrity and their numbers thinning, the remaining soldiers are forced to put aside their disputes and mobilize every resource at their disposal. In a desperate struggle for endurance, they make a perilous last stand against both wartime hostility and nature's most lethal killer.",
+    "synopsis": "Beast of War is a high-concept survival thriller that blends WWII war drama with edge-of-your-seat creature horror. The story centers on a young group of Australian soldiers who become shipwrecked in the vast, unforgiving Timor Sea. Floating on a precarious, shrinking raft hundreds of miles from land, the men must endure intense environmental hardships, incoming enemy attacks, and internal group dynamics. Their battle for life becomes exponentially more terrifying when a massive apex predator targets their raft, forcing them to fight for survival against all odds.",
+    "keywords": [
+      "world war ii",
+      "survival horror",
+      "great white shark",
+      "shipwreck",
+      "open ocean",
+      "raft survival",
+      "australian soldiers",
+      "timor sea",
+      "interpersonal conflict",
+      "man vs nature",
+      "isolation",
+      "shark attack",
+      "enemy territory",
+      "shrinking raft"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Human vs. Nature",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Interpersonal Conflict",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Comradeship & Brotherhood",
+        "confidence": 0.85
+      },
+      {
+        "theme": "War & Hostility",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Desperate",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The remaining survivors face a desperate, high-stakes battle for survival as their raft deteriorates and the aggressive predator mounts a direct, overwhelming assault.",
+      "conflict": "Their boat sinks, stranding the soldiers on a fragile, shrinking raft hundreds of miles from safety and leaving them exposed to open waters and hostile forces.",
+      "resolution": "In the aftermath of the harrowing encounter, the physical and emotional toll of the trial is revealed as the survivors reckon with their ordeal.",
+      "introduction": "During World War II, a group of young Australian soldiers embarks on a voyage across the Timor Sea, setting up the historical backdrop, troop dynamics, and survival environment.",
+      "risingAction": "Tensions flare among the stranded soldiers over limited resources and survival strategies, while enemy threats and the relentless pursuit of a massive, predatory great white shark continuously escalate the danger."
+    },
+    "characters": [
+      {
+        "name": "Leo",
+        "role": "Hero",
+        "description": "An Indigenous Australian soldier who leads his fellow stranded diggers through the survival ordeal with courage, selflessness, and resilience."
+      },
+      {
+        "name": "Des Kelly",
+        "role": "Villain",
+        "description": "A hostile, bigoted fellow soldier whose selfish behavior and antagonistic nature create constant internal conflict on the raft."
+      },
+      {
+        "name": "Will",
+        "role": "Supporting Character",
+        "description": "An agreeable, loyal young soldier who forms an early bond with Leo and relies on the group to survive the perilous seas."
+      },
+      {
+        "name": "Teddy",
+        "role": "Comic Relief",
+        "description": "A younger, spirited soldier who provides brief moments of levity and camaraderie amidst the horrific survival conditions."
+      },
+      {
+        "name": "Commander Tetsuo Harada",
+        "role": "Other",
+        "description": "An enemy Japanese officer representing the external military threat during World War II."
+      },
+      {
+        "name": "The Great White Shark",
+        "role": "Villain",
+        "description": "The terrifying apex predator hunting the surviving soldiers as they drift through shark-infested waters."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Leo",
+        "target": "Will",
+        "description": "Close friends and allies; Leo rescues Will during boot camp, establishing a bond of loyalty on the raft."
+      },
+      {
+        "source": "Leo",
+        "target": "Des Kelly",
+        "description": "Rivals/Antagonists; Des is a hostile, racist soldier who frequently clashes with Leo over leadership and survival strategies."
+      },
+      {
+        "source": "Will",
+        "target": "Des Kelly",
+        "description": "Tense squadmates; conflicting personalities forced to cooperate while surviving stranded in open water."
+      },
+      {
+        "source": "Leo",
+        "target": "Teddy",
+        "description": "Comrades-in-arms; fellow Australian soldiers banding together on the makeshift raft."
+      },
+      {
+        "source": "Stranded Soldiers (Leo, Will, Des, Teddy)",
+        "target": "Great White Shark",
+        "description": "Mortal enemies; apex predator hunting the survivors adrift in the Timor Sea."
+      }
+    ],
+    "seo": {
+      "slug": "beast-of-war",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/beast-of-war",
+        "name": "Beast of War",
+        "@type": "Movie",
+        "genre": [
+          "War",
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "https://schema.org",
+        "keywords": "WWII, shark, survival, Australian soldiers, Timor Sea, raft, great white shark, military, conflict",
+        "description": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark."
+      },
+      "keywords": [
+        "Beast of War",
+        "WWII movie",
+        "shark attack movie",
+        "survival movie",
+        "Australian soldiers",
+        "Timor Sea",
+        "war film",
+        "great white shark",
+        "military drama",
+        "sea survival"
+      ],
+      "canonical": "https://movnix.com/movie/beast-of-war",
+      "metaTitle": "Beast of War: WWII Survival Against Shark & Sea | Movnix",
+      "openGraph": {
+        "og:title": "Beast of War | WWII Survival Against Shark & Sea",
+        "og:description": "Stranded in the Timor Sea during WWII, Australian soldiers face a relentless great white shark and harsh conditions after their boat sinks. A gripping tale of survival."
+      },
+      "twitterCard": {
+        "twitter:title": "Beast of War: WWII Shark Survival Thriller",
+        "twitter:description": "WWII Australian soldiers battle a great white shark and the unforgiving Timor Sea in this intense survival drama. Will they make it?"
+      },
+      "metaDescription": "Australian soldiers battle a great white shark and the Timor Sea after their boat sinks in WWII. A gripping tale of survival and conflict."
+    },
+    "faq": [
+      {
+        "answer": "Beast of War follows a troop of young Australian soldiers who become stranded on a shrinking raft in the Timor Sea during World War II after their boat sinks. To survive, they must battle the elements, enemy attacks, personal tension, and a giant great white shark.",
+        "question": "What is the main premise of Beast of War?"
+      },
+      {
+        "answer": "The dominant genre of Beast of War is a survival thriller, blending elements of historical war drama and creature feature horror.",
+        "question": "What is the dominant genre of Beast of War?"
+      },
+      {
+        "answer": "No, Beast of War is a standalone film and is not currently part of an established franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Beast of War does not feature any post-credit or mid-credit scenes, concluding fully as the main credits begin.",
+        "question": "Is there a post-credit scene in Beast of War?"
+      },
+      {
+        "answer": "The film is set during World War II in the remote waters of the Timor Sea, hundreds of miles from land.",
+        "question": "When and where is Beast of War set?"
+      },
+      {
+        "answer": "While set against the real historical backdrop of World War II in the Timor Sea, the specific storyline featuring the survival on a raft against a massive great white shark is a fictional story.",
+        "question": "Is Beast of War based on a true story?"
+      },
+      {
+        "answer": "The soldiers face multiple deadly threats, including dehydration and exposure on a failing raft, enemy military attacks, internal interpersonal strife, and a relentlessly persistent great white shark.",
+        "question": "What are the primary threats facing the soldiers in Beast of War?"
+      },
+      {
+        "answer": "The story centers on a group of young Australian military soldiers striving to survive together against extreme environmental and predatory odds.",
+        "question": "Who are the main characters of the film?"
+      },
+      {
+        "answer": "The film maintains an intense, high-stakes, and claustrophobic tone, focusing heavily on suspense, survival instincts, and psychological pressure.",
+        "question": "What type of tone does Beast of War have?"
+      },
+      {
+        "answer": "Fans of intense ocean survival stories, WWII historical thrillers, and shark/creature feature action films will enjoy Beast of War.",
+        "question": "Who would enjoy watching Beast of War?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Sustained suspense, intense creature-feature horror, and terrifying life-or-death isolation."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and profanity triggered by high-stress survival situations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Severe violence involving graphic shark attacks, body trauma, and military combat casualties."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no depiction of alcohol, tobacco, or illegal drug use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress, psychological strain, fear of drowning, and interpersonal tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 22:06:08.617328",
+    "updated_at": "2026-08-01 22:06:08.617328"
+  }
 }
