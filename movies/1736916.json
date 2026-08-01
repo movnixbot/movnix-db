@@ -1,7 +1,7 @@
 {
   "movie": {
     "tmdbId": 1736916,
-    "imdbId": null,
+    "imdbId": "tt43708434",
     "title": "Instadocs: The Prediction Games",
     "originalTitle": "Instadocs: The Prediction Games",
     "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5835,
-    "voteAverage": 8,
-    "voteCount": 1,
+    "popularity": 3.7671,
+    "voteAverage": 7,
+    "voteCount": 2,
     "homepage": "https://www.netflix.com/title/82772143",
     "posterPath": "/xeTCcALCqpT8IvJuakrjk5clzXL.jpg",
-    "backdropPath": null,
+    "backdropPath": "/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
     "collectionId": null,
     "certification": "PG-13"
   },
@@ -49,18 +49,32 @@
       "type": "poster"
     },
     {
+      "filePath": "/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/xeTCcALCqpT8IvJuakrjk5clzXL.jpg",
       "width": 833,
       "height": 1250,
       "aspectRatio": 0.666,
       "type": "poster"
+    },
+    {
+      "filePath": "/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8,
-      "votesCount": 1
+      "ratingValue": 7,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -126,7 +140,7 @@
   ],
   "alternativeTitles": [],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt43708434",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
@@ -134,11 +148,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
