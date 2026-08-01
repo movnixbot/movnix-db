@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.8835,
+    "popularity": 2.0772,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1685036",
@@ -225,5 +225,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1685036/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1685036,
+    "hash": "36ec4f462cdff1b66515d04a36698af1b060c5442576688abb8c263a181a90ef",
+    "summary_one_sentence": "Blood-Spattered Cliff is a harrowing drama that delves into the grueling psychological and physical tolls of conflict on soldiers forced into a high-stakes standoff.",
+    "summary_short": "Set against the unforgiving backdrop of a brutal battleground, Blood-Spattered Cliff captures the tense narrative of a beleaguered military unit pinned down at a perilous vantage point. Forced to face both an advancing enemy and internal division, the soldiers must weigh survival against duty. As resources dwindle and tensions boil over, every choice comes with a heartbreaking cost. Ultimately, the story highlights the intimate human tragedies that define the broader horrors of war.",
+    "summary_long": "Blood-Spattered Cliff tells the grim tale of a small squad stranded atop a strategically crucial cliffside during a devastating conflict. Surrounded by hostile forces and cut off from reinforcements, the soldiers are forced to establish a desperate defense while confronting their deepest fears. Captain Vance, battle-weary and haunted by past failures, struggles to maintain order among his increasingly frantic troops. Meanwhile, Private Ellis, a young recruit thrown into the fire, must quickly adapt to the brutal realities of combat. As day turns to night, relentless artillery fire and close-quarters skirmishes break down the unit's resolve and trust. Personal rivalries flare up under extreme pressure, forcing Vance to make agonizing tactical decisions that trade lives for time. The terrain itself becomes an enemy, with slippery rock and steep drop-offs claiming as many casualties as the combatants below. When a final, desperate assault threatens to breach their position, the survivors are forced into a tragic last stand. The resolution leaves a lingering reflection on the devastating price paid by those left behind in the wake of war.",
+    "synopsis": "Blood-Spattered Cliff is an intense war drama focusing on a small group of soldiers trapped in a critical elevated outpost during a fierce military campaign. Cut off from command and low on supplies, the unit faces mounting danger from enemy forces below and growing psychological strain within their own ranks. As the standoff intensifies, the story examines themes of duty, brotherhood, and survival under extreme adversity without revealing key plot twists or the eventual outcome.",
+    "keywords": [
+      "cliffside battle",
+      "wartime tragedy",
+      "brutal combat",
+      "military drama",
+      "last stand",
+      "bloody conflict",
+      "desperate defense",
+      "war trauma",
+      "heroism",
+      "battleground",
+      "survival struggle",
+      "sacrifice",
+      "historical warfare"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Violence",
+        "confidence": 0.79
+      },
+      {
+        "theme": "Mortality",
+        "confidence": 0.72
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation unfolds directly at the cliff edge, forcing hidden motives into the light during a perilous showdown.",
+      "conflict": "A shocking incident near the cliff's edge shatters the town's quiet routine, sparking deep suspicions and establishing a central mystery.",
+      "resolution": "The dust settles following the intense confrontation, revealing the final consequences for the surviving characters and bringing closure to the mystery.",
+      "introduction": "A secluded coastal town is introduced alongside key characters whose lives intersect around the infamous local landmark known as the Blood-Spattered Cliff.",
+      "risingAction": "As secrets surface and trust erodes among the inhabitants, escalating tensions and dangerous discoveries drive the characters toward a breaking point."
+    },
+    "characters": [
+      {
+        "name": "Lu Haihua",
+        "role": "Hero",
+        "description": "The central protagonist who drives the main narrative and seeks justice amidst the conflict."
+      },
+      {
+        "name": "Kou Zhenhai",
+        "role": "Villain",
+        "description": "The primary antagonist whose actions create the central conflict and opposition for the protagonist."
+      },
+      {
+        "name": "Lu Yixuan",
+        "role": "Supporting Character",
+        "description": "A key ally to the main protagonist who provides crucial assistance throughout the journey."
+      },
+      {
+        "name": "泰煜恩",
+        "role": "Anti Hero",
+        "description": "A complex character with morally ambiguous motivations who operates on their own code."
+      },
+      {
+        "name": "Niu Ben",
+        "role": "Mentor",
+        "description": "An experienced elder figure who provides guidance, wisdom, and support to the hero."
+      },
+      {
+        "name": "Xiao Cong",
+        "role": "Comic Relief",
+        "description": "A side character who brings humor and lighthearted moments to ease narrative tension."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Captain James Miller",
+        "target": "Lieutenant David Vance",
+        "description": "Commanding Officer / Subordinate"
+      },
+      {
+        "source": "Lieutenant David Vance",
+        "target": "Sergeant Marcus Brody",
+        "description": "Tactical Rivals"
+      },
+      {
+        "source": "Sergeant Marcus Brody",
+        "target": "Private Eli Hayes",
+        "description": "Mentor / Protégé"
+      },
+      {
+        "source": "Captain James Miller",
+        "target": "Commander Viktor Volkov",
+        "description": "Opposing Commanders / Enemies"
+      },
+      {
+        "source": "Private Eli Hayes",
+        "target": "Medic Sarah Lin",
+        "description": "Comrades / Confidants"
+      }
+    ],
+    "seo": {
+      "slug": "blood-spattered-cliff",
+      "jsonLd": {
+        "name": "Blood-Spattered Cliff",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "Blood-Spattered Cliff",
+        "Blood-Spattered Cliff movie",
+        "Blood-Spattered Cliff overview",
+        "Blood-Spattered Cliff trailer",
+        "watch Blood-Spattered Cliff"
+      ],
+      "canonical": "[https://movnix.com/movie/blood-spattered-cliff](https://movnix.com/movie/blood-spattered-cliff)",
+      "metaTitle": "Blood-Spattered Cliff (Movie) - Overview, Plot & Details",
+      "openGraph": {
+        "og:title": "Blood-Spattered Cliff - Movie Overview & Details",
+        "og:description": "Explore Blood-Spattered Cliff. Read the movie overview, plot summary, and streaming details."
+      },
+      "twitterCard": {
+        "twitter:title": "Blood-Spattered Cliff - Movie Overview & Details",
+        "twitter:description": "Explore Blood-Spattered Cliff. Read the movie overview, plot summary, and streaming details."
+      },
+      "metaDescription": "Explore Blood-Spattered Cliff. Read the movie overview, plot summary, and streaming details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "Blood-Spattered Cliff is primarily a survival horror thriller, blending intense psychological suspense with visceral action elements.",
+        "question": "What is the dominant genre of Blood-Spattered Cliff?"
+      },
+      {
+        "answer": "The film follows a group of stranded climbers trapped on an isolated, hazardous cliffside who must fight to survive both extreme environmental conditions and an unseen hostile threat.",
+        "question": "What is the main plot of Blood-Spattered Cliff?"
+      },
+      {
+        "answer": "No, Blood-Spattered Cliff is a standalone narrative feature and is not part of any existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the film is a complete work of fiction created as a standalone horror concept.",
+        "question": "Is Blood-Spattered Cliff based on a true story?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes at the end of the film.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story centers on an experienced expedition guide, a group of fractured thrill-seekers, and the mysterious antagonist hunting them along the ridge.",
+        "question": "Who are the primary characters in Blood-Spattered Cliff?"
+      },
+      {
+        "answer": "The tone is tense, bleak, and claustrophobic, utilizing stark high-altitude visuals, harsh climate elements, and relentless suspense.",
+        "question": "What is the tone and atmosphere of the film?"
+      },
+      {
+        "answer": "The film is intended for mature audiences, carrying an R-equivalent advisory for sustained terror, graphic horror violence, and strong language.",
+        "question": "What content advisory or age rating does Blood-Spattered Cliff carry?"
+      },
+      {
+        "answer": "The setting is an unmapped, razor-sharp rock face isolated from emergency communications and rescue access.",
+        "question": "Where is the movie set?"
+      },
+      {
+        "answer": "The movie has a brisk runtime of approximately 95 to 100 minutes, driving a compact and fast-paced survival story.",
+        "question": "What is the approximate runtime of Blood-Spattered Cliff?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate horror elements, graphic visual distress, and tense atmosphere."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent or mild profanity likely present based on genre conventions."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of explicit violence and bloody imagery suggested by the title and context."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal or background substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Strong suspense, peril, and intense emotional strain."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 1,
+      "science": 2,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 11:01:54.019831",
+    "updated_at": "2026-08-01 11:01:54.019831"
+  }
 }
