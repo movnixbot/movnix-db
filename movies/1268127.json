@@ -823,5 +823,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1268127/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1268127,
+    "hash": "e0a2f1d9e66db9ef67297242e1d9b7a8c0a9663ac996071af950180a823034f5",
+    "summary_one_sentence": "In Vladivostok, a South Korean intelligence agent tracking a ruthless trafficking ring crosses paths with a North Korean officer, drawing both into a dangerous web of conspiracy, personal vengeance, and shifting loyalties.",
+    "summary_short": "Haunted by a failed operation, South Korean NIS agent Manager Zo travels to Vladivostok to dismantle an international crime syndicate operating near the North Korean border. There, he recruits Chae Seon-hwa, a North Korean restaurant worker, to serve as a human intelligence asset to expose the syndicate's ties to corrupt officials. Tensions escalate when North Korean State Security officer Park Geon arrives to investigate a security breach and discovers a past personal connection to Seon-hwa. Forced to navigate treason, ruthless mobsters, and deadly ambushes, both operatives must decide whether to eliminate each other or join forces to survive.",
+    "summary_long": "Following a tragic mission that cost an informant her life, South Korean National Intelligence Service agent Manager Zo traces an international trafficking ring to the border city of Vladivostok, Russia. To infiltrate the operation, Zo recruits Chae Seon-hwa, a North Korean restaurant worker forced into high-risk intelligence gathering. Meanwhile, North Korean State Security official Park Geon is dispatched to Vladivostok to investigate recent security breaches and human trafficking along the border. Park's investigation is systematically hindered by Hwang Chi-seong, the corrupt North Korean consul general who is secretly in league with Russian gangsters. Complications deepen when Park discovers that Seon-hwa is his former lover, creating a volatile personal conflict amidst his official duties. As the criminal syndicate abducts Seon-hwa, both Zo and Park pursue the gang independently, leading to a tense crossfire. Recognizing that they face a common enemy in the syndicate and Hwang's corrupt network, the rival agents form an uneasy alliance. Together, they mount a high-stakes raid on the heavily guarded mob compound to rescue Seon-hwa. Navigating brutal hand-to-hand combat and explosive shootouts, the two officers fight through layers of betrayal. Ultimately, they must rely on each other to dismantle the operation and ensure Seon-hwa's survival.",
+    "synopsis": "Set in the frosty, lawless border city of Vladivostok, Russia, *Humint* is an action espionage thriller centering on the shadowy world of human intelligence. South Korean NIS Manager Zo is determined to dismantle a dangerous crime syndicate involved in drug and human trafficking, driven by the guilt of a past failure. He recruits a worker at a local North Korean restaurant, Chae Seon-hwa, to serve as his vital informant. At the same time, stoic North Korean security officer Park Geon arrives to probe illegal border activities, only to uncover corrupt ties within his own embassy and an unexpected connection to Seon-hwa. As competing agendas collide in snow-covered back alleys and underworld hideouts, Zo and Park are dragged into a high-stakes game of survival where the line between enemy and ally constantly shifts.",
+    "keywords": [
+      "espionage",
+      "human intelligence",
+      "undercover agent",
+      "inter-korean conflict",
+      "drug trafficking",
+      "drug syndicate",
+      "russian setting",
+      "cross-border operation",
+      "cat-and-mouse",
+      "covert operation",
+      "political intrigue",
+      "secret agent",
+      "betrayal",
+      "high-stakes tension"
+    ],
+    "themes": [
+      {
+        "theme": "Espionage & Betrayal",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "National Loyalty vs. Personal Morality",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Secrets & Deception",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "A direct confrontation brings hidden truths to light, forcing both operatives into a life-or-death situation where national loyalty conflicts with sheer survival.",
+      "conflict": "The investigation intensifies when the agent crosses paths with a North Korean operative, turning a routine sting into a tense inter-Korean intelligence standoff.",
+      "resolution": "The high-stakes operation concludes, leaving both agents to confront the political and personal fallout of their tense encounter and the secrets uncovered.",
+      "introduction": "A South Korean intelligence agent is deployed to Russia to investigate and dismantle a high-level drug smuggling ring.",
+      "risingAction": "As both agents pursue conflicting objectives, mounting peril, betrayal, and buried secrets force them into an escalating game of cat-and-mouse across hostile territory."
+    },
+    "characters": [
+      {
+        "name": "Cho Guk-seon",
+        "role": "Hero",
+        "description": "A dedicated South Korean NIS intelligence agent investigating illicit drug operations in Vladivostok."
+      },
+      {
+        "name": "Park Geon",
+        "role": "Anti Hero",
+        "description": "A sharp North Korean State Security agent who clashes with Guk-seon while pursuing conflicting national interests."
+      },
+      {
+        "name": "Hwang Chi-seong",
+        "role": "Villain",
+        "description": "A high-ranking North Korean official embroiled in criminal schemes and espionage trade."
+      },
+      {
+        "name": "Chae Seon-hwa",
+        "role": "Supporting Character",
+        "description": "An employee at a North Korean restaurant in Vladivostok caught between intelligence operations."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Manager Zo",
+        "target": "Park Geon",
+        "description": "Rivals / Opposing Intelligence Operatives"
+      },
+      {
+        "source": "Manager Zo",
+        "target": "Chae Seon-hwa",
+        "description": "Handler / Intelligence Informant"
+      },
+      {
+        "source": "Park Geon",
+        "target": "Chae Seon-hwa",
+        "description": "Former Lovers / Romantic Interest"
+      },
+      {
+        "source": "Park Geon",
+        "target": "Hwang Chi-seong",
+        "description": "Subordinate / Superior with conflicting motives"
+      },
+      {
+        "source": "Hwang Chi-seong",
+        "target": "Chae Seon-hwa",
+        "description": "Corrupt Consul General / Exploitative Handler"
+      },
+      {
+        "source": "Manager Zo",
+        "target": "Hwang Chi-seong",
+        "description": "Adversaries / Target of Investigation"
+      }
+    ],
+    "seo": {
+      "slug": "humint",
+      "jsonLd": {
+        "name": "Humint",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller",
+          "Spy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets."
+      },
+      "keywords": [
+        "humint movie",
+        "humint korean movie",
+        "humint plot overview",
+        "south korean spy action movie",
+        "humint Korean agent movie"
+      ],
+      "canonical": "[https://movnix.com/movie/humint](https://movnix.com/movie/humint)",
+      "metaTitle": "Humint Movie (2026) - Plot Summary, Cast & Release Details",
+      "openGraph": {
+        "og:title": "Humint (2026) - South Korean Spy Thriller",
+        "og:description": "A South Korean agent hunts a Russian drug ring and faces off against a North Korean operative in this intense spy thriller."
+      },
+      "twitterCard": {
+        "twitter:title": "Humint (2026) - South Korean Spy Thriller",
+        "twitter:description": "A South Korean agent hunts a Russian drug ring and faces off against a North Korean operative in this intense spy thriller."
+      },
+      "metaDescription": "A South Korean agent faces off against a North Korean operative while hunting a Russian drug ring in Humint. Discover plot details, news, and updates."
+    },
+    "faq": [
+      {
+        "answer": "Humint follows a South Korean secret agent investigating a major drug trafficking ring in Vladivostok, Russia, who finds himself entangled in a dangerous clash of secrets with a formidable North Korean operative.",
+        "question": "What is the plot of Humint?"
+      },
+      {
+        "answer": "The film is primarily an espionage action thriller, combining intense martial arts and firearm sequences with intelligence gathering, suspense, and geopolitical intrigue.",
+        "question": "What is the dominant genre of Humint?"
+      },
+      {
+        "answer": "No, Humint is an original standalone feature film rather than a sequel, prequel, or part of an existing cinematic franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film is directed by acclaimed South Korean filmmaker Ryoo Seung-wan, known for directing hit action thrillers such as The Berlin File, Veteran, and Smugglers.",
+        "question": "Who directs Humint?"
+      },
+      {
+        "answer": "The main cast features prominent South Korean actors including Zo In-sung, Park Jeong-min, Park Hae-joon, and Nana.",
+        "question": "Who are the lead cast members in Humint?"
+      },
+      {
+        "answer": "The story is set primarily in Vladivostok, Russia, near the complex border region connecting Russia, China, and North Korea where illicit international networks operate.",
+        "question": "Where is the setting of Humint?"
+      },
+      {
+        "answer": "No, as a self-contained dramatic espionage thriller, the film concludes naturally during its main runtime without a post-credits teaser scene.",
+        "question": "Is there a post-credit scene in Humint?"
+      },
+      {
+        "answer": "'HUMINT' is an intelligence acronym for 'Human Intelligence'—information collected through personal contact and covert human sources rather than technical or electronic surveillance.",
+        "question": "What does the title 'Humint' stand for?"
+      },
+      {
+        "answer": "No, the storyline and characters are fictional, although the setup draws authentic inspiration from real-world intelligence tradecraft and geopolitical dynamics involving North and South Korean operations abroad.",
+        "question": "Is Humint based on a true story?"
+      },
+      {
+        "answer": "The film explores themes of trust, ideological conflict, moral ambiguity, survival, and the human cost paid by operatives trapped in covert shadow wars.",
+        "question": "What are the main themes of Humint?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, though intense espionage suspense, dark atmosphere, and brief moments of peril create moderate tension."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and expletives throughout intense confrontations and crime syndicate interactions."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of action violence including frequent shootouts, heavy physical hand-to-hand combat, gunfights, torture, and generous bloodshed."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Prominent plot focus on illicit drug trafficking rings, drug smuggling operations, and substance distribution networks."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Themes surrounding human trafficking, nightclub settings, and prostitution exploitation, but without explicit sexual acts."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving grief over lost informants, high-stakes political betrayals, psychological trauma, and tense moral dilemmas."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-01 04:02:20.897492",
+    "updated_at": "2026-08-01 04:02:20.897492"
+  }
 }

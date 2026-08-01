@@ -10,8 +10,8 @@
     "budget": "4000000",
     "revenue": "5168044",
     "status": "Released",
-    "popularity": 5.9578,
-    "voteAverage": 6.268,
+    "popularity": 6.7579,
+    "voteAverage": 6.3,
     "voteCount": 69,
     "homepage": "https://a24films.com/films/the-moment",
     "posterPath": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
@@ -862,7 +862,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.268,
+      "ratingValue": 6.3,
       "votesCount": 69
     },
     {
@@ -1089,7 +1089,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max",
+          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
