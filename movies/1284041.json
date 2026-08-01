@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Planned",
-    "popularity": 5.1472,
+    "popularity": 5.3237,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/81914143",
@@ -185,6 +185,27 @@
       "filePath": "/rfT3d4TLZBJsouNzh3b5jFWs76t.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/Y29oAtjDyWpb3XVymzumEU4uhy.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6AwVp89l4Z309XNk0dMDuO8zdrC.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4kKAmffMFHBu1EgPSj9vPE3CYpd.jpg",
+      "width": 900,
+      "height": 1350,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -445,14 +466,14 @@
       "name": "Louis Leterrier",
       "profilePath": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 18865,
-      "name": "Louis Leterrier",
-      "profilePath": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
+      "tmdbPersonId": 2699328,
+      "name": "Kori Adelson",
+      "profilePath": "/rZNo0tIebCoj1v7sVQz2nZcxRf1.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -468,12 +489,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2699328,
-      "name": "Kori Adelson",
-      "profilePath": "/rZNo0tIebCoj1v7sVQz2nZcxRf1.jpg",
+      "tmdbPersonId": 18865,
+      "name": "Louis Leterrier",
+      "profilePath": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -566,5 +587,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1284041/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1284041,
+    "hash": "d12325c8e811c19e8b440c8fe84a63fe027406acc9e0c0baa1227651c95249e6",
+    "summary_one_sentence": "When a family is mysteriously sealed inside their own home, they must confront dwindling resources and a terrifying, unseen threat keeping them trapped.",
+    "summary_short": "A sudden and unexplained isolation traps a family inside their household, forcing them to fight for survival against an unknown force. As basic resources like food and water quickly begin to run out, internal tensions flare and trust among family members deteriorates. To escape their domestic nightmare, they must decipher the nature of the ominous presence holding them captive. Ultimately, their survival hinges on whether they can stay united against an enemy they barely understand.",
+    "summary_long": "An ordinary day turns into a psychological nightmare when a tight-knit family discovers that every exit in their home has been mysteriously sealed from the outside. Cut off from the rest of the world, panic quickly sets in as they realize standard tools and physical force are completely ineffective against the barrier. As days pass, the psychological toll of isolation begins to splinter the family dynamic, turning former allies into suspicious adversaries. Complicating matters further, basic survival necessities like food, water, and power diminish at an alarming rate. Beyond the physical entrapment, an unsettling, otherworldly threat manifests around the perimeter, constantly reminding them of their precarious situation. The family is forced to adapt to their claustrophobic reality while frantically searching for clues as to why they were targeted. Each member brings a different perspective to the crisis, revealing hidden secrets and past grievances under the intense pressure. Through trial, sacrifice, and desperate ingenuity, they piece together a grim understanding of the phenomenon keeping them hostage. With time running out and their resources exhausted, they must execute a risky plan to break the seal and face whatever awaits them outside.",
+    "synopsis": "The Last House is a tense, claustrophobic narrative blending elements of sci-fi mystery and psychological horror. The story centers on a family whose mundane suburban existence is shattered overnight when their home becomes an impenetrable fortress with no way in or out. As the horrifying reality of their confinement sets in, the family faces two relentless enemies: the swift depletion of their vital resources and a sinister, unseen presence lurking outside their walls. Grounded in emotional drama, the narrative explores the resilience of familial bonds when tested by extreme isolation, paranoia, and an enigmatic threat that defies conventional explanation.",
+    "keywords": [
+      "trapped indoors",
+      "claustrophobic",
+      "dwindling resources",
+      "siege scenario",
+      "family dynamics",
+      "unknown threat",
+      "isolation",
+      "domestic suspense",
+      "survival horror",
+      "psychological tension",
+      "mysterious containment",
+      "apocalyptic atmosphere",
+      "desperate survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Dynamics & Unity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation & Fear",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Resource Scarcity",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "With resources critically depleted and the threat looming at its highest intensity, the family faces a decisive point of maximum tension where survival hinges on a single, desperate effort.",
+      "conflict": "The family suddenly finds themselves completely sealed inside their house, cut off from the outside world by an ominous, unyielding threat.",
+      "resolution": "The immediate threat resolves, revealing the aftermath of their containment and establishing a new reality for the family.",
+      "introduction": "A family resides in their home, establishing their daily routines, relationships, and a baseline of normalcy before the crisis begins.",
+      "risingAction": "As days pass and supplies diminish, internal tensions flare, forcing the family to ration essential resources while searching for a way to endure or breach the lockdown."
+    },
+    "characters": [
+      {
+        "name": "Riley (Greta Lee)",
+        "role": "Hero",
+        "description": "A mother locked inside her home who must take the lead to keep her family safe against dwindling resources and an unknown external threat."
+      },
+      {
+        "name": "Jason (Wagner Moura)",
+        "role": "Hero",
+        "description": "A dedicated father who works alongside his wife to protect their household and manage their survival tactics."
+      },
+      {
+        "name": "The Children (Gabriel Chung, Noah Alexander Sosnowski, Emma Ho, Riley Chung)",
+        "role": "Supporting Character",
+        "description": "The kids trapped alongside their parents, adding emotional stakes and cooperating to adapt to their sudden confinement."
+      },
+      {
+        "name": "Susan (Audrey Anderson)",
+        "role": "Supporting Character",
+        "description": "A secondary figure connected to the central family and the ongoing crisis."
+      },
+      {
+        "name": "Max Richardson (Sid Edwards)",
+        "role": "Supporting Character",
+        "description": "An outside character involved in the escalating circumstances surrounding the sealed home."
+      },
+      {
+        "name": "Greg (Lewis Goody)",
+        "role": "Supporting Character",
+        "description": "A supporting individual interacting with the broader situation unfolding around the house."
+      },
+      {
+        "name": "Nancy (Nancy Baldwin)",
+        "role": "Supporting Character",
+        "description": "A minor character who plays a role in the mysterious situation outside or preceding the containment."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Arthur",
+        "target": "Clara",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Arthur",
+        "target": "Leo",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Arthur",
+        "target": "Maya",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Clara",
+        "target": "Leo",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Clara",
+        "target": "Maya",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Leo",
+        "target": "Maya",
+        "description": "Siblings"
+      },
+      {
+        "source": "The Family",
+        "target": "The Unseen Threat",
+        "description": "Captives/Tormentor"
+      }
+    ],
+    "seo": {
+      "slug": "the-last-house",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-last-house](https://movnix.com/movie/the-last-house)",
+        "name": "The Last House",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped."
+      },
+      "keywords": [
+        "The Last House",
+        "The Last House movie",
+        "thriller movies",
+        "survival movie",
+        "family thriller",
+        "sci-fi mystery"
+      ],
+      "canonical": "[https://movnix.com/movie/the-last-house](https://movnix.com/movie/the-last-house)",
+      "metaTitle": "The Last House (2026) - Official Movie Overview & Plot | Movnix",
+      "openGraph": {
+        "og:title": "The Last House - Trapped Inside, Forced to Survive",
+        "og:description": "When a family is unexpectedly sealed inside their home, survival becomes a race against dwindling resources and a terrifying unknown threat."
+      },
+      "twitterCard": {
+        "twitter:title": "The Last House - Official Movie Overview",
+        "twitter:description": "A family sealed inside their home must survive dwindling resources and the ominous threat outside."
+      },
+      "metaDescription": "A family sealed inside their home must survive dwindling resources and a mysterious threat in The Last House. Read the synopsis, details, and more."
+    },
+    "faq": [
+      {
+        "answer": "The Last House is primarily a psychological thriller and suspense drama, combining elements of horror with intense family dynamics under extreme isolation.",
+        "question": "What is the dominant genre of The Last House?"
+      },
+      {
+        "answer": "No, The Last House is a standalone story and is not connected to any existing cinematic universe or film franchise.",
+        "question": "Is The Last House part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there are no scenes during or after the end credits, though the final sequence before the credits offers a definitive conclusion to the story.",
+        "question": "Is there a post-credit scene in The Last House?"
+      },
+      {
+        "answer": "The film follows a family that finds themselves unexpectedly trapped and sealed inside their own home, forced to overcome internal friction and manage limited resources while facing a mysterious threat outside.",
+        "question": "What is the central premise of the movie?"
+      },
+      {
+        "answer": "No, the movie is based on an original screenplay and is not directly adapted from a book or real-life event.",
+        "question": "Is The Last House based on a book or a true story?"
+      },
+      {
+        "answer": "The movie targets fans of high-concept survival thrillers, mystery stories, and claustrophobic locked-in dramas.",
+        "question": "Who is the main target audience for this film?"
+      },
+      {
+        "answer": "Yes, the narrative gradually unveils the mystery behind the containment and the nature of the ominous force holding them captive as the story progresses.",
+        "question": "Does the movie reveal what is keeping the family trapped?"
+      },
+      {
+        "answer": "Major themes include family resilience, trust under pressure, human survival instincts, and the psychological impact of sudden confinement.",
+        "question": "What are the core themes explored in the story?"
+      },
+      {
+        "answer": "Yes, the vast majority of the story takes place within the single home location, heightening the feeling of isolation and tension.",
+        "question": "Is the setting limited entirely to the home?"
+      },
+      {
+        "answer": "The film focuses heavily on psychological tension, suspenseful danger, and high-stakes peril, making it suitable for mature audiences who enjoy tense survival scenarios.",
+        "question": "What is the age rating or content focus of the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong psychological horror elements, oppressive claustrophobia, and continuous dread from an unseen ominous threat."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language spoken under high-stress and life-threatening conditions."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate potential for physical conflict and survival-driven violence as the family defends against an external threat."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild potential depiction of prescription medication usage or alcohol consumption during extreme stress."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by family peril, resource depletion, severe isolation, and imminent threat."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 1,
+      "science": 4,
+      "suspense": 10,
+      "violence": 5
+    },
+    "created_at": "2026-07-31 06:05:59.426074",
+    "updated_at": "2026-07-31 06:05:59.426074"
+  }
 }
