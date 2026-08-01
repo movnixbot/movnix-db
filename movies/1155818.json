@@ -10,8 +10,8 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.1546,
-    "voteAverage": 7.556,
+    "popularity": 9.0595,
+    "voteAverage": 7.6,
     "voteCount": 18,
     "homepage": "https://mock-movie-website.com/movies/1155818",
     "posterPath": "/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
@@ -318,7 +318,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.556,
+      "ratingValue": 7.6,
       "votesCount": 18
     },
     {
@@ -478,15 +478,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1536244,
-      "name": "Honey Trehan",
-      "profilePath": "/lrTBtyU2r9S9spIukWSfOJ2oV1y.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 53677,
       "name": "Ronnie Screwvala",
       "profilePath": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
@@ -505,17 +496,17 @@
       "order": null
     },
     {
-      "tmdbPersonId": 4178327,
-      "name": "Utsav Maitra",
-      "profilePath": null,
+      "tmdbPersonId": 1536244,
+      "name": "Honey Trehan",
+      "profilePath": "/lrTBtyU2r9S9spIukWSfOJ2oV1y.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 1544565,
-      "name": "Niren Bhatt",
+      "tmdbPersonId": 4178327,
+      "name": "Utsav Maitra",
       "profilePath": null,
       "character": null,
       "job": "Writer",
@@ -526,6 +517,15 @@
       "tmdbPersonId": 1536244,
       "name": "Honey Trehan",
       "profilePath": "/lrTBtyU2r9S9spIukWSfOJ2oV1y.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1544565,
+      "name": "Niren Bhatt",
+      "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -547,6 +547,11 @@
       "iso_3166_1": "IN",
       "title": "Ghallughara",
       "type": "Original Title"
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "萨特莱杰河",
+      "type": ""
     }
   ],
   "externalIds": {
