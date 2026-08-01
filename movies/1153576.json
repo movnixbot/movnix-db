@@ -949,5 +949,240 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1153576/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1153576,
+    "hash": "e7c8ba57f5173f1e7fdf70b8b54a293212951b7dc39f943592b6ca871b3de54a",
+    "summary_one_sentence": "Estranged martial artists Ryu and Ken are recruited by Chun-Li into the brutal World Warrior Tournament, where they must face their pasts and uncover a deadly conspiracy.",
+    "summary_short": "Set in 1993, former allies Ryu and Ken Masters are thrust back into combat when the mysterious Chun-Li recruits them for the World Warrior Tournament. What begins as an intense martial arts battle royale soon uncovers a lethal conspiracy operating in the shadows. Forced to confront both fierce rivals and their own personal demons, the two fighters must overcome their past to survive. Failure to stop the threat means a permanent game over for them all.",
+    "summary_long": "In 1993, estranged martial artists Ryu and Ken Masters have drifted apart, haunted by the demons of their shared history. Their quiet lives are interrupted when the enigmatic Chun-Li seeks them out to join the legendary World Warrior Tournament. Reluctantly stepping back into the ring, Ryu and Ken find themselves surrounded by elite fighters in a high-stakes clash of fists, fate, and fury. However, it quickly becomes clear that the tournament is merely a front for a dark global conspiracy. As the competition heats up, hidden forces push the two former friends toward an inevitable matchup against one another. To uncover the truth behind the organizer's deadly plot, Ryu and Ken must reconcile their past differences and work alongside Chun-Li. Every battle brings higher stakes, testing their resolve, discipline, and loyalty. Ultimately, they must conquer their personal rivalries and unite to eliminate the threat before time runs out.",
+    "synopsis": "Set in 1993, Street Fighter centers on estranged martial artists Ryu and Ken Masters as they are drawn back into competitive combat by the mysterious Chun-Li. Recruited for the world-renowned World Warrior Tournament, the duo must test their skills against a fierce lineup of international fighters. Beneath the martial arts spectacle lies a dangerous plot that threatens to pit Ryu and Ken against each other while forcing them to confront personal traumas. This action-packed tale explores martial arts, betrayal, and redemption as its heroes fight to stop a lethal conspiracy.",
+    "keywords": [
+      "martial arts",
+      "tournament arc",
+      "battle royale",
+      "estranged friends",
+      "global conspiracy",
+      "rivalry",
+      "fated combatants",
+      "deadly conspiracy",
+      "past demons",
+      "hand-to-hand combat",
+      "high stakes action",
+      "world warrior"
+    ],
+    "themes": [
+      {
+        "theme": "Rivalry and Brotherhood",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Facing the Past",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Conspiracy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Fate",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The tournament reaches a critical peak where Ryu and Ken must face off and directly challenge the conspiratorial force behind the event, fighting to survive the ultimate clash of fists and fury.",
+      "conflict": "Chun-Li recruits Ryu and Ken for the high-stakes World Warrior Tournament, where standard martial arts competition turns dangerous as a deadly conspiracy looms in the background.",
+      "resolution": "With the conspiracy confronted, the fallout from the World Warrior Tournament settles, leaving Ryu and Ken to reckon with their pasts and their future as martial artists.",
+      "introduction": "In 1993, estranged Street Fighters Ryu and Ken Masters are re-introduced alongside the mysterious Chun-Li, who seeks out their martial arts expertise.",
+      "risingAction": "As the brutal tournament progresses through intense battles, Ryu and Ken are forced to navigate escalating threats, face their personal demons, and ultimately confront each other under the pressure of the hidden conspiracy."
+    },
+    "characters": [
+      {
+        "name": "Ryu",
+        "role": "Hero",
+        "description": "A disciplined, noble martial artist pulled back into combat to compete in the tournament and face personal demons."
+      },
+      {
+        "name": "Ken Masters",
+        "role": "Hero",
+        "description": "Ryu's fiery estranged partner and friend who joins the World Warrior Tournament to fight by his side."
+      },
+      {
+        "name": "Chun-Li",
+        "role": "Mentor",
+        "description": "A mysterious operative who recruits Ryu and Ken to expose and combat the deadly tournament conspiracy."
+      },
+      {
+        "name": "M. Bison",
+        "role": "Villain",
+        "description": "The ruthless criminal mastermind orchestrating the tournament conspiracy behind the scenes."
+      },
+      {
+        "name": "Dan Hibiki",
+        "role": "Comic Relief",
+        "description": "An overly confident yet clumsy martial artist who adds humor and lighthearted antics to the high-stakes tournament."
+      },
+      {
+        "name": "Guile",
+        "role": "Supporting Character",
+        "description": "A focused military operative participating in the tournament to unravel the evil conspiracy."
+      },
+      {
+        "name": "Akuma",
+        "role": "Anti Hero",
+        "description": "A formidable and solitary warrior driven by a dark power, serving as a dark mirror and fierce challenge to Ryu."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ryu",
+        "target": "Ken Masters",
+        "description": "Estranged Friends / Rivals"
+      },
+      {
+        "source": "Chun-Li",
+        "target": "Ryu",
+        "description": "Recruiter / Allies"
+      },
+      {
+        "source": "Chun-Li",
+        "target": "Ken Masters",
+        "description": "Recruiter / Allies"
+      }
+    ],
+    "seo": {
+      "slug": "street-fighter",
+      "jsonLd": {
+        "name": "Street Fighter",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past.",
+        "datePublished": "1993"
+      },
+      "keywords": [
+        "Street Fighter",
+        "Street Fighter 1993",
+        "Ryu",
+        "Ken Masters",
+        "Chun-Li",
+        "World Warrior Tournament",
+        "Street Fighter movie synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/street-fighter](https://movnix.com/movie/street-fighter)",
+      "metaTitle": "Street Fighter (1993) - World Warrior Tournament Movie Overview",
+      "openGraph": {
+        "og:title": "Street Fighter (1993) - Tournament of Fists, Fate, and Fury",
+        "og:description": "Ryu and Ken are thrown back into combat when Chun-Li recruits them for the World Warrior Tournament. But a deadly conspiracy awaits."
+      },
+      "twitterCard": {
+        "twitter:title": "Street Fighter (1993) - Tournament of Fists, Fate, and Fury",
+        "twitter:description": "Ryu and Ken are thrown back into combat when Chun-Li recruits them for the World Warrior Tournament. But a deadly conspiracy awaits."
+      },
+      "metaDescription": "Ryu and Ken reunite for the World Warrior Tournament in 1993, facing a deadly conspiracy and demons of their past. Watch Street Fighter today."
+    },
+    "faq": [
+      {
+        "answer": "Set in 1993, estranged Street Fighters Ryu and Ken Masters are recruited by Chun-Li to enter the World Warrior Tournament. While competing in the high-stakes battle royale, they must uncover a deadly conspiracy and confront their personal pasts.",
+        "question": "What is the main plot of Street Fighter?"
+      },
+      {
+        "answer": "Yes, Street Fighter is part of a major global multimedia franchise created by Capcom, encompassing video games, animated features, comic books, and live-action films.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is martial arts action, featuring elements of tournament fighting, adventure, and conspiracy thriller.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "Standard releases of the film do not feature a modern post-credits scene, as the narrative concludes entirely before the final credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main narrative centers on Ryu, Ken Masters, and Chun-Li, alongside various other competitors participating in the World Warrior Tournament.",
+        "question": "Who are the primary characters featured in the story?"
+      },
+      {
+        "answer": "The events of the narrative take place in the year 1993.",
+        "question": "When does the story take place?"
+      },
+      {
+        "answer": "The estranged fighters are brought back into combat after being recruited by the mysterious Chun-Li to join the tournament.",
+        "question": "Why do Ryu and Ken enter the World Warrior Tournament?"
+      },
+      {
+        "answer": "Behind the tournament's fierce matches lies a deadly conspiracy that forces Ryu and Ken to fight each other and face the demons of their past.",
+        "question": "What threat lies behind the World Warrior Tournament?"
+      },
+      {
+        "answer": "Yes, the story is based on Capcom's legendary fighting game series, specifically drawing inspiration from Street Fighter II and its universe.",
+        "question": "Is this adaptation based on a video game?"
+      },
+      {
+        "answer": "If Ryu and Ken fail to defeat the conspiracy and resolve their personal conflicts, it will mean total defeat and 'GAME OVER' for everyone involved.",
+        "question": "What are the ultimate stakes for the protagonists?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense elements involving a deadly conspiracy and facing past demons, with minimal jump scares or horror tropes."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild intensity with action-oriented conflict phrasing, but minimal to no explicit profanity indicated."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of stylized hand-to-hand combat, physical aggression, and tournament violence described as a 'brutal clash of fists, fate, and fury'."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse references present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes depicted."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional stakes involving friends forced to fight each other, high-stakes consequences, and confrontation with past trauma."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 9,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 3,
+      "mystery": 6,
+      "romance": 0,
+      "science": 2,
+      "suspense": 6,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 11:03:45.312967",
+    "updated_at": "2026-08-01 11:03:45.312967"
+  }
 }
