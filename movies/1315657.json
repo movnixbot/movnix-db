@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.8558,
+    "popularity": 3.5938,
     "voteAverage": 7.4,
     "voteCount": 40,
     "homepage": "https://alamodefilm.de/filme/gelbe-briefe/",
@@ -490,12 +490,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1584382,
-      "name": "İlker Çatak",
-      "profilePath": "/z1V9XvXsmKmcnsFLMTdXDGagoYY.jpg",
+      "tmdbPersonId": 1716841,
+      "name": "Enis Köstepen",
+      "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4824090,
+      "name": "Ayda Meryem Çatak",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -512,23 +521,14 @@
       "name": "İlker Çatak",
       "profilePath": "/z1V9XvXsmKmcnsFLMTdXDGagoYY.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
-      "tmdbPersonId": 4824090,
-      "name": "Ayda Meryem Çatak",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1716841,
-      "name": "Enis Köstepen",
-      "profilePath": null,
+      "tmdbPersonId": 1584382,
+      "name": "İlker Çatak",
+      "profilePath": "/z1V9XvXsmKmcnsFLMTdXDGagoYY.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -595,5 +595,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1315657/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1315657,
+    "hash": "ac12d708989b30771d5ef95266933aa947ddd32bb67d84246ed1846bc7aac54c",
+    "summary_one_sentence": "After losing their livelihoods to authoritarian government persecution, a celebrated Turkish artist couple and their daughter relocate to Istanbul, where the strain of financial survival tests their marriage and moral principles.",
+    "summary_short": "In Ankara, stage actress Derya and university professor Aziz lead a comfortable life with their 13-year-old daughter, Ezgi, until a subtle act of political defiance triggers swift retribution from the state. Both abruptly receive formal termination notices—the titular yellow letters—stripping them of their jobs, home, and standing. Forced to move into a cramped Istanbul apartment with Aziz's mother, the couple struggles to navigate systemic harassment and severe financial hardship. As Aziz stubbornly clings to his political principles while Derya makes quiet compromises to protect their future, growing ideological rifts threaten to fracture their family beyond repair.",
+    "summary_long": "Derya, an acclaimed theater actress, and Aziz, a university professor and playwright, enjoy a privileged existence in Ankara alongside their 13-year-old daughter, Ezgi. However, their comfortable reality disintegrates when Derya refuses a photo opportunity with a government official following a performance, and Aziz publicly encourages his students to engage in anti-establishment dialogue. The state responds with swift severity, issuing dismissal notices—known as 'yellow letters'—that strip the couple of their careers and subject Aziz to potential criminal charges. Facing pressure from landlords and law enforcement, the family is forced to abandon their Ankara home and relocate to Istanbul to live with Aziz's mother. Living in tight quarters while facing institutional censorship, the couple finds their dynamic deeply altered. Aziz holds onto his political integrity by working odd jobs and quietly continuing his subversive creative efforts, while Derya faces moral dilemmas as she seeks financial stability through state-sanctioned entertainment work. As financial hardship and political surveillance mount, 13-year-old Ezgi grows increasingly distant and rebellious amid her parents' constant conflict. Ultimately, Derya and Aziz must decide whether preserving their personal values is worth destroying the foundation of their family.",
+    "synopsis": "Directed by İlker Çatak, 'Yellow Letters' is an intimate political drama exploring the quiet, devastating impact of state censorship on private life. Set in modern-day Turkey, the narrative focuses on Derya and Aziz, a creative couple who seem to have achieved professional success and personal stability. Derya is a prominent stage actress, Aziz is an respected academic and playwright, and together they raise their 13-year-old daughter, Ezgi. Their life changes overnight when minor acts of political resistance draw the ire of government authorities. Delivered 'yellow letters'—official state notices terminating their employment—the couple is abruptly blacklisted from their respective fields, forcing them to move to Istanbul to stay with Aziz's mother. As the pressure of systemic persecution settles over their household, Derya and Aziz are forced to balance their artistic integrity with the practical realities of survival, driving a wedge between their shared values and their daughter's wellbeing.",
+    "keywords": [
+      "political persecution",
+      "state repression",
+      "authoritarianism",
+      "marital strain",
+      "job loss",
+      "financial hardship",
+      "in-law conflict",
+      "relocation",
+      "artistic censorship",
+      "theater artists",
+      "moral dilemma",
+      "istanbul",
+      "family crisis",
+      "social injustice"
+    ],
+    "themes": [
+      {
+        "theme": "State Arbitrariness and Political Persecution",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival and Integrity vs. Compromise",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Marital and Family Strain",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Economic Hardship and Social Displacement",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Artistic Freedom and Censorship",
+        "confidence": 0.87
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Somber",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Mounting economic hardship, legal risks, and ideological friction force Derya and Aziz to make a critical decision that directly pits their core convictions against their family's security.",
+      "conflict": "Following an incident at the premiere of their politically charged play, both parents receive arbitrary state dismissal notices ('yellow letters'), stripping them of their careers, income, and home.",
+      "resolution": "The family adapts to a complex new dynamic, navigating an ambiguous middle ground between artistic compromise and survival under systemic pressure.",
+      "introduction": "Derya and Aziz, a celebrated actor and drama professor living in Ankara with their 13-year-old daughter Ezgi, lead a fulfilling life centered around their artistic and intellectual work.",
+      "risingAction": "Forced to move to Istanbul to live with Aziz's mother, the family faces immense financial pressure; Aziz drives cabs while fighting legal battles, while Derya considers pragmatic artistic compromises, creating growing emotional distance between the parents and their daughter."
+    },
+    "characters": [
+      {
+        "name": "Derya Tufan",
+        "role": "Hero",
+        "description": "A passionate theater artist who fights to maintain her ideals, family stability, and artistic dignity after losing her livelihood to state persecution."
+      },
+      {
+        "name": "Aziz Tufan",
+        "role": "Hero",
+        "description": "Derya's husband and creative partner who faces immense personal strain trying to support his family while dealing with political targeting."
+      },
+      {
+        "name": "Ezgi Tufan",
+        "role": "Supporting Character",
+        "description": "Derya and Aziz's 13-year-old daughter who is forced to navigate the sudden disruption of her life and relocate to Istanbul with her parents."
+      },
+      {
+        "name": "Güngör Tufan",
+        "role": "Supporting Character",
+        "description": "Aziz's parent who provides shelter and family grounding when Derya and Aziz move to Istanbul following the loss of their jobs."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Derya",
+        "target": "Aziz",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Derya",
+        "target": "Ezgi",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Aziz",
+        "target": "Ezgi",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Aziz",
+        "target": "Aziz's Parents",
+        "description": "Son/Parents"
+      },
+      {
+        "source": "Derya",
+        "target": "Aziz's Parents",
+        "description": "Daughter-in-law/In-laws"
+      },
+      {
+        "source": "Ezgi",
+        "target": "Aziz's Parents",
+        "description": "Granddaughter/Grandparents"
+      }
+    ],
+    "seo": {
+      "slug": "yellow-letters",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/yellow-letters](https://movnix.com/movie/yellow-letters)",
+        "name": "Yellow Letters",
+        "@type": "Movie",
+        "genre": "Drama",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life."
+      },
+      "keywords": [
+        "Yellow Letters movie",
+        "Yellow Letters film",
+        "Yellow Letters synopsis",
+        "Yellow Letters drama",
+        "Istanbul movie",
+        "Turkish drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/yellow-letters](https://movnix.com/movie/yellow-letters)",
+      "metaTitle": "Yellow Letters Movie - Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "Yellow Letters | Movie Details & Overview",
+        "og:description": "After losing their jobs to state arbitrariness, Derya and Aziz move to Istanbul with their 13-year-old daughter to rebuild their lives in this powerful drama."
+      },
+      "twitterCard": {
+        "twitter:title": "Yellow Letters | Movie Details & Overview",
+        "twitter:description": "After losing their jobs to state arbitrariness, Derya and Aziz move to Istanbul with their 13-year-old daughter to rebuild their lives in this powerful drama."
+      },
+      "metaDescription": "Derya and Aziz struggle to rebuild their lives in Istanbul with their daughter Ezgi after losing their jobs. Discover the poignant drama Yellow Letters."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Yellow Letters is political drama.",
+        "question": "What is the dominant genre of Yellow Letters?"
+      },
+      {
+        "answer": "No, Yellow Letters is a standalone feature film and is not part of any movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, Yellow Letters does not feature any mid-credits or post-credits scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Yellow Letters was directed by İlker Çatak, who also co-wrote the screenplay with Ayda Çatak and Enis Köstepen.",
+        "question": "Who directed Yellow Letters?"
+      },
+      {
+        "answer": "The film stars Özgü Namal as Derya, Tansu Biçer as Aziz, and Leyla Smyrna Cabas as their 13-year-old daughter, Ezgi.",
+        "question": "Who stars in the lead roles of Yellow Letters?"
+      },
+      {
+        "answer": "The film follows Derya and Aziz, a married couple of Turkish theater artists, whose lives fall apart after state arbitrariness costs them their jobs. Forced to move to Istanbul to live with Aziz's parents, they and their 13-year-old daughter Ezgi must redefine their relationships, ideals, and way of life under intense pressure.",
+        "question": "What is the main plot of Yellow Letters?"
+      },
+      {
+        "answer": "The primary spoken language in Yellow Letters is Turkish.",
+        "question": "What language is spoken in Yellow Letters?"
+      },
+      {
+        "answer": "Yellow Letters is an international co-production between Germany, France, and Turkey.",
+        "question": "Which countries produced Yellow Letters?"
+      },
+      {
+        "answer": "Yes, Yellow Letters won the prestigious Golden Bear award for Best Film at the 76th Berlin International Film Festival.",
+        "question": "Did Yellow Letters win any major film awards?"
+      },
+      {
+        "answer": "The movie carries official age ratings such as FSK 12 (or PG-13 equivalent), as it deals with heavy emotional themes, political repression, and family tension rather than child-friendly entertainment.",
+        "question": "Is Yellow Letters suitable for young children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or supernatural themes present."
+      },
+      "language": {
+        "score": 1,
+        "description": "No explicit strong language mentioned in the provided synopsis."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence indicated in the overview; primary focus is on political/economic displacement."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance abuse or drug/alcohol reference mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or romantic nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity due to themes of job loss, state oppression, displacement, and family strain."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 4,
+      "science": 0,
+      "suspense": 6,
+      "violence": 1
+    },
+    "created_at": "2026-07-30 13:23:58.751027",
+    "updated_at": "2026-07-30 13:23:58.751027"
+  }
 }
