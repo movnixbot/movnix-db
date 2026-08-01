@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "10040197",
     "status": "Released",
-    "popularity": 7.5765,
-    "voteAverage": 5.603,
-    "voteCount": 229,
+    "popularity": 10.489,
+    "voteAverage": 5.533,
+    "voteCount": 240,
     "homepage": "https://mock-movie-website.com/movies/1290432",
     "posterPath": "/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
     "backdropPath": "/3fZ5HvkrjaS34sZERshWm9koXdF.jpg",
@@ -933,8 +933,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.603,
-      "votesCount": 229
+      "ratingValue": 5.533,
+      "votesCount": 240
     },
     {
       "source": "imdb",
@@ -974,7 +974,7 @@
     {
       "tmdbPersonId": 118178,
       "name": "Virginie Efira",
-      "profilePath": "/wQmOmgu1TQoF6OeBWjftxwcaFCi.jpg",
+      "profilePath": "/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
       "character": "Paula Cohen-Solal",
       "job": "Actor",
       "department": "Acting",
@@ -1160,7 +1160,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
