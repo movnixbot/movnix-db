@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 104.7431,
-    "voteAverage": 7.559,
-    "voteCount": 128,
+    "popularity": 95.6603,
+    "voteAverage": 7.6,
+    "voteCount": 131,
     "homepage": "https://mock-movie-website.com/movies/1318621",
     "posterPath": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
     "backdropPath": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
@@ -28,16 +28,16 @@
   },
   "genres": [
     {
-      "tmdbId": 14,
-      "name": "Fantasy"
+      "tmdbId": 10770,
+      "name": "TV Movie"
     },
     {
       "tmdbId": 10751,
       "name": "Family"
     },
     {
-      "tmdbId": 10770,
-      "name": "TV Movie"
+      "tmdbId": 14,
+      "name": "Fantasy"
     },
     {
       "tmdbId": 12,
@@ -408,13 +408,6 @@
     },
     {
       "filePath": "/AgUn9i6gpNjJ3yCXBGeCdDNHq1F.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/2q3eLuBDABhAUwHtvKTegt1ytak.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -813,34 +806,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/vhahaIrVgohPs6Z8aza4Padicvt.jpg",
-      "width": 985,
-      "height": 1492,
-      "aspectRatio": 0.66,
-      "type": "poster"
-    },
-    {
-      "filePath": "/1wVsoXCGyuGrdyQHTCZxFZZh7CP.jpg",
-      "width": 1365,
-      "height": 2048,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/g5oSDU0AZNQXyMmG7dIqa4l6BK3.jpg",
-      "width": 1365,
-      "height": 2048,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/vdinbUYC5xnH1VSAi7js4QCpX0s.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/u0U0R5ZS4ydxqXUAAqTT0BOxA2h.jpg",
       "width": 3840,
       "height": 2160,
@@ -1231,41 +1196,13 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
-    },
-    {
-      "filePath": "/3KqVNtLGM6Zk9sE2epxFj9fw7C8.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/xFQwtVX6Jj9bCAMU7mcwPWZkIH0.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/wTBDWXFlppDhSxB5f98XoSI7yD2.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/zrOP6d5mcjn777oiGdssUEgt5CW.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.559,
-      "votesCount": 128
+      "ratingValue": 7.6,
+      "votesCount": 131
     },
     {
       "source": "crawled",
