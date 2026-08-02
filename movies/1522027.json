@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.7252,
+    "popularity": 4.6304,
     "voteAverage": 10,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1522027",
@@ -91,6 +91,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/suBV6X9zzombUMLSZy5DoyhwBpb.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/1o7I9rlfreejKFECAWDu4hHGghj.jpg",
       "width": 2400,
       "height": 1350,
@@ -136,7 +143,7 @@
       "tmdbPersonId": 2520942,
       "name": "Chloe Van Landschoot",
       "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
-      "character": null,
+      "character": "Sara",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -145,7 +152,7 @@
       "tmdbPersonId": 3012310,
       "name": "Tymika Tafari",
       "profilePath": "/8k42n2AJb3goVZTGa6CriXUM6Dh.jpg",
-      "character": null,
+      "character": "Carol",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -154,7 +161,7 @@
       "tmdbPersonId": 1268568,
       "name": "Garrett Hnatiuk",
       "profilePath": "/rOmfQyBX5gnvHcWOCQs5G0u975a.jpg",
-      "character": null,
+      "character": "Troy",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -163,7 +170,7 @@
       "tmdbPersonId": 1362948,
       "name": "Jane Moffat",
       "profilePath": "/x8hRTny8olUJYGyH7K3zDUUHIqk.jpg",
-      "character": null,
+      "character": "Agnes",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -172,7 +179,7 @@
       "tmdbPersonId": 2232332,
       "name": "Brendan Flynn",
       "profilePath": "/7vKEToXXV3nMORBCRItJOOwM7K4.jpg",
-      "character": null,
+      "character": "Satan",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -220,7 +227,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        }
+      ]
     }
   },
   "reviews": [],

@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5006,
+    "popularity": 2.4947,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1372572",
@@ -105,6 +105,13 @@
       "filePath": "/fH6bTsnEYdG9JSiEgvZ0GylmaqN.jpg",
       "width": 1500,
       "height": 2222,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/898PO0spHFFyENIuR6ufPEco9tE.jpg",
+      "width": 1030,
+      "height": 1527,
       "aspectRatio": 0.675,
       "type": "poster"
     },
@@ -227,5 +234,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1372572/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1372572,
+    "hash": "4fce20d082271172034ee9c60d3ba9416aaba0f1a709af0b61adc8a9655c56e7",
+    "summary_one_sentence": "Narrated by Julieta Venegas with music by Bryce Dessner, this visually stunning documentary follows the delicate courtship, nesting, and survival journey of Caribbean flamingos in the Yucatán Peninsula.",
+    "summary_short": "Flamingos: Life After the Meteorite offers an immersive exploration of Caribbean flamingos navigating one of the most vital and vulnerable phases of their existence. Set in the nature reserves of Mexico's Yucatán Peninsula, the documentary captures their elaborate courtship rituals, nesting struggles, and relentless fight for survival. Narrated by singer-songwriter Julieta Venegas and scored by composer Bryce Dessner, the film transforms wildlife observation into an intimate cinematic journey. Through striking visuals and a touch of poetic humor, it highlights the resilience required to foster new life in an ever-changing environment.",
+    "summary_long": "Directed by Lorenzo Hagerman, Flamingos: Life After the Meteorite takes viewers into the vibrant heart of the Yucatán Peninsula's biosphere reserves to follow the life cycle of Caribbean flamingos. The documentary begins by examining the grand quest for survival, where finding the ideal mate, location, and timing is essential for continuing the species. Viewers witness the birds' synchronized, dance-like courtship rituals as thousands assemble to select their lifelong partners. Once paired, the flamingos encounter severe environmental obstacles while attempting to establish nesting grounds in fragile coastal wetlands. Parents must painstakingly construct mud nests and protect their precious eggs from harsh weather conditions and lurking predators. As the chicks hatch, the narrative shifts to the grueling demands of raising vulnerable young in a transient ecosystem. Through years of dedicated field filming in nature reserves like Ría Celestún and Ría Lagartos, the camera captures rarely seen intimate moments of parental devotion. Enhanced by Julieta Venegas’s soulful narration and Bryce Dessner’s evocative score, the film blends scientific observation with artistic storytelling. Ultimately, the documentary serves as a testament to nature's perseverance and the delicate balance required to sustain a new generation.",
+    "synopsis": "Flamingos: Life After the Meteorite is a captivating natural history documentary that intimately follows a colony of Caribbean flamingos across the biosphere reserves of Mexico's Yucatán Peninsula. Blending artistic cinematic storytelling with ornithological depth, the film details the entire breeding cycle of these iconic pink birds—from complex courtship displays and mate selection to nest building, egg incubation, and chick rearing. With delicate narration by acclaimed musician Julieta Venegas and an original score by composer Bryce Dessner, the project brings a poetic, humorous, and deeply emotional perspective to wildlife filmmaking. Beyond showcasing mesmerizing flock dynamics, the film emphasizes the environmental fragility of their habitats and the remarkable perseverance required for life to flourish.",
+    "keywords": [
+      "caribbean flamingos",
+      "wildlife documentary",
+      "mating rituals",
+      "starting a family",
+      "survival struggle",
+      "nature and ecology",
+      "avian life cycle",
+      "maternal instinct",
+      "environmental vulnerability",
+      "nesting and breeding",
+      "cinematic nature film",
+      "orchestral score",
+      "narration-driven",
+      "animal courtship",
+      "perseverance of life"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Parenthood & Family",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Perseverance",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Immersive",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical window opens where the flock must endure extreme environmental pressures and protect their fragile eggs and newborn chicks during their most vulnerable state.",
+      "conflict": "Environmental fragility, unpredictable weather, and natural hazards constantly threaten their survival and the safety of prospective nesting grounds.",
+      "resolution": "Through perseverance and collective survival strategies, the flamingos secure the next generation, preserving the cycle of life across their natural habitat.",
+      "introduction": "In the vibrant landscapes of the Caribbean, flamingos embark on a delicate life stage, seeking suitable mates, secure habitats, and the ideal timing to start their families.",
+      "risingAction": "The flamingos undergo grueling migrations and intricate courtship rituals, navigating precarious terrain and intense competition to establish pair bonds and build nests."
+    },
+    "characters": [
+      {
+        "name": "Caribbean Flamingos",
+        "role": "Hero",
+        "description": "The central subjects of the story, enduring a journey of survival, perseverance, and love during a fragile stage of their life cycle."
+      },
+      {
+        "name": "Julieta Venegas",
+        "role": "Supporting Character",
+        "description": "The narrator who guides the viewer through the birds' story with her voice."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Male Caribbean Flamingo",
+        "target": "Female Caribbean Flamingo",
+        "description": "Courtship & Mating Partners"
+      },
+      {
+        "source": "Flamingo Parents",
+        "target": "Flamingo Chicks",
+        "description": "Parents / Offspring"
+      },
+      {
+        "source": "Caribbean Flamingo Flock",
+        "target": "Yucatán Peninsula Habitat",
+        "description": "Inhabitants / Natural Environment"
+      },
+      {
+        "source": "Julieta Venegas",
+        "target": "Bryce Dessner",
+        "description": "Collaborators (Narrator & Music Composer)"
+      }
+    ],
+    "seo": {
+      "slug": "flamingos-life-after-the-meteorite",
+      "jsonLd": {
+        "name": "Flamingos: Life After the Meteorite",
+        "@type": "Movie",
+        "genre": [
+          "Documentary",
+          "Nature"
+        ],
+        "musicBy": {
+          "name": "Bryce Dessner",
+          "@type": "Person"
+        },
+        "@context": "[https://schema.org](https://schema.org)",
+        "narrator": {
+          "name": "Julieta Venegas",
+          "@type": "Person"
+        },
+        "description": "The search for the right partner, place, and moment to start a family is one of nature's most crucial journeys. This breathtaking story of love, survival, and perseverance follows Caribbean flamingos through one of the most fragile stages of their lives."
+      },
+      "keywords": [
+        "Flamingos Life After the Meteorite",
+        "Caribbean flamingos documentary",
+        "nature film",
+        "Julieta Venegas",
+        "Bryce Dessner",
+        "wildlife documentary",
+        "bird survival story"
+      ],
+      "canonical": "[https://movnix.com/movie/flamingos-life-after-the-meteorite](https://movnix.com/movie/flamingos-life-after-the-meteorite)",
+      "metaTitle": "Flamingos: Life After the Meteorite | Official Movie Page",
+      "openGraph": {
+        "og:title": "Flamingos: Life After the Meteorite",
+        "og:description": "Discover nature's breathtaking journey of love, survival, and perseverance in this immersive cinematic film featuring music by Bryce Dessner."
+      },
+      "twitterCard": {
+        "twitter:title": "Flamingos: Life After the Meteorite",
+        "twitter:description": "Follow the extraordinary story of Caribbean flamingos in a breathtaking tale of love and survival. Narrated by Julieta Venegas."
+      },
+      "metaDescription": "Experience a breathtaking journey of love, survival, and perseverance with Caribbean flamingos. Narrated by Julieta Venegas with music by Bryce Dessner."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is nature documentary. The film blends natural history cinematography with cinematic music and narration to chronicle the life cycle of Caribbean flamingos.",
+        "question": "What is the dominant genre of Flamingos: Life After the Meteorite?"
+      },
+      {
+        "answer": "No, it is a standalone documentary film rather than a installment in a film franchise or ongoing series.",
+        "question": "Is this movie part of a cinematic franchise?"
+      },
+      {
+        "answer": "No, like most nature documentaries, there are no narrative post-credit scenes after the credits conclude.",
+        "question": "Is there a post-credit scene in Flamingos: Life After the Meteorite?"
+      },
+      {
+        "answer": "The film is narrated by acclaimed Mexican singer-songwriter Julieta Venegas.",
+        "question": "Who provides the narration for the film?"
+      },
+      {
+        "answer": "The musical score for the documentary was composed by Bryce Dessner, known for his work with the band The National as well as film scoring.",
+        "question": "Who composed the music for the film?"
+      },
+      {
+        "answer": "The documentary was directed by Mexican cinematographer and filmmaker Lorenzo Hagerman.",
+        "question": "Who directed Flamingos: Life After the Meteorite?"
+      },
+      {
+        "answer": "The film focuses on the survival, courtship, and breeding journey of Caribbean flamingos in the Yucatán Peninsula region.",
+        "question": "What specific subject does the documentary focus on?"
+      },
+      {
+        "answer": "The title references the prehistoric impact in the Yucatán Peninsula that wiped out the non-avian dinosaurs millions of years ago, setting the historical backdrop for how avian species like flamingos adapted and thrive today.",
+        "question": "Why is the meteorite mentioned in the title?"
+      },
+      {
+        "answer": "The production collaborated with the Cornell Lab of Ornithology to study and capture authentic footage of the flamingos' life cycle.",
+        "question": "What organization collaborated on the bird research for the film?"
+      },
+      {
+        "answer": "Yes, as an educational nature documentary about animal life and survival, it is suitable for viewers of all ages.",
+        "question": "Is Flamingos: Life After the Meteorite suitable for a family audience?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jumpscares present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity used."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence; may include natural animal survival or predation struggles implied in nature documentaries."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or drug references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content; natural wildlife mating and nesting behaviors described in an educational context."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional intensity focusing on nature, wildlife survival, and parenting challenges."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 7,
+      "science": 7,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-08-01 17:39:40.615771",
+    "updated_at": "2026-08-01 17:39:40.615771"
+  }
 }
