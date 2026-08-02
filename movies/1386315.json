@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 1.7696,
+    "popularity": 2.1339,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1386315",
@@ -136,14 +136,42 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/o7G8ZAGrvBjnMO6wgehVncubaMw.jpg",
+      "filePath": "/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
-      "filePath": "/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
+      "filePath": "/dksOf8gP7TeoD68DIuQryrOQeEO.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1KohYajglCHxTgj2NY2WTI7gn9v.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8Zk4n3aEKor7q9e1j6xu1Awc6Zu.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -329,5 +357,221 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1386315/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1386315,
+    "hash": "81c0b17c322707cb5a24dbf3acd69dda32f0513448689cdab0d39295deb0a007",
+    "summary_one_sentence": "When her young son is kidnapped, high-powered London attorney Maia Marten must navigate a frantic race across the city while executing a series of cryptic, escalating commands from an unseen caller.",
+    "summary_short": "In this high-stakes action thriller, successful London attorney Maia Marten finds her world shattered when her young son is abducted. Forced to comply with the demands of an anonymous caller, Maia is plunged into a relentless urban chase across London. With every directive threatening to push her past her moral limits, she must outsmart a mysterious puppet master before time runs out to save her child.",
+    "summary_long": "Maia Marten is a formidable, high-powered attorney living in London who appears to have total control over her personal and professional life. Everything shatters when her young son is suddenly kidnapped by a cold, calculating strategist known only as 'The Caller.' Instead of demanding a standard ransom, the abductor forces Maia into a dangerous, high-speed ordeal across the metropolis, giving her precise, cryptic instructions that she must fulfill down to the second. As Maia sprints through the streets, subway stations, and landmarks of London, each task becomes increasingly dangerous and ethically compromised, testing how far she will go to protect her family. With local law enforcement struggling to track the shadowy perpetrator, Maia is forced to rely on her quick legal mind and raw survival instincts. As secrets from her past legal cases begin to resurface, she realizes the kidnapping is linked to a larger conspiracy. Racing against a ticking clock, Maia must untangle the caller's true motives and turn the tables on her tormentor to rescue her son.",
+    "synopsis": "The Runner is an intense, real-time-style thriller following Maia Marten, a top-tier attorney operating in London. After her young son is abducted by an elusive antagonist known as The Caller, Maia receives a deadly ultimatum: follow every command issued through her phone without alerting the authorities, or her son will pay with his life. Forced into a grueling physical and psychological race across London, Maia must navigate a series of clandestine tasks, unpredictable obstacles, and moral dilemmas designed to break her down. Along the way, she discovers that her tormentor's game is deeply tied to her past courtroom triumphs and high-profile legal battles. Tension builds as Maia utilizes her intellect, resilience, and resourcefulness to uncover the caller's identity while fighting against time to secure her son's safety.",
+    "keywords": [
+      "race against time",
+      "kidnapped child",
+      "mysterious caller",
+      "high stakes",
+      "london setting",
+      "female attorney",
+      "urban thriller",
+      "desperate parent",
+      "cat and mouse",
+      "ticking clock",
+      "extortion",
+      "conspiracy",
+      "high tension"
+    ],
+    "themes": [
+      {
+        "theme": "Parental Devotion & Protection",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Race Against Time",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Control & Manipulation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A frantic final confrontation brings her face-to-face with the perpetrator, forcing her to make a desperate choice to rescue her son before time runs out.",
+      "conflict": "Her son is suddenly abducted, and a mysterious caller demands total obedience to a series of cryptic, time-sensitive instructions.",
+      "resolution": "The ordeal comes to a tense conclusion as mother and son are reunited, leaving her to process the dramatic fallout of the day's events.",
+      "introduction": "A high-powered attorney lives a demanding, fast-paced life in London, unaware of the crisis about to shatter her routine.",
+      "risingAction": "She races across London under immense pressure, completing increasingly dangerous and compromising tasks while desperately searching for clues about the caller's identity."
+    },
+    "characters": [
+      {
+        "name": "Maia Marten",
+        "role": "Hero",
+        "description": "A high-powered London attorney who is forced into a desperate race against time through the city to save her kidnapped son."
+      },
+      {
+        "name": "The Caller",
+        "role": "Villain",
+        "description": "A mysterious, sinister figure on the phone who manipulates Maia with cryptic instructions and ruthless threats."
+      },
+      {
+        "name": "Noah Marten",
+        "role": "Supporting Character",
+        "description": "Maia's abducted young son whose kidnapping sets the dangerous events of the film into motion."
+      },
+      {
+        "name": "Supporting London Cast / Officials",
+        "role": "Supporting Character",
+        "description": "Various city authorities, legal associates, and bystanders encountered across London during the high-stakes ordeal."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "High-powered Attorney",
+        "target": "Young Son",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Mysterious Caller",
+        "target": "High-powered Attorney",
+        "description": "Extorter/Target"
+      },
+      {
+        "source": "Mysterious Caller",
+        "target": "Young Son",
+        "description": "Kidnapper/Hostage"
+      }
+    ],
+    "seo": {
+      "slug": "the-runner",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-runner](https://movnix.com/movie/the-runner)",
+        "name": "The Runner",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A high-powered attorney must race through London, following the cryptic commands of a mysterious caller, as she fights against time to save her abducted son."
+      },
+      "keywords": [
+        "The Runner movie",
+        "The Runner plot",
+        "London thriller movie",
+        "action thriller",
+        "kidnapping thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-runner](https://movnix.com/movie/the-runner)",
+      "metaTitle": "The Runner (2026) - Official Movie Overview & Plot | Movnix",
+      "openGraph": {
+        "og:title": "The Runner - Can She Save Her Son in Time?",
+        "og:description": "A high-powered attorney races through London following cryptic commands from a mysterious caller to save her abducted son."
+      },
+      "twitterCard": {
+        "twitter:title": "The Runner - Official Movie Overview",
+        "twitter:description": "A high-powered attorney races through London following cryptic commands to save her abducted son."
+      },
+      "metaDescription": "A high-powered London attorney races against time to save her abducted son while following a mysterious caller's cryptic commands. Watch 'The Runner'."
+    },
+    "faq": [
+      {
+        "answer": "'The Runner' is primarily an action-thriller and psychological suspense film centered on a high-stakes, race-against-the-clock survival situation.",
+        "question": "What is the dominant genre of 'The Runner'?"
+      },
+      {
+        "answer": "No, 'The Runner' is a standalone original film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is 'The Runner' part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes at the end of 'The Runner', so the story concludes as the main credits begin.",
+        "question": "Is there a post-credits scene in 'The Runner'?"
+      },
+      {
+        "answer": "'The Runner' stars Gal Gadot as high-powered attorney Maia Marten, alongside Damian Lewis as the mysterious antagonist orchestrating the plot.",
+        "question": "Who stars in 'The Runner'?"
+      },
+      {
+        "answer": "The film was directed by Oscar-winning filmmaker Kevin Macdonald, known for directing 'The Last King of Scotland' and 'State of Play'.",
+        "question": "Who directed 'The Runner'?"
+      },
+      {
+        "answer": "The story follows Maia, a high-powered London corporate attorney, whose morning run turns into a nightmare when her young son is kidnapped. She is forced to sprint through London following the cryptic and dangerous instructions of a mysterious caller to save her son's life.",
+        "question": "What is the main plot of 'The Runner'?"
+      },
+      {
+        "answer": "'The Runner' was shot on location across London, UK, utilizing iconic urban landmarks, public streets, and the London Underground network.",
+        "question": "Where was 'The Runner' filmed?"
+      },
+      {
+        "answer": "'The Runner' is distributed by Amazon MGM Studios and is available to stream globally on Prime Video.",
+        "question": "Where can I stream 'The Runner'?"
+      },
+      {
+        "answer": "No, 'The Runner' is not based on a true story or a novel; it is an original screenplay written by Mark Gibson.",
+        "question": "Is 'The Runner' based on a book or a true story?"
+      },
+      {
+        "answer": "The film is intended for adult audiences and older teens due to suspenseful themes, intense violence, danger, and mild language typical of action-thrillers.",
+        "question": "What is the target audience and age rating for 'The Runner'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low to moderate horror elements; psychological tension and suspense stem from the child abduction rather than supernatural or traditional horror tropes."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate strong language driven by high-stress and desperate situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate violence typical of a thriller, including physical altercations, threats of harm, and action Sequences as the protagonist races through London."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to mild substance use, potentially background alcohol or cigarette use typical of modern urban thriller settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity centered on child abduction, high-stakes parental desperation, and severe time pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-28 13:30:09.28828",
+    "updated_at": "2026-07-28 13:30:09.28828"
+  }
 }
