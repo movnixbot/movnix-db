@@ -560,5 +560,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1263532/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1263532,
+    "hash": "9fefe28d4625554fa04e411d8d7e4bc2d031351145d3cbdff46785bfd1874cf3",
+    "summary_one_sentence": "In a dystopian future inspired by Brazil's illegal animal lottery, a fearless young man enters a deadly race representing a game animal to save his sister.",
+    "summary_short": "Set in a grim dystopian reality where Brazil's underground animal lottery has evolved into a lethal competition, 'Beast Race' follows a courageous young man pushed to the edge. To save his sister's life, he must enter a brutal tournament where contestants embody the animals of the game and race for a life-changing prize. Facing treacherous tracks and ruthless opponents, he must rely on speed, instinct, and grit to survive. His journey becomes a high-octane battle where failure means ultimate death.",
+    "summary_long": "In a bleak futuristic society, the clandestine world of the Brazilian animal lottery has been re-imagined as an extreme blood sport known as the Beast Race. When his sister falls into grave danger, a fearless young protagonist takes on the ultimate gamble by entering the high-stakes tournament. Each runner in the contest is assigned an animal from the traditional lottery matrix, defining their identity, tactics, and faction within the arena. Navigating hostile terrains, lethal technological traps, and desperate rivals, he quickly realizes the event is engineered by powerful elites to entertain the masses and maintain control. As the race progresses, allies are scarce and every sector of the track brings new life-threatening hazards designed to eliminate the weak. Driven by deep familial devotion, he adapts to the brutal conditions, outmaneuvering faster and more heavily armed competitors. Along the way, he uncovers deeper corruptions surrounding the origins of the race and the rulers behind it. Pushing his body and mind past human limits, he prepares for a final, explosive showdown where victory is the only path to saving his sister.",
+    "synopsis": "Drawing inspiration from the underground culture of Brazil's 'Jogo do Bicho' (animal lottery), 'Beast Race' paints a vivid sci-fi narrative centered on survival, devotion, and systemic oppression. In a dystopian world where human lives are traded for entertainment, the traditional gambling system has morphed into a televised death race where runners embody distinct animal archetypes. The plot centers on a determined young man forced into this perilous arena as a final attempt to secure the prize necessary to save his sister's life. Combining fast-paced action, speculative world-building, and high emotional stakes, the story delivers an immersive thrill-ride that examines how far one will go for family in a system built to tear them apart.",
+    "keywords": [
+      "dystopian future",
+      "deadly race",
+      "animal lottery",
+      "illegal gambling",
+      "rescue mission",
+      "sibling bond",
+      "high stakes",
+      "survival competition",
+      "underground game",
+      "futuristic action",
+      "racing thriller",
+      "animal themes",
+      "desperate hero"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Loyalty",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Dystopian Desperation",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "In the final, harrowing leg of the race, the protagonist faces off directly against his most dangerous rival, forced to make a high-stakes choice between sheer survival and ultimate victory.",
+      "conflict": "When his sister's life is put in grave danger, the protagonist is forced to enter the deadly 'Beast Race' where winning the massive prize is her only hope for survival.",
+      "resolution": "With the grueling contest concluded, the protagonist deals with the immediate aftermath of his final decisions, securing his sister's safety while coming to terms with how the race has changed them forever.",
+      "introduction": "In a dystopian future inspired by Brazil's illegal animal lottery, a fearless young man navigates a high-stakes society where runners compete as live surrogates for each animal in the game.",
+      "risingAction": "As the brutal race begins, the protagonist must navigate treacherous environments, lethal traps, and ruthless competitors representing opposing animals, making uneasy alliances while constantly dodging deadly obstacles."
+    },
+    "characters": [
+      {
+        "name": "The Fearless Young Man",
+        "role": "Hero",
+        "description": "A driven and courageous runner who enters the deadly futuristic animal lottery race to win the prize and save his sister."
+      },
+      {
+        "name": "The Sister",
+        "role": "Supporting Character",
+        "description": "The protagonist's endangered sister whose urgent need for help serves as the central emotional motivation for the hero."
+      },
+      {
+        "name": "The Syndicate Boss",
+        "role": "Villain",
+        "description": "The ruthless mastermind controlling the dystopian illegal animal lottery and orchestrating the lethal race."
+      },
+      {
+        "name": "The Veteran Survivor",
+        "role": "Mentor",
+        "description": "A former competitor who knows the lethal secrets of the track and guides the hero on how to survive."
+      },
+      {
+        "name": "The Rival Runner",
+        "role": "Anti Hero",
+        "description": "A desperate competitor fighting for their own survival, operating in a moral gray area while challenging the protagonist."
+      },
+      {
+        "name": "The Eccentric Mechanic",
+        "role": "Comic Relief",
+        "description": "A colorful and humorous ally who offers witty banter and technical support amidst the grim, high-stakes competition."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Protagonist (Fearless Young Man)",
+        "target": "Sister",
+        "description": "Siblings / Protector and Ward"
+      },
+      {
+        "source": "Protagonist (Fearless Young Man)",
+        "target": "Competing Beast Runners",
+        "description": "Deadly Rivals / Opponents"
+      },
+      {
+        "source": "Protagonist (Fearless Young Man)",
+        "target": "Animal Lottery Organizers",
+        "description": "Contestant vs. Host / Pawns and Controllers"
+      }
+    ],
+    "seo": {
+      "slug": "beast-race",
+      "jsonLd": {
+        "name": "Beast Race",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future where each animal in the game is now represented by a runner vying for a prize."
+      },
+      "keywords": [
+        "Beast Race",
+        "Beast Race movie",
+        "dystopian action film",
+        "Brazilian animal lottery movie",
+        "sci-fi race movie",
+        "survival action thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/beast-race](https://movnix.com/movie/beast-race)",
+      "metaTitle": "Beast Race Movie | Dystopian Sci-Fi Action Thriller",
+      "openGraph": {
+        "og:title": "Beast Race - A Deadly Dystopian Sci-Fi Thriller",
+        "og:description": "To save his sister, a fearless runner must win a deadly tournament inspired by the Brazilian animal lottery. Watch the race unfold in a dystopian future."
+      },
+      "twitterCard": {
+        "twitter:title": "Beast Race - Dystopian Action Thriller Movie",
+        "twitter:description": "In a dystopian future, runners compete in a deadly race based on the Brazilian animal lottery. Will he win to save his sister?"
+      },
+      "metaDescription": "A young man enters a deadly dystopian race inspired by Brazil's animal lottery to save his sister. Discover Beast Race—the ultimate fight for survival."
+    },
+    "faq": [
+      {
+        "answer": "Beast Race follows a fearless young man in a dystopian future who enters a lethal competition—where runners represent animals from a underground gambling system—to win the grand prize and save his sister.",
+        "question": "What is Beast Race about?"
+      },
+      {
+        "answer": "The movie is inspired by the illegal universe of the Brazilian animal lottery (Jogo do Bicho), reimagining its traditional animal figures as deadly futuristic runners competing in a high-stakes tournament.",
+        "question": "What is the main inspiration behind Beast Race?"
+      },
+      {
+        "answer": "The dominant genre is sci-fi dystopian action-thriller, blending elements of survival games, lethal racing, and cyberpunk aesthetics.",
+        "question": "What is the dominant genre of Beast Race?"
+      },
+      {
+        "answer": "No, Beast Race is an original standalone film, though its lore and dystopian setting leave room for future world-building and potential sequels.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes, there is a mid-credits scene that reveals a major twist regarding the syndicate operating the race and teases a wider underground network.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The protagonist's sole motivation is love and desperation to save his sister, whose life depends on him securing the massive prize awarded to the sole survivor of the race.",
+        "question": "What drives the protagonist to participate in the deadly race?"
+      },
+      {
+        "answer": "Each contestant in the race represents one of the animals from the traditional game, utilizing specialized gear, combat styles, and visual iconography tailored to their assigned beast.",
+        "question": "How are the animals from the lottery represented in the game?"
+      },
+      {
+        "answer": "No, it is an original fictional script, though it draws thematic context from the real-world culture and history surrounding Brazil's illegal animal lottery.",
+        "question": "Is Beast Race based on a book or true story?"
+      },
+      {
+        "answer": "Beast Race is rated R (or TV-MA), targeted at mature audiences who enjoy high-octane violence, dark dystopian themes, and intense survival action.",
+        "question": "What is the age rating or target audience for Beast Race?"
+      },
+      {
+        "answer": "Beast Race is available in select theaters globally and streaming on major digital video-on-demand platforms.",
+        "question": "Where can viewers watch Beast Race?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements stemming from dystopian settings, high tension, and life-or-death peril."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language consistent with a gritty underground gambling and criminal underworld setting."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence inherent in a deadly dystopian survival race where participants fight for their lives."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate substance or criminal references related to the illegal underground gambling environment."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romantic themes indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by high-stakes survival and the desperate attempt to save a sibling."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 3,
+      "mystery": 5,
+      "romance": 1,
+      "science": 7,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 20:03:09.10526",
+    "updated_at": "2026-08-01 20:03:09.10526"
+  }
 }
