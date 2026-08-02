@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.0035,
+    "popularity": 4.8872,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://bleeckerstreetmedia.com/victorian-psycho",
@@ -181,6 +181,20 @@
       "filePath": "/PknxspZqEf739GAC4L50jF9aNv.jpg",
       "width": 1280,
       "height": 1920,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/IpBMXQTGiLfrrxuswlGgcMp5Yo.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3KWoRtwzeOSsJVOBuVTHXdMoLNT.jpg",
+      "width": 1365,
+      "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -419,5 +433,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1379486/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1379486,
+    "hash": "c4145871f1316961e3aded6ef65a1c8b4c2f64780c254fb580cf4af94ade6fda",
+    "summary_one_sentence": "When an eccentric young governess with hidden psychopathic tendencies arrives at a remote Victorian manor, her violent inner urges begin to unravel the household's aristocratic calm.",
+    "summary_short": "In 1858, an eccentric governess named Winifred Notty takes up a position at Ensor House to care for the children of the wealthy Pound family. Behind her demure facade, Winifred harbors violent psychopathic tendencies and an inner persona she lovingly nurtures. As members of the manor's staff begin mysteriously disappearing, the self-absorbed employers slowly suspect something is deeply amiss with their new employee. Winifred's unhinged dark fantasies and brutal acts threaten to completely dismantle the estate's rigid Victorian order.",
+    "summary_long": "In 1858, young governess Winifred Notty arrives at the sprawling Gothic estate of Ensor House to tutor the children of the wealthy Pound family. On the surface, Winifred presents herself as a polite and eager educator who teaches table manners and family history. Beneath her proper exterior, however, Winifred secretly harbors dangerous, violent impulses driven by an inner dark persona. She quickly befriends the innocent family maid while simultaneously alarming the children with eerie lessons on suffering and morality. Unsettling events soon plague the manor, ranging from mutilated livestock to strange occurrences in the dead of night. When members of the estate staff begin to vanish without a trace, panic and suspicion begin to simmer beneath the surface. The elitist Mr. and Mrs. Pound remain largely oblivious, distracted by their own snobbish preoccupations and absurd upper-class cruelties. As Winifred's grasp on her civilized persona slips, her bloody acts escalate in scale and savagery. What begins as a desperate quest for acceptance devolves into a chaotic wave of macabre violence. Ultimately, the delicate Victorian veneer of Ensor House shatters completely under the fury of Winifred's unleashed madness.",
+    "synopsis": "Set in Victorian England in 1858, Victorian Psycho follows Winifred Notty, an eccentric governess who takes up employment at Ensor House, the grand Gothic estate of the aristocratic Pound family. Tasked with teaching the young heirs table manners, history, and social etiquette, Winifred strives to project the picture of a demure, dedicated domestic tutor eager to integrate into polite society. However, beneath her polished appearance lies a deeply disturbed mind battling violent, murderous urges that she attributes to an internal entity. As Winifred assimilates into household life and interacts with both the cold, class-obsessed owners and the vulnerable domestic staff, strange and horrifying incidents begin to disrupt the quiet routine of the manor. Unexplained disappearances and unsettling acts of violence soon stir growing suspicion throughout the house. Blending dark gothic horror with biting social satire, the story explores female rage, class conflict, and the hypocrisies of Victorian elite culture as a killer walks the halls of Ensor House.",
+    "keywords": [
+      "gothic manor",
+      "governess protagonist",
+      "victorian era",
+      "secret identity",
+      "unreliable narrator",
+      "psychological horror",
+      "remote setting",
+      "creepy children",
+      "domestic noir",
+      "sinister secrets",
+      "haunted house vibes",
+      "period thriller",
+      "deceptive facade",
+      "dark secrets"
+    ],
+    "themes": [
+      {
+        "theme": "Deception & Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Gothic Horror & Isolation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival & Danger",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Gothic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The simmering tension reaches a boiling point in a decisive confrontation where the true nature of Winifred and the danger looming over the manor are dramatically exposed.",
+      "conflict": "A series of unsettling and mysterious events begins to disturb the manor, driving the household to suspect that Winifred is hiding her true identity and motives.",
+      "resolution": "In the violent aftermath, the remnants of the household contend with the truth, establishing the final status of the estate and Winifred's fate.",
+      "introduction": "Eccentric young governess Winifred Notty arrives at a remote Gothic manor, establishing her place in the eerie household and introducing the dreary, secluded setting.",
+      "risingAction": "As paranoia deepens, secret suspicions intensify and tensions rise while the residents attempt to investigate Winifred, revealing increasingly dangerous undercurrents within the estate."
+    },
+    "characters": [
+      {
+        "name": "Winifred Notty",
+        "role": "Anti Hero",
+        "description": "An eccentric and dangerous young governess whose mysterious arrival at a remote Gothic manor triggers a wave of unsettling events."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Winifred Notty",
+        "target": "John Pounds",
+        "description": "Governess and Employer"
+      },
+      {
+        "source": "Winifred Notty",
+        "target": "Mrs. Pounds",
+        "description": "Governess and Employer / Antagonists"
+      },
+      {
+        "source": "Winifred Notty",
+        "target": "Drusilla Pounds",
+        "description": "Governess and Pupil / Accomplices in Chaos"
+      },
+      {
+        "source": "Winifred Notty",
+        "target": "Andrew Pounds",
+        "description": "Governess and Pupil / Tormentor and Target"
+      },
+      {
+        "source": "John Pounds",
+        "target": "Mrs. Pounds",
+        "description": "Husband and Wife"
+      },
+      {
+        "source": "Drusilla Pounds",
+        "target": "Andrew Pounds",
+        "description": "Siblings"
+      },
+      {
+        "source": "John Pounds",
+        "target": "Drusilla Pounds",
+        "description": "Father and Daughter"
+      },
+      {
+        "source": "John Pounds",
+        "target": "Andrew Pounds",
+        "description": "Father and Son"
+      }
+    ],
+    "seo": {
+      "slug": "victorian-psycho",
+      "jsonLd": {
+        "name": "Victorian Psycho",
+        "@type": "Movie",
+        "@context": "https://schema.org",
+        "description": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine."
+      },
+      "keywords": [
+        "Victorian Psycho",
+        "Victorian Psycho movie",
+        "Winifred Notty",
+        "Gothic horror movie",
+        "Victorian Psycho plot",
+        "Victorian Psycho overview"
+      ],
+      "canonical": "https://movnix.com/movie/victorian-psycho",
+      "metaTitle": "Victorian Psycho Movie - Plot, Release Date & Overview",
+      "openGraph": {
+        "og:title": "Victorian Psycho - Official Overview & Movie Info",
+        "og:description": "Winifred Notty's arrival at a remote Gothic manor unleashes unsettling secrets. Is she who she claims to be?"
+      },
+      "twitterCard": {
+        "twitter:title": "Victorian Psycho - Movie Overview",
+        "twitter:description": "Winifred Notty's arrival at a remote Gothic manor unleashes unsettling secrets. Is she who she claims to be?"
+      },
+      "metaDescription": "Discover Victorian Psycho: When governess Winifred Notty arrives at a remote Gothic manor, dark secrets and deadly truth unfold. Read the full movie overview."
+    },
+    "faq": [
+      {
+        "answer": "Victorian Psycho is primarily a gothic horror-comedy and psychological thriller that combines gruesome violence with dark, satirical humor.",
+        "question": "What is the dominant genre of Victorian Psycho?"
+      },
+      {
+        "answer": "No, Victorian Psycho is a standalone feature film and is not part of an existing movie franchise or cinematic universe.",
+        "question": "Is Victorian Psycho part of a franchise?"
+      },
+      {
+        "answer": "No, despite the similarity in title and thematic focus on a psychopathic protagonist, Victorian Psycho is completely unrelated to Bret Easton Ellis's American Psycho.",
+        "question": "Is Victorian Psycho connected to American Psycho?"
+      },
+      {
+        "answer": "Yes, the film is adapted from the 2025 novel of the same name written by Virginia Feito, who also wrote the screenplay for the movie.",
+        "question": "Is Victorian Psycho based on a book?"
+      },
+      {
+        "answer": "Maika Monroe stars as the eccentric and murderous governess, Winifred Notty. The ensemble cast also features Thomasin McKenzie, Ruth Wilson, and Jason Isaacs.",
+        "question": "Who stars as the lead character, Winifred Notty?"
+      },
+      {
+        "answer": "The film was directed by Zachary Wigon, who previously directed the psychological thriller Sanctuary (2022).",
+        "question": "Who directed Victorian Psycho?"
+      },
+      {
+        "answer": "Victorian Psycho is rated R for strong bloody violence and brief sexual material.",
+        "question": "What is the film's official age rating?"
+      },
+      {
+        "answer": "The story takes place in 1858 at a secluded gothic manor known as Ensor House in the English countryside.",
+        "question": "Where and when is Victorian Psycho set?"
+      },
+      {
+        "answer": "No, Victorian Psycho does not feature any additional scenes during or after the end credits.",
+        "question": "Is there a post-credits scene in Victorian Psycho?"
+      },
+      {
+        "answer": "The plot follows Winifred Notty, a seemingly refined governess who arrives at the estate of the wealthy Pounds family to tutor their children, while secretly concealing violent, psychopathic compulsions as household members begin mysteriously disappearing.",
+        "question": "What is the main story of Victorian Psycho?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High levels of dark Gothic horror, grotesque bodily imagery, psychological dread, and persistent macabre themes."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate use of sharp, sardonic profanity and harsh Victorian insult."
+      },
+      "violence": {
+        "score": 9,
+        "description": "Graphic and visceral violence including gruesome murders, bodily dismemberment, violent compulsions, and morbid harm towards both adults and children."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Minor depictions of alcohol consumption during Victorian meals and period-typical medicinal substances."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Mild to moderate sexual references, including unwanted gazes, lewd comments, and perverted behavior, without explicit sexual acts depicted."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense psychological themes featuring unremitting psychopathy, child torment, and unsettling dark compulsions."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 2,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-31 19:05:40.441584",
+    "updated_at": "2026-07-31 19:05:40.441584"
+  }
 }
