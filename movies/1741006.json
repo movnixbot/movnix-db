@@ -202,5 +202,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1741006/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1741006,
+    "hash": "6b13af995b353a4d0c7e8cac034f4f27e72dcadd4fed7d42254fa1d5fa468261",
+    "summary_one_sentence": "When a pregnant woman's murder appears tied to a black magic ritual, a determined police officer reopens a cold case and uncovers a deadly web of superstition, corruption, and dark secrets.",
+    "summary_short": "A pregnant woman is found brutally murdered in what appears to be a black magic ritual, prompting a seasoned police officer to link the crime to an unsolved cold case. As the officer delves deeper into the investigation, key witnesses and individuals connected to the murder begin to die under mysterious circumstances. The probe forces the protagonist to navigate a dangerous environment filled with deep-seated superstition, political corruption, and long-buried secrets. Ultimately, the officer must race against time to stop the unseen forces before becoming the next victim.",
+    "summary_long": "The murder of a pregnant woman under chilling circumstances points toward a sinister ritual involving black magic, shocking the local police department. Tasked with the investigation, a veteran officer notices striking similarities between this incident and a dormant cold case from years past. Reopening the old file reveals a history of unaddressed crimes that were previously swept under the rug by influential figures. As the officer presses forward, key informants and suspects involved in the original case begin to die mysteriously one after another. The escalating body count suggests a coordinated effort to keep a dark truth buried at all costs. Struggling against institutional corruption and resistance from within the department, the officer must discern between genuine supernatural elements and human malevolence. Navigating through a murky web of local superstition, greed, and cover-ups, the investigator slowly uncovers a high-reaching conspiracy. With time running out and danger closing in, the officer must confront the mastermind behind the killings to deliver justice for the victims.",
+    "synopsis": "Police Complaint is a dark and suspenseful thriller that centers on a high-stakes criminal investigation triggered by the horrific murder of a pregnant woman. Found at a crime scene bearing all the hallmarks of a ritualistic black magic killing, the victim's death sends shockwaves through the community. The case is assigned to an intuitive police officer who quickly realizes that the murder is not an isolated event, but rather connected to a forgotten cold case that was mysteriously abandoned years ago.\n\nUpon reopening the file, the officer encounters extreme pushback from powerful individuals and corrupt officials determined to keep past events hidden. The investigation takes a perilous turn as individuals tied to the original crime begin dying under unexplained and eerie circumstances, raising the question of whether a human perpetrator or something more occult is at play. Blending elements of fast-paced action, intense mystery, and grounded drama, the story follows the officer's relentless pursuit of the truth through a labyrinth of superstition, systemic corruption, and deadly secrets.",
+    "keywords": [
+      "murder investigation",
+      "pregnant victim",
+      "black magic ritual",
+      "cold case reopened",
+      "mysterious deaths",
+      "occult mystery",
+      "systemic corruption",
+      "superstition",
+      "dark secrets",
+      "curse or conspiracy",
+      "detective procedural",
+      "supernatural elements",
+      "police investigation",
+      "small-town secrets"
+    ],
+    "themes": [
+      {
+        "theme": "Superstition",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Corruption",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Secrets & Deceit",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.84
+      }
+    ],
+    "story_structure": {
+      "climax": "The officer confronts the key figures driving the conspiracy, risking everything to expose the truth behind the ritualistic killings.",
+      "conflict": "The investigation escalates into danger as individuals connected to the original crime begin dying under mysterious circumstances.",
+      "resolution": "The web of deceit and superstition is unraveled, bringing long-overdue justice to the cold case and bringing closure to the investigation.",
+      "introduction": "An officer reopens a cold case after a pregnant woman is found murdered in what appears to be a black magic ritual.",
+      "risingAction": "As the body count rises, the probe unveils a deeply entrenched network of dark superstition, official corruption, and hidden agendas."
+    },
+    "characters": [
+      {
+        "name": "Investigating Officer (Naveen Chandra)",
+        "role": "Hero",
+        "description": "A determined police officer who reopens the cold case to uncover the truth behind the murder and the surrounding conspiracy."
+      },
+      {
+        "name": "Lead Investigator / Partner (Varalaxmi Sarathkumar)",
+        "role": "Hero",
+        "description": "A sharp, fearless officer working alongside the investigation to dismantle the corruption and superstitious network."
+      },
+      {
+        "name": "Local Antagonist / Ring Leader (P. Ravi Shankar)",
+        "role": "Villain",
+        "description": "A menacing figure involved in the shadowy network of black magic superstition and systemic corruption."
+      },
+      {
+        "name": "Key Witness / Victim (Ragini Dwivedi)",
+        "role": "Supporting Character",
+        "description": "A central figure connected to the initial murder cold case whose past secrets trigger the present timeline murders."
+      },
+      {
+        "name": "Police Sidekick (Saptagiri)",
+        "role": "Comic Relief",
+        "description": "An officer providing humor and lighthearted commentary to ease the tension during the dark investigation."
+      },
+      {
+        "name": "Family Member / Matriarch (Rajshri Nair)",
+        "role": "Supporting Character",
+        "description": "A figure connected to the village and family secrets involved in the occult traditions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Police Officer",
+        "target": "Pregnant Woman",
+        "description": "Investigator / Murder Victim"
+      },
+      {
+        "source": "Police Officer",
+        "target": "Corrupt Network & Practitioners",
+        "description": "Investigator / Antagonists"
+      },
+      {
+        "source": "Pregnant Woman",
+        "target": "Corrupt Network & Practitioners",
+        "description": "Target of Black Magic Ritual / Murder Victims"
+      },
+      {
+        "source": "Police Officer",
+        "target": "Cold Case Victims",
+        "description": "Investigator Reopening Past Unsolved Crimes"
+      }
+    ],
+    "seo": {
+      "slug": "police-complaint",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/police-complaint](https://movnix.com/movie/police-complaint)",
+        "name": "Police Complaint",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A pregnant woman's murder in a suspected black magic ritual leads an officer to reopen a cold case. As those connected to the crime die mysteriously, the probe reveals a disturbing network of superstition, corruption, and secrets."
+      },
+      "keywords": [
+        "Police Complaint movie",
+        "Police Complaint synopsis",
+        "black magic crime movie",
+        "cold case thriller",
+        "corruption mystery film"
+      ],
+      "canonical": "[https://movnix.com/movie/police-complaint](https://movnix.com/movie/police-complaint)",
+      "metaTitle": "Police Complaint (Movie) - Plot Synopsis & Streaming Info",
+      "openGraph": {
+        "og:title": "Police Complaint - Mystery & Crime Thriller",
+        "og:description": "When a pregnant woman's murder points to black magic, a cold case reopens a web of deadly superstition and corruption."
+      },
+      "twitterCard": {
+        "twitter:title": "Police Complaint - Mystery & Crime Thriller",
+        "twitter:description": "When a pregnant woman's murder points to black magic, a cold case reopens a web of deadly superstition and corruption."
+      },
+      "metaDescription": "A pregnant woman's murder leads an officer down a dark path of black magic, corruption, and deadly secrets. Discover Police Complaint today."
+    },
+    "faq": [
+      {
+        "answer": "The story follows a police officer who reopens a cold case after a pregnant woman is murdered in what appears to be a black magic ritual. As the investigation progresses, connected individuals die mysteriously, exposing a dark network of corruption, superstition, and secrets.",
+        "question": "What is the main premise of Police Complaint?"
+      },
+      {
+        "answer": "The dominant genres are investigative thriller, mystery, and crime drama, with strong dark supernatural and psychological horror elements.",
+        "question": "What is the dominant genre of Police Complaint?"
+      },
+      {
+        "answer": "No, Police Complaint is a standalone crime thriller narrative and is not part of an established franchise or cinematic universe.",
+        "question": "Is Police Complaint part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story fully resolves its central mystery before the end credits roll.",
+        "question": "Is there a post-credit scene in Police Complaint?"
+      },
+      {
+        "answer": "While inspired by real-world themes of occult practice, superstition, and administrative corruption, Police Complaint is a fictional narrative.",
+        "question": "Is Police Complaint based on a true story?"
+      },
+      {
+        "answer": "The central protagonist is a dedicated police detective who risks his career and safety to uncover the truth behind the cold case and the series of ritualistic deaths.",
+        "question": "Who is the primary protagonist in the story?"
+      },
+      {
+        "answer": "It is intended for mature audiences due to intense themes involving murder, occult rituals, violence, psychological tension, and corruption.",
+        "question": "What age rating or content warnings apply to Police Complaint?"
+      },
+      {
+        "answer": "Black magic serves as both a central motif and a catalyst for the crime, driving the mystery while masking deeper human motives such as greed, power, and institutional corruption.",
+        "question": "What role does black magic play in the plot?"
+      },
+      {
+        "answer": "Tension builds as witnesses and key figures connected to the initial murder begin dying under mysterious, seemingly unnatural circumstances, putting the lead officer in a race against time.",
+        "question": "What drives the tension throughout the investigation?"
+      },
+      {
+        "answer": "Availability depends on regional distribution deals; check your local theatrical listings or major video-on-demand and streaming platforms for current streaming rights.",
+        "question": "Where can I watch Police Complaint?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Features dark themes surrounding black magic rituals, disturbing superstitions, and occult elements."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential mild to moderate profanity typical of dark crime drama narratives."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Includes themes of ritualistic murder, cold case investigations, and a series of mysterious deaths."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance use or drug references indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit themes described."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by unsettling plot elements like the murder of a pregnant woman and dark systemic corruption."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 2,
+      "mystery": 9,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-02 14:10:42.494696",
+    "updated_at": "2026-08-02 14:10:42.494696"
+  }
 }
