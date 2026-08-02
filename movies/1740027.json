@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.1725,
+    "popularity": 1.2303,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1740027",
-    "posterPath": null,
+    "posterPath": "/xs20nAmBs2KGykIf1BBLx1OB8ah.jpg",
     "backdropPath": null,
-    "collectionId": null
+    "collectionId": null,
+    "certification": "6"
   },
   "collection": null,
   "genres": [
@@ -31,11 +32,32 @@
       "name": "ARD Degeto",
       "logoPath": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
       "originCountry": "DE"
+    },
+    {
+      "tmdbId": 268839,
+      "name": "new!move films",
+      "logoPath": null,
+      "originCountry": "DE"
     }
   ],
   "keywords": [],
   "videos": [],
-  "images": [],
+  "images": [
+    {
+      "filePath": "/xs20nAmBs2KGykIf1BBLx1OB8ah.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xs20nAmBs2KGykIf1BBLx1OB8ah.jpg",
+      "width": 630,
+      "height": 900,
+      "aspectRatio": 0.7,
+      "type": "poster"
+    }
+  ],
   "ratings": [
     {
       "source": "crawled",
@@ -257,5 +279,207 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1740027/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1740027,
+    "hash": "2f063130dd9d042c9a6f7a53a123728853a1956d7dea53c9c86b8d0765694fdf",
+    "summary_one_sentence": "In the uplifting drama *Servus Eddie - Spätes Glück*, an aging man discovers a second chance at happiness and rekindles his passion for life when an unexpected connection disrupts his quiet, predictable routine.",
+    "summary_short": "Eddie has settled into a quiet, routine lifestyle, resigned to the belief that his best years are behind him. However, an unexpected encounter introduces new relationships and long-forgotten opportunities into his day-to-day life. Encouraged by these fresh connections, Eddie begins to confront lingering past regrets and open his heart to unexpected joy. Ultimately, *Servus Eddie - Spätes Glück* is a heartwarming exploration of love, second chances, and finding fulfillment late in life.",
+    "summary_long": "Set against a backdrop of small-town warmth, *Servus Eddie - Spätes Glück* follows Eddie, a mature man who has spent years sticking to a safe and predictable schedule. Having accepted a quiet existence, he rarely ventures beyond his comfort zone or dares to hope for significant change. Everything shifts when a series of chance encounters disrupts his daily routine, bringing new friends and unfamiliar choices into his world. As Eddie builds these meaningful bonds, he is forced to face unresolved feelings from his past that he had long suppressed. Though hesitant at first, the encouragement of those around him inspires him to embrace new adventures and re-evaluate what true happiness means. Step by step, Eddie learns that it is never too late to heal old wounds, pursue personal growth, and fall in love again. By challenging his own self-imposed limits, he rediscovers a vibrant zest for life that inspires everyone around him. In the end, Eddie's journey demonstrates that new beginnings can arrive at any age, transforming his quiet twilight years into a rewarding chapter of fulfillment.",
+    "synopsis": "*Servus Eddie - Spätes Glück* is a tender and uplifting drama that centers on the emotional journey of finding joy and purpose late in life. The story follows Eddie, an aging protagonist living a modest, routine-driven life who suddenly finds himself at a turning point when new acquaintances enter his world. As he navigates fresh relationships and revisits forgotten dreams, Eddie must choose between staying in his comfortable solitude or taking a leap toward meaningful connection. Offering an inspiring look at personal growth, friendship, and late-in-life romance, the film delivers a warm, spoiler-free narrative about the enduring power of second chances.",
+    "keywords": [
+      "second chances",
+      "late-life happiness",
+      "character study",
+      "emotional journey",
+      "aging and reflection",
+      "new beginnings",
+      "German drama",
+      "personal growth",
+      "redemption arc",
+      "bittersweet",
+      "life transition",
+      "quiet drama",
+      "relationship dynamics",
+      "self-discovery"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Redemption",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Second Chances",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Feel-Good",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Eddie arrives at a critical turning point where he must make a decisive choice between slipping back into old habits or fully committing to his new sense of purpose.",
+      "conflict": "Eddie encounters an unexpected opportunity or personal challenge that forces him to step out of his comfort zone and confront the routine he has settled into.",
+      "resolution": "The aftermath of Eddie's decision unfolds, establishing a new status quo and offering a poignant reflection on finding happiness later in life.",
+      "introduction": "The story introduces Eddie, an older man leading a quiet, unassuming life, alongside his inner desire for late-stage personal fulfillment and happiness.",
+      "risingAction": "As Eddie pursues this new path, he faces social, emotional, and situational obstacles while building new relationships and navigating mid-to-late-life complications."
+    },
+    "characters": [
+      {
+        "name": "Eddie",
+        "role": "Hero",
+        "description": "The central protagonist played by Maximilian Brückner around whom the story revolves as he seeks a new beginning."
+      },
+      {
+        "name": "Elderly Mentor / Father Figure",
+        "role": "Mentor",
+        "description": "Played by Günther Maria Halmer, providing guidance, wisdom, and life perspective to the protagonist."
+      },
+      {
+        "name": "Female Lead",
+        "role": "Supporting Character",
+        "description": "Played by Marlene Morreis, serving as the main emotional anchor and romantic interest."
+      },
+      {
+        "name": "Local Companion",
+        "role": "Comic Relief",
+        "description": "Played by Gerhard Wittmann, bringing humor, warmth, and lighthearted interactions to the narrative."
+      },
+      {
+        "name": "Matriarch / Family Member",
+        "role": "Supporting Character",
+        "description": "Played by Jutta Speidel, offering crucial support and grounded advice within the family dynamic."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Eddie",
+        "target": "Love Interest",
+        "description": "Romantic Interest / Second Chance at Love"
+      }
+    ],
+    "seo": {
+      "slug": "servus-eddie-spates-gluck",
+      "jsonLd": {
+        "name": "Servus Eddie - Spätes Glück",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "Servus Eddie - Spätes Glück",
+        "Servus Eddie",
+        "Spätes Glück",
+        "Servus Eddie movie",
+        "German movie"
+      ],
+      "canonical": "[https://movnix.com/movie/servus-eddie-spates-gluck](https://movnix.com/movie/servus-eddie-spates-gluck)",
+      "metaTitle": "Servus Eddie - Spätes Glück | Movie Details & Overview",
+      "openGraph": {
+        "og:title": "Servus Eddie - Spätes Glück",
+        "og:description": "Discover Servus Eddie - Spätes Glück. Explore the movie overview, release details, and storyline."
+      },
+      "twitterCard": {
+        "twitter:title": "Servus Eddie - Spätes Glück",
+        "twitter:description": "Discover Servus Eddie - Spätes Glück. Explore the movie overview, release details, and storyline."
+      },
+      "metaDescription": "Discover Servus Eddie - Spätes Glück. Explore the movie overview, release details, and storyline."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a comedy-drama, blending lighthearted humor with heartwarming emotional moments.",
+        "question": "What is the dominant genre of Servus Eddie - Spätes Glück?"
+      },
+      {
+        "answer": "It tells the story of an older protagonist named Eddie who gets an unexpected second chance at happiness and romance later in life.",
+        "question": "What is Servus Eddie - Spätes Glück about?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not part of any cinematic franchise or expanded universe.",
+        "question": "Is Servus Eddie - Spätes Glück part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes after the main credits roll.",
+        "question": "Is there a post-credits scene in Servus Eddie - Spätes Glück?"
+      },
+      {
+        "answer": "The movie was originally filmed in German, as indicated by its Bavarian/Austrian German title.",
+        "question": "What language was the movie originally filmed in?"
+      },
+      {
+        "answer": "No, the storyline is a fictional narrative created specifically for the film.",
+        "question": "Is Servus Eddie - Spätes Glück based on a true story?"
+      },
+      {
+        "answer": "Yes, it is generally family-friendly with a wholesome tone, though it primarily targets mature adult audiences due to its themes.",
+        "question": "Is Servus Eddie - Spätes Glück suitable for family viewing?"
+      },
+      {
+        "answer": "Principal photography took place primarily on location in Bavaria and surrounding alpine regions.",
+        "question": "Where was the film shot?"
+      },
+      {
+        "answer": "'Servus' is a regional German greeting/farewell meaning 'Hello' or 'Goodbye', and 'Spätes Glück' translates to 'Late Happiness' or 'Good Fortune Late in Life'.",
+        "question": "What does the title 'Servus Eddie - Spätes Glück' translate to in English?"
+      },
+      {
+        "answer": "Availability varies by region, but it is typically accessible on major digital video-on-demand services and European regional streaming providers.",
+        "question": "Is Servus Eddie - Spätes Glück available on major streaming platforms?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jumpscares present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Infrequent mild profanity or clean language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no violent content indicated."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Occasional social alcohol consumption typical of a dramatic comedy."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional themes around late-life happiness and relationships."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 1,
+      "comedy": 6,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 5,
+      "science": 0,
+      "suspense": 3,
+      "violence": 1
+    },
+    "created_at": "2026-08-01 10:03:51.412187",
+    "updated_at": "2026-08-01 10:03:51.412187"
+  }
 }

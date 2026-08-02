@@ -10,9 +10,9 @@
     "budget": "21000000",
     "revenue": "41235665",
     "status": "Released",
-    "popularity": 21.1713,
-    "voteAverage": 6.527,
-    "voteCount": 766,
+    "popularity": 21.7452,
+    "voteAverage": 6.512,
+    "voteCount": 776,
     "homepage": "http://www.primatemovie.com",
     "posterPath": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
     "backdropPath": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
@@ -1389,13 +1389,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/blo5brLMk6SIVHs3NnQDbfcDNKv.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/AspK9QB6y6BYcKvLzGUyROTF20Y.jpg",
       "width": 2025,
       "height": 1139,
@@ -1553,8 +1546,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.527,
-      "votesCount": 766
+      "ratingValue": 6.512,
+      "votesCount": 776
     },
     {
       "source": "imdb",
@@ -1800,12 +1793,20 @@
     "us": {
       "flatrate": [
         {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
           "name": "Paramount Plus Essential",
           "logo": "/5wym1C0jAvJeGirPdgVpcW0CCuy.jpg"
         },
         {
           "name": "Paramount+ Roku Premium Channel",
           "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
         }
       ],
       "buy": [
