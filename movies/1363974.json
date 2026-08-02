@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.3239,
-    "voteAverage": 6.5,
-    "voteCount": 11,
+    "popularity": 21.3911,
+    "voteAverage": 7.85,
+    "voteCount": 20,
     "homepage": "https://slime-movie-2.com",
     "posterPath": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
     "backdropPath": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
@@ -106,6 +106,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/cmYFNjvmWYwwwpcNdcyLE87LzoF.jpg",
+      "width": 1325,
+      "height": 1985,
+      "aspectRatio": 0.668,
+      "type": "poster"
     },
     {
       "filePath": "/wfbQb2XmEwyqLi3htVyXAxFM2rN.jpg",
@@ -203,13 +210,6 @@
       "width": 953,
       "height": 1429,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/cmYFNjvmWYwwwpcNdcyLE87LzoF.jpg",
-      "width": 1325,
-      "height": 1985,
-      "aspectRatio": 0.668,
       "type": "poster"
     },
     {
@@ -370,8 +370,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 11
+      "ratingValue": 7.85,
+      "votesCount": 20
     },
     {
       "source": "imdb",
@@ -593,6 +593,11 @@
       "iso_3166_1": "DE",
       "title": "Meine Wiedergeburt als Schleim in einer anderen Welt - Die Tränen des azurblauen Meeres",
       "type": ""
+    },
+    {
+      "iso_3166_1": "CZ",
+      "title": "Jak jsem se reinkarnoval jako sliz : Slzy azurového moře",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -614,6 +619,10 @@
     },
     "us": {
       "flatrate": [
+        {
+          "name": "Crunchyroll",
+          "logo": "/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+        },
         {
           "name": "Crunchyroll Amazon Channel",
           "logo": "/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
