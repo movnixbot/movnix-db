@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.2997,
+    "popularity": 8.6654,
     "voteAverage": 5,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1443961",
@@ -194,6 +194,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/pJWYVLWQwXNU1vYa7eyvvn21q5j.jpg",
+      "width": 1280,
+      "height": 1920,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xQWiqBC9UrqMSmSOmCm143aJHRR.jpg",
+      "width": 840,
+      "height": 1140,
+      "aspectRatio": 0.737,
+      "type": "poster"
+    },
+    {
       "filePath": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
       "width": 3840,
       "height": 2160,
@@ -201,9 +215,9 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/lanQPDqb91hMNqZXLoVAR2lGWoN.jpg",
-      "width": 3840,
-      "height": 2160,
+      "filePath": "/sy6x3Dj1fT5wT8COccH973jgFtv.jpg",
+      "width": 2048,
+      "height": 1152,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -215,7 +229,21 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/lanQPDqb91hMNqZXLoVAR2lGWoN.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/9a82f112kqV5T3F3Ajsan9EhGfq.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wvho5j4adyZTlO0vexiKQXl3wdl.jpg",
       "width": 1280,
       "height": 720,
       "aspectRatio": 1.778,
@@ -367,7 +395,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -397,5 +434,249 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1443961/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1443961,
+    "hash": "823e0610bd6f51d6ff350cdd275784af8121d0d4c99c1a785e1a5131c27da2bb",
+    "summary_one_sentence": "Set in 1970s India, an eccentric aristocrat labeled a 'man of miracles' retreats into his grand mansion after surviving a terminal illness, sinking into a surreal world where reality and imagination blur.",
+    "summary_short": "In 1970s India, an eccentric aristocrat named Rao Bahadur earns the moniker 'man of miracles' after inexplicably recovering from a fatal illness. However, instead of celebrating his recovery, he becomes consumed by deep-seated guilt and existential fear regarding his survival. Retreating within the isolated walls of his palatial mansion, he begins constructing a complex alternate reality. As time passes, the boundaries separating his vivid imagination from true reality begin to terrifyingly erode.",
+    "summary_long": "Set against the backdrop of 1970s India, the story follows an eccentric aristocrat whose life changes forever after surviving an ostensibly incurable terminal condition. Known throughout his community as a 'man of miracles', his miraculous recovery brings him neither peace nor clarity. Instead, he is haunted by an overwhelming sense of survivor's guilt and an unnatural fear of the outside world. Seeking refuge from his inner turmoil, he withdraws completely into the vast, labyrinthine halls of his ancestral palatial mansion. Cut off from society, he gradually invents an elaborate alternate world filled with fantastical visions and psychological manifestations. Those around him watch helplessly as his constructed reality threatens to consume his sanity. As eerie occurrences unfold within the grand estate, the line between deliberate illusion and genuine supernatural phenomenon grows increasingly thin. Ultimately, the aristocrat must confront the psychological shadow of his survival before his self-made world claims him forever.",
+    "synopsis": "Rao Bahadur is an atmospheric fantasy-drama thriller set in 1970s India. The story explores the life of an enigmatic aristocrat who becomes widely revered as a 'man of miracles' after defying death and recovering from a fatal condition. Driven by overwhelming guilt and psychological fear, he isolates himself inside his lavish estate, creating a vivid alternate world where fantasy and reality seamlessly collide.",
+    "keywords": [
+      "1970s India",
+      "eccentric aristocrat",
+      "miraculous recovery",
+      "guilt and trauma",
+      "palatial mansion setting",
+      "blurred reality",
+      "alternate reality",
+      "isolation",
+      "psychological thriller",
+      "magical realism",
+      "wealth and paranoia",
+      "terminal illness survivor",
+      "mental retreat",
+      "surrealism"
+    ],
+    "themes": [
+      {
+        "theme": "Guilt and Atonement",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Reality vs. Illusion",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival and Mortality",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Psychological",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "His intricate delusions and buried fears reach a breaking point, forcing a ultimate confrontation between his constructed reality and the truth behind his miraculous survival.",
+      "conflict": "Plagued by profound guilt and fear following his recovery, he begins constructing an alternate world within his home, struggling to distinguish genuine reality from his intense imagination.",
+      "resolution": "He reaches a poignant, definitive reconciliation with his mortality, guilt, and the real world outside his mansion walls.",
+      "introduction": "In 1970s India, an eccentric aristocrat known as a 'man of miracles' unexpectedly survives a terminal illness and retreats into his grand palatial mansion.",
+      "risingAction": "As his isolation deepens, the line between his fabricated sanctuary and actual existence collapses, pulling his household and surroundings into an increasingly surreal psychological web."
+    },
+    "characters": [
+      {
+        "name": "Bhuvanam Ramappa Rao Bahadur",
+        "role": "Anti Hero",
+        "description": "An eccentric and terminally ill aristocrat consumed by guilt, paranoia, and obsessive doubts regarding his family bloodline."
+      },
+      {
+        "name": "Dr. Srinivasa Achari",
+        "role": "Mentor",
+        "description": "Ramappa's long-time friend and physician who attempts to guide him through his psychological struggles and family secrets."
+      },
+      {
+        "name": "Renuka",
+        "role": "Supporting Character",
+        "description": "Ramappa's estranged wife who lives in self-imposed isolation while harboring deep-seated secrets about their children."
+      },
+      {
+        "name": "Inspector A. Jagannadhan",
+        "role": "Supporting Character",
+        "description": "A law enforcement officer brought in to conduct an official investigation into the family dispute."
+      },
+      {
+        "name": "Achchamma",
+        "role": "Supporting Character",
+        "description": "A trusted domestic figure helping maintain the household within the ancestral Bhuvanalayam manor."
+      },
+      {
+        "name": "Lavanappa",
+        "role": "Supporting Character",
+        "description": "Ramappa's elder son who bears the emotional weight of his father's mental decline and lineage expectations."
+      },
+      {
+        "name": "Young Kusuma / Lavana (Master Kiran)",
+        "role": "Supporting Character",
+        "description": "Portrays one of the young heirs in pivotal flashback sequences depicting early family dynamics."
+      },
+      {
+        "name": "Siddappa",
+        "role": "Supporting Character",
+        "description": "A member of the social network surrounding the mansion who interacts with the family."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Rao Bahadur",
+        "target": "The Local Villagers & Believers",
+        "description": "Revered Idol / Man of Miracles"
+      },
+      {
+        "source": "Rao Bahadur",
+        "target": "Household Servants & Caretakers",
+        "description": "Master / Reclusive Employer"
+      },
+      {
+        "source": "Rao Bahadur",
+        "target": "The Alternate World Entities",
+        "description": "Creator / Projections of Guilt & Imagination"
+      }
+    ],
+    "seo": {
+      "slug": "rao-bahadur",
+      "jsonLd": {
+        "name": "Rao Bahadur",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Psychological Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination."
+      },
+      "keywords": [
+        "Rao Bahadur",
+        "Rao Bahadur movie",
+        "1970s Indian film",
+        "psychological drama",
+        "Rao Bahadur synopsis",
+        "Indian cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/rao-bahadur](https://movnix.com/movie/rao-bahadur)",
+      "metaTitle": "Rao Bahadur - Official Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Rao Bahadur - Official Synopsis & Movie Details",
+        "og:description": "In 1970s India, an eccentric aristocrat survives a terminal illness and retreats into a mansion where reality and imagination blur."
+      },
+      "twitterCard": {
+        "twitter:title": "Rao Bahadur - Official Movie Details",
+        "twitter:description": "In 1970s India, an eccentric aristocrat survives a terminal illness and retreats into a mansion where reality and imagination blur."
+      },
+      "metaDescription": "In 1970s India, an eccentric aristocrat survives a terminal illness and retreats into a mansion where reality and imagination blur."
+    },
+    "faq": [
+      {
+        "answer": "The film follows an eccentric aristocrat in 1970s India who, after miraculously surviving a terminal illness, retreats into his palatial mansion plagued by guilt and fear, constructing an alternate world where reality and imagination blur.",
+        "question": "What is the premise of Rao Bahadur?"
+      },
+      {
+        "answer": "Rao Bahadur is primarily a psychological drama with elements of mystery and gothic character study.",
+        "question": "What is the dominant genre of Rao Bahadur?"
+      },
+      {
+        "answer": "No, Rao Bahadur is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is Rao Bahadur part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes in Rao Bahadur. The story concludes completely before the credits roll.",
+        "question": "Is there a post-credit scene in Rao Bahadur?"
+      },
+      {
+        "answer": "The film is set during the 1970s in India, primarily unfolding within the sprawling, isolated grounds of a palatial mansion.",
+        "question": "When and where is the story of Rao Bahadur set?"
+      },
+      {
+        "answer": "No, Rao Bahadur is a fictional story created as a narrative study on isolation, guilt, and human perception.",
+        "question": "Is Rao Bahadur based on a true story?"
+      },
+      {
+        "answer": "The central character is an eccentric Indian aristocrat known as a 'man of miracles' due to his survival from a terminal illness.",
+        "question": "Who is the central character of the movie?"
+      },
+      {
+        "answer": "The film deeply explores themes of guilt, mortality, psychological isolation, the weight of reputation, and the delicate line between reality and hallucination.",
+        "question": "What are the core themes explored in Rao Bahadur?"
+      },
+      {
+        "answer": "The movie features an atmospheric, slow-burn tone that emphasizes psychological tension, surreal imagery, and character depth over fast-paced action.",
+        "question": "What is the tone and pacing of Rao Bahadur?"
+      },
+      {
+        "answer": "Availability depends on regional distribution rights, but it can typically be found on major streaming platforms or digital rental services.",
+        "question": "Where can I watch Rao Bahadur?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate psychological horror elements stemming from guilt, fear, and a blurred reality."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or explicit language indicated."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence indicated in the premise."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Potential thematic mention of terminal illness and medical treatments."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving themes of terminal illness, guilt, isolation, and mental decline."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 6,
+      "mystery": 8,
+      "romance": 1,
+      "science": 2,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-01 01:04:08.736102",
+    "updated_at": "2026-08-01 01:04:08.736102"
+  }
 }
