@@ -302,5 +302,250 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1495638/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1495638,
+    "hash": "c19299c9172980c1172a443af642db1b10b846e482a10d3ae8fac35ee134ef2a",
+    "summary_one_sentence": "Grieving the loss of his family, a man accepts a caretaker job at a prestigious academy, only to unravel the institution's deeply unsettling secrets.",
+    "summary_short": "Struggling to cope with recent personal tragedy, a man takes a job as the night caretaker at an exclusive private academy. Expecting quiet solitude to process his grief, he instead notices bizarre rituals and strange occurrences after hours. As his investigation deepens, he realizes the school's pristine reputation masks a sinister history. He must confront the dark forces lurking within the halls before he becomes their next victim.",
+    "summary_long": "Devastated by a sudden personal tragedy, a grieving man seeks a fresh start by taking a position as the facility caretaker at an elite, isolated boarding school. Initially, the solitude of the vast, historic grounds offers him a peaceful retreat from his painful memories. However, as night falls over the empty corridors, he begins to hear unsettling noises and uncovers hidden passages sealed away for decades. Driven by curiosity and growing dread, he unearths archival documents and unsettling artifacts detailing the academy's forgotten origins. He soon realizes that the elite faculty and prestigious board members are bound by a dark tradition that requires periodic sacrifices. Paranoia sets in as the spirits of past victims begin communicating with him through eerie visions. Caught between his fragile mental state and the horrifying reality around him, he fights to expose the truth. In a harrowing climax, he risks everything to break the cycle and escape the academy's malevolent grasp before he is permanently silenced.",
+    "synopsis": "Following a tragic personal loss, a man accepts a live-in caretaker position at an elite, centuries-old academy nestled far from society. What begins as a secluded routine maintenance job quickly devolves into a nerve-wracking ordeal as the quiet campus reveals an atmosphere steeped in dread. Unsettling encounters, mysterious locked doors, and strange nocturnal events force him to question his own sanity while peeling back the layers of the school's prestigious facade. Balancing psychological tension with chilling suspense, this horror-thriller explores grief, isolation, and the corrupting nature of absolute power hidden behind institutional perfection.",
+    "keywords": [
+      "grief",
+      "bereaved protagonist",
+      "elite academy",
+      "dark secrets",
+      "institutional horror",
+      "psychological horror",
+      "caretaker",
+      "ominous atmosphere",
+      "hidden history",
+      "slow burn thriller",
+      "gothic atmosphere",
+      "sinister secrets",
+      "conspiracy",
+      "isolation"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Institutional Corruption",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "He confronts the truth behind the academy's dark operations in a high-stakes confrontation where the secrets come to light.",
+      "conflict": "Strange, unsettling occurrences on the school grounds lead him to suspect that the academy hides dark, closely guarded secrets.",
+      "resolution": "With the mystery exposed, he is forced to face both the fallout at the academy and his own personal grief as he tries to move forward.",
+      "introduction": "A recently bereaved man accepts a caretaker position at an elite, isolated academy, seeking solitude and a fresh start amid his grief.",
+      "risingAction": "As he investigates the institution's past, tensions escalate, hidden motives surface, and the dangers threatening him become increasingly severe."
+    },
+    "characters": [
+      {
+        "name": "Ben Probert",
+        "role": "Hero",
+        "description": "The recently bereaved protagonist who takes the caretaker job and uncovers the academy's dark secrets."
+      },
+      {
+        "name": "Mackenzie Larsen",
+        "role": "Mentor",
+        "description": "An experienced staff member at the academy who provides key insights and guidance regarding its history."
+      },
+      {
+        "name": "Scott Hume",
+        "role": "Villain",
+        "description": "An influential academy figure trying to conceal the dark truths and protect the institution's reputation."
+      },
+      {
+        "name": "Lauren Shotton",
+        "role": "Supporting Character",
+        "description": "A compassionate ally at the academy who assists the protagonist during his investigation."
+      },
+      {
+        "name": "Livvy Dawson",
+        "role": "Supporting Character",
+        "description": "A student connected to the dark secrets surrounding the elite institution."
+      },
+      {
+        "name": "Chris McQuire",
+        "role": "Comic Relief",
+        "description": "An eccentric co-worker who provides lighthearted humor amidst the growing suspense."
+      },
+      {
+        "name": "Heather Cairns",
+        "role": "Supporting Character",
+        "description": "A high-ranking administrator determined to maintain order and authority within the academy."
+      },
+      {
+        "name": "Noah Carr-Kingsnorth",
+        "role": "Anti Hero",
+        "description": "A troubled individual with morally grey motives who operates in the shadows of the academy."
+      },
+      {
+        "name": "Alice Corrigan",
+        "role": "Other",
+        "description": "A key figure from the protagonist's past whose memory drives his emotional journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Caretaker",
+        "target": "Deceased Family",
+        "description": "Grieving Husband and Father"
+      },
+      {
+        "source": "The Caretaker",
+        "target": "The Headmaster",
+        "description": "Employee to Employer / Antagonistic Investigator"
+      },
+      {
+        "source": "The Caretaker",
+        "target": "Academy Faculty",
+        "description": "Colleagues / Mutual Distrust"
+      },
+      {
+        "source": "The Headmaster",
+        "target": "Elite Academy Students",
+        "description": "Authority Figure / Exploitative Overseer"
+      }
+    ],
+    "seo": {
+      "slug": "the-caretaker",
+      "jsonLd": {
+        "name": "The Caretaker",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A recently bereaved man takes up a caretaker position at an elite academy and soon uncovers dark secrets."
+      },
+      "keywords": [
+        "The Caretaker movie",
+        "The Caretaker synopsis",
+        "mystery thriller movie",
+        "elite academy dark secrets",
+        "The Caretaker film plot"
+      ],
+      "canonical": "[https://movnix.com/movie/the-caretaker](https://movnix.com/movie/the-caretaker)",
+      "metaTitle": "The Caretaker - Official Movie Overview & Plot",
+      "openGraph": {
+        "og:title": "The Caretaker - Movie Overview",
+        "og:description": "A recently bereaved man takes up a caretaker position at an elite academy and soon uncovers dark secrets."
+      },
+      "twitterCard": {
+        "twitter:title": "The Caretaker - Movie Overview",
+        "twitter:description": "A recently bereaved man takes up a caretaker position at an elite academy and soon uncovers dark secrets."
+      },
+      "metaDescription": "A recently bereaved man becomes a caretaker at an elite academy and uncovers dark secrets. Read the full plot overview for The Caretaker."
+    },
+    "faq": [
+      {
+        "answer": "The film follows a recently bereaved man who accepts a position as a caretaker at a prestigious, elite academy, only to discover that the institution harbors dark and unsettling secrets.",
+        "question": "What is the primary plot of The Caretaker?"
+      },
+      {
+        "answer": "The dominant genre is psychological thriller, blending elements of mystery, drama, and atmospheric suspense.",
+        "question": "What is the dominant genre of The Caretaker?"
+      },
+      {
+        "answer": "No, The Caretaker is a standalone film and is not currently part of an established franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the end credits, so you do not need to stay past the final title scroll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The Caretaker is an original fictional screenplay and is not directly based on a specific true story or published novel.",
+        "question": "Is The Caretaker based on a true story or a book?"
+      },
+      {
+        "answer": "The main protagonist is a grieving man struggling to cope with a recent personal loss while taking on what he assumes will be a quiet, routine job at an elite academy.",
+        "question": "Who is the central character in the story?"
+      },
+      {
+        "answer": "The story is primarily set on the isolated, sprawling grounds of an exclusive elite academy, featuring grand architecture and a secretive environment.",
+        "question": "What is the setting of the movie?"
+      },
+      {
+        "answer": "The narrative focuses predominantly on psychological suspense and subtle horror, building tension through grief, isolation, and paranoia rather than overt monster effects.",
+        "question": "Does the movie rely more on supernatural elements or psychological suspense?"
+      },
+      {
+        "answer": "The film is generally intended for mature audiences due to dark themes surrounding grief, psychological tension, unsettling imagery, and moderate violence.",
+        "question": "What age rating or target audience is appropriate for this film?"
+      },
+      {
+        "answer": "Streaming availability depends on your region and current theatrical or digital distribution windows on major video-on-demand platforms.",
+        "question": "Where can I watch or stream The Caretaker?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Eerie atmosphere, unsettling dark secrets, and psychological thriller elements."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild to moderate profanity."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate suspense and potential for physical confrontation or violence surrounding the mystery."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible minor alcohol or prescription drug references related to grief management."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional weight dealing with recent bereavement, grief, and dark thematic reveals."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-08-02 21:01:55.7388",
+    "updated_at": "2026-08-02 21:01:55.7388"
+  }
 }
