@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1984,
+    "popularity": 3.8399,
     "voteAverage": 8.4,
     "voteCount": 8,
     "homepage": "https://mock-movie-website.com/movies/1620313",
@@ -333,6 +333,13 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wKQaSQbtLUHrSx0Uijp1vgZvsEe.jpg",
+      "width": 2557,
+      "height": 1439,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -576,5 +583,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1620313/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1620313,
+    "hash": "43a50802421f5ad26b3c392dfb93cc81a56592e37e5c8c0a36bd068bfe0c9f20",
+    "summary_one_sentence": "Besieged inside his castle during a rebellion against Oda, Lord Murashige must forge a desperate alliance with an imprisoned master strategist to solve a string of mysterious crimes and unmask a traitor before time runs out.",
+    "summary_short": "Following his rebellion against the tyrannical Oda Nobunaga, Lord Murashige finds his castle under siege and his court torn apart by a wave of inexplicable crimes. Fearing an internal traitor will bring down the fortress before the enemy forces do, Murashige forms a tense partnership with Kanbei, a brilliant strategist captive in his dungeon. Together, they navigate paranoia, court intrigue, and deadly secrets to uncover the truth within the fortress walls. Time quickly runs out as enemy armies close in around the desperate samurai leader.",
+    "summary_long": "Lord Murashige takes a perilous stand against the formidable warlord Oda, turning his own castle into a fortified stronghold. However, external pressure quickly gives way to internal chaos when a series of bizarre and unsettling crimes begin to occur within the garrison. With suspicion running rampant and trust eroding among his ranks, Murashige realizes a traitor is undermining his rebellion from the inside. Desperate for insight, he turns to Kanbei, an exceptionally sharp military strategist who is currently held prisoner in his dungeon cells. Despite their mutual distrust and tense dynamic, Murashige and Kanbei engage in a cerebral alliance to solve the baffling mysteries plaguing the castle. Each solved crime chips away at the larger conspiracy, exposing deep-seated betrayals and political intrigue within the court. Meanwhile, the psychological strain on the trapped defenders grows increasingly unbearable with every passing day. As Oda's vast army marches ever closer, the reluctant duo must race against the clock to expose the true mastermind before the castle falls.",
+    "synopsis": "Set during a turbulent era of feudal Japan, The Samurai and the Prisoner follows Lord Murashige after he raises the banner of rebellion against the tyrannical warlord Oda. Trapped within his own besieged fortress, Murashige's authority is threatened not only by the invading forces outside, but by a series of strange and unnerving crimes occurring behind closed doors. Realizing a dangerous traitor may be hidden among his inner circle, Murashige reluctantly turns to Kanbei, a brilliant strategist held captive in his dungeon. This historical mystery blends samurai drama with an armchair detective intrigue, exploring themes of loyalty, survival, and betrayal as two formidable intellects race to uncover the truth before the fortress collapses.",
+    "keywords": [
+      "feudal Japan",
+      "Sengoku period",
+      "castle siege",
+      "uneasy alliance",
+      "locked-room mystery",
+      "traitor in the ranks",
+      "political intrigue",
+      "brilliant strategist",
+      "samurai",
+      "rebellion",
+      "whodunit",
+      "dungeon prisoner",
+      "ticking clock",
+      "psychological tension",
+      "betrayal"
+    ],
+    "themes": [
+      {
+        "theme": "Trust and Betrayal",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Rebellion and Power Struggles",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Truth and Deception",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "As the siege reaches its boiling point and time runs out, Murashige and Kanbei execute a high-stakes gambit to confront the mastermind behind the internal chaos and expose the traitor.",
+      "conflict": "A spate of mysterious, internal crimes shatters the court's peace, raising suspicion of a traitor within while Oda's forces relentlessly close in from the outside.",
+      "resolution": "With the mystery resolved, the true motives behind the court's betrayal come to light, determining the ultimate fate of the fortress, Murashige, and his captive ally.",
+      "introduction": "Lord Murashige rebels against the tyrannical Oda and becomes trapped within his own fortress under siege, maintaining a tense and fragile order inside the castle walls.",
+      "risingAction": "Desperate for answers, Murashige forms a precarious partnership with Kanbei, a dangerous strategist locked in the dungeon, working together to unravel the web of deceit and race against an impending military assault."
+    },
+    "characters": [
+      {
+        "name": "Araki Murashige",
+        "role": "Hero",
+        "description": "A besieged samurai lord who rebels against Oda Nobunaga and works to solve mysterious crimes within his castle to maintain order and protect his people."
+      },
+      {
+        "name": "Kuroda Kanbei",
+        "role": "Mentor",
+        "description": "A brilliant and dangerous strategist held prisoner in the dungeon who provides cryptic clues to assist Murashige in solving the castle mysteries."
+      },
+      {
+        "name": "Chiyoho",
+        "role": "Supporting Character",
+        "description": "Murashige's devoted wife who offers emotional support and moral perspective amid the growing tension and paranoia within the fortress."
+      },
+      {
+        "name": "Araki Kyuzaemon",
+        "role": "Supporting Character",
+        "description": "A high-ranking retainer and general who helps manage castle command and security during the siege."
+      },
+      {
+        "name": "Inui Sukesaburo",
+        "role": "Supporting Character",
+        "description": "A loyal samurai within Murashige's inner circle who assists in maintaining garrison defense."
+      },
+      {
+        "name": "Saika Sagehari",
+        "role": "Supporting Character",
+        "description": "A mercenary gunman whose specialized skills become tied to the escalating violence and secrets inside Arioka Castle."
+      },
+      {
+        "name": "Koori Juemon",
+        "role": "Supporting Character",
+        "description": "A key castle officer involved in administrative affairs and internal security as suspicion spreads."
+      },
+      {
+        "name": "Akioka Shironosuke",
+        "role": "Supporting Character",
+        "description": "A retainer serving Murashige who becomes entangled in the mysterious events disturbing the court."
+      },
+      {
+        "name": "Kawarabayashi Notonyudo",
+        "role": "Supporting Character",
+        "description": "A veteran samurai offering strategic counsel and defense support to the besieged garrison."
+      },
+      {
+        "name": "Kitagawara Yosaku",
+        "role": "Supporting Character",
+        "description": "A castle warrior participating in defense duties and investigations into the mysterious crimes."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lord Murashige",
+        "target": "Kanbei",
+        "description": "Captor and Prisoner / Uneasy Allies"
+      },
+      {
+        "source": "Lord Murashige",
+        "target": "Oda",
+        "description": "Enemies / Rebel Warlord and Oppressive Ruler"
+      },
+      {
+        "source": "Kanbei",
+        "target": "Oda",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "the-samurai-and-the-prisoner",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-samurai-and-the-prisoner](https://movnix.com/movie/the-samurai-and-the-prisoner)",
+        "name": "The Samurai and the Prisoner",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Thriller",
+          "History",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
+      },
+      "keywords": [
+        "The Samurai and the Prisoner",
+        "historical mystery thriller",
+        "Lord Murashige",
+        "Oda Nobunaga",
+        "samurai movie",
+        "castle siege drama",
+        "Kanbei strategist"
+      ],
+      "canonical": "[https://movnix.com/movie/the-samurai-and-the-prisoner](https://movnix.com/movie/the-samurai-and-the-prisoner)",
+      "metaTitle": "The Samurai and the Prisoner | Official Synopsis & Mystery Thriller",
+      "openGraph": {
+        "og:title": "The Samurai and the Prisoner - Uncover the Castle Mystery",
+        "og:description": "Besieged by enemies and hunted by a traitor within, Lord Murashige turns to a brilliant prisoner to solve a deadly web of crimes."
+      },
+      "twitterCard": {
+        "twitter:title": "The Samurai and the Prisoner - Synopsis & Details",
+        "twitter:description": "A besieged lord and a captive strategist must solve a murder mystery inside castle walls before Oda's army destroys them all."
+      },
+      "metaDescription": "Besieged by Oda's army, Lord Murashige teams up with an imprisoned strategist to solve mysterious crimes within his castle. Uncover the truth before time runs out."
+    },
+    "faq": [
+      {
+        "answer": "The Samurai and the Prisoner is primarily a period murder mystery (jidaigeki whodunit) and psychological thriller set in feudal Japan.",
+        "question": "What is the dominant genre of The Samurai and the Prisoner?"
+      },
+      {
+        "answer": "Yes. The film is based on Honobu Yonezawa's Naoki Prize–winning 2021 historical mystery novel *Kokurojo*, which incorporates real historical figures from 16th-century Sengoku-period Japan.",
+        "question": "Is The Samurai and the Prisoner based on a book or true events?"
+      },
+      {
+        "answer": "The film was written and directed by renowned Japanese filmmaker Kiyoshi Kurosawa.",
+        "question": "Who directed The Samurai and the Prisoner?"
+      },
+      {
+        "answer": "No, The Samurai and the Prisoner is a standalone film and not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The main cast features Masahiro Motoki as Lord Araki Murashige and Masaki Suda as the captive strategist Kuroda Kanbei, along with Yuriko Yoshitaka and Bando Shingo.",
+        "question": "Who stars in the lead roles of the film?"
+      },
+      {
+        "answer": "No, there is no post-credits or mid-credits scene after the main story concludes.",
+        "question": "Is there a post-credits scene in The Samurai and the Prisoner?"
+      },
+      {
+        "answer": "The film was produced in Japanese. International theatrical and home releases feature English subtitles.",
+        "question": "What is the original language of the movie, and are subtitles available?"
+      },
+      {
+        "answer": "The film premiered at the Cannes Film Festival in May 2026 before its theatrical release in Japan in June 2026 and international rollouts in July 2026.",
+        "question": "When was The Samurai and the Prisoner released?"
+      },
+      {
+        "answer": "The story takes place during 16th-century Sengoku-period Japan, set within the walls of Arioka Castle during a siege by the forces of warlord Oda Nobunaga.",
+        "question": "What is the setting and time period of the story?"
+      },
+      {
+        "answer": "While set in a samurai era, the film focuses more on psychological tension, courtroom mystery, and strategic intellect rather than non-stop swordplay and heavy battlefield action scenes.",
+        "question": "Is The Samurai and the Prisoner suitable for audiences looking for traditional samurai action?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Atmospheric dread, fear, and paranoia surrounding mysterious internal crimes and imminent siege."
+      },
+      "language": {
+        "score": 2,
+        "description": "Likely mild historical insults or aggressive dialogue within a tense war council/interrogation setting."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depictions of castle sieges, mysterious violent crimes, and martial conflicts typical of feudal war settings."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Potential incidental historical alcohol consumption (sake) during court gatherings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High suspense and psychological tension driven by betrayal, imprisonment, and an approaching hostile army."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 6,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-07-30 16:02:30.701484",
+    "updated_at": "2026-07-30 16:02:30.701484"
+  }
 }
