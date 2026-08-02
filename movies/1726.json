@@ -2481,5 +2481,265 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1726/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1726,
+    "hash": "966012ca4e5bdda352e22f1772f88f6e163a9ee3deb47db9468d80d5ff67ae1c",
+    "summary_one_sentence": "After being held captive by terrorists, billionaire industrialist Tony Stark constructs a high-tech suit of armor to escape and vows to use his technology to protect the world.",
+    "summary_short": "Billionaire industrialist and genius inventor Tony Stark is captured by a terrorist group while demonstrating new weapons in Afghanistan. Forced to build a missile, Stark instead secretly constructs a powered suit of armor to escape. Upon returning home, he reevaluates his company's legacy and refines the armor into a sophisticated suit to combat global threats. However, he soon faces a deadly betrayal from within his own inner circle.",
+    "summary_long": "Tony Stark, CEO of Stark Industries and a brilliant weapons manufacturer, travels to war-torn Afghanistan to demonstrate his new missile system. Following an ambush by the terrorist faction known as the Ten Rings, Stark is critically injured by shrapnel and captured. Fellow captive Dr. Yinsen implants an electromagnet in Stark's chest to keep the shrapnel from reaching his heart, which Stark later upgrades into a miniature Arc Reactor. Together, they covertly construct a heavy armored suit powered by the reactor to facilitate their escape. Although Yinsen sacrifices himself, Stark manages to break free and destroy the terrorists' weapons cache. Returning to Malibu, a changed Stark announces that Stark Industries will immediately cease weapons manufacturing, drawing hostility from his board and senior director Obadiah Stane. Stark spends his time refining his armor into the sleek, powered Mark III suit while developing a close bond with his assistant Pepper Potts. Upon learning that Stark weapons are still being illegally supplied to warlords, Stark flies to Afghanistan to protect innocent villagers. Upon his return, he discovers that Stane has been secretly orchestrating the illegal weapons sales and was behind his initial kidnapping. Stane steals Stark's chest reactor to power a massive reverse-engineered suit called the Iron Monger. Weakened, Stark manages to power up with his original reactor and engages Stane in a climatic battle above Stark Industries, ultimately defeating him when Pepper overloads the facility's main reactor. In a legendary press conference the following day, Stark discards his prepared cover story and publicly declares, 'I am Iron Man.'",
+    "synopsis": "Iron Man follows Tony Stark, a charismatic billionaire weapons developer whose life takes a drastic turn after surviving a fatal ambush and imprisonment in Afghanistan. Forced to confront the devastating real-world impact of his inventions, Stark uses his extraordinary intellect to transform himself from a careless industrialist into a tech-powered superhero. Blending high-octane action, groundbreaking visual effects, and compelling character development, the film chronicles Stark's journey of redemption, responsibility, and technological innovation as he uncovers corruption within his own empire.",
+    "keywords": [
+      "armored suit",
+      "billionaire protagonist",
+      "tech genius",
+      "origin story",
+      "superhero",
+      "captured hero",
+      "weapons manufacturer",
+      "redemption arc",
+      "mech suit",
+      "artificial intelligence",
+      "vigilante justice",
+      "military industrial complex",
+      "heroic transformation"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Responsibility & Accountability",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Identity & Transformation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Technology & Ethics",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heroic",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Stark engages in a high-stakes battle against a powerful opponent wielding a massive armor derivative powered by stolen technology, threatening everyone Stark cares about.",
+      "conflict": "Ambushed and captured in Afghanistan by insurgents using his own weapons, Stark suffers a shrapnel injury near his heart and is forced to build a weapon of mass destruction for his captors.",
+      "resolution": "Having overcome the threat, Stark fully embraces his newfound purpose and publicly reveals his identity to the world, stepping into his role as a protector.",
+      "introduction": "Billionaire industrialist and genius weapons developer Tony Stark lives a lavish, care-free lifestyle supported by his military defense contracts.",
+      "risingAction": "Stark secretly builds a mechanized suit of armor to escape captivity, returns home to shut down his company's weapons division, and refines his technology into an advanced suit to personally protect innocent lives while uncovering a betrayal within his inner circle."
+    },
+    "characters": [
+      {
+        "name": "Tony Stark",
+        "role": "Hero",
+        "description": "Billionaire genius and industrialist who builds a high-tech suit of armor to escape captivity and ultimately rededicates his life to protecting humanity as Iron Man."
+      },
+      {
+        "name": "Obadiah Stane",
+        "role": "Villain",
+        "description": "Tony's treacherous business partner who secretly orchestrates Tony's kidnapping to seize control of Stark Industries and later constructs the competing Iron Monger suit."
+      },
+      {
+        "name": "Yinsen",
+        "role": "Mentor",
+        "description": "A captive fellow scientist who saves Tony's life in the cave, guides his shift in moral consciousness, and sacrifices himself so Tony can escape."
+      },
+      {
+        "name": "James \"Rhodey\" Rhodes",
+        "role": "Supporting Character",
+        "description": "A loyal U.S. Air Force liaison and Tony's close friend who acts as a bridge between Stark Industries and the military while offering grounded advice."
+      },
+      {
+        "name": "Pepper Potts",
+        "role": "Supporting Character",
+        "description": "Tony's sharp, organized personal assistant and trusted confidante who manages his daily affairs and assists him in exposing Obadiah Stane's betrayal."
+      },
+      {
+        "name": "Agent Phil Coulson",
+        "role": "Supporting Character",
+        "description": "A polite but persistent agent from the Strategic Homeland Intervention, Enforcement and Logistics Division trying to debrief Tony following his return."
+      },
+      {
+        "name": "Raza",
+        "role": "Villain",
+        "description": "The leader of the Ten Rings terrorist cell in Afghanistan that holds Tony hostage and demands he build them a missile."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tony Stark",
+        "target": "Pepper Potts",
+        "description": "Employer/Assistant, Romantic Interests"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "James Rhodes",
+        "description": "Best Friends, Military Allies"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "Obadiah Stane",
+        "description": "Business Partners, Enemies"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "Ho Yinsen",
+        "description": "Saviors, Friends/Mentors"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "J.A.R.V.I.S.",
+        "description": "Creator/AI Assistant"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "Raza",
+        "description": "Captor/Captive, Enemies"
+      },
+      {
+        "source": "Obadiah Stane",
+        "target": "Raza",
+        "description": "Co-conspirators, Rivals"
+      },
+      {
+        "source": "Tony Stark",
+        "target": "Nick Fury",
+        "description": "Recruiter/Candidate, Allies"
+      }
+    ],
+    "seo": {
+      "slug": "iron-man",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/iron-man](https://movnix.com/movie/iron-man)",
+        "name": "Iron Man",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+      },
+      "keywords": [
+        "Iron Man",
+        "Tony Stark",
+        "Marvel movie",
+        "Superhero movies",
+        "Iron Man movie plot",
+        "MCU"
+      ],
+      "canonical": "[https://movnix.com/movie/iron-man](https://movnix.com/movie/iron-man)",
+      "metaTitle": "Iron Man (2008) - Watch Movie Overview & Plot Summary",
+      "openGraph": {
+        "og:title": "Iron Man - Movie Overview & Story",
+        "og:description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+      },
+      "twitterCard": {
+        "twitter:title": "Iron Man - Movie Overview & Story",
+        "twitter:description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+      },
+      "metaDescription": "Billionaire Tony Stark builds a weaponized suit of armor after being held captive in an Afghan cave. Discover the story behind Marvel's iconic hero Iron Man."
+    },
+    "faq": [
+      {
+        "answer": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to escape and ultimately fight evil.",
+        "question": "What is the plot of Iron Man?"
+      },
+      {
+        "answer": "The dominant genre of Iron Man is superhero action-adventure mixed with science fiction.",
+        "question": "What is the dominant genre of Iron Man?"
+      },
+      {
+        "answer": "Yes, Iron Man is the foundational film that launched the Marvel Cinematic Universe (MCU) franchise.",
+        "question": "Is Iron Man part of a movie franchise?"
+      },
+      {
+        "answer": "Yes, there is an iconic post-credits scene where Nick Fury introduces Tony Stark to the Avengers Initiative.",
+        "question": "Is there a post-credit scene in Iron Man?"
+      },
+      {
+        "answer": "Robert Downey Jr. stars as Tony Stark / Iron Man.",
+        "question": "Who plays the lead role of Tony Stark in Iron Man?"
+      },
+      {
+        "answer": "Iron Man was directed by Jon Favreau.",
+        "question": "Who directed Iron Man?"
+      },
+      {
+        "answer": "Iron Man was released in theaters in May 2008.",
+        "question": "When was Iron Man released?"
+      },
+      {
+        "answer": "The main villain is Obadiah Stane, played by Jeff Bridges, who builds his own armored suit known as the Iron Monger.",
+        "question": "Who is the main antagonist in Iron Man?"
+      },
+      {
+        "answer": "Iron Man is rated PG-13 for intense sequences of sci-fi action and violence, and some language.",
+        "question": "What is the official rating for Iron Man?"
+      },
+      {
+        "answer": "Yes, the movie was a major critical and commercial success, earning praise for Robert Downey Jr.'s performance and laying the groundwork for the MCU.",
+        "question": "Did Iron Man receive critical and commercial success?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild frightening elements, including tense captivity scenes and an emergency chest surgery sequence."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate profanity with occasional mild curses, expletives, and suggestive humor."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy sci-fi action violence, including explosions, gun battles, hostage captivity, and weapons destruction."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Frequent social drinking, alcohol consumption at parties, and cigar smoking throughout."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild sexual themes, suggestive banter, and scenes depicting a playboy lifestyle without explicit nudity."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional tension involving themes of terrorism, imprisonment, betrayal, and lethal conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 8,
+      "comedy": 6,
+      "emotion": 6,
+      "fantasy": 2,
+      "mystery": 3,
+      "romance": 4,
+      "science": 9,
+      "suspense": 5,
+      "violence": 6
+    },
+    "created_at": "2026-08-02 18:06:04.913543",
+    "updated_at": "2026-08-02 18:06:04.913543"
+  }
 }
