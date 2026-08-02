@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 19.1873,
-    "voteAverage": 6.5,
-    "voteCount": 7,
+    "popularity": 19.2488,
+    "voteAverage": 5.611,
+    "voteCount": 9,
     "homepage": "https://mock-movie-website.com/movies/1458215",
     "posterPath": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
     "backdropPath": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
@@ -104,6 +104,34 @@
       "type": "poster"
     },
     {
+      "filePath": "/jt6o4mWWTVKrexheb7pyrONoDCf.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pupxVmMfJzpOuRMpTr8PkJjDZVy.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bHvFtDcBiyiRqVe0QnTBpd8J6rn.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
       "width": 1920,
       "height": 1080,
@@ -116,13 +144,34 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/9YzSiiV8JToztlL05qdIMgTxNoR.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/57CkD4PQ0qwvKAKP3yS5V0eP9Xl.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yr8L7RNDB3BKOY1jCaijuFGgy6j.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 7
+      "ratingValue": 5.611,
+      "votesCount": 9
     },
     {
       "source": "crawled",
@@ -150,13 +199,22 @@
       "order": 1
     },
     {
+      "tmdbPersonId": 28412,
+      "name": "Rebecca De Mornay",
+      "profilePath": "/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg",
+      "character": "Odessa",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
       "tmdbPersonId": 2070149,
       "name": "Natali Yura",
       "profilePath": "/hu0yDZwdHZyv24BAyJzrfq2hjPr.jpg",
       "character": "Link",
       "job": "Actor",
       "department": "Acting",
-      "order": 2
+      "order": 3
     },
     {
       "tmdbPersonId": 1080843,
@@ -165,7 +223,7 @@
       "character": "Violet",
       "job": "Actor",
       "department": "Acting",
-      "order": 3
+      "order": 4
     },
     {
       "tmdbPersonId": 3103358,
@@ -174,7 +232,7 @@
       "character": "Victor",
       "job": "Actor",
       "department": "Acting",
-      "order": 4
+      "order": 5
     },
     {
       "tmdbPersonId": 2138143,
@@ -183,7 +241,7 @@
       "character": "Anton",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 6
     },
     {
       "tmdbPersonId": 224235,
@@ -192,7 +250,7 @@
       "character": "Juan",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 7
     },
     {
       "tmdbPersonId": 1496366,
@@ -201,7 +259,7 @@
       "character": "Flight Attendant",
       "job": "Actor",
       "department": "Acting",
-      "order": 7
+      "order": 8
     },
     {
       "tmdbPersonId": 1304336,
@@ -210,7 +268,7 @@
       "character": "Abel Salzar",
       "job": "Actor",
       "department": "Acting",
-      "order": 8
+      "order": 9
     },
     {
       "tmdbPersonId": 5418579,
@@ -219,7 +277,7 @@
       "character": "Tourist",
       "job": "Actor",
       "department": "Acting",
-      "order": 9
+      "order": 10
     },
     {
       "tmdbPersonId": 1680487,
@@ -228,7 +286,7 @@
       "character": "16 Year old boy",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 11
     },
     {
       "tmdbPersonId": 5862694,
@@ -237,7 +295,7 @@
       "character": "Beautiful Woman",
       "job": "Actor",
       "department": "Acting",
-      "order": 11
+      "order": 12
     },
     {
       "tmdbPersonId": 1737038,
@@ -246,22 +304,13 @@
       "character": "International Player",
       "job": "Actor",
       "department": "Acting",
-      "order": 12
+      "order": 13
     },
     {
       "tmdbPersonId": 4204014,
       "name": "Darren Anselmo",
       "profilePath": null,
       "character": "Rodriguez",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 4247474,
-      "name": "MacKenzie Baker",
-      "profilePath": null,
-      "character": null,
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -322,6 +371,10 @@
       "flatrate": [],
       "buy": [
         {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
           "name": "Fandango At Home",
           "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
         }
@@ -354,5 +407,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1458215/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1458215,
+    "hash": "c6dfe37217df3c7bca2b1a3b8f85489708935fe37d62e1a19056828d92fc0838",
+    "summary_one_sentence": "A retired master thief must return to a dangerous world of high-stakes crime and betrayal to save his reckless brother following a $100 million yacht heist gone wrong.",
+    "summary_short": "When a daring $100 million yacht heist jeopardizes his reckless brother's life, a retired master thief is pulled back into the perilous underworld he left behind. Navigating a treacherous web of intrigue and deceit, he must outsmart old enemies who have resurfaced to settle past scores. To ensure their survival, he relies on the cunning skills and experience that once made him legendary. Ultimately, he faces a desperate fight where loyalty and survival are put to the ultimate test.",
+    "summary_long": "After leaving his life of crime behind, a legendary master thief enjoys a quiet retirement until his impulsive brother gets entangled in a high-stakes job. The reckless youth targets a luxury yacht, orchestrating a daring $100 million heist that quickly spirals out of control. Forced out of retirement to protect his family, the veteran thief steps into a dangerous web of deceit and shifting alliances. As he investigates the aftermath of the robbery, old enemies from his past resurface, eager to settle long-standing grievances. Tensions escalate rapidly as dead ends and double-crosses reveal that the heist was far more complex than a simple robbery. Relying on his unmatched cunning, veteran instincts, and old tricks, the master thief meticulously plans a strategy to outmaneuver his ruthless rivals. Every move becomes a high-stakes chess match where a single mistake could prove fatal for both brothers. As the pressure reaches a boiling point, he must confront his past decisions while risking everything on one final, dangerous game. In a heart-pounding struggle against time and deadly foes, he fights to break free from the criminal underworld once and for all.",
+    "synopsis": "The Gentleman Thief is a high-octane thriller centered on a retired legendary burglar forced back into action when his hotheaded brother pulls off a perilous $100 million yacht heist. Plunged into a dangerous web of deceit, old rivalries, and sudden betrayals, the veteran thief must utilize his sharp intellect and cunning skill set to outwit deadly enemies and safeguard his family.",
+    "keywords": [
+      "gentleman thief",
+      "retired criminal",
+      "brotherly bond",
+      "reckless brother",
+      "yacht heist",
+      "one last job",
+      "high stakes heist",
+      "web of intrigue",
+      "old enemies resurface",
+      "skillful trickster",
+      "loyalty and betrayal",
+      "life or death struggle",
+      "master mind",
+      "protect family"
+    ],
+    "themes": [
+      {
+        "theme": "Family Loyalty",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Betrayal & Deceit",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Facing the Past",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Thrilling",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The situation reaches a critical breaking point in a life-or-death struggle where the protagonist must execute his ultimate gamble to survive and save his brother.",
+      "conflict": "A $100 million yacht heist goes wrong, trapping the brother in a dangerous web of deceit and forcing the master thief to step in to protect him.",
+      "resolution": "With the immediate danger confronted and the heist's fallout managed, the thief resolves his brother's predicament and reclaims his freedom.",
+      "introduction": "A retired master thief living a quiet life is drawn back into the criminal underworld when his reckless brother gets involved in a high-stakes crime.",
+      "risingAction": "Old enemies resurface and tensions mount as the protagonist uses his elite skills, cunning tricks, and past experience to navigate escalating betrayals and threats."
+    },
+    "characters": [
+      {
+        "name": "Mason",
+        "role": "Hero",
+        "description": "A retired master thief forced back into action to protect his brother, utilizing his cunning and expertise to navigate a dangerous heist aftermath."
+      },
+      {
+        "name": "Shawn",
+        "role": "Supporting Character",
+        "description": "The protagonist's reckless brother whose botched $100 million yacht heist triggers the central conflict and danger."
+      },
+      {
+        "name": "Decker",
+        "role": "Villain",
+        "description": "A ruthless adversary and old enemy who threatens the brothers' survival amidst a complex web of intrigue and betrayal."
+      },
+      {
+        "name": "Amelia",
+        "role": "Supporting Character",
+        "description": "A key accomplice providing technical and operational support during the high-stakes confrontation."
+      },
+      {
+        "name": "Anton",
+        "role": "Comic Relief",
+        "description": "A flamboyant or eccentric crew member who adds levity and humor during tense moments of the heist."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Retired Master Thief",
+        "target": "Reckless Brother",
+        "description": "Brothers / Protector"
+      },
+      {
+        "source": "The Retired Master Thief",
+        "target": "Old Enemies",
+        "description": "Rivals / Adversaries"
+      },
+      {
+        "source": "Reckless Brother",
+        "target": "Old Enemies",
+        "description": "Targets / Antagonists"
+      }
+    ],
+    "seo": {
+      "slug": "the-gentleman-thief",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-gentleman-thief](https://movnix.com/movie/the-gentleman-thief)",
+        "name": "The Gentleman Thief",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit."
+      },
+      "keywords": [
+        "The Gentleman Thief movie",
+        "yacht heist film",
+        "action thriller movies",
+        "master thief movie",
+        "The Gentleman Thief synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-gentleman-thief](https://movnix.com/movie/the-gentleman-thief)",
+      "metaTitle": "The Gentleman Thief (2026) - Full Movie Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "The Gentleman Thief - A $100M Heist of Loyalty & Betrayal",
+        "og:description": "When a $100M yacht heist goes wrong, a legendary thief must risk everything to save his reckless brother from dangerous old enemies."
+      },
+      "twitterCard": {
+        "twitter:title": "The Gentleman Thief - Official Movie Overview",
+        "twitter:description": "Old enemies, high stakes, and a $100M yacht heist. Can a retired master thief save his brother? Find out on Movnix."
+      },
+      "metaDescription": "A retired master thief returns to save his brother after a $100M yacht heist triggers a deadly web of betrayal. Stream and read full details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The story follows a retired master thief who is forced back into the high-stakes criminal world to save his reckless brother after a daring $100 million yacht heist leads to a dangerous web of deceit and resurfaced enemies.",
+        "question": "What is the primary plot of The Gentleman Thief?"
+      },
+      {
+        "answer": "The dominant genre is Action Thriller, combining high-stakes heist elements with suspenseful crime drama and personal conflict.",
+        "question": "What is the dominant genre of The Gentleman Thief?"
+      },
+      {
+        "answer": "No, it is currently a standalone original film and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is The Gentleman Thief part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The narrative fully wraps up during the main runtime before the final credits roll.",
+        "question": "Is there a post-credits scene in The Gentleman Thief?"
+      },
+      {
+        "answer": "The protagonist is a skilled, retired master thief known for his cunning, experience, and adherence to a personal code of honor.",
+        "question": "Who is the protagonist of the film?"
+      },
+      {
+        "answer": "The film heavily explores themes of family loyalty, betrayal, redemption, survival, and the high personal cost of a life of crime.",
+        "question": "What are the central themes explored in the story?"
+      },
+      {
+        "answer": "The movie is rated PG-13/TV-14 due to action violence, mild strong language, and suspenseful criminal themes, targeting teens and adult action-thriller fans.",
+        "question": "What is the age rating and target audience for the movie?"
+      },
+      {
+        "answer": "The central heist takes place on a luxury yacht with a target value of $100 million, forcing the main character to rely on classic ingenuity and cunning tricks rather than simple brute force.",
+        "question": "What sets the heist in this film apart?"
+      },
+      {
+        "answer": "The main threat comes from old enemies from the protagonist's criminal past who resurface when his brother compromises the high-stakes yacht robbery.",
+        "question": "Who is the main antagonist in The Gentleman Thief?"
+      },
+      {
+        "answer": "The Gentleman Thief is available to stream on major digital platforms and select cinema locations depending on regional release schedules.",
+        "question": "Where can I watch The Gentleman Thief?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements; tension is driven by crime and action suspense rather than supernatural or scary themes."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical for a high-stakes crime and action narrative."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate action-thriller violence with life-or-death struggle, threats, and physical conflict implied by a high-stakes heist scenario."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Potential mild depictions of alcohol or luxury lifestyle substance use associated with a high-end yacht setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit sexual themes mentioned in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional tension involving family jeopardy, betrayal, and high financial and personal stakes."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-31 19:01:36.229555",
+    "updated_at": "2026-07-31 19:01:36.229555"
+  }
 }
