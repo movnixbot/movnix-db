@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5,
+    "popularity": 0.385,
     "voteAverage": 9,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1740946",
-    "posterPath": "/s7oPIzKOVHYrGv9H94BLObD6AvJ.jpg",
+    "posterPath": "/gpaQeSJXdenEiOVE3nIaKC91WTc.jpg",
     "backdropPath": "/t95ysozhkEZRth05GsIB44lZ0Li.jpg",
     "collectionId": null
   },
@@ -38,7 +38,7 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/s7oPIzKOVHYrGv9H94BLObD6AvJ.jpg",
+      "filePath": "/gpaQeSJXdenEiOVE3nIaKC91WTc.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -62,6 +62,20 @@
       "filePath": "/jCB9JftTJiMybTMgCegD8beTRlY.jpg",
       "width": 500,
       "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kfLJUOh4cTEm4hLfZxYfffsBS03.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gpaQeSJXdenEiOVE3nIaKC91WTc.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -185,5 +199,212 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1740946/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1740946,
+    "hash": "21b880deb1e40c935e77ee0ac5a9fd72d4bdc11c480cd1187af73aad490f1186",
+    "summary_one_sentence": "Determined researcher Anuj and his ally Veerali investigate the mysterious disappearance of Netaji Subhas Chandra Bose, unearthing shocking evidence that challenges long-held historical narratives.",
+    "summary_short": "Deeply invested in uncovering the truth behind one of India's greatest historical mysteries, researcher Anuj sets out to investigate the enigmatic disappearance of Netaji Subhas Chandra Bose. Joined by Veerali, the duo digs into classified documents, forgotten testimonies, and conflicting accounts surrounding Netaji's reported fate. As they trace hidden leads, they uncover compelling evidence that directly contradicts the official record of his death. Their relentless quest exposes a complex network of secrecy, raising profound questions about what really happened to the revolutionary leader.",
+    "summary_long": "The narrative follows Anuj, an obsessive researcher who has dedicated his life to deciphering the truth behind the sudden disappearance of Indian freedom fighter Netaji Subhas Chandra Bose. Recognizing the sheer scale of the investigation, he teams up with Veerali, a sharp and resourceful ally who brings fresh perspective to the complex web of evidence. Together, they examine historical archives, official commission reports, and eyewitness testimonies that have long been accepted without question. As their investigation deepens, discrepancies begin to emerge, suggesting that key details of the official plane crash story were incomplete or fabricated. Facing institutional secrecy and deep-seated reluctance to reopen the case, the duo perseveres in cross-referencing global intelligence reports and hidden files. Each discovery brings them closer to exposing alternative theories that challenge decades of accepted history. Their journey reveals not only forgotten political maneuvers but also the personal sacrifices made by those who sought the truth before them. Ultimately, Anuj and Veerali present a compelling case that forces viewers to re-examine history, demonstrating how official narratives can conceal remarkable secrets across generations.",
+    "synopsis": "The Bose Files: Sach Ya Sazish centers on the enduring historical enigma surrounding Netaji Subhas Chandra Bose, one of India's most influential and iconic freedom fighters. Official records maintain that Netaji died in a plane crash in 1945, but numerous inconsistencies and classified documents have kept doubts alive for generations. The dramatic narrative follows researcher Anuj, whose passionate quest to uncover the facts leads him to partner with Veerali. Together, they navigate a labyrinth of covert records, forgotten testimonies, and conflicting accounts, challenging long-accepted official stories and delving into whether Netaji's disappearance was a tragic accident or part of a larger historical conspiracy.",
+    "keywords": [
+      "Netaji Subhas Chandra Bose",
+      "disappearance mystery",
+      "conspiracy theory",
+      "historical investigation",
+      "political thriller",
+      "secret files",
+      "government cover-up",
+      "investigative plot",
+      "truth seeking",
+      "Indian history",
+      "declassified documents",
+      "uncovering the truth",
+      "obsessive researcher",
+      "challenging official story"
+    ],
+    "themes": [
+      {
+        "theme": "Search for Truth",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Conspiracy & Cover-Up",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Historical Mystery",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Patriotism & Legacy",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The investigation culminates in the discovery of a crucial, long-buried revelation that threatens to expose a widespread cover-up regarding Netaji's ultimate fate.",
+      "conflict": "As the duo dives deeper into official records and historical accounts, they uncover contradictory evidence that sharply directly challenges the established narrative of Bose's death.",
+      "resolution": "The core evidence is brought to light, reshaping the public understanding of the historical events and leaving a lasting impact on the ongoing pursuit of historical truth.",
+      "introduction": "Veerali connects with Anuj, a dedicated researcher driven by an obsession to uncover the truth surrounding Netaji Subhas Chandra Bose's mysterious disappearance in 1945.",
+      "risingAction": "Navigating hidden archives and encountering resistance from those protecting the status quo, Veerali and Anuj piece together clandestine testimonies and classified documents, heightening the stakes of their investigation."
+    },
+    "characters": [
+      {
+        "name": "Anuj",
+        "role": "Hero",
+        "description": "A dedicated researcher obsessed with uncovering the truth behind Netaji Subhas Chandra Bose's mysterious disappearance."
+      },
+      {
+        "name": "Veerali",
+        "role": "Supporting Character",
+        "description": "Partner who joins Anuj on his journey, aiding in exposing evidence that challenges the official historical narrative."
+      },
+      {
+        "name": "Netaji Subhas Chandra Bose",
+        "role": "Other",
+        "description": "The central historical figure whose mysterious disappearance drives the investigation and overarching conspiracy."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Veerali",
+        "target": "Anuj",
+        "description": "Protege / Research Partner"
+      },
+      {
+        "source": "Anuj",
+        "target": "Netaji Subhas Chandra Bose",
+        "description": "Subject of Investigation"
+      },
+      {
+        "source": "Veerali",
+        "target": "Netaji Subhas Chandra Bose",
+        "description": "Subject of Investigation"
+      }
+    ],
+    "seo": {
+      "slug": "the-bose-files-sach-ya-sazish",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-bose-files-sach-ya-sazish](https://movnix.com/movie/the-bose-files-sach-ya-sazish)",
+        "name": "The Bose Files: Sach Ya Sazish",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Veerali joins Anuj, a researcher obsessed with uncovering the truth behind Netaji Subhas Chandra Bose's mysterious disappearance, exposing evidence that challenges the official story of his death."
+      },
+      "keywords": [
+        "The Bose Files Sach Ya Sazish",
+        "Netaji Subhas Chandra Bose movie",
+        "Subhas Chandra Bose mystery documentary",
+        "Netaji death conspiracy film",
+        "The Bose Files synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-bose-files-sach-ya-sazish](https://movnix.com/movie/the-bose-files-sach-ya-sazish)",
+      "metaTitle": "The Bose Files: Sach Ya Sazish | Truth Behind Netaji's Disappearance",
+      "openGraph": {
+        "og:title": "The Bose Files: Sach Ya Sazish | Uncovering Netaji's Truth",
+        "og:description": "Veerali and researcher Anuj expose shocking evidence challenging the official story of Netaji Subhas Chandra Bose's disappearance."
+      },
+      "twitterCard": {
+        "twitter:title": "The Bose Files: Sach Ya Sazish | Uncovering Netaji's Truth",
+        "twitter:description": "Veerali and researcher Anuj expose shocking evidence challenging the official story of Netaji Subhas Chandra Bose's disappearance."
+      },
+      "metaDescription": "Uncover the truth behind Netaji Subhas Chandra Bose's disappearance in The Bose Files: Sach Ya Sazish. Evidence challenging official history revealed."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of the film is historical investigative drama, combining elements of political mystery and biographical narrative.",
+        "question": "What is the dominant genre of The Bose Files: Sach Ya Sazish?"
+      },
+      {
+        "answer": "No, 'The Bose Files: Sach Ya Sazish' is a standalone film and is not currently part of an established cinematic franchise or film universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes in the film. The story concludes before the main credits roll.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "The film follows Veerali, a curious student, who joins forces with Anuj, a veteran researcher who has spent over two decades examining classified records to investigate the mystery behind Netaji Subhas Chandra Bose's disappearance.",
+        "question": "What is the central plot of The Bose Files: Sach Ya Sazish?"
+      },
+      {
+        "answer": "The film was written and directed by Rajesh Gupta.",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The film stars Yatin Karyekar as Netaji Subhas Chandra Bose, Rajesh Gupta as Anuj, and Apoorva Arora as Veerali, alongside supporting roles played by Akhilendra Mishra, Virendra Saxena, and Amit Behl.",
+        "question": "Who are the key cast members in the film?"
+      },
+      {
+        "answer": "Yes, the film draws inspiration and historical research from published works and theories, including investigative contributions from researchers and authors like Anuj Dhar and Chandrachur Ghose.",
+        "question": "Is the film based on real historical research?"
+      },
+      {
+        "answer": "The primary original language of the movie is Hindi.",
+        "question": "What primary language is the movie available in?"
+      },
+      {
+        "answer": "The film has been granted a UA 13+ censor certification, making it suitable for viewers aged 13 and above, with parental guidance advised for younger children.",
+        "question": "What is the age rating for The Bose Files: Sach Ya Sazish?"
+      },
+      {
+        "answer": "The film has an official runtime of approximately 2 hours and 6 minutes (126 minutes).",
+        "question": "What is the total runtime of the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror; tense music and investigative atmospheric elements."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent mild profanity and intense arguments."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild depictions and archival references to WWII combat, political unrest, and historical violence related to Netaji's movement."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Historical depictions of smoking cigarettes and social drinking."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity driven by historical conspiracies, government espionage theories, and national tragedy."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 1,
+      "science": 2,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-08-01 22:09:31.997781",
+    "updated_at": "2026-08-01 22:09:31.997781"
+  }
 }

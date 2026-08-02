@@ -1,0 +1,114 @@
+{
+  "movie": {
+    "tmdbId": 645395,
+    "imdbId": null,
+    "title": "Marvel Cinematic Universe",
+    "originalTitle": "Marvel Cinematic Universe",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "1999-10-15",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 0.7437,
+    "voteAverage": 7,
+    "voteCount": 10,
+    "homepage": "https://mock-movie-website.com/movies/645395",
+    "posterPath": "/odw4zlF2vKeuev7091jheLno6Pm.jpg",
+    "backdropPath": "/5e3gW6XnWr9ZclIO0bxjvMOcMJA.jpg",
+    "collectionId": null
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [],
+  "keywords": [],
+  "videos": [],
+  "images": [
+    {
+      "filePath": "/odw4zlF2vKeuev7091jheLno6Pm.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5e3gW6XnWr9ZclIO0bxjvMOcMJA.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/odw4zlF2vKeuev7091jheLno6Pm.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5e3gW6XnWr9ZclIO0bxjvMOcMJA.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/645395"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/645395"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=645395"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/645395/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/645395/en.vtt"
+    }
+  ]
+}
