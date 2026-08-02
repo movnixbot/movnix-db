@@ -977,5 +977,232 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1235746/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1235746,
+    "hash": "2f8024488e88b63a197bb7227361f77b37ac56ce730572ba258ecf7860f0081a",
+    "summary_one_sentence": "When a grieving widowed fisherwoman stumbles upon a teenage girl's kidnapping in remote, snowbound Minnesota, she must rely on her survival skills to rescue the girl and outwit ruthless captors.",
+    "summary_short": "Traversing the isolated, frozen wilderness of northern Minnesota, a widowed fisherwoman finds her solo trip upended when she discovers a young girl being held captive. Stranded hours away from civilization with zero cellular signal, she quickly realizes she is the teenager's sole chance at survival. Pushed to her absolute limits against severe winter elements and dangerous criminals, she launches a harrowing rescue mission. The film delivers a tense, high-stakes thriller exploring resilience, survival, and unexpected heroism.",
+    "summary_long": "Deep in the unforgiving winter wilderness of northern Minnesota, a grieving widowed fisherwoman seeks solitude on a solitary trip. Her journey takes a dangerous turn when she stumbles across evidence of a violent kidnapping in progress involving a young teenage girl. Stranded miles away from any town and entirely cut off from phone service, she faces a grim reality: calling for help is impossible. Recognizing that the abducted girl will not survive without intervention, the fisherwoman makes a brave choice to track the kidnappers through the dense, snowbound woods. Using her expert knowledge of the terrain and survival skills, she quietly stalk the captors while plotting a way to free the teenager. Every step is a fight against time as sub-zero temperatures and blinding snowstorms threaten to freeze them both. As the kidnappers realize someone is on their trail, a deadly cat-and-mouse game unfolds across the frozen landscape. Ultimately, the fisherwoman must harness every ounce of resourcefulness and physical endurance to outsmart her deadly adversaries and guide the young girl to safety.",
+    "synopsis": "Set against the stark and treacherous landscape of northern Minnesota, Dead of Winter is a high-tension thriller about courage, survival, and human connection in the face of extreme danger. The narrative centers on a widowed fisherwoman navigating the remote frozen outdoors alone, searching for peace amid her personal grief. However, her quiet journey is shattered when she unexpectedly interrupts a violent kidnapping operation and discovers a desperate teenage girl held against her will. Far removed from law enforcement and without any cellular reception, she realizes that turning back means certain death for the youngster. Left with no alternative, she thrusts herself into a perilous rescue mission across severe winter terrain, using her wilderness expertise to confront armed captors and harsh natural elements alike.",
+    "keywords": [
+      "kidnapping plot",
+      "survival thriller",
+      "snowbound wilderness",
+      "northern minnesota",
+      "isolated setting",
+      "grieving protagonist",
+      "widowed main character",
+      "cat and mouse",
+      "no phone service",
+      "protecting a stranger",
+      "winter atmosphere",
+      "reluctant hero",
+      "against all odds",
+      "remote location"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.96
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.93
+      },
+      {
+        "theme": "Protection and Heroism",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Grief and Resilience",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tense",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes, tense confrontation erupts between the fisherwoman and the captors in the freezing snow, forcing a desperate fight to rescue the young girl and survive.",
+      "conflict": "She stumbles upon and interrupts the active kidnapping of a teenage girl, discovering she has no phone service and is hours away from the nearest town or authority.",
+      "resolution": "Having overcome the immediate threat, the fisherwoman secures safety for both herself and the girl, finding a path toward recovery and inner strength.",
+      "introduction": "A widowed fisherwoman travels alone through the remote, snowbound wilderness of northern Minnesota, navigating physical isolation and harsh winter conditions.",
+      "risingAction": "Realizing she is the victim's only hope, she relies on her survival skills, environmental knowledge, and wits to outmaneuver the dangerous kidnappers in unforgiving terrain."
+    },
+    "characters": [
+      {
+        "name": "Barb",
+        "role": "Hero",
+        "description": "A widowed fisherwoman traveling through snowbound Minnesota who risks her life to save a kidnapped young girl from her captors."
+      },
+      {
+        "name": "Purple Lady",
+        "role": "Villain",
+        "description": "A terminally ill hospital worker who orchestrates the kidnapping of a young woman to illegally harvest her liver for a transplant."
+      },
+      {
+        "name": "Camo Jacket",
+        "role": "Villain",
+        "description": "The husband and accomplice of Purple Lady who helps carry out the kidnapping and enforce their captive's imprisonment."
+      },
+      {
+        "name": "Leah",
+        "role": "Supporting Character",
+        "description": "The kidnapped teenage girl targeted for organ harvesting, whose survival depends entirely on Barb's intervention."
+      },
+      {
+        "name": "Young Barb",
+        "role": "Other",
+        "description": "Barb's younger self shown in sentimental flashbacks highlighting her early life and relationship with her late husband, Karl."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Barb",
+        "target": "Chloe",
+        "description": "Protector/Rescuer"
+      },
+      {
+        "source": "Barb",
+        "target": "John",
+        "description": "Deceased Husband"
+      },
+      {
+        "source": "Chloe",
+        "target": "Kidnappers",
+        "description": "Victim/Captors"
+      },
+      {
+        "source": "Barb",
+        "target": "Kidnappers",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "dead-of-winter",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/dead-of-winter](https://movnix.com/movie/dead-of-winter)",
+        "name": "Dead of Winter",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope."
+      },
+      "keywords": [
+        "Dead of Winter",
+        "Dead of Winter movie",
+        "Dead of Winter plot",
+        "Dead of Winter synopsis",
+        "thriller movies",
+        "survival thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/dead-of-winter](https://movnix.com/movie/dead-of-winter)",
+      "metaTitle": "Dead of Winter - Movie Synopsis, Plot & Updates | Movnix",
+      "openGraph": {
+        "og:title": "Dead of Winter - Official Movie Overview",
+        "og:description": "Stranded in snowbound Minnesota with no phone service, a widowed fisherwoman becomes a kidnapped girl's only hope."
+      },
+      "twitterCard": {
+        "twitter:title": "Dead of Winter - Official Movie Overview",
+        "twitter:description": "Stranded in snowbound Minnesota with no phone service, a widowed fisherwoman becomes a kidnapped girl's only hope."
+      },
+      "metaDescription": "A widowed fisherwoman in snowbound Minnesota interrupts a kidnapping and becomes a teenage girl's only hope in the intense thriller Dead of Winter."
+    },
+    "faq": [
+      {
+        "answer": "Dead of Winter is primarily a survival thriller and suspense drama, featuring intense isolation and cat-and-mouse tension set against a harsh wilderness.",
+        "question": "What is the dominant genre of Dead of Winter?"
+      },
+      {
+        "answer": "The story follows a widowed fisherwoman traveling alone through snowbound northern Minnesota who stumbles upon and interrupts the kidnapping of a teenage girl. Stranded without phone service or nearby help, she must rely on her survival skills to save the girl.",
+        "question": "What is the main plot of Dead of Winter?"
+      },
+      {
+        "answer": "The film is set in the remote, snow-covered wilderness of northern Minnesota, far away from any town or cellular service.",
+        "question": "Where is the movie set?"
+      },
+      {
+        "answer": "The protagonist is a resilient widowed fisherwoman who becomes the unexpected savior of a kidnapped teenage girl.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "No, Dead of Winter is a standalone movie and is not part of a broader cinematic franchise or cinematic universe.",
+        "question": "Is Dead of Winter part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in Dead of Winter?"
+      },
+      {
+        "answer": "Dead of Winter is an original fictional screenplay created specifically for the screen rather than an adaptation of a specific true event or book.",
+        "question": "Is Dead of Winter based on a true story or a novel?"
+      },
+      {
+        "answer": "The extreme cold, heavy snow, and total isolation act as environmental antagonists, making rescue impossible and forcing the protagonist to fight both the kidnappers and the elements.",
+        "question": "What role does the setting play in the movie's tension?"
+      },
+      {
+        "answer": "Key themes include grief, resilience, instinctual courage, survival against nature, and the moral duty to protect vulnerable strangers.",
+        "question": "What are the central themes of the film?"
+      },
+      {
+        "answer": "Due to its intense suspense, violent themes involving kidnapping, and peril, it is intended primarily for adult and mature audience viewing rather than young children.",
+        "question": "Is Dead of Winter suitable for a general family audience?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate horror elements focused on suspense, atmospheric isolation, and intense thrill."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical of high-stakes thriller situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violent peril involving an active kidnapping, physical confrontation, and life-threatening survival conditions."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the plot premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving a child in peril, grief/loss of a spouse, extreme isolation, and imminent danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 0,
+      "science": 0,
+      "suspense": 10,
+      "violence": 6
+    },
+    "created_at": "2026-08-02 17:04:13.497253",
+    "updated_at": "2026-08-02 17:04:13.497253"
+  }
 }
