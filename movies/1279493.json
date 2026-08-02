@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 33.8654,
-    "voteAverage": 6.37,
-    "voteCount": 46,
+    "popularity": 31.3152,
+    "voteAverage": 6.388,
+    "voteCount": 49,
     "homepage": "https://mock-movie-website.com/movies/1279493",
     "posterPath": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
     "backdropPath": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
@@ -354,8 +354,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.37,
-      "votesCount": 46
+      "ratingValue": 6.388,
+      "votesCount": 49
     },
     {
       "source": "crawled",
@@ -435,6 +435,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 7
+    },
+    {
+      "tmdbPersonId": 6382599,
+      "name": "Sean Richard",
+      "profilePath": null,
+      "character": "Nightclub Supervisor (uncredited)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
     },
     {
       "tmdbPersonId": 126910,
@@ -572,5 +581,253 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1279493/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1279493,
+    "hash": "6240ef5af343e3a58980e982a45dd8493d64d53cfe28b3aacac7a9cc05db0df2",
+    "summary_one_sentence": "Hoping for a peaceful retirement with his girlfriend, a nightclub owner with a dangerous past is dragged back into violence when cartels and a mysterious buyer threaten everything he has built.",
+    "summary_short": "A former criminal turned nightclub owner prepares to leave his violent past behind to start a quiet life with his girlfriend. However, his dreams of retirement are shattered when masked gunmen stage a brazen robbery, drawing the unwanted attention of ruthless cartels. Tensions escalate further with the arrival of a secretive newcomer eager to purchase the club. To protect his future and survive, he must navigate a treacherous maze of deception, betrayal, and deadly power struggles.",
+    "summary_long": "A veteran nightclub owner stands on the brink of finally walking away from a life steeped in violence and crime. Desperate for a clean slate, he plans a peaceful retirement alongside his girlfriend, hoping his dark past remains behind him. That fragile hope shatters when a gang of masked gunmen violently robs his establishment, plunging his business into chaos. The fallout brings him into direct conflict with ruthless drug cartels, who begin squeezing him for control and restitution. As the pressure mounts, an enigmatic stranger unexpectedly arrives, offering to buy out the nightclub under suspicious circumstances. Suspicious of everyone around him, the owner tries to untangle the motives behind the robbery and the potential buyer's true agenda. With deadly enemies closing in from every angle, loyalties are tested and hidden secrets come to light. He realizes that stepping away will require surviving an increasingly hostile environment where every move could be fatal. Caught in a lethal crossfire of greed, vengeance, and survival, he must risk everything to secure his freedom before escape becomes impossible.",
+    "synopsis": "In 'The Get Out', an action-thriller drama, a nightclub owner seeking a peaceful retirement with his girlfriend finds his plans derailed after a violent heist by masked gunmen. Squeezed between predatory cartels seeking dominance and a mysterious newcomer aiming to buy his business, he must navigate a web of deception and lethal threats where staying alive is the ultimate goal.",
+    "keywords": [
+      "cartel conflict",
+      "one last job",
+      "nightclub owner",
+      "retirement plans",
+      "masked robbers",
+      "web of deception",
+      "deadly ultimatum",
+      "mysterious buyer",
+      "dangerous past",
+      "no way out",
+      "high stakes survival",
+      "crime syndicate",
+      "betrayal",
+      "underworld violence"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Consequences of the Past",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Deception and Betrayal",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Power Dynamics and Crime",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a boiling point in a high-stakes confrontation where the true motives of all parties collide, forcing him into a desperate battle for survival.",
+      "conflict": "A violent robbery by masked gunmen disrupts his plans, leaving him squeezed between ruthless cartels and facing a sudden, mysterious buyer interested in his club.",
+      "resolution": "The dust settles as the ultimate consequences of his choices unfold, determining whether he can truly escape his past or remain trapped by it.",
+      "introduction": "A nightclub owner plans to retire and leave his dangerous life behind with his girlfriend, hoping to secure a peaceful future.",
+      "risingAction": "As threats mount from all sides, he must navigate a web of deception, shifting power dynamics, and escalating danger while trying to protect his loved ones and find a way out."
+    },
+    "characters": [
+      {
+        "name": "Manco Kapak (Russell Crowe)",
+        "role": "Anti Hero",
+        "description": "A nightclub owner with a violent criminal past who is trying to retire with his girlfriend, but gets forced into a dangerous game of survival when targeted by robbers and cartels."
+      },
+      {
+        "name": "Joe Carver (Luke Evans)",
+        "role": "Supporting Character",
+        "description": "An undercover federal agent posing as a mysterious buyer interested in purchasing the nightclub to catch cartel leaders."
+      },
+      {
+        "name": "Jeff (Aaron Paul)",
+        "role": "Villain",
+        "description": "A college professor coerced by a corrupt cop into robbing Manco, setting off a wave of chaos."
+      },
+      {
+        "name": "Carrie (Nina Dobrev)",
+        "role": "Comic Relief",
+        "description": "A thrill-seeking bank teller who blackmails Jeff into partnering with her to carry out armed heists."
+      },
+      {
+        "name": "Sunny (Teresa Palmer)",
+        "role": "Supporting Character",
+        "description": "Manco's loyal girlfriend who wants to leave the city and start a peaceful new life with him abroad."
+      },
+      {
+        "name": "Rodriguez (Daniel Zovatto)",
+        "role": "Villain",
+        "description": "A ruthless cartel figure in Los Angeles who puts deadly pressure on Manco to settle financial debts."
+      },
+      {
+        "name": "Irena (Kartiah Vergara)",
+        "role": "Other",
+        "description": "A woman caught in the middle of the cartel dispute who receives mercy from Manco."
+      },
+      {
+        "name": "Sabelle Morrow-Woods",
+        "role": "Other",
+        "description": "A background character operating within the nightclub's surrounding criminal environment."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nightclub Owner",
+        "target": "Girlfriend",
+        "description": "Romantic Partners"
+      },
+      {
+        "source": "Nightclub Owner",
+        "target": "Cartels",
+        "description": "Enemies / Antagonists"
+      },
+      {
+        "source": "Nightclub Owner",
+        "target": "Mysterious Newcomer / Buyer",
+        "description": "Business Partners / Threat"
+      },
+      {
+        "source": "Nightclub Owner",
+        "target": "Masked Gunmen",
+        "description": "Robbers / Antagonists"
+      }
+    ],
+    "seo": {
+      "slug": "the-get-out",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-get-out](https://movnix.com/movie/the-get-out)",
+        "name": "The Get Out",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival - where escape may no longer be an option."
+      },
+      "keywords": [
+        "The Get Out",
+        "The Get Out movie",
+        "thriller movie",
+        "action movie",
+        "crime thriller",
+        "nightclub owner movie",
+        "cartel thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/the-get-out](https://movnix.com/movie/the-get-out)",
+      "metaTitle": "The Get Out - Official Synopsis, Plot & Movie Details",
+      "openGraph": {
+        "og:title": "The Get Out | Official Movie Details & Overview",
+        "og:description": "Trapped between ruthless cartels and a mysterious buyer, a nightclub owner faces a deadly game of survival. Read the full synopsis for The Get Out."
+      },
+      "twitterCard": {
+        "twitter:title": "The Get Out | Official Movie Details & Overview",
+        "twitter:description": "Trapped between ruthless cartels and a mysterious buyer, a nightclub owner faces a deadly game of survival. Read the full synopsis for The Get Out."
+      },
+      "metaDescription": "A nightclub owner facing cartels and masked gunmen must navigate a deadly web of deception when a newcomer offers to buy his business. Will he survive?"
+    },
+    "faq": [
+      {
+        "answer": "'The Get Out' is primarily a crime thriller and action film centered on underworld extortion, cartel pressure, and suspenseful survival.",
+        "question": "What is the dominant genre of 'The Get Out'?"
+      },
+      {
+        "answer": "No, 'The Get Out' is a standalone film and is not connected to any existing film series or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes, so the story fully concludes before the credits roll.",
+        "question": "Is there a post-credit scene in 'The Get Out'?"
+      },
+      {
+        "answer": "The main cast includes Russell Crowe as the nightclub owner, alongside Luke Evans, Teresa Palmer, Aaron Paul, and Nina Dobrev.",
+        "question": "Who are the lead cast members in 'The Get Out'?"
+      },
+      {
+        "answer": "'The Get Out' was directed by filmmaker Derrick Borte.",
+        "question": "Who directed 'The Get Out'?"
+      },
+      {
+        "answer": "The plot follows a nightclub owner attempting to leave his dangerous criminal past behind for retirement, only to be drawn back into a deadly trap when masked gunmen rob him, cartels squeeze him, and a mysterious buyer appears.",
+        "question": "What is the core premise of 'The Get Out'?"
+      },
+      {
+        "answer": "'The Get Out' is a fictional crime-thriller story written for the screen by Derrick Borte, Daniel Forte, and Thomas Perry.",
+        "question": "Is 'The Get Out' based on a true story or a book?"
+      },
+      {
+        "answer": "The movie is rated R for violent scenes, pervasive language, sexual content, and brief drug use, making it intended for mature audiences.",
+        "question": "What is the age rating for 'The Get Out'?"
+      },
+      {
+        "answer": "The runtime of the film is approximately 1 hour and 41 minutes (101 minutes).",
+        "question": "What is the total runtime of 'The Get Out'?"
+      },
+      {
+        "answer": "'The Get Out' is available in theaters and across major digital video-on-demand streaming platforms.",
+        "question": "Where can viewers watch 'The Get Out'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror elements, though tense moments involving violent threats and deadly confrontations may create mild suspense."
+      },
+      "language": {
+        "score": 6,
+        "description": "Likely frequent coarse or strong language given the adult criminal themes and cartel environment."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence implied by masked gunmen, cartel presence, armed robbery, and a dangerous criminal underworld."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Moderate to high substance use/references implied by a nightclub setting and ruthless drug cartel involvement."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minimal sexual content expected, potentially limited to brief romantic themes or nightclub settings."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity and stress driven by high-stakes survival, deception, cartel threats, and life-or-death pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 4,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-07-29 12:41:54.158224",
+    "updated_at": "2026-07-29 12:41:54.158224"
+  }
 }
