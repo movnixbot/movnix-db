@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.2355,
-    "voteAverage": 6.409,
-    "voteCount": 11,
+    "popularity": 6.7166,
+    "voteAverage": 6.458,
+    "voteCount": 12,
     "homepage": "https://mock-movie-website.com/movies/1421552",
     "posterPath": "/ph8CrRJIW8ORoaJUCFLGYYFNywr.jpg",
     "backdropPath": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
@@ -113,20 +113,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
-      "width": 1357,
-      "height": 1900,
-      "aspectRatio": 0.714,
-      "type": "poster"
-    },
-    {
-      "filePath": "/uESXCRJ5WPmys6S4ivY6lO8MAKh.jpg",
-      "width": 2000,
-      "height": 2800,
-      "aspectRatio": 0.714,
-      "type": "poster"
-    },
-    {
       "filePath": "/ph8CrRJIW8ORoaJUCFLGYYFNywr.jpg",
       "width": 2000,
       "height": 3000,
@@ -141,6 +127,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/kGpQnDKsOxkhhn8Q0D0KEkDWrvA.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/asrLPsZMg75SxN1BooggGmpBwRO.jpg",
       "width": 2000,
       "height": 3000,
@@ -149,6 +142,20 @@
     },
     {
       "filePath": "/seERuLEpknbgD3L97LaMecxU4rX.jpg",
+      "width": 2000,
+      "height": 2800,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
+      "width": 1357,
+      "height": 1900,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uESXCRJ5WPmys6S4ivY6lO8MAKh.jpg",
       "width": 2000,
       "height": 2800,
       "aspectRatio": 0.714,
@@ -335,13 +342,34 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/yftSdqF2HHsYKpSX3b6OfpaPmJN.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8td918HNdXxHiFHBN9FiiyIQcKd.jpg",
+      "width": 2048,
+      "height": 1150,
+      "aspectRatio": 1.781,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/hvpkeplXpPqJj4gRtx8eL4h8Uww.jpg",
+      "width": 1921,
+      "height": 1080,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.409,
-      "votesCount": 11
+      "ratingValue": 6.458,
+      "votesCount": 12
     },
     {
       "source": "imdb",
@@ -549,8 +577,34 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Hi-YAH",
+          "logo": "/pPoqVHcko7XoCRrPus4boDW90uM.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
