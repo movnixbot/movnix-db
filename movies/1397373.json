@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.5085,
-    "voteAverage": 5.988,
-    "voteCount": 41,
+    "popularity": 2.9706,
+    "voteAverage": 5.958,
+    "voteCount": 72,
     "homepage": "https://mock-movie-website.com/movies/1397373",
     "posterPath": "/tq62SABP6986u7fYJ39vnexjgFU.jpg",
     "backdropPath": "/rY46avgfnWIbBwdmGSmbHuVA8z2.jpg",
@@ -86,6 +86,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/6a6gwp5Y4j9aMQLlMgILrKTYATC.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/rY46avgfnWIbBwdmGSmbHuVA8z2.jpg",
       "width": 1422,
       "height": 800,
@@ -112,13 +119,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/2xf1DUnLyng2e6Kt6gkbd7ZpvkE.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.988,
-      "votesCount": 41
+      "ratingValue": 5.958,
+      "votesCount": 72
     },
     {
       "source": "crawled",
@@ -376,5 +390,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1397373/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1397373,
+    "hash": "9b196471c35d49ba3571623f88f1ced91af4dc85016e4cb355242013acf01c79",
+    "summary_one_sentence": "Seventeen years after graduating, a group of former high school friends reunites for a funeral, only to find themselves embroiled in a wild criminal adventure after breaking into their old school.",
+    "summary_short": "Brought together by the tragic loss of an old friend, a group of former high school classmates meets again after seventeen years apart. Fuelled by alcohol and nostalgia from a long-lost video, they decide to sneak into their old school late one night to relive their youth. However, what was meant to be an innocent walk down memory lane rapidly spirals out of control into an unexpected criminal mess. They must navigate both old emotional baggage and new, high-stakes trouble as their simple reunion turns chaotic.",
+    "summary_long": "Seventeen years after going their separate ways, a group of former high school classmates comes back together under somber circumstances for the funeral of an old friend. Overcome with grief and nostalgia, the group gathers for a dinner that quickly becomes fueled by heavy drinking and shared memories. When a forgotten video from their school days resurfaces, it rekindles the longing to experience the magic and carefree nature of their youth once more. In a fit of spontaneous nostalgia, the intoxicated group decides to break into their old high school in the middle of the night. Walking through the dark hallways, long-buried secrets, lingering grudges, and unresolved romances quickly begin to bubble to the surface. What starts as a sentimental trek down memory lane takes a dark and unexpected turn when their antics trigger a cascade of unintended events. As the night progresses, their innocent trespass devolves into a desperate criminal adventure, entangling them in serious trouble with the law. Forced to lean on one another just as they did in their teenage years, the group must figure out how to extricate themselves from the mess they created. By morning, their impulsive nocturnal escapade forever alters their adult lives and reframes their past relationships.",
+    "synopsis": "Seventeen years after graduation, a group of former high school friends is brought back together by the funeral of an old classmate. What begins as a bittersweet reunion filled with alcohol, reminiscing, and a nostalgic trip down memory lane via a long-forgotten video soon takes an unpredictable turn. Seeking to reclaim the magic of their youth, the group impulsively sneaks into their old high school late at night. However, old emotional wounds resurface alongside unexpected chaos, transforming a sentimental gathering into a high-stakes, wild adventure that tests the bonds of their long-standing friendship.",
+    "keywords": [
+      "class reunion",
+      "funeral reunion",
+      "nostalgia",
+      "former classmates",
+      "breaking and entering",
+      "sneaking into school",
+      "criminal adventure",
+      "alcohol fueled chaos",
+      "forgotten video tape",
+      "one night adventure",
+      "rekindled friendship",
+      "accidental criminals",
+      "reliving youth",
+      "dark comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Nostalgia and Youth",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Reunion and Secrets",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Consequences of the Past",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The night's chaotic misadventure reaches a tense boiling point as long-buried secrets surface and the immediate danger of their break-in peaks.",
+      "conflict": "Fueled by alcohol and nostalgia from a forgotten video, the group decides to sneak into their old school late at night to relive their youth.",
+      "resolution": "In the aftermath of the wild night, the former friends are forced to confront the truth about their past, their current lives, and the altered nature of their relationships.",
+      "introduction": "A group of former high school classmates reassemble after seventeen years to attend the funeral of a shared friend.",
+      "risingAction": "What begins as a nostalgic trip down memory lane rapidly escalates into an unexpected and dangerous criminal adventure inside the school."
+    },
+    "characters": [
+      {
+        "name": "Marco",
+        "role": "Hero",
+        "description": "The central protagonist driven by nostalgia who reunites his former classmates and instigates the night's adventure."
+      },
+      {
+        "name": "Nanè",
+        "role": "Supporting Character",
+        "description": "A key member of the former high school group who joins the reunion and shares past ties with the classmates."
+      },
+      {
+        "name": "Michael 'il Matto'",
+        "role": "Comic Relief",
+        "description": "The eccentric, wild card of the group whose unpredictable behavior adds humor to their illegal school break-in."
+      },
+      {
+        "name": "Preside",
+        "role": "Villain",
+        "description": "The strict school principal who acts as the primary authority figure and antagonist to the group's reckless antics."
+      },
+      {
+        "name": "Nando",
+        "role": "Supporting Character",
+        "description": "An old classmate whose presence and interactions add fuel to the group's escalating late-night escapades."
+      },
+      {
+        "name": "Fabrizio Pozzi",
+        "role": "Anti Hero",
+        "description": "A conflicted former classmate whose questionable choices push the nostalgic reunion into criminal territory."
+      },
+      {
+        "name": "Alex",
+        "role": "Supporting Character",
+        "description": "An essential member of the circle who helps uncover forgotten memories and secrets from their high school days."
+      },
+      {
+        "name": "Young Alex",
+        "role": "Other",
+        "description": "Appears in flashback sequences and recorded video memories representing the group's past."
+      },
+      {
+        "name": "Guido Bonelli",
+        "role": "Comic Relief",
+        "description": "A high-strung, humorous former classmate whose reactions amplify the chaotic situations they encounter."
+      },
+      {
+        "name": "Romeo",
+        "role": "Supporting Character",
+        "description": "A loyal friend within the group who gets pulled into the unexpected criminal adventure."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Group of Former Classmates",
+        "target": "Deceased Friend",
+        "description": "Friends (attending funeral)"
+      },
+      {
+        "source": "Group of Former Classmates",
+        "target": "Group of Former Classmates",
+        "description": "High School Classmates / Accomplices"
+      }
+    ],
+    "seo": {
+      "slug": "cena-di-classe",
+      "jsonLd": {
+        "name": "Cena di classe",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of former high school classmates reunite after seventeen years for the funeral of an old friend. Aided by alcohol and a forgotten video, they sneak into their old school one night to relive the magic of that time. But a simple reunion quickly turns into a criminal adventure."
+      },
+      "keywords": [
+        "Cena di classe",
+        "Cena di classe movie",
+        "Italian comedy thriller",
+        "reunion movie plot",
+        "high school reunion movie"
+      ],
+      "canonical": "[https://movnix.com/movie/cena-di-classe](https://movnix.com/movie/cena-di-classe)",
+      "metaTitle": "Cena di classe - Movie Synopsis, Plot & Reunion Thriller Details",
+      "openGraph": {
+        "og:title": "Cena di classe - Reunion Turns Into a Criminal Adventure",
+        "og:description": "After 17 years apart, high school friends reunite for a funeral and sneak into their old school. What starts as nostalgia quickly escalates into a wild criminal adventure."
+      },
+      "twitterCard": {
+        "twitter:title": "Cena di classe - Reunion Turns Into a Criminal Adventure",
+        "twitter:description": "After 17 years apart, high school friends reunite for a funeral and sneak into their old school. What starts as nostalgia quickly escalates into a wild criminal adventure."
+      },
+      "metaDescription": "Former high school friends reunite after 17 years for a funeral. A night at their old school turns a nostalgic reunion into a criminal adventure."
+    },
+    "faq": [
+      {
+        "answer": "The film follows a group of former high school classmates who reunite seventeen years after graduation for an old friend's funeral. Driven by nostalgia, alcohol, and a forgotten video, they break into their former high school late at night, only for their sentimental reunion to spiral into a criminal adventure.",
+        "question": "What is \"Cena di classe\" about?"
+      },
+      {
+        "answer": "The movie primarily blends comedy, drama, and crime-thriller elements, shifting from a nostalgic reunion narrative into an unpredictable criminal heist/adventure.",
+        "question": "What is the dominant genre of \"Cena di classe\"?"
+      },
+      {
+        "answer": "No, \"Cena di classe\" is a standalone film and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the credits, so you can safely leave once the main story finishes.",
+        "question": "Is there a post-credit scene in \"Cena di classe\"?"
+      },
+      {
+        "answer": "Seventeen years have passed since their high school days before they are brought back together by the funeral of their mutual friend.",
+        "question": "How many years have passed since the characters last saw each other?"
+      },
+      {
+        "answer": "After attending their friend's funeral, a combination of shared grief, alcohol, and discovering a forgotten video from their youth inspires them to relive their high school memories by trespassing into their former school.",
+        "question": "What prompts the group to sneak into their old school?"
+      },
+      {
+        "answer": "The forgotten video acts as a sentimental catalyst that unlocks old memories and secrets, driving the group to attempt to recreate the magic of their youth.",
+        "question": "What role does the forgotten video play in the story?"
+      },
+      {
+        "answer": "No, the movie is a fictional story created for entertainment.",
+        "question": "Is \"Cena di classe\" based on a true story?"
+      },
+      {
+        "answer": "It strikes a balance: while it begins with comedic and emotional nostalgic beats, it gradually shifts tension toward a crime-fueled adventure as their night escalates out of control.",
+        "question": "Does the movie lean more into comedy or crime?"
+      },
+      {
+        "answer": "It is best suited for fans of ensemble comedies, reunion stories, and suspenseful thrillers that explore themes of nostalgia, aging, and unexpected consequences.",
+        "question": "Who is the primary target audience for this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements present in the plot."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely moderate strong language fueled by alcohol and high-stakes criminal situation."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence associated with a school break-in turning into a criminal adventure."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Explicit mention of alcohol consumption aiding and fueling the characters' decisions."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Potential mild romantic or sexual references among former classmates, but non-explicit."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Themes of grief surrounding an old friend's funeral, nostalgia, and escalation into illegal activities."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 5,
+      "comedy": 5,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 0,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-08-03 02:05:09.120637",
+    "updated_at": "2026-08-03 02:05:09.120637"
+  }
 }

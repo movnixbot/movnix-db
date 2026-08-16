@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9572,
+    "popularity": 5.0008,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1514682",
@@ -143,6 +143,34 @@
       "type": "poster"
     },
     {
+      "filePath": "/hSItGwPndZeZCfABCCWBbARqJHI.jpg",
+      "width": 848,
+      "height": 1257,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gFXBHUoe7GwitXClbbwLGloM6W2.jpg",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cUO0aUCkbd5tGX0LA7q0KtMQ3og.jpg",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/rp2nT3i5KuLmqQMhr5z8pCjbZvM.jpg",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
       "width": 1920,
       "height": 1080,
@@ -151,6 +179,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "imdb",
+      "ratingValue": 7.3,
+      "votesCount": 30
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -162,7 +195,7 @@
       "tmdbPersonId": 54722,
       "name": "Laura Marano",
       "profilePath": "/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg",
-      "character": null,
+      "character": "Tatiana",
       "job": "Actor",
       "department": "Acting",
       "order": 0
