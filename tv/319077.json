@@ -6,9 +6,9 @@
     "originalName": "バカンスの法則",
     "overview": "After losing her job, a woman retreats to her late grandmother's seaside villa, where an unexpected friendship with its mysterious caretaker helps her heal and embrace a new beginning.",
     "firstAirDate": "2026-07-27",
-    "lastAirDate": "2026-07-31",
+    "lastAirDate": "2026-08-07",
     "status": "Returning Series",
-    "popularity": 9.7669,
+    "popularity": 6.3924,
     "voteAverage": null,
     "voteCount": null,
     "type": "Scripted",
@@ -80,7 +80,7 @@
           "name": "Episode 4",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 16,
           "season_number": 1,
           "show_id": 319077,
           "still_path": "/niVNyakM0f74URhacof4MxJSBFB.jpg",
@@ -97,10 +97,10 @@
           "name": "Episode 5",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 17,
           "season_number": 1,
           "show_id": 319077,
-          "still_path": null,
+          "still_path": "/qjE0QkStMWroyioRdzLS5Xi0YUc.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -117,7 +117,7 @@
           "runtime": null,
           "season_number": 1,
           "show_id": 319077,
-          "still_path": null,
+          "still_path": "/4bk2HqEYrmdIn0QZ7MLZW3zykvz.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -348,9 +348,26 @@
     {
       "tmdbId": 18,
       "name": "Drama"
+    },
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 306300,
+      "name": "Tyken",
+      "logoPath": null,
+      "originCountry": "JP"
+    },
+    {
+      "tmdbId": 104181,
+      "name": "and pictures",
+      "logoPath": null,
+      "originCountry": "JP"
+    }
+  ],
   "keywords": [],
   "videos": [],
   "images": [
@@ -477,8 +494,8 @@
     },
     {
       "tmdbPersonId": 3510927,
-      "name": "加納愛子",
-      "profilePath": null,
+      "name": "Aiko Kano",
+      "profilePath": "/2v3VW0IRgHPoGIhZY2WOgM4HrMY.jpg",
       "character": null,
       "job": "Actor",
       "department": "Acting",
@@ -547,7 +564,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
