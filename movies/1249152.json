@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.0903,
-    "voteAverage": 8.35,
+    "popularity": 3.0147,
+    "voteAverage": 8.3,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1249152",
-    "posterPath": "/rCgwdsckK27dpKO9kZ71v1ehQBJ.jpg",
+    "posterPath": "/pWosA9XyBhHgxo5hm9x3aDVknwu.jpg",
     "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
     "collectionId": null,
     "certification": "14"
@@ -62,7 +62,7 @@
   ],
   "images": [
     {
-      "filePath": "/rCgwdsckK27dpKO9kZ71v1ehQBJ.jpg",
+      "filePath": "/pWosA9XyBhHgxo5hm9x3aDVknwu.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -76,9 +76,16 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/6HaddoqsLWV1akRNwINOUSR18Py.jpg",
-      "width": 1654,
-      "height": 2480,
+      "filePath": "/fHNoUt8bTg5bRr56MUjXYdBpltc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pWosA9XyBhHgxo5hm9x3aDVknwu.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -90,10 +97,24 @@
       "type": "poster"
     },
     {
+      "filePath": "/6HaddoqsLWV1akRNwINOUSR18Py.jpg",
+      "width": 1654,
+      "height": 2480,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/5l7ONVcgbZ7zNWBCqZwDSI0hyh9.jpg",
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yfXrV07Ez56mmWoyogjrxMQXNHq.jpg",
+      "width": 1058,
+      "height": 1500,
+      "aspectRatio": 0.705,
       "type": "poster"
     },
     {
@@ -105,6 +126,13 @@
     },
     {
       "filePath": "/iWldE9heN2mtl8n9cCPRlpD1Awd.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/u4AWoXFKZ85wAXnmjxLQkjvnGaw.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -179,12 +207,19 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/f5KM2f3ZDrXOQQsSEQXXY5kor4F.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.35,
+      "ratingValue": 8.3,
       "votesCount": 10
     },
     {

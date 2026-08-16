@@ -4,13 +4,13 @@
     "imdbId": "tt37897646",
     "title": "Malaikat Malam",
     "originalTitle": "Malaikat Malam",
-    "overview": "Ashraff, a motorcycle workshop owner, balances his daily life activities between caring for his older brother who struggles with depression, participating in illegal street racing, and winning an innocent blind girl's heart.",
+    "overview": "Azam, a motorcycle workshop owner, balances his daily life activities between caring for his older brother who struggles with depression, participating in illegal street racing, and winning an innocent blind girl's heart.",
     "releaseDate": "2026-03-26",
     "runtime": 111,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.1588,
+    "popularity": 9.9154,
     "voteAverage": 7.3,
     "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1535392",
@@ -23,6 +23,14 @@
     {
       "tmdbId": 18,
       "name": "Drama"
+    },
+    {
+      "tmdbId": 10749,
+      "name": "Romance"
+    },
+    {
+      "tmdbId": 28,
+      "name": "Action"
     },
     {
       "tmdbId": 1,
@@ -294,7 +302,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
