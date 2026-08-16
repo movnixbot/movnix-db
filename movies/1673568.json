@@ -7,10 +7,10 @@
     "overview": "Get ready for couture, cameras, and cast moments as Disney+ and Hulu livestream the The Devil Wears Prada 2 world premiere from New York City’s Lincoln Center. Streaming live to subscribers worldwide, the event offers a rare, front‑row view as it unfolds in America’s fashion capital. From red carpet arrivals to behind‑the‑scenes interviews, it’s an inside look at one of the most glamorous nights of the year, and the perfect kickoff to the film’s theatrical debut.",
     "releaseDate": "2026-04-20",
     "runtime": 84,
-    "budget": null,
+    "budget": "100000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 2.0475,
+    "popularity": 2.1101,
     "voteAverage": 6.5,
     "voteCount": 3,
     "homepage": "https://www.hulu.com/series/6f237964-982d-4931-ab7a-3c004d7042a3",
@@ -30,9 +30,30 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 412,
+      "name": "Wendy Finerman Productions",
+      "logoPath": null,
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 5219,
+      "name": "Sunswept Entertainment",
+      "logoPath": null,
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "The Devil Wears Prada 2 | Official Trailer",
+      "key": "e9HXmMnUEdE",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/grTJpqC5pfGfjWmrgBVvPHYMq5K.jpg",
@@ -106,7 +127,7 @@
       "tmdbPersonId": 1813,
       "name": "Anne Hathaway",
       "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
-      "character": "Self",
+      "character": "Andrea 'Andy' Sachs",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -115,7 +136,7 @@
       "tmdbPersonId": 5081,
       "name": "Emily Blunt",
       "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
-      "character": "Self",
+      "character": "Emily Charlton",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -124,46 +145,139 @@
       "tmdbPersonId": 2283,
       "name": "Stanley Tucci",
       "profilePath": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
-      "character": "Self",
+      "character": "Nigel Kipling",
       "job": "Actor",
       "department": "Acting",
       "order": 2
     },
     {
-      "tmdbPersonId": 1239491,
-      "name": "Brad Goreski",
-      "profilePath": "/9MAj1K83VohZ7hedxj1NBONAuIN.jpg",
-      "character": "Self - Host",
+      "tmdbPersonId": 5064,
+      "name": "Meryl Streep",
+      "profilePath": "/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg",
+      "character": "Miranda Priestly",
       "job": "Actor",
       "department": "Acting",
       "order": 3
     },
     {
-      "tmdbPersonId": 4840597,
-      "name": "Tefi Pessoa",
-      "profilePath": "/xOvA15kBIrura8GaEczlsYI8Vzq.jpg",
-      "character": "Self - Co-Host",
+      "tmdbPersonId": 11181,
+      "name": "Kenneth Branagh",
+      "profilePath": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+      "character": "Stuart Simmons",
       "job": "Actor",
       "department": "Acting",
       "order": 4
     },
     {
-      "tmdbPersonId": 3629768,
-      "name": "Sophie Flay",
-      "profilePath": "/tq4EwO59xguA8UJPUb1hmUCgUZC.jpg",
-      "character": "Self - Reporter",
+      "tmdbPersonId": 15009,
+      "name": "Justin Theroux",
+      "profilePath": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+      "character": "Benji Barnes",
       "job": "Actor",
       "department": "Acting",
       "order": 5
-    }
-  ],
-  "alternativeTitles": [
+    },
     {
-      "iso_3166_1": "US",
-      "title": "The Devil Wears Prada 2: Red Carpet Live",
-      "type": "Disney+ title"
+      "tmdbPersonId": 140,
+      "name": "Lucy Liu",
+      "profilePath": "/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg",
+      "character": "Sasha Barnes",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 107770,
+      "name": "B.J. Novak",
+      "profilePath": "/o8Xf1khxhKGTz3QAplXD35opRA8.jpg",
+      "character": "Jay Ravitz",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 2223752,
+      "name": "Simone Ashley",
+      "profilePath": "/uL7t73kzhrRLY9ilNze1dYhHfg3.jpg",
+      "character": "Amari Mari",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 10580,
+      "name": "Tracie Thoms",
+      "profilePath": "/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg",
+      "character": "Lily",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 1192389,
+      "name": "Tibor Feldman",
+      "profilePath": "/b6tVKhCkNWltObwyHpGfBLuaPt6.jpg",
+      "character": "Irv Ravitz",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 221032,
+      "name": "Patrick Brammall",
+      "profilePath": "/l4IlGBxkYcCwqtfuKfWyHa9JCn6.jpg",
+      "character": "Peter",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 2817558,
+      "name": "Caleb Hearon",
+      "profilePath": "/wsXM7aLnEQ9W5I9mi4k01hMuw0i.jpg",
+      "character": "Charlie",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 5284719,
+      "name": "Helen J. Shen",
+      "profilePath": "/78gjC8UOesWs56pzlQgZllwTW8R.jpg",
+      "character": "Jin Chao",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 1453801,
+      "name": "Rachel Bloom",
+      "profilePath": "/hfnU70X7QOdiURFEd1hM7gQIe6J.jpg",
+      "character": "Talia",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
+    },
+    {
+      "tmdbPersonId": 5065,
+      "name": "David Frankel",
+      "profilePath": "/hfIjLMo8Upl6MXhn1YcoDoXeeZn.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 10567,
+      "name": "Aline Brosh McKenna",
+      "profilePath": "/7U6a2yhwkxvOkOm9HjfDl0qUmm2.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
     }
   ],
+  "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt41973261",
     "wikidataId": null,

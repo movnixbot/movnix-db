@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "34902602",
     "status": "Released",
-    "popularity": 16.7132,
-    "voteAverage": 7.083,
-    "voteCount": 1538,
+    "popularity": 17.5948,
+    "voteAverage": 7.071,
+    "voteCount": 1564,
     "homepage": "https://a24films.com/films/warfare",
     "posterPath": "/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
     "backdropPath": "/30jbD8Er4aB7FbfUbyZLORMDnJN.jpg",
@@ -977,13 +977,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/8sEY83GUjbF60geBjAyUIkhDsOr.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/i7YB93VKplvMhnlNVXat6OG1YGO.jpg",
       "width": 3332,
       "height": 1874,
@@ -1701,8 +1694,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.083,
-      "votesCount": 1538
+      "ratingValue": 7.071,
+      "votesCount": 1564
     },
     {
       "source": "imdb",
@@ -1751,7 +1744,7 @@
     {
       "tmdbPersonId": 1538851,
       "name": "Kit Connor",
-      "profilePath": "/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg",
+      "profilePath": "/1zx8xbJd8cUmNBertjzSuajCIGx.jpg",
       "character": "Tommy",
       "job": "Actor",
       "department": "Acting",
@@ -1875,21 +1868,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 17600,
-      "name": "Allon Reich",
-      "profilePath": "/3JfsrlA7pfl8EDpVdrcUlp6NouJ.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 3608245,
       "name": "Ray Mendoza",
       "profilePath": "/4WBfSzOyG5TsSOmB3ssSd0SKfmR.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2035,
+      "name": "Andrew Macdonald",
+      "profilePath": "/sDVEoOK4mLZpfxhxP6y5figCdsf.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -1902,9 +1895,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2035,
-      "name": "Andrew Macdonald",
-      "profilePath": "/sDVEoOK4mLZpfxhxP6y5figCdsf.jpg",
+      "tmdbPersonId": 17600,
+      "name": "Allon Reich",
+      "profilePath": "/3JfsrlA7pfl8EDpVdrcUlp6NouJ.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1995,7 +1988,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
@@ -2003,10 +2001,6 @@
         {
           "name": "HBO Max Amazon Channel",
           "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
         },
         {
           "name": "HBO Max",
