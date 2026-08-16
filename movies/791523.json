@@ -745,5 +745,259 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/791523/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 791523,
+    "hash": "8e516d2b4a719a1acb470d0f5dc1103e31cf2efd74799dc845f6eda421425140",
+    "summary_one_sentence": "When her baby brother is snatched by crows, Prue McKeel and her classmate Curtis venture into the forbidden Impassable Wilderness to rescue him from a sinister dark force.",
+    "summary_short": "After young Mac is abducted by a flock of mysterious birds, his sister Prue McKeel refuses to let him vanish without a fight. Joined by her reluctant classmate Curtis, she plunges beyond Portland's borders into the Impassable Wilderness, an enchanted realm hidden in plain sight. Together, they encounter talking animals, warring factions, and ancient magic as they brave mounting perils. To save Mac, they must navigate a realm on the brink of war while facing down the mysterious dark force leading the avian captors.",
+    "summary_long": "Life in suburban Portland takes a terrifying turn for Prue McKeel when a murder of crows swoops down and carries off her infant brother, Mac, into the forbidden Impassable Wilderness. Refusing to tell her parents, Prue sets out on a desperate rescue mission and is unexpectedly joined by her awkward classmate, Curtis Mehlberg. Upon crossing the magical boundary, the children discover Wildwood, an enchanted domain populated by intelligent beasts, heroic bandits, and mystical beings. However, the woodland is far from peaceful, fractured by simmering conflict and old rivalries. Curtis quickly gets separated from Prue and is taken in by the majestic, militaristic animal factions of the woods, while Prue searches for clues to Mac's location. They soon realize that Mac was stolen on the orders of Alexandra, a powerful and ruthless figure who rules the dark heart of the forest. Alexandra plans to use the infant in a dangerous ritual that threatens to disrupt the delicate balance of the entire wilderness. As Prue builds alliances with noble woodland creatures and Curtis learns the true nature of the forces at play, the two friends must unite the forest's disparate inhabitants. Facing betrayal, ancient enchantments, and formidable foes, Prue and Curtis launch a perilous assault against Alexandra's stronghold to save Mac and protect Wildwood.",
+    "synopsis": "Wildwood follows the extraordinary journey of Prue McKeel, an ordinary girl forced into an extraordinary world when her baby brother, Mac, is kidnapped by a flock of crows and taken into the Impassable Wilderness—a strange, magical forest on the edge of Portland that no one ever enters. Accompanied by her classmate Curtis, Prue steps beyond the known world into a realm filled with talking animals, warring factions, and deep magic. As the duo navigates the dangerous politics and ancient secrets of the enchanted woods, they must rely on newly formed alliances with loyal woodland inhabitants to face off against Alexandra, a dangerous leader intent on using Mac for her own dark motives.",
+    "keywords": [
+      "kidnapping plot",
+      "rescue mission",
+      "forbidden forest",
+      "talking animals",
+      "enchanted wilderness",
+      "dark fairy tale",
+      "young protagonists",
+      "avian enemies",
+      "crows",
+      "magical realism",
+      "quest narrative",
+      "mysterious villain",
+      "sibling bond",
+      "coming of age"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Good vs. Evil",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The escalating hostilities culminate in a major battle for the fate of the Impassable Wilderness, where Prue, Curtis, and their allies must confront Alexandra's army to rescue Mac before her sinister plans are realized.",
+      "conflict": "Determined to save Mac, Prue ventures into the mysterious woods accompanied by her classmate Curtis, only to find themselves separated and thrust into a realm divided by warring factions and hidden magical forces.",
+      "resolution": "With the immediate threat thwarted and Mac safe, the balance of power within the forest shifts, allowing Prue and Curtis to return home while remaining forever connected to the secret world beyond the city's borders.",
+      "introduction": "Ordinary life in Portland is disrupted when Prue McKeel witnesses her baby brother, Mac, being abducted by a flock of crows and carried away into the Impassable Wilderness, a dense and forbidden forest bordering the city.",
+      "risingAction": "As Prue navigates dangerous alliances with woodland creatures and rebels to reach the forest's governing center, Curtis is captured and inducted into the ranks of the formidable Governess, Alexandra, forcing both children to uncover the true history and tensions brewing within the Wildwood."
+    },
+    "characters": [
+      {
+        "name": "Prue McKeel",
+        "role": "Hero",
+        "description": "The determined main protagonist who ventures into the forbidden Impassable Wilderness on a courageous quest to rescue her kidnapped baby brother."
+      },
+      {
+        "name": "Curtis Mehlberg",
+        "role": "Supporting Character",
+        "description": "Prue's loyal classmate who gets drawn into the Wildwood alongside her, eventually finding his own path and aiding in the rescue mission."
+      },
+      {
+        "name": "Alexandra",
+        "role": "Villain",
+        "description": "The ruthless and mysterious Dowager Governess who commands the crows and seeks to sacrifice baby Mac to fulfill her sinister ambitions."
+      },
+      {
+        "name": "Mac McKeel",
+        "role": "Other",
+        "description": "Prue's infant brother whose abduction by crows drives the central plot and motivates the heroes' journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Prue McKeel",
+        "target": "Mac McKeel",
+        "description": "Siblings (Sister / Baby Brother)"
+      },
+      {
+        "source": "Prue McKeel",
+        "target": "Curtis Mehlberg",
+        "description": "Classmates / Quest Partners"
+      },
+      {
+        "source": "Prue McKeel",
+        "target": "Alexandra McKeel",
+        "description": "Adversaries (Rescuer / Kidnapper)"
+      },
+      {
+        "source": "Curtis Mehlberg",
+        "target": "Alexandra McKeel",
+        "description": "Former Captive / Subordinate to Master General"
+      },
+      {
+        "source": "Alexandra McKeel",
+        "target": "Mac McKeel",
+        "description": "Captive / Kidnapper"
+      },
+      {
+        "source": "Prue McKeel",
+        "target": "Septimus",
+        "description": "Allies (Befriended Bicycle Courier)"
+      },
+      {
+        "source": "Prue McKeel",
+        "target": "Owl Rex",
+        "description": "Allies (Crown Prince of South Wood)"
+      },
+      {
+        "source": "Curtis Mehlberg",
+        "target": "Septimus",
+        "description": "Allies / Friends"
+      },
+      {
+        "source": "Alexandra McKeel",
+        "target": "Wildwood Crows",
+        "description": "Commander / Minions"
+      }
+    ],
+    "seo": {
+      "slug": "wildwood",
+      "jsonLd": {
+        "name": "Wildwood",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Adventure",
+          "Fantasy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue’s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra."
+      },
+      "keywords": [
+        "Wildwood movie",
+        "Wildwood Laika",
+        "Prue and Curtis",
+        "Wildwood adaptation",
+        "animated fantasy movie"
+      ],
+      "canonical": "[https://movnix.com/movie/wildwood](https://movnix.com/movie/wildwood)",
+      "metaTitle": "Wildwood (2025) - Official Movie Synopsis, Plot & Updates",
+      "openGraph": {
+        "og:title": "Wildwood - Step Into the Impassable Wilderness",
+        "og:description": "Join Prue and Curtis on a perilous quest into a secret, enchanted forest to rescue her baby brother from a mysterious force."
+      },
+      "twitterCard": {
+        "twitter:title": "Wildwood - Official Movie Overview",
+        "twitter:description": "Follow Prue and Curtis into the forbidden magical forest on a desperate quest to save baby Mac from the crows."
+      },
+      "metaDescription": "Prue and Curtis brave a forbidden magical forest to save Prue's kidnapped baby brother from the mysterious Alexandra in Laika's Wildwood."
+    },
+    "faq": [
+      {
+        "answer": "Wildwood is primarily an animated dark fantasy adventure film, combining epic quest narratives with magical realism.",
+        "question": "What is the dominant genre of Wildwood?"
+      },
+      {
+        "answer": "Yes, Wildwood is based on the 2011 bestselling fantasy novel of the same name written by Colin Meloy (lead singer of The Decemberists) and illustrated by Carson Ellis.",
+        "question": "Is Wildwood based on a book?"
+      },
+      {
+        "answer": "Wildwood was produced by LAIKA, the famous stop-motion animation studio behind Coraline, ParaNorman, The Boxtrolls, and Kubo and the Two Strings.",
+        "question": "Which animation studio produced Wildwood?"
+      },
+      {
+        "answer": "The story follows a young girl named Prue McKeel and her classmate Curtis as they venture into an impenetrable, enchanted forest outside Portland, Oregon, to rescue Prue's baby brother, Mac, who was abducted by a flock of crows.",
+        "question": "What is the main plot of Wildwood?"
+      },
+      {
+        "answer": "The principal adversary is Alexandra, the ruthless Governess of the Impassable Wilderness who controls the crows that kidnapped Mac.",
+        "question": "Who is the main antagonist of the story?"
+      },
+      {
+        "answer": "While the movie is a standalone adaptation, the original novel is the first installment of a literary trilogy known as The Wildwood Chronicles, leaving room for potential sequels.",
+        "question": "Is Wildwood part of a franchise?"
+      },
+      {
+        "answer": "Like many of LAIKA's films, Wildwood features dark fantasy themes, mysterious creatures, and moments of peril, making it best suited for older children, pre-teens, and family audiences who enjoy slightly darker adventure stories.",
+        "question": "Is Wildwood suitable for young children?"
+      },
+      {
+        "answer": "The story takes place in a fictionalized version of Portland, Oregon, and the Impassable Wilderness (Wildwood), a secret, magical forest hidden right outside the city.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The film utilizes LAIKA's signature stop-motion animation, enhanced with cutting-edge visual effects, puppet craftsmanship, and modern digital technology.",
+        "question": "What technique was used to animate the movie?"
+      },
+      {
+        "answer": "Following LAIKA studio tradition, the end credits typically feature a behind-the-scenes stop-motion sequence highlighting the intricate puppet mechanics and animator craftsmanship, though there is no narrative sequel setup post-credits.",
+        "question": "Is there a post-credit scene in Wildwood?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild dark fantasy elements, dark woods, menacing avian antagonists, and moments of tension and suspense, but no explicit horror or gore."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong language; suitable for middle-grade and young adult readers."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate fantasy violence, including battles between forest factions, animal warfare involving swords and firearms, and peril involving a kidnapped infant, though largely stylized for young adult fantasy."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Negligible substance use, limited to standard background fantasy settings or celebratory contexts with no focus on drug usage."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romance present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity driven by the urgency of rescuing a kidnapped sibling, betrayal, and themes of sacrifice and peril in an unfamiliar world."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 4,
+      "emotion": 7,
+      "fantasy": 9,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-08-16 22:02:39.366776",
+    "updated_at": "2026-08-16 22:02:39.366776"
+  }
 }
