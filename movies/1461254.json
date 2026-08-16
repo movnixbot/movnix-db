@@ -10,9 +10,9 @@
     "budget": "2020000",
     "revenue": "17450000",
     "status": "Released",
-    "popularity": 4.6661,
-    "voteAverage": 6.3,
-    "voteCount": 15,
+    "popularity": 4.9578,
+    "voteAverage": 6.167,
+    "voteCount": 18,
     "homepage": "https://global.showbox.co.kr/forums/QA9URT74M/threads/T4GHSFV32",
     "posterPath": "/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg",
     "backdropPath": "/edVIvTc8RofOTxoAZN7a5kxIAay.jpg",
@@ -215,6 +215,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/84AyymvUvpkubq7Q8FanmvAr0tt.jpg",
+      "width": 1400,
+      "height": 2100,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/edVIvTc8RofOTxoAZN7a5kxIAay.jpg",
       "width": 2400,
       "height": 1350,
@@ -393,8 +400,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 15
+      "ratingValue": 6.167,
+      "votesCount": 18
     },
     {
       "source": "imdb",
@@ -586,6 +593,11 @@
       "iso_3166_1": "KR",
       "title": "Salmokchi",
       "type": ""
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Сальмокчи",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -597,7 +609,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {

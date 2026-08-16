@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 19.2488,
-    "voteAverage": 5.611,
-    "voteCount": 9,
+    "popularity": 6.1292,
+    "voteAverage": 5.794,
+    "voteCount": 18,
     "homepage": "https://mock-movie-website.com/movies/1458215",
     "posterPath": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
     "backdropPath": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
@@ -20,7 +20,7 @@
   },
   "collection": {
     "tmdbId": 1149170,
-    "name": "Cash Out - Saga",
+    "name": "Cash Out Collection",
     "overview": null,
     "posterPath": "/kn9NvcP3bbfRFq6HPNKoSclsidZ.jpg",
     "backdropPath": "/6gsGMzrBNLQX46zerTUB2g2kUCQ.jpg"
@@ -170,8 +170,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.611,
-      "votesCount": 9
+      "ratingValue": 5.794,
+      "votesCount": 18
     },
     {
       "source": "crawled",
@@ -371,6 +371,10 @@
       "flatrate": [],
       "buy": [
         {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
           "name": "Apple TV Store",
           "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
         },
@@ -381,7 +385,14 @@
       ]
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "b3m5s",
+      "content": "Ooh no. Disappointing. This movie looks like a series of short recordings with each shot just 1 take.",
+      "rating": 3,
+      "createdAt": "2026-08-06T19:15:08Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
