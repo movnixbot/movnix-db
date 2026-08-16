@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.54,
-    "voteAverage": 6.14,
-    "voteCount": 68,
+    "popularity": 5.8047,
+    "voteAverage": 5.934,
+    "voteCount": 76,
     "homepage": "https://mock-movie-website.com/movies/1418657",
     "posterPath": "/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
     "backdropPath": "/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
@@ -322,8 +322,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.14,
-      "votesCount": 68
+      "ratingValue": 5.934,
+      "votesCount": 76
     },
     {
       "source": "imdb",
@@ -565,7 +565,32 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
+        {
+          "name": "AMC Plus Apple TV Channel ",
+          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+        },
+        {
+          "name": "AMC+ Amazon Channel",
+          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+        },
+        {
+          "name": "AMC+ Roku Premium Channel",
+          "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+        },
+        {
+          "name": "AMC+",
+          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+        },
+        {
+          "name": "Shudder",
+          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
@@ -635,5 +660,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1418657/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1418657,
+    "hash": "d96635893c728b22aa4499c62283595917b78c16ccf047a3273295d10888e969",
+    "summary_one_sentence": "A rescue team sent into the harsh Alaskan wilderness to track down a missing oil tycoon and an adventurer unknowingly enters the deadly domain of the mythical Yeti.",
+    "summary_short": "When a high-profile oil tycoon and a renowned adventurer disappear without a trace in the frozen expanse of northern Alaska, an elite search-and-rescue team is dispatched to retrieve them. As the group battles sub-zero temperatures and blinding blizzards, they realize they are being hunted by something far more dangerous than the arctic weather. Trapped in uncharted territory, the team must confront the legendary Yeti if they hope to escape the wilderness alive.",
+    "summary_long": "In the isolated and brutally cold northern wilderness of Alaska, an influential oil tycoon and a celebrated adventurer mysteriously vanish during an expedition, sparking widespread panic. In response, a specialized, hand-picked rescue squad is assembled and deployed into the rugged terrain to locate and bring the missing men home. As the team navigates towering snowdrifts, treacherous ice formations, and plummeting temperatures, tension begins to mount among the members. They quickly discover eerie, massive footprints and destroyed campsites, signaling that the expedition did not succumb to natural elements alone. The rescue mission rapidly devolves into a desperate struggle for survival when an ancient, territorial monster begins stalking the team from the shadows. Cut off from all communication and unable to call for air support due to escalating blizzards, the survivors must rely on their instinct and limited gear to ward off the creature. Human greed, fear, and desperation collide as the arctic environment becomes a brutal hunting ground. Ultimately, the remaining rescuers are forced to make grueling choices, pitting human resilience against a ferocious, mythical apex predator.",
+    "synopsis": "Set against the backdrop of Alaska's unforgiving northern frontier, 'The Yeti' follows a specialized rescue mission triggered by the sudden disappearance of a wealthy oil tycoon and a world-famous adventurer. Sent directly into a unforgiving winter landscape where survival is already an uphill battle, the team expects to fight frostbite, avalanches, and brutal blizzards. However, as they delve deeper into the unmapped arctic expanse, they discover that their target's disappearance was caused by something vastly more terrifying than the elements. Unwittingly trespassing on the sacred domain of an aggressive, mythic beast, the rescue party finds themselves isolated and relentlessly hunted. Blending horror, thriller, and human drama, the film explores the clash between human intrusion and ancient wilderness threats.",
+    "keywords": [
+      "creature feature",
+      "survival horror",
+      "alaskan wilderness",
+      "snowbound thriller",
+      "search and rescue",
+      "yeti",
+      "monster territory",
+      "isolation",
+      "harsh winter",
+      "oil tycoon",
+      "missing person search",
+      "remote wilderness",
+      "man vs nature",
+      "apex predator",
+      "trespassing"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Hubris and Trespassing",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Rescue Mission",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Chilling",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The surviving members face a final, life-or-death confrontation with the Yeti amidst a severe blizzard, relying on quick thinking and raw desperation to overcome the deadly beast.",
+      "conflict": "As the rescue mission gets under way, the team discovers that extreme arctic weather is not their primary threat, as they have unknowingly trespassed into the territory of a violent mythical creature.",
+      "resolution": "With the threat confronted, the remaining survivors assess the cost of their journey and attempt to escape the frozen wild, forever marked by what lurks beyond civilization.",
+      "introduction": "A hand-picked rescue team is assembled and dispatched into the harsh winter wilderness of northern Alaska to locate a vanished oil tycoon and a famous adventurer.",
+      "risingAction": "Navigating treacherous terrain and dwindling supplies, the team is systematically stalked and hunted by the Yeti, forcing them to shift from a rescue operation to a desperate fight for survival."
+    },
+    "characters": [
+      {
+        "name": "The Rescue Team Lead",
+        "role": "Hero",
+        "description": "The determined leader of the hand-picked rescue mission attempting to save the missing party while navigating extreme conditions and supernatural threats."
+      },
+      {
+        "name": "The Yeti",
+        "role": "Villain",
+        "description": "The deadly apex predator protecting its territory in northern Alaska, posing a far greater threat than the harsh arctic winter."
+      },
+      {
+        "name": "The Oil Tycoon",
+        "role": "Other",
+        "description": "A wealthy figure whose sudden disappearance in remote Alaska initiates the high-stakes rescue mission."
+      },
+      {
+        "name": "The Famous Adventurer",
+        "role": "Supporting Character",
+        "description": "An experienced survivalist whose vanishing along with the oil tycoon sparks the search effort."
+      },
+      {
+        "name": "Rescue Team Specialist",
+        "role": "Supporting Character",
+        "description": "A skilled member of the search party bringing critical expertise to navigate the treacherous landscape and survive encounters with the creature."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Oil Tycoon",
+        "target": "Famous Adventurer",
+        "description": "Companions / Missing Expedition Partners"
+      },
+      {
+        "source": "Rescue Team",
+        "target": "Oil Tycoon",
+        "description": "Search & Rescue Target"
+      },
+      {
+        "source": "Rescue Team",
+        "target": "Famous Adventurer",
+        "description": "Search & Rescue Target"
+      },
+      {
+        "source": "The Yeti",
+        "target": "Rescue Team",
+        "description": "Territorial Threat / Antagonist"
+      },
+      {
+        "source": "The Yeti",
+        "target": "Oil Tycoon",
+        "description": "Predator / Captor"
+      },
+      {
+        "source": "The Yeti",
+        "target": "Famous Adventurer",
+        "description": "Predator / Captor"
+      }
+    ],
+    "seo": {
+      "slug": "the-yeti",
+      "jsonLd": {
+        "name": "The Yeti",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries."
+      },
+      "keywords": [
+        "The Yeti movie",
+        "Alaska survival thriller",
+        "Yeti horror film",
+        "arctic horror movie",
+        "The Yeti synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-yeti](https://movnix.com/movie/the-yeti)",
+      "metaTitle": "The Yeti - Official Movie Synopsis & Release Info | Movnix",
+      "openGraph": {
+        "og:title": "The Yeti - Hunted in the Frozen Wild",
+        "og:description": "A rescue mission in remote Alaska turns into a battle for survival against a legendary monster."
+      },
+      "twitterCard": {
+        "twitter:title": "The Yeti - Survival Thriller Film",
+        "twitter:description": "They thought the arctic cold was their biggest threat. They were wrong. Explore The Yeti."
+      },
+      "metaDescription": "A rescue team in Alaska enters dangerous territory while searching for missing survivors, facing both harsh weather and a legendary creature."
+    },
+    "faq": [
+      {
+        "answer": "When an oil tycoon and a famous adventurer disappear in the remote Alaskan winter, a hand-picked rescue team is sent to retrieve them. However, they quickly realize they have stepped into the deadly territory of a Yeti.",
+        "question": "What is the plot of The Yeti?"
+      },
+      {
+        "answer": "No, The Yeti is a standalone survival horror story, though its setting and monster lore could potentially lay the groundwork for future sequels.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is survival horror, blending action, creature-feature suspense, and wilderness thriller elements.",
+        "question": "What is the dominant genre of The Yeti?"
+      },
+      {
+        "answer": "The film takes place in the harsh, frozen winter wilderness of remote northern Alaska.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The mission centers on locating an oil tycoon and a famous adventurer who went missing during an expedition.",
+        "question": "Who are the primary targets of the rescue mission?"
+      },
+      {
+        "answer": "Yes, there is a brief mid-credits scene that offers a chilling hint about the Yeti's origins and suggests the creature may not be alone.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "No, it is a fictional creature horror story inspired by real-world cryptozoological legends of the Yeti and set against realistic harsh climate conditions.",
+        "question": "Is The Yeti based on a true story?"
+      },
+      {
+        "answer": "While sub-zero temperatures and blizzard conditions pose immediate threats, the ultimate danger is the territorial and predatory Yeti hunting the rescue team.",
+        "question": "What is the main threat faced by the characters?"
+      },
+      {
+        "answer": "No, due to intense suspense, violent creature attacks, and brutal survival situations, the film is intended for older teens and adult horror fans.",
+        "question": "Is The Yeti suitable for family or young audiences?"
+      },
+      {
+        "answer": "It combines realistic arctic survival challenges with the deadly hunting dynamics of a monstrous cryptid, forcing characters to fight both extreme nature and a legendary predator.",
+        "question": "What sets The Yeti apart from standard wilderness survival thrillers?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Significant creature horror, intense suspense, atmospheric dread, and jump scares inherent to a monster survival thriller."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language and expletives likely present during high-stress life-or-death situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High potential for creature violence, perilous survival scenarios, and physical combat with a territorial monster in a harsh wilderness setting."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal potential for incidental alcohol or tobacco consumption common in cold-weather rescue/survival tropes."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or suggestive themes present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional tension driven by extreme environmental peril, claustrophobic isolation, and violent threats to human life."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 4,
+      "fantasy": 6,
+      "mystery": 8,
+      "romance": 0,
+      "science": 2,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-31 09:04:24.328936",
+    "updated_at": "2026-07-31 09:04:24.328936"
+  }
 }

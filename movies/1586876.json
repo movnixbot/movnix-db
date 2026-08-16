@@ -8,16 +8,15 @@
     "releaseDate": "2026-07-24",
     "runtime": 99,
     "budget": null,
-    "revenue": null,
+    "revenue": "43175325",
     "status": "Released",
-    "popularity": 2.8899,
+    "popularity": 9.2057,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1586876",
     "posterPath": "/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
     "backdropPath": "/6efIfUaOqYKKWI5sSCilvqLIpeL.jpg",
-    "collectionId": null,
-    "certification": "I"
+    "collectionId": null
   },
   "collection": null,
   "genres": [
@@ -63,7 +62,29 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Teaser Trailer (Singapore)",
+      "key": "bqN9wLOsKdM",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Teaser Trailer (Malaysia)",
+      "key": "NPABya8j0zU",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser Trailer (Malaysia)",
+      "key": "tJe_5rbUKnY",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    }
+  ],
   "images": [
     {
       "filePath": "/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
@@ -178,6 +199,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/cAtxtm021SUun6Gunxmjl7TbBqJ.jpg",
+      "width": 960,
+      "height": 1440,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3iNanqa9L8lARNlWh1tT3wbZK4g.jpg",
+      "width": 2000,
+      "height": 2834,
+      "aspectRatio": 0.706,
+      "type": "poster"
+    },
+    {
       "filePath": "/6efIfUaOqYKKWI5sSCilvqLIpeL.jpg",
       "width": 1920,
       "height": 1080,
@@ -211,9 +246,21 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/rVOll8XOde5BuIF4tGO1q0pfngQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 5
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -330,6 +377,24 @@
       "order": 11
     },
     {
+      "tmdbPersonId": 3519928,
+      "name": "Saeko Oki",
+      "profilePath": "/zmjFPl8uPSoCILFASp5sOjWUxmL.jpg",
+      "character": "Mermaid (voice)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 1563445,
+      "name": "Ayaka Nanase",
+      "profilePath": "/9eKNKMFFhbtG74V3OOiVKEgm1ul.jpg",
+      "character": "Mermaid (voice)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
       "tmdbPersonId": 1996780,
       "name": "Kei Oikawa",
       "profilePath": null,
@@ -375,7 +440,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "JP",
+      "title": "ちいかわ",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt39026173",
     "wikidataId": "Q136977451",
@@ -419,5 +490,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1586876/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1586876,
+    "hash": "5b1bed220e52d5794ab778529e781b47c4b19943d7093413b68e63718d486f99",
+    "summary_one_sentence": "Chiikawa and his adorable friends embark on a whimsical summer getaway to a mysterious island, where they uncover a long-lost mermaid secret and learn the true meaning of courage and friendship.",
+    "summary_short": "Excited for a fun summer vacation, Chiikawa, Hachiware, and Usagi travel to a legendary island famous for its sparkling seas and mysterious rumors. Upon arrival, the trio stumbles into a captivating adventure centered around a long-lost mermaid secret. As gentle thrills and unexpected chaos unfold, the friends must rely on one another to navigate strange legends and magical encounters. Ultimately, their unforgettable journey proves that true bravery lies in protecting the bond they share.",
+    "summary_long": "Driven by the promise of summer fun, Chiikawa, Hachiware, and Usagi set sail for a picturesque yet mysterious island surrounded by shimmering ocean waters. The island is steeped in ancient folklore, with local whispers pointing toward a long-buried secret regarding a legendary mermaid. What begins as a lighthearted getaway quickly transforms into a thrilling quest as strange clues and magical occurrences begin to surface around them. Along the way, the endearing trio encounters peculiar creatures and faces gentle, suspenseful challenges that test their resolve. Despite their small stature and frequent bouts of anxiety, Chiikawa and his companions rise to each occasion through mutual support and unwavering loyalty. As the truth behind the island's secret gradually unravels, they discover that every small moment of kindness holds incredible magic. The journey brings unexpected surprises, prompting each friend to dig deep and find hidden reserves of bravery. By confronting the island's mysterious past together, they restore harmony to the hidden paradise and forge an unbreakable connection. Ultimately, they return home with newfound courage, precious memories, and an enduring appreciation for the simple joys of friendship.",
+    "synopsis": "Set against the vibrant backdrop of a sun-soaked tropical destination, 'Chiikawa the Movie: The Secret of the Mermaid Island' follows the beloved trio—Chiikawa, Hachiware, and Usagi—as they embark on a whimsical summer getaway. The island, famous for its sparkling waters and enchanting atmosphere, hides an ancient legend about a mysterious mermaid secret waiting to be uncovered. As the friends explore the island's charming landscapes, their peaceful holiday takes an adventurous turn, plunging them into a world of gentle thrills, peculiar encounters, and heartwarming surprises. Designed as an uplifting, family-friendly fantasy, the film weaves humor, adorable chaos, and emotional depth together, offering a delightful exploration of bravery, compassion, and the power of everyday bonds.",
+    "keywords": [
+      "cutecore",
+      "whimsical adventure",
+      "kawaii aesthetic",
+      "mermaid folklore",
+      "island setting",
+      "heartwarming journey",
+      "power of friendship",
+      "hidden secrets",
+      "summer vacation",
+      "gentle thrills",
+      "seaside mystery",
+      "small moments of magic",
+      "adorable chaos"
+    ],
+    "themes": [
+      {
+        "theme": "Friendship",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Courage",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Appreciating Small Moments",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Adventure and Exploration",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "In a decisive moment of bravery, the friends face the heart of the island's mystery together, testing their bonds of friendship to overcome a daunting ordeal.",
+      "conflict": "As the trio explores the island, they stumble upon strange local legends and unsettling mysteries, realizing that the playful vacation carries an unexpected challenge.",
+      "resolution": "With the secret revealed and peace restored, the trio reflects on their journey, returning home with cherished memories and a deeper understanding of courage.",
+      "introduction": "Chiikawa, Hachiware, and Usagi set sail for a picturesque summer getaway to a mysterious, sun-drenched island rumored to hide an ancient mermaid secret.",
+      "risingAction": "Navigating odd encounters and mild thrills, the friends rely on each other to uncover clues about the island's secret while protecting one another from newfound dangers."
+    },
+    "characters": [
+      {
+        "name": "Chiikawa",
+        "role": "Hero",
+        "description": "A timid and soft-spoken small creature who shows remarkable bravery and heart when faced with dangerous island secrets to protect friends."
+      },
+      {
+        "name": "Hachiware",
+        "role": "Supporting Character",
+        "description": "Chiikawa's optimistic, articulate, and fiercely loyal best friend who acts as the voice and encouragement for the group."
+      },
+      {
+        "name": "Usagi",
+        "role": "Comic Relief",
+        "description": "A high-spirited and unpredictable rabbit whose chaotic, eccentric behavior brings energy and humor to the journey."
+      },
+      {
+        "name": "Rakko",
+        "role": "Mentor",
+        "description": "A skilled and veteran warrior who oversees and protects the younger characters while remaining cautious of the island's mysterious invitations."
+      },
+      {
+        "name": "Siren",
+        "role": "Villain",
+        "description": "The formidable monster living on the island who threatens the residents and drives the main conflict of the adventure."
+      },
+      {
+        "name": "Momonga",
+        "role": "Anti Hero",
+        "description": "A mischievous and self-centered flying squirrel whose cute appearance hides a demanding and rebellious personality."
+      },
+      {
+        "name": "Shimajiro / Island Resident",
+        "role": "Supporting Character",
+        "description": "A local island inhabitant who welcomes the visitors and helps reveal the dark truth plaguing the island."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chiikawa",
+        "target": "Hachiware",
+        "description": "Best Friends and Adventuring Companions"
+      },
+      {
+        "source": "Chiikawa",
+        "target": "Usagi",
+        "description": "Best Friends and Adventuring Companions"
+      },
+      {
+        "source": "Hachiware",
+        "target": "Usagi",
+        "description": "Best Friends and Adventuring Companions"
+      },
+      {
+        "source": "Chiikawa",
+        "target": "Rakko",
+        "description": "Student / Protégé and Mentor"
+      },
+      {
+        "source": "Hachiware",
+        "target": "Rakko",
+        "description": "Student / Protégé and Mentor"
+      }
+    ],
+    "seo": {
+      "slug": "chiikawa-the-movie-the-secret-of-the-mermaid-island",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/chiikawa-the-movie-the-secret-of-the-mermaid-island](https://movnix.com/movie/chiikawa-the-movie-the-secret-of-the-mermaid-island)",
+        "name": "Chiikawa the Movie: The Secret of the Mermaid Island",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos."
+      },
+      "keywords": [
+        "Chiikawa the Movie",
+        "Secret of the Mermaid Island",
+        "Chiikawa movie release",
+        "Chiikawa anime film",
+        "Chiikawa summer adventure",
+        "Chiikawa friends movie"
+      ],
+      "canonical": "[https://movnix.com/movie/chiikawa-the-movie-the-secret-of-the-mermaid-island](https://movnix.com/movie/chiikawa-the-movie-the-secret-of-the-mermaid-island)",
+      "metaTitle": "Chiikawa the Movie: The Secret of the Mermaid Island (2026) | Official Movie Info",
+      "openGraph": {
+        "og:title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+        "og:description": "Join Chiikawa and friends on a whimsical summer adventure to uncover a mysterious mermaid secret filled with heart, fun, and adorable chaos!"
+      },
+      "twitterCard": {
+        "twitter:title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+        "twitter:description": "Join Chiikawa and friends on a whimsical summer adventure to uncover a mysterious mermaid secret filled with heart, fun, and adorable chaos!"
+      },
+      "metaDescription": "Join Chiikawa and friends on a whimsical summer adventure to discover the secret of Mermaid Island. A heartwarming journey of courage and adorable chaos!"
+    },
+    "faq": [
+      {
+        "answer": "The movie follows Chiikawa and friends on a whimsical summer getaway to a mysterious island that holds a long-lost mermaid secret, leading to a heartwarming journey full of surprises, gentle thrills, and adorable chaos.",
+        "question": "What is \"Chiikawa the Movie: The Secret of the Mermaid Island\" about?"
+      },
+      {
+        "answer": "Yes, it is part of the popular Chiikawa franchise, based on the beloved manga and anime series created by Nagano.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is animated adventure and slice-of-life fantasy comedy.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "The story centers around the iconic trio—Chiikawa, Hachiware, and Usagi—alongside other familiar friends from the series.",
+        "question": "Who are the main characters featured in the film?"
+      },
+      {
+        "answer": "Yes, there is a short post-credits bonus scene that delivers one last cute and humorous moment before the lights come up.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Yes, the movie is family-friendly, offering lighthearted humor, gentle thrills, and wholesome messages suited for viewers of all ages.",
+        "question": "Is this movie suitable for children and families?"
+      },
+      {
+        "answer": "No prior knowledge is required. While long-time fans will appreciate familiar character dynamics, the island mystery is a self-contained story accessible to newcomers.",
+        "question": "Do I need to watch the Chiikawa TV series before watching this movie?"
+      },
+      {
+        "answer": "The core themes focus on courage, dynamic friendship, teamwork, and finding magic and appreciation in small, everyday moments.",
+        "question": "What are the main themes of the film?"
+      },
+      {
+        "answer": "The adventure primarily takes place on a mysterious tropical island surrounded by sparkling seas and steeped in local mermaid legends.",
+        "question": "Where does the main story take place?"
+      },
+      {
+        "answer": "Expect a charming, whimsical, and heartwarming tone balanced with light comedic chaos and gentle mystery.",
+        "question": "What tone can viewers expect from this adventure?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Gentle thrills and strange mysterious elements without intense scary imagery."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or offensive language."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal cartoon violence or mild physical comedy typical of whimsical animated adventures."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to or depiction of drugs, alcohol, or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild emotional depth focusing on friendship, courage, and heartwarming moments suitable for all ages."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 7,
+      "romance": 0,
+      "science": 1,
+      "suspense": 4,
+      "violence": 1
+    },
+    "created_at": "2026-07-27 23:49:58.650653",
+    "updated_at": "2026-07-27 23:49:58.650653"
+  }
 }
