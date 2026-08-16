@@ -9,8 +9,8 @@
     "runtime": 111,
     "budget": null,
     "revenue": null,
-    "status": "Planned",
-    "popularity": 2.5426,
+    "status": "Post Production",
+    "popularity": 4.5189,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/81278442",
@@ -24,6 +24,10 @@
     {
       "tmdbId": 80,
       "name": "Crime"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 53,
@@ -145,6 +149,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/4k3OoKlJBfUWHQZYcEaGaisEQK.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
       "width": 3840,
       "height": 2159,
@@ -192,6 +203,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uTl8jEmTuLiJ7eXofNGKniXZvOJ.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -215,7 +240,7 @@
       "tmdbPersonId": 11705,
       "name": "Michelle Monaghan",
       "profilePath": "/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg",
-      "character": "Detective Amanda Beck",
+      "character": "Amanda Beck",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -260,7 +285,7 @@
       "tmdbPersonId": 2232,
       "name": "Michael Keaton",
       "profilePath": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
-      "character": "Francis 'Frank' Carter",
+      "character": "Frank Carter",
       "job": "Actor",
       "department": "Acting",
       "order": 6
