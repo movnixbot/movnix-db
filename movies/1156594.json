@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 28.6013,
-    "voteAverage": 7.391,
-    "voteCount": 718,
+    "popularity": 28.9086,
+    "voteAverage": 7.4,
+    "voteCount": 731,
     "homepage": "https://www.amazon.com/gp/video/detail/B0DZF95RTJ",
     "posterPath": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
     "backdropPath": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
@@ -135,6 +135,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
       "width": 2000,
       "height": 3000,
@@ -143,13 +150,6 @@
     },
     {
       "filePath": "/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -436,6 +436,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/l0qeR71JKKdhxpEJQ9UIKDFuvyn.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
       "width": 3840,
       "height": 2160,
@@ -614,8 +621,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.391,
-      "votesCount": 718
+      "ratingValue": 7.4,
+      "votesCount": 731
     },
     {
       "source": "imdb",
@@ -894,5 +901,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1156594/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1156594,
+    "hash": "2615bb8c44782a1a0e05d56854478d02380a9d7ab6381ab28c84fce870822b99",
+    "summary_one_sentence": "Reuniting at Jenna and Lion's wedding after a bitter breakup, Nick and Noah struggle to resist their lingering attraction as past resentment threatens to keep them apart.",
+    "summary_short": "After a painful breakup, Noah and Nick are unexpectedly reunited at the wedding of Jenna and Lion. Despite Nick's deep-seated resentment and inability to forgive Noah, the spark between them remains undeniable. As Nick steps into his role as heir to his grandfather's business and Noah begins her career, both try to move on with their separate lives. Ultimately, they must confront whether their lingering love is strong enough to overcome the hurt of the past.",
+    "summary_long": "Following a turbulent breakup that left both of them deeply scarred, Noah and Nick have built separate lives away from one another. Nick is carving out his future as the heir to his grandfather's vast business empire, while Noah is taking her first steps into her professional career. However, their forced separation comes to an abrupt end when mutual friends Jenna and Lion tie the knot, bringing them face-to-face once again. Despite the passage of time, Nick remains fiercely guarded, unable to forgive Noah for the mistakes that tore them apart. Noah, equally conflicted, attempts to keep her distance, but being in close proximity reignites the intense connection they once shared. Throughout the wedding festivities and their subsequent encounters, emotional tensions run high as old wounds are reopened. Friends and family watch anxiously as the pair navigate lingering passion, stubborn pride, and unresolved grief. As both resist giving in to a flame that never truly died, they are forced to confront their truest feelings. Ultimately, the two must decide if they can let go of their pride and resentment to give their love a second chance.",
+    "synopsis": "Our Fault follows Noah and Nick as their paths unexpectedly cross again at the wedding of Jenna and Lion, forcing them to confront the unresolved pain of their past breakup. Nick, now focused on stepping into his responsibility as heir to his grandfather's business, harbors deep resentment toward Noah and finds himself unable to offer forgiveness. Meanwhile, Noah is embarking on her own professional journey, determined to move forward despite her lingering feelings. As forced proximity rekindles an undeniable connection, both struggle to guard their hearts and maintain their boundaries. Rich in drama and romantic tension, the story explores whether two people burdened by pride and past mistakes can overcome deep-seated emotional barriers to rekindle a once-in-a-lifetime bond.",
+    "keywords": [
+      "second chance romance",
+      "wedding reunion",
+      "ex-lovers",
+      "resentment",
+      "forgiveness",
+      "wealthy heir",
+      "lingering attraction",
+      "emotional angst",
+      "romantic tension",
+      "unresolved feelings",
+      "heartbreak",
+      "reignited passion",
+      "forbidden love"
+    ],
+    "themes": [
+      {
+        "theme": "Resentment vs. Forgiveness",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Reunion and Rekindled Romance",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty and Professional Life",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dramatic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "A crucial emotional reckoning forces Nick and Noah to directly confront the core grievances of their past heartbreak and decide if resentment will permanently sever their bond.",
+      "conflict": "Undying romantic chemistry collides with deep-seated resentment, as Nick's refusal to forgive Noah creates a seemingly insurmountable emotional barrier between them.",
+      "resolution": "The fallout from their reckoning brings a decisive turning point, defining the final trajectory of their relationship and setting a clear path forward for both of their futures.",
+      "introduction": "Noah and Nick are reunited at Jenna and Lion's wedding after a painful breakup, each navigating major life transitions as Nick prepares to inherit his grandfather's business empire while Noah launches her professional career.",
+      "risingAction": "Forced into each other's orbits once more, Noah and Nick face escalating emotional tension, unresolved jealousy, and personal pressures while struggling to resist their persistent connection."
+    },
+    "characters": [
+      {
+        "name": "Noah",
+        "role": "Hero",
+        "description": "Starting her professional life while confronting lingering feelings and resentment during a tense reunion with her ex."
+      },
+      {
+        "name": "Nick",
+        "role": "Anti Hero",
+        "description": "The wealthy heir struggling with deep resentment and an inability to forgive Noah, despite the enduring spark between them."
+      },
+      {
+        "name": "Jenna",
+        "role": "Supporting Character",
+        "description": "Noah's close friend whose upcoming wedding to Lion serves as the catalyst for Noah and Nick's reunion."
+      },
+      {
+        "name": "Lion",
+        "role": "Supporting Character",
+        "description": "Jenna's partner whose wedding brings the main group of characters and former lovers back together."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Noah",
+        "target": "Nick",
+        "description": "Ex-lovers dealing with lingering attraction and resentment"
+      },
+      {
+        "source": "Jenna",
+        "target": "Lion",
+        "description": "Engaged couple / Bride and Groom"
+      },
+      {
+        "source": "Noah",
+        "target": "Jenna",
+        "description": "Friends"
+      },
+      {
+        "source": "Nick",
+        "target": "Jenna",
+        "description": "Friends"
+      },
+      {
+        "source": "Nick",
+        "target": "Lion",
+        "description": "Friends"
+      },
+      {
+        "source": "Noah",
+        "target": "Lion",
+        "description": "Friends"
+      }
+    ],
+    "seo": {
+      "slug": "our-fault",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/our-fault](https://movnix.com/movie/our-fault)",
+        "name": "Our Fault",
+        "@type": "Movie",
+        "genre": [
+          "Romance",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+        "alternateName": "Culpa Nuestra"
+      },
+      "keywords": [
+        "Our Fault movie",
+        "Our Fault overview",
+        "Culpa Nuestra",
+        "Noah and Nick",
+        "Our Fault plot",
+        "romance movie"
+      ],
+      "canonical": "[https://movnix.com/movie/our-fault](https://movnix.com/movie/our-fault)",
+      "metaTitle": "Our Fault (2024) Movie - Can Love Overcome Resentment? | Movnix",
+      "openGraph": {
+        "og:title": "Our Fault - Will Love Be Stronger Than Resentment?",
+        "og:description": "Noah and Nick cross paths again at a wedding after their painful breakup. Discover if their love can overcome deep-seated resentment in Our Fault."
+      },
+      "twitterCard": {
+        "twitter:title": "Our Fault Movie - Noah and Nick's Reunion",
+        "twitter:description": "Will love triumph over resentment when Noah and Nick reunite? Read the full story and movie overview on Movnix."
+      },
+      "metaDescription": "Noah and Nick reunite at Jenna and Lion's wedding. Can love conquer Nick's inability to forgive? Read full overview, cast details, and news on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Noah and Nick as they reunite at Jenna and Lion's wedding after their painful breakup. While Nick struggles with resentment and Noah begins her professional career, both attempt to resist the persistent flame of their lingering love.",
+        "question": "What is Our Fault about?"
+      },
+      {
+        "answer": "Yes, it is part of the 'Culpables' (Culpa) film series, which is based on the popular book trilogy by Mercedes Ron. It serves as the third installment following 'My Fault' (Culpa mía) and 'Your Fault' (Culpa tuya).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of the movie is romantic drama.",
+        "question": "What is the dominant genre of Our Fault?"
+      },
+      {
+        "answer": "The main characters are Noah and Nick, along with Jenna and Lion, whose wedding serves as the catalyst for the main couple's reunion.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "No, there is typically no post-credits scene in this drama, though fans are encouraged to watch through the mid-credits for any extra character moments or montage sequences.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main conflict centers on Nick's deep-seated inability to forgive Noah after their breakup, compounded by their differing life paths as Nick steps into his role as heir to his grandfather's business and Noah starts her professional career.",
+        "question": "What main conflict do Nick and Noah face in this installment?"
+      },
+      {
+        "answer": "Yes, it is directly based on 'Culpa nuestra', the third and final novel in the Wattpad-adapted 'Culpables' trilogy written by Spanish author Mercedes Ron.",
+        "question": "Is Our Fault based on a book?"
+      },
+      {
+        "answer": "Like the previous installments in the 'Culpables' series, the film is distributed globally as an Amazon Prime Video original.",
+        "question": "Where can I watch Our Fault?"
+      },
+      {
+        "answer": "The film carries a mature/16+ rating due to strong romantic themes, sensual content, emotional drama, and occasional mild violence or foul language.",
+        "question": "What age rating does the movie have?"
+      },
+      {
+        "answer": "While their path is filled with intense resentment and emotional hurdles, the core journey of the story tests whether their enduring love is ultimate stronger than the pain of their past.",
+        "question": "Do Nick and Noah end up together at the end?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and profanity during heated arguments."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild physical altercations and conflict typical of romantic dramas."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Frequent alcohol consumption and scenes taking place in party environments."
+      },
+      "sexualContent": {
+        "score": 7,
+        "description": "Explicit intimate scenes, passionate romantic encounters, and sexual themes."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving past trauma, heartbreak, betrayal, and intense relationship drama."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 10,
+      "science": 0,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-07-29 22:03:55.631146",
+    "updated_at": "2026-07-29 22:03:55.631146"
+  }
 }
