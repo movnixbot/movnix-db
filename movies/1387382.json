@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 14.5904,
-    "voteAverage": 7.401,
-    "voteCount": 388,
+    "popularity": 17.9486,
+    "voteAverage": 7.425,
+    "voteCount": 411,
     "homepage": "https://mock-movie-website.com/movies/1387382",
     "posterPath": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
     "backdropPath": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
@@ -495,8 +495,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.401,
-      "votesCount": 388
+      "ratingValue": 7.425,
+      "votesCount": 411
     },
     {
       "source": "imdb",
@@ -828,5 +828,229 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1387382/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1387382,
+    "hash": "2c9ad5dabc0e5a66c301df3d5317f8b99b1707c265d2e6f2599075ab83d1bf4d",
+    "summary_one_sentence": "A reclusive survivalist and his daughter rescue a wounded woman from a river, thrusting them into a violent struggle for survival against a ruthless criminal seeking revenge.",
+    "summary_short": "A reclusive survivalist living off the grid with his daughter pulls a wounded, mysterious woman from a river. Their act of mercy quickly entangles them in a deadly web of violence and vengeance. Tracked by a ruthless criminal with an unrelenting grudge, the father and daughter must rely on their wilderness survival skills to protect their home and survive a high-stakes confrontation.",
+    "summary_long": "Deep in the wilderness, a reclusive survivalist and his daughter live a quiet, isolated life away from modern society. Their peaceful existence is shattered when they discover a mysterious, badly injured woman washed up on a riverbank. After bringing her inside to tend to her wounds, they realize she is actively being hunted by a brutal criminal seeking revenge. Soon enough, armed pursuers surround their remote property to eliminate the woman and anyone assisting her. Forced into a lethal game of cat and mouse, the survivalist uses every trap and strategic advantage his environment offers to defend his home. As the assault escalates, his daughter must also step up to fight alongside him in order to survive. The cabin becomes a desperate battleground where survival depends on resourcefulness and sheer will. Ultimately, the father and daughter must face the relentless criminal head-on to break the cycle of violence and secure their freedom.",
+    "synopsis": "Hunting Season is an action-thriller drama that explores the dangerous consequences of an unexpected act of mercy. When a hardened, off-grid survivalist and his daughter save a mysterious, injured woman from a river, their sanctuary becomes the target of a brutal criminal seeking vengeance. Blending suspenseful action with familial drama, the story follows the father and daughter as they draw upon their deep wilderness resourcefulness to outsmart a relentless enemy in a high-stakes fight for survival.",
+    "keywords": [
+      "survivalist",
+      "reclusive protagonist",
+      "father-daughter bond",
+      "wounded stranger",
+      "river rescue",
+      "revenge plot",
+      "remote wilderness",
+      "deadly hunt",
+      "fight for survival",
+      "criminal syndicate",
+      "isolation",
+      "cat and mouse",
+      "home defense",
+      "brutal confrontation",
+      "cycle of violence"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family & Protection",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      }
+    ],
+    "story_structure": {
+      "climax": "The conflict reaches its peak in a high-stakes, violent confrontation where the survivalist and his daughter directly face off against the dangerous lead adversary to secure their survival.",
+      "conflict": "By choosing to rescue and care for the woman, the family unknowingly draws the attention of a brutal criminal syndicate pursuing her, plunging their quiet haven into immediate danger.",
+      "resolution": "With the immediate threat neutralized, the survivors deal with the aftermath of the ordeal, facing an uncertain future as they attempt to reclaim their peace.",
+      "introduction": "A reclusive survivalist and his daughter live isolated in the wilderness, maintaining a quiet existence until they discover a mysterious, badly injured woman washed up on the banks of a nearby river.",
+      "risingAction": "As deadly forces close in on their location, tension escalates into a series of tense encounters; the survivalist must utilize his outdoor skills and tactical knowledge to defend his family against relentless, violent adversaries."
+    },
+    "characters": [
+      {
+        "name": "Reclusive Survivalist (Mel Gibson)",
+        "role": "Hero",
+        "description": "A rugged survivalist who rescues a stranger and uses his skills to protect his daughter and defend their home from violent attackers."
+      },
+      {
+        "name": "Mysterious Wounded Woman (Shelley Hennig)",
+        "role": "Supporting Character",
+        "description": "A injured woman pulled from the river whose hidden past brings a deadly criminal network down on her saviors."
+      },
+      {
+        "name": "Survivalist's Daughter (Sofia Hublitz)",
+        "role": "Supporting Character",
+        "description": "The survivalist's young daughter who helps care for the rescued stranger and is thrust into a fight for survival."
+      },
+      {
+        "name": "Criminal Leader (Jordi Mollà)",
+        "role": "Villain",
+        "description": "A ruthless and brutal antagonist who relentlessly tracks the mysterious woman to exact revenge and eliminate witnesses."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Reclusive Survivalist",
+        "target": "Survivalist's Daughter",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Reclusive Survivalist",
+        "target": "Wounded Woman",
+        "description": "Rescuer & Protector"
+      },
+      {
+        "source": "Survivalist's Daughter",
+        "target": "Wounded Woman",
+        "description": "Rescuer & Ally"
+      },
+      {
+        "source": "Wounded Woman",
+        "target": "Brutal Criminal",
+        "description": "Target & Pursued / Enemies"
+      },
+      {
+        "source": "Reclusive Survivalist",
+        "target": "Brutal Criminal",
+        "description": "Adversaries"
+      },
+      {
+        "source": "Survivalist's Daughter",
+        "target": "Brutal Criminal",
+        "description": "Target & Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "hunting-season",
+      "jsonLd": {
+        "name": "Hunting Season",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive."
+      },
+      "keywords": [
+        "Hunting Season movie",
+        "survival thriller",
+        "action thriller",
+        "reclusive survivalist movie",
+        "revenge thriller",
+        "Hunting Season plot"
+      ],
+      "canonical": "[https://movnix.com/movie/hunting-season](https://movnix.com/movie/hunting-season)",
+      "metaTitle": "Hunting Season - Survival Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Hunting Season - Official Movie Details & Synopsis",
+        "og:description": "When a reclusive survivalist rescues a mysterious woman, a deadly web of violence and revenge forces his family into a brutal fight for survival."
+      },
+      "twitterCard": {
+        "twitter:title": "Hunting Season - Official Movie Details & Synopsis",
+        "twitter:description": "When a reclusive survivalist rescues a mysterious woman, a deadly web of violence and revenge forces his family into a brutal fight for survival."
+      },
+      "metaDescription": "A reclusive survivalist and his daughter rescue a mysterious woman, thrusting them into a deadly fight for survival against a brutal criminal."
+    },
+    "faq": [
+      {
+        "answer": "Hunting Season is primarily an action thriller with strong survival and suspense drama elements.",
+        "question": "What is the dominant genre of Hunting Season?"
+      },
+      {
+        "answer": "No, Hunting Season is a standalone original action thriller film and not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the film concludes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film stars Mel Gibson as the reclusive survivalist, Sofia Hublitz as his daughter, Shelley Hennig as the rescued woman, and Jordi Mollà.",
+        "question": "Who stars in Hunting Season?"
+      },
+      {
+        "answer": "Hunting Season was directed by RJ Collins, working from a screenplay written by Adam Hampton.",
+        "question": "Who directed Hunting Season?"
+      },
+      {
+        "answer": "The story follows a reclusive survivalist and his daughter living off-grid who rescue a severely injured woman from a river, accidentally drawing the fury of dangerous criminals pursuing her.",
+        "question": "What is the premise of Hunting Season?"
+      },
+      {
+        "answer": "The film is set primarily in a remote, off-the-grid wilderness region.",
+        "question": "Where does the setting of Hunting Season take place?"
+      },
+      {
+        "answer": "No, Hunting Season is a fictional work based on an original screenplay by Adam Hampton.",
+        "question": "Is Hunting Season based on a true story or a book?"
+      },
+      {
+        "answer": "The movie carries an R / 18+ style rating due to intense sequences of strong violence, language, and adult themes.",
+        "question": "What is the age rating for Hunting Season?"
+      },
+      {
+        "answer": "The conflict is triggered when the survivalist family offers refuge to the wounded stranger, making them targets of a brutal criminal group determined to silence her.",
+        "question": "What drives the main conflict in the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate tension and suspense driven by survival threats and intense, life-or-death pursuit rather than supernatural elements."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely includes strong language used during high-stress confrontation and action scenarios."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depicts intense physical conflict, deadly threats, and lethal violence as the characters face off against a brutal criminal."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal potential presence of alcohol or medical pain management relevant to treating injury."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the core premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress, ongoing peril involving a parent and child, and intense themes of revenge and survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-01 23:14:32.986297",
+    "updated_at": "2026-08-01 23:14:32.986297"
+  }
 }
