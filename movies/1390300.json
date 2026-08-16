@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "2055131",
     "status": "Released",
-    "popularity": 19.3536,
-    "voteAverage": 6.5,
-    "voteCount": 482,
+    "popularity": 21.5962,
+    "voteAverage": 6.446,
+    "voteCount": 526,
     "homepage": "https://mock-movie-website.com/movies/1390300",
     "posterPath": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
     "backdropPath": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
@@ -572,13 +572,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-      "width": 1920,
-      "height": 1080,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/55kQ0H6keQ27P07KyPk1UpQ7Rmf.jpg",
       "width": 3840,
       "height": 2160,
@@ -586,7 +579,7 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/eTFDRFW1ie5DnvyRyexETHGQxMi.jpg",
+      "filePath": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
@@ -607,6 +600,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/lwPIk4YgP36Ew1G7z3jPktjP3sp.jpg",
+      "width": 1672,
+      "height": 941,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/5dWpm7BiSH2jz9AzJFb0V6AKj8L.jpg",
       "width": 3840,
       "height": 2160,
@@ -622,13 +622,6 @@
     },
     {
       "filePath": "/rZt9AFQEBc08iMDAeYucqUEBDI8.jpg",
-      "width": 1672,
-      "height": 941,
-      "aspectRatio": 1.777,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/lwPIk4YgP36Ew1G7z3jPktjP3sp.jpg",
       "width": 1672,
       "height": 941,
       "aspectRatio": 1.777,
@@ -785,8 +778,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 482
+      "ratingValue": 6.446,
+      "votesCount": 526
     },
     {
       "source": "imdb",
@@ -801,19 +794,19 @@
   ],
   "credits": [
     {
-      "tmdbPersonId": 1372369,
-      "name": "Samara Weaving",
-      "profilePath": "/8MhxXhO4Y3uq1giZMiI0u1tpnLz.jpg",
-      "character": "Lisa",
+      "tmdbPersonId": 41088,
+      "name": "Jason Segel",
+      "profilePath": "/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg",
+      "character": "Dan",
       "job": "Actor",
       "department": "Acting",
       "order": 0
     },
     {
-      "tmdbPersonId": 41088,
-      "name": "Jason Segel",
-      "profilePath": "/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg",
-      "character": "Dan",
+      "tmdbPersonId": 1372369,
+      "name": "Samara Weaving",
+      "profilePath": "/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg",
+      "character": "Lisa",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -1026,7 +1019,7 @@
     {
       "iso_3166_1": "CN",
       "title": "致命之旅",
-      "type": "动作、喜剧、惊悚"
+      "type": ""
     },
     {
       "iso_3166_1": "RU",
@@ -1086,8 +1079,16 @@
           "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
         },
         {
+          "name": "AMC+ Roku Premium Channel",
+          "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+        },
+        {
           "name": "AMC+",
           "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+        },
+        {
+          "name": "Sundance Now",
+          "logo": "/1Edma9SrJnqkQW3BqFd2rJNHZvX.jpg"
         }
       ],
       "buy": [
