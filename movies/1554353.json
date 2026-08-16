@@ -347,5 +347,258 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1554353/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1554353,
+    "hash": "261a460187256f2c1bee261a3cc493f9570b78fb8c90458d5bff1f9c4ae7ab05",
+    "summary_one_sentence": "Homer and the Simpson family return to the big screen for an all-new feature-length animated adventure in Springfield.",
+    "summary_short": "Following up on their iconic 2007 cinematic debut, the Simpson family embarks on another chaotic, feature-length journey. While specific plot details remain under wraps, the film promises to deliver the series' trademark blend of satirical humor, heartfelt family dynamics, and classic Springfield antics. Expect familiar town residents, high-stakes misadventures, and big-screen comedy.",
+    "summary_long": "The long-awaited sequel to the 2007 cinematic blockbuster brings Springfield's most famous family back to theaters. As new, undisclosed threats and absurd complications arise in their home town, Homer, Marge, Bart, Lisa, and Maggie must navigate fresh personal dilemmas and large-scale chaos. The narrative expands upon the emotional core of the family while poking fun at contemporary culture, media, and societal tropes. Along the way, iconic local characters step up to assist—or accidentally exacerbate—the unfolding crisis. As tensions peak, the family is forced to pull together in their signature chaotic fashion to save the day and restore order to Springfield. Rich with visual gags, character-driven storytelling, and poignant moments, the film offers a cinematic celebration of the long-running series' legacy. Ultimately, it reaffirms that no matter how dynamic the disaster, the Simpsons can overcome anything as long as they stay united.",
+    "synopsis": "The iconic animated family returns to movie theaters in a feature-length sequel to the 2007 hit film. Packed with classic Springfield humor, satirical commentary, and emotional family moments, this cinematic adventure brings Homer, Marge, Bart, Lisa, and Maggie into a brand-new, high-stakes comedy-drama designed for both lifelong fans and new audiences alike.",
+    "keywords": [
+      "animated comedy",
+      "family sitcom",
+      "satire",
+      "pop culture parody",
+      "small town shenanigans",
+      "dysfunctional family",
+      "slapstick comedy",
+      "franchise revival",
+      "social satire",
+      "suburban life",
+      "sequel",
+      "absurdist humor",
+      "ensemble cast"
+    ],
+    "themes": [
+      {
+        "theme": "Family Dynamic",
+        "confidence": 0.3
+      },
+      {
+        "theme": "Community & Small-Town Life",
+        "confidence": 0.25
+      },
+      {
+        "theme": "Satire of American Culture",
+        "confidence": 0.25
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Humorous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A frantic, cinematic showdown ensues where the family must unite and execute a daring, highly improbable plan to thwart the threat and save Springfield from total destruction.",
+      "conflict": "An unexpected, large-scale crisis triggered by a family member's trademark blunder or a new external threat puts all of Springfield and the Simpson family's home life in jeopardy.",
+      "resolution": "Springfield is restored to its status quo, the family reconciles, and the status of the town is once again comfortably re-established with a classic comedic reset.",
+      "introduction": "Life in Springfield resumes its everyday, chaotic normal state, re-establishing the dynamic of the Simpson family and the quirky, familiar town ecosystem.",
+      "risingAction": "As tensions mount, the Simpsons are forced to venture outside their comfort zone, fleeing town or embarking on a high-stakes journey while attempting to repair damaged family bonds."
+    },
+    "characters": [
+      {
+        "name": "Homer Simpson",
+        "role": "Hero",
+        "description": "The central protagonist who frequently gets into trouble but ultimately tries to save his family and town."
+      },
+      {
+        "name": "Bart Simpson",
+        "role": "Comic Relief",
+        "description": "A mischievous prankster and central family member who provides humor and instigates subplots."
+      },
+      {
+        "name": "Marge Simpson",
+        "role": "Supporting Character",
+        "description": "The moral anchor and voice of reason in the Simpson household, supporting her family through crises."
+      },
+      {
+        "name": "Lisa Simpson",
+        "role": "Mentor",
+        "description": "The intellectual and empathetic conscience of the family who often guides others toward the right path."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Homer Simpson",
+        "target": "Marge Simpson",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Homer Simpson",
+        "target": "Bart Simpson",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Homer Simpson",
+        "target": "Lisa Simpson",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Homer Simpson",
+        "target": "Maggie Simpson",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Marge Simpson",
+        "target": "Bart Simpson",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Marge Simpson",
+        "target": "Lisa Simpson",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Marge Simpson",
+        "target": "Maggie Simpson",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Bart Simpson",
+        "target": "Lisa Simpson",
+        "description": "Siblings/Rivals"
+      },
+      {
+        "source": "Bart Simpson",
+        "target": "Milhouse Van Houten",
+        "description": "Best Friends"
+      },
+      {
+        "source": "Homer Simpson",
+        "target": "Ned Flanders",
+        "description": "Neighbors/Frenemies"
+      },
+      {
+        "source": "Homer Simpson",
+        "target": "Mr. Burns",
+        "description": "Employee/Boss"
+      },
+      {
+        "source": "Mr. Burns",
+        "target": "Waylon Smithers",
+        "description": "Boss/Assistant"
+      }
+    ],
+    "seo": {
+      "slug": "the-new-simpsons-movie",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-new-simpsons-movie](https://movnix.com/movie/the-new-simpsons-movie)",
+        "name": "The New Simpsons Movie",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The sequel to the 2007 film. Plot TBA."
+      },
+      "keywords": [
+        "The New Simpsons Movie",
+        "Simpsons Movie 2",
+        "Simpsons Movie Sequel",
+        "The Simpsons Movie 2007 sequel",
+        "Animated movie news",
+        "Homer Simpson movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-new-simpsons-movie](https://movnix.com/movie/the-new-simpsons-movie)",
+      "metaTitle": "The New Simpsons Movie (Sequel) - Release Date, Plot & News",
+      "openGraph": {
+        "og:title": "The New Simpsons Movie - The Animated Sequel Is Coming",
+        "og:description": "Everything we know about the sequel to the 2007 Simpsons Movie. Stay tuned for plot details, trailers, and release news."
+      },
+      "twitterCard": {
+        "twitter:title": "The New Simpsons Movie - Sequel News & Details",
+        "twitter:description": "The sequel to the 2007 Simpsons Movie is on the way. Check out the latest updates and rumors."
+      },
+      "metaDescription": "Get the latest updates on The New Simpsons Movie, the highly anticipated sequel to the 2007 blockbuster. News, plot details, and announcements."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of The Simpsons franchise and serves as a sequel to the 2007 feature film, The Simpsons Movie, as well as a continuation of the long-running animated television series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "An official release date has not been announced yet. Stay tuned for updates from the production studio.",
+        "question": "What is the release date for The New Simpsons Movie?"
+      },
+      {
+        "answer": "The dominant genre is animated comedy, combining satirical humor, family comedy, and slapstick elements.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "The specific plot details are currently to be announced (TBA), though it is expected to follow the dynamic adventures and misadventures of the Simpson family in Springfield.",
+        "question": "What is the plot of The New Simpsons Movie?"
+      },
+      {
+        "answer": "While official casting announcements are pending, the main voice cast behind Homer, Marge, Bart, Lisa, Maggie, and the iconic citizens of Springfield is expected to reprise their roles.",
+        "question": "Will the original voice cast return for the sequel?"
+      },
+      {
+        "answer": "No prior viewing is strictly necessary, as the movie is designed to be accessible to general audiences, though long-time fans will enjoy extra easter eggs and character references.",
+        "question": "Do I need to watch the 2007 film or the TV show to understand this movie?"
+      },
+      {
+        "answer": "Post-credit details will be confirmed upon the film's official release, though animated comedies frequently include mid- or post-credit gags.",
+        "question": "Is there a post-credit scene in The New Simpsons Movie?"
+      },
+      {
+        "answer": "Like the main television series and the original 2007 film, it is expected to carry a PG or PG-13 rating for cartoon violence, suggestive humor, and language.",
+        "question": "Is this movie suitable for children?"
+      },
+      {
+        "answer": "The film is anticipated to feature the signature 2D traditional animation style that the franchise is famous for, enhanced with modern cinematic production techniques.",
+        "question": "Is the movie animated in 2D or 3D?"
+      },
+      {
+        "answer": "The movie is expected to receive a theatrical release before becoming available for streaming on digital platforms like Disney+.",
+        "question": "Where will The New Simpsons Movie be available to watch?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, limited to mild comedic spooky themes or cartoonish jump scares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild animated TV-14 language, including occasional mild profanity and mild crude humor."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild cartoon violence and slapstick comedy typical of The Simpsons series, with no explicit gore or realistic harm."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Frequent comedic depictions of alcohol consumption (e.g., Moe's Tavern) and occasional tobacco/drug references."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild crude or suggestive humor and comedic double entendres with no explicit nudity or sexual activity."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Low emotional intensity focused primarily on lighthearted family dynamic conflicts and situational comedy."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 4,
+      "comedy": 9,
+      "emotion": 5,
+      "fantasy": 3,
+      "mystery": 2,
+      "romance": 2,
+      "science": 3,
+      "suspense": 2,
+      "violence": 3
+    },
+    "created_at": "2026-08-17 00:05:57.866649",
+    "updated_at": "2026-08-17 00:05:57.866649"
+  }
 }
