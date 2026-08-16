@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.8983,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 8.5985,
+    "voteAverage": 6.2,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1361969",
-    "posterPath": "/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+    "posterPath": "/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
     "backdropPath": "/mimPRWki5EOJDRw7ZH24fYnHwaX.jpg",
     "collectionId": null
   },
@@ -73,6 +73,24 @@
       "name": "Koala FX",
       "logoPath": null,
       "originCountry": null
+    },
+    {
+      "tmdbId": 806,
+      "name": "Téléfilm Canada",
+      "logoPath": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+      "originCountry": "CA"
+    },
+    {
+      "tmdbId": 64740,
+      "name": "Mongrel Media",
+      "logoPath": "/N9CoGbHpYbA93wogwbKGN3MhDh.png",
+      "originCountry": "CA"
+    },
+    {
+      "tmdbId": 7355,
+      "name": "Creativity Media",
+      "logoPath": "/pDZk88zHVAHfYKJm7hmm8LZMIJz.png",
+      "originCountry": "GB"
     }
   ],
   "keywords": [],
@@ -87,7 +105,7 @@
   ],
   "images": [
     {
-      "filePath": "/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+      "filePath": "/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -101,7 +119,7 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+      "filePath": "/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
       "width": 1920,
       "height": 2880,
       "aspectRatio": 0.667,
@@ -111,6 +129,13 @@
       "filePath": "/lSXRvFnzJb5akrwS8Tuxu4zF8od.jpg",
       "width": 800,
       "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+      "width": 1920,
+      "height": 2880,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -130,6 +155,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6.2,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -159,7 +189,7 @@
       "tmdbPersonId": 51383,
       "name": "Tyler Labine",
       "profilePath": "/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg",
-      "character": null,
+      "character": "Burke",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -243,7 +273,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
