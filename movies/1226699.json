@@ -9,10 +9,10 @@
     "runtime": 99,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 3.1497,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 5.8909,
+    "voteAverage": 1.5,
+    "voteCount": 2,
     "homepage": "https://www.neonrated.com/film/the-wrong-girls",
     "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
     "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
@@ -24,6 +24,14 @@
     {
       "tmdbId": 35,
       "name": "Comedy"
+    },
+    {
+      "tmdbId": 80,
+      "name": "Crime"
+    },
+    {
+      "tmdbId": 878,
+      "name": "Science Fiction"
     },
     {
       "tmdbId": 1,
@@ -56,9 +64,9 @@
       "originCountry": "US"
     },
     {
-      "tmdbId": 218254,
-      "name": "Curious Gremlin",
-      "logoPath": "/s9paSAXtLX85OuAi1SjwM9MGxFW.png",
+      "tmdbId": 234649,
+      "name": "100 Zeros",
+      "logoPath": null,
       "originCountry": "US"
     }
   ],
@@ -116,6 +124,34 @@
       "type": "poster"
     },
     {
+      "filePath": "/ywgldkTxeuMmHtUQz1wGEKrTsZg.jpg",
+      "width": 1080,
+      "height": 1600,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nWUJ6pWNqSxarco8rkHQ8ACBZjn.jpg",
+      "width": 1206,
+      "height": 1809,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hmxcBU7fi5XfhYGMvhNksHakOdQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wHq7BtjmVhdrMaiG3LABFZZiVip.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
       "width": 3840,
       "height": 2160,
@@ -137,28 +173,61 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/yeGU5rVJ04Cl66Fg8ombchPFNu8.jpg",
-      "width": 2048,
-      "height": 1152,
+      "filePath": "/1jrG9IDfNXiK8QZ219w5mdA941T.jpg",
+      "width": 2421,
+      "height": 1362,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
-      "filePath": "/vmxk5oZuRCQ8xbnxygEfmq60aD1.jpg",
-      "width": 1961,
-      "height": 1103,
+      "filePath": "/7Z6uYJ5wGDVzIMHryeU0TfUYOqc.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
-      "filePath": "/599NLjZC6tJimDmNpGwJdY5xoL8.jpg",
-      "width": 1963,
-      "height": 1104,
+      "filePath": "/7rO9kjZiZRgfflT8caIMskzIUEA.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/xmCm8cDAIRHyHXZTjfM3UDzEwaP.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wodpwSTAahwqO6U0B9VXNpnr6ag.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lH4dVGIEJ6kmeQKxvfsYV8PTO04.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uQX0yo76Ll4GaJo3ksA5Kxok5JG.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 1.5,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -169,7 +238,7 @@
     {
       "tmdbPersonId": 37917,
       "name": "Kristen Stewart",
-      "profilePath": "/nThfzR0nBamTyv2OIMz9udSXXB2.jpg",
+      "profilePath": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
       "character": "Frankie / Frances",
       "job": "Actor",
       "department": "Acting",
@@ -287,7 +356,7 @@
       "tmdbPersonId": 112,
       "name": "Cate Blanchett",
       "profilePath": "/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg",
-      "character": "Deep Sea Expert",
+      "character": "Deep Sea Expert (voice)",
       "job": "Actor",
       "department": "Acting",
       "order": 13
@@ -340,7 +409,7 @@
     {
       "tmdbPersonId": 37917,
       "name": "Kristen Stewart",
-      "profilePath": "/nThfzR0nBamTyv2OIMz9udSXXB2.jpg",
+      "profilePath": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -416,7 +485,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
