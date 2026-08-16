@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6363,
-    "voteAverage": 5,
-    "voteCount": 2,
+    "popularity": 4.4951,
+    "voteAverage": 5.625,
+    "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1475803",
     "posterPath": "/Anukm4NH6MM025vUQ9ykpWQXnFn.jpg",
     "backdropPath": "/lvqxVKCUbhH83skNczVK9xWb5t4.jpg",
@@ -45,10 +45,10 @@
   "keywords": [],
   "videos": [
     {
-      "name": "GOVERNOR | Official Trailer | Manoj Bajpayee | Vipul Amrutlal Shah |Chinmay Mandlekar |Aashin A Shah",
+      "name": "Official Trailer",
       "key": "Mvm0bRY0Qyg",
       "site": "YouTube",
-      "size": 1080,
+      "size": 2160,
       "type": "Trailer"
     }
   ],
@@ -176,8 +176,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5,
-      "votesCount": 2
+      "ratingValue": 5.625,
+      "votesCount": 4
     },
     {
       "source": "crawled",
@@ -379,11 +379,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": []
     }
   },
