@@ -10,7 +10,7 @@
     "budget": "150000000",
     "revenue": null,
     "status": "Post Production",
-    "popularity": 8.5902,
+    "popularity": 9.4755,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://hungergames.movie",
@@ -61,6 +61,12 @@
       "name": "about:blank",
       "logoPath": "/kQlxsHQKQsDOXmKPZVqEyL827NJ.png",
       "originCountry": "US"
+    },
+    {
+      "tmdbId": 264,
+      "name": "Studio Babelsberg",
+      "logoPath": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+      "originCountry": "DE"
     }
   ],
   "keywords": [],
@@ -1277,6 +1283,13 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/l1QkmF1vuYk65Y3pCNe8K5gJ0Wk.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -1297,10 +1310,10 @@
       "order": 0
     },
     {
-      "tmdbPersonId": 1172108,
-      "name": "Mckenna Grace",
-      "profilePath": "/liUIubLxm7uaClq1ASwDOx0mwnq.jpg",
-      "character": "Maysilee Donner / Merrilee Donner",
+      "tmdbPersonId": 5469,
+      "name": "Ralph Fiennes",
+      "profilePath": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
+      "character": "President Coriolanus Snow",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -1315,22 +1328,31 @@
       "order": 2
     },
     {
+      "tmdbPersonId": 1172108,
+      "name": "Mckenna Grace",
+      "profilePath": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+      "character": "Maysilee Donner / Merrilee Donner",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1842860,
+      "name": "Whitney Peak",
+      "profilePath": "/4m7VqGrpiMk4w5KN2I7OVbT7ppn.jpg",
+      "character": "Lenore Dove Baird",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
       "tmdbPersonId": 18050,
       "name": "Elle Fanning",
       "profilePath": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg",
       "character": "Effie Trinket",
       "job": "Actor",
       "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 5469,
-      "name": "Ralph Fiennes",
-      "profilePath": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
-      "character": "President Coriolanus Snow",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
+      "order": 5
     },
     {
       "tmdbPersonId": 1903874,
@@ -1339,7 +1361,7 @@
       "character": "Wiress",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 6
     },
     {
       "tmdbPersonId": 3127,
@@ -1348,7 +1370,7 @@
       "character": "Mags Flanagan",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 7
     },
     {
       "tmdbPersonId": 515,
@@ -1357,7 +1379,7 @@
       "character": "Drusilla Sickle",
       "job": "Actor",
       "department": "Acting",
-      "order": 7
+      "order": 8
     },
     {
       "tmdbPersonId": 18793,
@@ -1366,7 +1388,7 @@
       "character": "Caesar Flickerman",
       "job": "Actor",
       "department": "Acting",
-      "order": 8
+      "order": 9
     },
     {
       "tmdbPersonId": 1344361,
@@ -1375,22 +1397,13 @@
       "character": "Beetee Latier",
       "job": "Actor",
       "department": "Acting",
-      "order": 9
+      "order": 10
     },
     {
       "tmdbPersonId": 3033265,
       "name": "Ben Wang",
       "profilePath": "/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg",
       "character": "Wyatt Callow",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 1842860,
-      "name": "Whitney Peak",
-      "profilePath": "/4m7VqGrpiMk4w5KN2I7OVbT7ppn.jpg",
-      "character": "Lenore Dove Baird",
       "job": "Actor",
       "department": "Acting",
       "order": 11
@@ -1432,18 +1445,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 32608,
-      "name": "Brad Simpson",
-      "profilePath": "/bk5NzfcqAKFRatLqBA9H57UPAlO.jpg",
+      "tmdbPersonId": 935634,
+      "name": "Nina Jacobson",
+      "profilePath": "/sfgag0cl150pHNjnqCUoq81NnRs.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 935634,
-      "name": "Nina Jacobson",
-      "profilePath": "/sfgag0cl150pHNjnqCUoq81NnRs.jpg",
+      "tmdbPersonId": 32608,
+      "name": "Brad Simpson",
+      "profilePath": "/bk5NzfcqAKFRatLqBA9H57UPAlO.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1491,6 +1504,11 @@
     {
       "iso_3166_1": "PT",
       "title": "Os Jogos da Fome: Amanhecer na Ceifa",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "GE",
+      "title": "შიმშილის თამაშები: მზის ამოსვლა მკისას",
       "type": ""
     }
   ],
