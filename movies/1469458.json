@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9159,
-    "voteAverage": 6.917,
-    "voteCount": 12,
+    "popularity": 5.3781,
+    "voteAverage": 7.071,
+    "voteCount": 14,
     "homepage": "https://mock-movie-website.com/movies/1469458",
     "posterPath": "/4ASKGsPMbzChx0YX5Pqc9HFXQm3.jpg",
     "backdropPath": "/rfMWciUEZkqL9AiNcTedhtXQHr0.jpg",
@@ -148,13 +148,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/lLFyZ9o5QI9PORawi45Dn5tlaEe.jpg",
-      "width": 1030,
-      "height": 1545,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/mGLkUNhgw9gjnxWIurGLBd6tvWl.jpg",
       "width": 1030,
       "height": 1545,
@@ -193,8 +186,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.917,
-      "votesCount": 12
+      "ratingValue": 7.071,
+      "votesCount": 14
     },
     {
       "source": "crawled",
@@ -286,7 +279,7 @@
     },
     {
       "tmdbPersonId": 5551565,
-      "name": "Suparna",
+      "name": "Suparna Sajeesh",
       "profilePath": null,
       "character": "Anand's Daughter",
       "job": "Actor",
@@ -398,7 +391,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": []
     }
   },
