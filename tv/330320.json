@@ -1,29 +1,841 @@
 {
   "tvShow": {
     "tmdbId": 330320,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt43725623",
+    "name": "Conversations with a Killer: The Charles Manson Tapes",
+    "originalName": "Conversations with a Killer: The Charles Manson Tapes",
+    "overview": "Tracing Charles Manson's rise as a cult leader, the 1969 murders, and his trial, using unreleased prison recordings, interviews, and archival footage.",
+    "firstAirDate": "2026-08-12",
+    "lastAirDate": "2026-08-12",
+    "status": "Returning Series",
+    "popularity": 7.7885,
+    "voteAverage": 6,
+    "voteCount": 1,
+    "type": "Miniseries",
+    "posterPath": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
+    "backdropPath": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "6a6b73c2362b5109fa3efeee",
+      "air_date": "2026-08-12",
+      "episodes": [
+        {
+          "air_date": "2026-08-12",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 7614655,
+          "name": "The Family",
+          "overview": "At the height of the hippie movement, Charles Manson lures the young and disillusioned to follow him with promises of love, acceptance and no rules.",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 330320,
+          "still_path": "/7uZWxS82PkMwifYqVY5i6c85Ebl.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a6c9101614d1d2b4e6b4e4e",
+              "adult": false,
+              "gender": 2,
+              "id": 69237,
+              "known_for_department": "Directing",
+              "name": "Joe Berlinger",
+              "original_name": "Joe Berlinger",
+              "popularity": 1.153,
+              "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg"
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "Self - Los Angeles P.D. (Ret.)",
+              "credit_id": "6a7f579cb41c88a634b32d70",
+              "order": 500,
+              "adult": false,
+              "gender": 0,
+              "id": 6411878,
+              "known_for_department": "Acting",
+              "name": "Jerry De Rosa",
+              "original_name": "Jerry De Rosa",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Los Angeles P.D. (Ret.)",
+              "credit_id": "6a7f57c56035585ea751a1ad",
+              "order": 501,
+              "adult": false,
+              "gender": 0,
+              "id": 2389323,
+              "known_for_department": "Acting",
+              "name": "Robert Burbridge",
+              "original_name": "Robert Burbridge",
+              "popularity": 0.3405,
+              "profile_path": null
+            },
+            {
+              "character": "Self  - Victim (Archival Footage)",
+              "credit_id": "6a7f59e2fa0e1c226fc92ea2",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 29490,
+              "known_for_department": "Acting",
+              "name": "Sharon Tate",
+              "original_name": "Sharon Tate",
+              "popularity": 1.4881,
+              "profile_path": "/zzpEGs5xxJs5FuJrLB3AUPgKEtL.jpg"
+            },
+            {
+              "character": "Self  - Victim (Archival Footage)",
+              "credit_id": "6a7f59fc243b82bb09792b79",
+              "order": 503,
+              "adult": false,
+              "gender": 2,
+              "id": 3556,
+              "known_for_department": "Directing",
+              "name": "Roman Polanski",
+              "original_name": "Roman Polanski",
+              "popularity": 2.6898,
+              "profile_path": "/60UYC6apdoC8VBh62WCkZ2LPGPk.jpg"
+            },
+            {
+              "character": "Self - Journalist",
+              "credit_id": "6a7f5a24b155cc82ffe81e90",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2751172,
+              "known_for_department": "Acting",
+              "name": "Linda Deutsch",
+              "original_name": "Linda Deutsch",
+              "popularity": 0.4044,
+              "profile_path": null
+            },
+            {
+              "character": "Self  - Victim (Archival Footage)",
+              "credit_id": "6a7f5a37653fb1cabe6c8557",
+              "order": 505,
+              "adult": false,
+              "gender": 2,
+              "id": 1662371,
+              "known_for_department": "Costume & Make-Up",
+              "name": "Jay Sebring",
+              "original_name": "Jay Sebring",
+              "popularity": 0.5214,
+              "profile_path": "/hLcf8BHypsuCRCIfe49xz8XSE7c.jpg"
+            },
+            {
+              "character": "Self  - Victim (Archival Footage)",
+              "credit_id": "6a7f5a46b3903021b1cc42e9",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 2576284,
+              "known_for_department": "Acting",
+              "name": "Abigail Folger",
+              "original_name": "Abigail Folger",
+              "popularity": 0.3302,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Journalist",
+              "credit_id": "6a7f5a5fdc06175a11b326db",
+              "order": 507,
+              "adult": false,
+              "gender": 2,
+              "id": 4491508,
+              "known_for_department": "Acting",
+              "name": "Ivor Davis",
+              "original_name": "Ivor Davis",
+              "popularity": 0.6716,
+              "profile_path": "/e3YOQVnMLQUHA4YiXqmqO3w5p2E.jpg"
+            },
+            {
+              "character": "Self - Television Reporter",
+              "credit_id": "6a7f5abd83ec8b8ad3b326ca",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 4491854,
+              "known_for_department": "Acting",
+              "name": "Al Wiman",
+              "original_name": "Al Wiman",
+              "popularity": 0.3588,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Victim (Archival Footage)",
+              "credit_id": "6a7f5ae1b715bf1133792b6b",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 4491867,
+              "known_for_department": "Acting",
+              "name": "Leno LaBianca",
+              "original_name": "Leno LaBianca",
+              "popularity": 0.4023,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Victim (Archival Footage)",
+              "credit_id": "6a7f5b001f9935912cb32e6f",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 5579619,
+              "known_for_department": "Acting",
+              "name": "Rosemary LaBianca",
+              "original_name": "Rosemary LaBianca",
+              "popularity": 0.2566,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Journalist",
+              "credit_id": "6a7f5bebb8283f7f6c93f0dd",
+              "order": 511,
+              "adult": false,
+              "gender": 1,
+              "id": 4491883,
+              "known_for_department": "Acting",
+              "name": "Sandi Gibbons",
+              "original_name": "Sandi Gibbons",
+              "popularity": 0.435,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Former Manson Family Member",
+              "credit_id": "6a7f5c2d8991a42e2ff7ee55",
+              "order": 512,
+              "adult": false,
+              "gender": 1,
+              "id": 2386503,
+              "known_for_department": "Acting",
+              "name": "Dianne Lake",
+              "original_name": "Dianne Lake",
+              "popularity": 0.4554,
+              "profile_path": "/cGk5FpsUoLbwpXp0rs9UsZnZJUT.jpg"
+            },
+            {
+              "character": "Self - Author 'Manson : The Life and Times Of Charles Manson'",
+              "credit_id": "6a7f5f297b602db00fb32dd0",
+              "order": 513,
+              "adult": false,
+              "gender": 0,
+              "id": 2165090,
+              "known_for_department": "Writing",
+              "name": "Jeff Guinn",
+              "original_name": "Jeff Guinn",
+              "popularity": 0.4767,
+              "profile_path": "/hFhkneYqpmhYHpN9xuOUoJsbWLq.jpg"
+            },
+            {
+              "character": "Self - Professor , University of California , Davis",
+              "credit_id": "6a7f5f7f8ce60a37e951a237",
+              "order": 514,
+              "adult": false,
+              "gender": 0,
+              "id": 6411928,
+              "known_for_department": "Acting",
+              "name": "Traci Parker",
+              "original_name": "Traci Parker",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Founder , Haight Ashburry Free Clinic",
+              "credit_id": "6a7f5fd527d6ef5e90cc4362",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 3824467,
+              "known_for_department": "Acting",
+              "name": "Dr. David Smith",
+              "original_name": "Dr. David Smith",
+              "popularity": 0.395,
+              "profile_path": "/fGQWmsCD2S9kfUTlHDFdfEiWQgp.jpg"
+            },
+            {
+              "character": "Self - Author 'Turn on , Tune In , Drop Out' (Archival Footage)",
+              "credit_id": "6a7f6064612a8ee91b3936b1",
+              "order": 516,
+              "adult": false,
+              "gender": 0,
+              "id": 6082235,
+              "known_for_department": "Acting",
+              "name": "Timothy Leary",
+              "original_name": "Timothy Leary",
+              "popularity": 0.3407,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Former Manson Family Member / Gypsy",
+              "credit_id": "6a7f60961f9935912cb32eb3",
+              "order": 517,
+              "adult": false,
+              "gender": 1,
+              "id": 1141094,
+              "known_for_department": "Acting",
+              "name": "Catherine Share",
+              "original_name": "Catherine Share",
+              "popularity": 0.6065,
+              "profile_path": "/xIdgJWjWeqh2JSMYivsYz9xvKcY.jpg"
+            },
+            {
+              "character": "Self - Former Manson Family Member / Mother Maria (Archival Footage)",
+              "credit_id": "6a7f6174f43ca2ea6c6c85c0",
+              "order": 518,
+              "adult": false,
+              "gender": 0,
+              "id": 6411945,
+              "known_for_department": "Acting",
+              "name": "Mary Brunner",
+              "original_name": "Mary Brunner",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Former Manson Family Member / Katie (Archival Footage)",
+              "credit_id": "6a7f617f8f29ca105bc92f08",
+              "order": 519,
+              "adult": false,
+              "gender": 1,
+              "id": 1521335,
+              "known_for_department": "Acting",
+              "name": "Patricia Krenwinkel",
+              "original_name": "Patricia Krenwinkel",
+              "popularity": 0.4981,
+              "profile_path": "/mRYVBT1mYihsOL5wQnNOiCEBmMC.jpg"
+            },
+            {
+              "character": "Self - Former Manson Family Member / Squeaky (Archival Footage)",
+              "credit_id": "6a7f618ab155cc82ffe81ebd",
+              "order": 520,
+              "adult": false,
+              "gender": 1,
+              "id": 1173715,
+              "known_for_department": "Acting",
+              "name": "Lynette Fromme",
+              "original_name": "Lynette Fromme",
+              "popularity": 0.6788,
+              "profile_path": "/4nlAjHApe4tuCCaL8roXCgdyqQj.jpg"
+            },
+            {
+              "character": "Self - Former Manson Family Member / Sexy Sadie (Archival Footage)",
+              "credit_id": "6a7f619bfdc188e069b32dd2",
+              "order": 521,
+              "adult": false,
+              "gender": 1,
+              "id": 1737195,
+              "known_for_department": "Acting",
+              "name": "Susan Atkins",
+              "original_name": "Susan Atkins",
+              "popularity": 0.8178,
+              "profile_path": "/ikK40rNk0f2VE53tIXC8iG7v3Ho.jpg"
+            },
+            {
+              "character": "Charles Manson - Reconstruction",
+              "credit_id": "6a7f61ed55652a96b6792c00",
+              "order": 522,
+              "adult": false,
+              "gender": 0,
+              "id": 6411947,
+              "known_for_department": "Acting",
+              "name": "Sebastian Albertyn",
+              "original_name": "Sebastian Albertyn",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Filmmaker and Author 'Hippie Cult Leader'",
+              "credit_id": "6a7f621cb155cc82ffe81ec8",
+              "order": 523,
+              "adult": false,
+              "gender": 2,
+              "id": 1960930,
+              "known_for_department": "Directing",
+              "name": "James Buddy Day",
+              "original_name": "James Buddy Day",
+              "popularity": 0.5392,
+              "profile_path": "/28hOCIiJatVdfNXMBdoyS9dV3GF.jpg"
+            },
+            {
+              "character": "Self - Former Manson Family Member",
+              "credit_id": "6a7f63f28ce60a37e951a282",
+              "order": 524,
+              "adult": false,
+              "gender": 1,
+              "id": 4491586,
+              "known_for_department": "Acting",
+              "name": "Stephanie Schram",
+              "original_name": "Stephanie Schram",
+              "popularity": 0.571,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Owner 'Spahn Ranch' (Archival Footage)",
+              "credit_id": "6a7f64b56dbb461570393786",
+              "order": 525,
+              "adult": false,
+              "gender": 0,
+              "id": 6411976,
+              "known_for_department": "Acting",
+              "name": "George Spahn",
+              "original_name": "George Spahn",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Manson's Mother (Archival Footage-",
+              "credit_id": "6a7f67f88f29ca105bc92f77",
+              "order": 526,
+              "adult": false,
+              "gender": 0,
+              "id": 6412004,
+              "known_for_department": "Acting",
+              "name": "Kathleen Maddox",
+              "original_name": "Kathleen Maddox",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Manson's Ex-Wife (Archival Footage)",
+              "credit_id": "6a7f68b00357ab565993f18d",
+              "order": 527,
+              "adult": false,
+              "gender": 0,
+              "id": 6412019,
+              "known_for_department": "Acting",
+              "name": "Rosalie Willis",
+              "original_name": "Rosalie Willis",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Author 'How to Win Friends and Influence People (Archival Footage)",
+              "credit_id": "6a7f69d07b602db00fb32ed9",
+              "order": 528,
+              "adult": false,
+              "gender": 0,
+              "id": 6412048,
+              "known_for_department": "Acting",
+              "name": "Dale Carnegie",
+              "original_name": "Dale Carnegie",
+              "popularity": 0.0071,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Television Host (Archival Footage)",
+              "credit_id": "6a7f69e51aaff2f367f7ef60",
+              "order": 529,
+              "adult": false,
+              "gender": 1,
+              "id": 89528,
+              "known_for_department": "Acting",
+              "name": "Faye Emerson",
+              "original_name": "Faye Emerson",
+              "popularity": 1.0973,
+              "profile_path": "/AkyZVIWCWOddczi8nGkMnVMIOtA.jpg"
+            },
+            {
+              "character": "Self - Former Inmate 'Terminal Island Prison'",
+              "credit_id": "6a7f6a93e0eba6d15393f1e7",
+              "order": 530,
+              "adult": false,
+              "gender": 2,
+              "id": 2386505,
+              "known_for_department": "Acting",
+              "name": "Phil Kaufman",
+              "original_name": "Phil Kaufman",
+              "popularity": 0.5326,
+              "profile_path": "/gtpqCuJfi2cEOQhSjtRcMmySJ4j.jpg"
+            },
+            {
+              "character": "Self - Former Band Member 'The Beach Boys' (Archival Footage)",
+              "credit_id": "6a7f7b1ed4916e65fdb3284b",
+              "order": 531,
+              "adult": false,
+              "gender": 2,
+              "id": 23187,
+              "known_for_department": "Acting",
+              "name": "Dennis Wilson",
+              "original_name": "Dennis Wilson",
+              "popularity": 0.7814,
+              "profile_path": "/lmHlQsDQX5qWSkyLLPBmA5FiniZ.jpg"
+            },
+            {
+              "character": "Self - Music Producer",
+              "credit_id": "6a7f7b752d406ff225e81fd5",
+              "order": 532,
+              "adult": false,
+              "gender": 2,
+              "id": 2386504,
+              "known_for_department": "Acting",
+              "name": "Gregg Jakobson",
+              "original_name": "Gregg Jakobson",
+              "popularity": 0.4732,
+              "profile_path": null
+            },
+            {
+              "character": "Self - Music Producer (Archival Footage)",
+              "credit_id": "6a7f7c6185cbdd1fcfe81fce",
+              "order": 533,
+              "adult": false,
+              "gender": 2,
+              "id": 1242444,
+              "known_for_department": "Sound",
+              "name": "Terry Melcher",
+              "original_name": "Terry Melcher",
+              "popularity": 0.4503,
+              "profile_path": "/jLAI7ITf2nxiUuLmHRfzVRdlIan.jpg"
+            },
+            {
+              "character": "Self - Melcher's Mom (Archival Footage)",
+              "credit_id": "6a7f7c8179ef9998e9792d12",
+              "order": 534,
+              "adult": false,
+              "gender": 1,
+              "id": 8237,
+              "known_for_department": "Acting",
+              "name": "Doris Day",
+              "original_name": "Doris Day",
+              "popularity": 1.4029,
+              "profile_path": "/3qpEr3xVJaL4X49MWet2bE4Acbb.jpg"
+            },
+            {
+              "character": "Self - Former Member 'The Beach Boys' (Archival Footage)",
+              "credit_id": "6a7f7cea6af0c7d7c1e8207f",
+              "order": 535,
+              "adult": false,
+              "gender": 2,
+              "id": 23185,
+              "known_for_department": "Acting",
+              "name": "Brian Wilson",
+              "original_name": "Brian Wilson",
+              "popularity": 0.9509,
+              "profile_path": "/9H8jg2qqSFYcpOqXRVZ7jf6rKUX.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-12",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7619492,
+          "name": "The Devil's Business",
+          "overview": "Manson's control over his followers reaches its bloody apex, leading to a spree of brutal murders fueled by his vain delusions to trigger a race war.",
+          "production_code": "",
+          "runtime": 53,
+          "season_number": 1,
+          "show_id": 330320,
+          "still_path": "/hPhAy5Xq9sbDSfMFjQoxWYQFDpJ.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a6c9101614d1d2b4e6b4e4e",
+              "adult": false,
+              "gender": 2,
+              "id": 69237,
+              "known_for_department": "Directing",
+              "name": "Joe Berlinger",
+              "original_name": "Joe Berlinger",
+              "popularity": 1.153,
+              "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-08-12",
+          "episode_number": 3,
+          "episode_type": "finale",
+          "id": 7619495,
+          "name": "Trial of the Century",
+          "overview": "As Manson and the Family take center stage in the courtroom, their bizarre antics spark a grotesque spectacle that leaves behind a haunting legacy.",
+          "production_code": "",
+          "runtime": 59,
+          "season_number": 1,
+          "show_id": 330320,
+          "still_path": "/jw9HLttjaoURZNCtqVIv72dkdGV.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a6c9101614d1d2b4e6b4e4e",
+              "adult": false,
+              "gender": 2,
+              "id": 69237,
+              "known_for_department": "Directing",
+              "name": "Joe Berlinger",
+              "original_name": "Joe Berlinger",
+              "popularity": 1.153,
+              "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg"
+            }
+          ],
+          "guest_stars": []
+        }
+      ],
+      "name": "Miniseries",
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "overview": "",
+      "id": 533471,
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 99,
+      "name": "Documentary"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 89394,
+      "name": "RadicalMedia",
+      "logoPath": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 122026,
+      "name": "Naked",
+      "logoPath": "/gryNdmVLc1aKXPAEKlzKGBBzf4V.png",
+      "originCountry": "GB"
+    },
+    {
+      "tmdbId": 71816,
+      "name": "Third Eye Motion Picture Company",
+      "logoPath": null,
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "key": "7_LOFaPmVDg",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
+      "width": 1152,
+      "height": 1728,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tCVHTlGdco73etaNGsRdFXx0LPy.jpg",
+      "width": 981,
+      "height": 1471,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tI6d3ivzwZ4SJJA4gOKNFDaj8E0.jpg",
+      "width": 1152,
+      "height": 1712,
+      "aspectRatio": 0.673,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1KSFdnDgngnfgeLVxojC9vO8BED.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
+      "filePath": "/aZlTeTNYzwtsIp91duWHQeGjHrR.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3J8GJdpX4gGqk6225mstD5Uj33B.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xGx3qwRMqQ6pDsiNlgiXRRrNvcH.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yRuUGw1zFd3IyayCwHv8gInDVeT.jpg",
+      "width": 1561,
+      "height": 878,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wvL1ZT4bWtJYqIwutqHZtxhH809.jpg",
+      "width": 1511,
+      "height": 850,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wAQevrz2fSHUOvpkcv3Cms5LTV2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6,
+      "votesCount": 1
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 150786,
+      "name": "Charles Manson",
+      "profilePath": "/fPBUj4MVR7x2FG2F296otdhxDJC.jpg",
+      "character": "Self - Killer / Cult Leader (Archival Footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 69237,
+      "name": "Joe Berlinger",
+      "profilePath": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3226876,
+      "name": "Rachael Profiloski",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2029833,
+      "name": "Jen Isaacson",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 69241,
+      "name": "Jon Kamen",
+      "profilePath": "/1mhCSh4K7u320tbf5UMhFXBQ6tM.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1200372,
+      "name": "Tom O'Brien",
+      "profilePath": "/2LrNTmxmcZBvXIwLcqA4lL8xyAN.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "CN",
+      "title": "对话杀人魔：查尔斯·曼森绝密录音",
+      "type": "Netflix官方中文名"
+    },
+    {
+      "iso_3166_1": "IT",
+      "title": "Conversazioni con un Killer: il caso Manson",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": "tt43725623",
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
