@@ -10,15 +10,21 @@
     "budget": null,
     "revenue": null,
     "status": "Planned",
-    "popularity": 6.4435,
+    "popularity": 2.7587,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1386618",
     "posterPath": "/zJc9fYZxgq4yzI0Oru2e1Cf3a3V.jpg",
     "backdropPath": "/5b8t06v1cTd9H5IgWs6gj6987JM.jpg",
-    "collectionId": null
+    "collectionId": 529892
   },
-  "collection": null,
+  "collection": {
+    "tmdbId": 529892,
+    "name": "Black Panther Collection",
+    "overview": null,
+    "posterPath": "/9ZSPIsxI3TZDgfg0Jzk0RZl4INg.jpg",
+    "backdropPath": "/nsiBzWsmmerBMuD8TKHpYBTnfhD.jpg"
+  },
   "genres": [
     {
       "tmdbId": 878,
@@ -84,9 +90,23 @@
       "type": "poster"
     },
     {
+      "filePath": "/s8geRIEfj9llCrDsoswPakk3r7j.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/5b8t06v1cTd9H5IgWs6gj6987JM.jpg",
       "width": 1920,
       "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/sMUUc4zJrgZnEmHeyGMHtrqvi04.jpg",
+      "width": 2175,
+      "height": 1223,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -147,7 +167,7 @@
     {
       "tmdbPersonId": 10850,
       "name": "Kevin Feige",
-      "profilePath": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg",
+      "profilePath": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
