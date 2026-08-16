@@ -8,13 +8,13 @@
     "releaseDate": "2026-04-16",
     "runtime": 91,
     "budget": "10000000",
-    "revenue": "6068324",
+    "revenue": "6095691",
     "status": "Released",
-    "popularity": 18.6909,
-    "voteAverage": 7.16,
-    "voteCount": 413,
+    "popularity": 17.6521,
+    "voteAverage": 7.239,
+    "voteCount": 466,
     "homepage": "https://www.normalthemovie.com/",
-    "posterPath": "/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+    "posterPath": "/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg",
     "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
     "collectionId": null,
     "certification": "R"
@@ -165,7 +165,7 @@
   ],
   "images": [
     {
-      "filePath": "/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+      "filePath": "/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -242,20 +242,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/pprU6QnlTblJd51s0IxTnh2DCFe.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg",
       "width": 720,
       "height": 1080,
@@ -266,6 +252,13 @@
       "filePath": "/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pprU6QnlTblJd51s0IxTnh2DCFe.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -344,6 +337,13 @@
       "width": 810,
       "height": 1200,
       "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -690,6 +690,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/cIv0OKYpzqloeNCSOdXQGmimGJd.jpg",
+      "width": 1333,
+      "height": 2000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
       "width": 3840,
       "height": 2160,
@@ -854,8 +861,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.16,
-      "votesCount": 413
+      "ratingValue": 7.239,
+      "votesCount": 466
     },
     {
       "source": "imdb",
@@ -1010,21 +1017,21 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 1076800,
+      "name": "Derek Kolstad",
+      "profilePath": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 137467,
       "name": "Ben Wheatley",
       "profilePath": "/r8veHr3ExfEfVYWVR93hIDf4RiP.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1757536,
-      "name": "Marc Provissiero",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -1037,9 +1044,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1076800,
-      "name": "Derek Kolstad",
-      "profilePath": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+      "tmdbPersonId": 1757536,
+      "name": "Marc Provissiero",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1069,7 +1076,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max Amazon Channel",
+          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
