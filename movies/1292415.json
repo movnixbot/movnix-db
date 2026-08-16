@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 22.9646,
-    "voteAverage": 6.325,
-    "voteCount": 83,
+    "popularity": 23.4788,
+    "voteAverage": 6.452,
+    "voteCount": 93,
     "homepage": "https://mock-movie-website.com/movies/1292415",
     "posterPath": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
     "backdropPath": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
@@ -51,7 +51,7 @@
       "tmdbId": 159449,
       "name": "Black Pearl Productions",
       "logoPath": null,
-      "originCountry": null
+      "originCountry": "AU"
     },
     {
       "tmdbId": 77479,
@@ -301,6 +301,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/87m6tpjod7SI6rnCUGYU5vpTUiK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gCrZhQvWoLQv8sMTZbtczUHPqx1.jpg",
       "width": 2740,
       "height": 1540,
@@ -376,13 +383,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/u3l06WjBCMssOcURh3ZVzlVNwPs.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.325,
-      "votesCount": 83
+      "ratingValue": 6.452,
+      "votesCount": 93
     },
     {
       "source": "imdb",
@@ -616,7 +630,28 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
+        {
+          "name": "Starz Amazon Channel",
+          "logo": "/esiLBRzDUwodjfN8gA4qj7l3ZF7.jpg"
+        },
+        {
+          "name": "Starz",
+          "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
+        },
+        {
+          "name": "Starz Apple TV Channel",
+          "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
+        },
+        {
+          "name": "Starz Roku Premium Channel",
+          "logo": "/9laPF1MAiUxlqM8T98F3Gj0bhzd.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
