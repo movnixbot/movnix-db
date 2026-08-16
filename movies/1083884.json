@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.2753,
-    "voteAverage": 6.514,
-    "voteCount": 37,
+    "popularity": 6.7705,
+    "voteAverage": 6.6,
+    "voteCount": 40,
     "homepage": "https://mock-movie-website.com/movies/1083884",
     "posterPath": "/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
     "backdropPath": "/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
@@ -185,6 +185,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/6MAS4pFMuJJg1dXStcjcIoELyzq.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
       "width": 3840,
       "height": 2160,
@@ -258,8 +265,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.514,
-      "votesCount": 37
+      "ratingValue": 6.6,
+      "votesCount": 40
     },
     {
       "source": "crawled",
@@ -413,6 +420,15 @@
       "order": null
     },
     {
+      "tmdbPersonId": 1041418,
+      "name": "Jonathan Sobol",
+      "profilePath": "/5YlLH3iiR8HQxoR21ySMBJ2uxl9.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 60091,
       "name": "Doug Murray",
       "profilePath": "/A3QlblmHduyIcMyzNTelkTiIPtw.jpg",
@@ -437,15 +453,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1041418,
-      "name": "Jonathan Sobol",
-      "profilePath": "/5YlLH3iiR8HQxoR21ySMBJ2uxl9.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     }
   ],

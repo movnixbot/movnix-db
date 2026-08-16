@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 35.9372,
-    "voteAverage": 6.968,
-    "voteCount": 704,
+    "popularity": 33.626,
+    "voteAverage": 6.948,
+    "voteCount": 733,
     "homepage": "https://www.amazon.com/dp/B0GVB3LYDT",
     "posterPath": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
     "backdropPath": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
@@ -207,6 +207,13 @@
     },
     {
       "filePath": "/6PBHsnpVmLLehsuSLzwipymLr6n.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3lRDPY4h71mmFqYbrtKxWQtc42E.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -797,8 +804,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.968,
-      "votesCount": 704
+      "ratingValue": 6.948,
+      "votesCount": 733
     },
     {
       "source": "crawled",
@@ -1034,7 +1041,12 @@
           "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        }
+      ]
     },
     "us": {
       "flatrate": [
@@ -1047,7 +1059,28 @@
           "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [
