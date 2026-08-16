@@ -490,5 +490,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1452176/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1452176,
+    "hash": "7b97fbbe4b1aad828c7399db6c6c3f47575d33939938b96bf61faa0edca0cb6b",
+    "summary_one_sentence": "Raised by an increasingly paranoid and overprotective father, brothers Max and Rudy Van Helsing unravel the terrifying truth of Abraham Van Helsing's violent past with Dracula.",
+    "summary_short": "Brothers Max and Rudy Van Helsing have spent their entire lives living under the oppressive, hyper-vigilant rule of their father, Abraham. Long kept in the dark about his history, the boys struggle to comprehend his erratic behavior and relentless paranoia. As they uncover the violent details of their father's past confrontation with Dracula, their world shatters. Ultimately, the brothers are forced to face a horrific legacy that threatens to destroy them.",
+    "summary_long": "Max and Rudy Van Helsing grow up in total isolation, enduring the intense, paranoid discipline of their father, Abraham. To the young boys, Abraham is a tyrant whose strict rules and strange behaviors make little sense. As tension builds within the household, Max and Rudy begin investigating their father's hidden past to make sense of their lives. Their search leads them to horrific revelations about Abraham's brutal victory over Count Dracula. They learn that the trauma of that dark encounter never truly left their father, turning his protection into a dangerous obsession. As Abraham's mental state rapidly deteriorates, the line between protective father and monster blurs. The brothers must navigate their father's delusion while coming to terms with the dark inheritance hanging over their family line. In a dramatic escalation, Max and Rudy are forced to decide whether to succumb to the legacy of fear or forge their own path forward.",
+    "synopsis": "Set in the aftermath of Abraham Van Helsing's legendary encounter with Count Dracula, this atmospheric horror-drama shifts focus to Van Helsing's young sons, Max and Rudy. Raised under a shadow of unexplained paranoia, strict discipline, and constant isolation, the boys struggle to understand why their father views the world as a threat. As they dig deeper into Abraham's past, they uncover hidden truths about vampire hunting and the deep-seated psychological trauma left in the monster's wake. The story offers a grounded, character-driven exploration of generational trauma, paranoia, and the terrifying shadow cast by a heroic legacy.",
+    "keywords": [
+      "Van Helsing legacy",
+      "vampire lore",
+      "Dracula connection",
+      "overprotective father",
+      "paranoia",
+      "family secrets",
+      "coming of age",
+      "generational trauma",
+      "erratic behavior",
+      "dark past",
+      "brotherhood",
+      "terrifying legacy",
+      "psychological horror",
+      "gothic elements"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Trauma & Paranoia",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Secrets & Deception",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Psychological Thriller",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a breaking point when the boys directly confront the violent realities of Abraham's past, forcing a terrifying, high-stakes clash between father and sons.",
+      "conflict": "The boys struggle against their father's unyielding demands and terrifying rules, desperate to understand the hidden motivation driving his deep-seated fear and obsession.",
+      "resolution": "The shattering truth reshapes the brothers' understanding of their family, leaving them to grapple with the disturbing inheritance of their father's crusade.",
+      "introduction": "Brothers Max and Rudy live isolated under the strict, paranoid control of their aging father, Abraham Van Helsing, whose erratic behavior and intense discipline stem from secret past trauma.",
+      "risingAction": "Curiosity leads the brothers to investigate their father's locked belongings and mysterious past, gradually uncovering frightening clues about a dark legacy involving legendary horrors."
+    },
+    "characters": [
+      {
+        "name": "Abraham Van Helsing",
+        "role": "Other",
+        "description": "An overprotective and increasingly paranoid father whose tragic past with Dracula drives him to erratic and violent behavior, casting a shadow over his sons."
+      },
+      {
+        "name": "Max Van Helsing",
+        "role": "Hero",
+        "description": "The eldest son who struggles under his father's strict rule and takes the lead in unraveling the dark, dangerous truth behind his family legacy."
+      },
+      {
+        "name": "Rudy Van Helsing",
+        "role": "Supporting Character",
+        "description": "The younger brother who navigates his father's intense paranoia alongside Max, helping to confront the horrific secrets of their father's past."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Abraham Van Helsing",
+        "target": "Max Van Helsing",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Abraham Van Helsing",
+        "target": "Rudy Van Helsing",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Max Van Helsing",
+        "target": "Rudy Van Helsing",
+        "description": "Brothers"
+      },
+      {
+        "source": "Abraham Van Helsing",
+        "target": "Count Dracula",
+        "description": "Archenemies / Former Adversaries"
+      },
+      {
+        "source": "Max Van Helsing",
+        "target": "Count Dracula",
+        "description": "Legacy / Threat"
+      },
+      {
+        "source": "Rudy Van Helsing",
+        "target": "Count Dracula",
+        "description": "Legacy / Threat"
+      }
+    ],
+    "seo": {
+      "slug": "abrahams-boys-a-dracula-story",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/abrahams-boys-a-dracula-story](https://movnix.com/movie/abrahams-boys-a-dracula-story)",
+        "name": "Abraham's Boys: A Dracula Story",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Max and Rudy Van Helsing have spent their lives under the strict and overprotective rule of their father, Abraham. Unaware of his dark past, they struggle to understand his paranoia and increasingly erratic behavior. But when they begin to uncover the violent truths behind their father’s history with Dracula, their world unravels, forcing them to confront the terrifying legacy they were never meant to inherit."
+      },
+      "keywords": [
+        "Abraham's Boys",
+        "A Dracula Story",
+        "Van Helsing",
+        "Abraham Van Helsing",
+        "Dracula movie",
+        "horror thriller",
+        "vampire legacy"
+      ],
+      "canonical": "[https://movnix.com/movie/abrahams-boys-a-dracula-story](https://movnix.com/movie/abrahams-boys-a-dracula-story)",
+      "metaTitle": "Abraham's Boys: A Dracula Story - Plot, Cast & Overview",
+      "openGraph": {
+        "og:title": "Abraham's Boys: A Dracula Story | Movnix",
+        "og:description": "Uncover the dark legacy of Abraham Van Helsing as his sons discover the terrifying truth about his history with Dracula."
+      },
+      "twitterCard": {
+        "twitter:title": "Abraham's Boys: A Dracula Story | Movnix",
+        "twitter:description": "Uncover the dark legacy of Abraham Van Helsing as his sons discover the terrifying truth about his history with Dracula."
+      },
+      "metaDescription": "Max and Rudy Van Helsing uncover their father Abraham's violent past with Dracula, confronting a terrifying legacy they never meant to inherit."
+    },
+    "faq": [
+      {
+        "answer": "The story follows brothers Max and Rudy Van Helsing, who grow up under the strict, paranoid control of their father, Abraham. As they investigate his erratic behavior, they discover his violent history with Dracula and are forced to confront their family's dark legacy.",
+        "question": "What is Abraham's Boys: A Dracula Story about?"
+      },
+      {
+        "answer": "The film's primary genre is Horror, blending psychological thriller elements with gothic vampire lore.",
+        "question": "What is the dominant genre of this film?"
+      },
+      {
+        "answer": "Yes, it is connected to the broader Dracula lore and the classic Van Helsing vampire-hunting mythos, drawing inspiration from Bram Stoker's universe and Joe Hill's short story.",
+        "question": "Is Abraham's Boys: A Dracula Story part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene at the end of the film. The story concludes definitively as the main credits begin to roll.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The narrative centers on Abraham Van Helsing and his two young sons, Max Van Helsing and Rudy Van Helsing.",
+        "question": "Who are the main characters in the story?"
+      },
+      {
+        "answer": "No, the film carries a mature rating due to themes of psychological trauma, intense horror elements, and graphic violence related to vampire hunting.",
+        "question": "Is Abraham's Boys suitable for children?"
+      },
+      {
+        "answer": "No, at the beginning, both brothers are completely unaware of their father's history with vampires and view his extreme protectiveness merely as inexplicable paranoia.",
+        "question": "Do Max and Rudy know about their father's past at the start of the story?"
+      },
+      {
+        "answer": "Dracula's presence heavily influences the plot through Abraham's trauma, flashbacks, and the looming threat of his legacy, driving the psychological tension throughout the narrative.",
+        "question": "Is Dracula directly featured in the film?"
+      },
+      {
+        "answer": "Streaming availability depends on your region, but it is typically available to rent or purchase on major digital platforms like Amazon Prime Video, Apple TV, and Google TV.",
+        "question": "Where can I watch Abraham's Boys: A Dracula Story?"
+      },
+      {
+        "answer": "Yes, it is based on the acclaimed 2004 short story 'Abraham's Boys' by author Joe Hill, which serves as a continuation and re-imagining of Bram Stoker's classic novel Dracula.",
+        "question": "Is this film based on a book?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong psychological horror, grotesque imagery of the undead, claustrophobic paranoia, and gothic dread."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent coarse language and period-typical aggressive dialogue."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Graphic depictions and themes of violent vampire hunting, brutal physically abusive behavior, and murder."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor historical references to medicinal usage or alcohol consumption."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content; subtle thematic references to predatory behavior."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Severe emotional trauma, intense filial dread, severe child abuse, paranoia, and psychological breakdown."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 7,
+      "mystery": 8,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-17 04:02:09.964138",
+    "updated_at": "2026-08-17 04:02:09.964138"
+  }
 }
