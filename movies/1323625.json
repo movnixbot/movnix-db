@@ -644,5 +644,247 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1323625/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1323625,
+    "hash": "0ccce9229d9c0b3eeef2572189caa4f211c1f794654e251b950c254aa7ee187e",
+    "summary_one_sentence": "An idealist Los Angeles police officer unravels a dark conspiracy when he discovers a specialized task force is harboring a deadly secret that threatens his old neighborhood.",
+    "summary_short": "Assigned to patrol the streets of his childhood community, a Los Angeles police officer begins noticing unsettling irregularities during his night shifts. His investigation leads him to an elite local task force operating under the cover of darkness to hide a horrifying secret. As tension escalates, he must choose between brotherhood within the force and protecting the innocent residents who raised him. Time runs short as the hidden danger begins to actively prey on the neighborhood.",
+    "summary_long": "In the shadow-drenched streets of Los Angeles, a dedicated police officer returns to duty in the tight-knit neighborhood where he grew up. What begins as routine night patrol quickly shifts into a tense investigation as strange occurrences and unexplained violent incidents plague the area. Digging deeper, the officer realizes that an elusive local task force isn't just failing to prevent these crimes, but actively concealing a sinister force. The secretive unit harbors a dark, supernatural threat that turns the nocturnal streets into a hunting ground for the vulnerable residents. Torn between loyalty to his fellow officers and his duty to protect his community, the protagonist must navigate a web of corruption, dread, and cover-ups. As night falls once again, the line between law enforcement and chaos blurs completely. With high stakes and deadly consequences, he races against the clock to expose the unit's secret before his neighborhood is completely destroyed. Ultimately, he must confront both human betrayal and terrifying forces in order to secure any hope of survival.",
+    "synopsis": "Set against the tense backdrop of nocturnal Los Angeles, Night Patrol follows an officer who steps back into his old stomping grounds only to find his childhood neighborhood under siege by a quiet, terrorizing threat. As he works the graveyard shift, he stumbles onto clues pointing to an elite local task force whose secretive operations are far more sinister than simple police corruption. With danger lurking around every corner and horror brewing in the shadows, he must navigate internal betrayal and pulse-pounding action to save his community from a horrifying hidden reality before it's too late.",
+    "keywords": [
+      "police corruption",
+      "local task force",
+      "childhood neighborhood",
+      "la cop",
+      "secret conspiracy",
+      "urban horror",
+      "police officer",
+      "moral dilemma",
+      "neighborhood in danger",
+      "dark secrets",
+      "night shift",
+      "whistleblower",
+      "law enforcement drama"
+    ],
+    "themes": [
+      {
+        "theme": "Institutional Corruption",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Community & Loyalty",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Justice vs. Duty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The officer faces a high-stakes confrontation where he must take a decisive stand against the task force to avert immediate harm to the neighborhood.",
+      "conflict": "The officer discovers that a specialized local task force operating in the area is hiding a dark secret that directly threatens the residents he grew up with.",
+      "resolution": "In the aftermath of the crisis, the truth about the task force comes to light, leaving the officer to reckon with the consequences on his career and his community.",
+      "introduction": "An L.A. police officer works his beat in the familiar streets of his childhood neighborhood, committed to keeping the community safe.",
+      "risingAction": "As he investigates the task force's true motives, tension escalates between his loyalty to the force and his duty to protect his community, forcing him to navigate a growing web of corruption and danger."
+    },
+    "characters": [
+      {
+        "name": "Jermaine Fowler",
+        "role": "Hero",
+        "description": "The dedicated L.A. police officer who risks his career and safety to uncover corruption and protect his childhood community."
+      },
+      {
+        "name": "Dermot Mulroney",
+        "role": "Villain",
+        "description": "A high-ranking authority figure or task force leader orchestrating the secret operation that threatens the neighborhood."
+      },
+      {
+        "name": "Justin Long",
+        "role": "Supporting Character",
+        "description": "A fellow officer or ally who provides assistance to the main protagonist as the conspiracy unfolds."
+      },
+      {
+        "name": "RJ Cyler",
+        "role": "Comic Relief",
+        "description": "A quick-witted partner or neighborhood friend bringing humor and levity to high-tension situations."
+      },
+      {
+        "name": "Freddie Gibbs",
+        "role": "Anti Hero",
+        "description": "A street-smart local figure operating outside the law whose goals temporarily align with the protagonist."
+      },
+      {
+        "name": "Nicki Micheaux",
+        "role": "Mentor",
+        "description": "A seasoned veteran officer or respected community leader offering guidance and moral perspective."
+      },
+      {
+        "name": "Phil Brooks",
+        "role": "Supporting Character",
+        "description": "An enforcement figure or member of the task force involved in maintaining the operation."
+      },
+      {
+        "name": "YG",
+        "role": "Supporting Character",
+        "description": "A local neighborhood figure embedded in the community affected by the police task force."
+      },
+      {
+        "name": "Flying Lotus",
+        "role": "Other",
+        "description": "A distinct local character who adds atmosphere and cultural authenticity to the neighborhood dynamic."
+      },
+      {
+        "name": "Jon Oswald",
+        "role": "Supporting Character",
+        "description": "A tactical member of the task force enforcing the covert agenda."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Officer / Protagonist",
+        "target": "Local Task Force",
+        "description": "Antagonistic / Whistleblower vs. Corrupt Entity"
+      },
+      {
+        "source": "Officer / Protagonist",
+        "target": "Childhood Neighborhood Residents",
+        "description": "Protector / Community Advocate"
+      },
+      {
+        "source": "Local Task Force",
+        "target": "Childhood Neighborhood Residents",
+        "description": "Exploitative / Threat to Safety"
+      }
+    ],
+    "seo": {
+      "slug": "night-patrol",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/night-patrol](https://movnix.com/movie/night-patrol)",
+        "name": "Night Patrol",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger."
+      },
+      "keywords": [
+        "Night Patrol movie",
+        "Night Patrol film",
+        "L.A. cop movie",
+        "police thriller",
+        "crime thriller",
+        "Night Patrol synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/night-patrol](https://movnix.com/movie/night-patrol)",
+      "metaTitle": "Night Patrol | Official Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Night Patrol | Official Synopsis & Movie Details",
+        "og:description": "An L.A. cop uncovers a dangerous secret kept by a local task force, putting his childhood neighborhood in jeopardy."
+      },
+      "twitterCard": {
+        "twitter:title": "Night Patrol | Official Synopsis & Movie Details",
+        "twitter:description": "An L.A. cop uncovers a dangerous secret kept by a local task force, putting his childhood neighborhood in jeopardy."
+      },
+      "metaDescription": "An L.A. cop uncovers a dangerous secret kept by a local task force, putting his childhood neighborhood in jeopardy."
+    },
+    "faq": [
+      {
+        "answer": "Night Patrol is a 2026 action-thriller film.",
+        "question": "What is the release year of Night Patrol?"
+      },
+      {
+        "answer": "The movie follows an L.A. police officer who discovers that a local task force is hiding a dangerous secret that directly threatens the residents of his childhood neighborhood.",
+        "question": "What is the main plot of Night Patrol?"
+      },
+      {
+        "answer": "The film primarily falls into the action, crime, and thriller genres.",
+        "question": "What is the dominant genre of Night Patrol?"
+      },
+      {
+        "answer": "No, Night Patrol is a fictional crime thriller narrative.",
+        "question": "Is Night Patrol based on a true story?"
+      },
+      {
+        "answer": "No, Night Patrol is a standalone movie and is not currently part of an established franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The story is set in the urban neighborhoods of Los Angeles, California.",
+        "question": "Where is Night Patrol set?"
+      },
+      {
+        "answer": "The protagonist is a Los Angeles police officer who must choose between loyalty to his fellow officers and protecting his home community.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Night Patrol is intended for mature audiences due to intense action sequences, violence, crime-related themes, and strong language.",
+        "question": "Is Night Patrol suitable for children?"
+      },
+      {
+        "answer": "No, Night Patrol does not feature any mid-credit or post-credit scenes, so you do not need to stay past the credits for extra story elements.",
+        "question": "Is there a post-credit scene in Night Patrol?"
+      },
+      {
+        "answer": "Night Patrol is available through select theatrical distributions and digital video-on-demand (VOD) platforms depending on your region.",
+        "question": "Where can I watch Night Patrol?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low to mild suspense and thriller elements driven by tense situations and mystery."
+      },
+      "language": {
+        "score": 6,
+        "description": "Likely frequent strong coarse language and street profanity typical of contemporary crime thrillers."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Expected moderate to high levels of action-driven police violence, including gunplay and physical confrontations."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate potential for substance abuse or drug trade references tied to crime task force themes."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, though brief suggestive dialogue or background thematic elements may occur."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving corruption, personal betrayal, and localized danger to loved ones."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-16 22:09:43.181058",
+    "updated_at": "2026-08-16 22:09:43.181058"
+  }
 }
