@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 52.1058,
-    "voteAverage": 6.206,
-    "voteCount": 63,
+    "popularity": 15.5533,
+    "voteAverage": 6.155,
+    "voteCount": 97,
     "homepage": "https://tv.apple.com/movie/umc.cmc.5tugaz9vt498ajn7q64ypaqxn",
     "posterPath": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
     "backdropPath": "/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
@@ -434,6 +434,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/5QAZEduo5Fvr3dFRlOD4nctIHky.jpg",
+      "width": 2000,
+      "height": 2829,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yq3wkbeQLARJzTO2wCUCNbuEtjv.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/p3Qs3FRnCwIcCAxxa14i6480ACQ.jpg",
       "width": 3840,
       "height": 2160,
@@ -703,8 +717,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.206,
-      "votesCount": 63
+      "ratingValue": 6.155,
+      "votesCount": 97
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6.1,
+      "votesCount": 7496
     },
     {
       "source": "crawled",
@@ -912,7 +931,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IL",
+      "title": "הדינק",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt33499146",
     "wikidataId": "Q131313219",
