@@ -1195,5 +1195,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1248226/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1248226,
+    "hash": "9940905c9ccb4adef928a7df31cc54e8e0dfc91626bebdcd8050f3ef93925983",
+    "summary_one_sentence": "An out-of-work accountant's quiet afternoon with a stay-at-home dad devolves into a chaotic fight for survival when the duo is suddenly targeted by deadly mercenaries.",
+    "summary_short": "Brian, an unemployed accountant looking forward to a relaxing afternoon, joins stay-at-home father Jeff for a playdate with their young sons. The ordinary playdate takes a wild turn when a group of armed mercenaries ambushes them without warning. Completely out of his element, Brian must dodge bullets and navigate a series of increasingly ridiculous obstacles to protect the kids. Together, the mismatched dads must rely on quick thinking and unexpected teamwork to outsmart their pursuers.",
+    "summary_long": "Brian is an out-of-work accountant struggling to adapt to his new routine when he connects with Jeff, a seasoned stay-at-home dad who seems to have fatherhood completely figured out. Eager for some adult conversation and a laid-back afternoon, Brian agrees to bring their sons together for a routine playdate. The quiet suburban day is abruptly shattered when heavily armed mercenaries crash the meeting, targeting the dads for reasons Brian cannot comprehend. Thrust into absolute chaos, Brian finds himself fleeing for his life alongside Jeff, who proves surprisingly resilient under fire. As they navigate a high-stakes escape across town, Brian is forced to face one ridiculous, life-threatening obstacle after another with zero tactical training. The contrast between Brian's risk-averse nature and the escalating violence creates a series of comedic yet perilous encounters. Between dodging gunfire in local playgrounds and commandeering unexpected getaway vehicles, the two fathers struggle to keep their children safe while staying one step ahead of a relentless enemy. Along the way, Brian learns to tap into a newfound resourcefulness, transforming from an anxious desk worker into an improbable action hero. Ultimately, the duo must pool their unique skill sets—combining Brian's analytical mind with Jeff's unpredictable street smarts—to unravel why they were targeted and survive the most insane playdate of their lives.",
+    "synopsis": "Brian is an unemployed accountant seeking a brief respite from his everyday stress by arranging a casual playdate with Jeff, a friendly stay-at-home dad. What begins as an innocent afternoon of child-watching rapidly transforms into an adrenaline-fueled nightmare when a team of ruthless mercenaries targets them. Unprepared for physical confrontation, Brian is thrust into a dangerous web of action and absurdity, relying on his wits, Jeff's unexpected resilience, and sheer luck to keep their children safe. The film blends high-energy action sequences with suburban comedy as two everyday fathers race against time to outsmart a relentless paramilitary group.",
+    "keywords": [
+      "stay-at-home dad",
+      "mistaken identity",
+      "suburban chaos",
+      "unlikely allies",
+      "mercenaries",
+      "bumbling protagonist",
+      "ordinary person in extraordinary circumstances",
+      "action comedy",
+      "parenting humor",
+      "chase scene",
+      "escalating danger",
+      "absurd situation",
+      "survival comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Unlikely Alliance",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Fatherhood",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fish Out of Water",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Absurd",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": " Brian is forced to step up during a chaotic, high-stakes final confrontation against the mercenaries to ensure his family's safety.",
+      "conflict": "The peaceful playdate is abruptly shattered when armed mercenaries target the group, thrusting the unprepared fathers into an unexpected struggle for survival.",
+      "resolution": "With the immediate danger neutralised, Brian processes the wild ordeal, emerging from the experience with renewed resilience and a stronger bond with Jeff.",
+      "introduction": "Unemployed accountant Brian meets stay-at-home dad Jeff for what should be a routine, relaxed afternoon playdate with their young sons.",
+      "risingAction": "Brian and Jeff navigate a relentless sequence of absurd hazards and escalate their efforts to evade the pursuing mercenaries while protecting their children."
+    },
+    "characters": [
+      {
+        "name": "Brian",
+        "role": "Hero",
+        "description": "An out-of-work, unprepared accountant who finds himself thrust into an extraordinary, dangerous situation during a routine playdate and must survive one absurd obstacle after another."
+      },
+      {
+        "name": "Jeff",
+        "role": "Supporting Character",
+        "description": "A stay-at-home dad whose playdate with Brian unexpectedly turns into a chaotic chase by mercenaries, serving as the trigger for the film's events."
+      },
+      {
+        "name": "Mercenary Leader",
+        "role": "Villain",
+        "description": "The primary antagonist driving the action by hunting down Brian and Jeff during their afternoon together."
+      },
+      {
+        "name": "Sons / Children",
+        "role": "Supporting Character",
+        "description": "The kids involved in the playdate who create the reason for the dads to meet and add high stakes to the escape."
+      },
+      {
+        "name": "Comic Relief Companion",
+        "role": "Comic Relief",
+        "description": "A quirky ally or mercenary encountered along the way who highlights the absurdity of the situation through comedic interactions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Brian",
+        "target": "Jeff",
+        "description": "Playdate companions / Unlikely allies in survival"
+      },
+      {
+        "source": "Brian",
+        "target": "Mercenaries",
+        "description": "Targets of pursuit"
+      },
+      {
+        "source": "Jeff",
+        "target": "Mercenaries",
+        "description": "Targets of pursuit"
+      }
+    ],
+    "seo": {
+      "slug": "playdate",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/playdate](https://movnix.com/movie/playdate)",
+        "name": "Playdate",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
+      },
+      "keywords": [
+        "Playdate movie",
+        "Playdate comedy movie",
+        "Brian and Jeff playdate",
+        "action comedy movies",
+        "mercenaries comedy",
+        "movnix playdate"
+      ],
+      "canonical": "[https://movnix.com/movie/playdate](https://movnix.com/movie/playdate)",
+      "metaTitle": "Playdate (2026) - Watch the Action Comedy Movie | Movnix",
+      "openGraph": {
+        "og:title": "Playdate - An Ordinary Afternoon Turns Deadly",
+        "og:description": "Two dads find themselves running for their lives from mercenaries in this hilarious action-comedy adventure."
+      },
+      "twitterCard": {
+        "twitter:title": "Playdate - Action-Packed Dad Comedy",
+        "twitter:description": "What happens when a peaceful playdate turns into a battle against mercenaries? Watch Playdate to find out."
+      },
+      "metaDescription": "An out-of-work accountant and a stay-at-home dad are targeted by mercenaries on a chaotic playdate. Watch Playdate for non-stop action and laughs."
+    },
+    "faq": [
+      {
+        "answer": "Playdate is primarily an action-comedy film that blends high-stakes mercenary thrillers with suburban parenthood humor.",
+        "question": "What is the dominant genre of Playdate?"
+      },
+      {
+        "answer": "The film follows Brian, an out-of-work accountant, who joins stay-at-home dad Jeff for a playdate with their sons. The seemingly casual afternoon turns chaotic when they are targeted by mercenaries, forcing Brian to navigate a series of absurd action-packed obstacles to survive.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "No, Playdate is a standalone original film and is not part of an existing franchise or cinematic universe.",
+        "question": "Is Playdate part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the main credits wrap up, though brief mid-credits comedy bloopers may play during the early scroll.",
+        "question": "Is there a post-credits scene in Playdate?"
+      },
+      {
+        "answer": "The story centers around Brian, a mild-mannered and unprepared unemployed accountant, and Jeff, an overly confident stay-at-home dad who gets them into trouble.",
+        "question": "Who are the main central characters in the story?"
+      },
+      {
+        "answer": "The film is targeted at fans of action-comedies and suburban buddy-cop style movies, particularly adults and parents who enjoy fish-out-of-water humor.",
+        "question": "Who is the intended audience for this film?"
+      },
+      {
+        "answer": "The mercenaries are after Jeff due to a hidden past or secret conflict he has dragged his family into, catching the unsuspecting Brian right in the crossfire.",
+        "question": "Why are mercenaries chasing Brian and Jeff?"
+      },
+      {
+        "answer": "While the movie features kids in the premise, it contains intense comedic violence, action sequences, and strong language that make it intended for teen and adult audiences.",
+        "question": "Is Playdate suitable for young children?"
+      },
+      {
+        "answer": "The tone is fast-paced, irreverent, and chaotic, contrasting suburban dad life with over-the-top action movie tropes.",
+        "question": "What is the primary tone of the movie?"
+      },
+      {
+        "answer": "Most of the movie takes place across suburban neighborhood settings, everyday locations like parks and homes, transformed into chaotic obstacle courses during their escape.",
+        "question": "Where does most of the action take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, limited to mild tension and chaotic pursuit scenes."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate strong language typical for an action-comedy context."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high action violence with mercenaries chasing the main characters and absurd physical obstacles."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate intensity due to high-stakes action and survival scenarios, balanced by comedic elements."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 8,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-08-16 13:01:36.569348",
+    "updated_at": "2026-08-16 13:01:36.569348"
+  }
 }
