@@ -10,15 +10,21 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 28.6058,
-    "voteAverage": 5.1,
-    "voteCount": 65,
+    "popularity": 12.2176,
+    "voteAverage": 4.93,
+    "voteCount": 71,
     "homepage": "https://mock-movie-website.com/movies/1645603",
     "posterPath": "/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
     "backdropPath": "/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
-    "collectionId": null
+    "collectionId": 724328
   },
-  "collection": null,
+  "collection": {
+    "tmdbId": 724328,
+    "name": "Night of the Living Dead 3D - Collection",
+    "overview": null,
+    "posterPath": "/1NS0z4ahqi8nPqOEx52J7jMAISg.jpg",
+    "backdropPath": "/pbTpDO7fsYV80waJiKFY49gMmOO.jpg"
+  },
   "genres": [
     {
       "tmdbId": 27,
@@ -77,6 +83,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/k8I8KWToOfXYIHO8HfHAmJqZlFZ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
       "width": 2000,
       "height": 3000,
@@ -115,8 +128,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.1,
-      "votesCount": 65
+      "ratingValue": 4.93,
+      "votesCount": 71
     },
     {
       "source": "imdb",
@@ -161,7 +174,7 @@
       "tmdbPersonId": 62001,
       "name": "Dee Wallace",
       "profilePath": "/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg",
-      "character": null,
+      "character": "Maggie",
       "job": "Actor",
       "department": "Acting",
       "order": 3
