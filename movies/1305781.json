@@ -10,9 +10,9 @@
     "budget": "123000000",
     "revenue": "203356793",
     "status": "Released",
-    "popularity": 41.843,
-    "voteAverage": 7.957,
-    "voteCount": 161,
+    "popularity": 33.1884,
+    "voteAverage": 8.12,
+    "voteCount": 192,
     "homepage": "https://wellgousa.com/films/blades-of-the-guardians",
     "posterPath": "/R84km7PJ0frFSNPmvIjG6LV1kg.jpg",
     "backdropPath": "/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg",
@@ -28,6 +28,14 @@
     {
       "tmdbId": 12,
       "name": "Adventure"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    },
+    {
+      "tmdbId": 37,
+      "name": "Western"
     },
     {
       "tmdbId": 1,
@@ -74,6 +82,41 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "The Making of Episode 04: \"The Return\"",
+      "key": "GowSaduohMM",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Behind the Scenes"
+    },
+    {
+      "name": "The Making of Episode 03: \"The Guardian Squad\"",
+      "key": "ro0DxUkoXjI",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Behind the Scenes"
+    },
+    {
+      "name": "The Making of Episode 02: \"Those Who Ascend The Mountain\"",
+      "key": "BlwHFtF4iNQ",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Behind the Scenes"
+    },
+    {
+      "name": "The Making of Episode 01: \"The Essence of Wuxia\"",
+      "key": "Y3AliCH4IBQ",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Behind the Scenes"
+    },
+    {
+      "name": "★★★★★ “A triumph of wuxia cinema.” — Region Free.",
+      "key": "bqCHAuIMYzo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
     {
       "name": "Official Digital Trailer [Subtitled]",
       "key": "7jkL4-uYriY",
@@ -630,6 +673,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/e3PzMIhxRsc85Z6pLAA72pHwFIg.jpg",
+      "width": 1684,
+      "height": 2528,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/tPm0OiNmN6LIor7RFdjJ74FHeJi.jpg",
       "width": 1920,
       "height": 1080,
@@ -941,8 +991,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.957,
-      "votesCount": 161
+      "ratingValue": 8.12,
+      "votesCount": 192
     },
     {
       "source": "imdb",
@@ -1092,6 +1142,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 554948,
+      "name": "Su Chaobin",
+      "profilePath": "/uVO1XV7KPFYdZIizKUnvGdn3Ucx.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1452270,
       "name": "Larry Yang",
       "profilePath": "/qUOe56aOGlFI1eii9mkde0mE4Ds.jpg",
@@ -1107,15 +1166,6 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 554948,
-      "name": "Su Chaobin",
-      "profilePath": "/uVO1XV7KPFYdZIizKUnvGdn3Ucx.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     },
     {
@@ -1185,6 +1235,11 @@
     {
       "iso_3166_1": "MX",
       "title": "Las Espadas De Los Guardianes: El viento se levanta en el desierto",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Клинки хранителей: Ветер пустыни",
       "type": ""
     }
   ],
