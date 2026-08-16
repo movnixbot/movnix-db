@@ -10,9 +10,9 @@
     "budget": "1000000",
     "revenue": "695055",
     "status": "Released",
-    "popularity": 4.7322,
-    "voteAverage": 6.43,
-    "voteCount": 115,
+    "popularity": 8.1479,
+    "voteAverage": 6.442,
+    "voteCount": 120,
     "homepage": "https://mock-movie-website.com/movies/1370814",
     "posterPath": "/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
     "backdropPath": "/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
@@ -134,6 +134,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/ywfLX24VuOsxIXAAZ46Ecj6zi77.jpg",
       "width": 2000,
       "height": 3000,
@@ -212,6 +219,13 @@
     },
     {
       "filePath": "/opIx5RERGcPJZDri59poN80EsW8.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kz036UGB5qbqep4vCkHuYjPl07o.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -302,23 +316,9 @@
       "type": "poster"
     },
     {
-      "filePath": "/kz036UGB5qbqep4vCkHuYjPl07o.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/b3yWJzQyoXdbt7cGMXqZlOyvnJe.jpg",
       "width": 2000,
       "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg",
-      "width": 1365,
-      "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -550,8 +550,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.43,
-      "votesCount": 115
+      "ratingValue": 6.442,
+      "votesCount": 120
     },
     {
       "source": "imdb",
@@ -827,12 +827,12 @@
           "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
         },
         {
-          "name": "AMC+",
-          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+          "name": "AMC+ Roku Premium Channel",
+          "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
         },
         {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          "name": "AMC+",
+          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
         },
         {
           "name": "Sundance Now",
@@ -892,5 +892,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1370814/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1370814,
+    "hash": "e8c4014653cf7f30de6df1a9097a63e86c7bd78f6a4db1545dd39b61c9894637",
+    "summary_one_sentence": "A socially awkward pre-teen attempts to navigate the brutal social dynamics of a summer water polo camp while his worsening anxiety threatens to consume him.",
+    "summary_short": "Struggling to fit in, a socially awkward tween attends an intense summer water polo camp dominated by a ruthless social hierarchy. As the physical demands and relentless bullying escalate, his internal anxiety spirals into deep psychological turmoil. Isolated from his peers, he must find a way to survive the hostile environment before his mental health completely unravels. The film paints an agonizingly tense portrait of youth isolation and the pressures of adolescent conformity.",
+    "summary_long": "The film follows an introverted, socially awkward pre-teen who is sent away to a rigorous summer water polo camp. Hoping to build confidence and athletic skill, he instead finds himself thrown into a cutthroat environment governed by a toxic hierarchy among the campers. Day after day, the grueling physical training is compounded by relentless emotional torment and ostracization from his peers. As the oppressive summer heat mirrors the pressure mounting inside him, his anxiety quickly metastasizes into acute psychological turmoil. Unable to find an ally among the camp counselors or fellow athletes, his perception of reality begins to blur under the weight of his isolation. The relentless peer pressure and toxic masculinity surrounding him push his mental boundaries to a breaking point. Every practice in the pool becomes a battle for emotional and physical survival as he desperately tries to keep his head above water. Ultimately, the story serves as a chilling, claustrophobic exploration of adolescent vulnerability and the devastating impact of unchecked youth cruelty.",
+    "synopsis": "Set over the course of a sweltering summer, this psychological thriller follows a young tween struggling with profound social anxiety who enters a competitive water polo camp. Expecting an opportunity to grow and make friends, he is instead confronted by a harsh, unforgiving social hierarchy enforced by older, aggressive campers. As the boundary between physical exhaustion and mental unraveling begins to dissolve, the pressure cooker atmosphere of the camp pushes his emotional endurance to its absolute limits.",
+    "keywords": [
+      "social anxiety",
+      "coming of age",
+      "awkward protagonist",
+      "water polo",
+      "summer camp",
+      "psychological turmoil",
+      "bullying and harassment",
+      "social hierarchy",
+      "mental breakdown",
+      "teen angst",
+      "sports drama",
+      "isolation",
+      "peer pressure",
+      "slow burn thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Social Hierarchy & Bullying",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Youth Anxiety & Mental Health",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation & Belonging",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "During a critical high-stakes moment at the camp, his physical and mental endurance reaches an absolute breaking point, forcing a decisive confrontation with his fears.",
+      "conflict": "He struggles to navigate a ruthless camp hierarchy, triggering intense internal anxiety and a sense of profound social isolation.",
+      "resolution": "In the aftermath of the crisis, he emerges with a renewed understanding of his personal boundaries, resilience, and sense of self-worth outside the rigid social structure.",
+      "introduction": "A socially awkward tween arrives at a summer water polo camp, eager to fit in but immediately confronted by an unfamiliar and intimidating environment.",
+      "risingAction": "As high-pressure training intensifies, the dynamic among his peers grows increasingly toxic, causing his anxiety to spiral into severe psychological distress."
+    },
+    "characters": [
+      {
+        "name": "Everett",
+        "role": "Hero",
+        "description": "A socially awkward tween struggling with severe anxiety and navigating the brutal social hierarchy of water polo camp."
+      },
+      {
+        "name": "Coach",
+        "role": "Mentor",
+        "description": "The tough water polo coach who enforces discipline and drives the grueling camp hierarchy."
+      },
+      {
+        "name": "Camp Alpha",
+        "role": "Villain",
+        "description": "The ruthless head bully who asserts dominance over younger and weaker campers."
+      },
+      {
+        "name": "Camp Friend",
+        "role": "Supporting Character",
+        "description": "A fellow camper who offers brief moments of solidarity amid the chaotic environment."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Protagonist",
+        "target": "Camp Bully / Senior Player",
+        "description": "Rivals / Tormentor and Victim"
+      },
+      {
+        "source": "Protagonist",
+        "target": "Water Polo Coach",
+        "description": "Coach / Player"
+      },
+      {
+        "source": "Protagonist",
+        "target": "Sympathetic Teammate",
+        "description": "Allies / Hesitant Friends"
+      },
+      {
+        "source": "Protagonist",
+        "target": "Parents",
+        "description": "Parent / Child (Distant Support)"
+      }
+    ],
+    "seo": {
+      "slug": "the-plague",
+      "jsonLd": {
+        "name": "The Plague",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Psychological Thriller",
+          "Coming-of-Age"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer."
+      },
+      "keywords": [
+        "The Plague movie",
+        "psychological drama",
+        "water polo camp movie",
+        "coming of age drama",
+        "teen anxiety film",
+        "indie psychological movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-plague](https://movnix.com/movie/the-plague)",
+      "metaTitle": "The Plague - Summer Water Polo Camp Psychological Drama",
+      "openGraph": {
+        "og:title": "The Plague - A Psychological Summer Drama",
+        "og:description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp as his anxiety spirals into turmoil."
+      },
+      "twitterCard": {
+        "twitter:title": "The Plague | Official Movie Overview",
+        "twitter:description": "Follow a socially awkward tween navigating ruthless hierarchy and anxiety at a summer water polo camp."
+      },
+      "metaDescription": "A socially awkward tween faces psychological turmoil and ruthless hierarchy at a summer water polo camp in The Plague."
+    },
+    "faq": [
+      {
+        "answer": "The Plague is primarily a psychological drama and coming-of-age film that explores intense internal conflict, anxiety, and social dynamics.",
+        "question": "What is the dominant genre of The Plague?"
+      },
+      {
+        "answer": "The film follows a socially awkward tween who attends a summer water polo camp, where the harsh social hierarchy and intense peer pressure trigger a downward spiral of anxiety and psychological turmoil.",
+        "question": "What is the main plot of The Plague?"
+      },
+      {
+        "answer": "No, The Plague is a standalone film and is not part of any existing franchise or expanded universe.",
+        "question": "Is The Plague part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credits scene in The Plague?"
+      },
+      {
+        "answer": "The Plague is an original story, though it draws inspiration from real-life experiences of adolescent social pressure and anxiety in competitive sports environments.",
+        "question": "Is The Plague based on a true story or a novel?"
+      },
+      {
+        "answer": "The story is set primarily at an intense summer water polo training camp over the course of a single summer.",
+        "question": "Where does the story of The Plague take place?"
+      },
+      {
+        "answer": "While the main character is a tween, the film deals with heavy psychological themes, anxiety, and social hostility, making it best suited for mature teens and adult audiences.",
+        "question": "Is The Plague suitable for younger audiences?"
+      },
+      {
+        "answer": "The title serves as a metaphor for the toxic social environment, spreading paranoia, and overwhelming psychological distress the protagonist experiences among his peers.",
+        "question": "Why is the movie titled The Plague?"
+      },
+      {
+        "answer": "No, it is not a traditional horror movie, though it incorporates psychological thriller elements to convey the nightmare-like sensation of extreme social anxiety.",
+        "question": "Is The Plague a horror movie?"
+      },
+      {
+        "answer": "Key themes include youth mental health, social hierarchy, adolescent isolation, bullying, and the psychological impact of toxic athletic environments.",
+        "question": "What are the central themes of The Plague?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Atmospheric tension and disturbing psychological elements associated with spiraling anxiety and peer isolation."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity and peer-to-peer insults standard for adolescent drama."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild physical aggression or rough play typical of sports or peer conflict; no explicit gore or deadly violence."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance usage present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or romantic themes depicted."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Highly intense emotional stress, anxiety, psychological turmoil, and harsh social harassment."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 0,
+      "science": 0,
+      "suspense": 7,
+      "violence": 2
+    },
+    "created_at": "2026-08-02 09:09:16.272436",
+    "updated_at": "2026-08-02 09:09:16.272436"
+  }
 }
