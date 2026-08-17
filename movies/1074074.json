@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.4339,
-    "voteAverage": 7,
-    "voteCount": 40,
+    "popularity": 2.3712,
+    "voteAverage": 6.9,
+    "voteCount": 41,
     "homepage": "https://mock-movie-website.com/movies/1074074",
     "posterPath": "/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
     "backdropPath": "/7jdH0I7Vf3HtjFTIuoxvkjLwT4C.jpg",
@@ -43,12 +43,6 @@
       "originCountry": "ES"
     },
     {
-      "tmdbId": 239558,
-      "name": "El Ser Querido AIE",
-      "logoPath": null,
-      "originCountry": null
-    },
-    {
       "tmdbId": 5125,
       "name": "Le Pacte",
       "logoPath": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
@@ -56,7 +50,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Official Trailer [Subtitled]",
+      "key": "2I5LLG2XBco",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
@@ -171,6 +173,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/ijFU1rprFJHu40uy5s9U7rg7x6t.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/332Dbpw1qKy8Mtl47dGmxf0lPhd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7jdH0I7Vf3HtjFTIuoxvkjLwT4C.jpg",
       "width": 3840,
       "height": 2160,
@@ -251,8 +267,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 40
+      "ratingValue": 6.9,
+      "votesCount": 41
     },
     {
       "source": "crawled",
@@ -397,21 +413,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 96690,
-      "name": "Rodrigo Sorogoyen",
-      "profilePath": "/9oxHoT0vzumur7tMynr1FsSjMEs.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1303404,
       "name": "Isabel Peña",
       "profilePath": "/om1oN6wqFXBHHzqcI7BnzK3XQS.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 96690,
+      "name": "Rodrigo Sorogoyen",
+      "profilePath": "/9oxHoT0vzumur7tMynr1FsSjMEs.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
