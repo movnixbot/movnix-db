@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.8897,
-    "voteAverage": 6.7,
-    "voteCount": 30,
+    "popularity": 3.5128,
+    "voteAverage": 6.9,
+    "voteCount": 35,
     "homepage": "https://mock-movie-website.com/movies/1184941",
     "posterPath": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
     "backdropPath": "/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
@@ -213,6 +213,27 @@
       "type": "poster"
     },
     {
+      "filePath": "/bJz59YfZQDzOx9soa6eRdVLrRWQ.jpg",
+      "width": 1944,
+      "height": 2777,
+      "aspectRatio": 0.7,
+      "type": "poster"
+    },
+    {
+      "filePath": "/q32O5AvA6fLngL2IjPKkDmOGoZv.jpg",
+      "width": 683,
+      "height": 1024,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/lsA25KxL1TTOLsL3VmO8xhgsVCP.jpg",
+      "width": 898,
+      "height": 1347,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
       "width": 3840,
       "height": 2160,
@@ -344,13 +365,48 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/gNoqIy6a8URoRUWQyMZS0R45gnl.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/kz4698JHpQn8b2gLdfQcH2OSILA.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/itznqEJKgBPdNOQ0VZvg4GeQ4Tf.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/juI5gs8gPl2edeq7sokHyP0C2sq.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/u4TDoSdOAwyNVarXHIUYSQaOT4m.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.7,
-      "votesCount": 30
+      "ratingValue": 6.9,
+      "votesCount": 35
     },
     {
       "source": "rotten_tomatoes",
@@ -579,7 +635,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Criterion Channel",
+          "logo": "/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
