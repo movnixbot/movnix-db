@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 142.5789,
-    "voteAverage": 5.6,
-    "voteCount": 5,
+    "popularity": 115.4399,
+    "voteAverage": 4.19,
+    "voteCount": 171,
     "homepage": "https://mock-movie-website.com/movies/1698863",
     "posterPath": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
     "backdropPath": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
@@ -72,10 +72,31 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/h7rCR0smKMeHIDzOXN4qH4GojTh.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
       "width": 1233,
       "height": 1850,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yMZZfzXzB5EolDIP9Z6kpW0SdFi.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/o3MaisLVuMYfcxYFPzul1HkBW0q.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -89,8 +110,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.6,
-      "votesCount": 5
+      "ratingValue": 4.19,
+      "votesCount": 171
     },
     {
       "source": "crawled",
@@ -213,6 +234,11 @@
       "iso_3166_1": "AZ",
       "title": "Odisseya",
       "type": ""
+    },
+    {
+      "iso_3166_1": "TW",
+      "title": "奧德賽傳說",
+      "type": "MyVideo"
     }
   ],
   "externalIds": {
@@ -231,8 +257,8 @@
       "flatrate": [],
       "buy": [
         {
-          "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
         }
       ]
     }
