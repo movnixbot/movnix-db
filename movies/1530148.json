@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5469,
+    "popularity": 2.0766,
     "voteAverage": 5.8,
     "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1530148",
@@ -209,5 +209,248 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1530148/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1530148,
+    "hash": "b246b23fb7c36d19c6598256b192914222b290aeb4ae8e6ec7a7a1a87ecab1ec",
+    "summary_one_sentence": "Haunted by their dark past, two ex-mercenaries launch a ruthless rescue mission in a corrupt city after their younger sister is kidnapped by a ruthless cartel.",
+    "summary_short": "In a city steeped in corruption, former mercenaries Trav and Stephano strive to escape the shadows of their violent history. Their quiet existence shatters when their younger sister is abducted into the human trafficking network of a powerful cartel. Driven by blood and duty, the brothers wage an all-out war through the underworld to bring her back. However, their desperate rescue attempt leads to a devastating tragedy that alters their fate forever.",
+    "summary_long": "Trav and Stephano are two former mercenaries trying to navigate a brutal life in a deeply corrupt metropolis while carrying the heavy psychological scars of their violent past. Their tenuous peace is shattered when their younger sister is target, abducted, and forced into the harrowing network of a ruthless human trafficking cartel. Realizing that the local authorities are either paid off or powerless to intervene, the brothers decide to take justice into their own hands. Drawing on their lethal military training and old underworld connections, they execute a high-stakes, relentless hunt across the city's criminal underbelly. As they breach the cartel's strongholds, they leave a trail of destruction in a desperate bid to reach their sister in time. However, the mission takes a heartbreaking turn when they finally locate her, only for the cartel to execute her right before their eyes. Overwhelmed by grief and rage, the rescue mission transforms into an absolute bloodbath as the brothers seek brutal retribution. In the end, Trav and Stephano are left to face not only the physical aftermath of their violent assault but also the ultimate moral toll of their penance.",
+    "synopsis": "Set against the backdrop of a sprawling, corrupt metropolis, 'The Penance' follows Trav and Stephano, two former mercenaries haunted by the violent ghosts of their past operations. Hoping for redemption, their fragile lives are shattered when their younger sister is violently abducted and targeted by a powerful human trafficking cartel. Bound by blood and desperate for salvation, the brothers utilize their lethal skillset to navigate the city's dangerous underworld and launch an uncompromising rescue mission. Driven to their absolute limits, Trav and Stephano must confront powerful enemies and their own dark history in a high-octane battle for survival and justice.",
+    "keywords": [
+      "brotherhood",
+      "vigilante justice",
+      "corrupt city",
+      "ex-mercenaries",
+      "revenge plot",
+      "rescue mission gone wrong",
+      "cartel violence",
+      "human trafficking",
+      "haunted past",
+      "tragic death",
+      "family tragedy",
+      "grimdark",
+      "bloody retribution"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Guilt and Redemption",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The brothers breach the cartel's stronghold and reach their sister, but the chaotic rescue erupts into bloodshed when she is tragically murdered right before their eyes.",
+      "conflict": "Their fragile existence is shattered when their younger sister is suddenly abducted and trafficked by a powerful criminal cartel.",
+      "resolution": "In the devastating aftermath of their failure to save her, the brothers must confront the permanent toll of their violent pursuit and the grim reality of their unresolved past.",
+      "introduction": "In a corrupt city, ex-mercenaries Trav and Stephano attempt to navigate their lives while haunted by the traumatic ghosts of their violent past.",
+      "risingAction": "Driven by desperation and duty, the brothers launch a high-stakes, violent mission into the criminal underworld to track down the cartel and rescue her."
+    },
+    "characters": [
+      {
+        "name": "Trav",
+        "role": "Anti Hero",
+        "description": "An ex-mercenary haunted by his past who embarks on a violent and desperate mission to save his abducted sister."
+      },
+      {
+        "name": "Stephano",
+        "role": "Anti Hero",
+        "description": "An ex-mercenary alongside his brother Trav, driven by past trauma and personal vengeance to rescue their sister."
+      },
+      {
+        "name": "Sister",
+        "role": "Supporting Character",
+        "description": "Trav and Stephano's younger sister whose abduction by a cartel triggers the plot, serving as the tragic catalyst for their mission."
+      },
+      {
+        "name": "Cartel Leader / Syndicate",
+        "role": "Villain",
+        "description": "The corrupt trafficking organization and leaders responsible for abducting and murdering Trav and Stephano's sister."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Trav",
+        "target": "Stephano",
+        "description": "Brothers / Allies / Co-ex-mercenaries"
+      },
+      {
+        "source": "Stephano",
+        "target": "Trav",
+        "description": "Brothers / Allies / Co-ex-mercenaries"
+      },
+      {
+        "source": "Trav",
+        "target": "Younger Sister",
+        "description": "Older Brother / Protector"
+      },
+      {
+        "source": "Stephano",
+        "target": "Younger Sister",
+        "description": "Older Brother / Protector"
+      },
+      {
+        "source": "Trav",
+        "target": "Cartel",
+        "description": "Enemies / Vigilante vs. Targets"
+      },
+      {
+        "source": "Stephano",
+        "target": "Cartel",
+        "description": "Enemies / Vigilante vs. Targets"
+      },
+      {
+        "source": "Cartel",
+        "target": "Younger Sister",
+        "description": "Abductors / Traffickers / Murderers"
+      }
+    ],
+    "seo": {
+      "slug": "the-penance",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-penance](https://movnix.com/movie/the-penance)",
+        "name": "The Penance",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a corrupt city, two ex-mercenaries, Trav and Stephano, are haunted by the ghosts of their past. When their younger sister is abducted and trafficked by a cartel, the brothers launch a desperate mission to bring her home. But their rescue erupts into bloodshed when she is tragically murdered before their eyes."
+      },
+      "keywords": [
+        "The Penance movie",
+        "action thriller movie",
+        "cartel rescue film",
+        "ex-mercenaries film",
+        "vengeance action movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-penance](https://movnix.com/movie/the-penance)",
+      "metaTitle": "The Penance | Official Movie Synopsis & Plot",
+      "openGraph": {
+        "og:title": "The Penance - Desperate Rescue & Deadly Vengeance",
+        "og:description": "Two ex-mercenaries fight to rescue their abducted sister from a ruthless cartel, sparking a bloody wave of retribution."
+      },
+      "twitterCard": {
+        "twitter:title": "The Penance - Action Thriller Film",
+        "twitter:description": "Two ex-mercenaries face their darkest past when a cartel rescue turns fatal. Discover The Penance."
+      },
+      "metaDescription": "Two ex-mercenaries launch a dangerous mission to save their abducted sister from a ruthless cartel in corrupt city streets. Watch the tragic action unfold."
+    },
+    "faq": [
+      {
+        "answer": "The film follows two ex-mercenaries, Trav and Stephano, who attempt to rescue their abducted younger sister from a human trafficking cartel in a corrupt city. The mission takes a tragic turn when she is murdered in front of them, sending the brothers into a dark path of vengeance and redemption.",
+        "question": "What is the plot of The Penance?"
+      },
+      {
+        "answer": "The primary protagonists are Trav and Stephano, two former mercenaries haunted by their past actions who step back into violence to save their younger sister.",
+        "question": "Who are the main characters in the movie?"
+      },
+      {
+        "answer": "The movie is primarily a gritty Action-Thriller with strong themes of crime drama and revenge.",
+        "question": "What is the dominant genre of The Penance?"
+      },
+      {
+        "answer": "No, The Penance is an original fictional story written specifically for the screen.",
+        "question": "Is The Penance based on a true story or a book?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not connected to any existing movie franchise.",
+        "question": "Is this movie part of an existing franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credits scene in The Penance?"
+      },
+      {
+        "answer": "The movie explores themes of guilt, redemption, brotherhood, grief, and the destructive cycle of violence.",
+        "question": "What key themes are explored in the film?"
+      },
+      {
+        "answer": "The film is set in a fictionalized, highly corrupt city controlled by powerful criminal syndicates and cartels.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Due to graphic violence, heavy themes of human trafficking, strong language, and dark subject matter, the film is intended for mature audiences (Rated R).",
+        "question": "What is the age rating for The Penance?"
+      },
+      {
+        "answer": "No, the film features intense action sequences and violent tragic scenes that may be distressing to sensitive viewers.",
+        "question": "Is the film suitable for viewers sensitive to heavy violence?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, with focus remaining on realistic crime and violent drama."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity expected within gritty mercenary and crime settings."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of explicit violence, including cartel conflicts, intense bloodshed, and graphic murder."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate references to drug cartels and organized criminal enterprises."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Non-explicit thematic elements involving human trafficking, but no depicted sexual scenes."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high emotional distress driven by themes of abduction, helplessness, and traumatic grief."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-08-17 11:02:01.292378",
+    "updated_at": "2026-08-17 11:02:01.292378"
+  }
 }
