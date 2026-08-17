@@ -10,9 +10,9 @@
     "budget": "100000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 31.9245,
-    "voteAverage": 7.086,
-    "voteCount": 1800,
+    "popularity": 25.8897,
+    "voteAverage": 7.087,
+    "voteCount": 1840,
     "homepage": "https://www.netflix.com/title/81915745",
     "posterPath": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
     "backdropPath": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
@@ -271,13 +271,6 @@
       "filePath": "/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
       "width": 1621,
       "height": 2432,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",
-      "width": 2000,
-      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -786,6 +779,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/bxBZDesfbY9vGtR15W42hXPzb0Y.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/boiZW1aTSyCjPei0YRqFTbvjT5C.jpg",
       "width": 3840,
       "height": 2160,
@@ -933,13 +933,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/i9IS9IYEublHjP7LvPcUZbdxcXx.jpg",
-      "width": 1920,
-      "height": 1080,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/g9skibXUQyxIMMEzT5F9MtYf04g.jpg",
       "width": 1920,
       "height": 1080,
@@ -1048,8 +1041,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.086,
-      "votesCount": 1800
+      "ratingValue": 7.087,
+      "votesCount": 1840
     },
     {
       "source": "imdb",
@@ -1204,21 +1197,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 880,
-      "name": "Ben Affleck",
-      "profilePath": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 40223,
       "name": "Joe Carnahan",
       "profilePath": "/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 880,
+      "name": "Ben Affleck",
+      "profilePath": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
