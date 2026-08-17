@@ -10,9 +10,9 @@
     "budget": "75000000",
     "revenue": "129408392",
     "status": "Released",
-    "popularity": 16.9192,
-    "voteAverage": 7.982,
-    "voteCount": 1700,
+    "popularity": 24.6489,
+    "voteAverage": 7.979,
+    "voteCount": 1725,
     "homepage": "https://www.transformersmovie.com",
     "posterPath": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
     "backdropPath": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
@@ -2206,6 +2206,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/bjX4NOOnZS7R7c1Ggx50pCa4ZUB.jpg",
+      "width": 1646,
+      "height": 2468,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
       "width": 3840,
       "height": 2160,
@@ -3133,8 +3140,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.982,
-      "votesCount": 1700
+      "ratingValue": 7.979,
+      "votesCount": 1725
     },
     {
       "source": "imdb",
@@ -3289,18 +3296,9 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1516079,
-      "name": "Aaron Dem",
-      "profilePath": "/7e8Vtsw4m91MIbKXqwRxlvTzTqb.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 865,
       "name": "Michael Bay",
-      "profilePath": "/rkC7lei20x5xlFH4SivAXXBh6uR.jpg",
+      "profilePath": "/8I9H9IKROECFEn7usvyChbRMhbI.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -3325,18 +3323,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1360012,
-      "name": "Gabriel Ferrari",
-      "profilePath": "/rd9PnbwFMBCCD2nro6Yi9CZ9g06.jpg",
+      "tmdbPersonId": 1516079,
+      "name": "Aaron Dem",
+      "profilePath": "/7e8Vtsw4m91MIbKXqwRxlvTzTqb.jpg",
       "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
       "tmdbPersonId": 579281,
       "name": "Eric Pearson",
       "profilePath": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1360012,
+      "name": "Gabriel Ferrari",
+      "profilePath": "/rd9PnbwFMBCCD2nro6Yi9CZ9g06.jpg",
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
@@ -3517,10 +3524,6 @@
           "logo": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
         },
         {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-        },
-        {
           "name": "Paramount+ Roku Premium Channel",
           "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
         },
@@ -3571,6 +3574,12 @@
       "content": "<em>'Transformers One'</em> is pretty cool. I found it really interesting to see the origin story of how Optimus Prime and Megatron became what they became. Chris Hemsworth and Brian Tyree Henry are perfect for those aforementioned roles, Henry particularly impresses as the latter.\r\n\r\nKeegan-Michael Key, Scarlett Johansson and Jon Hamm manage to standout too, I'd say this definitely has the best performing cast of the Michael Bay-involved flicks from this series (I'm aware this is not officially part of the live-action franchise, but with Bay attached it practically is).\r\n\r\nThe animation style is terrific, there are some gorgeous visuals in there; the backdrops, specifically. The score is also noteworthy, as is the humour actually; Key, though not exclusively, is naturally at the forefront of that department. I don't have complaints with this film, evidently.",
       "rating": 8,
       "createdAt": "2025-01-24T01:29:02Z"
+    },
+    {
+      "author": "TkA",
+      "content": "**It was an excellent history of the Transformers!**\r\n\r\nI started watching the film and quickly realized it relied heavily on visual storytelling. To fully appreciate it, I slowed the playback speed to 0.5x, and I ended up watching the entire three-and-a-half-hour epic that way. This turned out to be one of the best decisions I made for my first viewing. Even at half speed, the film's quality shone through, making me feel like I regained time lost on previous disappointing films. The movie offers a rich lore about the origins of the Transformers and their history on Cybertron. It centers on the friendship between the main characters, D-16 and Orion Pax, showcasing their transformation into Megatron and Optimus Prime. \r\n\r\nI highly recommend watching this film. If you're new to the Transformers universe, it's a great starting point before diving into the cartoons and other films. For fans of the franchise, you'll appreciate how carefully this film is crafted-unlike the treatment some other franchises have received.",
+      "rating": 9,
+      "createdAt": "2026-07-30T23:27:06Z"
     }
   ],
   "streamingLinks": [
@@ -3598,5 +3607,276 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/698687/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 698687,
+    "hash": "9f11242db706a6f55d4b4193d1ecf93afdfc5192923fd810e8caa98f3f98876e",
+    "summary_one_sentence": "Before they became sworn enemies, Orion Pax and D-16 were lowly miner bots whose brotherly bond and quest to save Cybertron forever altered the fate of their world.",
+    "summary_short": "Deep within the subterranean mines of Cybertron, cogless worker bots Orion Pax and D-16 dream of a better future while serving under the revered Sentinel Prime. Driven to prove themselves, they embark on a dangerous surface journey alongside Bumblebee and Elita-1 to recover the lost Matrix of Leadership. However, discovering a shocking betrayal by their leader shatters their unity and sends them on diverging paths. As Orion chooses the way of compassion and D-16 embraces vengeful wrath, their once-unbreakable brotherhood fractures into the legendary feud between Optimus Prime and Megatron.",
+    "summary_long": "On a Cybertron suffering from an energon crisis, Orion Pax and D-16 are low-caste miner bots lacking the cogs required to transform. Eager to change his destiny, Orion sneaks into the surface archives and uncovers a secret beacon pointing to the location of the lost Matrix of Leadership. Joined by the eccentric B-127 and the pragmatic Elita-1, the pair ventures to Cybertron's long-abandoned surface to find the Matrix and save their planet. Instead of a heroic legacy, they discover the ancient Alpha Trion, who bestows them with transformation cogs and reveals a devastating truth: Sentinel Prime betrayed the original Primes and has been secretly harvesting energon for alien invaders. Armed with new abilities, the group resolves to expose the false leader, but their ideological differences quickly surface. While Orion wants to inspire the populace and reform Cybertron through unity, D-16 becomes consumed by hatred and a desire for violent retribution. Their clash culminates in a chaotic revolution in Iacon, where D-16 executes Sentinel Prime and casts Orion into Cybertron's core. Recognizing Orion's pure spirit, Primus grants him the Matrix of Leadership, resurrecting him as Optimus Prime to defeat D-16, who renames himself Megatron before being banished.",
+    "synopsis": "Transformers One offers an epic origin story set on the vibrant, metal world of Cybertron long before the Autobot and Decepticon war reached Earth. The narrative centers on Orion Pax and D-16, two low-caste worker bots without transformation cogs who spend their days mining energon to keep their planet running. Despite their strict social standing, the charismatic Orion and the rule-abiding D-16 share a deep, brotherly friendship and a shared hope for Cybertron's revival. When Orion uncovers a clue that could lead to the legendary Matrix of Leadership, he and D-16 assemble an unlikely crew to explore the forbidden surface world. Their journey uncovers dark secrets about Cybertron's ruling elite, forcing the friends to confront uncomfortable truths that test their loyalty to their society and each other. As their world teeters on the brink of revolution, the dynamic between the two bots shifts dramatically, paving the way for their iconic transformation into Optimus Prime and Megatron.",
+    "keywords": [
+      "origin story",
+      "former friends to enemies",
+      "brotherhood",
+      "alien robots",
+      "cybertron",
+      "robot revolution",
+      "tragic fallout",
+      "mecha action",
+      "sci-fi epic",
+      "world building",
+      "animated sci-fi",
+      "ideological conflict",
+      "political intrigue",
+      "destiny",
+      "iconic rivalry"
+    ],
+    "themes": [
+      {
+        "theme": "Friendship and Brotherhood",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Divergent Ideologies and Betrayal",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Destiny and Transformation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Freedom vs. Tyranny",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Epic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A fierce battle breaks out in the capital city of Iacon where the bond between the two friends fractures completely—Orion fights to protect Cybertron's future through unity, while D-16 seeks brutal retribution against their oppressor.",
+      "conflict": "While attempting to prove their worth, the pair uncovers a deeply buried betrayal by Cybertron's ruling leadership, exposing the truth behind their world's missing resources and social hierarchy.",
+      "resolution": "Orion Pax is chosen by the Matrix of Leadership to become Optimus Prime, while D-16 embraces dark ideology as Megatron, founding the Decepticons and permanently setting the former brothers on opposing sides of a planetary civil war.",
+      "introduction": "Orion Pax and D-16 are low-caste miner robots on Cybertron who lack the ability to transform, bonded like brothers as they navigate their subterranean life while dreaming of a greater purpose.",
+      "risingAction": "Venture to the planet's surface alongside allies to retrieve ancient power and gain transformation cogs; as they assemble proof of the corruption, Orion advocates for peaceful revelation while D-16 becomes increasingly consumed by revenge."
+    },
+    "characters": [
+      {
+        "name": "Orion Pax / Optimus Prime",
+        "role": "Hero",
+        "description": "An idealistic and brave mining robot who seeks to expose the truth about Cybertron and grows into the noble leader of the Autobots."
+      },
+      {
+        "name": "D-16 / Megatron",
+        "role": "Anti Hero",
+        "description": "Orion's loyal best friend whose desire for justice takes a dark, vengeance-fueled turn, transforming him into the ruthless Decepticon leader."
+      },
+      {
+        "name": "Elita-1",
+        "role": "Supporting Character",
+        "description": "A pragmatic and capable mining manager who allies with Orion Pax and D-16 to uncover the conspiracy threatening Cybertron."
+      },
+      {
+        "name": "B-127 / Bumblebee",
+        "role": "Comic Relief",
+        "description": "An enthusiastic, fast-talking robot who brings humor, energy, and loyalty to the group's mission."
+      },
+      {
+        "name": "Sentinel Prime",
+        "role": "Villain",
+        "description": "The oppressive, deceitful ruler of Cybertron who secretly betrayed the Primes to maintain control over the planet."
+      },
+      {
+        "name": "Alpha Trion",
+        "role": "Mentor",
+        "description": "An ancient, revered Prime who bestows transformation cogs and wisdom upon the young heroes to fulfill their destiny."
+      },
+      {
+        "name": "Starscream",
+        "role": "Other",
+        "description": "The proud former commander of the Cybertronian High Guard who opposes D-16 before being forced into submission."
+      },
+      {
+        "name": "Airachnid",
+        "role": "Other",
+        "description": "Sentinel Prime's spider-like enforcement officer who ruthlessly carries out his malicious commands."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Orion Pax / Optimus Prime",
+        "target": "D-16 / Megatron",
+        "description": "Best Friends and Brothers-in-arms turned Sworn Enemies / Arch-rivals"
+      },
+      {
+        "source": "Orion Pax / Optimus Prime",
+        "target": "Elita-1",
+        "description": "Mining Subordinate/Supervisor turned Trusted Allies and Co-leaders"
+      },
+      {
+        "source": "Orion Pax / Optimus Prime",
+        "target": "B-127 / Bumblebee",
+        "description": "Close Friends and Loyal Allies"
+      },
+      {
+        "source": "Orion Pax / Optimus Prime",
+        "target": "Alpha Trion",
+        "description": "Mentor / Protégé"
+      },
+      {
+        "source": "Orion Pax / Optimus Prime",
+        "target": "Sentinel Prime",
+        "description": "Subjects turned Sworn Enemies / Opponents of Treason"
+      },
+      {
+        "source": "D-16 / Megatron",
+        "target": "Sentinel Prime",
+        "description": "Former Idolizer turned Vengeful Nemesis / Executioner"
+      },
+      {
+        "source": "D-16 / Megatron",
+        "target": "Starscream",
+        "description": "Rivals turned Commander and Subordinate"
+      },
+      {
+        "source": "Elita-1",
+        "target": "B-127 / Bumblebee",
+        "description": "Comrades-in-arms and Fellow Autobot Allies"
+      },
+      {
+        "source": "Alpha Trion",
+        "target": "Sentinel Prime",
+        "description": "Former Leader / Traitor and Murderer"
+      }
+    ],
+    "seo": {
+      "slug": "transformers-one",
+      "jsonLd": {
+        "name": "Transformers One",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever."
+      },
+      "keywords": [
+        "Transformers One",
+        "Optimus Prime origin",
+        "Megatron origin",
+        "Transformers movie",
+        "Cybertron",
+        "animated movie"
+      ],
+      "canonical": "[https://movnix.com/movie/transformers-one](https://movnix.com/movie/transformers-one)",
+      "metaTitle": "Transformers One - The Untold Origin of Optimus Prime & Megatron",
+      "openGraph": {
+        "og:title": "Transformers One - The Untold Origin Story",
+        "og:description": "Before they were enemies, Optimus Prime and Megatron were brothers. Witness the origin story that changed Cybertron forever."
+      },
+      "twitterCard": {
+        "twitter:title": "Transformers One - The Untold Origin Story",
+        "twitter:description": "Before they were enemies, Optimus Prime and Megatron were brothers. Witness the origin story that changed Cybertron forever."
+      },
+      "metaDescription": "Discover the untold origin story of Optimus Prime and Megatron in Transformers One. Witness how former brothers-in-arms changed Cybertron forever."
+    },
+    "faq": [
+      {
+        "answer": "Transformers One is an animated origin story exploring the early relationship between Orion Pax and D-16, who would later become sworn enemies as Optimus Prime and Megatron. Before their conflict, they were close friends bonded like brothers who changed the fate of Cybertron forever.",
+        "question": "What is Transformers One about?"
+      },
+      {
+        "answer": "Yes, Transformers One is part of the larger Transformers franchise. It serves as an origin prequel to the overarching lore, highlighting the history of Cybertron before the Autobot and Decepticon war.",
+        "question": "Is Transformers One part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres of the film are animated science fiction, action, and adventure.",
+        "question": "What is the dominant genre of Transformers One?"
+      },
+      {
+        "answer": "Transformers One is a fully CG-animated feature film rather than a live-action movie.",
+        "question": "Is Transformers One an animated or live-action movie?"
+      },
+      {
+        "answer": "Yes, like many franchise films, Transformers One includes mid- and post-credits scenes that offer extra moments for fans and set up future story possibilities.",
+        "question": "Is there a post-credit scene in Transformers One?"
+      },
+      {
+        "answer": "The central characters are Orion Pax (Optimus Prime) and D-16 (Megatron), alongside iconic Cybertronians like Elita-1 and B-127 (Bumblebee).",
+        "question": "Who are the main characters featured in the story?"
+      },
+      {
+        "answer": "The film is set on Cybertron, the home planet of the Transformers, before its eventual devastation by civil war.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Yes, as an animated adventure, it is designed to be accessible and enjoyable for both younger audiences and long-time adult fans of the franchise.",
+        "question": "Is Transformers One suitable for family audiences?"
+      },
+      {
+        "answer": "No prior viewing is required. Because it is a standalone origin story set early in the timeline, new viewers can easily follow the plot without knowing previous films.",
+        "question": "Do you need to watch previous Transformers movies to understand Transformers One?"
+      },
+      {
+        "answer": "It is the first fully computer-animated Transformers theatrical feature film in decades, focusing entirely on Cybertron and the emotional breakdown of Optimus Prime and Megatron's friendship.",
+        "question": "What makes Transformers One unique compared to previous movies?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense sequences involving robotic monsters, dark environments, and perilous situations typical of animated action films."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild insults, crude humor, and minor sci-fi profanity appropriate for a broad family audience."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate animated sci-fi fantasy violence and action sequences featuring robot combat, explosions, and destruction, though generally stylized and without blood or gore."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use; brief references to robotic energy sources like Energon."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional weight centered around themes of betrayal, tragic breakdown of friendship, ideological conflict, and societal oppression."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 5,
+      "emotion": 7,
+      "fantasy": 2,
+      "mystery": 4,
+      "romance": 0,
+      "science": 8,
+      "suspense": 5,
+      "violence": 6
+    },
+    "created_at": "2026-08-01 05:04:02.250054",
+    "updated_at": "2026-08-01 05:04:02.250054"
+  }
 }
