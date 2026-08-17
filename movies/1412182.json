@@ -317,5 +317,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1412182/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1412182,
+    "hash": "38d708084ed57ece1ae90cf37d12deef938e8838c7df3a05b1c3c290085ffdb2",
+    "summary_one_sentence": "Out of pity and guilt, a young soldier feigns affection for a paralyzed young woman, igniting a tragic spiral of false hope and obsession.",
+    "summary_short": "A young soldier, driven by shame, pity, and a desperate search for purpose, pretends to hold romantic feelings for a wealthy, disabled woman. His deception unintentionally fuels her belief that she will one day walk again, deepening her attachment to him. As her suspicion grows and his desire to fix her turns into an unhealthy obsession, their fragile arrangement begins to unravel. Ultimately, the web of well-intentioned lies drags both of them and those around them into inescapable misfortune.",
+    "summary_long": "Seeking a sense of purpose and burdened by guilt, a young soldier crosses paths with a wealthy young woman who is paralyzed. Driven by pity rather than genuine romance, he feigns affection for her, offering comfort that quickly becomes her emotional anchor. The soldier goes so far as to encourage her belief in a miraculous recovery, promising that she will walk again. However, as time passes, the young woman begins to harbor growing distrust toward his true motives and the nature of his devotion. Simultaneously, the soldier becomes fixated on curing her condition, using it to validate his own self-worth. His noble intentions warp into a frenetic obsession that blinds him to the emotional damage he is causing. As tension builds, the false hopes and suppressed truths reach a breaking point. What began as a misdirected act of compassion escalates into a destructive spiral, entangling family members and acquaintances in the fallout. In the end, their toxic dynamic leaves a trail of heartbreak, proving that pity without honesty can be as damaging as outright cruelty.",
+    "synopsis": "Set against a backdrop of emotional fragility and rigid social expectations, 'Impatience of the Heart' explores the dangerous boundary between compassion and deceit. When a young soldier enters the life of a disabled woman, his well-meaning attempts to offer comfort quickly spiral out of control. Reluctant to break her heart, he allows her to believe he harbors genuine romantic feelings for her, while also nurturing her desperate hope of walking once more. As their bond deepens, the line between selfless pity and self-serving obsession blurs, sparking a tense psychological drama about the cost of false hope and the destructive power of misguided sympathy.",
+    "keywords": [
+      "guilt and shame",
+      "pity vs love",
+      "unrequited affection",
+      "disability",
+      "false hope",
+      "obsession",
+      "psychological spiral",
+      "emotional manipulation",
+      "young soldier",
+      "tragic romance",
+      "moral conflict",
+      "destructive secrets",
+      "misfortune"
+    ],
+    "themes": [
+      {
+        "theme": "Pity vs. Genuine Compassion",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Guilt and Shame",
+        "confidence": 0.94
+      },
+      {
+        "theme": "False Hope and Deception",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Obsession and Control",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Tragic Misfortune",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The psychological pressure reaches a boiling point when Anton faces public scrutiny from his fellow officers, prompting a desperate attempt to salvage his social standing that shatters the fragile web of lies.",
+      "conflict": "Driven by intense guilt, shame, and misguided pity, Anton attempts to make amends by visiting Edith regularly, unintentionally leading her to fall deeply in love with him and harbor false hopes of recovery.",
+      "resolution": "Anton's weak-willed compassion and reluctance to face uncomfortable truths culminate in tragic consequences for Edith's family, leaving him permanently haunted by the destructive power of misdirected pity.",
+      "introduction": "Anton Hofmiller, a young Austro-Hungarian cavalry officer stationed in a quiet garrison town, is invited to the estate of a wealthy landowner, where he accidentally offends the host's paralyzed daughter, Edith.",
+      "risingAction": "As Edith's romantic expectations intensify, Anton finds himself trapped between his unwillingness to break her heart and his fear of public humiliation; to maintain the charade, he consults her doctor and fuels her obsession with a risky, speculative cure."
+    },
+    "characters": [
+      {
+        "name": "Isaac",
+        "role": "Anti Hero",
+        "description": "A young soldier driven by pity, guilt, and a misplaced desire for purpose who feigns affection for a disabled woman, inadvertently causing a destructive spiral."
+      },
+      {
+        "name": "Edith",
+        "role": "Supporting Character",
+        "description": "A paralyzed woman who develops feelings for Isaac, but whose growing hope and rising distrust complicate their fraught relationship."
+      },
+      {
+        "name": "Ilona",
+        "role": "Supporting Character",
+        "description": "Edith's companion and cousin, who acts as an intermediary and confidante amidst the emotional tension."
+      },
+      {
+        "name": "Dr. Condor",
+        "role": "Mentor",
+        "description": "The dedicated physician treating Edith, offering wisdom and moral guidance on compassion and medical reality."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anton Hofmiller",
+        "target": "Edith von Kekesfalva",
+        "description": "False Suitor / Unrequited Love (Feigned affection out of pity, leading to tragic dependence)"
+      },
+      {
+        "source": "Lajos von Kekesfalva",
+        "target": "Edith von Kekesfalva",
+        "description": "Father / Daughter (Devoted father desperately seeking a cure for her paralysis)"
+      },
+      {
+        "source": "Dr. Condor",
+        "target": "Anton Hofmiller",
+        "description": "Mentor / Moral Compass (Attending physician who warns Anton against false pity)"
+      },
+      {
+        "source": "Ilona",
+        "target": "Edith von Kekesfalva",
+        "description": "Cousin / Companion (Caretaker and confidante living in the Kekesfalva household)"
+      },
+      {
+        "source": "Anton Hofmiller",
+        "target": "Lajos von Kekesfalva",
+        "description": "Guest / Manipulated Benefactor (Enters his social circle, giving him false hope for Edith's recovery)"
+      },
+      {
+        "source": "Dr. Condor",
+        "target": "Lajos von Kekesfalva",
+        "description": "Physician / Employer (Committed to treating Edith while trying to manage Lajos's unrealistic expectations)"
+      }
+    ],
+    "seo": {
+      "slug": "impatience-of-the-heart",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/impatience-of-the-heart](https://movnix.com/movie/impatience-of-the-heart)",
+        "name": "Impatience of the Heart",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Romance"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Out of shame, pity and a longing for purpose, a young soldier feigns feelings for a disabled woman, even fueling her hope of walking again. But her growing distrust and his obsession with curing her create a frenetic spiral that drags everyone into misfortune."
+      },
+      "keywords": [
+        "Impatience of the Heart",
+        "Impatience of the Heart movie",
+        "Impatience of the Heart synopsis",
+        "Impatience of the Heart plot",
+        "psychological drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/impatience-of-the-heart](https://movnix.com/movie/impatience-of-the-heart)",
+      "metaTitle": "Impatience of the Heart - Drama Movie Synopsis & Overview",
+      "openGraph": {
+        "og:title": "Impatience of the Heart - Official Synopsis & Details",
+        "og:description": "Out of shame and pity, a young soldier feigns affection for a disabled woman, sparking a frenetic spiral that threatens everyone involved."
+      },
+      "twitterCard": {
+        "twitter:title": "Impatience of the Heart - Movie Synopsis",
+        "twitter:description": "A soldier's feigned affection and obsession with curing a disabled woman trigger a dramatic spiral into misfortune."
+      },
+      "metaDescription": "A young soldier feigns affection for a disabled woman, sparking a turbulent obsession and spiral of misfortune. Read the full overview of Impatience of the Heart."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Impatience of the Heart is psychological drama and period romance, focusing on emotional tension, guilt, and moral dilemma.",
+        "question": "What is the dominant genre of Impatience of the Heart?"
+      },
+      {
+        "answer": "No, Impatience of the Heart is a standalone film and is not part of a franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene at the end of the movie. The story concludes before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story revolves around a young soldier who out of pity and shame feigns romantic affection for a disabled woman, inadvertently fueling her hopes of walking again and setting off a devastating emotional spiral.",
+        "question": "What is the main premise of Impatience of the Heart?"
+      },
+      {
+        "answer": "Yes, it is based on the famous 1939 novel 'Beware of Pity' (originally titled 'Ungeduld des Herzens') written by Austrian author Stefan Zweig.",
+        "question": "Is Impatience of the Heart based on a book?"
+      },
+      {
+        "answer": "The key themes include the danger of destructive pity, false compassion, social shame, moral weakness, and the consequences of dishonest emotional commitments.",
+        "question": "What are the central themes of the story?"
+      },
+      {
+        "answer": "While it depends on the specific age rating, the film generally contains mature emotional themes, intense psychological drama, and tragedy, making it best suited for adult audiences and older teens.",
+        "question": "Is this film suitable for family viewing?"
+      },
+      {
+        "answer": "The protagonist is a young officer/soldier whose well-meaning but cowardly pity leads to deceit and tragedy.",
+        "question": "Who is the protagonist of the film?"
+      },
+      {
+        "answer": "The story takes place in Europe during the early 20th century, set against the backdrop of the Austro-Hungarian Empire shortly before World War I.",
+        "question": "What period of history does the story take place in?"
+      },
+      {
+        "answer": "No, the story is a classic tragic drama where the web of deceit, obsession, and false hope eventually drags everyone involved into misfortune.",
+        "question": "Does the story have a happy ending?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "No horror elements or jumpscares; focus is entirely on realistic human drama."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or profane language indicated."
+      },
+      "violence": {
+        "score": 1,
+        "description": "No explicit physical violence described, though high underlying psychological distress is present."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance use mentioned in the overview."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes involving guilt, manipulation, psychological manipulation, deception, and tragic interpersonal outcomes."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 6,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-17 10:06:44.626681",
+    "updated_at": "2026-08-17 10:06:44.626681"
+  }
 }
