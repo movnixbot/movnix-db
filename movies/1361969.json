@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.5985,
-    "voteAverage": 6.2,
-    "voteCount": 2,
+    "popularity": 7.9149,
+    "voteAverage": 6.833,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1361969",
     "posterPath": "/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
     "backdropPath": "/mimPRWki5EOJDRw7ZH24fYnHwaX.jpg",
@@ -157,8 +157,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.2,
-      "votesCount": 2
+      "ratingValue": 6.833,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -323,5 +323,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1361969/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1361969,
+    "hash": "b565a191f39d9623b70794ddd48e4051c5905374a1c597088c3b2ff18ad40db0",
+    "summary_one_sentence": "A blind date between an insecure husband and a grieving widow spirals into chaotic danger after they mistakenly steal a killer's car containing $40,000 and a dead body.",
+    "summary_short": "Gary, a married man struggling with an inferiority complex, meets Ell, a young widow coping with grief, on a blind date. Their evening takes a disastrous turn when a mix-up leaves them in possession of a ruthless killer's car. Inside the vehicle, they discover $40,000 in cash alongside a dead body. Trapped in a wild overnight ordeal, the mismatched pair must outrun a dangerous criminal while navigating their own personal baggage.",
+    "summary_long": "Gary is a mild-mannered married man overwhelmed by self-doubt and an acute inferiority complex. Ell is a young widow struggling to navigate the grief and solitude of losing her spouse. When the two cross paths on a blind date, neither expects the evening to offer anything beyond uncomfortable small talk. However, a bizarre twist of fate leads them to inadvertently steal a vehicle belonging to a cold-blooded killer. Their surprise transforms into absolute horror when they discover $40,000 hidden in the car alongside a fresh dead body. Forced into an unlikely partnership, Gary and Ell attempt to flee the scene and decide what to do with the massive sum of money. Meanwhile, the ruthless owner of the car tracks them down, eager to retrieve his cash and eliminate any witnesses. As the night unfolds into a tense, chaotic game of cat and mouse, Gary is pushed to find an inner resilience he never knew he possessed. Simultaneously, Ell finds herself confronting her lingering grief amidst the high-stakes adrenaline of their fight for survival.",
+    "synopsis": "All Night Wrong follows Gary, an insecure married man, and Ell, a grieving young widow, who meet on an unexpected blind date. Their ordinary night rapidly devolves into a dark comedy of errors when they accidentally steal a car belonging to a dangerous killer. To their horror, the vehicle holds a stash of $40,000 in cash and a dead body in the trunk. Fleeing through the night, the unlikely duo must evade a relentless criminal while contending with their own personal flaws and emotional baggage.",
+    "keywords": [
+      "mistaken identity",
+      "blind date",
+      "stolen money",
+      "dead body in trunk",
+      "black comedy",
+      "inferiority complex",
+      "grieving widow",
+      "wrong car",
+      "hitman chase",
+      "spiral of chaos",
+      "accidental criminals",
+      "crime gone wrong",
+      "one wild night"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Self-Worth",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Grief & Coping",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Unintended Consequences",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark Comedy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Absurdist",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The escalating crisis forces Gary and Ell into a direct, high-tension confrontation with the killer and the consequences of their night.",
+      "conflict": "The date takes a dark, chaotic turn when the pair inadvertently steal a vehicle that turns out to belong to a killer.",
+      "resolution": "With the chaos brought to a head, the surviving duo must face the immediate aftermath of their wild ordeal and reckon with how the night has altered their lives.",
+      "introduction": "Gary, a married man grappling with an inferiority complex, and Ell, a young widow processing her grief, meet for an unexpected blind date.",
+      "risingAction": "Upon discovering $40,000 and a dead body hidden inside the stolen car, Gary and Ell are thrust into a high-stakes struggle to escape the owner and navigate a snowballing series of bad decisions."
+    },
+    "characters": [
+      {
+        "name": "Gary",
+        "role": "Hero",
+        "description": "A married man dealing with an inferiority complex who accidentally gets swept into a high-stakes crime situation during a blind date."
+      },
+      {
+        "name": "Ell",
+        "role": "Hero",
+        "description": "A grieving young widow who joins Gary on the chaotic date that escalates into stealing a car with a body and stolen cash."
+      },
+      {
+        "name": "The Killer",
+        "role": "Villain",
+        "description": "The owner of the stolen car, cash, and dead body, who serves as the primary threat pursuing the duo."
+      },
+      {
+        "name": "Supporting Character",
+        "role": "Supporting Character",
+        "description": "Additional characters from the cast (played by Tyler Labine, Emily Hampshire, Preston Vanderslice, or Devon Kenzo) who intersect with Gary and Ell's wild night."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Gary",
+        "target": "Ell",
+        "description": "Blind Date Partners / Reluctant Accomplices"
+      },
+      {
+        "source": "Gary",
+        "target": "Gary's Wife",
+        "description": "Husband/Wife (Estranged/Unhappy)"
+      },
+      {
+        "source": "Ell",
+        "target": "Deceased Husband",
+        "description": "Widow/Deceased Spouse"
+      },
+      {
+        "source": "Gary and Ell",
+        "target": "The Hitman",
+        "description": "Victims / Accidental Thieves & Targets"
+      },
+      {
+        "source": "The Hitman",
+        "target": "The Corpse",
+        "description": "Killer/Victim"
+      }
+    ],
+    "seo": {
+      "slug": "all-night-wrong",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/all-night-wrong](https://movnix.com/movie/all-night-wrong)",
+        "name": "All Night Wrong",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000."
+      },
+      "keywords": [
+        "All Night Wrong",
+        "All Night Wrong movie",
+        "crime thriller movie",
+        "dark comedy film",
+        "Gary and Ell movie"
+      ],
+      "canonical": "[https://movnix.com/movie/all-night-wrong](https://movnix.com/movie/all-night-wrong)",
+      "metaTitle": "All Night Wrong | Plot, Synopsis & Watch Info",
+      "openGraph": {
+        "og:title": "All Night Wrong - Official Movie Overview",
+        "og:description": "What starts as a blind date ends in chaos: Gary and Ell accidentally steal a killer's car with $40,000 and a body in the trunk."
+      },
+      "twitterCard": {
+        "twitter:title": "All Night Wrong Movie Overview",
+        "twitter:description": "A blind date, $40k in cash, and a body in the trunk. Read the synopsis for the crime thriller All Night Wrong."
+      },
+      "metaDescription": "A blind date turns chaotic when Gary and Ell steal a killer's car packed with $40,000 and a dead body. Discover the thriller All Night Wrong."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Gary, a married man with an inferiority complex, and Ell, a grieving young widow, who meet on a blind date. Things quickly derail when they accidentally steal a killer's car containing a dead body and $40,000 in cash.",
+        "question": "What is the main premise of 'All Night Wrong'?"
+      },
+      {
+        "answer": "The movie is primarily a dark comedy thriller, blending suspenseful crime elements with frantic, misadventure-driven humor.",
+        "question": "What is the dominant genre of 'All Night Wrong'?"
+      },
+      {
+        "answer": "It is based on the 2019 crime novel of the same name written by author Adam Slutsky.",
+        "question": "Is 'All Night Wrong' based on a book or an original screenplay?"
+      },
+      {
+        "answer": "No, 'All Night Wrong' is a standalone film and is not connected to any existing franchise or shared universe.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene. The story fully concludes before the credits roll.",
+        "question": "Is there a post-credits scene in 'All Night Wrong'?"
+      },
+      {
+        "answer": "The main protagonists are Gary, an insecure married man looking for a distraction, and Ell, a young woman dealing with the grief of losing her spouse.",
+        "question": "Who are the central characters in the film?"
+      },
+      {
+        "answer": "The conflict escalates when Gary and Ell steal a car, unknowingly taking possession of a hitman's stolen cash and a corpse, forcing them to stay ahead of both the police and a ruthless killer.",
+        "question": "What drives the central conflict of the story?"
+      },
+      {
+        "answer": "The film carries a mature tone featuring strong language, violent crime scenarios, and dark comedic themes, making it intended for adult audiences.",
+        "question": "What is the age rating or tone of the movie?"
+      },
+      {
+        "answer": "Yes, as suggested by the title, the primary events of the narrative unfold over the course of one chaotic night.",
+        "question": "Does the entire movie take place over one night?"
+      },
+      {
+        "answer": "The film is available on select video-on-demand (VOD) platforms and streaming services depending on your region.",
+        "question": "Where can I watch 'All Night Wrong'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild macabre elements involving crime logistics and transporting a dead body in a vehicle trunk."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity expected in a high-stakes crime and thriller situation."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violence involving a hitman's car, a murder victim's dead body, and stolen money."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate adult substance use likely present during date and high-stress scenarios."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minimal content beyond adult relationship themes and a blind date setting."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from personal grief, infidelity themes, and extreme criminal peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-16 14:04:29.724424",
+    "updated_at": "2026-08-16 14:04:29.724424"
+  }
 }
