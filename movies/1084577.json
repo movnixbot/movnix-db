@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.0126,
+    "popularity": 13.953,
     "voteAverage": 5.827,
-    "voteCount": 295,
+    "voteCount": 306,
     "homepage": "https://www.amazon.com/dp/B0GRCS8C45",
     "posterPath": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
     "backdropPath": "/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
@@ -788,7 +788,7 @@
     {
       "source": "tmdb",
       "ratingValue": 5.827,
-      "votesCount": 295
+      "votesCount": 306
     },
     {
       "source": "imdb",
@@ -1121,5 +1121,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1084577/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1084577,
+    "hash": "b343666df0878472c7bcb4254755feea725bb5ca7fcbc0a8e91ba82206fc8619",
+    "summary_one_sentence": "Two marketing executives face chaotic danger across Brazil after a drunken celebration following a wild World Cup condom sponsorship pitch triggers a global scandal.",
+    "summary_short": "When two ambitious marketing executives land a bold full-coverage condom sponsorship for the World Cup, their triumph is immediately derailed by a chaotic, alcohol-fueled night in Brazil. Their drunken antics inadvertently spark a massive international scandal, putting a target on their backs. Pursued by enraged football fans, hardened criminals, and corrupt officials, the duo must pull off a wild escape across the country to salvage their careers and make it home alive.",
+    "summary_long": "Seeking a massive career breakthrough, two ambitious marketing executives pitch an unorthodox full-coverage condom sponsorship for the World Cup. Against all odds, their daring pitch succeeds, prompting an immediate and wildly irresponsible celebration in Brazil. However, their chaotic, alcohol-soaked night spirals out of control, inadvertently setting off an explosive international scandal. Overnight, the duo transforms from corporate success stories into wanted men targeted by hostile fans, dangerous criminals, and power-hungry officials. Forced to flee through unfamiliar streets and dangerous terrain, they must navigate constant physical threats while trying to formulate a damage-control strategy. High-octane action mixes with sharp humor as the pair rely on absurd improvisation and their fragile partnership to stay one step ahead of their pursuers. As tension mounts, they face escalating hazards that test their resilience and friendship to the ultimate limit. Ultimately, their desperate journey becomes a high-stakes fight for survival as they try to reach safety and fix their lives.",
+    "synopsis": "When two audacious marketing executives pitch a revolutionary full-coverage condom sponsorship for the World Cup, they pull off the ultimate corporate gamble. But after celebrating their success with an unruly night in Brazil, an unintended international scandal erupts. Suddenly hunted by outraged fans, ruthless criminals, and corrupt officials, the executives are forced into a wild, action-packed race across Brazil to save their careers and survive.",
+    "keywords": [
+      "marketing executives",
+      "sports sponsorship",
+      "World Cup",
+      "Brazil setting",
+      "drunken mistake",
+      "global scandal",
+      "international fugitive",
+      "running for their lives",
+      "corporate satire",
+      "buddy comedy",
+      "high-stakes chase",
+      "angry mobs",
+      "corrupt officials",
+      "career survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.96
+      },
+      {
+        "theme": "Consequences of Excess",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Career Ambition",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Partnership & Loyalty",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Frantic",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Chaotic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Cornered during the chaos of the tournament, the pair must pull off one final desperate move to survive the onslaught and clear their names.",
+      "conflict": "A wild night of drunken celebration in Brazil turns into a high-profile global scandal, instantly destroying their momentum and painting massive targets on their backs.",
+      "resolution": "With the dust settling from the ordeal, they navigate the aftermath of the spectacle to salvage what remains of their careers and secure a path back home.",
+      "introduction": "Two ambitious marketing executives devise and pitch an outrageously bold, full-coverage condom sponsorship deal centered around the World Cup.",
+      "risingAction": "As the fallout escalates, the duo finds themselves hunted across the country by outraged soccer fans, ruthless criminals, and corrupt officials seeking a scapegoat."
+    },
+    "characters": [
+      {
+        "name": "Brad Lewison",
+        "role": "Hero",
+        "description": "A relentlessly enthusiastic marketing executive who spearheads the ambitious World Cup condom sponsorship pitch and leads the effort to survive the fallout."
+      },
+      {
+        "name": "Elijah",
+        "role": "Comic Relief",
+        "description": "A mercurial graphic designer whose chaotic, drunken behavior in Brazil triggers an international crisis and sends the duo on the run."
+      },
+      {
+        "name": "Pavio Curto Bündchen",
+        "role": "Villain",
+        "description": "A ruthless and eccentric local cartel boss who threatens and terrorizes the marketing duo after they ruin the match."
+      },
+      {
+        "name": "Señor Santos",
+        "role": "Supporting Character",
+        "description": "A key travel ministry official overseeing the high-stakes sponsorship negotiations for the World Cup."
+      },
+      {
+        "name": "Antonia",
+        "role": "Supporting Character",
+        "description": "A local contact who assists Brad and Elijah as they attempt to navigate dangerous territory and escape Brazil."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lead Marketing Executive A",
+        "target": "Lead Marketing Executive B",
+        "description": "Co-workers & Partners in Crime"
+      },
+      {
+        "source": "Marketing Executives",
+        "target": "World Cup Officials",
+        "description": "Adversaries & Corporate Targets"
+      },
+      {
+        "source": "Marketing Executives",
+        "target": "Brazilian Criminal Syndicate",
+        "description": "Fugitives & Lethal Threat"
+      },
+      {
+        "source": "Marketing Executives",
+        "target": "Furious World Cup Fans",
+        "description": "Targets of Mob Hostility"
+      }
+    ],
+    "seo": {
+      "slug": "balls-up",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/balls-up](https://movnix.com/movie/balls-up)",
+        "name": "Balls Up",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Action"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Two marketing executives go 'balls out' and pitch a bold full-coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive."
+      },
+      "keywords": [
+        "Balls Up movie",
+        "Balls Up plot",
+        "Balls Up summary",
+        "marketing comedy movie",
+        "World Cup scandal movie",
+        "Brazil comedy thriller",
+        "Balls Up synopsis",
+        "Balls Up cast"
+      ],
+      "canonical": "[https://movnix.com/movie/balls-up](https://movnix.com/movie/balls-up)",
+      "metaTitle": "Balls Up (2025) - Movie Overview, Plot & Details | Movnix",
+      "openGraph": {
+        "og:title": "Balls Up - Official Movie Page & Synopsis",
+        "og:description": "When a drunken World Cup sponsorship pitch in Brazil causes a massive global scandal, two marketing execs must run for their lives. Discover 'Balls Up' on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Balls Up - Official Movie Page & Synopsis",
+        "twitter:description": "When a drunken World Cup sponsorship pitch in Brazil causes a massive global scandal, two marketing execs must run for their lives. Discover 'Balls Up' on Movnix."
+      },
+      "metaDescription": "Two marketing execs trigger a global scandal with a wild World Cup pitch. Now they must survive Brazil to save their careers and lives. Read more on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "Balls Up follows two marketing executives who drunkenly pitch a full-coverage condom sponsorship with the World Cup, leading to a global scandal in Brazil. They must then evade furious fans, criminals, and officials to save their careers and get home.",
+        "question": "What is Balls Up about?"
+      },
+      {
+        "answer": "Yes, Balls Up is primarily a comedy, featuring slapstick, satire, and darkly humorous situations arising from the protagonists' misadventures.",
+        "question": "Is Balls Up a comedy?"
+      },
+      {
+        "answer": "The dominant genre is a blend of action-comedy and satire, with elements of a chase thriller.",
+        "question": "What is the dominant genre of Balls Up?"
+      },
+      {
+        "answer": "The main characters are two marketing executives whose names are not specified in the overview, but their actions drive the plot.",
+        "question": "Who are the main characters in Balls Up?"
+      },
+      {
+        "answer": "The primary setting for the unfolding scandal and chase is Brazil, specifically during the World Cup.",
+        "question": "Where does Balls Up take place?"
+      },
+      {
+        "answer": "Balls Up explores themes of corporate greed, cultural misunderstandings, the consequences of reckless behavior, and the pursuit of redemption or career salvage.",
+        "question": "What kind of themes does Balls Up explore?"
+      },
+      {
+        "answer": "No, Balls Up is a fictional story and not based on any true events.",
+        "question": "Is Balls Up based on a true story?"
+      },
+      {
+        "answer": "Based on the overview, there is no indication that Balls Up is part of an existing franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The overview does not provide information about whether Balls Up has a post-credit scene. This is typically revealed upon the film's release.",
+        "question": "Is there a post-credit scene in Balls Up?"
+      },
+      {
+        "answer": "Given the themes of drunken behavior, global scandal, and possibly suggestive content related to condoms, Balls Up would likely be rated R or an equivalent due to mature comedic situations and language.",
+        "question": "What is the age rating for Balls Up?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements present; focused on comedy and action thriller themes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Likely frequent crude humor, double entendres, and strong profanity suited for a mature comedy."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate action-driven violence involving characters fleeing from hostile groups, criminals, and angry mobs."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Features prominent heavy alcohol consumption, drunken behavior, and celebration triggering main plot events."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Explicit references to contraceptives, sexual double entendres, and suggestive adult themes without detailed explicit scenes."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate suspense and high stakes driven by comedic peril and running from threats."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 7,
+      "comedy": 9,
+      "emotion": 3,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 4
+    },
+    "created_at": "2026-07-31 02:02:19.085012",
+    "updated_at": "2026-07-31 02:02:19.085012"
+  }
 }
