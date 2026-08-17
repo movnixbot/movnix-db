@@ -257,5 +257,274 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1506560/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1506560,
+    "hash": "83d99c121c36ca77b4477d84f5b719aaf563366c62772b829e058678cff68eaa",
+    "summary_one_sentence": "When Chloe's dangerous new power threatens to tear the family apart, the Thundermans split into opposing factions and clash over her future.",
+    "summary_short": "After Chloe manifests a destructive power, the Hero League demands she be sent to a specialized boarding school. Unwilling to part with her, Phoebe, Barb, and Billy take Chloe into hiding, causing a rift within the household. Max, Hank, and Nora set out to track down the rogues, ultimately leading to an intense sibling-versus-sibling showdown.",
+    "summary_long": "Life for the Thunderman family takes a dramatic turn when youngest sibling Chloe develops a terrifying, uncontrolled superpower that poses a major threat. Fearing the dangerous potential of her abilities, the Hero League steps in and mandates that Chloe be enrolled at an elite hero boarding school, which would keep her away from home for years. Refusing to allow the family to be separated, Phoebe teams up with Barb and Billy to take Chloe off the grid and hide her from authority. However, Max, Hank, and Nora believe following Hero League protocol is the safest choice, creating a deep moral divide. As the hunting group tracks the fugitives across various locations, tensions rise and loyalties are tested. The pursuit culminates in a full-scale superpower battle between the two family factions. Ultimately, the confrontation forces everyone to reassess what being a hero—and a family—really means as they fight to secure Chloe's future on their own terms.",
+    "synopsis": "The Thundermans face their greatest internal crisis yet when young Chloe develops an uncontrollable, destructive new ability. After the Hero League orders her immediate placement in a remote superhero academy to tame her powers, the family fractures over how to handle the situation. A rescue party led by Phoebe takes Chloe into hiding, while Max leads the effort to bring them back into compliance, setting the stage for an explosive confrontation that will determine the fate of the entire family.",
+    "keywords": [
+      "superhero family",
+      "destructive superpowers",
+      "going into hiding",
+      "family split",
+      "rogue superheroes",
+      "hero league",
+      "superhero school",
+      "family civil war",
+      "power control",
+      "faction battle",
+      "protecting family",
+      "tracked down",
+      "moral conflict"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Loyalty vs. Duty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.65
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The two family factions confront one another in an intense, full-on battle to determine Chloe's fate and the future of the Thunderman family.",
+      "conflict": "The Hero League orders Chloe to an elite superhero boarding school, forcing the family to choose between following authority or keeping their young family member at home.",
+      "resolution": "The clash forces the family to resolve their internal ideological rift and find a path forward regarding Chloe's powers and their unity.",
+      "introduction": "The Thunderman family faces a new crisis when Chloe develops a destructive superpower, drawing the immediate attention and intervention of the Hero League.",
+      "risingAction": "The Thundermans split into opposing factions as Phoebe, Barb, and Billy take Chloe into hiding, while Max, Hank, and Nora hunt down their rogue relatives."
+    },
+    "characters": [
+      {
+        "name": "Phoebe Thunderman",
+        "role": "Hero",
+        "description": "Determined to protect her sister Chloe, Phoebe leads the faction that takes her into hiding to prevent her from being sent away."
+      },
+      {
+        "name": "Max Thunderman",
+        "role": "Anti Hero",
+        "description": "Driven by his duty or commitment to the Hero League's orders, Max tracks down his own rogue family, placing him in direct conflict with Phoebe."
+      },
+      {
+        "name": "Chloe Thunderman",
+        "role": "Supporting Character",
+        "description": "The catalyst for the central conflict whose new, destructive superpower and potential exile cause the Thunderman family to split."
+      },
+      {
+        "name": "Hank Thunderman",
+        "role": "Supporting Character",
+        "description": "Father of the family who sides with Max and Nora to track down the rest of the rogue family members."
+      },
+      {
+        "name": "Barb Thunderman",
+        "role": "Supporting Character",
+        "description": "Mother of the family who joins Phoebe and Billy to protect Chloe and keep her in hiding."
+      },
+      {
+        "name": "Billy Thunderman",
+        "role": "Comic Relief",
+        "description": "Goofy and quick-witted brother who joins the protective faction in hiding with Phoebe, Barb, and Chloe."
+      },
+      {
+        "name": "Nora Thunderman",
+        "role": "Supporting Character",
+        "description": "Sarcastic sister who aligns with Max and Hank in tracking down the hidden family members."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Phoebe Thunderman",
+        "target": "Chloe Thunderman",
+        "description": "Siblings / Protector"
+      },
+      {
+        "source": "Phoebe Thunderman",
+        "target": "Max Thunderman",
+        "description": "Twin Siblings / Faction Leaders / Opponents"
+      },
+      {
+        "source": "Barb Thunderman",
+        "target": "Hank Thunderman",
+        "description": "Husband/Wife / Opposing Faction Leaders"
+      },
+      {
+        "source": "Chloe Thunderman",
+        "target": "Hero League",
+        "description": "Target of Order / Authority Figure"
+      },
+      {
+        "source": "Billy Thunderman",
+        "target": "Chloe Thunderman",
+        "description": "Siblings / Protector"
+      },
+      {
+        "source": "Nora Thunderman",
+        "target": "Max Thunderman",
+        "description": "Siblings / Allies"
+      },
+      {
+        "source": "Hank Thunderman",
+        "target": "Nora Thunderman",
+        "description": "Father/Daughter / Allies"
+      },
+      {
+        "source": "Barb Thunderman",
+        "target": "Billy Thunderman",
+        "description": "Mother/Son / Allies"
+      },
+      {
+        "source": "Phoebe Thunderman",
+        "target": "Barb Thunderman",
+        "description": "Mother/Daughter / Allies"
+      },
+      {
+        "source": "Max Thunderman",
+        "target": "Hank Thunderman",
+        "description": "Father/Son / Allies"
+      }
+    ],
+    "seo": {
+      "slug": "clash-of-the-thundermans",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/clash-of-the-thundermans](https://movnix.com/movie/clash-of-the-thundermans)",
+        "name": "Clash of the Thundermans",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future."
+      },
+      "keywords": [
+        "Clash of the Thundermans",
+        "The Thundermans movie",
+        "Chloe Thunderman superpower",
+        "Thundermans battle",
+        "superhero family movie"
+      ],
+      "canonical": "[https://movnix.com/movie/clash-of-the-thundermans](https://movnix.com/movie/clash-of-the-thundermans)",
+      "metaTitle": "Clash of the Thundermans - Plot, Cast & Release Details",
+      "openGraph": {
+        "og:title": "Clash of the Thundermans - The Ultimate Family Battle",
+        "og:description": "The Thundermans split into two factions when Chloe's new power threatens to break the family apart. Read the full overview and details."
+      },
+      "twitterCard": {
+        "twitter:title": "Clash of the Thundermans - The Ultimate Family Battle",
+        "twitter:description": "The Thundermans split into two factions when Chloe's new power threatens to break the family apart. Read the full overview and details."
+      },
+      "metaDescription": "When Chloe's superpower endangers her future, the Thunderman family splits and faces off in an epic battle. Discover plot details for Clash of the Thundermans."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of The Thundermans franchise, serving as a continuation and spin-off feature following the original Nickelodeon TV series and its previous movie adaptations.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are action-comedy, superhero, and family drama.",
+        "question": "What is the dominant genre of Clash of the Thundermans?"
+      },
+      {
+        "answer": "Yes, there is a mid/post-credits scene that provides a comedic tag to the main conflict and sets up potential future adventures for the Thunderman family.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Chloe develops a new, highly destructive superpower that she cannot yet control, prompting the Hero League to mandate her enrollment at an elite superhero boarding school.",
+        "question": "Why is the Hero League trying to send Chloe away?"
+      },
+      {
+        "answer": "The family divides into two factions: Phoebe, Barb, and Billy take Chloe into hiding to keep her home, while Max, Hank, and Nora follow orders to track down their rogue family members.",
+        "question": "How does the Thunderman family split during the movie?"
+      },
+      {
+        "answer": "Yes, the core members of the Thunderman family—Phoebe, Max, Hank, Barb, Billy, Nora, and Chloe—return for this installment.",
+        "question": "Does the entire main cast from the original TV show return?"
+      },
+      {
+        "answer": "Yes, it is a family-friendly film tailored for kids, teens, and families, consistent with the tone of the original Nickelodeon show.",
+        "question": "Is Clash of the Thundermans suitable for young children?"
+      },
+      {
+        "answer": "While watching the original series gives helpful context regarding the characters' powers and dynamics, the movie provides enough background for new viewers to follow the story easily.",
+        "question": "Do I need to watch the original TV series to understand this movie?"
+      },
+      {
+        "answer": "The primary central conflict stems from the Hero League's strict enforcement of superhero protocol, which drives the internal battle between the two split factions of the Thunderman family.",
+        "question": "Who is the primary antagonist in Clash of the Thundermans?"
+      },
+      {
+        "answer": "The movie is available on Nickelodeon and streaming platforms that host Nickelodeon content, such as Paramount+.",
+        "question": "Where can I watch Clash of the Thundermans?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal fear elements, limited to mild tension from uncontrolled powers and superhero confrontation."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild family-friendly dialogue typical of young audience superhero comedy."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild, stylized superhero action and comedic family conflict without graphic imagery or gore."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional conflict involving family separation, loyalty, and standing up to authority."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 6,
+      "emotion": 7,
+      "fantasy": 6,
+      "mystery": 3,
+      "romance": 1,
+      "science": 4,
+      "suspense": 6,
+      "violence": 4
+    },
+    "created_at": "2026-08-17 17:12:52.078714",
+    "updated_at": "2026-08-17 17:12:52.078714"
+  }
 }
