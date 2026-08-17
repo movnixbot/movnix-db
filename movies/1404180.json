@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.9811,
+    "popularity": 2.5358,
     "voteAverage": 5.214,
     "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1404180",
@@ -341,5 +341,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1404180/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1404180,
+    "hash": "2a10dd60897e077064f54ab46bd8e402f3af4be46ffb391bcf461d269b372efa",
+    "summary_one_sentence": "When a Berlin emergency doctor inherits a mysterious house in Austria from her biological family, her search for the truth about her past plunges her into a psychological nightmare.",
+    "summary_short": "Judith leads a busy life working as an emergency physician in Berlin, largely disconnected from her origins. Her routine is shattered when she receives news that she has inherited a house in Austria from the biological family who abandoned her as a child. Driven by a desire to finally uncover the truth behind her adoption, she travels to the remote property to investigate her roots. However, her quest for answers quickly turns terrifying as the house reveals horrific secrets, turning her journey into a dark confrontation with her past.",
+    "summary_long": "Judith is a dedicated emergency doctor living in Berlin, but her controlled life is upended by unexpected news from Austria. She discovers that she has inherited a quiet, secluded house from the biological parents who gave her up for adoption when she was a young child. Seeking resolution to the lifelong mystery of her origins, Judith decides to travel to Austria to inspect the property and uncover the story of her birth family. Upon arrival, the quiet countryside atmosphere quickly turns oppressive, and the house itself seems steeped in unsettling history. As Judith explores the home, she encounters disturbing clues and eerie occurrences that challenge her sense of reality. Her investigation unravels uncomfortable truths about her lineage, revealing that her abandonment was tied to something far more sinister than simple circumstance. Suspicion and paranoia take hold as she realizes the locals and the property hold deep-seated secrets meant to stay hidden. The boundary between external threats and her own internal trauma begins to blur, transforming her search for answers into a nightmarish fight for sanity. Ultimately, Judith is forced to venture into the darkest places of her own soul as she confronts the horrific legacy left behind by her family.",
+    "synopsis": "Judith is an emergency doctor in Berlin whose life takes a unsettling turn when she learns she has inherited a house in Austria from the biological family who gave her away as a child. Driven to solve the mystery of her origins, Judith travels to the remote Austrian property, hoping to find closure. Instead, her search for the truth unravels a haunting sequence of events that pushes her into a deep nightmarish journey into her past and the darker corners of her soul.",
+    "keywords": [
+      "inheritance",
+      "austria",
+      "berlin",
+      "doctor protagonist",
+      "family secret",
+      "dark past",
+      "adoption",
+      "identity quest",
+      "psychological nightmare",
+      "haunted inheritance",
+      "buried secrets",
+      "origins mystery",
+      "rural dread",
+      "creepy house",
+      "repressed memories"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Origins",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Secrets & Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Trauma & The Past",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Psychological Horror",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Abandonment & Rejection",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Psychological Thriller",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Mystery",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Judith confronts the darkest revelations of her past and her own psyche at the inherited house, reaching a critical confrontation with her true origins.",
+      "conflict": "Driven to uncover the hidden truth of her origins, Judith travels to the Austrian estate, setting her quest for answers against mysterious personal legacy.",
+      "resolution": "The core mysteries surrounding Judith's roots and childhood adoption are brought to light, leaving her to process the sobering impact of the revealed past.",
+      "introduction": "Judith, an emergency doctor living in Berlin, unexpectedly inherits a house in Austria from the family who placed her up for adoption as a child.",
+      "risingAction": "As Judith digs into her birth family's past, her investigation uncovers unsettling secrets, escalating the journey into a nightmarish psychological ordeal."
+    },
+    "characters": [
+      {
+        "name": "Judith",
+        "role": "Hero",
+        "description": "An emergency doctor from Berlin whose search for her real origins and inherited past drives the plot."
+      },
+      {
+        "name": "Biological Family / Previous Caretakers",
+        "role": "Villain",
+        "description": "The family who gave Judith away, hiding dark past secrets that create a nightmarish experience for her."
+      },
+      {
+        "name": "Supporting Cast (Townspeople / Local Contacts)",
+        "role": "Supporting Character",
+        "description": "Local Austrian residents and acquaintances who aid or complicate Judith's investigation into her soul and heritage."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Judith",
+        "target": "Biological Family",
+        "description": "Estranged biological daughter / Beneficiaries"
+      }
+    ],
+    "seo": {
+      "slug": "welcome-home-baby",
+      "jsonLd": {
+        "name": "Welcome Home Baby",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Judith works as an emergency doctor in Berlin. When she inherits a house in Austria from the family who gave her away as a child, her quest to solve the mystery of her origins turns into a nightmarish journey into the past and the dark places of her soul."
+      },
+      "keywords": [
+        "Welcome Home Baby",
+        "Judith emergency doctor",
+        "Austrian drama movie",
+        "psychological mystery film",
+        "Berlin doctor inheritance"
+      ],
+      "canonical": "[https://movnix.com/movie/welcome-home-baby](https://movnix.com/movie/welcome-home-baby)",
+      "metaTitle": "Welcome Home Baby - Mystery Drama Film Overview & Details",
+      "openGraph": {
+        "og:title": "Welcome Home Baby - Psychological Mystery Drama",
+        "og:description": "When a Berlin doctor inherits a house from her birth family in Austria, her search for the truth becomes a nightmarish journey into her past."
+      },
+      "twitterCard": {
+        "twitter:title": "Welcome Home Baby - Official Movie Overview",
+        "twitter:description": "A Berlin doctor uncovers dark family secrets after inheriting an Austrian home from the parents who gave her away."
+      },
+      "metaDescription": "A Berlin doctor inherits an Austrian house from her birth family, uncovering a dark, nightmarish past. Discover the mystery of Welcome Home Baby."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Judith, an emergency doctor from Berlin, who inherits a house in Austria from her biological family. Her attempt to uncover the truth about her origins devolves into a nightmare that confronts her past and inner darkness.",
+        "question": "What is the plot of Welcome Home Baby?"
+      },
+      {
+        "answer": "The primary genre of the film is psychological thriller with strong elements of mystery and drama.",
+        "question": "What is the dominant genre of Welcome Home Baby?"
+      },
+      {
+        "answer": "No, Welcome Home Baby is a fictional story created for the screen.",
+        "question": "Is Welcome Home Baby based on a true story?"
+      },
+      {
+        "answer": "No, Welcome Home Baby is a standalone feature film and not part of an existing franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene after the film ends.",
+        "question": "Is there a post-credit scene in Welcome Home Baby?"
+      },
+      {
+        "answer": "While the main character initially lives and works in Berlin, Germany, the central story takes place in a remote inherited house in Austria.",
+        "question": "Where is the main setting of the movie?"
+      },
+      {
+        "answer": "The story revolves around Judith, an emergency room physician searching for answers about her biological roots.",
+        "question": "Who is the central character of the film?"
+      },
+      {
+        "answer": "The film heavily focuses on identity, unresolved childhood trauma, family secrets, and psychological isolation.",
+        "question": "What is the primary theme explored in the story?"
+      },
+      {
+        "answer": "Given the setting and characters, the primary language of the original production is German.",
+        "question": "What language is the original film likely spoken in?"
+      },
+      {
+        "answer": "No, due to its dark psychological themes, mystery suspense, and intense narrative elements, the film is intended for mature audiences.",
+        "question": "Is Welcome Home Baby suitable for young children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Strong psychological horror elements, eerie atmospheric tension, and a nightmarish unraveling of past secrets."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild to moderate strong language during stressful situations."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence typical of psychological thrillers, including implied danger and past trauma."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal depiction of substance use, primarily focused on medical or casual alcohol contexts."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving heavy themes of childhood abandonment, identity crisis, and psychological trauma."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-08-17 05:06:43.250257",
+    "updated_at": "2026-08-17 05:06:43.250257"
+  }
 }
