@@ -1068,5 +1068,253 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1257009/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1257009,
+    "hash": "f4e5a8603ccf3210f04c5036085c90fc4062ca6478138d1aadf62d347f41029b",
+    "summary_one_sentence": "During the Vietnam War, a military reconnaissance team sent to locate a missing platoon in an isolated valley discovers that the jungle is hunted by lethal prehistoric dinosaurs.",
+    "summary_short": "Set against the backdrop of the Vietnam War, a search-and-rescue team is dispatched deep into a remote valley to investigate the sudden disappearance of a Green Beret squad. Expecting enemy combatants, the soldiers instead encounter aggressive, highly evolved dinosaurs that have survived hidden from humanity. Cut off from reinforcements, the unit must use their combat skills and limited firepower to survive both the unforgiving jungle and prehistoric predators. The film blends historical war tension with intense creature-feature horror.",
+    "summary_long": "In the midst of the Vietnam War, a specialized reconnaissance unit named Vulture Squad is assigned a dangerous rescue mission. Their objective is to track down a missing platoon of soldiers who vanished without a trace inside an isolated and uncharted valley. Upon reaching the location, the team uncovers abandoned camps and disturbing evidence suggesting their comrades met a violent, inexplicable end. Before they can fall back, they realize they are trapped in a forgotten biosphere where ancient apex predators still thrive. Relentlessly stalked by packs of intelligent raptors and giant carnivores, the soldiers' combat training is pushed to its absolute limit. Paranoid and outmatched, internal tensions rise as the unit tries to formulate an escape strategy while suffering heavy casualties. Confronting an enemy immune to standard warfare tactics, they must rely on raw survival instincts to make it out of the valley alive. The story blends intense military action with classic survival horror elements, highlighting the chaos of human conflict colliding with primeval nature.",
+    "synopsis": "During the height of the Vietnam War, a military reconnaissance team ventures into a remote, isolated jungle valley on a mission to uncover the fate of a missing platoon. Upon arrival, the soldiers discover that the true danger is not enemy forces, but a deadly, unexpected threat: prehistoric dinosaurs surviving in an uncharted wilderness. Trapped and outnumbered, the unit is forced into a desperate fight for survival against ruthless prehistoric predators, combining war action with creature-feature horror.",
+    "keywords": [
+      "Vietnam War",
+      "dinosaur attack",
+      "dinosaurs",
+      "isolated valley",
+      "jungle survival",
+      "prehistoric creatures",
+      "reconnaissance unit",
+      "missing platoon",
+      "survival horror",
+      "military horror",
+      "creature feature",
+      "combat unit",
+      "period action",
+      "unexpected enemy",
+      "squad survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "War and Conflict",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Brotherhood and Duty",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The surviving squad members make a desperate final stand against the valley's most apex predators in a high-stakes effort to break through enemy territory and reach their extraction point.",
+      "conflict": "Upon reaching the valley, the soldiers discover that the environment harbors a threat far beyond enemy forces—they are trapped in an untamed ecosystem dominated by aggressive prehistoric dinosaurs.",
+      "resolution": "The harrowing aftermath of the mission is revealed as the survivors process the psychological and physical toll of the valley, leaving behind a suppressed horror buried in the jungle.",
+      "introduction": "In the midst of the Vietnam War, a specialized military recon unit is dispatched on a search-and-rescue mission to locate a missing platoon in an isolated valley.",
+      "risingAction": "As casualties mount and standard tactics prove ineffective against the ancient predators, the squad must navigate hostile terrain, dwindling supplies, and internal tension while fighting for survival."
+    },
+    "characters": [
+      {
+        "name": "Captain Ryan Hosea",
+        "role": "Hero",
+        "description": "The leader of the Vulture Squad recon unit who guides his men through the valley and fights to ensure their survival against the prehistoric apex predators."
+      },
+      {
+        "name": "Dr. Mae Harrison",
+        "role": "Mentor",
+        "description": "A specialist or researcher whose knowledge of the terrain and unusual environment helps the squad understand the nature of the threat they face."
+      },
+      {
+        "name": "Sergeant Miller",
+        "role": "Supporting Character",
+        "description": "A reliable, battle-tested soldier in the recon unit who supports the captain and helps hold the group together under pressure."
+      },
+      {
+        "name": "Search & Rescue Squad Members",
+        "role": "Supporting Character",
+        "description": "The rest of the highly trained Vulture Squad soldiers navigating the deadly, dinosaur-infested jungle terrain."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Capt. Walker",
+        "target": "Sgt. Miller",
+        "description": "Commanding Officer / Subordinate"
+      },
+      {
+        "source": "Capt. Walker",
+        "target": "Vulture Squad",
+        "description": "Leader / Recon Unit"
+      },
+      {
+        "source": "Sgt. Miller",
+        "target": "Private Ryan",
+        "description": "Squad Leader / Squad Member"
+      },
+      {
+        "source": "Vulture Squad",
+        "target": "Green Berets Platoon",
+        "description": "Search and Rescue Unit / Missing Platoon"
+      },
+      {
+        "source": "Vulture Squad",
+        "target": "Tyrannosaurus Rex",
+        "description": "Prey / Apex Predator"
+      },
+      {
+        "source": "Vulture Squad",
+        "target": "Deinonychus Pack",
+        "description": "Survivors / Territorial Hunters"
+      },
+      {
+        "source": "Russian Recon Unit",
+        "target": "Vulture Squad",
+        "description": "Cold War Enemies / Reluctant Allies"
+      }
+    ],
+    "seo": {
+      "slug": "primitive-war",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/primitive-war](https://movnix.com/movie/primitive-war)",
+        "name": "Primitive War",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Horror",
+          "Sci-Fi",
+          "War"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs."
+      },
+      "keywords": [
+        "Primitive War",
+        "Primitive War movie",
+        "Vietnam War dinosaurs",
+        "prehistoric horror movie",
+        "dinosaur war movie",
+        "action horror film",
+        "Primitive War synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/primitive-war](https://movnix.com/movie/primitive-war)",
+      "metaTitle": "Primitive War (2025) - Official Movie Synopsis & Overview",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/primitive-war](https://movnix.com/movie/primitive-war)",
+        "og:type": "video.movie",
+        "og:title": "Primitive War - Soldiers vs. Dinosaurs in Vietnam",
+        "og:description": "During the Vietnam War, a recon unit uncovers a horrific secret in an isolated jungle valley: bloodthirsty prehistoric dinosaurs."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Primitive War - Official Movie Overview",
+        "twitter:description": "A Vietnam War recon unit fights for survival against prehistoric dinosaurs in an isolated jungle valley."
+      },
+      "metaDescription": "A Vietnam War recon unit enters an isolated valley to find a missing platoon, only to face prehistoric dinosaurs in a battle for survival."
+    },
+    "faq": [
+      {
+        "answer": "Set during the Vietnam War, the movie follows a search-and-rescue recon unit dispatched to an isolated jungle valley to uncover the fate of a missing platoon, only to discover that the territory is hunted by living prehistoric dinosaurs.",
+        "question": "What is Primitive War about?"
+      },
+      {
+        "answer": "Yes, the movie is based on the 2017 sci-fi horror novel of the same name written by Ethan Pettus.",
+        "question": "Is Primitive War based on a book?"
+      },
+      {
+        "answer": "The film primarily blends military action, survival horror, and science fiction.",
+        "question": "What is the dominant genre of Primitive War?"
+      },
+      {
+        "answer": "It is based on the Primitive War literary franchise created by Ethan Pettus, which includes multiple expanded universe novels.",
+        "question": "Is Primitive War part of an existing franchise?"
+      },
+      {
+        "answer": "The film is designed as a mature, bloody survival horror experience featuring strong creature violence, intense action, and coarse language, targeting an R-rated audience.",
+        "question": "What is the age rating for Primitive War?"
+      },
+      {
+        "answer": "The story heavily features predatory dinosaurs such as Utahraptors and Tyrannosaurus rex, along with other dangerous prehistoric reptiles adapted to the jungle environment.",
+        "question": "Which dinosaurs appear in the movie?"
+      },
+      {
+        "answer": "Post-credit scenes vary by release, but the narrative leaves open narrative threads that connect directly to the wider book series.",
+        "question": "Is there a post-credits scene in Primitive War?"
+      },
+      {
+        "answer": "The story takes place during the Vietnam War in 1968, set deep inside an uncharted, isolated valley in the jungle along the Cambodian border.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The story centers on a specialized military reconnaissance unit code-named Vulture Squad, sent in on a dangerous covert recovery mission.",
+        "question": "Who are the primary human protagonists in the story?"
+      },
+      {
+        "answer": "Unlike family-friendly adventure films, Primitive War treats dinosaurs as apex predators in a gritty, violent historical war setting, emphasizing graphic survival horror over science-fiction wonder.",
+        "question": "How does Primitive War differ from traditional dinosaur movies like Jurassic Park?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High tension and creature-horror elements, including claustrophobic stalk-and-kill sequences, gruesome gore, and jump scares."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong profanity appropriate to a military conflict setting, including coarse expletives and aggressive slurs."
+      },
+      "violence": {
+        "score": 9,
+        "description": "Graphic war violence paired with visceral dinosaur attacks, featuring dismemberment, severe blood, and lethal injuries."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Depictions of soldiers smoking cigarettes and casual alcohol use in a wartime setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Relentless peril, traumatic losses of squad mates, psychological stress, and high-stakes survival atmosphere."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 0,
+      "science": 6,
+      "suspense": 9,
+      "violence": 9
+    },
+    "created_at": "2026-08-17 07:03:05.359351",
+    "updated_at": "2026-08-17 07:03:05.359351"
+  }
 }
