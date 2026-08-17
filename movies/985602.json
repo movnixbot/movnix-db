@@ -576,5 +576,239 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/985602/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 985602,
+    "hash": "e097b364b3be30ecd9d1c400d9c196fa3b6cd4c8fc68209531d1339b3e2f63b5",
+    "summary_one_sentence": "Three sisters gather at their family home for their twice-widowed mother's third wedding, forcing the family to confront unresolved past secrets and navigate an unpredictable future.",
+    "summary_short": "Three sisters return to their childhood home to celebrate the third marriage of their twice-widowed mother. As the wedding weekend unfolds, long-buried family dynamics and hidden grievances surface among the siblings. Guided by an eccentric group of unexpected wedding guests, the women must come to terms with their shared past. Ultimately, they are forced to re-evaluate their relationships with one another and face what lies ahead.",
+    "summary_long": "My Mother's Wedding follows three distinct sisters who reunite at their ancestral home to attend the third wedding of their resilient, twice-widowed mother. Having grown apart over the years due to personal choices and lingering resentment, the sisters find the reunion emotionally charged from the moment they arrive. Nostalgia quickly gives way to tension as old family patterns resurface amidst the bustling wedding preparations. The atmosphere grows increasingly lively and chaotic with the arrival of a colorful, unexpected group of wedding guests who inadvertently act as catalysts for truth. Forced into close quarters, the sisters begin addressing long-standing misunderstandings about their pasts and the losses their family endured. Meanwhile, their mother navigates her own mixed emotions about stepping into love for a third time. Through tearful arguments, humorous misadventures, and heart-to-heart moments, the women begin to dismantle the walls they built against each other. By the time the vows are exchanged, the family learns that moving forward requires accepting both the pain and joy of their shared history.",
+    "synopsis": "My Mother's Wedding is a poignant comedy-drama that centers on the intricate dynamics of sisterhood and the lasting impact of family history. When three estranged sisters travel back to their childhood residence for their twice-widowed mother's third trip down the aisle, what should be a straightforward celebration becomes an emotional reckoning. Each daughter brings her own baggage, unresolved grief, and personal crossroads to the event, setting the stage for quiet clashes and humorous misunderstandings. The weekend takes an unpredictable turn with the arrival of several eccentric, uninvited wedding guests whose presence disrupts carefully guarded secrets and pushes the family to speak candidly. Balancing humor with heartfelt drama, the film offers a warm exploration of maternal love, sibling bonds, and the courage it takes to reconcile with the past while embracing new beginnings.",
+    "keywords": [
+      "mother daughter relationship",
+      "sisterly bond",
+      "family reunion",
+      "wedding drama",
+      "confronting the past",
+      "grief and healing",
+      "twice widowed",
+      "unexpected guests",
+      "family secrets",
+      "intergenerational tension",
+      "bittersweet comedy",
+      "revisiting childhood home",
+      "reconciliation"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Reconciliation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Love and Remarriage",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "A central confrontation or critical emotional turning point occurs during the wedding events, forcing the family to directly address their shared history and personal struggles.",
+      "conflict": "Long-buried secrets, unresolved grief, and contrasting personal lives surface among the mother and daughters, creating emotional friction and tension ahead of the ceremony.",
+      "resolution": "The mother and daughters reach a mutual understanding, accepting their past while forging a paths forward with renewed familial bonds as the wedding festivities conclude.",
+      "introduction": "Three sisters travel back to their childhood home to attend their mother's third marriage following two previous losses, re-establishing family dynamics and setting up the complex history surrounding the home.",
+      "risingAction": "The arrival of an eclectic group of wedding guests exacerbates family tensions, forcing each family member to confront painful past memories and uncertain future directions."
+    },
+    "characters": [
+      {
+        "name": "Katherine",
+        "role": "Supporting Character",
+        "description": "The mother entering her third marriage, forcing her daughters to face unresolved family history."
+      },
+      {
+        "name": "Katherine's Eldest Daughter (Played by Scarlett Johansson)",
+        "role": "Hero",
+        "description": "One of the three central sisters who returns home and must confront past trauma and personal truths."
+      },
+      {
+        "name": "Katherine's Middle Daughter (Played by Sienna Miller)",
+        "role": "Hero",
+        "description": "One of the core sisters navigating complex family dynamics and personal relationships during the wedding weekend."
+      },
+      {
+        "name": "Katherine's Youngest Daughter (Played by Emily Beecham)",
+        "role": "Hero",
+        "description": "The youngest sister returning home, working through shared family history alongside her sisters."
+      },
+      {
+        "name": "Unexpected Wedding Guests (Played by Samson Kayo, Sindhu Vee, Joshua McGuire)",
+        "role": "Comic Relief",
+        "description": "Colorful and unexpected guests who bring humor, lightheartedness, and unique perspectives to the family drama."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Diana Frost",
+        "target": "Georgina Frost",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Diana Frost",
+        "target": "Victoria Frost",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Diana Frost",
+        "target": "Katherine Frost",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Georgina Frost",
+        "target": "Victoria Frost",
+        "description": "Sisters"
+      },
+      {
+        "source": "Georgina Frost",
+        "target": "Katherine Frost",
+        "description": "Sisters"
+      },
+      {
+        "source": "Victoria Frost",
+        "target": "Katherine Frost",
+        "description": "Sisters"
+      }
+    ],
+    "seo": {
+      "slug": "my-mothers-wedding",
+      "jsonLd": {
+        "name": "My Mother's Wedding",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests."
+      },
+      "keywords": [
+        "My Mother's Wedding",
+        "My Mother's Wedding movie",
+        "My Mother's Wedding synopsis",
+        "family drama film",
+        "wedding drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/my-mothers-wedding](https://movnix.com/movie/my-mothers-wedding)",
+      "metaTitle": "My Mother's Wedding | Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "My Mother's Wedding | Official Movie Synopsis",
+        "og:description": "Three sisters reunite for their mother's third wedding, unraveling family secrets and confronting the future alongside a colorful group of unexpected guests."
+      },
+      "twitterCard": {
+        "twitter:title": "My Mother's Wedding | Official Movie Synopsis",
+        "twitter:description": "Three sisters reunite for their mother's third wedding, unraveling family secrets and confronting the future alongside a colorful group of unexpected guests."
+      },
+      "metaDescription": "Three sisters return home for their twice-widowed mother's third wedding, confronting past secrets alongside unexpected guests in My Mother's Wedding."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is a family drama with elements of comedy, often categorized as a dramatic comedy or dramedy.",
+        "question": "What is the dominant genre of \"My Mother's Wedding\"?"
+      },
+      {
+        "answer": "No, \"My Mother's Wedding\" is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story fully concludes before the final credits begin to roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film follows three adult sisters who return to their childhood home for the third wedding of their twice-widowed mother, leading to emotional confrontations about their shared history and individual futures.",
+        "question": "What is the main premise of the movie?"
+      },
+      {
+        "answer": "The core characters are the twice-widowed mother, her three daughters, and a colorful group of unexpected wedding guests who disrupt and enrich the family dynamic.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "Key themes include sisterhood, complex maternal relationships, processing grief, letting go of the past, and the emotional chaos of family reunions.",
+        "question": "What are the main themes explored in the film?"
+      },
+      {
+        "answer": "No, the movie features an original fictional screenplay that explores the universally relatable dynamics of a complicated family gathering.",
+        "question": "Is the movie based on a true story or a book?"
+      },
+      {
+        "answer": "Due to its focus on mature themes, family dysfunction, and complex emotional history, the narrative is primarily geared toward adult and mature teenage audiences.",
+        "question": "Is \"My Mother's Wedding\" suitable for young children?"
+      },
+      {
+        "answer": "The majority of the story takes place at the family's home, which serves as both the venue for the upcoming wedding and a nostalgic backdrop that forces the sisters to revisit their childhood memories.",
+        "question": "Where does the majority of the film take place?"
+      },
+      {
+        "answer": "The unexpected guests act as emotional catalysts, pushing the mother and daughters out of their comfort zones and helping them gain new perspectives on their past and future.",
+        "question": "How do the unexpected wedding guests impact the family?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No scary, horror, or jump-scare elements present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate profanity typical of family dramas."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or graphic action elements."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual consumption of alcohol at a wedding event."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Brief, mild romantic or suggestive dialogue without explicit content."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional themes involving family loss, grief, and unresolved past conflicts."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 5,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 6,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-08-17 18:04:21.544777",
+    "updated_at": "2026-08-17 18:04:21.544777"
+  }
 }
