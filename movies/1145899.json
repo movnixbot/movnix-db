@@ -10,9 +10,9 @@
     "budget": "33555600",
     "revenue": null,
     "status": "Released",
-    "popularity": 7.2499,
-    "voteAverage": 6.4,
-    "voteCount": 143,
+    "popularity": 7.9634,
+    "voteAverage": 6.346,
+    "voteCount": 153,
     "homepage": "https://www.pathefilms.com/en/movies/marsupilami/",
     "posterPath": "/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
     "backdropPath": "/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
@@ -98,16 +98,16 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/9WUCu1ad5ZW76Rly6KvcFnKqEMw.jpg",
-      "width": 2000,
-      "height": 3000,
+      "filePath": "/hF5VgaXNbkqDauNX9Rc9kMWC4JB.jpg",
+      "width": 800,
+      "height": 1200,
       "aspectRatio": 0.667,
       "type": "poster"
     },
     {
-      "filePath": "/hF5VgaXNbkqDauNX9Rc9kMWC4JB.jpg",
-      "width": 800,
-      "height": 1200,
+      "filePath": "/9eoCFJG7A8EQULLOwdaOPyuKPtF.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -148,6 +148,13 @@
     },
     {
       "filePath": "/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9WUCu1ad5ZW76Rly6KvcFnKqEMw.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -273,13 +280,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/9eoCFJG7A8EQULLOwdaOPyuKPtF.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/n5ZSPYO6r0xWnIdNGUGvK0GB6SY.jpg",
       "width": 2000,
       "height": 3000,
@@ -396,6 +396,27 @@
       "width": 1365,
       "height": 2048,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/JMI6nAzg4ceFVJjQXNj1hxbpjq.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/inYi87aRpfPqcwbBkhouzIWiy6L.jpg",
+      "width": 1364,
+      "height": 2048,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oFGmIGSOuXWYkXJbcq4CXKR3RMy.jpg",
+      "width": 1436,
+      "height": 2048,
+      "aspectRatio": 0.701,
       "type": "poster"
     },
     {
@@ -535,8 +556,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.4,
-      "votesCount": 143
+      "ratingValue": 6.346,
+      "votesCount": 153
     },
     {
       "source": "imdb",
@@ -690,8 +711,17 @@
       "name": "Philippe Lacheau",
       "profilePath": "/2ev0Ip2vNnC5UYe10gJNcApahZ4.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1306310,
+      "name": "Pierre Lacheau",
+      "profilePath": "/woP2B09y5DaEwopTfvFtyyt17vS.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -708,17 +738,8 @@
       "name": "Philippe Lacheau",
       "profilePath": "/2ev0Ip2vNnC5UYe10gJNcApahZ4.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1306310,
-      "name": "Pierre Lacheau",
-      "profilePath": "/woP2B09y5DaEwopTfvFtyyt17vS.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -795,5 +816,265 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1145899/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1145899,
+    "hash": "ff5f35e96f6456c1d38d12f83ffae9163f912ad1217577325d24f1d09eaba5b3",
+    "summary_one_sentence": "To save his job at the zoo, David agrees to transport a mysterious package from South America, only to discover he is carrying a chaotic baby Marsupilami.",
+    "summary_short": "Desperate to save his job at the zoo, David agrees to bring a mysterious package back from South America. To avoid getting caught, he secretly uses his naive colleague Stéphane to carry the luggage on a family cruise with his ex-girlfriend and son. Chaos ensues when Stéphane accidentally opens the package and unleashes an energetic, rare baby Marsupilami on board. As the trip spirals out of control, David must protect the creature while reconnecting with his family.",
+    "summary_long": "Faced with losing his job at the local zoo, David agrees to a risky, covert mission to transport an unknown package out of South America. Seeking a discreet way to move the cargo, he sets off on a cruise alongside his ex-partner Tess, their young son Leo, and his well-meaning but incredibly clumsy coworker Stéphane. David secretly tricks Stéphane into carrying the mysterious package so he can avoid suspicion. However, the plan instantly derails when Stéphane accidentally opens the container, releasing an extraordinarily rare and mischievous baby Marsupilami. The exotic creature creates non-stop mayhem across the cruise ship, turning what was supposed to be a covert delivery into a wild adventure. As David scrambles to recapture the hyperactive animal before authorities or dangerous collectors catch wind, he is forced to work with Stéphane and his family. Throughout the hilarious and chaotic ordeal, David learns what truly matters, ultimately rediscovering his devotion to his family while striving to keep the legendary creature safe.",
+    "synopsis": "When a zoo worker named David faces losing his livelihood, he accepts a suspicious offer to retrieve and smuggle a package from South America. Hoping to blend in, he books a cruise with his ex-girlfriend Tess, their son Leo, and his bumbling colleague Stéphane, whom David uses as an unwitting accomplice to carry the shipment. The trip takes an unpredictable turn when Stéphane accidentally opens the crate, revealing a mythical, highly prized baby Marsupilami. As the vibrant creature unleashes wildly funny chaos aboard the ship, David and his companions must navigate comical mishaps and protect the rare animal while rediscovering the strength of their family bonds.",
+    "keywords": [
+      "South America",
+      "mysterious package",
+      "accidental guardian",
+      "exotic animal",
+      "mythical creature",
+      "jungle adventure",
+      "deliveries gone wrong",
+      "cute creature",
+      "unusual companion",
+      "family-friendly",
+      "road trip",
+      "animal rescue",
+      "slapstick comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Unexpected Responsibility",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Wildlife Protection",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Adventure & Discovery",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Unlikely Friendship",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes showdown occurs where David must risk everything to ensure the safety of the baby Marsupilami and outsmart those seeking to capture it.",
+      "conflict": "The true nature of the cargo is revealed when David discovers he is actually caring for an exotic baby Marsupilami, throwing his original plans into complete chaos.",
+      "resolution": "With the immediate danger resolved, David secures a safe future for the Marsupilami and reflects on how the unexpected journey changed his perspective.",
+      "introduction": "David accepts what seems to be a routine assignment to transport a package from South America to its destination.",
+      "risingAction": "As David navigates the challenges of protecting and hiding the energetic creature, unpredictable mishaps and interested third parties complicate his journey."
+    },
+    "characters": [
+      {
+        "name": "David Ticoule",
+        "role": "Hero",
+        "description": "A well-meaning zoo employee who embarks on a chaotic journey to transport a package, ultimately striving to protect the baby Marsupilami and reconnect with his family."
+      },
+      {
+        "name": "Baby Marsupilami",
+        "role": "Other",
+        "description": "An adorable, highly valuable mythical creature with an extraordinarily long tail whose hatching sparks the film's wild adventure."
+      },
+      {
+        "name": "Pablito Camaron",
+        "role": "Mentor",
+        "description": "An eco-conscious animal advocate who guides and assists David in protecting the creature and returning it to its natural habitat."
+      },
+      {
+        "name": "Jeffrey Malone",
+        "role": "Villain",
+        "description": "David's ruthless boss who sends him on the risky retrieval mission for his own greedy motives."
+      },
+      {
+        "name": "Stéphane Buisson",
+        "role": "Comic Relief",
+        "description": "David's bumbling and clumsy colleague who unwittingly carries the mysterious package and causes continuous slapstick mishaps."
+      },
+      {
+        "name": "Tess",
+        "role": "Supporting Character",
+        "description": "David's ex-partner who joins the cruise journey and serves as a key emotional anchor throughout the family's ordeal."
+      },
+      {
+        "name": "Ricky Salsa",
+        "role": "Comic Relief",
+        "description": "A washed-up former boy band singer who adds absurd humor and unpredictable antics to the group's journey."
+      },
+      {
+        "name": "Léo Ticoule",
+        "role": "Supporting Character",
+        "description": "David and Tess's young son who forms an immediate, heartwarming bond with the baby Marsupilami."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "David",
+        "target": "Baby Marsupilami",
+        "description": "Caretaker / Protector"
+      },
+      {
+        "source": "David",
+        "target": "Tess",
+        "description": "Ex-Partners / Co-Parents"
+      },
+      {
+        "source": "David",
+        "target": "Leo",
+        "description": "Father / Son"
+      },
+      {
+        "source": "David",
+        "target": "Stéphane",
+        "description": "Colleagues"
+      },
+      {
+        "source": "Tess",
+        "target": "Leo",
+        "description": "Mother / Son"
+      },
+      {
+        "source": "Stéphane",
+        "target": "Baby Marsupilami",
+        "description": "Accidental Liberator / Companion"
+      },
+      {
+        "source": "Leo",
+        "target": "Baby Marsupilami",
+        "description": "Playmates / Friends"
+      },
+      {
+        "source": "Pablito",
+        "target": "Baby Marsupilami",
+        "description": "Protector / Conservationist"
+      }
+    ],
+    "seo": {
+      "slug": "marsupilami",
+      "jsonLd": {
+        "name": "Marsupilami",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!"
+      },
+      "keywords": [
+        "Marsupilami",
+        "Marsupilami movie",
+        "baby Marsupilami",
+        "David Marsupilami",
+        "family movie",
+        "adventure film"
+      ],
+      "canonical": "[https://movnix.com/movie/marsupilami](https://movnix.com/movie/marsupilami)",
+      "metaTitle": "Marsupilami - Synopsis, Details & Movie Info",
+      "openGraph": {
+        "og:title": "Marsupilami - Watch Movie Details & Synopsis",
+        "og:description": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!"
+      },
+      "twitterCard": {
+        "twitter:title": "Marsupilami - Movie Overview",
+        "twitter:description": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!"
+      },
+      "metaDescription": "David's mysterious package delivery turns wild when he discovers he's carrying a baby Marsupilami! Learn more about the movie."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Marsupilami is part of a broader multimedia franchise based on the famous Franco-Belgian comic character created by André Franquin in 1952, which includes comic albums, animated TV shows, video games, and film adaptations.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film's primary genres are family adventure and slapstick comedy, delivered through a hybrid of live-action filmmaking and CGI animation.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "To save his job at the zoo, David agrees to transport a mysterious package from South America on a cruise ship, only to discover it contains a mischievous baby Marsupilami that escapes and causes chaos.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "David is portrayed by French actor and filmmaker Philippe Lacheau, who also directed and co-wrote the film.",
+        "question": "Who plays the main lead, David?"
+      },
+      {
+        "answer": "The movie was directed by Philippe Lacheau, a prominent French comedic actor and director known for films like Babysitting and City Hunter.",
+        "question": "Who directed the film?"
+      },
+      {
+        "answer": "Yes, it is based on the popular Franco-Belgian comic book character Marsupilami, created by André Franquin for the Spirou & Fantasio series in 1952.",
+        "question": "Is the movie based on a book or comic series?"
+      },
+      {
+        "answer": "The movie is a live-action CGI hybrid, featuring real actors alongside a computer-generated baby Marsupilami.",
+        "question": "Is Marsupilami live-action or animated?"
+      },
+      {
+        "answer": "Yes, sticking to the signature style of Philippe Lacheau's films, the movie features extra comedic scenes, outtakes, and bloopers throughout and after the end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The movie is a family-friendly comedy intended for all ages, appealing to children and nostalgic fans of the original comics alike.",
+        "question": "What target audience is the film intended for?"
+      },
+      {
+        "answer": "While the mysterious package originates in South America, much of the adventure takes place aboard a cruise ship traveling with David, his ex, their son, and his colleague.",
+        "question": "Where does the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no scary elements; mild suspense during chase or adventure scenes."
+      },
+      "language": {
+        "score": 1,
+        "description": "Very mild language or comedic exclamations suitable for all audiences."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild slapstick and cartoonish action typical of family-oriented adventure stories."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or tobacco use or references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Lighthearted tone with mild emotional moments surrounding caring for a baby creature."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 6,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 7,
+      "mystery": 5,
+      "romance": 2,
+      "science": 3,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-07-28 22:19:57.606701",
+    "updated_at": "2026-07-28 22:19:57.606701"
+  }
 }

@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1315,
-    "voteAverage": 9,
-    "voteCount": 1,
+    "popularity": 3.0912,
+    "voteAverage": 8.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1058588",
     "posterPath": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
     "backdropPath": "/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
@@ -115,8 +115,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 9,
-      "votesCount": 1
+      "ratingValue": 8.5,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -328,5 +328,262 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1058588/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1058588,
+    "hash": "11b0dc409b72b2398c9258ef975d606b7a5335c9a6be2797904e1df9345af898",
+    "summary_one_sentence": "A successful businessman accused of murdering his lover works with a relentless defense attorney to uncover the truth during a high-stakes three-hour interrogation.",
+    "summary_short": "After waking up in a locked hotel room next to the body of his lover, Adrián Doria hires prestigious witness preparation expert Virginia Goodman to build his defense. With a surprise prosecution witness set to testify in three hours, they must dissect the timeline of events leading up to the murder. As Goodman pushes for absolute honesty, Adrián recounts a web of blackmail, car crashes, and cover-ups that complicate his narrative. However, as discrepancies emerge, the line between victim and perpetrator blurs completely.",
+    "summary_long": "Entrepreneur Adrián Doria finds himself under home arrest for the murder of his mistress, Laura Vidal, after being found in a locked hotel room with her corpse and a briefcase of money. Facing imminent trial, his legal team hires veteran prep attorney Virginia Goodman for a final, intense three-hour meeting before a surprise state witness testifies. Adrián initially claims they were lured to the remote hotel by an anonymous blackmailer who killed Laura and knocked him unconscious. Goodman remains skeptical, pointing out logical flaws in his story and forcing him to confess to a prior hit-and-run accident that destroyed a young man's life. According to Adrián, Laura forced him to hide the victim's body in a trunk and sink the vehicle in a lake to protect their secrets. As Goodman presents alternative theories of the crime, including the possibility that the victim's grieving parents framed him, the interrogation grows increasingly hostile. Goodman continuously pushes Adrián to reveal deeper secrets, exposing his cold-hearted opportunism and refusal to take responsibility. Ultimately, a final twist reveals that Goodman's identity is not what it seems, completely dismantling Adrián's defense in the closing moments.",
+    "synopsis": "The Invisible Guest is a suspenseful spanish mystery thriller centered around Adrián Doria, a wealthy entrepreneur whose ideal life unravels when he is trapped in a locked hotel room with the dead body of his lover. With only a few hours to prepare before a critical court deadline, he must work alongside a famed legal consultant to piece together a coherent defense. Through a series of shifting testimonies, intense questioning, and intricate flashbacks, the story unravels a complex web of deception, guilt, and vengeance where nothing is as it appears.",
+    "keywords": [
+      "locked room mystery",
+      "race against time",
+      "unreliable narrator",
+      "frame job",
+      "twisted truth",
+      "cover up",
+      "lawyer client dynamic",
+      "murder accusation",
+      "cat and mouse game",
+      "flashback narrative",
+      "plot twists",
+      "extramarital affair",
+      "moral ambiguity",
+      "psychological tension"
+    ],
+    "themes": [
+      {
+        "theme": "Deception and Truth",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Guilt and Cover-up",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Justice vs. Corruption",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Family Devotion and Revenge",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "As the deadline approaches, Virginia pushes Adrián to reveal the final, unvarnished truth regarding the night of the accident and the mysterious orchestrator behind the hotel room trap.",
+      "conflict": "Facing an imminent murder charge, Adrián hires elite defense attorney Virginia Goodman, who insists on complete transparency during a high-stakes, three-hour interview to prepare their legal defense.",
+      "resolution": "A shocking revelation exposes the true identities and motives of those involved, reframing the entire timeline and bringing justice to light.",
+      "introduction": "Successful entrepreneur Adrián Doria wakes up in a locked hotel room next to the corpse of his lover, Laura, with no apparent way out for anyone else.",
+      "risingAction": "Through a series of intense interrogations and shifting flashbacks, the narrative unravels a dark secret involving a previous fatal car accident, a missing young man, and a desperate cover-up."
+    },
+    "characters": [
+      {
+        "name": "Adrian (Reza Rahadian)",
+        "role": "Anti Hero",
+        "description": "A successful businessman accused of murder who desperately tries to prove his innocence while hiding darker secrets."
+      },
+      {
+        "name": "Virginia Goodman (Putri Ayudya)",
+        "role": "Mentor",
+        "description": "A sharp, expert defense lawyer who pushes the protagonist to reveal the whole truth before trial."
+      },
+      {
+        "name": "Laura Vidal (Mawar de Jongh)",
+        "role": "Supporting Character",
+        "description": "The protagonist's lover whose mysterious murder in a locked room drives the central narrative."
+      },
+      {
+        "name": "Felix (Arifin Putra)",
+        "role": "Supporting Character",
+        "description": "The protagonist's lawyer and trusted advisor assisting with legal strategies."
+      },
+      {
+        "name": "Tomás Garrido (Willem Bevers)",
+        "role": "Villain",
+        "description": "The grieving father seeking justice and truth behind the disappearance of his son."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Adrián Doria",
+        "target": "Laura Vidal",
+        "description": "Lovers / Extramarital Affair"
+      },
+      {
+        "source": "Adrián Doria",
+        "target": "Virginia Goodman",
+        "description": "Client / Defense Attorney"
+      },
+      {
+        "source": "Adrián Doria",
+        "target": "Sonia Doria",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Adrián Doria",
+        "target": "Daniel Garrido",
+        "description": "Accidental Killer / Hit-and-Run Victim"
+      },
+      {
+        "source": "Adrián Doria",
+        "target": "Tomás Garrido",
+        "description": "Adversaries / Victim's Father"
+      },
+      {
+        "source": "Laura Vidal",
+        "target": "Daniel Garrido",
+        "description": "Accomplice / Hit-and-Run Victim"
+      },
+      {
+        "source": "Tomás Garrido",
+        "target": "Elvira Garrido",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Tomás Garrido",
+        "target": "Daniel Garrido",
+        "description": "Father / Son"
+      },
+      {
+        "source": "Elvira Garrido",
+        "target": "Daniel Garrido",
+        "description": "Mother / Son"
+      },
+      {
+        "source": "Elvira Garrido",
+        "target": "Adrián Doria",
+        "description": "Imposter (disguised as Virginia Goodman) / Target"
+      },
+      {
+        "source": "Félix Leiva",
+        "target": "Adrián Doria",
+        "description": "Legal Advisor / Client"
+      }
+    ],
+    "seo": {
+      "slug": "the-invisible-guest",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-invisible-guest](https://movnix.com/movie/the-invisible-guest)",
+        "name": "The Invisible Guest",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened."
+      },
+      "keywords": [
+        "The Invisible Guest",
+        "Contratiempo",
+        "The Invisible Guest movie",
+        "thriller movies",
+        "Spanish mystery film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-invisible-guest](https://movnix.com/movie/the-invisible-guest)",
+      "metaTitle": "The Invisible Guest (Contratiempo) - Thriller Movie Overview",
+      "openGraph": {
+        "og:title": "The Invisible Guest - Mystery Thriller Movie",
+        "og:description": "Accused of murder, a businesswoman and her lawyer have three hours to solve the mystery. Watch the full story behind The Invisible Guest."
+      },
+      "twitterCard": {
+        "twitter:title": "The Invisible Guest - Mystery Thriller Movie",
+        "twitter:description": "Accused of murder, a businesswoman and her lawyer have three hours to solve the mystery in The Invisible Guest."
+      },
+      "metaDescription": "Accused of murdering her lover, a businesswoman hires a top lawyer. With three hours left, they must reveal the truth in The Invisible Guest."
+    },
+    "faq": [
+      {
+        "answer": "The Invisible Guest is a Spanish mystery crime thriller centered on a tense, high-stakes court preparation and dynamic plot twists.",
+        "question": "What is the dominant genre of The Invisible Guest?"
+      },
+      {
+        "answer": "No, The Invisible Guest is a standalone film and is not part of a broader cinematic universe or movie franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no scenes during or after the credits. The story concludes completely before the credits roll.",
+        "question": "Is there a post-credit scene in The Invisible Guest?"
+      },
+      {
+        "answer": "A successful businesswoman wakes up in a locked hotel room next to her dead lover. Facing murder charges, she works with a veteran defense attorney to reconstruct the events of that night before her testimony.",
+        "question": "What is the basic premise of the story?"
+      },
+      {
+        "answer": "The film was originally written and produced in Spanish under the title 'Contratiempo'.",
+        "question": "What language was the original film made in?"
+      },
+      {
+        "answer": "The film was written and directed by Oriol Paulo, known for his work in atmospheric mystery and thriller cinema.",
+        "question": "Who directed The Invisible Guest?"
+      },
+      {
+        "answer": "No, the movie is an original fiction screenplay written specifically for the film by director Oriol Paulo.",
+        "question": "Is The Invisible Guest based on a true story or a book?"
+      },
+      {
+        "answer": "Yes, the film's success led to several international adaptations, including the Italian film 'The Invisible Witness' and the Indian Hindi-language film 'Badla'.",
+        "question": "Are there any official remakes of this movie?"
+      },
+      {
+        "answer": "It is generally rated TV-MA / R due to violent content, depictions of murder, adult language, and intense psychological thriller themes.",
+        "question": "What is the age rating or content warning for the film?"
+      },
+      {
+        "answer": "The film is widely available for streaming on Netflix in many regions and can also be rented or purchased on major digital video platforms.",
+        "question": "Where can I watch The Invisible Guest?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild psychological suspense, tense mystery atmosphere, and brief threatening moments."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity and occasional bad language."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate violence depicting crime scenes, physical altercations, head trauma, and a vehicle crash."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Infrequent social drinking of alcohol and smoking."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild sexual content depicting an extramarital affair, brief mild intimacy, and references to adultery."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High psychological tension, suspense, and distressing themes involving grief, cover-ups, and betrayal."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 10,
+      "romance": 2,
+      "science": 0,
+      "suspense": 10,
+      "violence": 3
+    },
+    "created_at": "2026-08-16 22:04:30.020928",
+    "updated_at": "2026-08-16 22:04:30.020928"
+  }
 }
