@@ -371,5 +371,304 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1417019/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1417019,
+    "hash": "546315f285d6bd186f694ccbc1b0292b9b154228f703ccb859916df74e38cbb4",
+    "summary_one_sentence": "The six wives of Henry VIII compete in a pop-concert singing battle to decide who suffered the most, ultimately realizing they should reclaim their individual legacies beyond their notorious shared ex-husband.",
+    "summary_short": "Framed as a modern pop concert, the six wives of Henry VIII take the stage to determine who had the absolute worst experience married to the Tudor king. Each queen performs a showstopping song inspired by contemporary pop icons to detail her personal heartbreak, execution, or betrayal. As the musical competition escalates, the women realize they are competing for the approval of the very man who mistreated them. Together, they choose to reject the historical narrative defined by Henry and rewrite their stories on their own terms.",
+    "summary_long": "The musical opens with Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard, and Catherine Parr introducing themselves as a modern pop group. They announce a contest among themselves: whoever suffered the most at the hands of Henry VIII will become the lead singer of the group. Catherine of Aragon opens the competition detailing how she was nearly sent to a nunnery after decades of loyalty. Anne Boleyn follows with a playful yet tragic account of her flirtatious life and eventual beheading. Jane Seymour then steps forward, claiming true love despite dying shortly after childbirth, which temporarily shifts the tone of the show. Anna of Cleves recounts being rejected for her appearance, only to boast about living lavishly off her independence and settlement. Katherine Howard reveals the dark reality of being groomed and executed at a young age under the guise of romance. Finally, Catherine Parr questions the entire premise of competing over trauma and points out that they are letting Henry define their worth. United by this revelation, the queens abandon the contest and perform a triumphant finale that rewrites their historical fates into a shared celebration of female empowerment.",
+    "synopsis": "SIX: The Musical Live! reimagines the lives of the six wives of Henry VIII as a high-energy, modern pop concert filmed live at London's Vaudeville Theatre. The queens—Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard, and Catherine Parr—come together to challenge one another in a singing competition, aiming to prove who suffered the most under Henry's reign. Blending dynamic pop anthems, sharp comedy, and historical satire, the musical gives voice to the women behind the famous rhyme 'divorced, beheaded, died, divorced, beheaded, survived.' As each queen steps into the spotlight, the show delivers an empowering, vibrant spectacle about reclaiming identity, agency, and sisterhood from the shadows of history.",
+    "keywords": [
+      "feminist retelling",
+      "historical fiction",
+      "pop concert musical",
+      "girl power",
+      "Tudor history",
+      "six wives of Henry VIII",
+      "female empowerment",
+      "reclaiming narrative",
+      "singing competition",
+      "live theatre recording",
+      "filmed stage production",
+      "fourth wall breaking",
+      "modernized history",
+      "historical comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Reclaiming Narrative & Agency",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Female Solidarity & Sisterhood",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Trauma & Suffering as Identity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Patriarchal Oppression & Exploitation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fame, Legacy & History",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Energetic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Empowering",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Sassy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "During Catherine Parr's turn, she challenges the fundamental premise of the contest, leading the queens to realize that competing over their shared trauma only keeps them defined by Henry VIII rather than their own individual identities.",
+      "conflict": "Each queen competes to prove her marriage was the most tragic, framing their historical trauma and survival as performance metrics to win the title of lead singer.",
+      "resolution": "The queens reclaim their narratives, rejecting the competition to unite as an empowered collective and perform an alternate history where they choose their own destinies.",
+      "introduction": "The six wives of Henry VIII take the stage as a modern pop girl group, introducing the premise of their concert-style singing competition to determine who suffered the most under their shared ex-husband.",
+      "risingAction": "In turn, Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, and Katherine Howard perform their signature songs, laying out their respective suffering while the group dynamic becomes increasingly competitive and tense."
+    },
+    "characters": [
+      {
+        "name": "Catherine of Aragon",
+        "role": "Hero",
+        "description": "Henry's first wife and the long-suffering queen who refuses to back down, setting the stage for the wives to reclaim their own narratives."
+      },
+      {
+        "name": "Anne Boleyn",
+        "role": "Comic Relief",
+        "description": "Henry's second wife, whose playful, irreverent humor and chaotic energy lighten the heavy topic of her execution."
+      },
+      {
+        "name": "Jane Seymour",
+        "role": "Supporting Character",
+        "description": "Henry's third wife, providing an emotional anchor as the 'only one he truly loved' through a poignant ballad."
+      },
+      {
+        "name": "Anna of Cleves",
+        "role": "Anti Hero",
+        "description": "Henry's fourth wife, who subverts expectations by celebrating her rejection and living a life of independent luxury and power."
+      },
+      {
+        "name": "Katherine Howard",
+        "role": "Supporting Character",
+        "description": "Henry's fifth wife, whose catchy pop style masks a tragic backstory of repeated exploitation by the men in her life."
+      },
+      {
+        "name": "Catherine Parr",
+        "role": "Mentor",
+        "description": "Henry's final wife, who serves as the voice of reason, guiding the group to reject the competition and rewrite their story together."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Catherine of Aragon",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Anne Boleyn",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Jane Seymour",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Anna of Cleves",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Katherine Howard",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Catherine Parr",
+        "target": "Henry VIII",
+        "description": "Ex-Husband/Ex-Wife"
+      },
+      {
+        "source": "Catherine of Aragon",
+        "target": "Anne Boleyn",
+        "description": "Rivals / Successive Wives"
+      },
+      {
+        "source": "Anne Boleyn",
+        "target": "Jane Seymour",
+        "description": "Rivals / Successive Wives"
+      },
+      {
+        "source": "Jane Seymour",
+        "target": "Anna of Cleves",
+        "description": "Successive Wives"
+      },
+      {
+        "source": "Anna of Cleves",
+        "target": "Katherine Howard",
+        "description": "Successive Wives"
+      },
+      {
+        "source": "Katherine Howard",
+        "target": "Catherine Parr",
+        "description": "Successive Wives"
+      },
+      {
+        "source": "Catherine of Aragon",
+        "target": "Catherine Parr",
+        "description": "Bandmates / Co-competitors"
+      },
+      {
+        "source": "Anne Boleyn",
+        "target": "Katherine Howard",
+        "description": "Bandmates / Co-competitors"
+      },
+      {
+        "source": "Jane Seymour",
+        "target": "Catherine Parr",
+        "description": "Bandmates / Co-competitors"
+      }
+    ],
+    "seo": {
+      "slug": "six-the-musical-live",
+      "jsonLd": {
+        "name": "SIX: The Musical Live!",
+        "@type": "Movie",
+        "genre": [
+          "Musical",
+          "Comedy",
+          "Live Performance"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "dateCreated": "2022",
+        "description": "Henry VIII's six wives—Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard, and Catherine Parr—hold a singing competition to see who had the worst time with their ex, deciding to rewrite their own stories.",
+        "locationCreated": {
+          "name": "Vaudeville Theatre, London",
+          "@type": "Place"
+        }
+      },
+      "keywords": [
+        "SIX The Musical Live",
+        "SIX musical movie",
+        "Henry VIII six wives musical",
+        "Vaudeville Theatre SIX",
+        "SIX live stage recording",
+        "SIX the musical filmed"
+      ],
+      "canonical": "[https://movnix.com/movie/six-the-musical-live](https://movnix.com/movie/six-the-musical-live)",
+      "metaTitle": "SIX: The Musical Live! (2022) - Watch the Filmed Stage Show",
+      "openGraph": {
+        "og:title": "SIX: The Musical Live! - Watch the Spectacular Live Recording",
+        "og:description": "The six wives of Henry VIII take to the stage to reclaim their stories in this live filmed performance from London's Vaudeville Theatre."
+      },
+      "twitterCard": {
+        "twitter:title": "SIX: The Musical Live!",
+        "twitter:description": "Divorced, Beheaded, Live! Experience SIX: The Musical Live! filmed at the Vaudeville Theatre in London."
+      },
+      "metaDescription": "Henry VIII's six wives take the mic in SIX: The Musical Live! Filmed at London's Vaudeville Theatre. Discover the story, songs, and show details."
+    },
+    "faq": [
+      {
+        "answer": "The musical features the six wives of Henry VIII—Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard, and Catherine Parr—as they compete in a pop concert singing contest to determine who suffered the most under their shared ex-husband, before ultimately choosing to reclaim and rewrite their own histories.",
+        "question": "What is SIX: The Musical Live! about?"
+      },
+      {
+        "answer": "This special live performance was filmed at the Vaudeville Theatre in London's West End during June and July 2022.",
+        "question": "When and where was this live recording filmed?"
+      },
+      {
+        "answer": "The dominant genre is a filmed stage musical presented as a modern pop concert.",
+        "question": "What is the dominant genre of SIX: The Musical Live!?"
+      },
+      {
+        "answer": "While it is an official filmed recording of the global hit stage phenomenon 'SIX: The Musical', it functions as a standalone live theatrical film rather than part of a traditional movie franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no traditional narrative post-credit scene, though credits are accompanied by the musical's energizing curtain call and megamix sequence.",
+        "question": "Is there a post-credit scene in SIX: The Musical Live!?"
+      },
+      {
+        "answer": "The six queens featured are Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard, and Catherine Parr.",
+        "question": "Who are the six wives depicted in the musical?"
+      },
+      {
+        "answer": "Yes, it is generally family-friendly and rated for general audiences, though it includes mild double entendres and historical references to executions and divorce.",
+        "question": "Is SIX: The Musical Live! suitable for all ages?"
+      },
+      {
+        "answer": "The running time is approximately 80 minutes, consistent with the standard fast-paced length of the stage production.",
+        "question": "How long is SIX: The Musical Live!?"
+      },
+      {
+        "answer": "The film features members of the original West End production cast alongside celebrated West End performers who played the roles during the 2021–2022 London run.",
+        "question": "Does the original West End cast perform in this live film recording?"
+      },
+      {
+        "answer": "Yes, all songs are original pop tracks written by Toby Marlow and Lucy Moss, with each queen's sound inspired by modern pop stars like Beyoncé, Ariana Grande, Adele, and Nicki Minaj.",
+        "question": "Are the songs in SIX: The Musical Live! original compositions?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jumpscares present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild profanity, modern slang, and double entendres throughout the musical numbers."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minor verbal references to historical executions and beheadings, but no visual or physical violence depicted."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Passing, mild references to drinking and partying."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild suggestive humor, innuendo, and themes related to marital relationships and historical infidelity."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional themes covering historical trauma, tragic marriages, and loss, framed within an uplifting pop-concert format."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 2,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 1,
+      "romance": 4,
+      "science": 0,
+      "suspense": 2,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 00:02:01.021679",
+    "updated_at": "2026-08-18 00:02:01.021679"
+  }
 }
