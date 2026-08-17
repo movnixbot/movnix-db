@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.0582,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 5.5477,
+    "voteAverage": 5,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1128204",
-    "posterPath": "/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
-    "backdropPath": null,
+    "posterPath": "/vXmIlirwmiTTpvNUFq1D8Sqgklz.jpg",
+    "backdropPath": "/6XEODkBWsoQN1DgQ3hEfblj0ewz.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -61,17 +61,24 @@
   ],
   "images": [
     {
-      "filePath": "/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
+      "filePath": "/vXmIlirwmiTTpvNUFq1D8Sqgklz.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
     },
     {
-      "filePath": "/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
-      "width": 900,
-      "height": 1333,
-      "aspectRatio": 0.675,
+      "filePath": "/6XEODkBWsoQN1DgQ3hEfblj0ewz.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vXmIlirwmiTTpvNUFq1D8Sqgklz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -82,14 +89,40 @@
       "type": "poster"
     },
     {
+      "filePath": "/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
+      "width": 900,
+      "height": 1333,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
       "filePath": "/6cMncNaBZK53DjEJqdX1Pow0fVY.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/6wdg9eEa8MfGkeloWnKi3TSEdan.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6XEODkBWsoQN1DgQ3hEfblj0ewz.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 5,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
