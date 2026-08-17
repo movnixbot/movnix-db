@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "2286163",
     "status": "Released",
-    "popularity": 78.9443,
-    "voteAverage": 7.125,
-    "voteCount": 396,
+    "popularity": 80.7762,
+    "voteAverage": 7.1,
+    "voteCount": 399,
     "homepage": "https://mock-movie-website.com/movies/1127384",
     "posterPath": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
     "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
@@ -411,6 +411,27 @@
       "type": "poster"
     },
     {
+      "filePath": "/sBgQCUDxHWqEebVZQNYlwsVAgZm.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nnEnAkW6lQdTseKHg2rusjmfhkn.jpg",
+      "width": 1685,
+      "height": 2528,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2eo1OK5XxlTo8pZtp4k6W4KvLD5.jpg",
+      "width": 1080,
+      "height": 1620,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "width": 3840,
       "height": 2160,
@@ -484,8 +505,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.125,
-      "votesCount": 396
+      "ratingValue": 7.1,
+      "votesCount": 399
     },
     {
       "source": "imdb",
@@ -635,6 +656,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 16938,
+      "name": "Renny Harlin",
+      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 57756,
       "name": "Gene Simmons",
       "profilePath": "/c1t3QgTO4XTDZZG5Ndjxjt8Jt0a.jpg",
@@ -650,15 +680,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 16938,
-      "name": "Renny Harlin",
-      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -838,6 +859,14 @@
     },
     "us": {
       "flatrate": [
+        {
+          "name": "MGM+ Amazon Channel",
+          "logo": "/efu1Cqc63XrPBoreYnf2mn0Nizj.jpg"
+        },
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
         {
           "name": "MGM Plus Roku Premium Channel",
           "logo": "/lD7HKUmXDvUya58DceiTA809Zbf.jpg"

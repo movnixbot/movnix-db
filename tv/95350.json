@@ -1,29 +1,2007 @@
 {
   "tvShow": {
     "tmdbId": 95350,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt26545992",
+    "name": "Lanterns",
+    "originalName": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "firstAirDate": "2026-08-16",
+    "lastAirDate": "2026-08-16",
+    "status": "Returning Series",
+    "popularity": 98.5361,
+    "voteAverage": 7.8,
+    "voteCount": 59,
+    "type": "Scripted",
+    "posterPath": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "5f809c971065d30036d079fa",
+      "air_date": "2026-08-16",
+      "episodes": [
+        {
+          "air_date": "2026-08-16",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 4988115,
+          "name": "Pilot",
+          "overview": "After a fatal shooting, Green Lantern Hal Jordan and new recruit John Stewart set out to prove it was an extraterrestrial event.",
+          "production_code": "",
+          "runtime": 57,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": "/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg",
+          "vote_average": 5.2,
+          "vote_count": 25,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289da7c95a6f17007a538",
+              "adult": false,
+              "gender": 2,
+              "id": 28974,
+              "known_for_department": "Writing",
+              "name": "Damon Lindelof",
+              "original_name": "Damon Lindelof",
+              "popularity": 2.8621,
+              "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289f29aac5e5a6ea6d134",
+              "adult": false,
+              "gender": 2,
+              "id": 2325172,
+              "known_for_department": "Crew",
+              "name": "Tom King",
+              "original_name": "Tom King",
+              "popularity": 0.7268,
+              "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "667b69e5b2bc0bc541881c7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1258079,
+              "known_for_department": "Writing",
+              "name": "Chris Mundy",
+              "original_name": "Chris Mundy",
+              "popularity": 3.1728,
+              "profile_path": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "67006306e84eeb35a0f82d4a",
+              "adult": false,
+              "gender": 2,
+              "id": 30310,
+              "known_for_department": "Directing",
+              "name": "James Hawes",
+              "original_name": "James Hawes",
+              "popularity": 0.8831,
+              "profile_path": "/9MmTr9DHvPPcAkRK0ddNxZs0gzS.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "67c3ac3049bb8758bab47ee8",
+              "adult": false,
+              "gender": 2,
+              "id": 10231,
+              "known_for_department": "Camera",
+              "name": "Florian Hoffmeister",
+              "original_name": "Florian Hoffmeister",
+              "popularity": 0.4513,
+              "profile_path": "/dcU260q4gxPG3JWu5AfpxsNwXIR.jpg"
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a826c949eb5bf2236066dce",
+              "adult": false,
+              "gender": 2,
+              "id": 1747745,
+              "known_for_department": "Editing",
+              "name": "Vikash Patel",
+              "original_name": "Vikash Patel",
+              "popularity": 0.3752,
+              "profile_path": null
+            },
+            {
+              "job": "First Assistant Director",
+              "department": "Directing",
+              "credit_id": "6a826f7f7b7c1bbe2f879a80",
+              "adult": false,
+              "gender": 2,
+              "id": 1991692,
+              "known_for_department": "Directing",
+              "name": "Jackson Rowe",
+              "original_name": "Jackson Rowe",
+              "popularity": 0.3286,
+              "profile_path": null
+            },
+            {
+              "job": "First Assistant Director",
+              "department": "Directing",
+              "credit_id": "6a826f9a106c806277957a3b",
+              "adult": false,
+              "gender": 2,
+              "id": 2307385,
+              "known_for_department": "Directing",
+              "name": "Jason Ruffolo",
+              "original_name": "Jason Ruffolo",
+              "popularity": 0.2939,
+              "profile_path": null
+            },
+            {
+              "job": "Storyboard Artist",
+              "department": "Art",
+              "credit_id": "6a82729522ead9ffd5ff6a17",
+              "adult": false,
+              "gender": 0,
+              "id": 2047129,
+              "known_for_department": "Art",
+              "name": "Dan Caplan",
+              "original_name": "Dan Caplan",
+              "popularity": 0.3054,
+              "profile_path": null
+            },
+            {
+              "job": "Assistant Editor",
+              "department": "Editing",
+              "credit_id": "6a827594361a98e65472bf53",
+              "adult": false,
+              "gender": 0,
+              "id": 6416884,
+              "known_for_department": "Editing",
+              "name": "Robert Abilez",
+              "original_name": "Robert Abilez",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "job": "Second Unit Director",
+              "department": "Directing",
+              "credit_id": "6a8277ab8e189deb48495a7a",
+              "adult": false,
+              "gender": 2,
+              "id": 1762704,
+              "known_for_department": "Acting",
+              "name": "Justin Riemer",
+              "original_name": "Justin Riemer",
+              "popularity": 0.5274,
+              "profile_path": "/fopwG7tU8UK5pWuqThf0CjMZGnE.jpg"
+            },
+            {
+              "job": "Second Unit First Assistant Director",
+              "department": "Directing",
+              "credit_id": "6a8277b4d35c43708b957a83",
+              "adult": false,
+              "gender": 1,
+              "id": 4054478,
+              "known_for_department": "Directing",
+              "name": "Nicole Burke",
+              "original_name": "Nicole Burke",
+              "popularity": 0.402,
+              "profile_path": "/jngqSJNBMRZA07Gd9Eu3SqpuXug.jpg"
+            },
+            {
+              "job": "Second Unit Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a8277c1a4f5900a81022028",
+              "adult": false,
+              "gender": 2,
+              "id": 1394414,
+              "known_for_department": "Camera",
+              "name": "Josh Harrison",
+              "original_name": "Josh Harrison",
+              "popularity": 0.3627,
+              "profile_path": null
+            },
+            {
+              "job": "Second Unit Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a8277ce9eb5bf2236066e6e",
+              "adult": false,
+              "gender": 2,
+              "id": 1440301,
+              "known_for_department": "Camera",
+              "name": "Darin Moran",
+              "original_name": "Darin Moran",
+              "popularity": 0.4675,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "William 'Billy' Macon",
+              "credit_id": "6a826dca8a232a8862021ffe",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 50095,
+              "known_for_department": "Acting",
+              "name": "Jason Ritter",
+              "original_name": "Jason Ritter",
+              "popularity": 2.908,
+              "profile_path": "/9i4YvUpSlQDzH0U8y5FWXQkaAGf.jpg"
+            },
+            {
+              "character": "Waylon Sanders",
+              "credit_id": "6a826ddaa31f5e1dcd066dbb",
+              "order": 501,
+              "adult": false,
+              "gender": 2,
+              "id": 587438,
+              "known_for_department": "Acting",
+              "name": "Chris Coy",
+              "original_name": "Chris Coy",
+              "popularity": 1.6866,
+              "profile_path": "/qM89KmZYCOC9VVUle5OPMP0i5U8.jpg"
+            },
+            {
+              "character": "John Stewart Sr.",
+              "credit_id": "6a826df195322294bd182f31",
+              "order": 502,
+              "adult": false,
+              "gender": 2,
+              "id": 1507385,
+              "known_for_department": "Acting",
+              "name": "J. Alphonse Nicholson",
+              "original_name": "J. Alphonse Nicholson",
+              "popularity": 0.8612,
+              "profile_path": "/3Z0rqaMX65Lh4SFtEZz2cdHUHW5.jpg"
+            },
+            {
+              "character": "Young Noah Macon",
+              "credit_id": "6a826dfcbe11fa40b32b1e0d",
+              "order": 503,
+              "adult": false,
+              "gender": 2,
+              "id": 2407997,
+              "known_for_department": "Acting",
+              "name": "Cary Christopher",
+              "original_name": "Cary Christopher",
+              "popularity": 1.0896,
+              "profile_path": "/3ATVXSp6iPM9SaKUvQhI9tfGA5M.jpg"
+            },
+            {
+              "character": "Adolescent John",
+              "credit_id": "6a826e103c2e4998b4768e21",
+              "order": 504,
+              "adult": false,
+              "gender": 0,
+              "id": 6416804,
+              "known_for_department": "Acting",
+              "name": "Cairo Cash Lee",
+              "original_name": "Cairo Cash Lee",
+              "popularity": 0,
+              "profile_path": "/7zUYY8CwUAauGlaivzUabPHM5Zq.jpg"
+            },
+            {
+              "character": "Adolescent Marcus",
+              "credit_id": "6a826e2726148149de768dd4",
+              "order": 505,
+              "adult": false,
+              "gender": 0,
+              "id": 3558026,
+              "known_for_department": "Acting",
+              "name": "Noah Gibson Slates",
+              "original_name": "Noah Gibson Slates",
+              "popularity": 0.3033,
+              "profile_path": null
+            },
+            {
+              "character": "Adolescent Aaron",
+              "credit_id": "6a826e3876e433d2bc879a64",
+              "order": 506,
+              "adult": false,
+              "gender": 0,
+              "id": 6416805,
+              "known_for_department": "Acting",
+              "name": "Jaylen Lyndon Hunter",
+              "original_name": "Jaylen Lyndon Hunter",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Deputy Lopez",
+              "credit_id": "6a826e419f131ff355ff698a",
+              "order": 507,
+              "adult": false,
+              "gender": 0,
+              "id": 2101950,
+              "known_for_department": "Acting",
+              "name": "Michael Ocampo",
+              "original_name": "Michael Ocampo",
+              "popularity": 0.4323,
+              "profile_path": "/uf55svMbTaiJcQzTabBqpUyW41v.jpg"
+            },
+            {
+              "character": "Judge",
+              "credit_id": "6a826e57f6784563882b1cff",
+              "order": 508,
+              "adult": false,
+              "gender": 0,
+              "id": 2552316,
+              "known_for_department": "Acting",
+              "name": "Cristina Frias",
+              "original_name": "Cristina Frias",
+              "popularity": 0.2833,
+              "profile_path": null
+            },
+            {
+              "character": "60 Minutes Anchor",
+              "credit_id": "6a826e9741ea05e718957a11",
+              "order": 509,
+              "adult": false,
+              "gender": 1,
+              "id": 1497250,
+              "known_for_department": "Acting",
+              "name": "Bella Shaw",
+              "original_name": "Bella Shaw",
+              "popularity": 0.6896,
+              "profile_path": "/qql8VD1lYPIVybXmyTtoCedeyEz.jpg"
+            },
+            {
+              "character": "Nice Woman",
+              "credit_id": "6a826eae149acab15de0b5c9",
+              "order": 510,
+              "adult": false,
+              "gender": 0,
+              "id": 4822914,
+              "known_for_department": "Acting",
+              "name": "Shirl Boe",
+              "original_name": "Shirl Boe",
+              "popularity": 0.2803,
+              "profile_path": null
+            },
+            {
+              "character": "Thick Neck",
+              "credit_id": "6a826eb5495c008d912dbab3",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 3110482,
+              "known_for_department": "Acting",
+              "name": "Doug Long",
+              "original_name": "Doug Long",
+              "popularity": 0.4404,
+              "profile_path": "/gmmcrMXlVl9VqSYDbBI9NVHsYIl.jpg"
+            },
+            {
+              "character": "Sheriff Simpson",
+              "credit_id": "6a826ed022ead9ffd5ff69ee",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 6416808,
+              "known_for_department": "Acting",
+              "name": "Ben Strickler",
+              "original_name": "Ben Strickler",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Sheriff Everett",
+              "credit_id": "6a826ede76e433d2bc879a68",
+              "order": 513,
+              "adult": false,
+              "gender": 0,
+              "id": 3518383,
+              "known_for_department": "Crew",
+              "name": "Tony Taboada",
+              "original_name": "Tony Taboada",
+              "popularity": 0.308,
+              "profile_path": null
+            },
+            {
+              "character": "Mother",
+              "credit_id": "6a826ee8e49b74cb19021fef",
+              "order": 514,
+              "adult": false,
+              "gender": 0,
+              "id": 2276177,
+              "known_for_department": "Acting",
+              "name": "Juliette Hourani",
+              "original_name": "Juliette Hourani",
+              "popularity": 0.3062,
+              "profile_path": null
+            },
+            {
+              "character": "Young Girl (Taco Stand)",
+              "credit_id": "6a826ef9495c008d912dbabf",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 6416809,
+              "known_for_department": "Acting",
+              "name": "Zosia Rinderle",
+              "original_name": "Zosia Rinderle",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Taco Stand Owner",
+              "credit_id": "6a826f054b84571d07066d71",
+              "order": 516,
+              "adult": false,
+              "gender": 2,
+              "id": 1517286,
+              "known_for_department": "Acting",
+              "name": "Jaime Alvarez",
+              "original_name": "Jaime Alvarez",
+              "popularity": 0.4041,
+              "profile_path": "/haPpV9Bo21UhArdZoaJc8CEIITv.jpg"
+            },
+            {
+              "character": "Rushville Civilian 9",
+              "credit_id": "6a826f1be0a174a12d768e68",
+              "order": 517,
+              "adult": false,
+              "gender": 2,
+              "id": 1455749,
+              "known_for_department": "Crew",
+              "name": "Nick Epper",
+              "original_name": "Nick Epper",
+              "popularity": 0.5428,
+              "profile_path": null
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-23",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7007714,
+          "name": "Episode 2",
+          "overview": "",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "667b69e5b2bc0bc541881c7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1258079,
+              "known_for_department": "Writing",
+              "name": "Chris Mundy",
+              "original_name": "Chris Mundy",
+              "popularity": 3.1728,
+              "profile_path": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "67006306e84eeb35a0f82d4a",
+              "adult": false,
+              "gender": 2,
+              "id": 30310,
+              "known_for_department": "Directing",
+              "name": "James Hawes",
+              "original_name": "James Hawes",
+              "popularity": 0.8831,
+              "profile_path": "/9MmTr9DHvPPcAkRK0ddNxZs0gzS.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "67c3ac3049bb8758bab47ee8",
+              "adult": false,
+              "gender": 2,
+              "id": 10231,
+              "known_for_department": "Camera",
+              "name": "Florian Hoffmeister",
+              "original_name": "Florian Hoffmeister",
+              "popularity": 0.4513,
+              "profile_path": "/dcU260q4gxPG3JWu5AfpxsNwXIR.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "69e998d465a0bfe2a3a5a338",
+              "adult": false,
+              "gender": 1,
+              "id": 1227391,
+              "known_for_department": "Acting",
+              "name": "Vanessa Baden Kelly",
+              "original_name": "Vanessa Baden Kelly",
+              "popularity": 0.8612,
+              "profile_path": "/qywwmAIhNPKJnmwM4qVDjFnmCca.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-08-30",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7179884,
+          "name": "Episode 3",
+          "overview": "",
+          "production_code": "",
+          "runtime": 57,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "69e998d465a0bfe2a3a5a338",
+              "adult": false,
+              "gender": 1,
+              "id": 1227391,
+              "known_for_department": "Acting",
+              "name": "Vanessa Baden Kelly",
+              "original_name": "Vanessa Baden Kelly",
+              "popularity": 0.8612,
+              "profile_path": "/qywwmAIhNPKJnmwM4qVDjFnmCca.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "69ea767b9421af033017c30e",
+              "adult": false,
+              "gender": 2,
+              "id": 166461,
+              "known_for_department": "Directing",
+              "name": "Stephen Williams",
+              "original_name": "Stephen Williams",
+              "popularity": 0.9832,
+              "profile_path": "/cXQOyjxLEaUct5AiXYOiDWjl7F1.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4404fc39d8b6e246742e",
+              "adult": false,
+              "gender": 2,
+              "id": 957150,
+              "known_for_department": "Camera",
+              "name": "Gregory Middleton",
+              "original_name": "Gregory Middleton",
+              "popularity": 0.4992,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a0b455e1f74db092133a6ac",
+              "adult": false,
+              "gender": 1,
+              "id": 2323302,
+              "known_for_department": "Editing",
+              "name": "Emily Greene",
+              "original_name": "Emily Greene",
+              "popularity": 0.3481,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-06",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7179885,
+          "name": "Episode 4",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289da7c95a6f17007a538",
+              "adult": false,
+              "gender": 2,
+              "id": 28974,
+              "known_for_department": "Writing",
+              "name": "Damon Lindelof",
+              "original_name": "Damon Lindelof",
+              "popularity": 2.8621,
+              "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "69e998f0b505b1de306b1e63",
+              "adult": false,
+              "gender": 2,
+              "id": 1452717,
+              "known_for_department": "Writing",
+              "name": "Justin Britt-Gibson",
+              "original_name": "Justin Britt-Gibson",
+              "popularity": 0.7587,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "69ea767b9421af033017c30e",
+              "adult": false,
+              "gender": 2,
+              "id": 166461,
+              "known_for_department": "Directing",
+              "name": "Stephen Williams",
+              "original_name": "Stephen Williams",
+              "popularity": 0.9832,
+              "profile_path": "/cXQOyjxLEaUct5AiXYOiDWjl7F1.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4404fc39d8b6e246742e",
+              "adult": false,
+              "gender": 2,
+              "id": 957150,
+              "known_for_department": "Camera",
+              "name": "Gregory Middleton",
+              "original_name": "Gregory Middleton",
+              "popularity": 0.4992,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a0b455e1f74db092133a6ac",
+              "adult": false,
+              "gender": 1,
+              "id": 2323302,
+              "known_for_department": "Editing",
+              "name": "Emily Greene",
+              "original_name": "Emily Greene",
+              "popularity": 0.3481,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-13",
+          "episode_number": 5,
+          "episode_type": "standard",
+          "id": 7179886,
+          "name": "Episode 5",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "69e99900aa54200f06a5a316",
+              "adult": false,
+              "gender": 1,
+              "id": 1852275,
+              "known_for_department": "Writing",
+              "name": "Breannah Gibson",
+              "original_name": "Breannah Gibson",
+              "popularity": 0.5304,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "69ea769c2eff35f2c56b09b5",
+              "adult": false,
+              "gender": 1,
+              "id": 1313885,
+              "known_for_department": "Directing",
+              "name": "Geeta Patel",
+              "original_name": "Geeta Patel",
+              "popularity": 0.5406,
+              "profile_path": null
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4326809bbbf4bec40520",
+              "adult": false,
+              "gender": 2,
+              "id": 551916,
+              "known_for_department": "Camera",
+              "name": "Armando Salas",
+              "original_name": "Armando Salas",
+              "popularity": 0.5936,
+              "profile_path": "/7ifR3zE19No3gEjPb8fUATvwDjl.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-20",
+          "episode_number": 6,
+          "episode_type": "standard",
+          "id": 7179887,
+          "name": "Episode 6",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289da7c95a6f17007a538",
+              "adult": false,
+              "gender": 2,
+              "id": 28974,
+              "known_for_department": "Writing",
+              "name": "Damon Lindelof",
+              "original_name": "Damon Lindelof",
+              "popularity": 2.8621,
+              "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289f29aac5e5a6ea6d134",
+              "adult": false,
+              "gender": 2,
+              "id": 2325172,
+              "known_for_department": "Crew",
+              "name": "Tom King",
+              "original_name": "Tom King",
+              "popularity": 0.7268,
+              "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a0b42aa48bcd489ce0965d2",
+              "adult": false,
+              "gender": 2,
+              "id": 1318704,
+              "known_for_department": "Directing",
+              "name": "Alik Sakharov",
+              "original_name": "Алик Сахаров",
+              "popularity": 1.0925,
+              "profile_path": "/nsawlXcvphwnzz66ULKwMl9sKUx.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4326809bbbf4bec40520",
+              "adult": false,
+              "gender": 2,
+              "id": 551916,
+              "known_for_department": "Camera",
+              "name": "Armando Salas",
+              "original_name": "Armando Salas",
+              "popularity": 0.5936,
+              "profile_path": "/7ifR3zE19No3gEjPb8fUATvwDjl.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-27",
+          "episode_number": 7,
+          "episode_type": "standard",
+          "id": 7179888,
+          "name": "Episode 7",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "69e998f0b505b1de306b1e63",
+              "adult": false,
+              "gender": 2,
+              "id": 1452717,
+              "known_for_department": "Writing",
+              "name": "Justin Britt-Gibson",
+              "original_name": "Justin Britt-Gibson",
+              "popularity": 0.7587,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "69ea769c2eff35f2c56b09b5",
+              "adult": false,
+              "gender": 1,
+              "id": 1313885,
+              "known_for_department": "Directing",
+              "name": "Geeta Patel",
+              "original_name": "Geeta Patel",
+              "popularity": 0.5406,
+              "profile_path": null
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4326809bbbf4bec40520",
+              "adult": false,
+              "gender": 2,
+              "id": 551916,
+              "known_for_department": "Camera",
+              "name": "Armando Salas",
+              "original_name": "Armando Salas",
+              "popularity": 0.5936,
+              "profile_path": "/7ifR3zE19No3gEjPb8fUATvwDjl.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-10-04",
+          "episode_number": 8,
+          "episode_type": "finale",
+          "id": 7179889,
+          "name": "Episode 8",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 95350,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289da7c95a6f17007a538",
+              "adult": false,
+              "gender": 2,
+              "id": 28974,
+              "known_for_department": "Writing",
+              "name": "Damon Lindelof",
+              "original_name": "Damon Lindelof",
+              "popularity": 2.8621,
+              "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "665289f29aac5e5a6ea6d134",
+              "adult": false,
+              "gender": 2,
+              "id": 2325172,
+              "known_for_department": "Crew",
+              "name": "Tom King",
+              "original_name": "Tom King",
+              "popularity": 0.7268,
+              "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "667b69e5b2bc0bc541881c7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1258079,
+              "known_for_department": "Writing",
+              "name": "Chris Mundy",
+              "original_name": "Chris Mundy",
+              "popularity": 3.1728,
+              "profile_path": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a0b42aa48bcd489ce0965d2",
+              "adult": false,
+              "gender": 2,
+              "id": 1318704,
+              "known_for_department": "Directing",
+              "name": "Alik Sakharov",
+              "original_name": "Алик Сахаров",
+              "popularity": 1.0925,
+              "profile_path": "/nsawlXcvphwnzz66ULKwMl9sKUx.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a0b4326809bbbf4bec40520",
+              "adult": false,
+              "gender": 2,
+              "id": 551916,
+              "known_for_department": "Camera",
+              "name": "Armando Salas",
+              "original_name": "Armando Salas",
+              "popularity": 0.5936,
+              "profile_path": "/7ifR3zE19No3gEjPb8fUATvwDjl.jpg"
+            }
+          ],
+          "guest_stars": []
+        }
+      ],
+      "name": "Season 1",
+      "networks": [
+        {
+          "id": 49,
+          "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+          "name": "HBO",
+          "origin_country": "US"
+        }
+      ],
+      "overview": "",
+      "id": 165308,
+      "poster_path": "/djyIsygQPhB0RCgiCJHbyiX4BLg.jpg",
+      "season_number": 1,
+      "vote_average": 5.2
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    },
+    {
+      "tmdbId": 9648,
+      "name": "Mystery"
+    },
+    {
+      "tmdbId": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 184898,
+      "name": "DC Studios",
+      "logoPath": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 3268,
+      "name": "HBO",
+      "logoPath": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 1957,
+      "name": "Warner Bros. Television",
+      "logoPath": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 66224,
+      "name": "Man, Woman & Child Productions",
+      "logoPath": null,
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "videos": [
+    {
+      "name": "Kyle Chandler & Aaron Pierre Are a Green Lantern Odd Couple",
+      "key": "FZ0BxKdc-0A",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Behind the Scenes"
+    },
+    {
+      "name": "Official Trailer",
+      "key": "7UIBOsuUwc4",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "name": "Trailer Tomorrow",
+      "key": "x3dqziL6Pkc",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser 2",
+      "key": "XmcIjxwLJcY",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "You manifested it early. The official teaser is here. Coming this August.",
+      "key": "G6fcd_-Jayw",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Official Teaser",
+      "key": "Z1jcPlGXnMo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "Teaser Tomorrow",
+      "key": "Sg6vYKB__VQ",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
+    {
+      "name": "You’re not ready until the ring says you are.",
+      "key": "HF_WsM_4mzI",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/th9PqHNf9BX89k0lGrcJk9Sqq11.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/isYpgPQdjxJ0Ht04uKgilVYGPp9.jpg",
+      "width": 1290,
+      "height": 1935,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9WvY1jicpfYLA6KoczwvdMRNGvc.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
+      "width": 1077,
+      "height": 1617,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/82kJAaN0c6s5ysHZWmnoMLhk133.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/luhiZbMKX6KHFj6S4pYcqDtvMqH.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tWQQufVyYfIwDvhicXI1gLAXWR0.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/onBO4v52N3ikLaajwzOZ6AbXlNJ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/aABREAKvnNJibCe8eBBmHNY9BPD.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1hbe0qjz9Mw7zcHcUCDgofP9Hyr.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oiFFjYPblNSYTpZK0OqorVmzHo8.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qO3wpX7FuAgASl0JNrwliphSBJL.jpg",
+      "width": 1500,
+      "height": 2250,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t6Ub9GTbw6uwphRZQQiQlKim0vO.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9mYaaLi76fi5YHj1PnoCR3kGo7r.jpg",
+      "width": 1220,
+      "height": 1752,
+      "aspectRatio": 0.696,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uAVR8jRsd0VUBC9lHRdEb38oNSa.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xc0FLsGFEVtX5iu4AQkIW80wtFg.jpg",
+      "width": 899,
+      "height": 1350,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fPu1Na9DDobwtKl3Zp5hDoT0F6Z.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vIqJ7QviNL0LZjEXrGfhRK1ZH8h.jpg",
+      "width": 1440,
+      "height": 2160,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4VehrOqZjEGozx45sLJITmY0Y1O.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1WTjgHy8jJ5B8r4laWh9XypC5iQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/735vF021KbR8cg3Mlb3v4ajTGSY.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/f5emzBkoZpxV5GhLVnkbcSKTueK.jpg",
+      "width": 1077,
+      "height": 1617,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/15AkiRpjuBLyS385ycDM5vvB7oI.jpg",
+      "width": 720,
+      "height": 1080,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uDApmmpVLIzBlEhUpdsJOzpplIu.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/u6lwarGkOJeGjP3AentAuFtoxgK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/dRWtxKouUjOaFhIu4GT8eH778On.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jqPelP2DrBj9bFMXlholEphhQSR.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uaZFQwDKmvE2uBxyf6q4grLlJC3.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sbBehMLO6Ge7Tbk374dIBtUjO6P.jpg",
+      "width": 1920,
+      "height": 2880,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t4Mx3bKeCfdB2v28TZDPMtg3oVf.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/rzyXM5uB2Oci6u7aP3ijPxcTmfV.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/lqlWbt8ZBkNNamOXmaBU6iE41XR.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/o3e8C2yz5wekbI96oQErZI2PTG7.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qYH7EgzzxnOOnclaR3Ok5qbHnBd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uUKYAFokoh6u4C9BBCwpEstB3wA.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sN0hPbf93bfvCRkfDDESLZL73rt.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/mmCFAAwU7VcLyGCbMpMWJOFA3PK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cZH2b6DDcUOC4qNi2kV6lAM6lxO.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5Y2Mh3ts0shuz5jyOOG9bXSUPqh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/f6rFSsGWUips3orYMHzvp1hbJ1j.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5ocVCsES4bb0SpMIAAjXCujIxoL.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oQkXyLAYO5YWyU6gA99TynguYwL.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2bDDu955aMxl7JOt25QbgGuhaTH.jpg",
+      "width": 1364,
+      "height": 2048,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oW8FEHuGNmboaFy3zg7eB7Pr7ai.jpg",
+      "width": 1364,
+      "height": 2048,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nlnIyn5oCE6soLxNoS6xKEniaYy.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7o1WJfgNank0attRi0hqp3QeoyA.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/dmsQzRxYyxWVloZrt95WFT5mAPF.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/dnKFRRVl4K7RotQ2SbsphDcYtFX.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/clrMdNAchs5hBxyCh1KEyAVLxuW.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/v81LMGwSHUgaieStFKd7gl7KhAR.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hsKTs5vESubPSI3ZJgM8qcQDud2.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/h6NTiEYGGjd7NpcdIqmq7ooepcs.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wiF1C97GuJEOBSKWrtub517THjF.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qhhFYTCAxhThCeSi9MIJog0S7xY.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/woMkiZwY51aj973g85VfpcBCRfq.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5Tw8JWgcNFW3b0qHAH4zfnpq3vs.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg",
+      "width": 1400,
+      "height": 2000,
+      "aspectRatio": 0.7,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fzoPxUjWqDTxDD0Bn0W49iJGuLw.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fJoYsWcsM3eiir6rcxtOjZ5Zmhp.jpg",
+      "width": 1290,
+      "height": 1935,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4nruNvyVYSqHOiko2R3qbamyubd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/atVKfUKAvbNVBj3QNAVcLNEJ5Fh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/f6jEoZtnDcdQvlMwNKlEHSBycY0.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/h9BSHvC3cvlAkbLMMWzHf0fmnaH.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hmduOkCkNMzB3VK8B4pNZoScIh8.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/irH0adFW9oYR3AVBuIijiDXAOlC.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xXuGDimY4JabnAXTKwTturrefw9.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/eYvhRHD06mNUJAfAMyRVwtxIWQx.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yr1n2RzZHn1UYozrzvPzjcE60cP.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/gK6ihbFPf6iCjK63kLCNjDCy25I.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ruwzidqanSyhhMEk6kCVd9BLui1.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jGbkPfu96s7cfJDN03hGnH2z2iW.jpg",
+      "width": 3591,
+      "height": 2020,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cMbQdNmBeNCVCAqBN1hvih5uMrz.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/62P9tZ8Gyq64EIRMs4ZW9a9L3AV.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/sTACyx6TDwMGIBJa9p5ijU58vfL.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/moA5NNpOsSeQ2gNkOBgbMeNOl3d.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/w5GVI7FvV4zbio4nRUqHTnK5B0G.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/2zGGHTVDhi2BEhpMxUJl06IBNe.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/rhHaXPUbR706jUloJDbKDdOu4dM.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ffAzwdmoZtst1ObcBHpNmGdBWrI.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/zuJQAto2usduM9Kr0cgX1dLkWLZ.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/eSu0E9E3haGmLJ1dz8GOeIX0VU6.jpg",
+      "width": 1500,
+      "height": 844,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5uQ58ZP7rdDOAQazzzdLUXV6HfV.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uvhHWjByf81Vkkp7Ru3FMCFPYoH.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yamd7vFRv1jzAuwP7Ya3CRdvqUH.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/hSsQRzXlebVOA8Wo8PMZ3h8ly43.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lIvVYm4aTFcR0BSbxJ3ZVZQjIc5.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/rBQ17t7NBZyT5q6XWkOyhgUivUt.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/gb2A3Iyd80rYvHRCi3gsAhkDU8N.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/am9e3jzgVfy4QZnwKOKvRci7yax.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cbMB4aqDLxkXwPI6qGAZ4fNksnq.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4wGkFuFqZgWzpeQGZOzuYiEASkM.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wSE1HY1gkVovP5WVB111M51iHWg.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/hAZrcIzgk3MGwDo4mwrHfqNi16h.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ocqSHV9a2yVDzYj4WZOJ4QPP7It.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ymsg0G2S9OvoNL8ePoFvBfBk3tk.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vY0OTypFZ1Ju55lnSruHtPHd4eL.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jnZFLcsFxuarUBElEkwpBasV2sJ.jpg",
+      "width": 2048,
+      "height": 1152,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/dRXfk5F9BuAJ9DHIK1oXTpaM09S.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7.8,
+      "votesCount": 59
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 3497,
+      "name": "Kyle Chandler",
+      "profilePath": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+      "character": "Hal Jordan",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 1763709,
+      "name": "Aaron Pierre",
+      "profilePath": "/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+      "character": "John Stewart",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 9015,
+      "name": "Kelly Macdonald",
+      "profilePath": "/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg",
+      "character": "Sheriff Kerry Kane",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 39520,
+      "name": "Garret Dillahunt",
+      "profilePath": "/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg",
+      "character": "William 'Will' Macon",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 428440,
+      "name": "Poorna Jagannathan",
+      "profilePath": "/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg",
+      "character": "Zoe Macon",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 52259,
+      "name": "Peter Safran",
+      "profilePath": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 15218,
+      "name": "James Gunn",
+      "profilePath": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2325172,
+      "name": "Tom King",
+      "profilePath": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 28974,
+      "name": "Damon Lindelof",
+      "profilePath": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1258079,
+      "name": "Chris Mundy",
+      "profilePath": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 30310,
+      "name": "James Hawes",
+      "profilePath": "/9MmTr9DHvPPcAkRK0ddNxZs0gzS.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 63291,
+      "name": "Ron Schmidt",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1852275,
+      "name": "Breannah Gibson",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1970151,
+      "name": "Kiegan Downs",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IL",
+      "title": "לנטרנס",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "IL",
+      "title": "לנטרנים",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Корпус Зеленых Фонарей",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Корпус Зелёных Фонарей",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": "tt26545992",
+    "wikidataId": "Q110556821",
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [
+    {
+      "author": "yazeedpixi4577",
+      "content": "It’s one of the best TV shows of 2026. Hal Jordan is amazing and incredibly well-written.\r\n\r\njohn and other characters are great",
+      "rating": null,
+      "createdAt": "2026-08-16T23:27:01Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
