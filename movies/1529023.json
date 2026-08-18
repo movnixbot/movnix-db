@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.8425,
+    "popularity": 3.6796,
     "voteAverage": 7,
     "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1529023",
@@ -51,6 +51,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Official Trailer",
+      "key": "cmLvljVT4pY",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
     {
       "name": "The Soundman - Trailer",
       "key": "1127494229",
@@ -106,6 +113,13 @@
       "filePath": "/6NdrVKM2c7N3IihjufSeWRiU15j.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/w9ABJjQhV8nuLOerMb1t4hjG9hy.jpg",
+      "width": 1400,
+      "height": 2100,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -415,5 +429,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1529023/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1529023,
+    "hash": "f0df0ce8263dc66103cefa72c625eddaa88ae4c26824b4ff48ebbba6b5a74832",
+    "summary_one_sentence": "In May 1940 Brussels, a young radio drama actress and a gifted soundman fall in love inside the legendary Flagey building as war looms over Europe.",
+    "summary_short": "Set against the backdrop of May 1940, two lives converge within Brussels' iconic Flagey building, the vibrant centerpiece of national radio broadcasting. Elza, an ambitious young actress entering the world of radio drama, forms a deep connection with Berre, a talented soundman who finds comfort in the auditory world. As European political tensions peak and the shadow of World War II darkens their city, their mutual passion for storytelling and sound evolves into a poignant romance. Together, they attempt to safeguard their fragile love amidst an uncertain future.",
+    "summary_long": "In May 1940, the threat of war looms large across Europe, threatening the peace of Belgium. Inside Brussels' renowned Flagey building—the bustling headquarters of national radio—creative spirits continue to seek expression despite the impending crisis. Elza, an aspiring young actress, arrives at the station eager to make her debut in the emerging medium of radio drama. There she meets Berre, an exceptionally gifted sound engineer who possesses an uncanny sensitivity to sound, using audio as his refuge from the turbulent world. Elza is captivated by the power of dramatic narration, while Berre's world is built on the intricate textures of sound effects and acoustics. As they collaborate on radio productions, an unmistakable romantic spark forms between them, offering light in a darkening political landscape. Their budding connection provides solace as news of military advancements begins to reach the city. As the reality of the war arrives at their doorstep, their devotion to each other and their craft is tested to its limits. Ultimately, their story becomes a testament to human connection and artistic resilience in the face of destruction.",
+    "synopsis": "Set during the critical onset of World War II in May 1940, The Soundman follows the intimate connection between two artists working within the grand halls of Brussels' Flagey building, the historic home of Belgian radio broadcasting. Elza is an optimistic young actress stepping into the spotlight of radio drama, fascinated by the narrative arts. Berre is a quiet, highly intuitive soundman who perceives the world through a deeply magical ear, finding order and comfort in soundscapes while Europe falls into chaos. When their paths cross during production, their shared passion for their art forms the foundation of a sudden, powerful romance. As external pressures build and the reality of war threatens to break into their sanctuary, the story captures the enduring power of love, art, and sound in times of overwhelming uncertainty.",
+    "keywords": [
+      "1940s",
+      "World War II era",
+      "Brussels",
+      "Flagey building",
+      "radio drama",
+      "sound engineer",
+      "actress",
+      "radio broadcasting",
+      "wartime romance",
+      "forbidden love",
+      "audio effects",
+      "historical romance",
+      "rising shadow of war",
+      "love against the odds",
+      "passion for art"
+    ],
+    "themes": [
+      {
+        "theme": "Love in Times of Crisis",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Artistic Passion & Expression",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fate & Fortuitous Encounters",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Escapism & Solace",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Romantic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical turning point unfolds at the radio station as the war forces a high-stakes decision, pushing Elza and Berre to risk everything to protect what matters most—each other and the truths conveyed through their sound waves.",
+      "conflict": "As their romantic bond deepens, the sudden threat and onset of World War II intrudes upon their safe harbor at the national radio station, forcing them to navigate personal loyalty, artistic integrity, and survival under looming political occupation.",
+      "resolution": "In the aftermath of the crisis, the enduring impact of their love and shared passion for sound leaves an indelible mark, proving that human connection and creative spirit can survive even the darkest historical trials.",
+      "introduction": "In May 1940, amidst the grand backdrop of Brussels' Flagey building, aspiring radio drama actress Elza and talented sound technician Berre meet and form an immediate connection, drawn together by their shared passion for audio storytelling as Europe stands on the precipice of war.",
+      "risingAction": "The rising shadows of war directly impact Flagey; Elza and Berre must balance their burgeoning relationship with the escalating external dangers, using sound and performance as forms of quiet resistance while the world around them becomes increasingly precarious."
+    },
+    "characters": [
+      {
+        "name": "Berre",
+        "role": "Hero",
+        "description": "A gifted soundman with a magical ear who finds solace in sound and falls in love with Elza amidst the backdrop of WWII."
+      },
+      {
+        "name": "Elza",
+        "role": "Hero",
+        "description": "A young actress making her radio drama debut who is enchanted by storytelling and becomes Berre's romantic interest."
+      },
+      {
+        "name": "Supporting Characters (Radio Flagey Staff)",
+        "role": "Supporting Character",
+        "description": "The ensemble of actors played by Jef Hellemans, Femke Vanhove, Koen De Bouw, Peter van den Begin, Nico Sturm, Robbie Cleiren, Els Dottermans, Evelien Bosmans, Antje De Boeck, and Jan Hammenecker who populate the Flagey broadcasting house."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elza",
+        "target": "Berre",
+        "description": "Romantic Interest"
+      }
+    ],
+    "seo": {
+      "slug": "the-soundman",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-soundman](https://movnix.com/movie/the-soundman)",
+        "name": "The Soundman",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Romance",
+          "History"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "en",
+        "description": "May 1940. As Europe trembles on the brink of war, two lives cross within Brussels’ legendary Flagey building, the beating heart of national radio. Elza, a young actress making her debut in radio drama, meets Berre, a gifted soundman with a magical ear. She is enchanted by storytelling; he finds solace in sound. Their encounter sparks a love that dares to exist beyond the rising shadow of their time."
+      },
+      "keywords": [
+        "The Soundman",
+        "The Soundman movie",
+        "historical romance movie",
+        "May 1940 Brussels film",
+        "Flagey building drama",
+        "WWII romance film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-soundman](https://movnix.com/movie/the-soundman)",
+      "metaTitle": "The Soundman (2026) - Historical Drama & Romance | Movnix",
+      "openGraph": {
+        "og:title": "The Soundman - A Story of Love and Sound in May 1940 Brussels",
+        "og:description": "Amidst the onset of WWII, an aspiring radio actress and a soundman with a magical ear cross paths in Brussels' legendary Flagey building."
+      },
+      "twitterCard": {
+        "twitter:title": "The Soundman - Historical Drama Film",
+        "twitter:description": "Two lives cross inside Brussels' Flagey building as war looms over Europe. Discover the story of Elza and Berre in The Soundman."
+      },
+      "metaDescription": "In May 1940 Brussels, a young actress and a gifted soundman find a love that transcends the rising shadows of war inside the iconic Flagey building."
+    },
+    "faq": [
+      {
+        "answer": "The Soundman is set in May 1940, during the onset of World War II in Europe, primarily taking place inside Brussels' iconic Flagey building.",
+        "question": "What is the release or setting timeframe of The Soundman?"
+      },
+      {
+        "answer": "The film follows Elza, a young radio drama actress, and Berre, a talented soundman. The two meet at the national radio headquarters in Brussels and form a deep romantic bond amidst the looming threat of war.",
+        "question": "What is the main story plot of The Soundman?"
+      },
+      {
+        "answer": "The dominant genres are historical drama and romance.",
+        "question": "What is the dominant genre of The Soundman?"
+      },
+      {
+        "answer": "No, it is a standalone period drama film.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, standard historical romance dramas generally do not feature post-credits scenes.",
+        "question": "Is there a post-credits scene in The Soundman?"
+      },
+      {
+        "answer": "The Flagey building serves as the central setting, acting as the heart of Belgium's national radio broadcast and the location where the main characters meet.",
+        "question": "What is the significance of the Flagey building in the movie?"
+      },
+      {
+        "answer": "The story centers on Elza, an aspiring radio actress, and Berre, a gifted soundman with an extraordinary ear for audio.",
+        "question": "Who are the primary main characters in the story?"
+      },
+      {
+        "answer": "While set against real historical events in May 1940 Brussels, the romantic narrative between Elza and Berre is a fictional drama.",
+        "question": "Is The Soundman based on a true story?"
+      },
+      {
+        "answer": "The film explores themes of love during wartime, the power of sound and storytelling, isolation, resilience, and human connection under impending crisis.",
+        "question": "What central themes does the film explore?"
+      },
+      {
+        "answer": "It is ideal for viewers who enjoy WWII historical dramas, vintage media lore, and intimate character-driven romance stories.",
+        "question": "What target audience is this film best suited for?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror or jumpscare elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity present in the overview."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal physical violence implied due to the historical setting on the brink of WWII war context, but no explicit violent acts are detailed."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug or alcohol references present."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic themes detailing a budding love story without explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity driven by wartime historical background and romantic drama."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 1,
+      "mystery": 3,
+      "romance": 10,
+      "science": 1,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-08-17 10:05:26.172376",
+    "updated_at": "2026-08-17 10:05:26.172376"
+  }
 }
