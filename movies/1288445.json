@@ -9,10 +9,10 @@
     "runtime": 95,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 23.186,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 26.3598,
+    "voteAverage": 9,
+    "voteCount": 1,
     "homepage": "https://www.mutiny.movie",
     "posterPath": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
     "backdropPath": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
@@ -746,6 +746,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/mzw97pGSScopHsqNKA9loPBEml4.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oZgoiSxvueDzThWN2uEGH32qfQN.jpg",
+      "width": 1434,
+      "height": 2048,
+      "aspectRatio": 0.7,
+      "type": "poster"
+    },
+    {
       "filePath": "/IRs51MfQzvIlWaYZaIDDatzr6F.jpg",
       "width": 2560,
       "height": 1440,
@@ -824,6 +838,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -967,21 +986,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 58324,
-      "name": "Jean-François Richet",
-      "profilePath": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 976,
       "name": "Jason Statham",
       "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 58324,
+      "name": "Jean-François Richet",
+      "profilePath": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
