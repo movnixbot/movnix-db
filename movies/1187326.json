@@ -434,5 +434,284 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1187326/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1187326,
+    "hash": "d78d3d7009765f17b8ff514db85c646bea2a122375771447b556a81327dbd55e",
+    "summary_one_sentence": "When Tadeo accidentally triggers an ancient curse, he and his loyal friends set out on a globetrotting quest to find the legendary Magic Lamp and save the world from disaster.",
+    "summary_short": "An accidental blunder by aspiring archaeologist Tadeo unleashes a powerful magic spell that puts his closest friends in grave danger. To reverse the ancient curse, Tadeo joins forces with Sara, the mummy, and his faithful animal companions, Jeff and Belzoni. Together, they embark on an action-packed journey across exotic locations to locate a mystical lamp capable of breaking the enchantment. Along the way, they must outsmart ruthless competitors and solve ancient puzzles before time runs out.",
+    "summary_long": "Tadeo's unyielding passion for archaeology once again lands him in hot water when he accidentally disrupts a sacred artifact, unleashing a dangerous ancient spell that threatens his companions. With his friend Mummy transformed and in danger, Tadeo knows he must act quickly to set things right. Alongside his brilliant girlfriend Sara, his faithful dog Jeff, and the eccentric bird Belzoni, Tadeo sets off on an epic international expedition to find the Magic Lamp. Their trek takes them through hidden tombs, bustling ancient cities, and treacherous landscapes filled with magical traps. Along the way, a rival faction seeks to claim the lamp's boundless power for their own nefarious ends, forcing the group to stay one step ahead. Through clever problem-solving and teamwork, the group navigates complex ancient riddles while keeping their adversaries at bay. Tadeo's bumbling nature is balanced by his immense heart and resourceful friends, who prove that courage comes in unexpected forms. Ultimately, Tadeo must face the ultimate test of bravery to secure the lamp, undo the spell, and keep the ancient magical forces out of evil hands.",
+    "synopsis": "Tadeo has always dreamed of being a famous archeologist, but his awkward knack for causing accidental chaos usually gets in the way. When a routine dig goes wrong, Tadeo inadvertently triggers a centuries-old spell that places his loved ones in mortal peril. Joined by his beloved Sara, the ever-enthusiastic Mummy, and his loyal animal sidekicks Jeff and Belzoni, Tadeo embarks on a high-stakes adventure across the globe to discover the lost Magic Lamp—the only artifact capable of undoing the magic. Blending humor, heartwarming friendship, and thrilling action, this animated journey follows an unlikely group of heroes as they brave secret vaults, ancient mysteries, and cunning rivals to save the day.",
+    "keywords": [
+      "ancient spell",
+      "magic lamp",
+      "accidental curse",
+      "archaeology adventure",
+      "mummy companion",
+      "treasure hunt",
+      "global adventure",
+      "mishap prone hero",
+      "pet sidekick",
+      "slapstick comedy",
+      "quest for solution",
+      "mythical artifact",
+      "goofy crew"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Friendship & Loyalty",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Consequences of Mistake",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Adventure & Exploration",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Exciting",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "Tadeo and his companions face their final and most dangerous obstacle, where they must combine their skills and courage to break the curse once and for all.",
+      "conflict": "Tadeo accidentally unleashes an ancient spell, setting off a chain reaction that threatens his friends and forces the group to find a way to reverse the curse.",
+      "resolution": "With the ancient threat neutralized, Tadeo and his friends deal with the aftermath of their journey, emerging closer than ever and returning to their lives with a new perspective.",
+      "introduction": "Tadeo, Sara, Momia, Jeff, and Belzoni are enjoying their usual lives when a new discovery pulls them into an unexpected adventure.",
+      "risingAction": "The team travels across various locations to track down ancient artifacts and clues, staying one step ahead of adversaries while trying to undo the spell before time runs out."
+    },
+    "characters": [
+      {
+        "name": "Tadeo (Tad Stones)",
+        "role": "Hero",
+        "description": "An enthusiastic construction worker and aspiring archaeologist who accidentally triggers an ancient spell and leads his friends on an adventure to fix it."
+      },
+      {
+        "name": "Sara Lavrof",
+        "role": "Supporting Character",
+        "description": "An intrepid, highly intelligent archaeologist and Tad's girlfriend who assists him on his quest with her expertise."
+      },
+      {
+        "name": "Momia (Mummy)",
+        "role": "Comic Relief",
+        "description": "An eccentric ancient mummy and close friend of Tad whose antics frequently bring humor and unexpected help to the group."
+      },
+      {
+        "name": "Jeff",
+        "role": "Comic Relief",
+        "description": "Tad's loyal but food-obsessed dog who frequently gets the group into and out of silly troubles."
+      },
+      {
+        "name": "Belzoni",
+        "role": "Comic Relief",
+        "description": "Sara's mute and highly intelligent pet parrot who communicates using written signs and adds comedic friction."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tadeo",
+        "target": "Sara",
+        "description": "Romantic / Girlfriend"
+      },
+      {
+        "source": "Tadeo",
+        "target": "Momia",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Tadeo",
+        "target": "Jeff",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Tadeo",
+        "target": "Belzoni",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Sara",
+        "target": "Momia",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Sara",
+        "target": "Jeff",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Sara",
+        "target": "Belzoni",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Momia",
+        "target": "Jeff",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Momia",
+        "target": "Belzoni",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "Jeff",
+        "target": "Belzoni",
+        "description": "Friends / Companions"
+      }
+    ],
+    "seo": {
+      "slug": "tad-and-the-magic-lamp",
+      "jsonLd": {
+        "name": "Tad and The Magic Lamp",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Tadeo",
+            "@type": "Person"
+          },
+          {
+            "name": "Sara",
+            "@type": "Person"
+          },
+          {
+            "name": "Momia",
+            "@type": "Person"
+          },
+          {
+            "name": "Jeff",
+            "@type": "Person"
+          },
+          {
+            "name": "Belzoni",
+            "@type": "Person"
+          }
+        ],
+        "description": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell."
+      },
+      "keywords": [
+        "Tad and The Magic Lamp",
+        "Tad and The Magic Lamp movie",
+        "Tadeo movie",
+        "Tad the Lost Explorer",
+        "animated adventure movie",
+        "family animation 2026"
+      ],
+      "canonical": "[https://movnix.com/movie/tad-and-the-magic-lamp](https://movnix.com/movie/tad-and-the-magic-lamp)",
+      "metaTitle": "Tad and The Magic Lamp (2026) - Watch Movie & Overview",
+      "openGraph": {
+        "og:title": "Tad and The Magic Lamp - An Epic Animated Adventure",
+        "og:description": "Join Tadeo and his friends as they embark on an exciting journey after unleashing an ancient magical spell!"
+      },
+      "twitterCard": {
+        "twitter:title": "Tad and The Magic Lamp - Movie Overview",
+        "twitter:description": "Join Tadeo and his friends as they embark on an exciting journey after unleashing an ancient magical spell!"
+      },
+      "metaDescription": "Join Tadeo, Sara, Momia, Jeff, and Belzoni in Tad and The Magic Lamp on an epic new adventure after an ancient spell is accidentally unleashed."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the Spanish animated adventure franchise featuring the protagonist Tad Stones (Tadeo Jones), which includes previous films like 'Tad, The Lost Explorer' (2012), 'Tad, the Lost Explorer and the Secret of King Midas' (2017), and 'Tad, the Lost Explorer and the Emerald Tablet' (2022).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are computer animation, family adventure, and comedy, blending Indiana Jones-style treasure hunting with lighthearted slapstick humor.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "Yes, typical of the franchise, there is a mid-credits or post-credits comedic scene featuring the antics of Tad's companions, Momia (the Mummy), Jeff the dog, and Belzoni the parrot.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "The main characters include Tadeo (Tad), an aspiring archaeologist; Sara Lavroff, his brilliant partner and girlfriend; Momia, an eccentric mummy; Jeff, Tad's loyal dog; and Belzoni, a sarcastic parrot.",
+        "question": "Who are the main characters featured in the story?"
+      },
+      {
+        "answer": "The main conflict begins when Tad accidentally unleashes an ancient spell, forcing him and his companions to embark on a globe-trotting mission to stop the magic before it causes chaos.",
+        "question": "What triggers the core conflict in the story?"
+      },
+      {
+        "answer": "The film was directed by Enrique Gato, the Spanish filmmaker who created and directed the entire Tadeo Jones franchise.",
+        "question": "Who directed the film?"
+      },
+      {
+        "answer": "Yes, it is a family-friendly film rated G / PG, featuring colorful animation, accessible humor, and mild action sequences suitable for kids and general audiences.",
+        "question": "Is this movie suitable for young children?"
+      },
+      {
+        "answer": "It is intended primarily for children, families, and fans of animated action-adventure comedies.",
+        "question": "What target audience is this movie intended for?"
+      },
+      {
+        "answer": "Yes, depending on the international region, the film series uses titles under the banner 'Tad the Lost Explorer' or 'Tadeo Jones' in Spanish-speaking territories.",
+        "question": "Does the movie go by any alternative titles?"
+      },
+      {
+        "answer": "No, while familiar characters return from earlier installments, the story is self-contained and easy to follow as an independent adventure.",
+        "question": "Do I need to watch the previous movies to understand this one?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild animated scare elements, supernatural themes involving curses and mummies, and light suspenseful moments that may briefly startle younger viewers."
+      },
+      "language": {
+        "score": 1,
+        "description": "Infrequent mild insult language or light comedic exclamations suitable for a general audience, with no strong profanity."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild slapstick and animated action violence typical of children's adventure films, involving light peril, comedic cartoon chaos, and physical gags without realistic injuries or blood."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse content present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content. May contain mild romantic tropes or affectionate gestures typical of family-friendly animated movies."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Low to moderate emotional intensity featuring manageable thematic elements of friendship, teamwork, and mild peril resolved through humor."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 8,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 9,
+      "mystery": 6,
+      "romance": 4,
+      "science": 1,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-08-18 20:01:40.075395",
+    "updated_at": "2026-08-18 20:01:40.075395"
+  }
 }
