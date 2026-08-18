@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.3866,
+    "popularity": 5.8369,
     "voteAverage": 6,
     "voteCount": 4,
     "homepage": "https://movies.shochiku.co.jp/mysteryarena-movie/",
@@ -382,5 +382,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1647153/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1647153,
+    "hash": "6175aca25a5b70753c39ad4bd4f28ff9606de948acc3899f5a4838d95b48a95a",
+    "summary_one_sentence": "Six contestants battle in a live, high-stakes TV quiz show to unravel a closed-circle murder mystery and win a 10 billion yen jackpot.",
+    "summary_short": "Six sharp-minded contestants gather on a live television quiz show featuring a massive 10 billion yen jackpot. The game forces them to unravel a complex closed-circle murder mystery, where every clue presented uncovers darker secrets behind the crime. As time ticks down and the pressure builds, alliances shift and personal motives surface on national television.",
+    "summary_long": "MYSTERY ARENA brings together six brilliant contestants from diverse backgrounds to participate in an unprecedented live television quiz event. Enticed by a life-changing 10 billion yen jackpot, the players are tasked with solving a meticulously crafted closed-circle murder mystery in real-time. As the broadcast unfolds, the host presents dynamic evidence, witness testimonies, and intricate crime scene recreations designed to test their deductive capabilities. However, the game rapidly turns sinister as the line between the fictional crime and the participants' real lives begins to blur. Clues dropped throughout the rounds seem deliberately tailored to expose hidden connection between the contestants and the victim. Rivalries intensify as players manipulate one another, desperately trying to hoard crucial information while avoiding public embarrassment on live air. With the jackpot hanging in the balance, each contestant must weigh truth against deception before time runs out. Ultimately, solving the grand puzzle requires revealing not just who committed the murder, but the shocking reason why this arena was constructed in the first place.",
+    "synopsis": "MYSTERY ARENA is an intense psychological thriller that combines the thrill of a live TV game show with the suspense of a classic whodunit. Six contestants compete under the bright lights of a televised arena, solving a locked-room murder case to claim a 10 billion yen prize. As the dynamic quiz progresses through multiple round-based deductions, hidden agendas and personal ties to the mystery come to light, making for a thrilling blend of drama and mystery.",
+    "keywords": [
+      "closed-circle mystery",
+      "high-stakes competition",
+      "quiz show",
+      "reality tv",
+      "murder mystery",
+      "game show",
+      "10 billion yen jackpot",
+      "contestants",
+      "live broadcast",
+      "survival game",
+      "deduction",
+      "psychological tension",
+      "whodunit"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Greed & Materialism",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Justice vs. Entertainment",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Deception & Hidden Truths",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A central contestant presents a final, decisive deduction that confronts the core secret of the mystery, exposing the true sequence of events in front of the live audience.",
+      "conflict": "The participants must balance aggressive competition against one another with the cognitive challenge of piecing together the intricate clues of the mystery under intense pressure.",
+      "resolution": "The game concludes, revealing the winner, the true nature of the mystery arena, and the immediate aftermath for the contestants after the broadcast ends.",
+      "introduction": "Six contestants are introduced as they enter the high-stakes live TV show 'MYSTERY ARENA', where a 10 billion yen jackpot awaits anyone who can solve a complex, closed-circle murder mystery.",
+      "risingAction": "As the live broadcast progresses, contestants eliminate obvious suspects, uncover deeper layers of the puzzle, and navigate shifting dynamics as the stakes and tension escalate dramatically."
+    },
+    "characters": [
+      {
+        "name": "Unknown / Main Host",
+        "role": "Other",
+        "description": "The enigmatic host who controls the rules, pacing, and stakes of the 10 billion yen quiz show."
+      },
+      {
+        "name": "Contestant 1 (Toshiaki Karasawa)",
+        "role": "Hero",
+        "description": "A sharp, determined participant driven to uncover the true killer behind the closed-circle mystery to win the jackpot."
+      },
+      {
+        "name": "Contestant 2 (Mana Ashida)",
+        "role": "Mentor",
+        "description": "A highly analytical and observant contestant who uses keen deduction to guide others through complex clues."
+      },
+      {
+        "name": "Contestant 3 (Toko Miura)",
+        "role": "Supporting Character",
+        "description": "A quiet but insightful contestant who provides crucial observations during key moments of the game."
+      },
+      {
+        "name": "Contestant 4 (Nobuyuki Suzuki)",
+        "role": "Anti Hero",
+        "description": "A ruthless and pragmatic player willing to use aggressive tactics and moral ambiguity to secure victory."
+      },
+      {
+        "name": "Contestant 5 (Reina Triendl)",
+        "role": "Comic Relief",
+        "description": "An upbeat participant who lightens the intense pressure of the live TV environment with humor."
+      },
+      {
+        "name": "Contestant 6 (So Okuno)",
+        "role": "Villain",
+        "description": "A deceitful competitor manipulating the game from within to hide their connection to the actual crime."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ichiko",
+        "target": "Sango",
+        "description": "Best Friends / Imaginary Companion (Sango is a mysterious presence only Ichiko can see)"
+      },
+      {
+        "source": "Momotaro Kabayama",
+        "target": "Reika Monteleone",
+        "description": "Host and Assistant (Kabayama hosts Mystery Arena while Reika serves as his co-host/assistant)"
+      },
+      {
+        "source": "Ichiko",
+        "target": "Gamble",
+        "description": "Contestant Rivals (Competing against each other for the 10 billion yen jackpot)"
+      },
+      {
+        "source": "Ichiko",
+        "target": "Ano Misu",
+        "description": "Contestant Rivals (Competing against each other for the 10 billion yen jackpot)"
+      },
+      {
+        "source": "Ichiko",
+        "target": "Butsumetsu",
+        "description": "Contestant Rivals (Competing against each other for the 10 billion yen jackpot)"
+      },
+      {
+        "source": "Ichiko",
+        "target": "Edison",
+        "description": "Contestant Rivals (Competing against each other for the 10 billion yen jackpot)"
+      },
+      {
+        "source": "Ichiko",
+        "target": "Legend",
+        "description": "Contestant Rivals (Competing against each other for the 10 billion yen jackpot)"
+      },
+      {
+        "source": "Momotaro Kabayama",
+        "target": "Ichiko",
+        "description": "Show Host and Contestant (Kabayama orchestrates the high-stakes game that forces Ichiko and others to solve the mystery)"
+      }
+    ],
+    "seo": {
+      "slug": "mystery-arena",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/mystery-arena](https://movnix.com/movie/mystery-arena)",
+        "name": "MYSTERY ARENA",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Six contestants compete in a high-stakes live TV quiz show to solve a complex closed-circle murder mystery for a 10 billion yen jackpot."
+      },
+      "keywords": [
+        "Mystery Arena",
+        "Mystery Arena movie",
+        "Japanese mystery movie",
+        "closed circle murder mystery",
+        "quiz show thriller",
+        "10 billion yen jackpot"
+      ],
+      "canonical": "[https://movnix.com/movie/mystery-arena](https://movnix.com/movie/mystery-arena)",
+      "metaTitle": "MYSTERY ARENA (2026) - Live TV Murder Mystery Quiz Show",
+      "openGraph": {
+        "og:title": "MYSTERY ARENA - 10 Billion Yen Murder Mystery Showdown",
+        "og:description": "Six contestants. One closed-circle murder mystery. A 10 billion yen prize. Who will solve the ultimate live TV quiz show?"
+      },
+      "twitterCard": {
+        "twitter:title": "MYSTERY ARENA - High-Stakes Murder Mystery Quiz Show",
+        "twitter:description": "Six contestants face off on live TV to solve a closed-circle murder mystery for a 10 billion yen jackpot."
+      },
+      "metaDescription": "Six contestants solve a closed-circle murder mystery on live TV for a 10 billion yen jackpot in Mystery Arena. Watch the ultimate high-stakes showdown."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is a high-stakes psychological thriller and mystery drama, combining elements of a classic closed-circle whodunit with competitive game show tension.",
+        "question": "What is the dominant genre of Mystery Arena?"
+      },
+      {
+        "answer": "Mystery Arena is based on the acclaimed mystery novel of the same name written by Shusuke Michio.",
+        "question": "Is Mystery Arena based on a book or an original story?"
+      },
+      {
+        "answer": "Six contestants participate in a live, high-stakes television quiz show where they must deduce the truth behind a complex 'closed-circle' murder mystery to claim a 10 billion yen grand prize.",
+        "question": "What is the core premise of Mystery Arena?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not currently part of a cinematic universe or larger franchise.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene, but the final moments before the credits deliver a conclusive revelation regarding the mystery.",
+        "question": "Is there a post-credit scene in Mystery Arena?"
+      },
+      {
+        "answer": "It is intended for fans of puzzle-focused murder mysteries, escape room thrillers, and psychological mind games.",
+        "question": "Who is the primary audience for Mystery Arena?"
+      },
+      {
+        "answer": "Instead of a traditional detective leading an investigation, the contestants actively solve the crime in real time under the pressure of live TV broadcast rules and elimination dynamics.",
+        "question": "What makes the mystery aspect unique compared to traditional detective stories?"
+      },
+      {
+        "answer": "It is generally intended for mature audiences due to intense suspense, psychological tension, and thematic elements surrounding murder investigations.",
+        "question": "Is Mystery Arena suitable for all ages?"
+      },
+      {
+        "answer": "Along with the 10 billion yen jackpot, contestants face intense public scrutiny, personal secrets being revealed on air, and psychological pressure as the game unfolds.",
+        "question": "What is at stake for the contestants besides the cash prize?"
+      },
+      {
+        "answer": "Yes, the narrative presents clues and evidence progressively, allowing the audience to engage in fair-play deduction alongside the contestants.",
+        "question": "Does the viewer get a chance to solve the mystery alongside the characters?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Suspenseful atmosphere and disturbing themes surrounding murder, though likely focused more on mystery than shock horror."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate coarse language driven by high-stress competition and high stakes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depictions of a murder investigation, potentially featuring blood or graphic crime scene details related to the mystery."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Potential minor references to alcohol or substances in context of the crime or contestants relaxing."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No inherent sexual content indicated by the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High psychological tension and distress stemming from life-or-death scenarios and high financial stakes."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 10,
+      "romance": 1,
+      "science": 3,
+      "suspense": 10,
+      "violence": 4
+    },
+    "created_at": "2026-08-17 14:01:37.110487",
+    "updated_at": "2026-08-17 14:01:37.110487"
+  }
 }
