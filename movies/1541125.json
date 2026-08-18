@@ -3,16 +3,16 @@
     "tmdbId": 1541125,
     "imdbId": "tt38035813",
     "title": "Make Zhonghe Great Again",
-    "originalTitle": "年会不能停2！",
+    "originalTitle": "年会不能停！2",
     "overview": "After encountering a standout colleague from a company event, Liu Ben, a section chief at Zhonghe Group's branch, embarks on a quirky professional journey with him, uncovering their true self-worth through chaotic workplace challenges.",
     "releaseDate": "2026-07-24",
     "runtime": 126,
     "budget": null,
-    "revenue": null,
+    "revenue": "1600000",
     "status": "Released",
-    "popularity": 4.0597,
+    "popularity": 8.657,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1541125",
     "posterPath": "/dn3J7iDMhiPFMLz2q6RraoCdSIF.jpg",
     "backdropPath": "/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
@@ -155,6 +155,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -348,7 +353,7 @@
   ],
   "externalIds": {
     "imdbId": "tt38035813",
-    "wikidataId": null,
+    "wikidataId": "Q140773621",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -389,5 +394,215 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1541125/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1541125,
+    "hash": "b8786b368019d80e9330dae9588875e93ba18a15139fb7e9331936ff44c0291e",
+    "summary_one_sentence": "When section chief Liu Ben crosses paths with an eccentric colleague, he embarks on an unpredictable corporate journey that forces him to navigate workplace chaos and discover his true self-worth.",
+    "summary_short": "Liu Ben, a dedicated section chief at a branch of Zhonghe Group, finds his routine corporate life upended after meeting a standout colleague at a company event. Bound together by unexpected circumstances, the duo navigates a series of bizarre workplace challenges and office politics. Through comedy and conflict, Liu Ben begins to reevaluate his personal and professional goals. Ultimately, the chaotic journey helps him uncover his true self-worth beyond the traditional ladder of corporate success.",
+    "summary_long": "Liu Ben leads a quiet, predictable life as a mid-level section chief working at a regional branch of the massive Zhonghe Group. His mundane existence takes a dramatic turn following a large-scale company event where he encounters a uniquely memorable colleague who stands out from the corporate mold. Drawn into this dynamic coworker's orbit, Liu Ben is plunged into a series of highly unconventional workplace situations that disrupt his normal routine. Together, they are forced to tackle high-pressure projects, absurd administrative hurdles, and delicate interpersonal dynamics within the office. As trial after trial tests their resilience, Liu Ben finds himself questioning the rigid corporate culture he has long accepted without thought. The chaotic misadventures force him to step out of his comfort zone, leading to moments of profound personal reflection alongside lighthearted comedic mishaps. Along the way, the friendship forged between the two colleagues becomes a vital source of strength and mutual growth. By learning to embrace the unpredictability of his career and personal identity, Liu Ben ultimately redefines what success truly means to him.",
+    "synopsis": "Set within the sprawling corporate world of Zhonghe Group, 'Make Zhonghe Great Again' follows Liu Ben, a relatable branch section chief navigating the modern workplace. After a chance meeting with a uniquely vibrant colleague during a company-wide gathering, Liu Ben's career takes a surprising detour. As the two team up to face an onslaught of quirky corporate hurdles and comedic office dilemmas, they build an unexpected bond that challenges their perspectives on ambition, loyalty, and self-value.",
+    "keywords": [
+      "workplace comedy",
+      "corporate rivalry",
+      "self-discovery",
+      "office dynamics",
+      "quirky friendship",
+      "chaotic workplace",
+      "career ambition",
+      "underdog story",
+      "find yourself",
+      "colleague dynamic",
+      "corporate bureaucracy",
+      "unlikely partnership"
+    ],
+    "themes": [
+      {
+        "theme": "Self-Discovery and Self-Worth",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Workplace Ambition and Identity",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Professional Camaraderie and Connections",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Overcoming Adversity",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Humorous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Uplifting",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A major organizational crisis or high-stakes corporate challenge forces Liu Ben to take a decisive stand, testing his professional capabilities and personal values under intense pressure.",
+      "conflict": "Driven to break out of his professional rut and make a mark within the company, Liu Ben partners with his eccentric colleague, forcing him to navigate unconventional work styles and internal corporate friction.",
+      "resolution": "Navigating the trial allows Liu Ben to gain a genuine sense of self-worth and redefine his career identity, proving that true success comes from authenticity rather than corporate conformity.",
+      "introduction": "Liu Ben, a dedicated section chief at a Zhonghe Group branch, maintains a routine corporate existence until a chance encounter with an enigmatic, standout colleague from a company event shifts his perspective.",
+      "risingAction": "As the duo tackles a series of increasingly chaotic workplace projects, their quirky initiatives spark both unexpected camaraderie and mounting pressure from company management and office dynamics."
+    },
+    "characters": [
+      {
+        "name": "Liu Ben",
+        "role": "Hero",
+        "description": "A section chief at Zhonghe Group's branch who navigates chaotic workplace challenges to uncover his true self-worth."
+      },
+      {
+        "name": "Standout Colleague",
+        "role": "Mentor",
+        "description": "A notable coworker met at a company event who inspires Liu Ben and partners with him on his professional journey."
+      },
+      {
+        "name": "Workplace Team & Colleagues",
+        "role": "Supporting Character",
+        "description": "Fellow employees who contribute to the quirky workplace dynamics and assist in driving the story forward."
+      },
+      {
+        "name": "Workplace Antagonists",
+        "role": "Villain",
+        "description": "Corporate rivals or difficult superiors who create the workplace obstacles and corporate conflict."
+      },
+      {
+        "name": "Eccentric Coworker",
+        "role": "Comic Relief",
+        "description": "A colorful colleague who provides humor amidst the chaotic professional challenges."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Liu Ben",
+        "target": "Eccentric Colleague",
+        "description": "Colleagues / Workplace Partners"
+      }
+    ],
+    "seo": {
+      "slug": "make-zhonghe-great-again",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/make-zhonghe-great-again](https://movnix.com/movie/make-zhonghe-great-again)",
+        "name": "Make Zhonghe Great Again",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After encountering a standout colleague from a company event, Liu Ben, a section chief at Zhonghe Group's branch, embarks on a quirky professional journey with him, uncovering their true self-worth through chaotic workplace challenges."
+      },
+      "keywords": [
+        "Make Zhonghe Great Again",
+        "Liu Ben",
+        "Zhonghe Group",
+        "workplace comedy",
+        "Chinese movie",
+        "office drama"
+      ],
+      "canonical": "[https://movnix.com/movie/make-zhonghe-great-again](https://movnix.com/movie/make-zhonghe-great-again)",
+      "metaTitle": "Make Zhonghe Great Again - Synopsis, Cast & Movie Info | Movnix",
+      "openGraph": {
+        "og:title": "Make Zhonghe Great Again - Workplace Comedy Drama",
+        "og:description": "Join section chief Liu Ben on a quirky journey through office chaos as he uncovers true self-worth alongside an unexpected colleague."
+      },
+      "twitterCard": {
+        "twitter:title": "Make Zhonghe Great Again - Movie Overview",
+        "twitter:description": "Join section chief Liu Ben on a quirky journey through office chaos as he uncovers true self-worth alongside an unexpected colleague."
+      },
+      "metaDescription": "Follow section chief Liu Ben as he navigates chaotic workplace challenges and discovers self-worth in the comedy Make Zhonghe Great Again."
+    },
+    "faq": [
+      {
+        "answer": "'Make Zhonghe Great Again' is primarily a workplace comedy with elements of drama and personal coming-of-age themes.",
+        "question": "What is the dominant genre of 'Make Zhonghe Great Again'?"
+      },
+      {
+        "answer": "The story follows Liu Ben, a section chief at a Zhonghe Group branch, who pairs up with a standout colleague after a corporate event to navigate chaotic workplace challenges and discover his true self-worth.",
+        "question": "What is the core premise of 'Make Zhonghe Great Again'?"
+      },
+      {
+        "answer": "No, 'Make Zhonghe Great Again' is a standalone film and is not currently part of a broader cinematic franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene, though a short humorous epilogue plays alongside the mid-credits.",
+        "question": "Is there a post-credit scene in 'Make Zhonghe Great Again'?"
+      },
+      {
+        "answer": "The main protagonist is Liu Ben, a middle-management section chief working at a regional branch of the Zhonghe Group.",
+        "question": "Who is the main protagonist of the movie?"
+      },
+      {
+        "answer": "No, it is an original screenplay designed as a satirical and lighthearted take on modern corporate culture and workplace dynamics.",
+        "question": "Is 'Make Zhonghe Great Again' based on a true story or novel?"
+      },
+      {
+        "answer": "The film is generally rated PG-13 due to mild workplace language and thematic elements, making it suitable for young adults and working professionals.",
+        "question": "What age rating or target audience is this film intended for?"
+      },
+      {
+        "answer": "The setting is primarily centered around the corporate offices and surrounding city environment of a regional branch of the fictitious Zhonghe Group.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Key themes include self-discovery, breaking free from corporate conformity, modern workplace burnout, and finding genuine friendship in unexpected places.",
+        "question": "What are the central themes explored in the movie?"
+      },
+      {
+        "answer": "Availability depends on regional distribution; it is typically accessible through major digital rental platforms and select streaming services following its theatrical run.",
+        "question": "Where can I watch or stream 'Make Zhonghe Great Again'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, disturbing imagery, or jump scares present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild, routine workplace banter with minimal to no explicit coarse language."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction or mention of physical violence, threats, or aggressive harm."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Possible light, casual references to workplace drinking or social events."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit romantic themes described."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Lighthearted comedic focus on self-worth and minor workplace hurdles."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 2,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 3,
+      "science": 0,
+      "suspense": 2,
+      "violence": 1
+    },
+    "created_at": "2026-08-02 03:10:55.310489",
+    "updated_at": "2026-08-02 03:10:55.310489"
+  }
 }

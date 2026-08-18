@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.9282,
-    "voteAverage": 5.996,
-    "voteCount": 263,
+    "popularity": 13.11,
+    "voteAverage": 5.989,
+    "voteCount": 265,
     "homepage": "https://www.theexchange.ws/portfolio/world-breaker/",
     "posterPath": "/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
     "backdropPath": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
@@ -522,8 +522,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.996,
-      "votesCount": 263
+      "ratingValue": 5.989,
+      "votesCount": 265
     },
     {
       "source": "imdb",
@@ -807,5 +807,221 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1196067/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1196067,
+    "hash": "7afa02e3e3e7e8c8a04cb6fc218f5a87de35667232bb7e4302ef4d0694cd191e",
+    "summary_one_sentence": "Five years after interdimensional creatures invade Earth, a father must raise and train his daughter on an isolated island to ensure her survival in a fracturing world.",
+    "summary_short": "When a tear in reality unleash destructive creatures from an alternate dimension onto Earth, humanity is pushed to the brink of extinction. To protect his daughter, a father escapes to a secluded island where he raises her under rigorous survival training for the unavoidable threats ahead. As the existential danger intensifies worldwide, their sanctuary becomes compromised, forcing them to put their preparation to the ultimate test. They must stand together as their fragile refuge gives way to the impending end of the world.",
+    "summary_long": "Five years prior, a catastrophic rupture in the fabric of reality opened a gateway to a terrifying alternate dimension, releasing ruthless monsters intent on human annihilation. Amidst the chaos and collapse of civilization, a devoted father flees to a remote, hidden island to safeguard his young daughter from the carnage. Over the years, he transforms their isolated refuge into a strict training ground, equipping her with essential survival tactics, tactical knowledge, and combat skills for the apocalyptic reality they inhabit. Despite his meticulous efforts to shelter her from the horrors beyond their shores, global chaos worsens as the realm-altering tear continues to destabilize the planet. The father knows that physical distance offers only a temporary respite against an enemy bent on total destruction. Soon, signs of the interdimensional threat begin to breach their once-safe perimeter, shattering the illusion of absolute security. Realizing that no corner of the earth remains untouched, father and daughter must step into the fray to face the monstrous forces head-on. Together, they fight not only for their own survival, but against the ultimate breakdown of their world.",
+    "synopsis": "Five years after a dimensional breach unleashes monstrous entities bent on destroying Earth, a protective father retreats with his daughter to an isolated island refuge. Cut off from the remnants of society, he spends years preparing her for a hostile reality, instilling critical survival skills and combat techniques necessary to endure a world in ruin. However, as the interdimensional threat escalates and the fabric of reality degrades further, their hidden sanctuary is put at risk. The pair must come to terms with the reality that true safety no longer exists, forcing them to confront the horrors of a dying planet together.",
+    "keywords": [
+      "dimensional rift",
+      "alternate dimension",
+      "monster invasion",
+      "apocalyptic world",
+      "protective father",
+      "father daughter bond",
+      "island refuge",
+      "survival training",
+      "doomsday preparation",
+      "threat of extinction",
+      "dark science fiction",
+      "creature feature",
+      "isolated setting",
+      "impending collapse",
+      "relentless survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Protection and Parenthood",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "With the fabric of the world on the brink of complete destruction, no place remains safe, forcing a desperate, final stand against the dimensional threats.",
+      "conflict": "The ongoing threat of the invaders persists, and the father must balance shielding his daughter from immediate danger with preparing her for an inevitable, wider war.",
+      "resolution": "The aftermath of the ultimate confrontation reveals whether their preparations were enough to survive the changing world and secure a future.",
+      "introduction": "Five years after dimensional tears unleashed destructive creatures upon Earth, a protective father hides his daughter on an isolated island, training her for survival and the looming threat.",
+      "risingAction": "As the dimensional instability worsens and the global crisis reaches a tipping point, the sanctuary of the island is threatened, forcing father and daughter to confront the escalating danger."
+    },
+    "characters": [
+      {
+        "name": "Father",
+        "role": "Hero",
+        "description": "Protects his daughter and prepares her for survival against the incoming dimensional threat."
+      },
+      {
+        "name": "Daughter",
+        "role": "Supporting Character",
+        "description": "Hidden on an island and trained by her father to survive the coming catastrophe."
+      },
+      {
+        "name": "Dimensional Creatures / Leader",
+        "role": "Villain",
+        "description": "Interdimensional entities bent on the destruction of the world."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Father",
+        "target": "Daughter",
+        "description": "Father/Daughter, Protector/Protege"
+      },
+      {
+        "source": "Father",
+        "target": "Interdimensional Creatures",
+        "description": "Enemies, Combatants"
+      },
+      {
+        "source": "Daughter",
+        "target": "Interdimensional Creatures",
+        "description": "Prey/Threat"
+      }
+    ],
+    "seo": {
+      "slug": "worldbreaker",
+      "jsonLd": {
+        "name": "Worldbreaker",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe."
+      },
+      "keywords": [
+        "Worldbreaker movie",
+        "Worldbreaker film",
+        "Worldbreaker synopsis",
+        "sci-fi thriller movie",
+        "alternate dimension invasion"
+      ],
+      "canonical": "[https://movnix.com/movie/worldbreaker](https://movnix.com/movie/worldbreaker)",
+      "metaTitle": "Worldbreaker (2025) - Sci-Fi Thriller Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Worldbreaker - Sci-Fi Thriller Movie",
+        "og:description": "When an alternate dimension threatens Earth's existence, a father trains his daughter for ultimate survival. Watch the journey unfold."
+      },
+      "twitterCard": {
+        "twitter:title": "Worldbreaker - Sci-Fi Thriller Movie",
+        "twitter:description": "When an alternate dimension threatens Earth's existence, a father trains his daughter for ultimate survival."
+      },
+      "metaDescription": "A father trains his daughter on a remote island to survive an invasion of dimension-tearing creatures threatening to shatter the world."
+    },
+    "faq": [
+      {
+        "answer": "Worldbreaker follows a father who hides his daughter on an isolated island to prepare her for survival five years after a rift in reality unleashes destructive creatures from an alternate dimension onto Earth.",
+        "question": "What is the premise of Worldbreaker?"
+      },
+      {
+        "answer": "The dominant genre is a blend of sci-fi action, thriller, and apocalyptic drama.",
+        "question": "What is the dominant genre of Worldbreaker?"
+      },
+      {
+        "answer": "No, Worldbreaker is an original standalone film, though its expansive sci-fi world leaves room for potential expansions.",
+        "question": "Is Worldbreaker part of an existing franchise?"
+      },
+      {
+        "answer": "The film targets fans of post-apocalyptic stories, dimensional sci-fi thrillers, and survival-driven action dramas.",
+        "question": "Who are the primary targets of the film's audience?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the credits finish rolling.",
+        "question": "Is there a post-credits scene in Worldbreaker?"
+      },
+      {
+        "answer": "The central themes focus on parental instinct, survivalism, endurance, and the inevitability of facing global threat regardless of isolation.",
+        "question": "What is the central theme of the movie?"
+      },
+      {
+        "answer": "The core of the story takes place on a remote island where the father trains his daughter, before the escalating crisis forces them into the open.",
+        "question": "Where does most of the story take place?"
+      },
+      {
+        "answer": "A tear in the fabric of reality opened five years prior to the events of the movie, allowing hostile creatures from an alternate dimension to enter Earth.",
+        "question": "What caused the threat in Worldbreaker?"
+      },
+      {
+        "answer": "Due to intense action sequences, creature violence, and suspenseful thriller elements, it is primarily intended for teens and adult audiences.",
+        "question": "Is Worldbreaker suitable for family viewing?"
+      },
+      {
+        "answer": "Worldbreaker is available through standard theatrical distributions and digital streaming platforms depending on regional licensing.",
+        "question": "Where can I watch Worldbreaker?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate horror elements driven by menacing otherworldly monsters and impending world extinction."
+      },
+      "language": {
+        "score": 2,
+        "description": "Minimal explicit language indicated, though intense situational distress is present."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High level of intense action, survival combat, and apocalyptic violence involving destructive dimensional creatures."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or romance indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional stakes focused on parental protection, child survival, and apocalyptic dread."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 4,
+      "mystery": 6,
+      "romance": 0,
+      "science": 7,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-08-17 19:22:00.393854",
+    "updated_at": "2026-08-17 19:22:00.393854"
+  }
 }
