@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 7.9865,
+    "popularity": 7.4523,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.streetfightermovie.com",
@@ -51,11 +51,18 @@
   "keywords": [],
   "videos": [
     {
-      "name": "Blanka vs. Ryu",
-      "key": "eGyyykgo6Qo",
+      "name": "Mean green fighting machine.",
+      "key": "VskInhriE9c",
       "site": "YouTube",
       "size": 1080,
       "type": "Featurette"
+    },
+    {
+      "name": "Blanka vs. Ryu Special Look",
+      "key": "eGyyykgo6Qo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
     },
     {
       "name": "50 Cent",
@@ -692,19 +699,19 @@
   ],
   "credits": [
     {
-      "tmdbPersonId": 1253353,
-      "name": "Noah Centineo",
-      "profilePath": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
-      "character": "Ken Masters",
+      "tmdbPersonId": 1658375,
+      "name": "Andrew Koji",
+      "profilePath": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg",
+      "character": "Ryu",
       "job": "Actor",
       "department": "Acting",
       "order": 0
     },
     {
-      "tmdbPersonId": 1658375,
-      "name": "Andrew Koji",
-      "profilePath": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg",
-      "character": "Ryu",
+      "tmdbPersonId": 1253353,
+      "name": "Noah Centineo",
+      "profilePath": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+      "character": "Ken Masters",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -773,13 +780,22 @@
       "order": 8
     },
     {
-      "tmdbPersonId": 3135936,
-      "name": "Orville Peck",
-      "profilePath": "/b3CiciqfUCkXyLhAVvMiKMNxRNJ.jpg",
-      "character": "Vega",
+      "tmdbPersonId": 2637828,
+      "name": "Mel Jarnson",
+      "profilePath": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg",
+      "character": "Cammy",
       "job": "Actor",
       "department": "Acting",
       "order": 9
+    },
+    {
+      "tmdbPersonId": 3135936,
+      "name": "Orville Peck",
+      "profilePath": "/sGR0sHefu75lxMXcYGciYCSBZPA.jpg",
+      "character": "Vega",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
     },
     {
       "tmdbPersonId": 2074238,
@@ -788,40 +804,31 @@
       "character": "Zangief",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 1281805,
-      "name": "Hirooki Goto",
-      "profilePath": "/uzqLC7AbKClQzcDPHZVRCyxacLx.jpg",
-      "character": "E. Honda",
-      "job": "Actor",
-      "department": "Acting",
       "order": 11
-    },
-    {
-      "tmdbPersonId": 1828987,
-      "name": "Rayna Vallandingham",
-      "profilePath": "/hAIWaRWdJB2CIOIpNuEa7Cesjv4.jpg",
-      "character": "Juli",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 1917297,
-      "name": "Alexander Volkanovski",
-      "profilePath": "/zCEe5Le93whbKXgUikCJ3hFz4Y0.jpg",
-      "character": "Joe",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
     },
     {
       "tmdbPersonId": 62644,
       "name": "50 Cent",
       "profilePath": "/7VfwFIwBxy7qBUErosWRDQOovl9.jpg",
       "character": "Balrog",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 117642,
+      "name": "Jason Momoa",
+      "profilePath": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+      "character": "Blanka",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 1281805,
+      "name": "Hirooki Goto",
+      "profilePath": "/uzqLC7AbKClQzcDPHZVRCyxacLx.jpg",
+      "character": "E. Honda",
       "job": "Actor",
       "department": "Acting",
       "order": 14
