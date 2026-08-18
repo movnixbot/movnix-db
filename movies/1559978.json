@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 3.7045,
+    "popularity": 3.8249,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1559978",
@@ -155,7 +155,7 @@
       "tmdbPersonId": 51120,
       "name": "Elliot Cowan",
       "profilePath": "/zxewsfDGYuCqV7gsZjMQct6BXMJ.jpg",
-      "character": null,
+      "character": "King Frederic",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -250,5 +250,259 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1559978/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1559978,
+    "hash": "d4d6c8c0f094f8497cb8003488529679d22158df293b3c30765f4f5c46d2a2f1",
+    "summary_one_sentence": "A live-action adaptation of Disney's classic tale follows long-haired Rapunzel as she escapes her secluded tower with the help of a charming thief to discover the world and her true identity.",
+    "summary_short": "In this live-action reimagining of Disney's animated favorite, the long-haired Rapunzel has spent her entire life locked away in a hidden tower by Gothel. Desperate to see the mysterious floating lanterns that appear every year on her birthday, she strikes a deal with the kingdom's most-wanted thief, Flynn Rider. Together, they embark on a swashbuckling journey filled with danger, humor, and self-discovery. As their bond deepens, Rapunzel unlocks secrets about her past that could change the fate of the kingdom forever.",
+    "summary_long": "Princess Rapunzel is born with magical, golden glowing hair endowed with healing powers, leading the power-hungry Gothel to kidnap her and raise her in an isolated tower. Grown up and curious about the outside world, Rapunzel yearns to see the mysterious floating lights that illuminate the sky every year on her birthday. Her chance arrives when the rogueish thief Flynn Rider stumbles into her tower while fleeing the royal guards after stealing a precious crown. Rapunzel hides his stolen treasure and bargains to return it only if Flynn acts as her guide to the Kingdom of Corona. Along their journey, they evade Gothel's pursuit, outsmart royal guards, and befriend a palace horse named Maximus alongside a colorful band of thugs. Through their adventures, Rapunzel experiences the outside world for the first time while Flynn begins to abandon his selfish ways. As they reach the kingdom and witness the lantern festival together, Rapunzel realizes the floating lights were meant for her, unraveling the truth of her royal heritage. Ultimately, Rapunzel and Flynn must confront Gothel to reclaim her freedom, protect those they love, and fulfill her true destiny as the lost princess.",
+    "synopsis": "This live-action reimagining brings Disney's beloved tale of Rapunzel to life. Locked away in a hidden tower by Gothel, a young woman with magical hair dreams of exploring the world beyond her walls and finding the truth behind the glowing lanterns that light up the night sky every year on her birthday. When a charismatic thief unexpectedly breaks into her sanctuary, she sees her chance for adventure and forces him to guide her on a quest across the kingdom, leading to an extraordinary journey of courage, romance, and self-discovery.",
+    "keywords": [
+      "disney live action remake",
+      "classic fairy tale adaptation",
+      "magic hair",
+      "long hair",
+      "tower captive",
+      "lost princess",
+      "charming rogue",
+      "fainthearted thief",
+      "royal crown theft",
+      "lantern festival",
+      "chameleonic sidekick",
+      "overprotective mother",
+      "false parentage",
+      "healing powers",
+      "road trip journey"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity & Self-Discovery",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Freedom & Autonomy",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Upon discovering the truth about her royal origin and parentage, Rapunzel confronts Mother Gothel, leading to a high-stakes standoff in the tower where ultimate sacrifices are made to secure true freedom.",
+      "conflict": "When Flynn Rider, a charming thief on the run, stumbles into the tower, Rapunzel strikes a deal with him to act as her guide to the lights, directly disobeying Gothel's strict orders never to leave.",
+      "resolution": "With Gothel defeated and the magical spell broken, Rapunzel is reunited with her real family, finds love with Flynn, and steps into her new life as the long-lost princess.",
+      "introduction": "Rapunzel, a princess with long, magical golden hair, has lived her entire life locked inside a isolated tower by Mother Gothel, dreaming of seeing the mystery lights that appear every year on her birthday.",
+      "risingAction": "As Rapunzel and Flynn journey toward the kingdom while dodging palace guards and ruthless thugs, their bond grows deeper, even as Mother Gothel plots behind the scenes to drag Rapunzel back to captivity."
+    },
+    "characters": [
+      {
+        "name": "Teagan Croft",
+        "role": "Hero",
+        "description": "Plays Rapunzel, the spirited princess with magical long hair who embarks on an adventure to discover the outside world and her true identity."
+      },
+      {
+        "name": "Milo Manheim",
+        "role": "Anti Hero",
+        "description": "Plays Flynn Rider (Eugene Fitzherbert), a charming thief who acts as Rapunzel's guide before evolving into a heroic love interest."
+      },
+      {
+        "name": "Kathryn Hahn",
+        "role": "Villain",
+        "description": "Plays Mother Gothel, the vain and manipulative abductor who uses Rapunzel's magical hair to keep herself young."
+      },
+      {
+        "name": "Diego Luna",
+        "role": "Other",
+        "description": "Appears in a featured role as Hawthorne."
+      },
+      {
+        "name": "Patrick McPherson",
+        "role": "Supporting Character",
+        "description": "Plays one of the Stabbington Brothers, a thug who aids Gothel and seeks revenge on Flynn Rider."
+      },
+      {
+        "name": "Hugo McPherson",
+        "role": "Supporting Character",
+        "description": "Plays one of the Stabbington Brothers, a thug who aids Gothel and seeks revenge on Flynn Rider."
+      },
+      {
+        "name": "Caitríona Balfe",
+        "role": "Supporting Character",
+        "description": "Plays Queen Arianna, Rapunzel's birth mother and ruler of the kingdom."
+      },
+      {
+        "name": "Elliot Cowan",
+        "role": "Supporting Character",
+        "description": "Plays King Frederic, Rapunzel's birth father and ruler of the kingdom."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Rapunzel",
+        "target": "Flynn Rider",
+        "description": "Love Interest / Partners"
+      },
+      {
+        "source": "Rapunzel",
+        "target": "Mother Gothel",
+        "description": "Abusive Kidnapper / Fake Mother"
+      },
+      {
+        "source": "Rapunzel",
+        "target": "King and Queen of Corona",
+        "description": "Biological Parents"
+      },
+      {
+        "source": "Rapunzel",
+        "target": "Pascal",
+        "description": "Pet / Best Friend"
+      },
+      {
+        "source": "Flynn Rider",
+        "target": "Maximus",
+        "description": "Rivals turned Allies"
+      },
+      {
+        "source": "Flynn Rider",
+        "target": "Stabbington Brothers",
+        "description": "Former Partners / Enemies"
+      },
+      {
+        "source": "Mother Gothel",
+        "target": "King and Queen of Corona",
+        "description": "Enemies / Royal Captors"
+      },
+      {
+        "source": "Rapunzel",
+        "target": "Pub Thugs",
+        "description": "Friends / Allies"
+      }
+    ],
+    "seo": {
+      "slug": "tangled-live-action",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/tangled-live-action](https://movnix.com/movie/tangled-live-action)",
+        "name": "Tangled",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The live-action adaptation of Disney's Tangled."
+      },
+      "keywords": [
+        "tangled live action",
+        "disney tangled live action",
+        "tangled movie",
+        "rapunzel live action movie",
+        "disney remake tangled"
+      ],
+      "canonical": "[https://movnix.com/movie/tangled-live-action](https://movnix.com/movie/tangled-live-action)",
+      "metaTitle": "Tangled Live-Action Movie: News, Plot & Release Updates | Movnix",
+      "openGraph": {
+        "og:title": "Tangled Live-Action Movie - Latest Updates & News",
+        "og:description": "Everything we know about Disney's upcoming live-action Tangled remake."
+      },
+      "twitterCard": {
+        "twitter:title": "Tangled Live-Action Remake - News & Updates",
+        "twitter:description": "Catch the latest news, plot details, and updates for Disney's live-action Tangled."
+      },
+      "metaDescription": "Get the latest updates on Disney's live-action adaptation of Tangled. Discover plot details, cast news, and release rumors."
+    },
+    "faq": [
+      {
+        "answer": "It is a live-action adaptation of Disney's animated hit Tangled, telling the story of Rapunzel, a long-haired princess who spends her life in a hidden tower before embarking on an adventure with a charming thief.",
+        "question": "What is Tangled about?"
+      },
+      {
+        "answer": "Yes, it is part of Disney's broader live-action reimagining franchise of its classic animated feature films, based on the original 2010 animated film Tangled.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film falls primarily into the fantasy, adventure, and musical romance genres.",
+        "question": "What is the dominant genre of Tangled?"
+      },
+      {
+        "answer": "Yes, it is a live-action adaptation of the 2010 animated original, following the same core storyline while translating the visuals and musical numbers into live action.",
+        "question": "Is this film a direct remake of the 2010 animated movie?"
+      },
+      {
+        "answer": "Information regarding post-credit scenes is currently unavailable as the project's official details and release structure are still TBA (To Be Announced).",
+        "question": "Is there a post-credit scene in Tangled?"
+      },
+      {
+        "answer": "Official details regarding the director and creative team have not yet been announced.",
+        "question": "Who is directing the live-action Tangled movie?"
+      },
+      {
+        "answer": "The official cast list, including who will play Rapunzel and Flynn Rider, has not been officially confirmed yet.",
+        "question": "Who is starring in the cast?"
+      },
+      {
+        "answer": "While official musical arrangements have yet to be finalized, Disney's live-action adaptations typically feature classic original songs from the animated film along with new additions.",
+        "question": "Will the film feature original songs from Alan Menken?"
+      },
+      {
+        "answer": "The official rating has not been announced, but like most Disney family adaptations, it is expected to target a PG rating.",
+        "question": "What is the age rating for the film?"
+      },
+      {
+        "answer": "Release platform details have not been finalized, but it is expected to either receive a theatrical release or premiere directly on Disney+.",
+        "question": "Where will the movie be available to watch upon release?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Virtually no horror elements expected beyond slight, age-appropriate suspense during dramatic story beats."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language expected in a G or PG-rated family film."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal violence expected, likely limited to mild cartoonish slapstick or fantasy action consistent with a Disney live-action family adaptation."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use expected, potentially limited to mild tavern scenes in line with the animated original."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content expected beyond mild, G-rated romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional intensity related to themes of isolation, parental control, and family separation, suitable for general audiences."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 5,
+      "comedy": 6,
+      "emotion": 7,
+      "fantasy": 9,
+      "mystery": 2,
+      "romance": 7,
+      "science": 0,
+      "suspense": 3,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 01:10:04.812776",
+    "updated_at": "2026-08-18 01:10:04.812776"
+  }
 }
