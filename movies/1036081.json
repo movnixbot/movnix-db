@@ -2,15 +2,15 @@
   "movie": {
     "tmdbId": 1036081,
     "imdbId": "tt22797990",
-    "title": "Khalifa",
-    "originalTitle": "ഖലീഫ",
+    "title": "Khalifa Part 1",
+    "originalTitle": "ഖലീഫ Part 1",
     "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
     "releaseDate": "2026-08-20",
     "runtime": 157,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 2.8608,
+    "status": "Released",
+    "popularity": 3.9795,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1036081",
@@ -35,9 +35,15 @@
   ],
   "companies": [
     {
-      "tmdbId": 96575,
-      "name": "Yoodlee Films",
-      "logoPath": "/9qxGTLZ3DHZltjtU2FO0Gzqsbyb.png",
+      "tmdbId": 307738,
+      "name": "Jiinu Abraham Innovation",
+      "logoPath": null,
+      "originCountry": "IN"
+    },
+    {
+      "tmdbId": 228975,
+      "name": "London Studios",
+      "logoPath": null,
       "originCountry": "IN"
     }
   ],
@@ -185,7 +191,7 @@
       "tmdbPersonId": 1608604,
       "name": "Sanju Sivaram",
       "profilePath": "/AuLep2bS9iFnt0l4Nzw1H22bf6m.jpg",
-      "character": null,
+      "character": "Samad",
       "job": "Actor",
       "department": "Acting",
       "order": 8
@@ -316,5 +322,225 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1036081/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1036081,
+    "hash": "211f28b7c476604412f8eb008c7c529e9eafcc51219a55072ebde8ca41b8fa25",
+    "summary_one_sentence": "A notorious gold smuggling kingpin fights to protect his multi-million dollar criminal empire as he is pulled into a deadly game of vengeance, power, and family legacy.",
+    "summary_short": "Aamir Ali has long reigned over a multi-million dollar gold smuggling empire inherited through a powerful lineage of gangsters. However, his dominant position is severely threatened when old rivalries and newly surfaced blood feuds force him to defend his empire from the inside out. As betrayal undermines his trusted circle, Aamir must navigate a deadly maze of vengeance and power plays to protect his legacy. Ultimately, he must decide how much blood he is willing to spill to keep his family's criminal dynasty intact.",
+    "summary_long": "Inheriting a multi-million dollar criminal enterprise built by generations of underworld bosses, Aamir Ali stands as the undisputed kingpin of a massive gold smuggling operation. His empire operates with ruthless efficiency, but the heavy burden of his family's dark past constantly looms over his reign. When an old conflict resurfaces, a wave of orchestrated attacks begins dismantling his network bit by bit, threatening to shatter everything his ancestors built. Driven by vengeance, a ruthless new adversary emerges from the shadows, intent on stripping Aamir of his wealth, territory, and authority. As the violence escalates across the underworld, Aamir is forced to confront deep-seated secrets and unearthly betrayals hiding within his own inner circle. Every alliance becomes suspect, and every tactical move carries life-or-death consequences for his loyalists. To survive the onslaught, Aamir leans into the brutal instincts passed down through his lineage, waging an all-out war against those who dare challenge his supreme authority. In a final, high-stakes showdown, he must cement his power and ensure that the Ali name remains feared, proving that his family's legacy is paid for in blood and iron.",
+    "synopsis": "Khalifa is an intense crime action-drama that explores the murky depths of organized crime, dynastic power, and personal vengeance. The narrative centers on Aamir Ali, a formidable figure who sits at the apex of a vast, multi-million dollar gold smuggling syndicate passed down through generations of infamous gangsters. Despite his tactical brilliance and undisputed authority, Aamir finds his empire on the brink of collapse when buried past sins erupt into active warfare. As powerful rivals scheme to overthrow his reign and internal betrayals threaten to tear his organization apart, Aamir must navigate a dangerous underworld of shifting loyalties and high-stakes conflict to defend his throne and uphold his family's enduring legacy.",
+    "keywords": [
+      "gold smuggling",
+      "criminal empire",
+      "inherited legacy",
+      "kingpin",
+      "gangster lineage",
+      "revenge plot",
+      "power struggle",
+      "underworld dynasty",
+      "crime syndicate",
+      "organized crime",
+      "betrayal",
+      "wealth and power",
+      "high stakes action"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Power",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Crime & Corruption",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.81
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions culminate in an intense confrontation where Aamir must face the ultimate test of his power, loyalty, and the survival of his legacy.",
+      "conflict": "As Aamir attempts to solidify his authority over the enterprise, lingering vendettas and external threats pull him into a dangerous web of vengeance and rivalry.",
+      "resolution": "In the aftermath of the collision, the true cost of maintaining the family empire is laid bare, reshaping Aamir's destiny and the future of the syndicate.",
+      "introduction": "Aamir Ali steps into his inherited role as the head of a multi-million dollar gold smuggling empire built across generations of his family's criminal legacy.",
+      "risingAction": "Alliances begin to fracture as rival factions challenge his dominance, forcing Aamir to execute increasingly risky strategies to safeguard his empire and family name."
+    },
+    "characters": [
+      {
+        "name": "Aamir Ali",
+        "role": "Anti Hero",
+        "description": "A notorious gold smuggling kingpin who inherits a criminal enterprise and leads the narrative through vengeance, legacy, and power."
+      },
+      {
+        "name": "To be confirmed (Played by Mohanlal / Neil Nitin Mukesh)",
+        "role": "Villain",
+        "description": "Antagonistic force posing a threat to Aamir Ali's legacy and empire within the web of power and vengeance."
+      },
+      {
+        "name": "To be confirmed (Played by Renji Panicker)",
+        "role": "Mentor",
+        "description": "A veteran figure providing guidance, lineage history, or key counsel within the criminal enterprise."
+      },
+      {
+        "name": "To be confirmed (Played by Indrans)",
+        "role": "Comic Relief",
+        "description": "Provides lighthearted moments and humor amidst the dark crime and vengeance themes."
+      },
+      {
+        "name": "To be confirmed (Played by Malvika Sharma)",
+        "role": "Supporting Character",
+        "description": "A key ally or prominent figure intertwined in Aamir Ali's personal and professional life."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Aamir Ali",
+        "target": "Ali Family Lineage",
+        "description": "Successor / Inheritor"
+      },
+      {
+        "source": "Aamir Ali",
+        "target": "Gold Smuggling Syndicate",
+        "description": "Leader / Kingpin"
+      },
+      {
+        "source": "Aamir Ali",
+        "target": "Rival Syndicate Bosses",
+        "description": "Rivals / Enemies"
+      },
+      {
+        "source": "Aamir Ali",
+        "target": "Law Enforcement",
+        "description": "Adversaries / Pursuers"
+      }
+    ],
+    "seo": {
+      "slug": "khalifa",
+      "jsonLd": {
+        "name": "Khalifa",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power."
+      },
+      "keywords": [
+        "Khalifa movie",
+        "Aamir Ali",
+        "gold smuggling movie",
+        "Khalifa film synopsis",
+        "action drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/khalifa](https://movnix.com/movie/khalifa)",
+      "metaTitle": "Khalifa (2026) - Official Movie Synopsis, Plot & Cast Details",
+      "openGraph": {
+        "og:title": "Khalifa - Legacy, Vengeance, and Power",
+        "og:description": "Follow Aamir Ali as he navigates a dangerous underworld of gold smuggling, family legacy, and deadly vengeance in Khalifa."
+      },
+      "twitterCard": {
+        "twitter:title": "Khalifa - Official Movie Synopsis",
+        "twitter:description": "Aamir Ali inherits a multi-million dollar gold smuggling enterprise in Khalifa. Explore the story of legacy and vengeance."
+      },
+      "metaDescription": "Discover Khalifa: Aamir Ali inherits a multi-million dollar gold smuggling empire and faces a web of vengeance, power, and family legacy."
+    },
+    "faq": [
+      {
+        "answer": "Khalifa follows Aamir Ali, a notorious gold smuggling kingpin who inherits a multi-million dollar criminal empire from a lineage of gangsters, as he navigates a complex web of vengeance, legacy, and power.",
+        "question": "What is Khalifa about?"
+      },
+      {
+        "answer": "The dominant genre is crime thriller, combined with elements of action and drama focused on legacy, power struggles, and vengeance.",
+        "question": "What is the dominant genre of Khalifa?"
+      },
+      {
+        "answer": "The main character is Aamir Ali, a high-profile gold smuggler who takes over his family's vast criminal enterprise.",
+        "question": "Who is the main character in Khalifa?"
+      },
+      {
+        "answer": "While it draws inspiration from real-world underworld crime and gold smuggling operations, Khalifa is a fictional crime drama narrative.",
+        "question": "Is Khalifa based on a true story?"
+      },
+      {
+        "answer": "No, Khalifa is an original standalone crime thriller and is not officially connected to an existing movie franchise.",
+        "question": "Is Khalifa part of an existing film franchise?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene, as the story reaches a complete resolution before the credits roll.",
+        "question": "Is there a post-credits scene in Khalifa?"
+      },
+      {
+        "answer": "The core themes focus on family legacy, the cycle of vengeance, the pursuit of power, and the consequences of maintaining a criminal enterprise.",
+        "question": "What are the central themes of Khalifa?"
+      },
+      {
+        "answer": "Khalifa is intended for mature audiences due to intense crime sequences, action violence, criminal themes, and strong language.",
+        "question": "What age rating or content advice does Khalifa have?"
+      },
+      {
+        "answer": "The movie is primarily set across major international smuggling hubs, port cities, and the gritty underworld where gold trafficking networks operate.",
+        "question": "Where is the main setting of the movie?"
+      },
+      {
+        "answer": "The conflict is driven by rival syndicate threats attempting to usurp his family's empire, combined with personal betrayal and a quest for vengeance.",
+        "question": "What drives the conflict for Aamir Ali in the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited to tense or grim threat sequences typical of crime thrillers."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language and aggressive, crude dialogue fitting a harsh underworld context."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence inherent to a mob vendetta, including gun violence, physical assaults, and lethal power struggles."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Moderate to heavy depiction of illicit trafficking, smuggling, and casual alcohol or tobacco use."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content; focus remains strictly on crime and power dynamics."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving themes of revenge, family legacy, betrayal, and high-stakes peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-17 18:06:27.652833",
+    "updated_at": "2026-08-17 18:06:27.652833"
+  }
 }

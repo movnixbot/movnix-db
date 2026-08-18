@@ -10,7 +10,7 @@
     "budget": "11700000",
     "revenue": null,
     "status": "Released",
-    "popularity": 5.4514,
+    "popularity": 5.0677,
     "voteAverage": 5.9,
     "voteCount": 7,
     "homepage": "https://mubi.com/en/films/fatherland-2025",
@@ -684,5 +684,207 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1437696/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1437696,
+    "hash": "065648eb8e360b7ef5e0732e962ea69a82dc215633411163a6d6c36dc63d65a8",
+    "summary_one_sentence": "In post-WWII 1949, renowned German author Thomas Mann and his daughter Erika journey through a devastated Germany, traversing the ideological divide between the American and Soviet sectors.",
+    "summary_short": "Set against the backdrop of a ruined nation in 1949, Fatherland follows acclaimed writer Thomas Mann and his fiercely devoted daughter, Erika, on a historic road trip. Departing from US-dominated Frankfurt, they travel across shattered landscapes to reach Soviet-controlled Weimar. Along the way, their personal dynamic highlights the emotional and physical toll of exile, war, and political division. The narrative captures a pivotal moment in history as father and daughter confront the complex legacy of their homeland.",
+    "summary_long": "In the aftermath of World War II, Germany stands physically fractured and politically partitioned into competing superpower spheres of influence. Renowned literary figure Thomas Mann returns from his American exile alongside his daughter Erika to undertake a profound journey across the devastated countryside. Starting their trip in Frankfurt, an area firmly under US military control, the duo navigates a landscape marked by rubble, moral uncertainty, and displacement. As they journey toward Weimar—the historic heart of German culture now situated in the Soviet occupation zone—they encounter citizens grappling with guilt, survival, and an uncertain future. Erika acts as both protector and intellectual sparring partner to her aging father, whose complex relationship with his native country infuses their travel with tension. Their journey serves as a living tapestry of a divided nation caught between the rising tensions of the early Cold War. Navigating bureaucratic checkpoints and ideological rifts, Thomas must reconcile his role as a cultural voice for a country that cast him out. Upon arriving in Weimar, the contrast between Germany's rich intellectual history and its grim post-war reality becomes starkly apparent. The film delivers an intimate, character-driven portrait of reconciliation, familial loyalty, and national identity during one of the 20th century's most precarious moments.",
+    "synopsis": "Fatherland presents a poignant historical drama centered on legendary author Thomas Mann and his daughter Erika during their 1949 trek across a ruined, divided Germany. Moving from Western-occupied Frankfurt to Eastern-controlled Weimar, the narrative examines the fractured identity of a post-war society and the intimate bond of a family facing the ghost of their homeland.",
+    "keywords": [
+      "post-WWII Germany",
+      "road trip",
+      "father-daughter relationship",
+      "occupied Germany",
+      "post-war ruins",
+      "Cold War origins",
+      "literary figure",
+      "historical fiction",
+      "divided nation",
+      "Frankfurt",
+      "Weimar",
+      "Soviet occupation zone",
+      "American occupation zone",
+      "reconstruction era"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Post-War Reconstruction and Trauma",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Ideological Divide",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Identity and Belonging",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Somber",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Reaching their symbolic destination, Thomas and Erika face an intense emotional confrontation regarding their responsibility as intellectuals, their family's legacy, and whether true reconciliation with their homeland is possible.",
+      "conflict": "The pair face both physical navigating through a country in physical and ideological ruins, and deep emotional friction regarding their shared past, family history, and divergent views on Germany's cultural future.",
+      "resolution": "The journey concludes with a bittersweet realization of their altered bond and the permanent fracture of the Germany they once knew, prompting a quiet acceptance of their enduring exile.",
+      "introduction": "In 1949, acclaimed writer Thomas Mann and his daughter Erika set out on a drive across a devastated, post-war Germany split into allied occupation zones, journeying from Frankfurt to Weimar.",
+      "risingAction": "As they cross borders into Soviet-controlled territory, tensions escalate through encounters with local populations, memories of exile, and growing ideological divides between father and daughter."
+    },
+    "characters": [
+      {
+        "name": "Erika Mann",
+        "role": "Hero",
+        "description": "Pragmatic daughter of Thomas Mann who serves as driver, translator, publicist, and emotional core during their road trip across post-war Germany."
+      },
+      {
+        "name": "Thomas Mann",
+        "role": "Mentor",
+        "description": "Nobel Prize-winning author returning from exile to a divided Germany, navigating his public role and family conflict."
+      },
+      {
+        "name": "Klaus Mann",
+        "role": "Supporting Character",
+        "description": "Erika's brother and fellow writer who speaks with her prior to the journey while dealing with severe personal struggles."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Thomas Mann",
+        "target": "Erika Mann",
+        "description": "Father/Daughter, Travel Companions"
+      }
+    ],
+    "seo": {
+      "slug": "fatherland",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/fatherland](https://movnix.com/movie/fatherland)",
+        "name": "Fatherland",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar."
+      },
+      "keywords": [
+        "Fatherland movie",
+        "Thomas Mann road trip",
+        "Erika Mann",
+        "post-war Germany film",
+        "1949 Germany movie",
+        "Frankfurt to Weimar"
+      ],
+      "canonical": "[https://movnix.com/movie/fatherland](https://movnix.com/movie/fatherland)",
+      "metaTitle": "Fatherland (1949) - Synopsis, Plot & Movie Info | Movnix",
+      "openGraph": {
+        "og:title": "Fatherland - A Journey Across Ruined Post-War Germany",
+        "og:description": "Follow Thomas Mann and Erika Mann on a 1949 road trip across a divided Germany, from US-dominated Frankfurt to Soviet-controlled Weimar."
+      },
+      "twitterCard": {
+        "twitter:title": "Fatherland - Post-War Germany Road Trip Drama",
+        "twitter:description": "Thomas Mann and his daughter Erika navigate ruined 1949 Germany in Fatherland. Read the overview and details on Movnix."
+      },
+      "metaDescription": "In 1949, writer Thomas Mann and his daughter Erika travel across ruined Germany from US-dominated Frankfurt to Soviet-controlled Weimar."
+    },
+    "faq": [
+      {
+        "answer": "Fatherland is primarily a biographical drama, blending historical non-fiction themes with road movie narrative elements.",
+        "question": "What is the dominant genre of Fatherland?"
+      },
+      {
+        "answer": "The film follows German author Thomas Mann and his daughter Erika in 1949 as they journey through a devastated postwar Germany, traveling from US-occupied Frankfurt to Soviet-controlled Weimar.",
+        "question": "What is the main plot of Fatherland?"
+      },
+      {
+        "answer": "Yes, it is based on the real-life historical figures Thomas Mann and Erika Mann and their journey through Germany in the aftermath of World War II.",
+        "question": "Is Fatherland based on true events?"
+      },
+      {
+        "answer": "No, Fatherland is a standalone film and is not part of any franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene after the film ends.",
+        "question": "Is there a post-credit scene in Fatherland?"
+      },
+      {
+        "answer": "The story takes place in 1949, during the early post-World War II period when Germany was divided into Allied occupation zones.",
+        "question": "When does the story of Fatherland take place?"
+      },
+      {
+        "answer": "The central characters are the acclaimed German writer Thomas Mann and his daughter Erika Mann.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "The tone is somber, reflective, and dramatic, focusing on grief, identity, political tension, and the physical ruins of postwar Germany.",
+        "question": "What is the tone of the film?"
+      },
+      {
+        "answer": "Yes, the narrative highlights the emerging Cold War tensions and cultural contrasts as the characters travel from the American-dominated sector to the Soviet-controlled area.",
+        "question": "Does the film focus on the political division of Germany?"
+      },
+      {
+        "answer": "The film appeals to fans of historical dramas, modern European history, literary biographies, and character-driven stories.",
+        "question": "Who is the target audience for Fatherland?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "No traditional horror or jumpscares, though the post-apocalyptic ruin of war-torn Germany presents a grim atmosphere."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language appropriate for a historical drama."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal graphic violence, though set against the post-war visual backdrop of destroyed cities and historical trauma."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Frequent alcohol consumption and cigarette smoking standard for post-WWII historical settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; occasional mature thematic references related to human relationships."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity dealing with post-war trauma, loss, geopolitical tension, and family dynamics."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 2
+    },
+    "created_at": "2026-08-17 05:10:04.289521",
+    "updated_at": "2026-08-17 05:10:04.289521"
+  }
 }
