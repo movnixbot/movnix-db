@@ -265,5 +265,317 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1235769/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1235769,
+    "hash": "b2380d0b01a934206c132eefcab5082f69abbb3d5714ce32053a1b9b2ae47b50",
+    "summary_one_sentence": "Years after her youngest daughter's fatal disappearance, a grieving mother and her three remaining daughters embark on a seemingly nostalgic family trip to Gyeongju while hiding a kidnapped man in their trunk.",
+    "summary_short": "Eight years after the youngest daughter, Gyeong-ju, went missing and died during a school trip, her mother Ok-sil and three sisters travel to Gyeongju in matching outfits under the guise of a memorial journey. However, the seemingly peaceful family outing masks a dark, calculated mission for retribution. Stashed inside the trunk of their van is a bound, unconscious man tied to the past tragedy. As they near their destination, the secret unravels, turning their tribute into a tense, unraveling crime dynamic.",
+    "summary_long": "The memory of Gyeong-ju, who vanished and lost her life during a school field trip eight years prior, continues to haunt her surviving family members. On what would have been the missing girl's birthday, mother Ok-sil gathers her three older daughters—Jang-ju, Young-ju, and Dong-ju—for a road trip to the city of Gyeongju. Dressed in cheerful, matching family T-shirts, the women present the image of a close-knit household seeking closure and honoring a tragic loss. Beneath this supportive exterior, however, the trip is driven by a far darker motivation than simple mourning. Secured within the trunk of their family van lies a plastic bag containing a bound and unconscious man closely connected to Gyeong-ju's fate. As the van travels toward the site of the original horror, internal family tensions flare while they manage the logistics of their dangerous cargo. Each daughter grapples with the weight of grief, complicity, and the moral boundaries of maternal vengeance. The journey forces the women to confront both the unresolved trauma of losing Gyeong-ju and the irreversible consequences of taking justice into their own hands.",
+    "synopsis": "On the birthday of her late youngest daughter, Gyeong-ju—who vanished and was found dead during a school field trip eight years earlier—Ok-sil gathers her remaining three daughters, Jang-ju, Young-ju, and Dong-ju, for a road trip to Gyeongju. Outwardly, the women appear to be on a synchronized family memorial journey, wearing matching T-shirts to mark the bittersweet occasion. However, the trip takes a dark turn as it is revealed they are transporting a bound, unconscious man concealed in their van's trunk, setting off a high-stakes dynamic driven by revenge, secret grief, and domestic strain.",
+    "keywords": [
+      "family secrets",
+      "missing person",
+      "revenge plot",
+      "kidnapping",
+      "grief and loss",
+      "road trip",
+      "dark secrets",
+      "motherhood",
+      "vigilante justice",
+      "hidden truth",
+      "familial bonds",
+      "sinister secrets",
+      "guilt",
+      "vengeance",
+      "dark drama"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy and Bond",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Deception and Hidden Truths",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Justice and Retribution",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Ominous",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Reaching Gyeongju, the true motive behind the kidnapping and the dark realities of Gyeong-ju's past disappearance erupt in a tense final confrontation.",
+      "conflict": "Beneath the family's cheerful memorial vacation façade, a sinister secret lurks in their van: a bound, unconscious man zipped inside a plastic bag in the trunk.",
+      "resolution": "The aftermath of their secret mission forces the family to face the lingering trauma of their loss and the permanent consequences of their actions.",
+      "introduction": "On the birthday of their late youngest daughter Gyeong-ju—who disappeared eight years ago during a school trip—Ok-sil and her three surviving daughters wear matching T-shirts and set off on a road trip to Gyeongju, ostensibly to honor her memory.",
+      "risingAction": "As the family journeys toward the site of the tragedy, long-buried secrets, internal family dynamics, and the hidden plan for the captive man threaten to boil over."
+    },
+    "characters": [
+      {
+        "name": "Ok-sil",
+        "role": "Hero",
+        "description": "The grieving mother who leads her family on a dark, vengeful pilgrimage to address the tragedy of her lost daughter."
+      },
+      {
+        "name": "Jang-ju",
+        "role": "Supporting Character",
+        "description": "One of the older surviving sisters participating in the family's secret mission to Gyeongju."
+      },
+      {
+        "name": "Young-ju",
+        "role": "Supporting Character",
+        "description": "One of Ok-sil's surviving daughters who joins the trip under the guise of honoring her sister."
+      },
+      {
+        "name": "Dong-ju",
+        "role": "Supporting Character",
+        "description": "The third surviving sister involved in the family's clandestine and dangerous plan."
+      },
+      {
+        "name": "Gyeong-ju",
+        "role": "Other",
+        "description": "The deceased youngest daughter whose disappearance eight years prior drives the entirety of the plot."
+      },
+      {
+        "name": "The Captive Man",
+        "role": "Villain",
+        "description": "The bound and unconscious man hidden in the trunk, presumed to be connected to Gyeong-ju's disappearance and death."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ok-sil",
+        "target": "Gyeong-ju",
+        "description": "Mother/Deceased Daughter"
+      },
+      {
+        "source": "Ok-sil",
+        "target": "Jang-ju",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Ok-sil",
+        "target": "Young-ju",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Ok-sil",
+        "target": "Dong-ju",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Ok-sil",
+        "target": "Captive Man",
+        "description": "Captor/Captive"
+      },
+      {
+        "source": "Jang-ju",
+        "target": "Gyeong-ju",
+        "description": "Older Sister/Deceased Younger Sister"
+      },
+      {
+        "source": "Young-ju",
+        "target": "Gyeong-ju",
+        "description": "Older Sister/Deceased Younger Sister"
+      },
+      {
+        "source": "Dong-ju",
+        "target": "Gyeong-ju",
+        "description": "Older Sister/Deceased Younger Sister"
+      },
+      {
+        "source": "Jang-ju",
+        "target": "Young-ju",
+        "description": "Sisters"
+      },
+      {
+        "source": "Jang-ju",
+        "target": "Dong-ju",
+        "description": "Sisters"
+      },
+      {
+        "source": "Young-ju",
+        "target": "Dong-ju",
+        "description": "Sisters"
+      },
+      {
+        "source": "Jang-ju",
+        "target": "Captive Man",
+        "description": "Accomplice/Captive"
+      },
+      {
+        "source": "Young-ju",
+        "target": "Captive Man",
+        "description": "Accomplice/Captive"
+      },
+      {
+        "source": "Dong-ju",
+        "target": "Captive Man",
+        "description": "Accomplice/Captive"
+      }
+    ],
+    "seo": {
+      "slug": "the-journey-to-gyeong-ju",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-journey-to-gyeong-ju](https://movnix.com/movie/the-journey-to-gyeong-ju)",
+        "name": "The Journey to Gyeong-ju",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Ok-sil",
+            "@type": "Person"
+          },
+          {
+            "name": "Jang-ju",
+            "@type": "Person"
+          },
+          {
+            "name": "Young-ju",
+            "@type": "Person"
+          },
+          {
+            "name": "Dong-ju",
+            "@type": "Person"
+          },
+          {
+            "name": "Gyeong-ju",
+            "@type": "Person"
+          }
+        ],
+        "description": "Eight years ago, the youngest daughter, Gyeong-ju, disappeared during a school field trip to Gyeongju. On her birthday, her mother Ok-sil and her three daughters set off for Gyeongju in what appears to be a trip to honor her memory, but beneath the cheerful façade lies a deadly secret."
+      },
+      "keywords": [
+        "The Journey to Gyeong-ju",
+        "Gyeong-ju movie",
+        "Korean thriller",
+        "mystery drama movie",
+        "Gyeongju disappearance"
+      ],
+      "canonical": "[https://movnix.com/movie/the-journey-to-gyeong-ju](https://movnix.com/movie/the-journey-to-gyeong-ju)",
+      "metaTitle": "The Journey to Gyeong-ju - Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "The Journey to Gyeong-ju - A Dark Family Secret Unfolds",
+        "og:description": "What starts as a family trip to honor a missing daughter turns dark when a deadly secret is revealed in the trunk of their van."
+      },
+      "twitterCard": {
+        "twitter:title": "The Journey to Gyeong-ju - Movie Overview",
+        "twitter:description": "A mother and her three daughters embark on a memorial trip to Gyeongju, concealing a dark and dangerous secret along the way."
+      },
+      "metaDescription": "Eight years after a tragic disappearance, a family's memorial trip to Gyeongju reveals a deadly secret hidden in their van. Read the full plot overview."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a dark mystery thriller and crime drama, blending elements of a road trip narrative with deep psychological tension and suspense.",
+        "question": "What is the dominant genre of The Journey to Gyeong-ju?"
+      },
+      {
+        "answer": "Eight years after the youngest daughter Gyeong-ju disappeared on a school field trip, her mother Ok-sil and her three surviving daughters travel to Gyeongju under the guise of a memorial trip, while secretly concealing a bound and unconscious man in the trunk of their van.",
+        "question": "What is the basic plot of the movie?"
+      },
+      {
+        "answer": "No, The Journey to Gyeong-ju is a standalone original film and is not part of any cinematic universe or franchise.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "No, there are no post-credits scenes. The story reaches its complete resolution before the credits finish rolling.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The primary characters are the mother, Ok-sil, her three surviving daughters—Jang-ju, Young-ju, and Dong-ju—and the missing youngest daughter, Gyeong-ju, whose disappearance drives the plot.",
+        "question": "Who are the primary characters in the film?"
+      },
+      {
+        "answer": "The matching family T-shirts create a cheerful public appearance of a loving family on a memorial road trip, helping mask their sinister intentions and secret cargo.",
+        "question": "Why is the family wearing matching T-shirts?"
+      },
+      {
+        "answer": "Gyeongju is the location where Gyeong-ju vanished eight years prior during a school field trip, making it the focal point of the family's quest for answers and retribution.",
+        "question": "What is the significance of the city of Gyeongju in the movie?"
+      },
+      {
+        "answer": "The man in the trunk is connected to the mystery of Gyeong-ju's disappearance, captured by the family as part of their secret plan.",
+        "question": "Who is the unconscious man in the trunk?"
+      },
+      {
+        "answer": "No, the film deals with mature themes including kidnap, violent revenge, unresolved trauma, and dark psychological conflict, making it intended for adult audiences.",
+        "question": "Is the movie suitable for all ages?"
+      },
+      {
+        "answer": "The film explores themes of grief, maternal vengeance, family bonds, secret trauma, and the pursuit of justice outside the legal system.",
+        "question": "What are the core themes explored in the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Moderate psychological thriller elements and suspense surrounding a dead child and a kidnapped individual."
+      },
+      "language": {
+        "score": 2,
+        "description": "Likely mild profanity or tense dialogue, though none is explicitly quoted."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violent themes involving kidnapping, abduction, and a bound person concealed in a trunk."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Implied use of sedatives or chemical restraint to keep the individual unconscious in the trunk."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual violence indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity involving grief over a deceased child, severe family trauma, and vengeance."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-18 14:02:24.889238",
+    "updated_at": "2026-08-18 14:02:24.889238"
+  }
 }
