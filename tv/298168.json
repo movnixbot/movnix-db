@@ -1,29 +1,2538 @@
 {
   "tvShow": {
     "tmdbId": 298168,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt27543562",
+    "name": "The Shards",
+    "originalName": "The Shards",
+    "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+    "firstAirDate": "2026-08-05",
+    "lastAirDate": "2026-08-12",
+    "status": "Returning Series",
+    "popularity": 52.7849,
+    "voteAverage": 7.519,
+    "voteCount": 27,
+    "type": "Scripted",
+    "posterPath": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+    "backdropPath": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "689bbe00c69f05151e268904",
+      "air_date": "2026-08-05",
+      "episodes": [
+        {
+          "air_date": "2026-08-05",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 7334650,
+          "name": "Pilot",
+          "overview": "It's the summer of 1981 in Los Angeles; a series of disturbing crimes coincides with the arrival of a strange new student in Bret's orbit.",
+          "production_code": "1WZX01",
+          "runtime": 54,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": "/fhsYQZ0DRCQFd8m9AxmF6wwdXXW.jpg",
+          "vote_average": 7.2,
+          "vote_count": 10,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49e542909f5a5d7f6b7b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49f43c7781922052b9a6",
+              "adult": false,
+              "gender": 2,
+              "id": 16379,
+              "known_for_department": "Writing",
+              "name": "Bret Easton Ellis",
+              "original_name": "Bret Easton Ellis",
+              "popularity": 1.1757,
+              "profile_path": "/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a680fe570f3e6dafc85309b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a749295b6586211038b0b7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1452967,
+              "known_for_department": "Camera",
+              "name": "Jason McCormick",
+              "original_name": "Jason McCormick",
+              "popularity": 0.622,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a74929e6e0dca832503b32d",
+              "adult": false,
+              "gender": 2,
+              "id": 1580157,
+              "known_for_department": "Writing",
+              "name": "Adam Penn",
+              "original_name": "Adam Penn",
+              "popularity": 0.853,
+              "profile_path": null
+            },
+            {
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "credit_id": "6a7499da742ead9312be38ae",
+              "adult": false,
+              "gender": 1,
+              "id": 1525236,
+              "known_for_department": "Costume & Make-Up",
+              "name": "Lou Eyrich",
+              "original_name": "Lou Eyrich",
+              "popularity": 0.7403,
+              "profile_path": "/xcE36x8z9rdbVvYiPdaT2gZp2qX.jpg"
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "Principal Croft",
+              "credit_id": "6a74961b1dee108ffe33445c",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 2113285,
+              "known_for_department": "Acting",
+              "name": "Cortes Alexander",
+              "original_name": "Cortes Alexander",
+              "popularity": 0.6105,
+              "profile_path": "/gPps4QmcDsxEBQNSDDsEdZEW05K.jpg"
+            },
+            {
+              "character": "Katherine Latchford",
+              "credit_id": "6a749677d5bac1d29e452f28",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 4792742,
+              "known_for_department": "Acting",
+              "name": "Molly Peyton",
+              "original_name": "Molly Peyton",
+              "popularity": 0.5025,
+              "profile_path": "/u4ZyzALb0i0YCNJQG6iQispZctw.jpg"
+            },
+            {
+              "character": "Rosa",
+              "credit_id": "6a74968ad930b84cb545309e",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 2014127,
+              "known_for_department": "Acting",
+              "name": "Elena Rojas",
+              "original_name": "Elena Rojas",
+              "popularity": 0.6367,
+              "profile_path": "/bQCowl333744PiDFy5tnQpPwJK5.jpg"
+            },
+            {
+              "character": "Margo Tyler",
+              "credit_id": "6a749694b191120c0a3ecf55",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 6394326,
+              "known_for_department": "Acting",
+              "name": "Gigi Corinne",
+              "original_name": "Gigi Corinne",
+              "popularity": 0.3826,
+              "profile_path": null
+            },
+            {
+              "character": "Tennis Court Victim",
+              "credit_id": "6a7496cadf20a5badbbe3784",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2173244,
+              "known_for_department": "Acting",
+              "name": "Taylor Bedford",
+              "original_name": "Taylor Bedford",
+              "popularity": 0.4992,
+              "profile_path": "/bG65q3ppMTcBvAFsqMGfnjVAQ6P.jpg"
+            },
+            {
+              "character": "Senior Boy #1",
+              "credit_id": "6a7496eb98a9ab908003b597",
+              "order": 505,
+              "adult": false,
+              "gender": 2,
+              "id": 1075050,
+              "known_for_department": "Acting",
+              "name": "Tyler Vincent",
+              "original_name": "Tyler Vincent",
+              "popularity": 0.3737,
+              "profile_path": null
+            },
+            {
+              "character": "Senior Boy #2",
+              "credit_id": "6a7496ef1d0dd93f9839fd53",
+              "order": 506,
+              "adult": false,
+              "gender": 2,
+              "id": 2668152,
+              "known_for_department": "Acting",
+              "name": "Jack Coghlan",
+              "original_name": "Jack Coghlan",
+              "popularity": 0.473,
+              "profile_path": "/6jBi8NbYp8rs3jYiQwQjDyO89Ek.jpg"
+            },
+            {
+              "character": "Taft Tennis Player #1",
+              "credit_id": "6a7496f77a2cb5c3908b09f3",
+              "order": 507,
+              "adult": false,
+              "gender": 2,
+              "id": 4650989,
+              "known_for_department": "Acting",
+              "name": "Callahan Teceno",
+              "original_name": "Callahan Teceno",
+              "popularity": 0.4351,
+              "profile_path": "/lgXhwDfmLHKhLSl4yWGHOzgMfIS.jpg"
+            },
+            {
+              "character": "Taft Tennis Player #2",
+              "credit_id": "6a7496fc1dee108ffe33447e",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 6394330,
+              "known_for_department": "Acting",
+              "name": "Briley Stout",
+              "original_name": "Briley Stout",
+              "popularity": 0.2954,
+              "profile_path": null
+            },
+            {
+              "character": "Morning News Anchor #1",
+              "credit_id": "6a74970370ecbf543e453233",
+              "order": 509,
+              "adult": false,
+              "gender": 1,
+              "id": 3236027,
+              "known_for_department": "Acting",
+              "name": "Kandiss Crone",
+              "original_name": "Kandiss Crone",
+              "popularity": 0.4145,
+              "profile_path": "/auizHdlPFuI1VWhuSUFrMgrSJXU.jpg"
+            },
+            {
+              "character": "Morning News Anchor #2",
+              "credit_id": "6a7497078354edeed69c9024",
+              "order": 510,
+              "adult": false,
+              "gender": 2,
+              "id": 1029953,
+              "known_for_department": "Acting",
+              "name": "Juan Monsalvez",
+              "original_name": "Juan Monsalvez",
+              "popularity": 0.6547,
+              "profile_path": "/4zXnDPrYBKC6HyVLUWlaQjATqPr.jpg"
+            },
+            {
+              "character": "Matt Kellner",
+              "credit_id": "6a7497db5a44881e2f3ecba5",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 2724514,
+              "known_for_department": "Acting",
+              "name": "Owen Painter",
+              "original_name": "Owen Painter",
+              "popularity": 0.9107,
+              "profile_path": "/7x7WhM8eNOK7SRmDuiO2Ld47jZn.jpg"
+            },
+            {
+              "character": "Steven Reinhardt",
+              "credit_id": "6a7497e90267563a3be10071",
+              "order": 512,
+              "adult": false,
+              "gender": 2,
+              "id": 1703848,
+              "known_for_department": "Production",
+              "name": "Jordan Roth",
+              "original_name": "Jordan Roth",
+              "popularity": 0.4752,
+              "profile_path": "/l1LlYgTtARNhYpqb5aC69iCqLmb.jpg"
+            },
+            {
+              "character": "Ryan Vaughn",
+              "credit_id": "6a74985caa436dce849c8f11",
+              "order": 513,
+              "adult": false,
+              "gender": 2,
+              "id": 4532463,
+              "known_for_department": "Acting",
+              "name": "Daniel Dale",
+              "original_name": "Daniel Dale",
+              "popularity": 2.2666,
+              "profile_path": "/tgPbv8FIV95IcgRGTc1m8uCSB1f.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-05",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7334651,
+          "name": "Don't You Want Me",
+          "overview": "Bret digs deeper into Robert's murky past and uncovers shocking evidence.",
+          "production_code": "1WZX02",
+          "runtime": 46,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": "/rFxDhh64kvG0opvrJPOvqoofzia.jpg",
+          "vote_average": 6.7,
+          "vote_count": 9,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49e542909f5a5d7f6b7b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49f43c7781922052b9a6",
+              "adult": false,
+              "gender": 2,
+              "id": 16379,
+              "known_for_department": "Writing",
+              "name": "Bret Easton Ellis",
+              "original_name": "Bret Easton Ellis",
+              "popularity": 1.1757,
+              "profile_path": "/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a680fed483f3c5dd9689c7b",
+              "adult": false,
+              "gender": 2,
+              "id": 1223187,
+              "known_for_department": "Directing",
+              "name": "Michael Uppendahl",
+              "original_name": "Michael Uppendahl",
+              "popularity": 0.7734,
+              "profile_path": "/eUPgJlBiib0JbNwXQ9OCwJcP3Y7.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a7492a8600c61732fbe39c3",
+              "adult": false,
+              "gender": 2,
+              "id": 1298625,
+              "known_for_department": "Camera",
+              "name": "Cory Geryak",
+              "original_name": "Cory Geryak",
+              "popularity": 0.4885,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a7492b5e84e9690ede0fdb5",
+              "adult": false,
+              "gender": 2,
+              "id": 3745119,
+              "known_for_department": "Editing",
+              "name": "Travis Weaver",
+              "original_name": "Travis Weaver",
+              "popularity": 0.4814,
+              "profile_path": "/yf8X5UWwLe6AZ5Oh3BSEYW6kuFu.jpg"
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "Principal Croft",
+              "credit_id": "6a74961b1dee108ffe33445c",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 2113285,
+              "known_for_department": "Acting",
+              "name": "Cortes Alexander",
+              "original_name": "Cortes Alexander",
+              "popularity": 0.6105,
+              "profile_path": "/gPps4QmcDsxEBQNSDDsEdZEW05K.jpg"
+            },
+            {
+              "character": "Matt Kellner",
+              "credit_id": "6a7497db5a44881e2f3ecba5",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 2724514,
+              "known_for_department": "Acting",
+              "name": "Owen Painter",
+              "original_name": "Owen Painter",
+              "popularity": 0.9107,
+              "profile_path": "/7x7WhM8eNOK7SRmDuiO2Ld47jZn.jpg"
+            },
+            {
+              "character": "Steven Reinhardt",
+              "credit_id": "6a7497e90267563a3be10071",
+              "order": 512,
+              "adult": false,
+              "gender": 2,
+              "id": 1703848,
+              "known_for_department": "Production",
+              "name": "Jordan Roth",
+              "original_name": "Jordan Roth",
+              "popularity": 0.4752,
+              "profile_path": "/l1LlYgTtARNhYpqb5aC69iCqLmb.jpg"
+            },
+            {
+              "character": "Ryan Vaughn",
+              "credit_id": "6a74985caa436dce849c8f11",
+              "order": 513,
+              "adult": false,
+              "gender": 2,
+              "id": 4532463,
+              "known_for_department": "Acting",
+              "name": "Daniel Dale",
+              "original_name": "Daniel Dale",
+              "popularity": 2.2666,
+              "profile_path": "/tgPbv8FIV95IcgRGTc1m8uCSB1f.jpg"
+            },
+            {
+              "character": "Bruce",
+              "credit_id": "6a749ac570ecbf543e4532be",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 1560344,
+              "known_for_department": "Acting",
+              "name": "Gus Halper",
+              "original_name": "Gus Halper",
+              "popularity": 0.9719,
+              "profile_path": "/50KfZII4TVqgYngoAjPgdxhwESP.jpg"
+            },
+            {
+              "character": "Allan Carr",
+              "credit_id": "6a749adeb112ff6d4f9c8e37",
+              "order": 515,
+              "adult": false,
+              "gender": 2,
+              "id": 1435484,
+              "known_for_department": "Acting",
+              "name": "Aaron Therol",
+              "original_name": "Aaron Therol",
+              "popularity": 0.4081,
+              "profile_path": "/n4G5lbNnfZ1q9s3ISGeTWNpTTnS.jpg"
+            },
+            {
+              "character": "Sheila Kellner",
+              "credit_id": "6a749b05a7bc5cdb19be3bbf",
+              "order": 516,
+              "adult": false,
+              "gender": 1,
+              "id": 3030433,
+              "known_for_department": "Acting",
+              "name": "Jodie Bentley",
+              "original_name": "Jodie Bentley",
+              "popularity": 0.5442,
+              "profile_path": "/1FVTDY7KSepqE19PCv8ZzXYHbXh.jpg"
+            },
+            {
+              "character": "The Trawler #1",
+              "credit_id": "6a749b0c5a44881e2f3ecbce",
+              "order": 517,
+              "adult": false,
+              "gender": 2,
+              "id": 3625228,
+              "known_for_department": "Acting",
+              "name": "Sam Evans",
+              "original_name": "Sam Evans",
+              "popularity": 0.5752,
+              "profile_path": "/lTMfJx0htwB0Vb6LmQoEBswOjEH.jpg"
+            },
+            {
+              "character": "The Trawler #2",
+              "credit_id": "6a749b286e0dca832503b3a9",
+              "order": 518,
+              "adult": false,
+              "gender": 2,
+              "id": 6394361,
+              "known_for_department": "Acting",
+              "name": "Ell C. Dellorso",
+              "original_name": "Ell C. Dellorso",
+              "popularity": 0.3419,
+              "profile_path": "/yvSmtc6e3Vcm0ruOaoJ4poYiUHI.jpg"
+            },
+            {
+              "character": "Bartender",
+              "credit_id": "6a749b9decbc78825ee0fd23",
+              "order": 519,
+              "adult": false,
+              "gender": 2,
+              "id": 3877340,
+              "known_for_department": "Acting",
+              "name": "Cornelius Jones, Jr.",
+              "original_name": "Cornelius Jones, Jr.",
+              "popularity": 0.4509,
+              "profile_path": "/8aQncNl5Y091544E7eKLkqeE1r3.jpg"
+            },
+            {
+              "character": "Bruno",
+              "credit_id": "6a749ba519a25d2a46e1008b",
+              "order": 520,
+              "adult": false,
+              "gender": 2,
+              "id": 4707034,
+              "known_for_department": "Acting",
+              "name": "Andre Heimos",
+              "original_name": "Andre Heimos",
+              "popularity": 0.321,
+              "profile_path": "/bKOvs46f9qWGM3pXMPuRbc1FsiY.jpg"
+            },
+            {
+              "character": "Maître d'",
+              "credit_id": "6a749bb982e404383c45307f",
+              "order": 521,
+              "adult": false,
+              "gender": 2,
+              "id": 6394373,
+              "known_for_department": "Acting",
+              "name": "Daniel Li",
+              "original_name": "Daniel Li",
+              "popularity": 1.0024,
+              "profile_path": "/dFu9h563xoAplZx2d8wW0msK37o.jpg"
+            },
+            {
+              "character": "Park Ranger",
+              "credit_id": "6a749c020a0cf838f3453044",
+              "order": 522,
+              "adult": false,
+              "gender": 2,
+              "id": 131740,
+              "known_for_department": "Acting",
+              "name": "Matt Lagan",
+              "original_name": "Matt Lagan",
+              "popularity": 0.7223,
+              "profile_path": "/d0jIVefbQJZWcwl2mfoE9rvjGFH.jpg"
+            },
+            {
+              "character": "Gay Single Man",
+              "credit_id": "6a749c0ceb5c58819539feb3",
+              "order": 523,
+              "adult": false,
+              "gender": 2,
+              "id": 6394376,
+              "known_for_department": "Acting",
+              "name": "Dylan Labelle",
+              "original_name": "Dylan Labelle",
+              "popularity": 0.3268,
+              "profile_path": "/ceOebYoV170nhmeuVCiBuugQ4td.jpg"
+            },
+            {
+              "character": "Beverly Hills Hostage Husband",
+              "credit_id": "6a749c8d013b009ac603b46e",
+              "order": 524,
+              "adult": false,
+              "gender": 2,
+              "id": 5138539,
+              "known_for_department": "Acting",
+              "name": "Charles Kohut",
+              "original_name": "Charles Kohut",
+              "popularity": 0.3774,
+              "profile_path": "/nRVvDYiE4N32BKhNIEjhvQaVRs1.jpg"
+            },
+            {
+              "character": "Beverly Hills Hostage Wife",
+              "credit_id": "6a749cadd977a0e8c0334237",
+              "order": 525,
+              "adult": false,
+              "gender": 1,
+              "id": 6394388,
+              "known_for_department": "Acting",
+              "name": "Kelsey Kummerl",
+              "original_name": "Kelsey Kummerl",
+              "popularity": 0.2975,
+              "profile_path": "/qp7Ai5O8jiIdmH98comJdRbZnjO.jpg"
+            },
+            {
+              "character": "Husband (Brentwood)",
+              "credit_id": "6a749cea1dee108ffe3344c3",
+              "order": 526,
+              "adult": false,
+              "gender": 2,
+              "id": 4577481,
+              "known_for_department": "Acting",
+              "name": "Coby Larinde",
+              "original_name": "Coby Larinde",
+              "popularity": 0.3969,
+              "profile_path": "/7y8qu8t70625oU25si2AzmQ0AJd.jpg"
+            },
+            {
+              "character": "Wife (Brentwood)",
+              "credit_id": "6a749cf7d5087fc4673ec9d0",
+              "order": 527,
+              "adult": false,
+              "gender": 1,
+              "id": 1910699,
+              "known_for_department": "Acting",
+              "name": "Maria Breese",
+              "original_name": "Maria Breese",
+              "popularity": 0.5036,
+              "profile_path": "/ssUfcqTYlqmzhP9tFvrDJRSDPVZ.jpg"
+            },
+            {
+              "character": "Nightly News Anchor #1",
+              "credit_id": "6a749d055fcd1c7ae4e10056",
+              "order": 528,
+              "adult": false,
+              "gender": 1,
+              "id": 1077345,
+              "known_for_department": "Acting",
+              "name": "Jennifer Kim",
+              "original_name": "Jennifer Kim",
+              "popularity": 1.7424,
+              "profile_path": "/yLBlN3ZxNZx4jbCBT4wHUDXtZe7.jpg"
+            },
+            {
+              "character": "Nightly News Anchor #2",
+              "credit_id": "6a749d0989fdce87febe3904",
+              "order": 529,
+              "adult": false,
+              "gender": 1,
+              "id": 2172134,
+              "known_for_department": "Acting",
+              "name": "Krystin Goodwin",
+              "original_name": "Krystin Goodwin",
+              "popularity": 0.6839,
+              "profile_path": "/tOgst4BvSOtinyHsTXOBm9ZTJCY.jpg"
+            },
+            {
+              "character": "Cult Member #1",
+              "credit_id": "6a749d131dee108ffe3344ca",
+              "order": 530,
+              "adult": false,
+              "gender": 1,
+              "id": 2627791,
+              "known_for_department": "Acting",
+              "name": "Sarah Elizabeth Jensen",
+              "original_name": "Sarah Elizabeth Jensen",
+              "popularity": 0.5273,
+              "profile_path": "/nyLEKJkRcVGoWsA9yO4kHNQSAU7.jpg"
+            },
+            {
+              "character": "Cult Member #2",
+              "credit_id": "6a749d181aa5547500be3bcd",
+              "order": 531,
+              "adult": false,
+              "gender": 1,
+              "id": 4786307,
+              "known_for_department": "Acting",
+              "name": "Emma Faith",
+              "original_name": "Emma Faith",
+              "popularity": 0.5028,
+              "profile_path": "/aI17bBveCmzqSYsXhIC9Ty8Nuav.jpg"
+            },
+            {
+              "character": "Cult Member #3",
+              "credit_id": "6a749d1c15e379a3ea03b12e",
+              "order": 532,
+              "adult": false,
+              "gender": 2,
+              "id": 2949651,
+              "known_for_department": "Acting",
+              "name": "Larsen Deane",
+              "original_name": "Larsen Deane",
+              "popularity": 0.4244,
+              "profile_path": "/mtegGfdr2Xmkox6H5E3wau2WQFY.jpg"
+            },
+            {
+              "character": "Cult Member #4",
+              "credit_id": "6a749d20df20a5badbbe37e7",
+              "order": 533,
+              "adult": false,
+              "gender": 1,
+              "id": 5304161,
+              "known_for_department": "Acting",
+              "name": "Tess Dinerstein",
+              "original_name": "Tess Dinerstein",
+              "popularity": 0.5341,
+              "profile_path": "/nUgCzARK9liyAMHGtMbeugaKfa3.jpg"
+            },
+            {
+              "character": "Cult Member #5",
+              "credit_id": "6a749d237ed6a7a10003b296",
+              "order": 534,
+              "adult": false,
+              "gender": 1,
+              "id": 2462108,
+              "known_for_department": "Acting",
+              "name": "Anaïs Blake",
+              "original_name": "Anaïs Blake",
+              "popularity": 0.6953,
+              "profile_path": "/Ar6H3OB4TYBdFyc4MvKeekdVdPW.jpg"
+            },
+            {
+              "character": "Cult Member #6",
+              "credit_id": "6a749d2a5fcd1c7ae4e10077",
+              "order": 535,
+              "adult": false,
+              "gender": 1,
+              "id": 3299436,
+              "known_for_department": "Acting",
+              "name": "Alessandra Marandola",
+              "original_name": "Alessandra Marandola",
+              "popularity": 0.2997,
+              "profile_path": "/cVNt2kCugpQfxYgvolV3khcTrFk.jpg"
+            },
+            {
+              "character": "Cult Member #7",
+              "credit_id": "6a749d2fbf502436e79c8f76",
+              "order": 536,
+              "adult": false,
+              "gender": 1,
+              "id": 3225980,
+              "known_for_department": "Acting",
+              "name": "Saydee Dickinson",
+              "original_name": "Saydee Dickinson",
+              "popularity": 0.5933,
+              "profile_path": "/vbKqRjuC3TiOzJxpW6s5vu4mg7S.jpg"
+            },
+            {
+              "character": "Cult Member #8",
+              "credit_id": "6a749d337756192975452f61",
+              "order": 537,
+              "adult": false,
+              "gender": 1,
+              "id": 2364291,
+              "known_for_department": "Acting",
+              "name": "Angie Campbell",
+              "original_name": "Angie Campbell",
+              "popularity": 0.5166,
+              "profile_path": "/ow0HCdeHBKMUdnuZohCeNMdSrH8.jpg"
+            },
+            {
+              "character": "Cult Member #9",
+              "credit_id": "6a749d3bd5087fc4673ec9d9",
+              "order": 538,
+              "adult": false,
+              "gender": 1,
+              "id": 3940894,
+              "known_for_department": "Acting",
+              "name": "Ava Hase",
+              "original_name": "Ava Hase",
+              "popularity": 0.5227,
+              "profile_path": "/vM4LEuF98b4w8Eg6UYdonnLVuJV.jpg"
+            },
+            {
+              "character": "Cult Member #10",
+              "credit_id": "6a749d400267563a3be10181",
+              "order": 539,
+              "adult": false,
+              "gender": 1,
+              "id": 4409130,
+              "known_for_department": "Crew",
+              "name": "Victoria Martzloff",
+              "original_name": "Victoria Martzloff",
+              "popularity": 0.4858,
+              "profile_path": "/pHVAlHyc3C40021RGsdxPO0EDIz.jpg"
+            },
+            {
+              "character": "Cult Member #11",
+              "credit_id": "6a749eed00f023fa19e0fdcd",
+              "order": 540,
+              "adult": false,
+              "gender": 2,
+              "id": 6394405,
+              "known_for_department": "Acting",
+              "name": "Nate Flynn",
+              "original_name": "Nate Flynn",
+              "popularity": 0.2952,
+              "profile_path": "/yK7FywcNqZSPWF4YHqu9piUNQws.jpg"
+            },
+            {
+              "character": "Cult Member #12",
+              "credit_id": "6a74a08c37581f1f163ecb5a",
+              "order": 541,
+              "adult": false,
+              "gender": 2,
+              "id": 5562798,
+              "known_for_department": "Acting",
+              "name": "Quinlan Rowan Darnell",
+              "original_name": "Quinlan Rowan Darnell",
+              "popularity": 0.2928,
+              "profile_path": "/aEqCKYeYkE3orKBJ7BbQMU0V0bC.jpg"
+            },
+            {
+              "character": "Cult Member #13",
+              "credit_id": "6a74a08ebf502436e79c8ff8",
+              "order": 542,
+              "adult": false,
+              "gender": 2,
+              "id": 1291693,
+              "known_for_department": "Acting",
+              "name": "Jack Justice",
+              "original_name": "Jack Justice",
+              "popularity": 0.6109,
+              "profile_path": "/jDryubh0KOehgdtXnxCflaBnCAY.jpg"
+            },
+            {
+              "character": "Cult Member #14",
+              "credit_id": "6a74a090d977a0e8c03342ef",
+              "order": 543,
+              "adult": false,
+              "gender": 2,
+              "id": 1656662,
+              "known_for_department": "Acting",
+              "name": "Kyle Butenhoff",
+              "original_name": "Kyle Butenhoff",
+              "popularity": 0.7144,
+              "profile_path": "/w6s39ukCvnngGi44uKyqaaNj9oQ.jpg"
+            },
+            {
+              "character": "Cult Member #15",
+              "credit_id": "6a74a092c340db2566453205",
+              "order": 544,
+              "adult": false,
+              "gender": 2,
+              "id": 1576548,
+              "known_for_department": "Acting",
+              "name": "Sam Stinson",
+              "original_name": "Sam Stinson",
+              "popularity": 0.7476,
+              "profile_path": "/gIobl17w2RUsoj3cG7EpvC5x453.jpg"
+            },
+            {
+              "character": "Cult Member #16",
+              "credit_id": "6a74a09aa7bc5cdb19be3ccf",
+              "order": 545,
+              "adult": false,
+              "gender": 2,
+              "id": 1529380,
+              "known_for_department": "Acting",
+              "name": "Pappy Faulkner",
+              "original_name": "Pappy Faulkner",
+              "popularity": 0.579,
+              "profile_path": "/90LtnQCxyYgz6CeETyS6ENutMOU.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-12",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7334652,
+          "name": "Help Me! Rhonda",
+          "overview": "A beloved student's sudden disappearance causes chaos for the senior class.",
+          "production_code": "",
+          "runtime": 44,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": "/vQ72nwG00eJI5r7qZoMAeYU36H6.jpg",
+          "vote_average": 7,
+          "vote_count": 10,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49e542909f5a5d7f6b7b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a680fed483f3c5dd9689c7b",
+              "adult": false,
+              "gender": 2,
+              "id": 1223187,
+              "known_for_department": "Directing",
+              "name": "Michael Uppendahl",
+              "original_name": "Michael Uppendahl",
+              "popularity": 0.7734,
+              "profile_path": "/eUPgJlBiib0JbNwXQ9OCwJcP3Y7.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a7492a8600c61732fbe39c3",
+              "adult": false,
+              "gender": 2,
+              "id": 1298625,
+              "known_for_department": "Camera",
+              "name": "Cory Geryak",
+              "original_name": "Cory Geryak",
+              "popularity": 0.4885,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a7de73e1ac9682cd23d9f0f",
+              "adult": false,
+              "gender": 2,
+              "id": 3219829,
+              "known_for_department": "Editing",
+              "name": "Ken Ramos",
+              "original_name": "Ken Ramos",
+              "popularity": 0.3751,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "Principal Croft",
+              "credit_id": "6a74961b1dee108ffe33445c",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 2113285,
+              "known_for_department": "Acting",
+              "name": "Cortes Alexander",
+              "original_name": "Cortes Alexander",
+              "popularity": 0.6105,
+              "profile_path": "/gPps4QmcDsxEBQNSDDsEdZEW05K.jpg"
+            },
+            {
+              "character": "Matt Kellner",
+              "credit_id": "6a7497db5a44881e2f3ecba5",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 2724514,
+              "known_for_department": "Acting",
+              "name": "Owen Painter",
+              "original_name": "Owen Painter",
+              "popularity": 0.9107,
+              "profile_path": "/7x7WhM8eNOK7SRmDuiO2Ld47jZn.jpg"
+            },
+            {
+              "character": "Ryan Vaughn",
+              "credit_id": "6a74985caa436dce849c8f11",
+              "order": 513,
+              "adult": false,
+              "gender": 2,
+              "id": 4532463,
+              "known_for_department": "Acting",
+              "name": "Daniel Dale",
+              "original_name": "Daniel Dale",
+              "popularity": 2.2666,
+              "profile_path": "/tgPbv8FIV95IcgRGTc1m8uCSB1f.jpg"
+            },
+            {
+              "character": "The Trawler #1",
+              "credit_id": "6a749b0c5a44881e2f3ecbce",
+              "order": 517,
+              "adult": false,
+              "gender": 2,
+              "id": 3625228,
+              "known_for_department": "Acting",
+              "name": "Sam Evans",
+              "original_name": "Sam Evans",
+              "popularity": 0.5752,
+              "profile_path": "/lTMfJx0htwB0Vb6LmQoEBswOjEH.jpg"
+            },
+            {
+              "character": "The Trawler #2",
+              "credit_id": "6a749b286e0dca832503b3a9",
+              "order": 518,
+              "adult": false,
+              "gender": 2,
+              "id": 6394361,
+              "known_for_department": "Acting",
+              "name": "Ell C. Dellorso",
+              "original_name": "Ell C. Dellorso",
+              "popularity": 0.3419,
+              "profile_path": "/yvSmtc6e3Vcm0ruOaoJ4poYiUHI.jpg"
+            },
+            {
+              "character": "Rhonda",
+              "credit_id": "6a7de7ec4285f33c6db79bf8",
+              "order": 546,
+              "adult": false,
+              "gender": 1,
+              "id": 3195084,
+              "known_for_department": "Acting",
+              "name": "Ivy Wolk",
+              "original_name": "Ivy Wolk",
+              "popularity": 1.2459,
+              "profile_path": "/33zDv0hoCj1BIcV8kXSNim7LX1r.jpg"
+            },
+            {
+              "character": "Cha Cha Rodriguez",
+              "credit_id": "6a7de7f732b0cddf42e7037e",
+              "order": 547,
+              "adult": false,
+              "gender": 1,
+              "id": 5831758,
+              "known_for_department": "Acting",
+              "name": "Bella Valdes",
+              "original_name": "Bella Valdes",
+              "popularity": 0.7682,
+              "profile_path": "/tAyhOQFLEMJRkTYZdXeUZdjtQub.jpg"
+            },
+            {
+              "character": "Mr. Flanigan",
+              "credit_id": "6a7de80af8a1f62f47e7036a",
+              "order": 548,
+              "adult": false,
+              "gender": 2,
+              "id": 1607118,
+              "known_for_department": "Acting",
+              "name": "Allen Rueckert",
+              "original_name": "Allen Rueckert",
+              "popularity": 0.4742,
+              "profile_path": "/xxyvWChulQ14yASzZuik8jBGbRu.jpg"
+            },
+            {
+              "character": "Hostess",
+              "credit_id": "6a7de820f8a1f62f47e70370",
+              "order": 549,
+              "adult": false,
+              "gender": 1,
+              "id": 1580200,
+              "known_for_department": "Acting",
+              "name": "Fawn Irish",
+              "original_name": "Fawn Irish",
+              "popularity": 0.3588,
+              "profile_path": null
+            },
+            {
+              "character": "Freddie the Waiter",
+              "credit_id": "6a7de829f8a1f62f47e70376",
+              "order": 550,
+              "adult": false,
+              "gender": 2,
+              "id": 3126987,
+              "known_for_department": "Acting",
+              "name": "Nick Samson",
+              "original_name": "Nick Samson",
+              "popularity": 0.4183,
+              "profile_path": "/67rdJQeWsD2y48RBraGnfGz07u6.jpg"
+            },
+            {
+              "character": "Roller Rink Employee",
+              "credit_id": "6a7de84e0601dbc9691c2c5d",
+              "order": 551,
+              "adult": false,
+              "gender": 2,
+              "id": 1509905,
+              "known_for_department": "Acting",
+              "name": "Bryan Yoshi Brown",
+              "original_name": "Bryan Yoshi Brown",
+              "popularity": 0.4678,
+              "profile_path": null
+            },
+            {
+              "character": "Police Officer #1",
+              "credit_id": "6a7de8532c99e3572ae70414",
+              "order": 552,
+              "adult": false,
+              "gender": 2,
+              "id": 554478,
+              "known_for_department": "Acting",
+              "name": "Drew Curtis",
+              "original_name": "Drew Curtis",
+              "popularity": 0.2919,
+              "profile_path": "/rHTo3oRl6FdX25FG5MusZ4QjJOj.jpg"
+            },
+            {
+              "character": "Police Officer #2",
+              "credit_id": "6a7de860600642f1a53d9eb6",
+              "order": 553,
+              "adult": false,
+              "gender": 2,
+              "id": 583750,
+              "known_for_department": "Acting",
+              "name": "David Banks",
+              "original_name": "David Banks",
+              "popularity": 0.7537,
+              "profile_path": "/wrbXdisBCkwVHLLaeSJZpwpRi33.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-12",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7334653,
+          "name": "Robert's Party",
+          "overview": "Susan's welcome party for Robert is overshadowed by a terrifying and violent incident.",
+          "production_code": "",
+          "runtime": 47,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": "/uQKspEW1rQ6uXVhhO9v18eFeCaR.jpg",
+          "vote_average": 6.3,
+          "vote_count": 6,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a68103670f3e6dafc8530a6",
+              "adult": false,
+              "gender": 2,
+              "id": 2978,
+              "known_for_department": "Acting",
+              "name": "Max Minghella",
+              "original_name": "Max Minghella",
+              "popularity": 7.3148,
+              "profile_path": "/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+            },
+            {
+              "job": "Choreographer",
+              "department": "Crew",
+              "credit_id": "6a7de8911f6221c21fc7a734",
+              "adult": false,
+              "gender": 2,
+              "id": 1019545,
+              "known_for_department": "Acting",
+              "name": "Derek Hough",
+              "original_name": "Derek Hough",
+              "popularity": 0.964,
+              "profile_path": "/hqoaN7BCL2E5L0MFD8ooWrECwWW.jpg"
+            },
+            {
+              "job": "Choreographer",
+              "department": "Crew",
+              "credit_id": "6a7de89542ccefbbb41c2db0",
+              "adult": false,
+              "gender": 1,
+              "id": 2995905,
+              "known_for_department": "Crew",
+              "name": "Tessandra Chavez",
+              "original_name": "Tessandra Chavez",
+              "popularity": 0.3426,
+              "profile_path": null
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a7de8efab1e3f0996b79bec",
+              "adult": false,
+              "gender": 2,
+              "id": 865656,
+              "known_for_department": "Camera",
+              "name": "Eric Koretz",
+              "original_name": "Eric Koretz",
+              "popularity": 0.3818,
+              "profile_path": null
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a7de8f50f705ce2e72d24e6",
+              "adult": false,
+              "gender": 1,
+              "id": 2539780,
+              "known_for_department": "Editing",
+              "name": "Julia Franklin",
+              "original_name": "Julia Franklin",
+              "popularity": 0.404,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "Matt Kellner",
+              "credit_id": "6a7497db5a44881e2f3ecba5",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 2724514,
+              "known_for_department": "Acting",
+              "name": "Owen Painter",
+              "original_name": "Owen Painter",
+              "popularity": 0.9107,
+              "profile_path": "/7x7WhM8eNOK7SRmDuiO2Ld47jZn.jpg"
+            },
+            {
+              "character": "Ryan Vaughn",
+              "credit_id": "6a74985caa436dce849c8f11",
+              "order": 513,
+              "adult": false,
+              "gender": 2,
+              "id": 4532463,
+              "known_for_department": "Acting",
+              "name": "Daniel Dale",
+              "original_name": "Daniel Dale",
+              "popularity": 2.2666,
+              "profile_path": "/tgPbv8FIV95IcgRGTc1m8uCSB1f.jpg"
+            },
+            {
+              "character": "Bruce",
+              "credit_id": "6a749ac570ecbf543e4532be",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 1560344,
+              "known_for_department": "Acting",
+              "name": "Gus Halper",
+              "original_name": "Gus Halper",
+              "popularity": 0.9719,
+              "profile_path": "/50KfZII4TVqgYngoAjPgdxhwESP.jpg"
+            },
+            {
+              "character": "The Trawler #1",
+              "credit_id": "6a749b0c5a44881e2f3ecbce",
+              "order": 517,
+              "adult": false,
+              "gender": 2,
+              "id": 3625228,
+              "known_for_department": "Acting",
+              "name": "Sam Evans",
+              "original_name": "Sam Evans",
+              "popularity": 0.5752,
+              "profile_path": "/lTMfJx0htwB0Vb6LmQoEBswOjEH.jpg"
+            },
+            {
+              "character": "Rhonda",
+              "credit_id": "6a7de7ec4285f33c6db79bf8",
+              "order": 546,
+              "adult": false,
+              "gender": 1,
+              "id": 3195084,
+              "known_for_department": "Acting",
+              "name": "Ivy Wolk",
+              "original_name": "Ivy Wolk",
+              "popularity": 1.2459,
+              "profile_path": "/33zDv0hoCj1BIcV8kXSNim7LX1r.jpg"
+            },
+            {
+              "character": "Cha Cha Rodriguez",
+              "credit_id": "6a7de7f732b0cddf42e7037e",
+              "order": 547,
+              "adult": false,
+              "gender": 1,
+              "id": 5831758,
+              "known_for_department": "Acting",
+              "name": "Bella Valdes",
+              "original_name": "Bella Valdes",
+              "popularity": 0.7682,
+              "profile_path": "/tAyhOQFLEMJRkTYZdXeUZdjtQub.jpg"
+            },
+            {
+              "character": "Mr. Flanigan",
+              "credit_id": "6a7de80af8a1f62f47e7036a",
+              "order": 548,
+              "adult": false,
+              "gender": 2,
+              "id": 1607118,
+              "known_for_department": "Acting",
+              "name": "Allen Rueckert",
+              "original_name": "Allen Rueckert",
+              "popularity": 0.4742,
+              "profile_path": "/xxyvWChulQ14yASzZuik8jBGbRu.jpg"
+            },
+            {
+              "character": "Hostess",
+              "credit_id": "6a7de820f8a1f62f47e70370",
+              "order": 549,
+              "adult": false,
+              "gender": 1,
+              "id": 1580200,
+              "known_for_department": "Acting",
+              "name": "Fawn Irish",
+              "original_name": "Fawn Irish",
+              "popularity": 0.3588,
+              "profile_path": null
+            },
+            {
+              "character": "Jan 'Butch' Banxxx",
+              "credit_id": "6a7de9695f0da3ed011812d3",
+              "order": 554,
+              "adult": false,
+              "gender": 1,
+              "id": 1219312,
+              "known_for_department": "Acting",
+              "name": "Dot-Marie Jones",
+              "original_name": "Dot-Marie Jones",
+              "popularity": 1.1823,
+              "profile_path": "/p6Lg9p6Y9IGlYjv2VEaGb4dvoWm.jpg"
+            },
+            {
+              "character": "Mrs. Wright",
+              "credit_id": "6a7de9d559b69871c0b08548",
+              "order": 555,
+              "adult": false,
+              "gender": 1,
+              "id": 1335310,
+              "known_for_department": "Acting",
+              "name": "Ginifer King",
+              "original_name": "Ginifer King",
+              "popularity": 1.098,
+              "profile_path": "/r4goyxjWAoWgDZUBkWNCEhix2CZ.jpg"
+            },
+            {
+              "character": "Rohmer",
+              "credit_id": "6a7de9f1ab1e3f0996b79bf6",
+              "order": 556,
+              "adult": false,
+              "gender": 2,
+              "id": 3477318,
+              "known_for_department": "Acting",
+              "name": "Colin Cassidy",
+              "original_name": "Colin Cassidy",
+              "popularity": 0.374,
+              "profile_path": "/e8MjEVZzdrPqAvk7JnsZHx9H2Qk.jpg"
+            },
+            {
+              "character": "Balthazar",
+              "credit_id": "6a7dea35d7c98a2318b79bf6",
+              "order": 557,
+              "adult": false,
+              "gender": 2,
+              "id": 3345798,
+              "known_for_department": "Acting",
+              "name": "Gilbert Aguirre",
+              "original_name": "Gilbert Aguirre",
+              "popularity": 0.4039,
+              "profile_path": "/vkfHfie1RLfqpCjYXjzC34GpfHO.jpg"
+            },
+            {
+              "character": "Aspen",
+              "credit_id": "6a7dea478568d3fe0a18133f",
+              "order": 558,
+              "adult": false,
+              "gender": 2,
+              "id": 6409301,
+              "known_for_department": "Acting",
+              "name": "Miles Hayden",
+              "original_name": "Miles Hayden",
+              "popularity": 0.1542,
+              "profile_path": "/cWJdFC6I3gD7EYmpR08kXcHjFek.jpg"
+            },
+            {
+              "character": "1st AD",
+              "credit_id": "6a7deb185f0da3ed011812e8",
+              "order": 559,
+              "adult": false,
+              "gender": 2,
+              "id": 3009265,
+              "known_for_department": "Acting",
+              "name": "Marlon Daniel",
+              "original_name": "Marlon Daniel",
+              "popularity": 0.4443,
+              "profile_path": "/bHT8komTx7owmKrLhiyAyHStnBr.jpg"
+            },
+            {
+              "character": "Bingo",
+              "credit_id": "6a7deb31c1aa893ad0b085c2",
+              "order": 560,
+              "adult": false,
+              "gender": 2,
+              "id": 2118350,
+              "known_for_department": "Acting",
+              "name": "Mike Wolfe",
+              "original_name": "Mike Wolfe",
+              "popularity": 0.7838,
+              "profile_path": "/dg7lOIdNQ7hiZX4DF5iZ8azo8jz.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-08-19",
+          "episode_number": 5,
+          "episode_type": "standard",
+          "id": 7334654,
+          "name": "Murder on the Dancefloor",
+          "overview": "A televised dance competition culminates with a horrifying showstopper.",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 10,
+          "vote_count": 1,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b49e542909f5a5d7f6b7b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a680fe570f3e6dafc85309b",
+              "adult": false,
+              "gender": 2,
+              "id": 52779,
+              "known_for_department": "Creator",
+              "name": "Ryan Murphy",
+              "original_name": "Ryan Murphy",
+              "popularity": 2.9386,
+              "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a749295b6586211038b0b7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1452967,
+              "known_for_department": "Camera",
+              "name": "Jason McCormick",
+              "original_name": "Jason McCormick",
+              "popularity": 0.622,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-08-26",
+          "episode_number": 6,
+          "episode_type": "standard",
+          "id": 7482424,
+          "name": "Homecoming (1)",
+          "overview": "Troubled Debbie is galvanized by a new extracurricular.",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a6a77491c253e20d60c850b",
+              "adult": false,
+              "gender": 0,
+              "id": 3208722,
+              "known_for_department": "Directing",
+              "name": "Crystle Roberson Dorsey",
+              "original_name": "Crystle Roberson Dorsey",
+              "popularity": 0.3448,
+              "profile_path": "/jcUn2AyxUGBDZetKv1KmLePqFg8.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a7492a8600c61732fbe39c3",
+              "adult": false,
+              "gender": 2,
+              "id": 1298625,
+              "known_for_department": "Camera",
+              "name": "Cory Geryak",
+              "original_name": "Cory Geryak",
+              "popularity": 0.4885,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-08-26",
+          "episode_number": 7,
+          "episode_type": "standard",
+          "id": 7482425,
+          "name": "Homecoming (2)",
+          "overview": "A surprising Homecoming King and Queen are crowned as the Trawler's killing spree continues.",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a6a77491c253e20d60c850b",
+              "adult": false,
+              "gender": 0,
+              "id": 3208722,
+              "known_for_department": "Directing",
+              "name": "Crystle Roberson Dorsey",
+              "original_name": "Crystle Roberson Dorsey",
+              "popularity": 0.3448,
+              "profile_path": "/jcUn2AyxUGBDZetKv1KmLePqFg8.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a7492a8600c61732fbe39c3",
+              "adult": false,
+              "gender": 2,
+              "id": 1298625,
+              "known_for_department": "Camera",
+              "name": "Cory Geryak",
+              "original_name": "Cory Geryak",
+              "popularity": 0.4885,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-02",
+          "episode_number": 8,
+          "episode_type": "standard",
+          "id": 7334657,
+          "name": "Hamlet",
+          "overview": "Something turns rotten in the state of California, as two blackmail plots reveal two devastating secrets.",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a4bad767fcd4c07a064",
+              "adult": false,
+              "gender": 1,
+              "id": 2377761,
+              "known_for_department": "Writing",
+              "name": "Lenore Zion",
+              "original_name": "Lenore Zion",
+              "popularity": 0.3973,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a68103670f3e6dafc8530a6",
+              "adult": false,
+              "gender": 2,
+              "id": 2978,
+              "known_for_department": "Acting",
+              "name": "Max Minghella",
+              "original_name": "Max Minghella",
+              "popularity": 7.3148,
+              "profile_path": "/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-09",
+          "episode_number": 9,
+          "episode_type": "standard",
+          "id": 7334658,
+          "name": "Stairway to Heaven",
+          "overview": "With the city on lockdown, Debbie hosts a Halloween party that will change everything.",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a680fed483f3c5dd9689c7b",
+              "adult": false,
+              "gender": 2,
+              "id": 1223187,
+              "known_for_department": "Directing",
+              "name": "Michael Uppendahl",
+              "original_name": "Michael Uppendahl",
+              "popularity": 0.7734,
+              "profile_path": "/eUPgJlBiib0JbNwXQ9OCwJcP3Y7.jpg"
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a749295b6586211038b0b7d",
+              "adult": false,
+              "gender": 2,
+              "id": 1452967,
+              "known_for_department": "Camera",
+              "name": "Jason McCormick",
+              "original_name": "Jason McCormick",
+              "popularity": 0.622,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": null,
+          "episode_number": 10,
+          "episode_type": "finale",
+          "id": 7334659,
+          "name": "Episode 10",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 298168,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a0947f9d1a5447f6b68",
+              "adult": false,
+              "gender": 1,
+              "id": 2455522,
+              "known_for_department": "Writing",
+              "name": "Juli Weiner",
+              "original_name": "Juli Weiner",
+              "popularity": 0.5085,
+              "profile_path": "/wIlYuVgiXIqVdvYmuXRavU8j0QD.jpg"
+            },
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a1b4a14bdbdd7aaeb52b945",
+              "adult": false,
+              "gender": 2,
+              "id": 1288704,
+              "known_for_department": "Writing",
+              "name": "Charles Rogers",
+              "original_name": "Charles Rogers",
+              "popularity": 0.6699,
+              "profile_path": "/f0AZ8W2zDGbA6NuN8WC4SKgJvTM.jpg"
+            }
+          ],
+          "guest_stars": []
+        }
+      ],
+      "name": "Season 1",
+      "networks": [
+        {
+          "id": 88,
+          "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+          "name": "FX",
+          "origin_country": "US"
+        },
+        {
+          "id": 453,
+          "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+          "name": "Hulu",
+          "origin_country": "US"
+        }
+      ],
+      "overview": "",
+      "id": 469445,
+      "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    },
+    {
+      "tmdbId": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 236166,
+      "name": "20th Television",
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 19328,
+      "name": "Ryan Murphy Television",
+      "logoPath": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 5420,
+      "name": "Color Force",
+      "logoPath": "/dlW4Kh5dNieKNURnymsu57y6fMf.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 40799,
+      "name": "Sodium Fox Productions",
+      "logoPath": null,
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "videos": [
+    {
+      "name": "Official Trailer 3",
+      "key": "O3S7aKk0ALw",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "name": "Official Trailer 2",
+      "key": "cPPQbTl3u7M",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "name": "Official Trailer",
+      "key": "Zpm9HUOrZIc",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/876V23IJpddyLcO1wvJUdSft585.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hMkkiXVwiGcJ5yF1kcsN7LUEDXu.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3nBLKaZtNYAIsVyxykwM8wm5DPF.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/duGuBnpGtoFhT4R1LiuwGivi23O.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/75J4FK5JgpsWWUJEMOpovo9gXZ7.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/aMGHNXWcExdR7rA8uTM3hbzGn1Z.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yPHCkOWGcsd1OJf08xP5FLccD5i.jpg",
+      "width": 833,
+      "height": 1250,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nEttGo9AkgyRBbC9h5eQovRkRh2.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/c31bk38bkOomQkx1Y1FhHB9PD3x.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yiS9CkPonwbN9xqfgYHChL0TPjs.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6uY1GaL8iZ4lTGAnfTkwlVmWca.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/orLH106fzkssfRH7Sh1ZMbM7YBP.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9rQXweq7bTSxCQdU97fyb718NC9.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eoLbZslGx769AUjiuIYusGDjENs.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5Oiwj8CXnfXGXqN0ufH4dAXr2t0.jpg",
+      "width": 843,
+      "height": 1264,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fcG30jF13ez0legMawLH1ZdkxLI.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yYAQnvEvkKsB69NEHxeot6AhJGE.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eXICsCK1OFhstjWUxp5LUzWU2gS.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/moqpWh9Dy16qdC3ELCfMtWPqccC.jpg",
+      "width": 853,
+      "height": 1281,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t91aXGaRecatulSZk2sPRESifn4.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pcIGT1gQSw44gTFUGrk8WvBGNjM.jpg",
+      "width": 852,
+      "height": 1278,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/raqbZe9zIL4y3ICEjQ8PfDKILkB.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8QBH70PQaxnjaWkToZs0O9QfN2U.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ojuV85ecOzitVEkCy7215c9xoCT.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5L4kMdanNMyVnVUAP2QCh2Qpn2Q.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pH2MjEZP8DRcnS3eDyZyMvUwE96.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oeNdFmHmXnHhYZtscMUtKLWq1GQ.jpg",
+      "width": 1878,
+      "height": 2817,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/lUterQApwdeYPC9AFUN6u5J2XGa.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/hiQz5xE2h71NErOMkp5vtROnGow.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/n5YmrrwqavOBscPOkWrHxLfyUxo.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/dXTZ8Y3LOfsKZsxDIYSDHyPNq2a.jpg",
+      "width": 2700,
+      "height": 1519,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/aLm5LbtzFEEzeVsiKjXodCIdnXf.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uS7YCtNaW0IrBtxHS6uUf8YXEEi.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/3DQywpq8hzHOkGNgDVL96QKrvF9.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/AwmlA331lKwsu39hRS5S5duTzHD.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cIANyrbgPJtuUpxdyVANHlknuFY.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/eEkc61PVUxojRuHXucJ3bD9yYME.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cDkxVobdNTJczuxJJuNgO1yWwSS.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/zYmL6kE4615BMDAGu9QMyi2vf22.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/m5MbiNjwRgI7FUZsXXsQV6mXehi.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/9vjokopjSfJ3fZYejn8Rb5t6Bnx.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/kDQHZYgG0G0ryhDU1etBc4mG77.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7sd0LL1kmMOSuWJa12Z5VcaMSze.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/2YXURc70ZffvsLW5mVFDvvUCAB5.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/9NrKpGms03Gk5mtKyiygQB6XSTw.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/piQwbzWzWOtSWj2joyiOMnXPc4Y.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tMHgmt8lDpx0BkChS39RyGDrYC0.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tqGdfZG4dEv0zlG4CYPS3jA0w6N.jpg",
+      "width": 1894,
+      "height": 1064,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7.519,
+      "votesCount": 27
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 2982416,
+      "name": "Igby Rigney",
+      "profilePath": "/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg",
+      "character": "Bret Easton Ellis",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 1957145,
+      "name": "Kaia Gerber",
+      "profilePath": "/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg",
+      "character": "Susan Reynolds",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 4704845,
+      "name": "Homer Gere",
+      "profilePath": "/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg",
+      "character": "Robert Mallory",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 5642946,
+      "name": "Hayes Warner",
+      "profilePath": "/eXmaXyWCHe7ESdMHRNBilntvdxp.jpg",
+      "character": "Debbie Schaffer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 5622327,
+      "name": "Graham Campbell",
+      "profilePath": "/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg",
+      "character": "Thom Wright",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 38940,
+      "name": "Evan Rachel Wood",
+      "profilePath": "/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg",
+      "character": "Liz Schaffer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 8210,
+      "name": "Wes Bentley",
+      "profilePath": "/voD93lzFZrr9xfAggwFcPRBi84i.jpg",
+      "character": "Terry Schaffer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 52779,
+      "name": "Ryan Murphy",
+      "profilePath": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 16379,
+      "name": "Bret Easton Ellis",
+      "profilePath": "/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 213614,
+      "name": "Max Winkler",
+      "profilePath": "/m2muv3nWCJEGTFLGSiQKF22vG6a.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5622308,
+      "name": "Nick Hall",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5622323,
+      "name": "Kathleen McCaffrey",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1988036,
+      "name": "Brian Young",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 935634,
+      "name": "Nina Jacobson",
+      "profilePath": "/sfgag0cl150pHNjnqCUoq81NnRs.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 32608,
+      "name": "Brad Simpson",
+      "profilePath": "/bk5NzfcqAKFRatLqBA9H57UPAlO.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2320684,
+      "name": "Eric Kovtun",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1155667,
+      "name": "Scott Robertson",
+      "profilePath": "/y1XxRpnphVRdRxmyRSOsla1l3Rc.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4605446,
+      "name": "Nissa Diederich",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2624774,
+      "name": "Tanase Popa",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1223187,
+      "name": "Michael Uppendahl",
+      "profilePath": "/eUPgJlBiib0JbNwXQ9OCwJcP3Y7.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1854813,
+      "name": "Justin McEwen",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1580157,
+      "name": "Adam Penn",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": "tt27543562",
+    "wikidataId": "Q136722498",
+    "facebookId": "TheShardsFX",
+    "instagramId": "theshardsfx",
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [
+        {
+          "name": "Disney+",
+          "logo": "/tHtNW975SmVydaBULhEaOqPTmo8.jpg"
+        }
+      ],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+        },
+        {
+          "name": "YouTube TV",
+          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+        }
+      ],
+      "buy": []
+    }
+  },
+  "reviews": [
+    {
+      "author": "ChristlichenSoldaten",
+      "content": "Campy light-hearted fun with extremely GORGEOUS people? It's not Shakespeare but thank you I love it 💗",
+      "rating": 10,
+      "createdAt": "2026-08-13T03:11:54Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",

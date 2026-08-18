@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 4.0825,
+    "popularity": 4.7663,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/81757047",
@@ -101,6 +101,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/dqwvqDNzQgTSDXzUrc4D1FyMFe4.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gMLzZ5CrVqyK7PV1neq1VneBJH1.jpg",
       "width": 1600,
       "height": 900,
@@ -146,7 +153,7 @@
     {
       "tmdbPersonId": 12214,
       "name": "Gillian Anderson",
-      "profilePath": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg",
+      "profilePath": "/5emeOf49lM2WSs4rc186Wc9Zgs3.jpg",
       "character": null,
       "job": "Actor",
       "department": "Acting",
@@ -234,9 +241,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 15756,
-      "name": "Brad Weston",
-      "profilePath": null,
+      "tmdbPersonId": 880,
+      "name": "Ben Affleck",
+      "profilePath": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1892,
+      "name": "Matt Damon",
+      "profilePath": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -252,18 +268,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 21807,
-      "name": "Billy Ray",
-      "profilePath": "/AuDx9rBNUqRosFqePSHjVkVZNzK.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 880,
-      "name": "Ben Affleck",
-      "profilePath": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+      "tmdbPersonId": 15756,
+      "name": "Brad Weston",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -279,12 +286,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1892,
-      "name": "Matt Damon",
-      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+      "tmdbPersonId": 21807,
+      "name": "Billy Ray",
+      "profilePath": "/AuDx9rBNUqRosFqePSHjVkVZNzK.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -366,5 +373,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1236045/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1236045,
+    "hash": "0c9fe077116ff281b9e659f47e869d37e2a002954c8781945681253abc9f41d5",
+    "summary_one_sentence": "When an L.A. mayoral candidate's son is kidnapped and ransom funds are depleted by his campaign, he and his wife must enter a dark world to secure the money in time.",
+    "summary_short": "An ambitious L.A. mayoral candidate faces every parent's nightmare when his young son is kidnapped and held for ransom. Having spent virtually all of their wealth financing his high-stakes political campaign, the desperate couple has only a few hours to gather the cash. To save their child, they are forced to engage in illicit activities and expose dark secrets they fought hard to keep hidden. Their search for redemption reveals the corrupt underbelly of power, ambition, and personal sacrifice.",
+    "summary_long": "In the fast-paced political landscape of Los Angeles, a prominent mayoral candidate appears to have everything until his world shatters when his son is kidnapped. The captors demand a massive ransom within hours, placing an agonizing ticking clock on the family. Unfortunately, the candidate and his wife have poured their entire fortune into funding his political ambitions, leaving them virtually broke. Unwilling to go to the police and risk their son's life or derail the campaign, the couple takes matters into their own hands. They dive deep into the city's criminal underworld, resorting to desperate and illicit measures to acquire the necessary funds before the deadline. Along the way, the intense pressure forces them to confront the moral compromises they have made in pursuit of status and success. Secrets they swore to take to the grave are slowly dragged into the light, threatening to destroy their marriage and reputation. As time rapidly runs out, they discover that the line between predator and prey is dangerously thin. Ultimately, saving their son requires them to sacrifice their polished image and embrace a ruthless side of themselves they never knew existed.",
+    "synopsis": "Animals is a high-stakes crime drama thriller set in Los Angeles, centered on an up-and-coming mayoral candidate and his wife whose lives are thrown into chaos when their son is suddenly abducted. Demanding a substantial cash ransom within a matter of hours, the kidnappers leave the couple with little time and zero room for error. Compounding the tragedy, the family finds themselves financially overextended after channeling their entire fortune into an expensive political campaign. Desperate to save their child without exposing their vulnerability to the public or authorities, the parents embark on a harrowing journey through the dark underbelly of the city to raise the funds by any means necessary. As they cross moral lines and uncover hidden truths about their own pasts, this intense suspense thriller explores the lengths parents will go to protect their family when pushed to the absolute brink.",
+    "keywords": [
+      "kidnapping plot",
+      "race against time",
+      "political campaign",
+      " mayoral candidate",
+      "hidden secrets",
+      "desperate measures",
+      "dark secrets",
+      "ransom demand",
+      "los angeles setting",
+      "wealth and corruption",
+      "moral compromise",
+      "family in peril",
+      "high stakes crime",
+      "underbelly"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Crisis",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Desperation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Moral Compromise",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Hidden Secrets",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Ambition vs. Duty",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The couple faces their ultimate confrontation where their hidden secrets collide with the high-stakes demand for their son's life.",
+      "conflict": "With their liquid assets drained by the ongoing political campaign, the parents are unable to pay the steep ransom through standard means.",
+      "resolution": "The ordeal draws to a close as the immediate threat is resolved, leaving the parents to reckon with the lasting fallout of their exposed secrets.",
+      "introduction": "The son of an Los Angeles mayoral candidate is suddenly kidnapped, throwing his parents into a desperate, timed crisis.",
+      "risingAction": "Driven by urgency, the couple resorts to illicit methods to gather the funds, gradually uncovering and exposing dark aspects of their past."
+    },
+    "characters": [
+      {
+        "name": "Ben Affleck's Character (Mayoral Candidate)",
+        "role": "Anti Hero",
+        "description": "A politician forced into morally compromised decisions and exposing his hidden past to save his kidnapped son."
+      },
+      {
+        "name": "Kerry Washington's Character (Wife)",
+        "role": "Hero",
+        "description": "A desperate parent fighting against the clock, willing to get her hands dirty to retrieve her child."
+      },
+      {
+        "name": "Kidnapped Son",
+        "role": "Supporting Character",
+        "description": "The child whose abduction drives the central conflict and race against time."
+      },
+      {
+        "name": "Kidnapper / Extortionist",
+        "role": "Villain",
+        "description": "The antagonist demanding ransom and leveraging the family's dark secrets."
+      },
+      {
+        "name": "Political Ally / Campaign Adviser",
+        "role": "Mentor",
+        "description": "Provides guidance on managing public exposure and strategic options during the high-stakes crisis."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mayoral Candidate",
+        "target": "Wife",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Mayoral Candidate",
+        "target": "Kidnapped Son",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Wife",
+        "target": "Kidnapped Son",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Mayoral Candidate & Wife",
+        "target": "Kidnapper(s)",
+        "description": "Victims/Extortionists"
+      },
+      {
+        "source": "Mayoral Candidate & Wife",
+        "target": "Underworld Contacts",
+        "description": "Desperate Clients/Criminal Operatives"
+      }
+    ],
+    "seo": {
+      "slug": "animals",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/animals](https://movnix.com/movie/animals)",
+        "name": "Animals",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day."
+      },
+      "keywords": [
+        "Animals movie",
+        "Animals plot",
+        "Animals film synopsis",
+        "L.A. mayoral candidate thriller",
+        "kidnapping movie"
+      ],
+      "canonical": "[https://movnix.com/movie/animals](https://movnix.com/movie/animals)",
+      "metaTitle": "Animals (2026) - Official Movie Synopsis & Plot Overview | Movnix",
+      "openGraph": {
+        "og:title": "Animals - Official Movie Plot & Synopsis",
+        "og:description": "Desperate for ransom money after their son is kidnapped, an L.A. mayoral candidate and his wife must expose dark secrets they buried."
+      },
+      "twitterCard": {
+        "twitter:title": "Animals - Official Movie Plot & Synopsis",
+        "twitter:description": "Desperate for ransom money after their son is kidnapped, an L.A. mayoral candidate and his wife must expose dark secrets they buried."
+      },
+      "metaDescription": "When an L.A. mayoral candidate's son is kidnapped, the desperate couple must expose dark secrets to raise the ransom. Read the plot overview on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "When the son of a Los Angeles mayoral candidate is kidnapped, he and his wife are given only a few hours to pay the ransom. Having spent most of their money on his campaign, they are forced to engage in shady activities and expose secret aspects of their lives to raise the cash.",
+        "question": "What is the plot of Animals?"
+      },
+      {
+        "answer": "The dominant genre of Animals is a crime thriller and suspense drama, focused on high-stakes tension and moral dilemmas.",
+        "question": "What is the dominant genre of Animals?"
+      },
+      {
+        "answer": "No, Animals is a fictional crime thriller driven by an original cinematic premise.",
+        "question": "Is Animals based on a true story or a book?"
+      },
+      {
+        "answer": "No, Animals is a standalone feature film and not part of an existing franchise or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The narrative is primarily set in Los Angeles, centered around the high-stakes world of political campaigning and its criminal underbelly.",
+        "question": "Where does Animals take place?"
+      },
+      {
+        "answer": "No, there are no post-credit scenes, as the story concludes completely before the end credits roll.",
+        "question": "Is there a post-credit scene in Animals?"
+      },
+      {
+        "answer": "The film explores themes of desperation, family loyalty, political ambition, corrupt compromise, and the dark secrets hidden beneath public personas.",
+        "question": "What are the central themes of Animals?"
+      },
+      {
+        "answer": "The story revolves around a Los Angeles mayoral candidate, his wife, and their kidnapped son.",
+        "question": "Who are the primary main characters in the film?"
+      },
+      {
+        "answer": "The urgency is driven by a strict deadline set by the kidnappers, giving the parents only a few hours to secure a massive ransom.",
+        "question": "What drives the urgency in Animals?"
+      },
+      {
+        "answer": "Due to its intense dark themes, crime elements, suspense, and kidnapping storyline, it is intended primarily for mature audiences.",
+        "question": "Is Animals suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements primarily driven by suspense, threat, and tension rather than supernatural or gore visuals."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language likely present due to intense and stressful situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violent themes involving kidnapping, desperate acts, and criminal activity."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Possible depictions of substance use or alcohol consumption within dark criminal settings."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minimal to no sexual content based on the plot overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes centered on a child's kidnapping, parental desperation, and strict time constraints."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-17 15:16:27.440408",
+    "updated_at": "2026-08-17 15:16:27.440408"
+  }
 }
