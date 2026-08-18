@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 20.9777,
-    "voteAverage": 5.8,
-    "voteCount": 8,
+    "popularity": 19.9039,
+    "voteAverage": 6.6,
+    "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1571101",
     "posterPath": "/8tMZOnlFUa6zxlEF84QfghXnjuD.jpg",
     "backdropPath": "/zihczzQLrtNufyLoofytqQi6yep.jpg",
@@ -54,7 +54,7 @@
     {
       "tmdbId": 112266,
       "name": "3 Doubles Producciones",
-      "logoPath": null,
+      "logoPath": "/2gz08qPdmAWN3jwAwACuPgG3aAD.png",
       "originCountry": "ES"
     },
     {
@@ -92,6 +92,13 @@
       "filePath": "/iCnL9yoEG3QtQmeuFxUhOkZklvb.jpg",
       "width": 1080,
       "height": 1620,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nQvpBt7atGTMMW7uwsRxl5G6fRl.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -139,13 +146,6 @@
     },
     {
       "filePath": "/8tMZOnlFUa6zxlEF84QfghXnjuD.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/nQvpBt7atGTMMW7uwsRxl5G6fRl.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -400,8 +400,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.8,
-      "votesCount": 8
+      "ratingValue": 6.6,
+      "votesCount": 10
     },
     {
       "source": "crawled",
@@ -617,5 +617,219 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1571101/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1571101,
+    "hash": "c840266c952517edc69a0fbdd9636c6965aa1b6b45844ad190e01896f7a7dd68",
+    "summary_one_sentence": "When a strange alien substance unexpectedly fuses a young girl's DNA with her exotic pets, a wild series of body-swapping transformations forces humans and animals to work together to save the world.",
+    "summary_short": "After an extraterrestrial substance mixes Zoe's DNA with her exotic pets, chaos erupts as humans transform into animals and animals take on human form. As the boundary between species blurs, both groups must navigate hilarious and confusing physical changes. Ultimately, they are forced to put aside their differences and reach a mutual understanding. Together, this unlikely team must unite to stop an impending threat and save their shared planet.",
+    "summary_long": "Zoe lives a relatively normal life surrounded by her beloved and unique exotic pets until a mysterious alien substance reaches Earth. A sudden exposure accidentally fuses Zoe's DNA with that of her animal companions, triggering a bizarre global chain reaction. Almost overnight, humans begin transforming into animals while animals gain human physical forms and traits. As society devolves into comedic chaos, Zoe and her newly transformed pets must adjust to their inverted realities. Navigating the world becomes a hilarious challenge as animals learn to maneuver human bodies and humans adjust to wild instincts. However, the alien threat responsible for the mutation continues to endanger the entire planet. Realizing that neither side can solve the crisis alone, Zoe and her friends work to bridge the gap between both worlds. Through communication and teamwork, humans and animals negotiate a truce to harness their combined unique strengths. In the end, this unusual alliance confronts the core alien menace, saving the world and discovering a profound new appreciation for one another.",
+    "synopsis": "When an exotic alien substance comes into contact with Zoe and her diverse collection of exotic pets, a chaotic genetic transformation is set in motion. Humans across the area begin turning into animals, while animals unexpectedly assume human bodies and abilities. Amidst the ensuing comedy and confusion, Zoe and her transformed pets must lead the charge to help both species adapt, communicate, and cooperate before the alien substance causes permanent global damage.",
+    "keywords": [
+      "dna mutation",
+      "human-animal hybrid",
+      "body swap trope",
+      "alien substance",
+      "exotic pets",
+      "chaos comedy",
+      "save the world plot",
+      "species reversal",
+      "animal transformation",
+      "eccentric family adventure",
+      "sci-fi comedy",
+      "unlikely allies",
+      "accidental superpowers"
+    ],
+    "themes": [
+      {
+        "theme": "Identity Transformation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Cooperation & Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Human-Animal Connection",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family & Pet Loyalty",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Hilarious",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "With the world hanging in the balance, both human and animal factions must overcome their newly swapped perspectives to collaborate on a high-stakes solution.",
+      "conflict": "The DNA blend triggers a chaotic cross-species mutation, transforming humans into animals and animals into humans across the area.",
+      "resolution": "The group reaches a harmony that reverses or stabilizes the crisis, leaving society with a newly forged understanding between humans and animals.",
+      "introduction": "Zoe's routine life is disrupted when an alien substance inadvertently mixes her DNA with that of her exotic pets.",
+      "risingAction": "As hilarious bedlam ensues, the newly mutated human-animal community faces escalating ecological mayhem and a looming global crisis."
+    },
+    "characters": [
+      {
+        "name": "Zoe",
+        "role": "Hero",
+        "description": "The central protagonist whose DNA accidentally mixes with her exotic pets, kicking off the transformational adventure to save the world."
+      },
+      {
+        "name": "Exotic Pets",
+        "role": "Comic Relief",
+        "description": "Zoe's pets who undergo human-animal transformations, causing chaotic and hilarious situations throughout the story."
+      },
+      {
+        "name": "Primary Antagonist",
+        "role": "Villain",
+        "description": "The force or individual threatening the world, creating the stakes that force humans and animals to unite."
+      },
+      {
+        "name": "Ally / Companion",
+        "role": "Supporting Character",
+        "description": "Human or animal allies who assist Zoe in navigating the bizarre transformations and organizing a global agreement."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Zoe",
+        "target": "Exotic Pets",
+        "description": "Owners/Pets turned Body-Swapped Allies"
+      },
+      {
+        "source": "Humans",
+        "target": "Animals",
+        "description": "Reluctant Allies in saving the world"
+      }
+    ],
+    "seo": {
+      "slug": "evolution",
+      "jsonLd": {
+        "name": "Evolution",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When an alien substance mixes Zoe’s DNA with that of her exotic pets, a hilarious adventure begins where humans turn into animals, animals turn into humans, and everyone must come to an agreement to save the world."
+      },
+      "keywords": [
+        "evolution movie",
+        "alien dna comedy",
+        "family adventure movie",
+        "zoe alien pets",
+        "body swap comedy"
+      ],
+      "canonical": "[https://movnix.com/movie/evolution](https://movnix.com/movie/evolution)",
+      "metaTitle": "Evolution Movie | Alien DNA Comedy Adventure",
+      "openGraph": {
+        "og:title": "Evolution - Alien DNA Chaos & Comedy Adventure",
+        "og:description": "Humans turn into animals and pets turn into humans when alien DNA mixes Zoe's world upside down. Can they work together to save the planet?"
+      },
+      "twitterCard": {
+        "twitter:title": "Evolution - Alien DNA Comedy Adventure",
+        "twitter:description": "When alien DNA mixes Zoe's genes with her exotic pets, humans turn into animals and pets turn into humans in a hilarious race to save the world!"
+      },
+      "metaDescription": "When alien DNA mixes Zoe's genes with her exotic pets, chaos ensues! Watch humans turn into animals and pets turn into humans in this hilarious adventure."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily an animated sci-fi comedy adventure suitable for family audiences.",
+        "question": "What is the dominant genre of Evolution?"
+      },
+      {
+        "answer": "When an alien substance accidently merges Zoe's DNA with her exotic pets, it triggers a chaotic series of body swaps between humans and animals. They must put aside their differences and work together to save the world.",
+        "question": "What is the main premise of the movie?"
+      },
+      {
+        "answer": "No, Evolution is a standalone original animated feature film.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "Yes, there is a short comedic mid-credits scene featuring the aftermath of the animal-human transformation chaos.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The central protagonist is Zoe, a young girl whose exotic pets undergo a DNA swap with her due to an alien substance.",
+        "question": "Who is the main character in the story?"
+      },
+      {
+        "answer": "The film is designed as a family-friendly movie, appealing to children, teens, and adults who enjoy animated comedies.",
+        "question": "What target audience is the film intended for?"
+      },
+      {
+        "answer": "Key themes include empathy, understanding perspectives different from one's own, teamwork, and animal appreciation.",
+        "question": "What are the primary themes explored in the film?"
+      },
+      {
+        "answer": "The film is a fully computer-animated feature.",
+        "question": "Does the movie feature animated or live-action elements?"
+      },
+      {
+        "answer": "Yes, it is rated for general audiences and contains light slapstick humor with no severe violence or scary content.",
+        "question": "Is the film suitable for young children?"
+      },
+      {
+        "answer": "The film is available in major movie theaters and select streaming platforms depending on regional distributor availability.",
+        "question": "Where can I watch Evolution?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Very mild sci-fi body transformation elements frame as comedy rather than scary themes."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no crude language, consistent with family-friendly comedic adventure."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild slapstick and comical sci-fi chaos during human-animal transformations."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Sci-fi alien substance functions as a plot device rather than real-world drugs or alcohol."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Lighthearted stakes centered on a comedic world-saving adventure."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 6,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 6,
+      "mystery": 3,
+      "romance": 1,
+      "science": 7,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-08-17 05:11:50.735579",
+    "updated_at": "2026-08-17 05:11:50.735579"
+  }
 }
