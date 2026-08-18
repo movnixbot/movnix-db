@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.1653,
+    "popularity": 5.624,
     "voteAverage": 6.915,
     "voteCount": 47,
     "homepage": "https://mock-movie-website.com/movies/1155324",
@@ -521,5 +521,288 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1155324/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1155324,
+    "hash": "2b65b23586c9fae9290d13182675e6819adc9603cd4e0dc31de8d6d28093f003",
+    "summary_one_sentence": "Inside the high-security Oklahoma State Penitentiary, incarcerated gang leaders orchestrate a sprawling and deadly illegal fentanyl trafficking operation.",
+    "summary_short": "Grounded in extensive real-world research with law enforcement and active gang members, this gritty crime thriller delves into the covert underworld of illicit drug distribution. From behind the walls of the Oklahoma State Penitentiary, known as 'Big Mac,' prison gang bosses maintain control over dangerous trade networks spanning across the state. The narrative exposes the intricate power dynamics between organized crime, street operations, and the specialized task forces fighting to dismantle the supply chain.",
+    "summary_long": "Set against the stark backdrop of the Oklahoma State Penitentiary at McAlester, the plot centers on the covert infrastructure powering the modern fentanyl epidemic. Incarcerated gang leaders use contraband communication channels to direct street-level distribution operations, effectively turning their prison cells into command hubs for drug trafficking networks. Outside the walls, state and federal law enforcement agencies wage an uphill battle to track illicit supply routes and intercept high-potency shipments before they hit local communities. As tensions escalate between rival criminal factions vying for territory, internal betrayal threatens to blow the operation wide open. Detectives work tirelessly to link local overdoses directly back to the incarcerated kingpins, navigating a complex web of corruption and violence. The story balances multiple perspectives, contrasting the hardened resolve of narcotics agents with the calculated survival instincts of gang leaders. Ultimately, the high-stakes confrontation builds toward a crucial strike by authorities aiming to sever the penitentiary's connection to the outside world. The film delivers a relentless, authentic portrait of the human cost and institutional challenges embedded in the fight against fentanyl.",
+    "synopsis": "Based on comprehensive research into criminal networks and law enforcement operations, this film offers an authentic, uncompromising look inside the fentanyl supply chain. It focuses on the Oklahoma State Penitentiary at McAlester—familiarly known as 'Big Mac'—where powerful gang leaders manage complex, widespread drug distribution networks directly from maximum-security confinement. Blending elements of crime, drama, and intense thriller storytelling, the narrative examines both sides of the law, portraying the dangerous reality of narcotics trafficking alongside the exhausting efforts of law enforcement attempting to stop it.",
+    "keywords": [
+      "fentanyl trafficking",
+      "prison gang",
+      "oklahoma state penitentiary",
+      "underworld",
+      "drug cartel",
+      "law enforcement",
+      "prison system",
+      "inside job",
+      "true-to-life",
+      "organized crime",
+      "gritty drama",
+      "crime syndicate",
+      "criminal investigation",
+      "substance trade"
+    ],
+    "themes": [
+      {
+        "theme": "Drug Trafficking & Crime Underworld",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Institutional & Prison Corruption",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Law Enforcement & Criminal Justice",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival & Power Dynamics",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-intensity confrontation peaks as law enforcement attempts to bust the central figures driving the illicit network from behind bars.",
+      "conflict": "Tensions ignite as criminal operations intersect with law enforcement efforts to track and dismantle a deadly, clandestine fentanyl supply chain.",
+      "resolution": "The dust settles to reveal the lasting impact of the operation on both institutional security and the surrounding community's fight against the crisis.",
+      "introduction": "An insider look at the Oklahoma State Penitentiary (\"Big Mac\") introduces the entrenched power dynamics of incarcerated gang leaders operating high-stakes drug networks.",
+      "risingAction": "Investigators face escalating resistance while delving deeper into the prison-led underworld, where trust breaks down and the risks of fentanyl distribution spike."
+    },
+    "characters": [
+      {
+        "name": "Layne West",
+        "role": "Hero",
+        "description": "A dedicated and complex Tulsa narcotics cop who wages a personal crusade against the fentanyl trade after his own son falls victim to addiction."
+      },
+      {
+        "name": "George 'Smiley' Greene",
+        "role": "Villain",
+        "description": "A ruthless and key player in the local Irish Mob trafficking operations connected to the regional fentanyl network."
+      },
+      {
+        "name": "Ginger Greene",
+        "role": "Supporting Character",
+        "description": "The tough matriarch of the local Irish Mob family outfit, supporting her family's illicit trafficking enterprise."
+      },
+      {
+        "name": "Holt Lightfeather",
+        "role": "Mentor",
+        "description": "An Indian Brotherhood War Chief running state-wide drug operations from inside prison who provides harsh realities and stark wisdom about the drug trade to law enforcement."
+      },
+      {
+        "name": "Ramón Garza",
+        "role": "Villain",
+        "description": "The local shot-caller for the Mexican cartel, managing distribution and enforcement on the ground."
+      },
+      {
+        "name": "Beatty",
+        "role": "Supporting Character",
+        "description": "An FBI agent collaborating with local law enforcement to dismantle the interconnected trafficking networks."
+      },
+      {
+        "name": "Mickey Greene",
+        "role": "Supporting Character",
+        "description": "An uncle in the Greene crime family who helps manage their local distribution arm."
+      },
+      {
+        "name": "Ty Grady",
+        "role": "Supporting Character",
+        "description": "Layne West's loyal narcotics partner assisting him on the front lines of the investigation."
+      },
+      {
+        "name": "Tess West",
+        "role": "Supporting Character",
+        "description": "Layne's wife who deals with the emotional fallout of their son's addiction while supporting her husband's intense work."
+      },
+      {
+        "name": "Officer Nikki",
+        "role": "Supporting Character",
+        "description": "A law enforcement officer assisting local task forces in investigating the widespread fentanyl network."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Holt Lightfeather",
+        "target": "George 'Smiley' Greene",
+        "description": "Boss/Enforcer"
+      },
+      {
+        "source": "Holt Lightfeather",
+        "target": "Ramón Garza",
+        "description": "Business Partners/Cartel Allies"
+      },
+      {
+        "source": "George 'Smiley' Greene",
+        "target": "Ginger Greene",
+        "description": "Son/Mother"
+      },
+      {
+        "source": "George 'Smiley' Greene",
+        "target": "Mickey Greene",
+        "description": "Nephew/Uncle"
+      },
+      {
+        "source": "Layne West",
+        "target": "Jack West",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Layne West",
+        "target": "Ty Grady",
+        "description": "Police Partners"
+      },
+      {
+        "source": "Layne West",
+        "target": "Beatty",
+        "description": "Law Enforcement Allies (Tulsa PD & FBI)"
+      },
+      {
+        "source": "Layne West",
+        "target": "Holt Lightfeather",
+        "description": "Law Enforcement/Rival Criminal Leader"
+      },
+      {
+        "source": "Ramón Garza",
+        "target": "Lago",
+        "description": "Boss/Recruit"
+      }
+    ],
+    "seo": {
+      "slug": "king-ivory",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/king-ivory](https://movnix.com/movie/king-ivory)",
+        "name": "King Ivory",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Based on extensive research involving law enforcement and gang members, a never-before-seen, authentic look inside the underworld of fentanyl trafficking from gangs inside the Oklahoma State Penitentiary at McAlester a.k.a. \"Big Mac.\""
+      },
+      "keywords": [
+        "King Ivory",
+        "King Ivory movie",
+        "fentanyl trafficking film",
+        "Oklahoma State Penitentiary movie",
+        "McAlester Big Mac prison movie",
+        "true crime fentanyl documentary drama",
+        "Oklahoma gang underworld"
+      ],
+      "canonical": "[https://movnix.com/movie/king-ivory](https://movnix.com/movie/king-ivory)",
+      "metaTitle": "King Ivory | Inside Oklahoma's Fentanyl Trafficking Underworld",
+      "openGraph": {
+        "og:title": "King Ivory - Inside the Fentanyl Trafficking Underworld",
+        "og:description": "An authentic, research-backed look into fentanyl trafficking originating inside Oklahoma State Penitentiary."
+      },
+      "twitterCard": {
+        "twitter:title": "King Ivory - Inside the Fentanyl Trafficking Underworld",
+        "twitter:description": "An authentic, research-backed look into fentanyl trafficking originating inside Oklahoma State Penitentiary."
+      },
+      "metaDescription": "An authentic look inside fentanyl trafficking from gangs inside Oklahoma State Penitentiary. Based on extensive research with law enforcement and gang members."
+    },
+    "faq": [
+      {
+        "answer": "King Ivory provides an authentic, research-backed look into the underworld of fentanyl trafficking, specifically focusing on gangs operating from inside the Oklahoma State Penitentiary at McAlester, also known as 'Big Mac.'",
+        "question": "What is King Ivory about?"
+      },
+      {
+        "answer": "The dominant genre is a crime drama and thriller, heavily rooted in realistic, research-based depictions of drug trafficking and criminal underworld operations.",
+        "question": "What is the dominant genre of King Ivory?"
+      },
+      {
+        "answer": "Yes, the narrative and world-building are based on extensive real-world research involving interviews and consultations with both law enforcement officials and active or former gang members.",
+        "question": "Is King Ivory based on a true story or real research?"
+      },
+      {
+        "answer": "No, King Ivory is a standalone feature film and is not part of an existing film franchise or cinematic universe.",
+        "question": "Is King Ivory part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively before the end credits roll.",
+        "question": "Is there a post-credit scene in King Ivory?"
+      },
+      {
+        "answer": "'Big Mac' is the real-world moniker for the Oklahoma State Penitentiary located in McAlester, Oklahoma, which serves as a central hub for the film's prison-run drug operations.",
+        "question": "What does the nickname 'Big Mac' refer to in the story?"
+      },
+      {
+        "answer": "The film focuses on the complex interplay between incarcerated gang leaders running fentanyl supply chains from inside maximum-security prison and the law enforcement officers attempting to dismantle them.",
+        "question": "Who are the primary subjects focused on in the film?"
+      },
+      {
+        "answer": "Given its heavy focus on illicit drug trafficking, prison violence, and criminal gangs, the film contains mature themes and is intended for adult audiences.",
+        "question": "Is King Ivory appropriate for younger audiences?"
+      },
+      {
+        "answer": "Unlike traditional cartels-focused narratives, King Ivory spotlights the unique, modern reality of state penitentiary gangs directly controlling large-scale fentanyl distribution networks outside prison walls.",
+        "question": "What sets King Ivory apart from other drug trafficking movies?"
+      },
+      {
+        "answer": "The core setting centers around Oklahoma, specifically inside and around the maximum-security Oklahoma State Penitentiary at McAlester.",
+        "question": "Where does the primary setting of King Ivory take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements stemming from tense, perilous situations and realistic threats of violence."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong profanity, prison slang, and coarse language typical of crime and gang environments."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depictions or strong themes of gang violence, violent criminal enterprise, and prison-related conflict."
+      },
+      "substance": {
+        "score": 9,
+        "description": "Heavy, pervasive focus on illicit drug trade, specifically large-scale fentanyl production and trafficking."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content expected, though crude references may occur."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by high-stakes criminal activities, lethal overdose risks, and prison culture."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 3,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-17 19:16:27.521577",
+    "updated_at": "2026-08-17 19:16:27.521577"
+  }
 }
