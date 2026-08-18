@@ -389,5 +389,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1730233/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1730233,
+    "hash": "d07c6a051022bd0e88dd07fb0b6b20707cdec11fc4ae4bc5cff68f0d5207d1c7",
+    "summary_one_sentence": "UFC 330 features a highly anticipated main event showdown between reigning lightweight champion Islam Makhachev and rising contender Ian Machado Garry live from the Xfinity Mobile Arena in Philadelphia.",
+    "summary_short": "UFC 330: Makhachev vs. Machado Garry brings elite mixed martial arts action to the Xfinity Mobile Arena in Philadelphia on August 15, 2026. The high-stakes event captures the tension and drama as world-class fighters step into the Octagon to battle for championship dominance. With top-tier athletes displaying relentless skill, strategic grappling, and explosive striking, the night delivers an unforgettable showcase of combat sports mastery. Fans witness intense rivalries culminate in ultimate athletic tests under the bright lights of Philadelphia.",
+    "summary_long": "UFC 330 sets the stage in Philadelphia at the Xfinity Mobile Arena on August 15, 2026, delivering an electric atmosphere for combat sports enthusiasts worldwide. At the center of the event is the premier marquee matchup between dominant champion Islam Makhachev and dynamic challenger Ian Machado Garry. As the fight night unfolds, the main card presents a dramatic series of bouts that test the endurance, strategy, and grit of every competitor involved. Makhachev brings his formidable wrestling and elite ground control into the Octagon, aiming to impose his relentless martial arts style once again. On the other side, Machado Garry relies on his sharp distance management, slick striking combinations, and unwavering confidence to pull off a career-defining upset. Beyond the headline fight, the card is packed with explosive knockouts, technical submission attempts, and high-voltage drama across multiple weight classes. Each athlete fights not only for victory, but for ranking advancement and legacies within the sport's highest tier. The clash of contrasting fighting styles creates an unpredictable narrative arc throughout the entire broadcast, keeping viewers on the edge of their seats until the final bell rings.",
+    "synopsis": "Broadcast live from the Xfinity Mobile Arena in Philadelphia, UFC 330: Makhachev vs. Machado Garry brings together two of the ultimate fighting world's most elite athletes for a high-stakes championship clash. Islam Makhachev puts his top-tier grappling and pressure-heavy fighting style to the test against the lethal precision striking and agility of Ian Machado Garry. Accompanied by a stacked card of action-packed undercard matches, this premium event delivers non-stop sports drama, technical brilliance, and unforgettable Octagon moments without giving away the final outcomes.",
+    "keywords": [
+      "mixed martial arts",
+      "combat sports",
+      "championship bout",
+      "welterweight title",
+      "title defense",
+      "dagestani wrestling",
+      "striking vs grappling",
+      "five-round war",
+      "high stakes competition",
+      "octagon violence",
+      "pay-per-view main event",
+      "p4p supremacy",
+      "rivalry match",
+      "athletic dominance"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.65
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Energetic",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The bout reaches its decisive crescendo in the championship rounds when one fighter secures a final, high-stakes surge to attempt a dramatic finish.",
+      "conflict": "Makhachev looks to defend his title and solidify his legacy, while Machado Garry aims to overcome the champion's elite wrestling to pull off a career-defining upset.",
+      "resolution": "The fight concludes, leading to the official decision announcement, the champion's victory or contender's triumph, and the immediate post-fight reactions establishing the division's future.",
+      "introduction": "The broadcast opens at the Xfinity Mobile Arena in Philadelphia, establishing the stakes of UFC 330 as lightweight champion Islam Makhachev and rising contender Ian Machado Garry prepare for their main event showdown.",
+      "risingAction": "The early rounds feature a classic tactical battle of styles, as both fighters execute their game plans, trade momentum, and push through high-intensity exchanges."
+    },
+    "characters": [
+      {
+        "name": "Islam Makhachev",
+        "role": "Hero",
+        "description": "The defending champion and focal protagonist of the event, entering the fight to defend his title and solidify his dominance in the division."
+      },
+      {
+        "name": "Ian Machado Garry",
+        "role": "Villain",
+        "description": "The confident challenger stepping into the spotlight as the central antagonist to Makhachev, driven to upset the champion."
+      },
+      {
+        "name": "Mackenzie Dern",
+        "role": "Supporting Character",
+        "description": "A featured co-main line competitor bringing high-level elite grappling and secondary narrative weight to the card."
+      },
+      {
+        "name": "Gillian Robertson",
+        "role": "Supporting Character",
+        "description": "A key main card contender competing alongside Dern to anchor the high-stakes matchup preceding the main event."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Islam Makhachev",
+        "target": "Ian Machado Garry",
+        "description": "Rivals / Main Event Opponents"
+      }
+    ],
+    "seo": {
+      "slug": "ufc-330-makhachev-vs-machado-garry",
+      "jsonLd": {
+        "name": "UFC 330: Makhachev vs. Machado Garry",
+        "@type": "SportsEvent",
+        "endDate": "2026-08-16T01:00:00-04:00",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "name": "Xfinity Mobile Arena",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "PA",
+            "addressCountry": "US",
+            "addressLocality": "Philadelphia"
+          }
+        },
+        "organizer": {
+          "url": "[https://www.ufc.com](https://www.ufc.com)",
+          "name": "Ultimate Fighting Championship",
+          "@type": "Organization"
+        },
+        "performer": [
+          {
+            "name": "Islam Makhachev",
+            "@type": "Person"
+          },
+          {
+            "name": "Ian Machado Garry",
+            "@type": "Person"
+          }
+        ],
+        "startDate": "2026-08-15T22:00:00-04:00",
+        "description": "UFC 330: Makhachev vs. Machado Garry live at Xfinity Mobile Arena in Philadelphia on 8/15/2026",
+        "eventStatus": "[https://schema.org/EventScheduled](https://schema.org/EventScheduled)",
+        "eventAttendanceMode": "[https://schema.org/OfflineEventAttendanceMode](https://schema.org/OfflineEventAttendanceMode)"
+      },
+      "keywords": [
+        "UFC 330",
+        "Makhachev vs Machado Garry",
+        "UFC 330 live",
+        "UFC Philadelphia",
+        "Islam Makhachev",
+        "Ian Machado Garry",
+        "UFC 330 stream"
+      ],
+      "canonical": "[https://movnix.com/movie/ufc-330-makhachev-vs-machado-garry](https://movnix.com/movie/ufc-330-makhachev-vs-machado-garry)",
+      "metaTitle": "UFC 330: Makhachev vs. Machado Garry - Watch Live Stream | Movnix",
+      "openGraph": {
+        "og:title": "UFC 330: Makhachev vs. Machado Garry | Movnix",
+        "og:description": "Catch UFC 330 live from Xfinity Mobile Arena in Philadelphia on August 15, 2026. Islam Makhachev faces Ian Machado Garry in a blockbuster matchup."
+      },
+      "twitterCard": {
+        "twitter:title": "UFC 330: Makhachev vs. Machado Garry | Movnix",
+        "twitter:description": "Stream UFC 330 live from Philadelphia on Aug 15, 2026. Makhachev vs. Machado Garry headlines the fight card."
+      },
+      "metaDescription": "Watch UFC 330: Makhachev vs. Machado Garry live from Xfinity Mobile Arena in Philadelphia on August 15, 2026. Get fight cards, schedule, and details."
+    },
+    "faq": [
+      {
+        "answer": "UFC 330: Makhachev vs. Machado Garry is a major Ultimate Fighting Championship mixed martial arts (MMA) pay-per-view event featuring a headline bout between Islam Makhachev and Ian Machado Garry.",
+        "question": "What is UFC 330: Makhachev vs. Machado Garry?"
+      },
+      {
+        "answer": "The event is scheduled to take place live on August 15, 2026, at the Xfinity Mobile Arena in Philadelphia, Pennsylvania.",
+        "question": "When and where is UFC 330 taking place?"
+      },
+      {
+        "answer": "The dominant category is live sports entertainment, specifically combat sports and Mixed Martial Arts (MMA).",
+        "question": "What is the dominant genre or category of this event?"
+      },
+      {
+        "answer": "Yes, it is part of the UFC's flagship numbered pay-per-view event series, which represents the highest tier of events produced by the Ultimate Fighting Championship.",
+        "question": "Is this event part of a larger franchise or series?"
+      },
+      {
+        "answer": "As a live sports event, there are no scripted post-credit scenes. However, live broadcasts typically feature post-fight interviews, octagon commentary, and official press conferences immediately following the main event.",
+        "question": "Is there a post-credit scene or post-event bonus content?"
+      },
+      {
+        "answer": "Fans can watch the main card pay-per-view through official UFC streaming broadcast partners such as ESPN+ in the United States, as well as attending live in person at the arena.",
+        "question": "How can fans watch UFC 330 live?"
+      },
+      {
+        "answer": "The main event features Islam Makhachev, one of the top pound-for-pound fighters in the world, against rising contender Ian Machado Garry.",
+        "question": "Who are the headline fighters featured in the main event?"
+      },
+      {
+        "answer": "Yes, UFC 330 features a full fight card including early preliminary bouts, preliminary fights, and a stacked main card leading up to the main event.",
+        "question": "Are there other fights on the UFC 330 fight card?"
+      },
+      {
+        "answer": "UFC broadcasts are intended for general sports audiences but typically carry a TV-14 rating due to the intense physical nature and combat violence inherent to MMA.",
+        "question": "What age rating or target audience applies to UFC events?"
+      },
+      {
+        "answer": "Tickets can be purchased through official ticketing channels such as Ticketmaster, the Xfinity Mobile Arena box office, or official UFC VIP experience packages.",
+        "question": "Where can tickets for UFC 330 at Xfinity Mobile Arena be purchased?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror content, jump scares, or supernatural elements."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language during fighter interviews, promotional hype, and post-fight commentary."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of real-world combat sports violence, including strikes, knockouts, kicks, submissions, and potential blood loss."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal substance references, limited to sponsor presence such as alcohol and energy drink brands."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by high-stakes live championship bouts, competitive tension, and dramatic physical confrontations."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 10,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 3,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-08-17 19:07:09.963613",
+    "updated_at": "2026-08-17 19:07:09.963613"
+  }
 }
