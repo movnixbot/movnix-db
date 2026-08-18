@@ -15,10 +15,10 @@ This repository acts as a highly optimized, flat-file JSON API database powered 
 
 ## 📊 Database Statistics
 
-* 🎬 **Total Movies**: `1260`
+* 🎬 **Total Movies**: `1261`
 * 📺 **Total TV Series**: `837`
 * 🎞️ **Total Episodes**: `86424`
-* 🏷️ **Total Genres**: `98941`
+* 🏷️ **Total Genres**: `98970`
 
 ---
 

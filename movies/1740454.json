@@ -261,5 +261,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1740454/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1740454,
+    "hash": "45ab603c4be4c86fa5874cc4836557390535c0e1a3b7b9c5d5162a1f378d25f4",
+    "summary_one_sentence": "Undefeated boxing champion Claressa Shields moves back to middleweight to challenge world champion Kaye Scott in a high-stakes title fight in Atlanta.",
+    "summary_short": "After conquering the heavyweight division, Claressa 'GWOAT' Shields returns to her home weight class of middleweight with her sights set on more gold. Standing in her way is WBA and WBC world champion Kaye Scott, who aims to derail the undefeated superstar's historic run. Set against the vibrant backdrop of Atlanta, this main event showdown tests the limits, skill, and resilience of both elite fighters. The bout promises high-octane action and intense drama as both women battle for dominance and boxing legacy.",
+    "summary_long": "Claressa Shields enters the ring boasting an impressive undefeated 18-0 record, having successfully moved up in weight to capture titles in the heavyweight division. Eager to reaffirm her self-proclaimed status as the 'GWOAT' (Greatest Woman of All Time), she makes a dramatic return to the middleweight ranks. Her opponent, Kaye Scott, holds the prestigious WBA and WBC world champion belts with a solid 5-1-1 record and a reputation for tough, technical skill. Scott enters the contest determined to shock the sports world by taking down one of boxing's most dominant figures. Hosted as a major main event in Atlanta, the bout draws massive attention from fight fans and commentators alike. As the bell rings, both fighters display their unique styles—Shields with her blistering speed and relentless offense, and Scott with her tactical counter-punching and ring control. The fight escalates round by round, pushing both athletes to their physical and psychological limits. Drama unfolds both inside and outside the ring as strategic adjustments and sheer willpower determine every exchange. Ultimately, the contest serves as a definitive chapter in the evolution of women's combat sports.",
+    "synopsis": "Claressa Shields vs. Kaye Scott captures the electric intensity of a high-stakes world championship boxing match in Atlanta. Claressa Shields, holding a flawless 18-0 record and fresh off a dominant campaign at heavyweight, drops back down to middleweight to reclaim her throne. She faces Kaye Scott (5-1-1), the reigning WBA and WBC world champion who is eager to solidify her own legacy by handing Shields her first career loss. This sports showcase highlights the grit, preparation, and tactical warfare required at the highest level of professional boxing, offering audiences a dramatic front-row seat to an unforgettable championship clash.",
+    "keywords": [
+      "women's boxing",
+      "world championship",
+      "weight class drop",
+      "middleweight bout",
+      "undefeated fighter",
+      "title fight",
+      "Atlanta main event",
+      "combat sports",
+      "championship belts",
+      "athletic rivalry",
+      "high stakes competition",
+      "professional boxing",
+      "GWOAT"
+    ],
+    "themes": [
+      {
+        "theme": "Legacy & Greatness",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Competition & Mastery",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Adaptability & Risk",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Thrilling",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Competitive",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The ring bell sounds for the Atlanta main event as Shields and Scott exchange high-caliber combinations in an intense, back-and-forth championship battle.",
+      "conflict": "Shields faces two-division champion Kaye Scott in a high-stakes title clash, with both fighters putting their respective elite reputations and championship gold on the line.",
+      "resolution": "The final bell rings and the judges' scores are rendered, establishing the dominant force in the middleweight division and setting the trajectory for both fighters' futures.",
+      "introduction": "Undisputed champion Claressa Shields announces her return to the middleweight division, setting her sights on the unified WBA and WBC titles.",
+      "risingAction": "Training camps intensify as both fighters prepare for the clash in Atlanta, with tactical preparation, pre-fight banter, and fan anticipation reaching a high point."
+    },
+    "characters": [
+      {
+        "name": "Claressa Shields",
+        "role": "Hero",
+        "description": "The central protagonist and multi-division champion returning to middleweight to claim more glory."
+      },
+      {
+        "name": "Kaye Scott",
+        "role": "Villain",
+        "description": "The primary opponent and current champion standing in the way of the protagonist's main goal."
+      },
+      {
+        "name": "Ernesto Mercado",
+        "role": "Supporting Character",
+        "description": "A featured fighter on the undercard supporting the main event broadcast."
+      },
+      {
+        "name": "Emmanuel Tagoe",
+        "role": "Supporting Character",
+        "description": "A contender featured on the event roster."
+      },
+      {
+        "name": "Troy Isley",
+        "role": "Supporting Character",
+        "description": "A prominent undercard competitor."
+      },
+      {
+        "name": "Joseph Hicks",
+        "role": "Supporting Character",
+        "description": "An undercard fighter contributing to the fight night card."
+      },
+      {
+        "name": "Danielle Perkins",
+        "role": "Supporting Character",
+        "description": "A fellow fighter featured in the event's lineup."
+      },
+      {
+        "name": "Olivia Curry",
+        "role": "Supporting Character",
+        "description": "An undercard fighter competing on the event card."
+      },
+      {
+        "name": "Hakim Lopez",
+        "role": "Supporting Character",
+        "description": "A supporting competitor on the fight card."
+      },
+      {
+        "name": "Da'Velle Smith",
+        "role": "Supporting Character",
+        "description": "An undercard fighter participating in the event."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Claressa Shields",
+        "target": "Kaye Scott",
+        "description": "Rivals / Opponents"
+      }
+    ],
+    "seo": {
+      "slug": "claressa-shields-vs-kaye-scott",
+      "jsonLd": {
+        "name": "Claressa Shields vs. Kaye Scott",
+        "@type": "SportsEvent",
+        "sport": "Boxing",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "GA",
+            "addressCountry": "US",
+            "addressLocality": "Atlanta"
+          }
+        },
+        "competitor": [
+          {
+            "name": "Claressa Shields",
+            "@type": "SportsTeam"
+          },
+          {
+            "name": "Kaye Scott",
+            "@type": "SportsTeam"
+          }
+        ],
+        "description": "Having collected the belts at heavyweight, the 'GWOAT' Claressa Shields (18-0) returns to the middleweight division, taking on WBA and WBC world champion Kaye Scott (5-1-1) in a thrilling Atlanta main event."
+      },
+      "keywords": [
+        "Claressa Shields vs Kaye Scott",
+        "Claressa Shields next fight",
+        "Kaye Scott boxing",
+        "women's middleweight championship",
+        "Atlanta boxing main event",
+        "GWOAT Claressa Shields"
+      ],
+      "canonical": "[https://movnix.com/movie/claressa-shields-vs-kaye-scott](https://movnix.com/movie/claressa-shields-vs-kaye-scott)",
+      "metaTitle": "Claressa Shields vs. Kaye Scott - Middleweight Title Fight",
+      "openGraph": {
+        "og:title": "Claressa Shields vs. Kaye Scott | World Middleweight Championship",
+        "og:description": "Claressa Shields drops back to middleweight to battle WBA & WBC champion Kaye Scott in Atlanta. Get event details and analysis."
+      },
+      "twitterCard": {
+        "twitter:title": "Claressa Shields vs. Kaye Scott | World Middleweight Championship",
+        "twitter:description": "Claressa Shields returns to middleweight to take on WBA & WBC champion Kaye Scott in Atlanta."
+      },
+      "metaDescription": "Claressa Shields returns to middleweight to face WBA & WBC champion Kaye Scott in an epic Atlanta main event. Read the preview and fight details."
+    },
+    "faq": [
+      {
+        "answer": "Yes, this fight is part of professional championship boxing and serves as a major event within the women's middleweight division showcase.",
+        "question": "Is this event part of a franchise or broader sports series?"
+      },
+      {
+        "answer": "While it is a live sporting event rather than a scripted film, standard broadcast coverage includes extensive post-fight interviews, official decision announcements, and analysis.",
+        "question": "Is there a post-credit scene or post-fight coverage included?"
+      },
+      {
+        "answer": "The dominant genre is live sports broadcasting, specifically professional combat sports and world championship boxing.",
+        "question": "What is the dominant genre of this broadcast?"
+      },
+      {
+        "answer": "The main event features undefeated boxing superstar Claressa Shields (18-0) competing against dual world champion Kaye Scott (5-1-1).",
+        "question": "Who are the main participants in this headline fight?"
+      },
+      {
+        "answer": "The fight features Kaye Scott defending her WBA and WBC world middleweight titles against Claressa Shields.",
+        "question": "Which championship titles are on the line?"
+      },
+      {
+        "answer": "The fight takes place in Atlanta, serving as the main event of the evening's fight card.",
+        "question": "Where is the event taking place?"
+      },
+      {
+        "answer": "The fight is taking place in the middleweight division, marking Claressa Shields' return to the weight class after competing at heavyweight.",
+        "question": "What weight class is this bout taking place in?"
+      },
+      {
+        "answer": "Claressa Shields enters the bout with an undefeated professional boxing record of 18 wins and 0 losses.",
+        "question": "What is Claressa Shields' professional record heading into this fight?"
+      },
+      {
+        "answer": "Kaye Scott enters the contest holding a professional record of 5 wins, 1 loss, and 1 draw.",
+        "question": "What is Kaye Scott's professional boxing record?"
+      },
+      {
+        "answer": "'GWOAT' stands for 'Greatest Woman Of All Time,' a moniker earned by Claressa Shields due to her multi-division undisputed championships and two Olympic gold medals.",
+        "question": "Why is Claressa Shields referred to as the 'GWOAT'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening content present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or strong language present in the title or overview."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Depicts professional combat sports (boxing), which involves intentional, rule-bound physical violence and physical impact without graphic gore or malicious harm."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or tobacco references present."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual themes present."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild competitive stakes and athletic tension inherent in a world championship sports event."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-17 19:12:55.205465",
+    "updated_at": "2026-08-17 19:12:55.205465"
+  }
 }
