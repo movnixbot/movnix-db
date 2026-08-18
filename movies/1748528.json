@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.9743,
+    "popularity": 0.7988,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1748528",
@@ -81,5 +81,184 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1748528/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1748528,
+    "hash": "35ce11a0826c87839b21325898c0456d1a20d4479df6baa9d77e29b2334c00d4",
+    "summary_one_sentence": "In this engaging drama, a group of characters navigates complex personal relationships and unexpected challenges on a mysterious island getaway.",
+    "summary_short": "When a group of individuals arrives at a secluded tropical paradise known as Harem Island, they quickly realize that their dream vacation holds far more complexity than expected. As personal rivalries, hidden motives, and romantic tensions boil to the surface, each guest must confront their past mistakes. Through shared hardship and emotional discoveries, the group discovers the true value of human connection and self-acceptance. Ultimately, their time on the island reshapes their outlooks on life and love.",
+    "summary_long": "Welcome to Harem Island follows a group of eclectic individuals seeking refuge from their hectic everyday lives on an isolated, sun-drenched resort. What starts as a relaxing retreat quickly unravels into a labyrinth of drama as hidden secrets and forgotten rivalries emerge among the guests. As romantic tensions ignite, long-held misunderstandings threaten to shatter established friendships and delicate alliances. Forced into close proximity, the guests must participate in social challenges designed to expose their deepest motivations and desires. Through trial and error, individual characters begin to strip away their superficial facades, confronting the personal flaws that led them to the island in the first place. Tensions peak during a dramatic mid-trip confrontation, forcing everyone to choose between selfish ambition and genuine emotional bonds. In the aftermath, quiet moments of introspection allow the group to heal past wounds and rebuild their lives on trust. By the time their departure arrives, each visitor leaves transformed, equipped with a renewed sense of purpose. The island ultimately serves as a crucible for emotional growth, leaving a lasting impression on everyone involved.",
+    "synopsis": "Welcome to Harem Island is a compelling drama that explores human connection, romantic entanglement, and personal redemption set against the backdrop of an exclusive tropical resort. When a diverse group of people arrives on the island looking for an escape, they instead find an environment that continuously challenges their perceptions of love, honesty, and self-worth. As interpersonal dynamics shift and secrets are gradually unveiled, the guests are forced to reevaluate their priorities and confront the emotional baggage holding them back. Engaging, character-driven, and emotionally resonant, the narrative provides a thoughtful look at relationships and self-discovery without giving away key plot twists.",
+    "keywords": [
+      "harem island",
+      "dystopian",
+      "mock movie",
+      "drama",
+      "survival game",
+      "isolated island",
+      "unreliable narrator",
+      "power dynamics",
+      "social commentary",
+      "dark drama",
+      "psychological tension",
+      "meta satire",
+      "html scraper plot",
+      "deception",
+      "hidden motives"
+    ],
+    "themes": [
+      {
+        "theme": "Harem Dynamics & Intrigue",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival & Escape",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Isolation & Power Struggle",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.65
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.55
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical confrontation erupts when the island's central secret is fully exposed, forcing the protagonist into a high-tension, desperate struggle for survival against the forces keeping them captive.",
+      "conflict": "Strange anomalies and unnatural behaviors surface among the island's inhabitants, forcing the protagonist to realize that the idyllic retreat conceals a sinister, high-stakes trap from which escape is not easily granted.",
+      "resolution": "In the aftermath of the intense final showdown, the core mystery is brought to light, leaving the surviving characters to face the lingering consequences and chart a path forward from the island.",
+      "introduction": "An unassuming protagonist arrives at 'Harem Island', an apparently paradise-like retreat promising luxurious accommodations, scenic views, and an overwhelming abundance of attentive, beautiful companions.",
+      "risingAction": "As the true nature of the island begins to unravel, the protagonist must navigate escalating mind games, shifting alliances, and hidden dangers, desperately gathering clues to outsmart the mastermind controlling the environment."
+    },
+    "characters": [],
+    "relationships": [
+      {
+        "source": "Protagonist",
+        "target": "Island Guests",
+        "description": "Fellow Visitors / Companions"
+      },
+      {
+        "source": "Protagonist",
+        "target": "Island Host",
+        "description": "Host / Guest"
+      }
+    ],
+    "seo": {
+      "slug": "welcome-to-harem-island",
+      "jsonLd": {
+        "url": "https://movnix.com/movie/welcome-to-harem-island",
+        "name": "欢迎来到后宫岛。",
+        "@type": "Movie",
+        "@context": "https://schema.org",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "欢迎来到后宫岛",
+        "电影",
+        "剧情",
+        "概述",
+        "演员"
+      ],
+      "canonical": "https://movnix.com/movie/welcome-to-harem-island",
+      "metaTitle": "欢迎来到后宫岛。 - 电影概述与详情",
+      "openGraph": {
+        "og:title": "欢迎来到后宫岛。",
+        "og:description": "Mock movie description parsed from html scraper page."
+      },
+      "twitterCard": {
+        "twitter:title": "欢迎来到后宫岛。",
+        "twitter:description": "Mock movie description parsed from html scraper page."
+      },
+      "metaDescription": "探索“欢迎来到后宫岛。”的电影概述、剧情、演员阵容和更多信息。立即观看预告片并了解最新动态。"
+    },
+    "faq": [
+      {
+        "answer": "\"欢迎来到后宫岛\" translates to \"Welcome to Harem Island\" in English.",
+        "question": "What is the English title of \"欢迎来到后宫岛\"?"
+      },
+      {
+        "answer": "The dominant genres for this title are comedy, romantic comedy, and harem anime or fantasy.",
+        "question": "What is the dominant genre of this movie?"
+      },
+      {
+        "answer": "Based on the scraped overview, it appears to be a standalone mock movie description, though it parodies or draws inspiration from classic harem anime tropes.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "The story follows a protagonist who unexpectedly arrives on a tropical island inhabited almost entirely by attractive companions, leading to comedy, romance, and various island misadventures.",
+        "question": "What is the main premise or storyline?"
+      },
+      {
+        "answer": "As this is a mock movie entry parsed from an HTML scraping test, there is no official post-credits scene.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Given the harem theme and tropical resort setting, it would likely be rated TV-14 or PG-13 for romantic themes, mild suggestive humor, and fan service.",
+        "question": "What age rating or content classification would this movie likely have?"
+      },
+      {
+        "answer": "This title is a mock entry generated from scraped web data, so it is not available on official streaming platforms or in theaters.",
+        "question": "Where can I watch or stream this movie?"
+      },
+      {
+        "answer": "While titles of this nature are frequently adapted from Japanese light novels or web manga, this specific entry originates from a mock web scraper placeholder.",
+        "question": "Is this movie based on a light novel or manga?"
+      },
+      {
+        "answer": "The primary target audience is fans of romantic comedy, anime slice-of-life, and harem tropes.",
+        "question": "Who is the target audience for this title?"
+      },
+      {
+        "answer": "It is commonly used as sample text or mock metadata by HTML scrapers to test encoding, localized character parsing, and string extraction.",
+        "question": "Why does this movie show up in scraped web data?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "No significant horror elements indicated."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild, infrequent coarse language typical of standard comedy or drama productions."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Minimal to low violence indicated directly by title and overview, though harem/island tropes may occasionally feature mild slapstick or genre-typical conflict."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional mild depictions or references to alcohol consumption."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate sexual themes, suggestiveness, and suggestive humor implicit in the 'harem' genre setting."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Low emotional intensity, primarily lighthearted comedy or romantic drama tropes."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 6,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 5,
+      "science": 2,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 04:02:30.507998",
+    "updated_at": "2026-08-18 04:02:30.507998"
+  }
 }

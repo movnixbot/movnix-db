@@ -6,13 +6,13 @@
     "originalTitle": "Disney Princess: The Ultimate Concert Celebration",
     "overview": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort brings together the largest gathering of Disney Princess stars ever assembled, celebrating the iconic stories across animation, live-action, stage, and music. This one-of-a-kind concert will transform the night skies with dazzling lights, sweeping projections, and sky-high fountains creating a truly immersive world where the music, magic, and legacy of Disney Princesses shine like never before.",
     "releaseDate": "2026-08-16",
-    "runtime": 21,
+    "runtime": 22,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 0.9054,
+    "voteAverage": 8,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1750855",
     "posterPath": "/2YyWdtnpbJRmvSvBHttJlTEAWTy.jpg",
     "backdropPath": null,
@@ -26,11 +26,32 @@
       "name": "Music"
     },
     {
+      "tmdbId": 10751,
+      "name": "Family"
+    },
+    {
+      "tmdbId": 36,
+      "name": "History"
+    },
+    {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 159811,
+      "name": "Digital Cinema Collective",
+      "logoPath": null,
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 171657,
+      "name": "Walt Disney Studio",
+      "logoPath": null,
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
   "videos": [],
   "images": [
@@ -50,6 +71,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -83,6 +109,96 @@
       "job": "Actor",
       "department": "Acting",
       "order": 2
+    },
+    {
+      "tmdbPersonId": 86128,
+      "name": "Susan Egan",
+      "profilePath": "/3S8wsKhnEgg7hh7CogMOctj1Pvy.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 62050,
+      "name": "Paige O'Hara",
+      "profilePath": "/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1735828,
+      "name": "Halle Bailey",
+      "profilePath": "/1Gjdlx81P7xTeVwHNIDgjgmzZq5.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 1564846,
+      "name": "Auliʻi Cravalho",
+      "profilePath": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 4247263,
+      "name": "Catherine Lagaʻaia",
+      "profilePath": "/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 110316,
+      "name": "Judy Kuhn",
+      "profilePath": "/93jiBKWe4A8Q4ndmThL3Sk74eI6.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 15563,
+      "name": "Anika Noni Rose",
+      "profilePath": "/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 572551,
+      "name": "Paul Dugdale",
+      "profilePath": "/bWM0X1OMVml3FhDph4EGcs3QtHC.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3750901,
+      "name": "Jenna Spellman",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3750898,
+      "name": "Dena Spellman",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
     }
   ],
   "alternativeTitles": [],
@@ -99,7 +215,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+        }
+      ],
       "buy": []
     }
   },

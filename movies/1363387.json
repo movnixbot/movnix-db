@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "141492",
     "status": "Released",
-    "popularity": 28.1008,
-    "voteAverage": 6.74,
-    "voteCount": 125,
+    "popularity": 29.2065,
+    "voteAverage": 6.8,
+    "voteCount": 130,
     "homepage": "https://mock-movie-website.com/movies/1363387",
     "posterPath": "/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
     "backdropPath": "/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
@@ -53,7 +53,7 @@
       "tmdbId": 247616,
       "name": "Thrum Films",
       "logoPath": null,
-      "originCountry": null
+      "originCountry": "AU"
     },
     {
       "tmdbId": 7584,
@@ -410,8 +410,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.74,
-      "votesCount": 125
+      "ratingValue": 6.8,
+      "votesCount": 130
     },
     {
       "source": "imdb",
@@ -453,22 +453,67 @@
       "order": 2
     },
     {
-      "tmdbPersonId": 5159439,
-      "name": "Joseph Baldwin",
-      "profilePath": null,
-      "character": "Ryan",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
       "tmdbPersonId": 39545,
       "name": "Robert Taylor",
       "profilePath": "/wjeEGFarZNyvrqLL4W52eXnAnXe.jpg",
       "character": "Travis",
       "job": "Actor",
       "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 5957958,
+      "name": "Showko Showfukutei",
+      "profilePath": "/xB4BRallUxSofsgDZLjTaZ1nXRe.jpg",
+      "character": "Kimie",
+      "job": "Actor",
+      "department": "Acting",
       "order": 4
+    },
+    {
+      "tmdbPersonId": 2022182,
+      "name": "Octavia Barron-Martin",
+      "profilePath": "/1lRy9ZY2RYEFlK7PTuWYmd9TG3M.jpg",
+      "character": "Grace",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 3549271,
+      "name": "Anna Adams",
+      "profilePath": null,
+      "character": "Ghost Cadaver",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 3406016,
+      "name": "Annie Shapero",
+      "profilePath": "/orBQJJrQVQdbNkT4Vx5Hkw91xPX.jpg",
+      "character": "Melissa",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 1465557,
+      "name": "Louisa Mignone",
+      "profilePath": "/aTq0QihzbgXuNJmhe8pWixpD4ID.jpg",
+      "character": "Professor Kasab",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 5159439,
+      "name": "Joseph Baldwin",
+      "profilePath": null,
+      "character": "Ryan",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
     },
     {
       "tmdbPersonId": 2272212,
@@ -477,85 +522,40 @@
       "character": "Georgie",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 1287611,
+      "name": "Gemma Bird Matheson",
+      "profilePath": "/lLkcxVuN3p8eLWFAXhICnQX4ptM.jpg",
+      "character": "Nikita",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 5957940,
+      "name": "Lucy Goleby",
+      "profilePath": "/rynlmSaYfMVSVGAMcUY4wULJz5b.jpg",
+      "character": "Lucy Childs",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 3048626,
+      "name": "Susan Godfrey",
+      "profilePath": null,
+      "character": "Oncologist",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
     },
     {
       "tmdbPersonId": 1230318,
       "name": "Lisa Crittenden",
       "profilePath": "/mV3Tnb4WjgQIFNU3UwUj6Vq9K3J.jpg",
       "character": "Helen",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 6
-    },
-    {
-      "tmdbPersonId": 5957940,
-      "name": "Lucy Goleby",
-      "profilePath": null,
-      "character": "Lucy Childs",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 7
-    },
-    {
-      "tmdbPersonId": 5957958,
-      "name": "Showko Showfukutei",
-      "profilePath": null,
-      "character": "Kimie",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 8
-    },
-    {
-      "tmdbPersonId": 3549271,
-      "name": "Anna Adams",
-      "profilePath": null,
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 9
-    },
-    {
-      "tmdbPersonId": 5647703,
-      "name": "Daniela Rene Fink",
-      "profilePath": "/hrGe3pZLj6UQHr4wlcLUD8qtpD.jpg",
-      "character": "Tattoo Artist",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 1902676,
-      "name": "Andre Ong Carlesso",
-      "profilePath": null,
-      "character": "Lecturer",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 5727642,
-      "name": "Darius Googe",
-      "profilePath": null,
-      "character": "Nurse",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 2938190,
-      "name": "Rachel Khalaf",
-      "profilePath": null,
-      "character": "Gym Patron",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 5957946,
-      "name": "Jeremiah Louis",
-      "profilePath": null,
-      "character": "Nightclub DJ",
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -567,15 +567,6 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1661916,
-      "name": "Natalie Erika James",
-      "profilePath": "/yLeC93h8kOZsiZs9MllxjjJQYWF.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     },
     {
@@ -603,6 +594,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1661916,
+      "name": "Natalie Erika James",
+      "profilePath": "/yLeC93h8kOZsiZs9MllxjjJQYWF.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     }
   ],
