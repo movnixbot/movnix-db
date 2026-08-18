@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.0442,
-    "voteAverage": 6.2,
-    "voteCount": 6,
+    "popularity": 5.5631,
+    "voteAverage": 6.143,
+    "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1479495",
     "posterPath": "/wUot9PRZ2zAv3wXj6aMdZRbPzUP.jpg",
     "backdropPath": "/8z7dSFZUge1JeboxpkvURHT1MeZ.jpg",
@@ -161,8 +161,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.2,
-      "votesCount": 6
+      "ratingValue": 6.143,
+      "votesCount": 7
     },
     {
       "source": "rotten_tomatoes",
@@ -312,5 +312,222 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1479495/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1479495,
+    "hash": "9454e39d011aac369840ee396939dc48c2481a2fa083ed1b8221add9591d2b77",
+    "summary_one_sentence": "Trapped in a moving camper trailer with a festering wound, a desperate woman faces a race against time to reach medical help before a horrifying condition takes over.",
+    "summary_short": "A woman awakens disoriented inside a moving camper trailer, suffering from a severely infected and rapidly deteriorating wound. The mysterious driver pulling the vehicle informs her that they have less than an hour to reach a doctor who can treat her condition. As the clock ticks down, she must endure mounting physical agony and psychological terror while trying to figure out who her driver is and what actually happened to her. Her survival depends on trusting a stranger whose motives remain terrifyingly unclear.",
+    "summary_long": "Disoriented and in excruciating pain, a woman wakes up isolated in the back of a moving camper trailer. She discovers a gruesome, rapidly spreading infection on her body that defies normal medical explanation. A voice over an intercom from the truck towing her reveals a grim reality: she has been infected with a rare, horrific pathogen, and they have under an hour to reach a specialized physician. As they speed down desolate roads, the physical symptoms worsen, causing agonizing hallucinations and severe physical degradation. Suspicion grows as she questions whether her driver is a merciful savior or the captor responsible for her condition. Desperate for answers, she tries to piece together her fragmented memories while searching the trailer for anything to treat her wound or escape. The intense race against the clock forces her to confront escalating psychological trauma and unbearable pain. Every mile brings her closer to either salvation or a fate far worse than death, leaving her no choice but to push through the agony until they reach their destination.",
+    "synopsis": "A woman wakes up trapped in the back of a moving camper trailer, battling a severe, anomalous infection that is aggressively consuming her body. The mysterious driver towing the trailer communicates through a window hatch, warning her that she must reach an isolated doctor within an hour or suffer a terrible, irreversible outcome. Blending intense survival horror with psychological thriller elements, the narrative follows her agonizing struggle to maintain consciousness, decipher her memory loss, and discern whether her driver is trying to save her or deliver her to a darker fate.",
+    "keywords": [
+      "kidnapping",
+      "race against time",
+      "survival horror",
+      "infected wound",
+      "confined space",
+      "trapped in vehicle",
+      "camper trailer",
+      "disembodied voice",
+      "stranger danger",
+      "ticking clock",
+      "desperate search for medical help",
+      "psychological tension",
+      "mystery captor",
+      "body horror elements",
+      "road trip terror"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Race Against Time",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Trust and Vulnerability",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Isolation and Confinement",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The frantic race against the clock culminates in a desperate, high-stakes confrontation where the ultimate consequences of her infection and the journey's true purpose are laid bare.",
+      "conflict": "She learns from the driver in the attached truck that time is rapidly running out—they have less than an hour to reach medical help before her condition takes a terrifying, irreversible turn.",
+      "resolution": "In the aftermath of the crisis, the survivor faces the immediate repercussions of the journey, coming to terms with what was saved and what was irreversibly changed.",
+      "introduction": "A woman awakens in the dark, cramped confines of a moving camper trailer, disoriented and suffering from a severely infected wound.",
+      "risingAction": "As the vehicle speeds toward an uncertain destination, physical deterioration, limited mobility, and psychological tension heighten as the true nature of her affliction and the urgency of their journey become clear."
+    },
+    "characters": [
+      {
+        "name": "Lena",
+        "role": "Hero",
+        "description": "A frantic, wounded woman who wakes up trapped in a moving camper trailer, desperately fighting for survival and trying to figure out if she can trust her driver."
+      },
+      {
+        "name": "Clive",
+        "role": "Anti Hero",
+        "description": "The mysterious truck driver towing the trailer who claims he is helping Lena reach medical treatment for a fatal infection, though his motives remain ambiguous."
+      },
+      {
+        "name": "James Austin Johnson's Character",
+        "role": "Supporting Character",
+        "description": "A radio host who broadcasts conspiracy theories and paranormal advice, shedding light on the broader horror mythology."
+      },
+      {
+        "name": "Liz Atwater's Character",
+        "role": "Supporting Character",
+        "description": "A key figure appearing in Lena's flashbacks and memory fragments that frame her past loss and relationships."
+      },
+      {
+        "name": "Jordan Mullins' Character",
+        "role": "Supporting Character",
+        "description": "An additional supporting figure who contributes to the escalating narrative twists and external plot conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lena",
+        "target": "Clive",
+        "description": "Captive/Captor (Clive claims to be a savior taking her to medical help, while Lena suspects he kidnapped her)"
+      },
+      {
+        "source": "Clive",
+        "target": "Jasper Deville",
+        "description": "Avid Listener / Radio Host (Clive frequently calls into Jasper's conspiracy talk show for guidance)"
+      },
+      {
+        "source": "Lena",
+        "target": "Ollie",
+        "description": "Fellow Captive (Ollie is another victim captured and held by Clive in the truck)"
+      }
+    ],
+    "seo": {
+      "slug": "hellcat",
+      "jsonLd": {
+        "name": "Hellcat",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate."
+      },
+      "keywords": [
+        "Hellcat",
+        "Hellcat movie",
+        "Hellcat film synopsis",
+        "thriller movie",
+        "Hellcat plot"
+      ],
+      "canonical": "[https://movnix.com/movie/hellcat](https://movnix.com/movie/hellcat)",
+      "metaTitle": "Hellcat Movie - Synopsis, Plot & Updates",
+      "openGraph": {
+        "og:title": "Hellcat - Official Movie Synopsis",
+        "og:description": "Trapped in a moving trailer with a deadly infection, she has one hour to reach a doctor in the suspense thriller Hellcat."
+      },
+      "twitterCard": {
+        "twitter:title": "Hellcat - Official Movie Synopsis",
+        "twitter:description": "Trapped in a moving trailer with a deadly infection, she has one hour to reach a doctor in the suspense thriller Hellcat."
+      },
+      "metaDescription": "A woman wakes in a moving trailer with an infected wound and a race against time to reach a doctor before facing a horrific fate in Hellcat."
+    },
+    "faq": [
+      {
+        "answer": "Hellcat is primarily a survival and psychological horror film with heavy thriller elements, set almost entirely within a single confined location.",
+        "question": "What is the dominant genre of Hellcat?"
+      },
+      {
+        "answer": "No, Hellcat is a standalone independent horror film and is not connected to any existing franchise or cinematic universe.",
+        "question": "Is Hellcat part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, Hellcat does not feature an end-credit or post-credit scene; the story concludes definitively before the credits roll.",
+        "question": "Does Hellcat have a post-credit scene?"
+      },
+      {
+        "answer": "The film was written and directed by filmmaker Brock Bodell.",
+        "question": "Who directed Hellcat?"
+      },
+      {
+        "answer": "Dakota Gorman stars as Lena, the woman who wakes up locked inside the moving camper trailer.",
+        "question": "Who plays the lead character in the trailer?"
+      },
+      {
+        "answer": "The feature film has a lean runtime of approximately 91 minutes.",
+        "question": "What is the runtime of Hellcat?"
+      },
+      {
+        "answer": "The narrative takes place almost entirely inside the cramped, moving interior of a camper trailer towed by a pickup truck along a remote road.",
+        "question": "What is the main setting of the movie?"
+      },
+      {
+        "answer": "Hellcat is available for streaming on horror platform Shudder as well as major digital video-on-demand services.",
+        "question": "Where can viewers watch Hellcat?"
+      },
+      {
+        "answer": "The film contains intense suspense, psychological distress, bodily trauma, and graphic body-horror effects, so viewer discretion is advised.",
+        "question": "Is Hellcat suitable for sensitive viewers?"
+      },
+      {
+        "answer": "The driver communicates with Lena via an intercom system mounted inside a taxidermied animal head on the trailer wall.",
+        "question": "How does the main character communicate with her captor?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "High horror and suspense elements involving abduction-like conditions, a dangerous bodily infection, and time-pressured dread."
+      },
+      "language": {
+        "score": 3,
+        "description": "Likely mild to moderate strong language driven by high-stress survival scenarios."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violent premise featuring a badly infected wound and the threat of severe physical injury or a horrific fate."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use indicated beyond possible medical context for the wound."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high psychological tension and panic due to a life-or-death countdown and claustrophobic isolation."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 8,
+      "romance": 0,
+      "science": 3,
+      "suspense": 10,
+      "violence": 6
+    },
+    "created_at": "2026-08-17 17:14:43.835378",
+    "updated_at": "2026-08-17 17:14:43.835378"
+  }
 }
