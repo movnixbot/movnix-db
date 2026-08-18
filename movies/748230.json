@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "851156",
     "status": "Released",
-    "popularity": 6.5542,
-    "voteAverage": 5.979,
-    "voteCount": 723,
+    "popularity": 6.5149,
+    "voteAverage": 5.98,
+    "voteCount": 724,
     "homepage": "https://www.max.com/movies/salems-lot/b1aaea47-b2e8-4418-a181-91de7102d04f",
     "posterPath": "/qFAK70ePry3kQWEnqsGYeZPhNPa.jpg",
     "backdropPath": "/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
@@ -589,8 +589,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.979,
-      "votesCount": 723
+      "ratingValue": 5.98,
+      "votesCount": 724
     },
     {
       "source": "imdb",
@@ -740,6 +740,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 936422,
+      "name": "Mark Wolper",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1800923,
       "name": "Michael Clear",
       "profilePath": "/8RftlJWKL5ktLGDHADoAciZGNdP.jpg",
@@ -749,9 +758,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 936422,
-      "name": "Mark Wolper",
-      "profilePath": null,
+      "tmdbPersonId": 21036,
+      "name": "Roy Lee",
+      "profilePath": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2127,
+      "name": "James Wan",
+      "profilePath": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -773,24 +791,6 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2127,
-      "name": "James Wan",
-      "profilePath": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 21036,
-      "name": "Roy Lee",
-      "profilePath": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     }
   ],
@@ -914,5 +914,286 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/748230/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 748230,
+    "hash": "58d55ab016fe1d2295733755c42d0b899194eb5c74be90148d87668857c44fd3",
+    "summary_one_sentence": "Author Ben Mears returns to his childhood home of Jerusalem's Lot, only to uncover that a sinister vampire is slowly turning the town's residents into the undead.",
+    "summary_short": "Writer Ben Mears travels back to Jerusalem's Lot seeking inspiration for his next novel by exploring the notorious Marsten House. Soon after his arrival, local residents begin disappearing or contracting a mysterious illness before turning into bloodthirsty creatures of the night. Teaming up with a small group of defiant locals, Ben must confront the ancient evil consuming his hometown. Together, they wage a desperate battle to survive the vampire's terror before the entire community is lost.",
+    "summary_long": "Ben Mears, a successful writer, returns to his quiet hometown of Jerusalem's Lot to research the ominous, long-abandoned Marsten House for his upcoming book. Shortly after his arrival, mysterious antique dealer Richard Straker purchases the mansion and prepares for the arrival of his elusive business partner, Kurt Barlow. It quickly becomes clear that Barlow is an ancient, powerful vampire intent on turning the peaceful Maine town into his personal feeding ground. As citizens begin to die mysterious deaths only to rise as blood-drinking night stalkers, fear grips the remaining townspeople. Ben allies himself with a local teacher, a young horror enthusiast named Mark Petrie, a physician, and a local priest to combat the spread of the undead infestation. The small group scrambles to track down Barlow's hidden coffin, knowing they must destroy the master vampire to break his hold on the town. Tensions rise as member after member of their group falls victim to the growing army of vampires. Ultimately, Ben and Mark are forced to make terrifying sacrifices in a final, frantic effort to slay Barlow and burn the dark forces out of Jerusalem's Lot for good.",
+    "synopsis": "When author Ben Mears returns to his childhood town of Jerusalem's Lot to face old memories and write a novel about a local haunted mansion, he finds a community on the verge of a subtle nightmare. Shortly after two mysterious outsiders move into the long-dormant Marsten House, unexplainable disappearances and strange illnesses begin plaguing the residents. As shadow and dread creep across the small Maine town, a small group of unlikely allies realizes they are up against an insidious, supernatural presence. Without giving away the fate of the town or its people, this gripping tale follows their perilous fight to hold back an ancient evil before Jerusalem's Lot is consumed by the dark.",
+    "keywords": [
+      "vampire invasion",
+      "small town horror",
+      "returning home",
+      "haunted house",
+      "creeping dread",
+      "gothic atmosphere",
+      "author protagonist",
+      "ancient evil",
+      "town secret",
+      "monster hunt",
+      "bloodthirsty predator",
+      "supernatural epidemic",
+      "stealthy infection"
+    ],
+    "themes": [
+      {
+        "theme": "Corruption of Innocence & Small-Town Decay",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Confronting Childhood Trauma",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Good vs. Evil",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "As the infestation spreads uncontrollably throughout the town, Ben and his remaining allies must launch a desperate, high-stakes raid into the vampire lair to destroy the master before nightfall.",
+      "conflict": "Unexplained disappearances and unsettling deaths begin to plague the town soon after the enigmatic Kurt Barlow moves into the Marsten House, signaling a insidious force taking root in Jerusalem's Lot.",
+      "resolution": "In the tragic aftermath of the confrontation, the surviving heroes face the permanent devastation of Jerusalem's Lot, forcing them into exile while leaving the abandoned town to its dark fate.",
+      "introduction": "Writer Ben Mears returns to his hometown of Jerusalem's Lot to research the ominous Marsten House and confront past childhood traumas, while simultaneously trying to rekindle his passion for writing and starting a local romance.",
+      "risingAction": "Ben, joined by a small group of aware townspeople including local teacher Matt Burke and young Mark Petrie, slowly unravels the terrifying truth: the town is being converted into a haven for vampires."
+    },
+    "characters": [
+      {
+        "name": "Ben Mears",
+        "role": "Hero",
+        "description": "A writer returning to his hometown who discovers the vampire threat and leads the fight against the evil taking over Jerusalem's Lot."
+      },
+      {
+        "name": "Kurt Barlow",
+        "role": "Villain",
+        "description": "An ancient master vampire who secretly arrives in town to feed on the residents and turn them into his undead thralls."
+      },
+      {
+        "name": "Richard Straker",
+        "role": "Villain",
+        "description": "Barlow's loyal human familiar and business partner who prepares the town for his master's arrival."
+      },
+      {
+        "name": "Mark Petrie",
+        "role": "Hero",
+        "description": "A resourceful young boy obsessed with monster movies who becomes a key member of the group hunting the vampires."
+      },
+      {
+        "name": "Susan Norton",
+        "role": "Supporting Character",
+        "description": "A local college graduate and artist who becomes romantically involved with Ben and gets drawn into the supernatural crisis."
+      },
+      {
+        "name": "Matthew Burke",
+        "role": "Mentor",
+        "description": "A high school English teacher who first recognizes the vampire threat and guides the group using his intellect and knowledge."
+      },
+      {
+        "name": "Dr. Cody",
+        "role": "Supporting Character",
+        "description": "A local physician who joins Ben's group to scientifically analyze and combat the vampiric plague."
+      },
+      {
+        "name": "Father Callahan",
+        "role": "Anti Hero",
+        "description": "A troubled local priest battling alcohol addiction and faltering faith who tries to protect the town from spiritual evil."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ben Mears",
+        "target": "Susan Norton",
+        "description": "Romantic partners / Allies"
+      },
+      {
+        "source": "Ben Mears",
+        "target": "Mark Petrie",
+        "description": "Allies / Mentor figure"
+      },
+      {
+        "source": "Ben Mears",
+        "target": "Matt Burke",
+        "description": "Friends / Vampire hunters"
+      },
+      {
+        "source": "Ben Mears",
+        "target": "Kurt Barlow",
+        "description": "Enemies"
+      },
+      {
+        "source": "Kurt Barlow",
+        "target": "Richard Straker",
+        "description": "Master / Servant (Familiar)"
+      },
+      {
+        "source": "Kurt Barlow",
+        "target": "Susan Norton",
+        "description": "Vampire and victim"
+      },
+      {
+        "source": "Mark Petrie",
+        "target": "Kurt Barlow",
+        "description": "Enemies"
+      },
+      {
+        "source": "Father Donald Callahan",
+        "target": "Ben Mears",
+        "description": "Allies / Fellow vampire hunters"
+      },
+      {
+        "source": "Father Donald Callahan",
+        "target": "Kurt Barlow",
+        "description": "Adversaries (Spiritual conflict)"
+      },
+      {
+        "source": "Dr. Jimmy Cody",
+        "target": "Ben Mears",
+        "description": "Friends / Allies"
+      },
+      {
+        "source": "Matt Burke",
+        "target": "Mike Ryerson",
+        "description": "Teacher / Former student"
+      },
+      {
+        "source": "Susan Norton",
+        "target": "Bill Norton",
+        "description": "Father / Daughter"
+      }
+    ],
+    "seo": {
+      "slug": "salems-lot",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/salems-lot](https://movnix.com/movie/salems-lot)",
+        "name": "Salem's Lot",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Author Ben Mears returns to his childhood home of Jerusalem's Lot only to discover his hometown is being preyed upon by a bloodthirsty vampire."
+      },
+      "keywords": [
+        "salem's lot",
+        "salem's lot movie",
+        "ben mears",
+        "vampire horror movie",
+        "jerusalem's lot",
+        "stephen king adaptation"
+      ],
+      "canonical": "[https://movnix.com/movie/salems-lot](https://movnix.com/movie/salems-lot)",
+      "metaTitle": "Salem's Lot (2024) - Movie Overview, Synopsis & Details",
+      "openGraph": {
+        "og:title": "Salem's Lot - Can He Save His Hometown from a Bloodthirsty Vampire?",
+        "og:description": "Author Ben Mears returns to Jerusalem's Lot only to find a terrifying sinister presence turning the locals into bloodthirsty vampires."
+      },
+      "twitterCard": {
+        "twitter:title": "Salem's Lot Movie - Synopsis & Overview",
+        "twitter:description": "Ben Mears returns home to Jerusalem's Lot, only to uncover a terrifying vampire preying on the townspeople."
+      },
+      "metaDescription": "Author Ben Mears returns to Jerusalem's Lot only to discover his childhood home is preyed upon by a bloodthirsty vampire. Watch the Salem's Lot movie."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Salem's Lot is supernatural horror, focusing on classic vampire lore, suspense, and terror within a small New England town.",
+        "question": "What is the dominant genre of Salem's Lot?"
+      },
+      {
+        "answer": "Yes, it is directly adapted from Stephen King's famous 1975 horror novel of the same name.",
+        "question": "Is Salem's Lot based on a book?"
+      },
+      {
+        "answer": "While it is not part of a traditional cinematic universe, the original novel spawned previous television miniseries, sequels (such as A Return to Salem's Lot), and radio adaptations, sharing thematic connections with Stephen King's broader literary multiverse.",
+        "question": "Is Salem's Lot part of a film franchise?"
+      },
+      {
+        "answer": "The story follows author Ben Mears as he returns to his childhood hometown of Jerusalem's Lot to write a book, only to discover that the residents are being turned into vampires by a ancient, sinister evil.",
+        "question": "What is the main plot of Salem's Lot?"
+      },
+      {
+        "answer": "No, there is no post-credits scene or end-credits teaser at the final end of the film.",
+        "question": "Is there a post-credits scene in Salem's Lot?"
+      },
+      {
+        "answer": "The story is set in the fictional small town of Jerusalem's Lot (often abbreviated as Salem's Lot), located in Maine.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The primary antagonist is Kurt Barlow, a master vampire who moves to the town along with his human familiar, Richard Straker.",
+        "question": "Who is the main antagonist in Salem's Lot?"
+      },
+      {
+        "answer": "No, it is intended for mature audiences due to intense terrifying sequences, graphic violence, scary bloodsucking imagery, and disturbing horror themes.",
+        "question": "Is Salem's Lot suitable for children?"
+      },
+      {
+        "answer": "The protagonist is Ben Mears, a writer who bands together with a small group of local allies, including schoolteacher Matt Burke and young Mark Petrie, to fight the vampire threat.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The vampires in Salem's Lot adhere closely to traditional, monstrous vampire folklore—they are repelled by crosses and holy water, cannot enter homes without an invitation, and operate as predatory monsters rather than romantic figures.",
+        "question": "What makes the vampires in Salem's Lot unique?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 9,
+        "description": "Pervasive psychological dread, horrifying vampire transformations, jump scares, and gruesome supernatural threats."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language and profanity throughout tense scenarios."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic vampiric attacks, blood-drinking, visceral murders, and characters being staked or impaled."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Casual alcohol consumption and smoking consistent with modern horror tropes."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Minor sexual references and mild sensuality tied to vampiric seduction."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress involving the destruction of a small community, loss of loved ones, and child endangerment."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 8,
+      "mystery": 8,
+      "romance": 3,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-17 06:02:14.164653",
+    "updated_at": "2026-08-17 06:02:14.164653"
+  }
 }
