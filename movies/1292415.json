@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 23.4788,
-    "voteAverage": 6.452,
-    "voteCount": 93,
+    "popularity": 24.3231,
+    "voteAverage": 6.983,
+    "voteCount": 120,
     "homepage": "https://mock-movie-website.com/movies/1292415",
     "posterPath": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
     "backdropPath": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
@@ -395,8 +395,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.452,
-      "votesCount": 93
+      "ratingValue": 6.983,
+      "votesCount": 120
     },
     {
       "source": "imdb",
@@ -546,12 +546,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1895348,
-      "name": "Tyler Atkins",
-      "profilePath": "/7xQ1YnvgXDCT9QD9SuVh1HGlvMQ.jpg",
+      "tmdbPersonId": 61763,
+      "name": "Shane Abbess",
+      "profilePath": "/9R098O6dsDI94Ad0q5zDXlK05rx.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1465559,
+      "name": "Brett Thornquest",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -561,15 +570,6 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 61763,
-      "name": "Shane Abbess",
-      "profilePath": "/9R098O6dsDI94Ad0q5zDXlK05rx.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -591,12 +591,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1465559,
-      "name": "Brett Thornquest",
-      "profilePath": null,
+      "tmdbPersonId": 1895348,
+      "name": "Tyler Atkins",
+      "profilePath": "/7xQ1YnvgXDCT9QD9SuVh1HGlvMQ.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
