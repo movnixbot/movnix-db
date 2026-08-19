@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.3762,
+    "popularity": 1.7151,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1742434",
     "posterPath": "/cjmuneS7Z07dYzY9eDwkIT1sntC.jpg",
-    "backdropPath": null,
+    "backdropPath": "/sWj792RdO5fTj6hxrOjZ12KhLpN.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -67,11 +67,32 @@
       "type": "poster"
     },
     {
+      "filePath": "/sWj792RdO5fTj6hxrOjZ12KhLpN.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/cjmuneS7Z07dYzY9eDwkIT1sntC.jpg",
       "width": 683,
       "height": 1024,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/lFmo0rrMAUjixtP78myWZMNCy4J.jpg",
+      "width": 853,
+      "height": 1280,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sWj792RdO5fTj6hxrOjZ12KhLpN.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -172,5 +193,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1742434/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1742434,
+    "hash": "36afb6acf366ab766e3dcc89148091ac0a7b0829dd9a67bee8361c78135c577e",
+    "summary_one_sentence": "In a small village, two teens named Ravi and Chitti are drawn into a secret, ill-advised romance influenced by peer pressure and lack of guidance, triggering widespread family conflict and severe consequences.",
+    "summary_short": "Ravi, a former top student, falls under bad influences in his village and begins slacking in school to pursue a romance with Chitti. Drawn together by youthful curiosity and adolescent impulses, the secret couple eventually crosses boundaries and gets caught red-handed by their parents. Facing societal judgment, harsh parental opposition, and unexpected outcomes like pregnancy, they must navigate the fallout of their premature rebellion. Ultimately, the story serves as a cautionary tale detailing the impacts of parenting, peer pressure, and juvenile decisions.",
+    "summary_long": "Ravi is a promising adolescent living in a tight-knit village who starts out as a bright, hardworking student. However, exposure to crude peer influences and adult content via smartphones leads him astray and shifts his focus toward pursuing romantic interests. He forms a bond with Chitti, a local girl driven by her own adolescent curiosity and attraction toward him. Lacking emotional maturity and parental supervision, their hidden relationship quickly progresses beyond safe boundaries. The secret affair comes crashing down when their families catch them together, leading to intense scandal and devastation across both households. Complications escalate further when Chitti becomes pregnant, leaving both families to deal with social embarrassment and heartbreak. Defying their parents' strict actions, Ravi and Chitti attempt to stand by their bond despite having little understanding of life's realities. Through their struggles, the plot highlights how negligence, over-indulgence, and toxic friendships can derail young lives.",
+    "synopsis": "Set against a rural backdrop, 'Hushar Pittalu' explores the fragile transition from adolescence into adulthood. The story centers on Ravi, an academic achiever whose trajectory changes after falling in with bad influences, and Chitti, a village girl captivated by him. As curiosity and peer pressure take over, the duo enters a secret physical relationship without considering the long-term consequences. When their respective families discover the secret, the scandal triggers intense emotional turmoil, exposing systemic parental mistakes, poor digital supervision, and peer influence. The narrative balances initial coming-of-age comedy with an emotional look at youthful rebellion and familial accountability.",
+    "keywords": [
+      "teenage romance",
+      "coming of age",
+      "rural setting",
+      "secret relationship",
+      "forbidden love",
+      "peer pressure",
+      "family opposition",
+      "parental pressure",
+      "generational conflict",
+      "youth rebellion",
+      "first love",
+      "cautionary tale",
+      "small town romance"
+    ],
+    "themes": [
+      {
+        "theme": "Peer Pressure",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Parental Influence",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Youthful Attraction",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Rebellion",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Conflict",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The confrontation between the defied families and the rebellious teenagers reaches a critical boiling point, forcing a high-stakes dramatic showdown that permanently reshapes the trajectory of their lives.",
+      "conflict": "Influenced by bad peers and their own impulsive choices, Ravi and Chitti's hidden affair is eventually uncovered by their respective families, triggering strong opposition and severe parental pushback.",
+      "resolution": "In the aftermath of the crisis, the community and families are left to confront the irreversible consequences of their mistakes, highlighting the lasting impact of misguided youth and parental failure.",
+      "introduction": "In a close-knit village, two teenagers, Ravi and Chitti, navigate the complexities of adolescence, curiosity, and youthful attraction, which quietly spark a secret romantic connection between them.",
+      "risingAction": "Rather than backing down, the young couple actively defies their families' demands, causing tensions in the village to escalate as parental missteps, peer pressure, and stubborn rebellion clash."
+    },
+    "characters": [
+      {
+        "name": "Ravi",
+        "role": "Hero",
+        "description": "One of the two main teenagers involved in the secret relationship, representing youthful attraction and defiance."
+      },
+      {
+        "name": "Chitti",
+        "role": "Hero",
+        "description": "The other main teenager, drawn into the secret relationship, showcasing adolescence and the impact of choices."
+      },
+      {
+        "name": "Vasavi Ganeshan",
+        "role": "Other",
+        "description": "An unnamed cast member likely playing a parent or significant adult figure, representing parental mistakes."
+      },
+      {
+        "name": "Ansh Thorat",
+        "role": "Other",
+        "description": "An unnamed cast member, potentially a parent or a peer, influencing the teenagers' choices."
+      },
+      {
+        "name": "Govardhan Reddy",
+        "role": "Other",
+        "description": "An unnamed cast member, possibly portraying a parent, peer, or another influential adult in the village."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ravi",
+        "target": "Chitti",
+        "description": "Romantic Partners / Secret Lovers"
+      },
+      {
+        "source": "Ravi",
+        "target": "Ravi's Family",
+        "description": "Family / Conflict"
+      },
+      {
+        "source": "Chitti",
+        "target": "Chitti's Family",
+        "description": "Family / Conflict"
+      },
+      {
+        "source": "Ravi's Family",
+        "target": "Chitti's Family",
+        "description": "Rivals / Opposing Families"
+      },
+      {
+        "source": "Peers / Bad Influences",
+        "target": "Ravi",
+        "description": "Peer Influence / Peer Pressure"
+      },
+      {
+        "source": "Peers / Bad Influences",
+        "target": "Chitti",
+        "description": "Peer Influence / Peer Pressure"
+      }
+    ],
+    "seo": {
+      "slug": "hushar-pittalu",
+      "jsonLd": {
+        "name": "Hushar Pittalu",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a village, two teenagers, Ravi and Chitti, are drawn into a secret relationship as curiosity, adolescence, and bad influences shape their choices. When their families discover the affair, the couple defies them, setting off a chain of events that reveals how parental mistakes, peer pressure, and youthful attraction can alter young lives forever."
+      },
+      "keywords": [
+        "Hushar Pittalu",
+        "Hushar Pittalu movie",
+        "Hushar Pittalu synopsis",
+        "Ravi and Chitti",
+        "teenage romance drama"
+      ],
+      "canonical": "[https://movnix.com/movie/hushar-pittalu](https://movnix.com/movie/hushar-pittalu)",
+      "metaTitle": "Hushar Pittalu Movie Synopsis, Details & Cast Information",
+      "openGraph": {
+        "og:title": "Hushar Pittalu - A Story of Youth, Romance, and Defiance",
+        "og:description": "When Ravi and Chitti's secret relationship is discovered, their defiance triggers a powerful chain of events in their small village."
+      },
+      "twitterCard": {
+        "twitter:title": "Hushar Pittalu - Plot & Movie Overview",
+        "twitter:description": "Discover how peer pressure, parental mistakes, and teenage attraction alter young lives in Hushar Pittalu."
+      },
+      "metaDescription": "Explore Hushar Pittalu, a story of teenage romance, peer pressure, and family conflict as Ravi and Chitti defy their families in a small village."
+    },
+    "faq": [
+      {
+        "answer": "No, Hushar Pittalu is a standalone coming-of-age romantic drama film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Hushar Pittalu part of a movie franchise?"
+      },
+      {
+        "answer": "The dominant genre is romantic drama, specifically focusing on a coming-of-age narrative that addresses youth culture, family dynamics, and social pressure.",
+        "question": "What is the dominant genre of Hushar Pittalu?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes in Hushar Pittalu, as the narrative concludes fully before the credits roll.",
+        "question": "Is there a post-credits scene in Hushar Pittalu?"
+      },
+      {
+        "answer": "The main characters are Ravi and Chitti, two village teenagers whose secret affair and subsequent defiance drive the plot.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "The film explores themes of adolescent curiosity, peer pressure, parental mistakes, youth defiance, and the long-term impact of impulse choices.",
+        "question": "What are the primary themes explored in the film?"
+      },
+      {
+        "answer": "The movie is set in a rural village environment, where traditional family values conflict with teenage autonomy and secret relationships.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The primary conflict arises when the families of Ravi and Chitti uncover their secret affair, leading the teenagers to rebel against their parents.",
+        "question": "What triggers the main conflict in the movie?"
+      },
+      {
+        "answer": "The film deals with sensitive themes such as teenage romance, peer influences, and family conflict, making it most appropriate for mature audiences and teens with parental guidance.",
+        "question": "Is Hushar Pittalu suitable for all age groups?"
+      },
+      {
+        "answer": "Yes, a central premise of the film highlights how parental mistakes, miscommunication, and societal expectations contribute to young people's decisions.",
+        "question": "Does the movie address parental responsibilities?"
+      },
+      {
+        "answer": "Audiences can expect a dramatic, emotionally grounded, and cautionary tone that examines the realistic consequences of youthful attraction and rebellion.",
+        "question": "What tone can audiences expect from the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "There is no indication of horror elements in the overview."
+      },
+      "language": {
+        "score": 2,
+        "description": "While the narrative deals with rebellious teenagers and family conflict, there is no direct indication of strong language being a prominent feature. Some mild language might be present given the themes."
+      },
+      "violence": {
+        "score": 4,
+        "description": "The overview suggests potential for conflict and 'chain of events' which could involve violence, but it's not explicitly stated as graphic or frequent. Parental defiance and altered lives hint at emotional, rather than necessarily physical, altercations."
+      },
+      "substance": {
+        "score": 2,
+        "description": "'Bad influences' and 'peer pressure' could subtly hint at substance use, but it's not a direct or prominent theme suggested by the overview. It's possible for mild references or implications."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "The phrase 'secret relationship' and 'youthful attraction' strongly implies sexual themes, likely involving romantic and intimate situations, but it does not suggest explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "The overview clearly indicates high emotional intensity. Themes include 'secret relationship,' 'curiosity, adolescence, and bad influences,' 'families discover the affair,' 'couple defies them,' 'parental mistakes, peer pressure, and youthful attraction,' and 'alter young lives forever.' These all point to significant emotional drama and conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 7,
+      "science": 0,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 14:09:47.451344",
+    "updated_at": "2026-08-18 14:09:47.451344"
+  }
 }

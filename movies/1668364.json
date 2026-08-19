@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 138.4704,
-    "voteAverage": 6.822,
-    "voteCount": 160,
+    "popularity": 67.616,
+    "voteAverage": 6.748,
+    "voteCount": 230,
     "homepage": "https://mock-movie-website.com/movies/1668364",
     "posterPath": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
     "backdropPath": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
@@ -34,17 +34,22 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
-  "keywords": [],
-  "videos": [
+  "companies": [
     {
-      "name": "Trailer [Dubbed]",
-      "key": "siUPiUaSWvc",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer"
+      "tmdbId": 134015,
+      "name": "Las películas del Apache",
+      "logoPath": null,
+      "originCountry": "ES"
+    },
+    {
+      "tmdbId": 94730,
+      "name": "El Estudio",
+      "logoPath": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+      "originCountry": "ES"
     }
   ],
+  "keywords": [],
+  "videos": [],
   "images": [
     {
       "filePath": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
@@ -99,6 +104,13 @@
       "filePath": "/3JQXDOlqsonCT51WLM65zXCVL2D.jpg",
       "width": 960,
       "height": 1440,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sUvYeS4wVXKregd3GpZjn27kBKm.jpg",
+      "width": 1680,
+      "height": 2520,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -159,13 +171,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/sUvYeS4wVXKregd3GpZjn27kBKm.jpg",
-      "width": 1680,
-      "height": 2520,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/lp5PL1ZnpYBA1CALinTHcEYAtuR.jpg",
       "width": 2000,
       "height": 3000,
@@ -190,6 +195,34 @@
       "filePath": "/pxRAl6jEccn9x3r0o5tEqSU83nR.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/rJV06czDpqrJ4Xt7ny8vpYMQYwx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6KqmrQqtDq0GXW9JydPStu1h46R.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2RZ3wQAgysVikXeOuhzOF9kL4WN.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/dY6FJ6QstSRODoz0b9AAXK77i4U.jpg",
+      "width": 512,
+      "height": 768,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -232,8 +265,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.822,
-      "votesCount": 160
+      "ratingValue": 6.748,
+      "votesCount": 230
     },
     {
       "source": "imdb",
@@ -414,6 +447,11 @@
     {
       "iso_3166_1": "SE",
       "title": "Förbjudna begär",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "AZ",
+      "title": "Arzu",
       "type": ""
     }
   ],
