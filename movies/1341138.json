@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 12.6371,
-    "voteAverage": 7,
-    "voteCount": 10,
-    "homepage": "https://spaweekend.movie",
+    "popularity": 13.3566,
+    "voteAverage": 10,
+    "voteCount": 1,
+    "homepage": "https://spaweekend.movie/home/",
     "posterPath": "/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg",
-    "backdropPath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+    "backdropPath": "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
     "collectionId": null,
     "certification": "R"
   },
@@ -182,7 +182,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "filePath": "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -343,16 +343,23 @@
       "type": "poster"
     },
     {
-      "filePath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "filePath": "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
-      "filePath": "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-      "width": 3840,
-      "height": 2160,
+      "filePath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "width": 1920,
+      "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -372,13 +379,6 @@
     },
     {
       "filePath": "/6nluJ2EhHMI939vnU3H3F4B8OI5.jpg",
-      "width": 1920,
-      "height": 1080,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
@@ -421,6 +421,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -476,7 +481,7 @@
     {
       "tmdbPersonId": 3472982,
       "name": "Quinn Aune",
-      "profilePath": "/g4mi0T0MEV3MAZfW4mUuNk8vYIj.jpg",
+      "profilePath": "/hQcg9uijh53xs4YmNeE60K8JRML.jpg",
       "character": "Young Mel",
       "job": "Actor",
       "department": "Acting",
@@ -611,6 +616,24 @@
     {
       "tmdbPersonId": 1533678,
       "name": "John Friedberg",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1080589,
+      "name": "Teddy Schwarzman",
+      "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2213707,
+      "name": "Michael Heimler",
       "profilePath": null,
       "character": null,
       "job": "Producer",
