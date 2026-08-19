@@ -361,5 +361,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/730558/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 730558,
+    "hash": "76209c6066f0174f0c8889ac2ba172ab71b15edd0ed2cf7ce32e770424abb5c6",
+    "summary_one_sentence": "In 1925 Mauritius, an orphaned young woman defies her controlling uncle and societal expectations by falling in love with a local worker, sparking a perilous fight for their shared future.",
+    "summary_short": "After being orphaned, Lucy is sent to live with her charming yet manipulative uncle on the island of Mauritius in 1925. Her uncle attempts to orchestrate a marriage for his own financial benefit, but Lucy refuses to be a pawn in his schemes. Instead, she forms a deep bond with Krishna, a handsome local laborer, defying social boundaries. Together, the star-crossed lovers must risk everything to overcome the powerful forces set on keeping them apart.",
+    "summary_long": "Set against the lush, sweeping backdrop of 1925 Mauritius, Prisoners of Paradise follows the journey of Lucy, a young woman recently orphaned and forced to relocate to her uncle's estate. Though outwardly charming, her uncle quickly reveals a controlling nature as he plots to marry her off to secure his own financial salvation. Resisting his oppressive plans, Lucy seeks refuge in the island's vibrant surroundings, where she meets Krishna, an appealing and charismatic local laborer. As they spend time together, their mutual attraction blossoms into a passionate and dangerous romance that breaches the rigid class and racial divides of the era. Upon discovering their rebellion, her uncle and the island's elite use every power at their disposal to dismantle the relationship. Lucy and Krishna find themselves forced to make heart-wrenching sacrifices as external pressures and societal prejudice mount against them. Refusing to yield, the couple embarks on a dangerous path where love becomes their ultimate act of defiance. Ultimately, their struggle tests the limits of their courage as they fight for the freedom to build a life together.",
+    "synopsis": "Based on Romesh Gunesekera’s celebrated novel inspired by real lives, Prisoners of Paradise tells the emotionally charged story of Lucy, an orphaned English girl sent to live on the tropical island of Mauritius in 1925. Under the care of her outwardly charismatic but fiercely controlling uncle, Lucy soon realizes she is meant to be married off to save her family's failing fortunes. Refusing to succumb to her uncle's mandate, she discovers solace and connection in Krishna, a local plantation worker. As their forbidden romance deepens, it triggers a fierce backlash from the island's rigid social hierarchy and her uncle's ruthless ambitions. Rich with period detail and romantic tension, the story explores themes of autonomy, love, and rebellion against systemic oppression.",
+    "keywords": [
+      "forbidden love",
+      "star-crossed lovers",
+      "1920s",
+      "colonial era",
+      "Mauritius",
+      "island setting",
+      "defying arranged marriage",
+      "controlling uncle",
+      "orphan protagonist",
+      "cross-class romance",
+      "rebellion against authority",
+      "social divide",
+      "romantic drama",
+      "book adaptation"
+    ],
+    "themes": [
+      {
+        "theme": "Forbidden Love & Rebellion",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Class & Social Hierarchy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Control & Autonomy",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Sacrifice & Risk",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Romantic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The hostile forces opposing their union converge, compelling the couple to make a high-stakes choice and risk everything to defy the power dynamics threatening to separate them forever.",
+      "conflict": "Lucy resists her uncle's push into a strategic marriage intended for his financial gain and instead forms a deep, forbidden bond with Krishna, a local worker.",
+      "resolution": "The narrative explores the lasting aftermath of their rebellion, illustrating how their love reshapes their futures amidst societal expectations.",
+      "introduction": "In 1925, recently orphaned Lucy arrives on the picturesque island of Mauritius to reside under the care of her charming yet deeply controlling uncle.",
+      "risingAction": "As their secret romance develops, Lucy and Krishna face mounting social pressures, class barriers, and intense opposition from her family, forcing them to take increasingly bold risks to stay together."
+    },
+    "characters": [
+      {
+        "name": "Lucy",
+        "role": "Hero",
+        "description": "A recently orphaned young woman who defies her controlling uncle and societal expectations to pursue true love."
+      },
+      {
+        "name": "Krishna",
+        "role": "Hero",
+        "description": "A handsome local worker on Mauritius who falls in love with Lucy and risks everything to be with her."
+      },
+      {
+        "name": "Lucy's Uncle",
+        "role": "Villain",
+        "description": "A charming but manipulative and controlling figure who seeks to arrange Lucy's marriage for his own financial gain."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lucy",
+        "target": "Krishna",
+        "description": "Lovers / Romantic Interest"
+      },
+      {
+        "source": "Lucy",
+        "target": "Lucy's Uncle",
+        "description": "Niece / Controlling Guardian"
+      },
+      {
+        "source": "Lucy's Uncle",
+        "target": "Krishna",
+        "description": "Antagonistic / Employer-Worker tension"
+      }
+    ],
+    "seo": {
+      "slug": "prisoners-of-paradise-ambleside",
+      "jsonLd": {
+        "name": "Prisoners of Paradise (Ambleside)",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Ellie Bamber",
+            "@type": "Person"
+          },
+          {
+            "name": "Rhona Mitra",
+            "@type": "Person"
+          },
+          {
+            "name": "Rupert Penry-Jones",
+            "@type": "Person"
+          },
+          {
+            "name": "Mehdi Dehbi",
+            "@type": "Person"
+          }
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "director": {
+          "name": "Mitch Jenkins",
+          "@type": "Person"
+        },
+        "description": "Set on the enchanting island of Mauritius in 1925, recently orphaned Lucy is sent to live with her charming but controlling uncle. When she defies his plans to marry her off for financial gain, she falls deeply in love with Krishna, a handsome local worker. But the world has other plans, and Lucy and Krishna must risk everything and defy the forces determined to tear them apart.",
+        "alternateName": "Prisoners of Paradise",
+        "workPresented": {
+          "name": "Prisoner of Paradise",
+          "@type": "Book",
+          "author": {
+            "name": "Romesh Gunesekera",
+            "@type": "Person"
+          }
+        }
+      },
+      "keywords": [
+        "Prisoners of Paradise",
+        "Prisoners of Paradise movie",
+        "Ambleside",
+        "Ellie Bamber",
+        "Rhona Mitra",
+        "Rupert Penry-Jones",
+        "Mehdi Dehbi",
+        "Mitch Jenkins",
+        "Romesh Gunesekera",
+        "Prisoner of Paradise film"
+      ],
+      "canonical": "[https://movnix.com/movie/prisoners-of-paradise-ambleside](https://movnix.com/movie/prisoners-of-paradise-ambleside)",
+      "metaTitle": "Prisoners of Paradise (Ambleside) | Cast, Synopsis & Release",
+      "openGraph": {
+        "og:title": "Prisoners of Paradise (Ambleside) - Romance & Drama Film",
+        "og:description": "Love was their greatest rebellion. Set in 1925 Mauritius, Lucy defies her uncle and risks everything for love. Starring Ellie Bamber and Mehdi Dehbi."
+      },
+      "twitterCard": {
+        "twitter:title": "Prisoners of Paradise (Ambleside) - Movie Overview",
+        "twitter:description": "Love was their greatest rebellion. Set in 1925 Mauritius, starring Ellie Bamber, Rhona Mitra, Rupert Penry-Jones, and Mehdi Dehbi."
+      },
+      "metaDescription": "Discover Prisoners of Paradise set in 1925 Mauritius. Starring Ellie Bamber, Rhona Mitra, Rupert Penry-Jones, and Mehdi Dehbi. Directed by Mitch Jenkins."
+    },
+    "faq": [
+      {
+        "answer": "Set in 1925 Mauritius, recently orphaned Lucy is sent to live with her controlling uncle. When she defies his plans for an arranged marriage, she falls in love with Krishna, a local worker, and together they risk everything to stay together.",
+        "question": "What is the plot of Prisoners of Paradise?"
+      },
+      {
+        "answer": "The film stars Ellie Bamber as Lucy, alongside Rhona Mitra, Rupert Penry-Jones, and Mehdi Dehbi as Krishna.",
+        "question": "Who stars in Prisoners of Paradise?"
+      },
+      {
+        "answer": "The movie was directed by Mitch Jenkins, known for directing A Million Days and The Show.",
+        "question": "Who directed the movie?"
+      },
+      {
+        "answer": "Yes, it is based on the novel Prisoner of Paradise by Romesh Gunesekera, which was inspired by the real lives of Alan and Maria Govinden.",
+        "question": "Is Prisoners of Paradise based on a true story or a book?"
+      },
+      {
+        "answer": "The film is primarily a period romantic drama with elements of historical fiction.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "No, Prisoners of Paradise is a standalone movie and is not part of any franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, as a traditional historical romantic drama, there are no extra scenes after the credits.",
+        "question": "Is there a post-credits scene in Prisoners of Paradise?"
+      },
+      {
+        "answer": "The story takes place in 1925 on the island of Mauritius.",
+        "question": "Where and when is the movie set?"
+      },
+      {
+        "answer": "The main themes include forbidden love, defiance against social and familial control, class and cultural divides, and personal freedom.",
+        "question": "What are the primary themes explored in the film?"
+      },
+      {
+        "answer": "While official ratings vary by region, it is generally intended for mature audiences due to emotional drama, romantic themes, and period conflict.",
+        "question": "What age rating or content advisory does the movie carry?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal elements of horror, limited to tense framing around controlling behavior and mild suspense during escape attempts."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild profanity and period-typical insults, with no pervasive strong expletives."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Low to moderate physical peril and brief historical altercations tied to colonial conflict and social rebellion, without graphic gore."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Background social drinking and period-appropriate tobacco usage standard for a 1920s historical setting."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Chaste period romance featuring passionate kissing, emotional intimacy, and mild romantic sensuality without explicit nudity."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to strong emotional intensity driven by themes of forced marriage, manipulative family dynamics, racial/class barriers, and high-stakes romantic conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 3,
+      "romance": 10,
+      "science": 0,
+      "suspense": 6,
+      "violence": 2
+    },
+    "created_at": "2026-08-19 11:05:13.366882",
+    "updated_at": "2026-08-19 11:05:13.366882"
+  }
 }
