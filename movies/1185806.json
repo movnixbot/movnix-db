@@ -10,9 +10,9 @@
     "budget": "40000000",
     "revenue": "69000000",
     "status": "Released",
-    "popularity": 41.2238,
-    "voteAverage": 7,
-    "voteCount": 30,
+    "popularity": 35.5036,
+    "voteAverage": 7.061,
+    "voteCount": 33,
     "homepage": "https://www.paramountpictures.com/movies/paw-patrol-3-the-dino-movie",
     "posterPath": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
     "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
@@ -74,6 +74,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Dog Reaction",
+      "key": "317MCgBLlHE",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    },
     {
       "name": "Rhubarb and Dog",
       "key": "wwlsGHxGyDs",
@@ -1246,6 +1253,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/sPy3TApYwRN56wOfPsUPaOhEtTX.jpg",
       "width": 1920,
       "height": 1080,
@@ -1599,8 +1613,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 30
+      "ratingValue": 7.061,
+      "votesCount": 33
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6.2,
+      "votesCount": 1038
     },
     {
       "source": "crawled",
