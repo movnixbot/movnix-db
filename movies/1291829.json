@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5133,
+    "popularity": 2.7484,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1291829",
@@ -324,6 +324,15 @@
       "order": 7
     },
     {
+      "tmdbPersonId": 56210,
+      "name": "Pablo Trapero",
+      "profilePath": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1756860,
       "name": "Phin Glynn",
       "profilePath": null,
@@ -333,12 +342,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 56210,
-      "name": "Pablo Trapero",
-      "profilePath": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
+      "tmdbPersonId": 938781,
+      "name": "Axel Kuschevatzky",
+      "profilePath": "/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -354,15 +363,6 @@
       "tmdbPersonId": 56210,
       "name": "Pablo Trapero",
       "profilePath": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 938781,
-      "name": "Axel Kuschevatzky",
-      "profilePath": "/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -437,5 +437,263 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1291829/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1291829,
+    "hash": "c1c083d5df3700c85fcc30547fc6e11b665255ce40fbcea34b7fabf949529cd1",
+    "summary_one_sentence": "Believing his life is near its end, a famous but reclusive author summons his estranged sons only to reveal a wild secret that turns their family history upside down.",
+    "summary_short": "A celebrated and deeply secretive novelist brings his estranged sons together at his home under the pretense of his imminent death. However, rather than seeking emotional reconciliation or asking for forgiveness for his past failures as a father, he drops a bombshell disclosure. He reveals an unbelievable, unbelievable secret that forces the brothers to question everything they know about their shared history. This shocking revelation threatens to completely rewrite their family's past and reshapes their understanding of their distant father.",
+    "summary_long": "An iconic, world-renowned author has spent years living in self-imposed isolation, detached from both the public eye and his own family. Sensing that his life is coming to a close, he makes the unexpected decision to summon his long-estranged sons to his secluded home. The brothers assemble expecting a somber final reunion, anticipating either a heartfelt apology or a traditional effort to heal their deeply fractured family ties. Instead of emotional atonement, their father catches them off guard by revealing a wild and unbelievable secret that he has kept hidden for decades. This extraordinary disclosure directly challenges their long-held assumptions and threatens to completely rewrite their family's past. Confronted with this bizarre new reality, the sons are forced to navigate the blurred line between their father's literary fiction and the true nature of their upbringing. As tension mounts within the house, the brothers must band together to untangle the truth behind their father's claims. Ultimately, the reunion transforms from a simple farewell into a captivating unraveling of legacy, deception, and family identity.",
+    "synopsis": "A world-renowned but reclusive novelist, believing he is about to die, summons his estranged sons to his home. But instead of seeking forgiveness for their shattered family, he tells them a wild and unbelievable secret that could rewrite their past.",
+    "keywords": [
+      "reclusive novelist",
+      "estranged sons",
+      "family secrets",
+      "shattered family",
+      "deathbed summons",
+      "family drama",
+      "hidden past",
+      "unreliable narrator",
+      "author protagonist",
+      "estranged family reunion",
+      "reconciliation",
+      "paternal conflict",
+      "secret history",
+      "mystery plot"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Reconciliation and Forgiveness",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Mortality and Aging",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Truth vs. Fiction",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dramatic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The underlying motives of both the patriarch and his sons collide during a high-stakes confrontation, exposing deep-seated family truths and the line between fiction and reality.",
+      "conflict": "Instead of seeking family reconciliation, the father reveals a bizarre, unbelievable secret about their family history that threatens to alter their understanding of their childhood and legacy.",
+      "resolution": "The brothers are forced to reckon with the consequences of their father's final scheme, coming to terms with their shared history and redefining their paths forward.",
+      "introduction": "An aging, reclusive author gathers his three estranged sons at his estate under the pretense of impending death, forcing a tense reunion among brothers shaped by past neglect.",
+      "risingAction": "The brothers grapple with the nature of their father's revelation, navigating mistrust, long-held resentments, and shifting motivations as they try to separate truth from literary manipulation."
+    },
+    "characters": [
+      {
+        "name": "A.N. Dyer",
+        "role": "Hero",
+        "description": "The world-renowned, reclusive novelist played by Bill Nighy who gathers his estranged sons to reveal a secret about their past."
+      },
+      {
+        "name": "Richard Dyer",
+        "role": "Supporting Character",
+        "description": "The eldest, successful, but deeply conflicted son who returns home to face his father's unexpected revelation."
+      },
+      {
+        "name": "Jamie Dyer",
+        "role": "Supporting Character",
+        "description": "The middle son who carries long-standing resentment over the family's fractured relationships."
+      },
+      {
+        "name": "Andy Dyer",
+        "role": "Supporting Character",
+        "description": "The youngest son whose presence and perspective add key layers to the unfolding family secrets."
+      },
+      {
+        "name": "Isabel",
+        "role": "Supporting Character",
+        "description": "A close family confidante whose steady presence helps navigate the turmoil surrounding A.N. Dyer."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "A.N. Dyer",
+        "target": "Richard Dyer",
+        "description": "Father/Son"
+      },
+      {
+        "source": "A.N. Dyer",
+        "target": "Jamie Dyer",
+        "description": "Father/Son"
+      },
+      {
+        "source": "A.N. Dyer",
+        "target": "David Dyer",
+        "description": "Father/Son"
+      },
+      {
+        "source": "A.N. Dyer",
+        "target": "Philip Topping",
+        "description": "Godfather/Godson"
+      },
+      {
+        "source": "A.N. Dyer",
+        "target": "Charles Topping",
+        "description": "Lifelong Friends"
+      },
+      {
+        "source": "Richard Dyer",
+        "target": "Jamie Dyer",
+        "description": "Brothers"
+      },
+      {
+        "source": "Richard Dyer",
+        "target": "David Dyer",
+        "description": "Half-Brothers"
+      },
+      {
+        "source": "Jamie Dyer",
+        "target": "David Dyer",
+        "description": "Half-Brothers"
+      },
+      {
+        "source": "Philip Topping",
+        "target": "Jamie Dyer",
+        "description": "Friends/Schoolmates"
+      }
+    ],
+    "seo": {
+      "slug": "and-sons",
+      "jsonLd": {
+        "name": "& Sons",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A world-renowned but reclusive novelist, believing he is about to die, summons his estranged sons to his home. But instead of seeking forgiveness for their shattered family, he tells them a wild and unbelievable secret that could rewrite their past."
+      },
+      "keywords": [
+        "& Sons",
+        "& Sons movie",
+        "& Sons synopsis",
+        " drama movie",
+        "reclusive novelist movie"
+      ],
+      "canonical": "[https://movnix.com/movie/and-sons](https://movnix.com/movie/and-sons)",
+      "metaTitle": "& Sons Movie - Plot, Release Date & Cast | Movnix",
+      "openGraph": {
+        "og:title": "& Sons | Official Movie Details",
+        "og:description": "A reclusive novelist summons his estranged sons to reveal an unbelievable secret that alters their past forever."
+      },
+      "twitterCard": {
+        "twitter:title": "& Sons | Official Movie Details",
+        "twitter:description": "A reclusive novelist summons his estranged sons to reveal an unbelievable secret that alters their past forever."
+      },
+      "metaDescription": "A reclusive novelist summons his estranged sons with a shocking secret that could rewrite their family history. Explore & Sons on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "& Sons is primarily a drama with strong elements of mystery and narrative suspense.",
+        "question": "What is the dominant genre of & Sons?"
+      },
+      {
+        "answer": "No, & Sons is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes after the film concludes.",
+        "question": "Is there a post-credit scene in & Sons?"
+      },
+      {
+        "answer": "A reclusive, world-renowned author who believes he is near death summons his estranged sons home, not to reconcile, but to share a wild secret that threatens to rewrite their family's history.",
+        "question": "What is the basic premise of the story?"
+      },
+      {
+        "answer": "The film is based on David Gilbert's acclaimed 2013 novel of the same name, & Sons.",
+        "question": "Is & Sons based on a book or an original story?"
+      },
+      {
+        "answer": "The film contains mature thematic elements, complex family drama, and strong language, making it more suitable for adult audiences and older teens.",
+        "question": "Is & Sons suitable for family viewing?"
+      },
+      {
+        "answer": "The core of the story takes place primarily within the main character's secluded estate, as well as modern-day New York.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "& Sons is targeted toward fans of character-driven literary dramas, psychological mysteries, and complex family sagas.",
+        "question": "Who is the primary audience for this movie?"
+      },
+      {
+        "answer": "The movie deeply explores themes of legacy, truth versus fiction, literary fame, parental neglect, and complex sibling relationships.",
+        "question": "What are the main thematic focus areas of the film?"
+      },
+      {
+        "answer": "The reality of the father's revelation forms the central mystery of the film, leaving the sons—and the audience—to piece together the truth behind his life and writing.",
+        "question": "Is the secret revealed by the father true or a fabrication?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal eerie or mysterious undertones related to a wild secret and impending death, but no graphic horror elements."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity present in the synopsis."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction or reference to physical violence or bodily harm in the provided overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drugs, alcohol, tobacco, or substance abuse."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes mentioned."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional themes involving family estrangement, mortality, and secrets that alter personal history."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 7,
+      "violence": 1
+    },
+    "created_at": "2026-08-19 04:03:20.8277",
+    "updated_at": "2026-08-19 04:03:20.8277"
+  }
 }
