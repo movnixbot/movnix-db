@@ -10,9 +10,9 @@
     "budget": "310000000",
     "revenue": "462180717",
     "status": "Released",
-    "popularity": 22.4521,
-    "voteAverage": 6.606,
-    "voteCount": 4598,
+    "popularity": 24.8713,
+    "voteAverage": 6.6,
+    "voteCount": 4670,
     "homepage": "https://www.gladiator.movie",
     "posterPath": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
     "backdropPath": "/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
@@ -2617,6 +2617,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/v8lHkxXWSco5R0H4wdGyDmBQFld.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uoRH3OEg9BMwpX4v4QwYr9PiSZ6.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
       "width": 3840,
       "height": 2160,
@@ -3670,8 +3684,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.606,
-      "votesCount": 4598
+      "ratingValue": 6.6,
+      "votesCount": 4670
     },
     {
       "source": "imdb",
@@ -3693,7 +3707,7 @@
     {
       "tmdbPersonId": 2326151,
       "name": "Paul Mescal",
-      "profilePath": "/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg",
+      "profilePath": "/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg",
       "character": "Lucius",
       "job": "Actor",
       "department": "Acting",
@@ -3979,6 +3993,11 @@
       "iso_3166_1": "KR",
       "title": "글래디에이터 Ⅱ",
       "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "神鬼战士2",
+      "type": "Netflix"
     }
   ],
   "externalIds": {
@@ -3991,6 +4010,10 @@
   "watchProviders": {
     "id": {
       "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
         {
           "name": "Catchplay",
           "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
@@ -4036,10 +4059,6 @@
         {
           "name": "Paramount+ Amazon Channel",
           "logo": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
         },
         {
           "name": "MGM Plus",
