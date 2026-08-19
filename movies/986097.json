@@ -10,9 +10,9 @@
     "budget": "27000000",
     "revenue": "27834512",
     "status": "Released",
-    "popularity": 6.6798,
-    "voteAverage": 5.654,
-    "voteCount": 441,
+    "popularity": 5.8896,
+    "voteAverage": 5.647,
+    "voteCount": 443,
     "homepage": "https://www.himmovie.com",
     "posterPath": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
     "backdropPath": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
@@ -1180,8 +1180,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.654,
-      "votesCount": 441
+      "ratingValue": 5.647,
+      "votesCount": 443
     },
     {
       "source": "imdb",
@@ -1336,6 +1336,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 3582702,
+      "name": "Skip Bronkie",
+      "profilePath": "/7U5nGNWxEm0soT5s1r3X9oTvb06.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 3582701,
       "name": "Zack Akers",
       "profilePath": "/wXkGOOdLKPf3UmOzCjvZN0noC5R.jpg",
@@ -1345,12 +1354,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3582702,
-      "name": "Skip Bronkie",
-      "profilePath": "/7U5nGNWxEm0soT5s1r3X9oTvb06.jpg",
+      "tmdbPersonId": 291263,
+      "name": "Jordan Peele",
+      "profilePath": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4482754,
+      "name": "Jamal Watson",
+      "profilePath": "/aq5swC2u6s34Xq5pj2DrKqAqlVA.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -1372,27 +1390,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 291263,
-      "name": "Jordan Peele",
-      "profilePath": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2330663,
       "name": "Ian Cooper",
       "profilePath": "/iIRcxATiMyX2qD0wTerXehnViis.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 4482754,
-      "name": "Jamal Watson",
-      "profilePath": "/aq5swC2u6s34Xq5pj2DrKqAqlVA.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1462,6 +1462,10 @@
         {
           "name": "Netflix",
           "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
         },
         {
           "name": "Netflix Standard with Ads",
