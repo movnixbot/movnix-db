@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 10.4343,
+    "popularity": 10.4733,
     "voteAverage": 5.9,
     "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1339175",
-    "posterPath": "/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
+    "posterPath": "/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
     "backdropPath": "/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg",
     "collectionId": null
   },
@@ -111,7 +111,7 @@
   ],
   "images": [
     {
-      "filePath": "/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
+      "filePath": "/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -262,6 +262,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zyrVoJIzIeIjOtbWDP5pMbFpXra.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
       "type": "poster"
     },
     {
@@ -444,17 +451,8 @@
       "name": "Miguel Ángel Jiménez",
       "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1603891,
-      "name": "Giorgos Karnavas",
-      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -467,9 +465,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3055062,
-      "name": "Nicos Panayotopoulos",
-      "profilePath": null,
+      "tmdbPersonId": 1603891,
+      "name": "Giorgos Karnavas",
+      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -480,8 +478,17 @@
       "name": "Miguel Ángel Jiménez",
       "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3055062,
+      "name": "Nicos Panayotopoulos",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
@@ -568,5 +575,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1339175/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1339175,
+    "hash": "61387dec7c3540eb289995f5e4a495c55c105e6ba8b7d8c51ed937f4125d5db8",
+    "summary_one_sentence": "On a private Mediterranean island in the late 1970s, wealthy tycoon Marcos Timoleon hosts a lavish birthday celebration for Sofia, drawing guests with hidden agendas and personal ambitions.",
+    "summary_short": "In the late 1970s, shipping tycoon Marcos Timoleon hosts an extravagant birthday party for Sofia on his secluded Mediterranean island. Beneath the glamour and excess, the gathering serves as a battleground for political power, financial gain, and personal vendettas. As key figures from Timoleon's past and present navigate the festivities, hidden motives threaten to unravel the host's absolute control. Ultimately, the glamorous event exposes the calculated maneuvers and deep tension simmering within his inner circle.",
+    "summary_long": "Set against the backdrop of the late 1970s, powerful tycoon Marcos Timoleon gathers an elite crowd on his private Mediterranean island to celebrate Sofia's birthday. The opulent event is designed to project immense wealth and influence, but behind the scenes, it acts as a magnet for opportunistic guests. Politicians, business rivals, and family members use the occasion to corner Timoleon, each seeking to advance their own secretive agendas. Tensions escalate as competing interests collide over lavish dinners, late-night conversations, and private negotiations away from the crowd. Timoleon, accustomed to commanding total authority, must navigate a complex web of deceit and ambition to protect his empire. Personal loyalties are tested as secrets emerge, revealing the cost of his rise to power. The party shifts from a celebration into a high-stakes arena where power plays dictate every interaction. As the festivities draw to a close, the aftermath leaves permanent shifts in the dynamics between Timoleon and those vying for his favor.",
+    "synopsis": "Set in the late 1970s on an exclusive Mediterranean island, The Birthday Party centers on Marcos Timoleon, a formidable tycoon who orchestrates a grand, luxurious celebration for Sofia. While the event appears to be an uninhibited display of wealth, culture, and high society, it functions as a convergence point for individuals across Timoleon's personal and professional life. Enticed by his vast influence, attendees arrive with distinct motives, ranging from securing financial backing and political alliances to settling old grievances. Through dense atmospheric drama and sharp character interactions, the narrative delves into themes of power, ambition, and the isolation that accompanies elite status, offering an engaging look at the strategic maneuvering hidden beneath a glamorous surface.",
+    "keywords": [
+      "exclusive private island",
+      "tycoon",
+      "1970s",
+      "lavish party",
+      "extravagant lifestyle",
+      "mediterranean setting",
+      "ulterior motives",
+      "power dynamics",
+      "family tension",
+      "wealth and privilege",
+      "secret agendas",
+      "high society drama"
+    ],
+    "themes": [
+      {
+        "theme": "Power Dynamics and Influence",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Wealth and Extravagance",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Hidden Agendas and Deception",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Family Legacy and Isolation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Under the pressure of converging personal ambitions and long-simmering secrets, a pivotal confrontation forces Marcos and his guests to face the true consequences of their ulterior motives.",
+      "conflict": "Beneath the festive surface, Marcos's guests harbor distinct, competing agendas and hidden motives, seeking to manipulate, leverage, or confront the powerful tycoon during the weekend.",
+      "resolution": "In the aftermath of the party's tense peak, the true dynamics between Marcos and those in his inner circle are starkly reordered, leaving the future of their relationships transformed.",
+      "introduction": "On a private Mediterranean island during the late 1970s, billionaire Marcos Timoleon hosts a lavish, extravagant birthday party for Sofia, gathering family, associates, and prominent guests under the guise of celebration.",
+      "risingAction": "As the extravagant festivities unfold, private conversations, secretive alliances, and escalating personal tension begin to fracture the smooth facade of the party."
+    },
+    "characters": [
+      {
+        "name": "Marcos Timoleon",
+        "role": "Other",
+        "description": "The central tycoon host whose lavish party attracts various people with hidden agendas."
+      },
+      {
+        "name": "Sofia",
+        "role": "Supporting Character",
+        "description": "The birthday celebrant whose event serves as the catalyst for the island's gathering."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marcos Timoleon",
+        "target": "Sofia Timoleon",
+        "description": "Father/Daughter (Overcontrolling tycoon father and his sole heiress/daughter whose life and unborn child he seeks to manipulate)"
+      },
+      {
+        "source": "Sofia Timoleon",
+        "target": "Ian Forster",
+        "description": "Lovers / Unborn child's parents (Sofia is pregnant with her boyfriend Ian's baby)"
+      },
+      {
+        "source": "Marcos Timoleon",
+        "target": "Ian Forster",
+        "description": "Subject/Biographer & Adversaries (Ian is writing a book/screenplay on Marcos, while Marcos actively opposes Ian's relationship with Sofia)"
+      },
+      {
+        "source": "Marcos Timoleon",
+        "target": "Olivia",
+        "description": "Husband/Wife (Estranged couple preparing for an impending separation)"
+      },
+      {
+        "source": "Marcos Timoleon",
+        "target": "Patrikios",
+        "description": "Employer/Confidant (Longtime friend and personal doctor who assists Marcos with his plans)"
+      }
+    ],
+    "seo": {
+      "slug": "the-birthday-party",
+      "jsonLd": {
+        "name": "The Birthday Party",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the late 1970s somewhere in the Mediterranean, tycoon Marcos Timoleon throws a lavish birthday party for Sofia on his private island, inviting guests with secret agendas."
+      },
+      "keywords": [
+        "The Birthday Party movie",
+        "Marcos Timoleon drama",
+        "Sofia birthday party movie",
+        "1970s Mediterranean film",
+        "tycoon private island movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-birthday-party](https://movnix.com/movie/the-birthday-party)",
+      "metaTitle": "The Birthday Party (1970s Drama) - Plot, Synopsis & Details",
+      "openGraph": {
+        "og:title": "The Birthday Party - A Mediterranean Tycoon's Lavish Secret",
+        "og:description": "Step into the late 1970s as tycoon Marcos Timoleon hosts a lavish island party for Sofia, becoming a target for everyone's hidden agendas."
+      },
+      "twitterCard": {
+        "twitter:title": "The Birthday Party - 1970s Mediterranean Drama",
+        "twitter:description": "Discover the drama at Marcos Timoleon's exclusive island party where every guest arrives with an agenda."
+      },
+      "metaDescription": "Explore Marcos Timoleon's lavish Mediterranean island birthday party for Sofia as hidden agendas surface in this gripping late 1970s drama."
+    },
+    "faq": [
+      {
+        "answer": "The Birthday Party is primarily a drama with strong elements of psychological mystery and socio-political intrigue, focusing on power dynamics, interpersonal conflict, and secrets.",
+        "question": "What is the dominant genre of The Birthday Party?"
+      },
+      {
+        "answer": "The story is an original drama set against the backdrop of late 1970s Mediterranean elite society, centering on the complex network of relationships surrounding a wealthy tycoon.",
+        "question": "Is The Birthday Party based on a book or an original screenplay?"
+      },
+      {
+        "answer": "No, The Birthday Party is a standalone feature film and is not connected to any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a cinematic franchise or cinematic universe?"
+      },
+      {
+        "answer": "The narrative takes place in the late 1970s on an exclusive private island located somewhere in the Mediterranean Sea.",
+        "question": "Where and when is the story set?"
+      },
+      {
+        "answer": "Marcos Timoleon is a wealthy, powerful tycoon who hosts an extravagant birthday celebration for Sofia on his private island, attracting guests with hidden agendas.",
+        "question": "Who is Marcos Timoleon in the story?"
+      },
+      {
+        "answer": "Sofia is the guest of honor, and the lavish birthday event on the private island is hosted by Marcos Timoleon to celebrate her occasion.",
+        "question": "Who is Sofia, and why is the party being thrown?"
+      },
+      {
+        "answer": "No, there is no post-credits or mid-credits scene in The Birthday Party; the narrative concludes fully before the credits role.",
+        "question": "Is there a post-credits scene after the movie ends?"
+      },
+      {
+        "answer": "The movie explores themes of wealth, power, ambition, betrayal, family secrets, and the underlying corruption within high-society circles.",
+        "question": "What are the primary themes explored in the film?"
+      },
+      {
+        "answer": "The secluded private island setting provides a pressure-cooker environment where various figures from Timoleon's personal and professional life arrive, each seeking to manipulate him for their own motives.",
+        "question": "What drives the conflict among the guests at the party?"
+      },
+      {
+        "answer": "The film is targeted toward audiences who enjoy slow-burn character studies, period dramas, political tension, and stories involving high-society intrigue.",
+        "question": "What target audience is The Birthday Party intended for?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, focused primarily on atmospheric tension and high-stakes drama."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and profanity appropriate for an adult dramatic setting."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Low levels of physical violence, centered primarily around psychological intimidation and controlling behavior."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Frequent consumption of alcohol, smoking, and depictions of party excess."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate sexual content, including nudity, suggestive party behavior, and adult themes related to unwanted pregnancy."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving grief over a lost child, toxic family dynamics, coercive control, and bitter disputes."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 3,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 3
+    },
+    "created_at": "2026-08-17 15:03:25.328284",
+    "updated_at": "2026-08-17 15:03:25.328284"
+  }
 }
