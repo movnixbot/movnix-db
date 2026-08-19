@@ -8,9 +8,9 @@
     "firstAirDate": "2026-08-14",
     "lastAirDate": "2026-08-14",
     "status": "Returning Series",
-    "popularity": 23.4297,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 32.9767,
+    "voteAverage": 9,
+    "voteCount": 1,
     "type": "Scripted",
     "posterPath": "/qZvNw0e5vN17Gd6VGVsE3YcCpIZ.jpg",
     "backdropPath": "/zRb5aPkZdwIlsv1n0UF4O1plcOr.jpg",
@@ -29,10 +29,10 @@
           "name": "Episode 1",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 29,
           "season_number": 1,
           "show_id": 239830,
-          "still_path": null,
+          "still_path": "/6VKFsMP1nqsVqTYHXpmErNMqyby.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -46,10 +46,10 @@
           "name": "Episode 2",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 24,
           "season_number": 1,
           "show_id": 239830,
-          "still_path": null,
+          "still_path": "/smjoIP7RN8dxYkR9ifssQWUkQ4e.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -63,10 +63,10 @@
           "name": "Episode 3",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 25,
           "season_number": 1,
           "show_id": 239830,
-          "still_path": null,
+          "still_path": "/d6i0ohZqiq7VRlRMCHQ1o9fadhT.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -80,10 +80,10 @@
           "name": "Episode 4",
           "overview": "",
           "production_code": "",
-          "runtime": null,
+          "runtime": 30,
           "season_number": 1,
           "show_id": 239830,
-          "still_path": null,
+          "still_path": "/zSqHLt7VQ4nhYUqLHfytHiClUMs.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -301,7 +301,7 @@
     {
       "tmdbId": 103332,
       "name": "GrX Studio",
-      "logoPath": "/6JrPRj6SkwWV1ezQsIjfuD0Ng1q.png",
+      "logoPath": "/2P1NLGUoTFdJdZS25aM1oAw4nCU.png",
       "originCountry": "TW"
     },
     {
@@ -560,7 +560,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 1
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 3731453,
