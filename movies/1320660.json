@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.7251,
-    "voteAverage": 5.3,
-    "voteCount": 15,
+    "popularity": 5.8234,
+    "voteAverage": 5.625,
+    "voteCount": 16,
     "homepage": "https://mock-movie-website.com/movies/1320660",
     "posterPath": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
     "backdropPath": "/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
@@ -157,8 +157,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.3,
-      "votesCount": 15
+      "ratingValue": 5.625,
+      "votesCount": 16
     },
     {
       "source": "crawled",
@@ -385,5 +385,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1320660/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1320660,
+    "hash": "bc9eb741f0e866b62d9597c7e3ea25d16ffb10a61971bbe7b5bdf02c2ea95c45",
+    "summary_one_sentence": "A devoted husband's harmless attempt to help a friend elope sparks a whirlwind of rumors and hilarious suspicions, threatening his once-peaceful marriage.",
+    "summary_short": "In Prayagraj, forest department official Prajapati lives a content life with his loving wife, Aparna. Everything unravels when he agrees to secretly help his college acquaintance, Chanchal, dodge goons and reunite with her lover. A series of unfortunate sightings and fake covers lead Aparna and their close friends to believe Prajapati is being unfaithful. What follows is a frantic sequence of classic situational mix-ups, awkward encounters, and comedic pandemonium as he struggles to restore his innocence.",
+    "summary_long": "Prajapati, a well-meaning forest department official living in Prayagraj, enjoys a comfortable life with his sharp-witted wife, Aparna. The quiet equilibrium of their household breaks down when Aparna publishes a news report about a local politician's son dating a veiled woman, inciting a flurry of local gossip. Realizing the girl in question is Chanchal, an acquaintance trying to elope, Prajapati steps in to assist her out of goodwill. However, his efforts to shield Chanchal's identity backfire, forcing them into absurdly suspicious scenarios that are photographed by political goons. A police raid at a hotel and a frantic distress call to a colleague, Nilofer, further fuel the rumors of an extramarital affair. When Aparna spots Prajapati in questionable circumstances while pursuing these leads, she becomes convinced of his betrayal. While juggling his official assignment to capture a wild wolf, Prajapati finds himself caught in increasingly bizarre interrogations and kidnappings. Ultimately, a chaotic showdown involving a rogue wolf and an airport chase allows the truth to surface, clearing Prajapati's name and restoring harmony to his marriage.",
+    "synopsis": "Set in the vibrant heart of Prayagraj, 'Pati Patni Aur Woh Do' explores the delicate dynamics of love and loyalty through a classic comedy of errors. Prajapati Pandey leads a modest, happy existence with his devoted wife Aparna, until an innocent decision to aid an old acquaintance, Chanchal, triggers a cascade of misinterpretations. As Prajapati goes to great lengths to help Chanchal navigate personal obstacles, his covert actions are mistakenly read as signs of infidelity by both his wife and mutual friends. Without resorting to actual deceit or betrayal, the narrative delves into the ridiculous lengths a devoted partner will go to clear his name amidst compounding coincidences, overzealous onlookers, and high-stakes chaos. Rich in regional flavor and situational humor, this lighthearted narrative offers a fresh, humorous perspective on trust, marriage, and the absurdities of rumors.",
+    "keywords": [
+      "marital friction",
+      "misunderstandings",
+      "infidelity suspicion",
+      "prayagraj setting",
+      "small town india",
+      "domestic drama",
+      "comedic chaos",
+      "marriage in crisis",
+      "secrets and lies",
+      "relationship comedy",
+      "domino effect plot",
+      "husband and wife",
+      "romantic complications"
+    ],
+    "themes": [
+      {
+        "theme": "Marriage and Trust",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Deception and Misunderstanding",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Infidelity and Suspicion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Comedic Chaos",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The web of secrets reaches its breaking point during a major confrontational moment where all parties face the tangled web of misunderstandings.",
+      "conflict": "A single impulsive decision or compromise introduces a lingering secret, planting the first seeds of doubt and suspicion.",
+      "resolution": "The confusion unravels, forcing the characters to reconcile their expectations and rediscover honest communication within their relationship.",
+      "introduction": "In Prayagraj, a seemingly ideal couple enjoys a stable, comfortable marriage, establishing their routine and family dynamic.",
+      "risingAction": "Misunderstandings cascade into a series of awkward cover-ups, heightened jealousies, and increasingly chaotic attempts to maintain control."
+    },
+    "characters": [
+      {
+        "name": "Prajapati \"Praja\" Pandey (Ayushmann Khurrana)",
+        "role": "Hero",
+        "description": "A well-meaning forest officer whose attempt to help a friend leads to a chain of misunderstandings, suspicion, and chaos in his marriage."
+      },
+      {
+        "name": "Aparna Trivedi Pandey (Wamiqa Gabbi)",
+        "role": "Supporting Character",
+        "description": "Praja's wife whose initial report triggers the misunderstanding and later suspects her husband of infidelity."
+      },
+      {
+        "name": "Chanchal Kumari (Sara Ali Khan)",
+        "role": "Supporting Character",
+        "description": "Sunny's secret love interest and Praja's friend whose identity cover-up drives the central plot and complications."
+      },
+      {
+        "name": "Nilofer Khan (Rakul Preet Singh)",
+        "role": "Supporting Character",
+        "description": "Praja's forest department colleague and friend who gets caught up in the unraveling secrets."
+      },
+      {
+        "name": "Gajraj Tiwari (Tigmanshu Dhulia)",
+        "role": "Villain",
+        "description": "An aggressive, powerful politician who creates major conflict while trying to control his son's love life and protect his political image."
+      },
+      {
+        "name": "Sudhanshu \"Sunny\" Tiwari (Vishal Vashishtha)",
+        "role": "Supporting Character",
+        "description": "Gajraj Tiwari's son and Chanchal's lover whose secret romance sets off the main chain of events."
+      },
+      {
+        "name": "Dharamveer Singh (Vijay Raaz)",
+        "role": "Comic Relief",
+        "description": "A quirky character who adds comedic friction and absurdity during the escalating misunderstandings."
+      },
+      {
+        "name": "Bua Ji (Ayesha Raza Mishra)",
+        "role": "Comic Relief",
+        "description": "An expressive family matriarch who amplifies domestic comedy and chaotic misunderstandings."
+      },
+      {
+        "name": "Mahinder (Durgesh Kumar)",
+        "role": "Comic Relief",
+        "description": "A humorous side character adding local color and comedy to the chaotic proceedings."
+      },
+      {
+        "name": "Bhavna Trivedi (Deepika Amin)",
+        "role": "Supporting Character",
+        "description": "Aparna's mother who adds to the family dynamic during the drama and wedding celebrations."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Devoted Husband",
+        "target": "Wife",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Devoted Husband",
+        "target": "Friend",
+        "description": "Friends"
+      },
+      {
+        "source": "Friend",
+        "target": "Elope Partner",
+        "description": "Romantic Partners"
+      },
+      {
+        "source": "Wife",
+        "target": "Devoted Husband",
+        "description": "Suspicious Spouse"
+      }
+    ],
+    "seo": {
+      "slug": "pati-patni-aur-woh-do",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/pati-patni-aur-woh-do](https://movnix.com/movie/pati-patni-aur-woh-do)",
+        "name": "Pati Patni Aur Woh Do",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "Hindi",
+        "description": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos."
+      },
+      "keywords": [
+        "Pati Patni Aur Woh Do",
+        "Pati Patni Aur Woh Do movie",
+        "Pati Patni Aur Woh Do synopsis",
+        "Prayagraj comedy movie",
+        "Bollywood comedy movie"
+      ],
+      "canonical": "[https://movnix.com/movie/pati-patni-aur-woh-do](https://movnix.com/movie/pati-patni-aur-woh-do)",
+      "metaTitle": "Pati Patni Aur Woh Do - Synopsis, Details & Updates | Movnix",
+      "openGraph": {
+        "og:title": "Pati Patni Aur Woh Do - Comedic Chaos in Prayagraj",
+        "og:description": "When a single decision disrupts a perfect marriage, suspicion and hilarity follow. Read the full overview of Pati Patni Aur Woh Do."
+      },
+      "twitterCard": {
+        "twitter:title": "Pati Patni Aur Woh Do - Movie Overview",
+        "twitter:description": "Discover the comedic chaos and misunderstandings unfolding in Prayagraj in Pati Patni Aur Woh Do."
+      },
+      "metaDescription": "A perfect marriage in Prayagraj turns into comedic chaos when one decision triggers a web of suspicion and misunderstandings in Pati Patni Aur Woh Do."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a romantic comedy and situational comedy (sitcom), driven by character mix-ups, suspicion, and humorous misunderstandings.",
+        "question": "What is the dominant genre of Pati Patni Aur Woh Do?"
+      },
+      {
+        "answer": "It serves as a spiritual sequel to the 2019 film Pati Patni Aur Woh, featuring a brand-new storyline and a fresh ensemble cast rather than continuing the plot of the previous movie.",
+        "question": "Is Pati Patni Aur Woh Do part of a franchise or a direct sequel?"
+      },
+      {
+        "answer": "No, the movie does not feature a post-credit or mid-credit scene; the story fully resolves before the final credits roll.",
+        "question": "Is there a post-credit scene in Pati Patni Aur Woh Do?"
+      },
+      {
+        "answer": "The narrative takes place in Prayagraj, Uttar Pradesh, incorporating local color, cultural quirks, and regional accents into the comedic plot.",
+        "question": "Where is the story of Pati Patni Aur Woh Do set?"
+      },
+      {
+        "answer": "The main cast features Ayushmann Khurrana as Prajapati Pandey, along with Wamiqa Gabbi, Sara Ali Khan, and Rakul Preet Singh.",
+        "question": "Who leads the main cast of Pati Patni Aur Woh Do?"
+      },
+      {
+        "answer": "The protagonist, Prajapati Pandey, pretends to have an affair to help a college friend avoid trouble with a local politician's family, triggering a cascading series of misunderstandings involving his wife and colleague.",
+        "question": "What is the central premise that sets off the conflict?"
+      },
+      {
+        "answer": "Yes, it is framed as a lighthearted, family-friendly situational comedy centered around marriage dynamics, secrets, and mistaken identities.",
+        "question": "Is Pati Patni Aur Woh Do suitable for a family viewing?"
+      },
+      {
+        "answer": "No, unlike typical infidelity narratives, the protagonist remains loyal to his wife, with the drama stemming purely from mistaken assumptions and cover-ups.",
+        "question": "Does the lead character actually cheat on his wife in the film?"
+      },
+      {
+        "answer": "The film was written and directed by Mudassar Aziz, and produced by Bhushan Kumar, Renu Ravi Chopra, and Krishan Kumar under T-Series Films and B. R. Studios.",
+        "question": "Who directed and produced Pati Patni Aur Woh Do?"
+      },
+      {
+        "answer": "Following its theatrical run, the film became available for digital streaming globally on platforms like Netflix.",
+        "question": "Where can viewers stream Pati Patni Aur Woh Do post-theatrical release?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening imagery present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild colloquial swearing, insults, or comedic banter suitable for a general audience."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence; limited to light slapstick or mild comedic altercations."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional casual consumption of alcohol or social smoking in standard adult settings."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild suggestive dialogue, comedic flirting, and references to marital infidelity without explicit visuals."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate thematic elements involving marital distrust and misunderstandings, framed in a lighthearted comedic tone."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 2,
+      "comedy": 9,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 7,
+      "science": 0,
+      "suspense": 5,
+      "violence": 1
+    },
+    "created_at": "2026-08-19 12:01:32.071977",
+    "updated_at": "2026-08-19 12:01:32.071977"
+  }
 }
