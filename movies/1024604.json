@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 10.0098,
+    "popularity": 9.8775,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1024604",
@@ -253,5 +253,234 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1024604/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1024604,
+    "hash": "b55a72973afc375373eadf3dd59dcd39394e405be4e7199fcb2b8ab12c4bf2ba",
+    "summary_one_sentence": "Elsa and Anna embark on a new magical adventure to protect Arendelle and uncover deeper mysteries surrounding their kingdom's origins.",
+    "summary_short": "In the highly anticipated third installment of the franchise, Sisters Elsa and Anna face an unexpected threat that endangers the peace of Arendelle. Alongside Kristoff, Olaf, and Sven, they venture beyond familiar borders into uncharted lands to uncover ancient magic. Together, they must rely on their unwavering bond to navigate complex new challenges and safeguard their shared home. Ultimately, their journey tests their leadership, love, and understanding of their place in the world.",
+    "summary_long": "Life in Arendelle has settled into a comfortable rhythm following Elsa's acceptance of her role as the Fifth Element and Anna's ascension as Queen. However, a strange elemental disturbance suddenly disrupts the realm, threatening both the human kingdom and the enchanted forest. Realizing that an ancient force has been awakened, Elsa and Anna unite once again to investigate the source of the anomaly. Joined by Kristoff, Olaf, and Sven, the group travels into unfamiliar territories hidden deep within the northern wilderness. Along the way, they encounter new mythical beings and face trials that test their resilience and emotional strength. Ancient secrets regarding the historic connection between the elemental spirits and Arendelle's founding ancestors come to light. As tensions mount, Elsa must master a deeper level of her magical abilities while Anna leads with wisdom and heart to keep their companions united. Facing a pivotal decision that could alter the magic of their world forever, the sisters realize that their ultimate power lies in their unconditional support for one another. Through courage and sacrifice, they bring harmony back to the land and secure a bright future for their people.",
+    "synopsis": "As Arendelle enjoys a peaceful era under Queen Anna's rule and Queen Elsa's stewardship of the enchanted forest, a new elemental mystery emerges to challenge the kingdom's stability. Joined by their loyal friends Kristoff, Olaf, and Sven, the iconic sisters embark on an epic quest into uncharted magical realms. Along their journey, they must uncover long-forgotten secrets of the past and confront powerful ancient forces. Driven by loyalty, love, and discovery, this new chapter explores the enduring bond of sisterhood as Anna and Elsa strive to protect everything they hold dear.",
+    "keywords": [
+      "disney animation",
+      "sisterhood",
+      "ice magic",
+      "magical kingdom",
+      "mythological fantasy",
+      "family bonds",
+      "elemental powers",
+      "princess protagonist",
+      "snow and ice",
+      "musical journey",
+      "nordic folklore",
+      "royal destiny",
+      "epic adventure"
+    ],
+    "themes": [
+      {
+        "theme": "Sisterhood",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity & Belonging",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Duty vs. Personal Freedom",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Brief high-level summary: The story reaches its emotional and narrative peak, requiring pivotal decisions to overcome the primary threat.",
+      "conflict": "Brief high-level summary: A central inciting incident disrupts the status quo, presenting a core challenge for the protagonists.",
+      "resolution": "Brief high-level summary: The immediate consequences resolve, establishing a newly transformed status quo and emotional closure.",
+      "introduction": "Brief high-level summary: A narrative structure analyst evaluates a story's setup by introducing established characters and world-building dynamics.",
+      "risingAction": "Brief high-level summary: The main characters embark on a quest, facing mounting obstacles and deeper revelations about their journey."
+    },
+    "characters": [
+      {
+        "name": "Anna",
+        "role": "Hero",
+        "description": "Optimistic, brave Queen of Arendelle who leads her kingdom and embarks on adventures alongside her sister to protect her home."
+      },
+      {
+        "name": "Elsa",
+        "role": "Hero",
+        "description": "Magical protector of the Enchanted Forest with ice powers who works together with her sister Anna on major quests."
+      },
+      {
+        "name": "Olaf",
+        "role": "Comic Relief",
+        "description": "A cheerful, innocent sentient snowman created by Elsa who provides humor, warmth, and comedic commentary."
+      },
+      {
+        "name": "Kristoff",
+        "role": "Supporting Character",
+        "description": "A dependable ice harvester and loyal partner to Anna, assisting the heroines on their journeys."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elsa",
+        "target": "Anna",
+        "description": "Sisters / Core Emotional Connection"
+      },
+      {
+        "source": "Anna",
+        "target": "Kristoff",
+        "description": "Fiancé / Romantic Relationship"
+      },
+      {
+        "source": "Anna",
+        "target": "Olaf",
+        "description": "Close Friends / Companions"
+      },
+      {
+        "source": "Elsa",
+        "target": "Olaf",
+        "description": "Creator / Magical Companion"
+      },
+      {
+        "source": "Kristoff",
+        "target": "Sven",
+        "description": "Best Friends / Reindeer Companion"
+      },
+      {
+        "source": "Elsa",
+        "target": "Kristoff",
+        "description": "Friends / Future In-laws"
+      }
+    ],
+    "seo": {
+      "slug": "frozen-iii",
+      "jsonLd": {
+        "name": "Frozen III",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Third installment in the Disney animated franchise. Plot TBA.",
+        "productionCompany": {
+          "name": "Walt Disney Animation Studios",
+          "@type": "Organization"
+        }
+      },
+      "keywords": [
+        "Frozen 3",
+        "Frozen III",
+        "Disney Frozen 3 release date",
+        "Frozen 3 plot",
+        "Disney animated movies"
+      ],
+      "canonical": "[https://movnix.com/movie/frozen-iii](https://movnix.com/movie/frozen-iii)",
+      "metaTitle": "Frozen III - Release Date, Trailer & Latest News | Movnix",
+      "openGraph": {
+        "og:title": "Frozen III - Official Movie Info & Updates",
+        "og:description": "Get ready for Disney's Frozen III. Follow the latest plot rumors, cast updates, and trailers on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Frozen III - Disney Animated Movie Updates",
+        "twitter:description": "Catch all the news and official updates for Disney's upcoming Frozen III."
+      },
+      "metaDescription": "Discover everything we know about Frozen III, the upcoming third installment in Disney's hit animated movie franchise. Track news, plot updates, and cast info."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Frozen III is part of the Frozen franchise, serving as the third main installment in the series following Frozen (2013) and Frozen II (2019).",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres of Frozen III are animated fantasy, musical, and adventure.",
+        "question": "What is the dominant genre of Frozen III?"
+      },
+      {
+        "answer": "Frozen III is scheduled to be released in theaters on November 24, 2027.",
+        "question": "When is Frozen III scheduled to be released?"
+      },
+      {
+        "answer": "The film is produced by Walt Disney Animation Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "question": "Who produces and distributes Frozen III?"
+      },
+      {
+        "answer": "While full plot details remain under wraps, early previews indicate the story centers around Anna and Kristoff's wedding, a mysterious new villain, and Anna and Elsa embarking on a magical new journey beyond Arendelle.",
+        "question": "What is the plot of Frozen III?"
+      },
+      {
+        "answer": "Yes, major original cast members including Kristen Bell (Anna), Idina Menzel (Elsa), Josh Gad (Olaf), and Jonathan Groff (Kristoff) return to voice their characters.",
+        "question": "Are the original voice actors returning for Frozen III?"
+      },
+      {
+        "answer": "It is not yet known if there will be a post-credit scene, as the movie has not been released. However, previous entry Frozen II included a post-credits scene.",
+        "question": "Is there a post-credit scene in Frozen III?"
+      },
+      {
+        "answer": "Yes, songwriters Robert Lopez and Kristen Anderson-Lopez return to write original songs for the third installment.",
+        "question": "Will there be new songs in Frozen III?"
+      },
+      {
+        "answer": "Yes, Disney has confirmed that Frozen IV is planned to follow Frozen III as part of an expanded two-part story arc.",
+        "question": "Will Frozen III be followed by another sequel?"
+      },
+      {
+        "answer": "Following its exclusive theatrical release window, Frozen III will eventually be available to stream on Disney+.",
+        "question": "Where will Frozen III be available to stream after its theatrical run?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Mild tense moments and brief mild scariness suitable for young audiences."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity expected."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild fantasy action and mild cartoon violence typical of Animated PG family movies."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug use, smoking, or alcohol abuse."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional themes around family, friendship, and self-discovery."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 6,
+      "emotion": 8,
+      "fantasy": 10,
+      "mystery": 5,
+      "romance": 2,
+      "science": 0,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 01:05:30.500623",
+    "updated_at": "2026-08-18 01:05:30.500623"
+  }
 }
