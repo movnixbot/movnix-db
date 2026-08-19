@@ -10,7 +10,7 @@
     "budget": "18218260",
     "revenue": "1457292",
     "status": "Released",
-    "popularity": 3.8492,
+    "popularity": 3.5609,
     "voteAverage": 6.953,
     "voteCount": 345,
     "homepage": "https://wellgousa.com/films/forbidden-city",
@@ -572,18 +572,18 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1032318,
-      "name": "Mario Gianani",
-      "profilePath": "/xrmlIYjAuUUZ6kl1RLx66qH1V0l.jpg",
+      "tmdbPersonId": 1356824,
+      "name": "Lorenzo Gangarossa",
+      "profilePath": "/7pQhMuqJ4veH9zpbk0Y7S0KS3XN.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 1356824,
-      "name": "Lorenzo Gangarossa",
-      "profilePath": "/7pQhMuqJ4veH9zpbk0Y7S0KS3XN.jpg",
+      "tmdbPersonId": 1032318,
+      "name": "Mario Gianani",
+      "profilePath": "/xrmlIYjAuUUZ6kl1RLx66qH1V0l.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -731,5 +731,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1127674/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1127674,
+    "hash": "10c9af275d48f75c1341e27002dc1a4b3ecb4a6ffcc81b56889207611300efd5",
+    "summary_one_sentence": "In the shadow of Rome's criminal underworld, the son of a struggling restaurant owner teams up with a foreign woman to rescue her missing sister.",
+    "summary_short": "Bound by desperation and shared purpose, an indebted restaurant owner's son agrees to help a foreign woman locate her missing sister in Rome. Their frantic search quickly plunges them into the dangerous crosshairs of the city's most ruthless syndicate members. Forced to rely on each other to survive, the pair must fight side by side through brutal conflict, forging an intense bond amidst constant peril. Ultimately, their perilous journey forces them to confront both external enemies and their own personal sacrifices.",
+    "summary_long": "Facing crippling debt that threatens his family's legacy, the son of a local restaurant owner finds his life upended when a determined foreign woman arrives in Rome desperately searching for her lost sister. Driven by his own need for money and a deep sense of empathy, he agrees to serve as her guide through the city's treacherous underbelly. What begins as a simple missing-persons search rapidly escalates into a high-stakes struggle against Rome's most brutal criminal underworld. As they uncover clues, the pair attracts the attention of dangerous syndicate members who will stop at nothing to protect their secrets. Navigating hostile alleys, hidden hideouts, and violent ambushes, the two allies are forced to fight side by side to stay alive. Throughout the relentless ordeal, shared danger fuels a growing romantic tension and emotional trust between them. Each discovery brings them closer to the missing sister, but also deeper into a lethal trap engineered by the syndicate's leaders. Relying on sheer resilience, sharp wits, and martial skill, they execute a perilous rescue plan to break the syndicate's hold. In a explosive final confrontation, they risk everything to secure freedom and justice, forever transformed by the trial.",
+    "synopsis": "Set against the stark contrast of Rome's historic beauty and its gritty criminal underbelly, this gripping action-drama follows a young man desperate to clear his family's overwhelming debts. His path crosses with an outsider who has arrived in the city on an urgent personal mission to locate her disappeared sister. Joining forces, the unexpected duo navigates a shadowy network of deceit, corruption, and violence. As they press deeper into dangerous territory, they encounter powerful figures in the Roman underworld who view their investigation as a threat. Fueled by high-octane action, dramatic personal stakes, and an emerging romance, the story explores themes of loyalty, sacrifice, and survival as two individuals from vastly different worlds unite against overwhelming odds.",
+    "keywords": [
+      "criminal underworld",
+      "indebted family",
+      "missing sister",
+      "side-by-side fighting",
+      "rome setting",
+      "unlikely allies",
+      "restaurant family",
+      "rescue mission",
+      "ruthless mobsters",
+      "cross-cultural romance",
+      "organized crime",
+      "action drama",
+      "family debt",
+      "search and rescue"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Unlikely Alliances",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes direct confrontation with the most ruthless members of the Roman syndicate, where their survival and the ultimate fate of the missing sister are put to the test.",
+      "conflict": "The duo forms an uneasy alliance, stepping directly into the crosshairs of Rome's most dangerous criminal underworld to track down the missing sister while managing mounting financial pressures.",
+      "resolution": "The fallout of the final battle resolves the immediate threat of the criminal underworld, leaving the duo to reckon with the consequences for their families and futures.",
+      "introduction": "The son of a heavily indebted restaurant owner encounters a foreign girl who arrives in Rome seeking her missing sister.",
+      "risingAction": "As their investigation deepens, they are forced to fight side by side through the city's corrupt underbelly, uncovering a complex web of crime while learning to trust each other under escalating threat."
+    },
+    "characters": [
+      {
+        "name": "Son of the restaurant owner",
+        "role": "Hero",
+        "description": "Driven by personal motivation to clear family debt, he steps up as a primary protagonist fighting against the Roman underworld."
+      },
+      {
+        "name": "Foreign girl",
+        "role": "Hero",
+        "description": "Co-protagonist on a high-stakes quest to rescue her sister, fighting side-by-side with the lead."
+      },
+      {
+        "name": "Her sister",
+        "role": "Supporting Character",
+        "description": "The target of the search whose disappearance initiates the central conflict of the plot."
+      },
+      {
+        "name": "Indebted restaurant owner",
+        "role": "Supporting Character",
+        "description": "The father whose financial troubles serve as the initial catalyst for the main character's journey."
+      },
+      {
+        "name": "Members of the Roman criminal underworld",
+        "role": "Villain",
+        "description": "The ruthless antagonistic force directly threatening the protagonists and standing in the way of their rescue mission."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Son of Restaurant Owner",
+        "target": "Foreign Girl",
+        "description": "Allies / Partners in search"
+      },
+      {
+        "source": "Foreign Girl",
+        "target": "Missing Sister",
+        "description": "Sisters"
+      },
+      {
+        "source": "Son of Restaurant Owner",
+        "target": "Indebted Restaurant Owner",
+        "description": "Father / Son"
+      },
+      {
+        "source": "Son of Restaurant Owner",
+        "target": "Roman Criminal Underworld",
+        "description": "Enemies / Opponents"
+      },
+      {
+        "source": "Foreign Girl",
+        "target": "Roman Criminal Underworld",
+        "description": "Enemies / Opponents"
+      },
+      {
+        "source": "Indebted Restaurant Owner",
+        "target": "Roman Criminal Underworld",
+        "description": "Debtor / Creditors"
+      }
+    ],
+    "seo": {
+      "slug": "the-forbidden-city",
+      "jsonLd": {
+        "name": "The Forbidden City",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The son of an indebted restaurant owner joins a foreign girl in search of her sister. Together, they'll have to fight side by side against the most ruthless members of the Roman criminal underworld."
+      },
+      "keywords": [
+        "The Forbidden City",
+        "The Forbidden City movie",
+        "action drama film",
+        "Roman underworld movie",
+        "crime thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/the-forbidden-city](https://movnix.com/movie/the-forbidden-city)",
+      "metaTitle": "The Forbidden City (Movie) - Plot, Synopsis & SEO Guide",
+      "openGraph": {
+        "og:title": "The Forbidden City - Battle Against Rome's Underworld",
+        "og:description": "Two unlikely allies fight side by side against the ruthless Roman criminal underworld in search of a missing sister."
+      },
+      "twitterCard": {
+        "twitter:title": "The Forbidden City - Action Crime Thriller",
+        "twitter:description": "Join the fight against the Roman criminal underworld in the compelling story of The Forbidden City."
+      },
+      "metaDescription": "An indebted restaurant owner's son and a foreign girl unite to fight Rome's ruthless criminal underworld in search of her missing sister."
+    },
+    "faq": [
+      {
+        "answer": "The Forbidden City is primarily an action-thriller with elements of crime, drama, and mystery.",
+        "question": "What is the dominant genre of The Forbidden City?"
+      },
+      {
+        "answer": "The film follows the son of an indebted restaurant owner who teams up with a foreign woman to search for her missing sister, forcing them to fight against the ruthless Roman criminal underworld.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "The primary setting for the story is Rome, Italy, focusing on its criminal underworld.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not officially tied to an existing franchise.",
+        "question": "Is The Forbidden City part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The core dynamic centers around a local young man trying to clear his family's restaurant debts and a foreign woman searching for her lost sister.",
+        "question": "Who are the central main characters in the film?"
+      },
+      {
+        "answer": "The movie is rated R due to frequent intense action violence, strong language, and criminal themes throughout.",
+        "question": "What age rating does the movie have?"
+      },
+      {
+        "answer": "No, The Forbidden City is an original fictional screenplay created for the screen.",
+        "question": "Is the movie based on a true story or a book?"
+      },
+      {
+        "answer": "The film predominantly features English and Italian dialogue, reflecting the international team-up and Roman setting.",
+        "question": "What primary language is spoken in the film?"
+      },
+      {
+        "answer": "No, due to its violent fight scenes and intense themes involving organized crime, it is intended for mature audiences.",
+        "question": "Is The Forbidden City suitable for young children?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, limited primarily to standard suspense and physical peril inherent to organized crime conflict."
+      },
+      "language": {
+        "score": 4,
+        "description": "Potential for moderate street-level profanity and hostile language given the organized crime themes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high levels of physical combat and action violence involving fights against ruthless members of a criminal underworld."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible light to moderate depiction or reference to illicit underground activities, alcohol, or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content indicated in the core overview."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate tension and stakes driven by family debt, missing relatives, and life-or-death combat."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 3,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-08-16 22:06:28.985189",
+    "updated_at": "2026-08-16 22:06:28.985189"
+  }
 }
