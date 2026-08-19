@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 14.3596,
-    "voteAverage": 6.132,
-    "voteCount": 761,
+    "popularity": 13.3286,
+    "voteAverage": 6.144,
+    "voteCount": 768,
     "homepage": "https://www.netflix.com/title/82650122",
     "posterPath": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
     "backdropPath": "/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
@@ -522,6 +522,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/ccsj3UIy4cbw6Ojg48kQLu9oxjU.jpg",
+      "width": 852,
+      "height": 1194,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
       "filePath": "/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
       "width": 1920,
       "height": 1080,
@@ -679,8 +686,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.132,
-      "votesCount": 761
+      "ratingValue": 6.144,
+      "votesCount": 768
     },
     {
       "source": "imdb",
@@ -706,7 +713,7 @@
     {
       "tmdbPersonId": 1842860,
       "name": "Whitney Peak",
-      "profilePath": "/4m7VqGrpiMk4w5KN2I7OVbT7ppn.jpg",
+      "profilePath": "/il3OOW7Wa3xAukTY3kvPTntQXug.jpg",
       "character": "Dakota",
       "job": "Actor",
       "department": "Acting",
@@ -724,7 +731,7 @@
     {
       "tmdbPersonId": 2431565,
       "name": "Alyla Browne",
-      "profilePath": "/1aAyhOWIP1tnIZwmoMpENvpyQff.jpg",
+      "profilePath": "/h9qYvAqEZS6HTQhE8zLA0q3u52n.jpg",
       "character": "Dee",
       "job": "Actor",
       "department": "Acting",
@@ -972,5 +979,245 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1290417/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1290417,
+    "hash": "7e2c12c508396531e0f503fe90e527cc068c939af20042857378dcfe0a0b80a2",
+    "summary_one_sentence": "When a devastating Category 5 hurricane inundates a coastal town, surviving residents must fight for their lives against both deadly flooding and a frenzy of hungry sharks washed ashore.",
+    "summary_short": "A catastrophic Category 5 hurricane strikes a coastal community, unleashing a massive storm surge that destroys homes and traps survivors in rising floodwaters. As if the extreme natural disaster were not enough, the incoming waters carry a school of ferocious, hungry sharks directly into the flooded town. Cut off from rescue, a group of desperate townspeople must navigate treacherous waters and internal panic to stay alive. They must outsmart nature's most efficient predators in an environment turned entirely against them.",
+    "summary_long": "The coastal town prepares for a brutal storm, but few anticipate the sheer destructive force of a Category 5 hurricane making direct landfall. As the tempest roars ashore, a massive storm surge completely engulfs the low-lying neighborhoods, submerging streets and trapping residents inside decaying structures. Amidst the howling winds and collapsing roofs, a terrifying new threat emerges from the murky surge waters: a deadly collection of displaced, aggressive sharks searching for food. With power lines down, communication severed, and emergency services unable to navigate the devastation, the scattered survivors are forced to forge uneasy alliances. They must navigate perilous, debris-strewn floodwaters while constantly scanning the dark surface for dorsal fins. Every movement through the water risks attracting the swift underwater hunters, turning simple tasks like crossing a street into life-or-death gauntlets. As night falls and the floodwaters continue to rise, the survivors draw upon sheer desperation and makeshift weapons to defend their temporary refuges. Resourcefulness becomes their only shield against the relentless double threat of extreme weather and marine predators. Ultimately, the remaining group must pull off a daring high-stakes escape plan to reach higher ground before the surge completely swallows their town and the pack of predators closes in for good.",
+    "synopsis": "Thrash is a high-octane blend of survival horror, disaster drama, and creature feature suspense set during a historic weather event. The narrative follows a small group of resilient coastal residents whose lives are thrown into complete chaos when a Category 5 hurricane batters their homeland. What begins as a tense struggle to endure ferocious winds and rapidly rising storm surges takes a nightmare turn as apex predators are swept directly into the flooded residential streets. Cut off from help and surrounded by deep, murky waters, the characters are forced to overcome personal conflicts and physical barriers to outwit an invisible threat hunting beneath the surface. Packed with heart-pounding suspense and emotional drama, the film explores the bounds of human endurance when confronted by the combined wrath of nature and marine horrors.",
+    "keywords": [
+      "shark attack",
+      "category 5 hurricane",
+      "creature feature",
+      "survival horror",
+      "natural disaster",
+      "storm surge",
+      "flooded town",
+      "aquatic terror",
+      "trapped survivors",
+      "fight for survival",
+      "apex predator",
+      "coastal devastation",
+      "extreme weather",
+      "man vs nature"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Natural Disaster",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Isolation and Chaos",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Survivors face a final, high-tension confrontation against the predators in a rapidly collapsing, flooded stronghold.",
+      "conflict": "The massive storm surge floods the streets, leaving survivors trapped while introducing aggressive, hungry sharks into the submerged town.",
+      "resolution": "The storm recedes, revealing the aftermath as survivors assess their losses and secure safe harbor.",
+      "introduction": "A Category 5 hurricane approaches and slams into a vulnerable coastal town, setting a high-stakes survival baseline.",
+      "risingAction": "As floodwaters rise, isolated groups must navigate hazardous environment and evade aquatic predators to reach high ground."
+    },
+    "characters": [
+      {
+        "name": "Lisa Fields",
+        "role": "Hero",
+        "description": "A pregnant woman who gets trapped in her vehicle during the hurricane and must fight for survival against rising floodwaters and hungry sharks."
+      },
+      {
+        "name": "Dakota Edwards",
+        "role": "Hero",
+        "description": "An agoraphobic resident who overcomes her panic and anxiety to rescue Lisa and help navigate the flooded waters."
+      },
+      {
+        "name": "Dale Edwards",
+        "role": "Mentor",
+        "description": "Dakota's uncle and a knowledgeable marine biologist who uses his expert understanding of shark behavior to guide and rescue locals."
+      },
+      {
+        "name": "Billy Olsen",
+        "role": "Villain",
+        "description": "A negligent and ill-tempered foster parent who forces his foster children to endure the storm under harsh conditions."
+      },
+      {
+        "name": "Dee Olsen",
+        "role": "Supporting Character",
+        "description": "One of the young foster siblings trapped inside their flooded home during the storm surge."
+      },
+      {
+        "name": "Ron Olsen",
+        "role": "Supporting Character",
+        "description": "One of the foster siblings who attempts to survive both their abusive foster father and the invading sharks."
+      },
+      {
+        "name": "Will Olsen",
+        "role": "Supporting Character",
+        "description": "The young foster sibling fighting alongside Dee and Ron to survive the flooding disaster."
+      },
+      {
+        "name": "Joe Sprinkle",
+        "role": "Comic Relief",
+        "description": "An ambitious TV reporter tagging along through the storm whose coverage provides levity amid the chaos."
+      },
+      {
+        "name": "Doug",
+        "role": "Supporting Character",
+        "description": "The cameraman accompanying TV reporter Joe Sprinkle as they navigate the hurricane."
+      },
+      {
+        "name": "Trent",
+        "role": "Other",
+        "description": "A local resident trying to navigate the catastrophic storm and flood conditions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Surviving Residents",
+        "target": "Hungry Sharks",
+        "description": "Prey/Predator"
+      },
+      {
+        "source": "Coastal Community Members",
+        "target": "Surviving Residents",
+        "description": "Allies in Survival"
+      }
+    ],
+    "seo": {
+      "slug": "thrash",
+      "jsonLd": {
+        "name": "Thrash",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks."
+      },
+      "keywords": [
+        "Thrash movie",
+        "shark movie",
+        "hurricane movie",
+        "survival thriller",
+        "Thrash plot overview"
+      ],
+      "canonical": "[https://movnix.com/movie/thrash](https://movnix.com/movie/thrash)",
+      "metaTitle": "Thrash - Official Movie Overview & Plot Synopsis",
+      "openGraph": {
+        "og:title": "Thrash - A Category 5 Storm Unleashes Terror",
+        "og:description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and hungry sharks onto shore."
+      },
+      "twitterCard": {
+        "twitter:title": "Thrash - Survival Horror Movie",
+        "twitter:description": "A Category 5 hurricane brings devastation, chaos, and hungry sharks onto shore in Thrash."
+      },
+      "metaDescription": "A Category 5 hurricane strikes a coastal town, unleashing chaos and hungry sharks on land. Read the full plot overview for the survival thriller Thrash."
+    },
+    "faq": [
+      {
+        "answer": "Thrash is primarily a survival thriller and natural disaster horror film that combines classic creature feature elements with hurricane survival drama.",
+        "question": "What is the dominant genre of Thrash?"
+      },
+      {
+        "answer": "No, Thrash is a standalone original film and is not connected to any existing movie franchise or cinematic universe.",
+        "question": "Is Thrash part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene after the story concludes, so you do not need to wait through the end credits for extra footage.",
+        "question": "Is there a post-credits scene in Thrash?"
+      },
+      {
+        "answer": "The film was written and directed by Norwegian filmmaker Tommy Wirkola, known for directing films like Violent Night, Hansel & Gretel: Witch Hunters, and What Happened to Monday.",
+        "question": "Who directed and wrote Thrash?"
+      },
+      {
+        "answer": "The main cast features Phoebe Dynevor (Bridgerton), Whitney Peak (Gossip Girl), and Djimon Hounsou (Gladiator, Blood Diamond).",
+        "question": "Who stars in the cast of Thrash?"
+      },
+      {
+        "answer": "Thrash is rated R for pervasive creature violence, bloody horror images, intense disaster sequences, and strong language throughout.",
+        "question": "What is the MPAA rating for Thrash?"
+      },
+      {
+        "answer": "Thrash is available to stream globally as a Netflix original film following its release in April 2026.",
+        "question": "Where can I watch Thrash?"
+      },
+      {
+        "answer": "Yes, during development and production, the film was operating under the working titles 'Beneath the Storm' and 'Shiver' before officially securing the title Thrash.",
+        "question": "Was Thrash previously known by other working titles?"
+      },
+      {
+        "answer": "The film primarily features aggressive bull sharks carried into the flooded urban streets by the storm surge, along with a massive Great White shark.",
+        "question": "What kind of sharks are featured in the movie?"
+      },
+      {
+        "answer": "No, due to its R rating, graphic shark attacks, high-intensity disaster scenes, and frequent violence, Thrash is intended for mature audiences and horror/thriller fans.",
+        "question": "Is Thrash suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong suspense, intense jumpscares, blood, and visceral horror elements stemming from an ongoing natural disaster combined with creature attacks."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical of high-stress disaster scenarios and life-threatening situations."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High potential for physical peril, graphic injuries, and creature-based violence as desperate survivors encounter aggressive marine predators."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use, beyond potential incidental adult consumption during initial storm chaos."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity implied by the natural disaster and survival premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense operational shock, severe panic, life-or-death anxiety, and claustrophobic survival stress throughout."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 0,
+      "science": 2,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-16 21:02:04.116264",
+    "updated_at": "2026-08-16 21:02:04.116264"
+  }
 }
