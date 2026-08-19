@@ -524,5 +524,247 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1078446/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1078446,
+    "hash": "6a98d3019b0d300e3ffa1aced155ed0b046cde8e225c12108fa9ca8758d6c660",
+    "summary_one_sentence": "When a magic-sapped Santa Claus must protect a lively mall community from ruthless thugs, he must rediscover his holiday spirit and call in his fierce wife, Mrs. Claus, to save Christmas.",
+    "summary_short": "After losing sight of the true meaning of Christmas, Santa Claus suddenly finds his magical abilities completely sapped while visiting a vibrant mall community. Disaster strikes when a gang of armed goons threatens to destroy the mall and terrorize the people inside. Lacking his usual supernatural powers, Santa must rely on classic grit, rediscover his faith in human goodness, and call in ultimate backup: Mrs. Claus. Together, the festive duo fights to bring peace and heavy-handed holiday justice to the innocent civilians.",
+    "summary_long": "Having lost touch with the true meaning of Christmas, a weary Santa Claus arrives in a lively mall community only to discover that his magical powers have completely vanished. Without his supernatural abilities, he is caught entirely off-guard when a ruthless gang of goons invades the mall, taking control of the building and putting countless innocent lives in grave danger. Realizing that time is rapidly running out, Santa is forced to find creative, grounded ways to take down the mercenaries using whatever tools he can find. Along the journey, interacting with the desperate yet resilient mall community forces Santa to rediscover his core faith in goodness and the genuine spirit of the holiday. Understanding that he cannot defeat the heavily armed forces entirely on his own, he makes an urgent call for last-minute reinforcements. Entering the fray is the one person no baddie ever wants to tangle with: Mrs. Claus. Armed with her own formidable skills and fiercely protective nature, Mrs. Claus joins Santa on the frontlines to defend the mall. Together, the power couple orchestrates an explosive stand to restore order, defeat the goons, and prove that the true spirit of Christmas cannot be broken.",
+    "synopsis": "Violent Night 2 follows a weary Santa Claus who, after forgetting the true meaning of Christmas, suddenly loses his magical abilities. Stranded without his usual superpowers in a lively mall community, Santa faces his greatest challenge yet when a group of ruthless goons launches a dangerous attack on the venue. Forced to rely on raw grit, improvisation, and renewed faith in humanity, Santa must team up with the formidable Mrs. Claus to defend the innocent civilians and deliver a relentless brand of festive justice before time runs out.",
+    "keywords": [
+      "santa claus",
+      "mrs claus",
+      "mall community",
+      "goons",
+      "action comedy",
+      "holiday action",
+      "underdog santa",
+      "lost magic",
+      "reinforcements",
+      "defending the mall",
+      "christmas spirit",
+      "race against time",
+      "vigilante justice",
+      "unlikely hero",
+      "festive chaos"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption & Faith",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Community & Togetherness",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Heroic Partnership & Family",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival & Resourcefulness",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Festive",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "With time running out, Mrs. Claus arrives as last-minute reinforcement, joining Santa in an all-out, high-stakes battle to take down the threat once and for all.",
+      "conflict": "A dangerous gang of goons invades the mall and threatens the community, forcing a powerless Santa to step up and fight back without his usual holiday powers.",
+      "resolution": "With the mall secured, Santa restores his belief in the goodness of the holiday, reaffirming the true meaning of Christmas alongside Mrs. Claus.",
+      "introduction": "Santa Claus finds himself at a lively mall while experiencing a crisis of faith and a loss of his Christmas spirit and magic.",
+      "risingAction": "Santa uses non-magical, improvised tactics to battle the intruders while struggling to rediscover his inner faith, eventually realizing he needs help and reaching out to Mrs. Claus."
+    },
+    "characters": [
+      {
+        "name": "Santa Claus",
+        "role": "Hero",
+        "description": "A weary Santa who loses his magic and must rediscover the holiday spirit to protect the mall community from a dangerous gang of goons."
+      },
+      {
+        "name": "Mrs. Claus",
+        "role": "Mentor",
+        "description": "Santa's fierce and formidable partner brought in as last-minute reinforcements to help him reclaim his faith and defeat the villains."
+      },
+      {
+        "name": "Mall Goon Leader",
+        "role": "Villain",
+        "description": "The ruthless leader of the mercenary group threatening the mall and racing against time to exploit Santa's weakened state."
+      },
+      {
+        "name": "Mall Community Ally",
+        "role": "Supporting Character",
+        "description": "A resilient member of the trapped mall community who helps Santa adapt to fighting without his magical abilities."
+      },
+      {
+        "name": "Goon Henchman",
+        "role": "Comic Relief",
+        "description": "An overconfident yet bumbling henchman whose ineptitude provides humor during the violent standoff."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Santa Claus",
+        "target": "Mrs. Claus",
+        "description": "Husband/Wife & Allies"
+      },
+      {
+        "source": "Santa Claus",
+        "target": "Mall Community",
+        "description": "Protector/Protected"
+      },
+      {
+        "source": "Santa Claus",
+        "target": "Goons / Ruthless Thugs",
+        "description": "Enemies"
+      },
+      {
+        "source": "Mrs. Claus",
+        "target": "Goons / Ruthless Thugs",
+        "description": "Enemies"
+      },
+      {
+        "source": "Goons / Ruthless Thugs",
+        "target": "Mall Community",
+        "description": "Aggressors/Victims"
+      }
+    ],
+    "seo": {
+      "slug": "violent-night-2",
+      "jsonLd": {
+        "name": "Violent Night 2",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Comedy",
+          "Holiday"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus."
+      },
+      "keywords": [
+        "Violent Night 2",
+        "Violent Night sequel",
+        "Santa Claus movie",
+        "Mrs Claus",
+        "action Christmas movie",
+        "Violent Night 2 synopsis",
+        "holiday action film"
+      ],
+      "canonical": "[https://movnix.com/movie/violent-night-2](https://movnix.com/movie/violent-night-2)",
+      "metaTitle": "Violent Night 2 - Movie Synopsis, Cast & Latest Updates",
+      "openGraph": {
+        "og:title": "Violent Night 2 - Santa & Mrs. Claus Are Back",
+        "og:description": "Sapped of his magic, Santa must rediscover his spirit and team up with Mrs. Claus to save a mall community from goons in Violent Night 2."
+      },
+      "twitterCard": {
+        "twitter:title": "Violent Night 2 - Official Synopsis & Details",
+        "twitter:description": "Santa loses his magic and brings in Mrs. Claus to stop goons threatening a local mall in Violent Night 2."
+      },
+      "metaDescription": "Santa loses his magic and teams up with Mrs. Claus to save a lively mall community from ruthless goons in Violent Night 2."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is the direct sequel to the 2022 action-comedy film 'Violent Night', continuing the story of David Harbour's hard-hitting Santa Claus.",
+        "question": "Is Violent Night 2 part of a franchise?"
+      },
+      {
+        "answer": "The film is primarily an action-comedy mixed with holiday fantasy, blending festive Christmas themes with intense, bloody action sequences.",
+        "question": "What is the dominant genre of Violent Night 2?"
+      },
+      {
+        "answer": "Sapped of his magic and having forgotten the true meaning of Christmas, Santa must defend a lively mall community from a dangerous group of goons while rediscovering his Christmas spirit and teaming up with Mrs. Claus.",
+        "question": "What is the plot of Violent Night 2?"
+      },
+      {
+        "answer": "Yes, Mrs. Claus plays a key role as Santa's ultimate last-minute reinforcement to help him defeat the goons threatening the mall.",
+        "question": "Does Mrs. Claus appear in the movie?"
+      },
+      {
+        "answer": "Post-credits scenes are common for this genre, typically offering a final festive joke or teasing future holiday mayhem, so it is worth sticking around after the credits.",
+        "question": "Is there a post-credits scene in Violent Night 2?"
+      },
+      {
+        "answer": "The movie is intended for modern adult audiences and older teens who enjoy dark comedy, graphic action, and unconventional, violent twists on traditional Christmas movies.",
+        "question": "Who is the main target audience for this movie?"
+      },
+      {
+        "answer": "The majority of the story takes place inside a bustling mall community that falls under siege by a team of armed goons.",
+        "question": "What is the main setting for Violent Night 2?"
+      },
+      {
+        "answer": "Santa starts the film sapped of his magic, forcing him to rely on brutal physical combat, makeshift weapons, and smart tactics until he can regain his holiday spirit.",
+        "question": "Does Santa Claus still have his magical powers in this sequel?"
+      },
+      {
+        "answer": "No, despite featuring Santa Claus and Christmas themes, the film contains strong violence, coarse language, and mature humor intended for adult viewers.",
+        "question": "Is Violent Night 2 suitable for children?"
+      },
+      {
+        "answer": "The movie is released in movie theaters during its initial run before expanding to digital platforms and major streaming services.",
+        "question": "Where can I watch Violent Night 2?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low to moderate horror elements featuring tense threat situations, home-invasion style danger, and mild jump scares."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language, including strong profanities and crude humor throughout."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence anticipated, including graphic action scenes, combat against goons, and bloody altercations consistent with the franchise's tone."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate substance use, including heavy alcohol consumption and references to smoking."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal sexual content, limited to mild crude humor or suggestive remarks."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity driven by high-stakes peril, threat to innocent people, and time-pressured action themes."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 8,
+      "comedy": 7,
+      "emotion": 6,
+      "fantasy": 8,
+      "mystery": 2,
+      "romance": 3,
+      "science": 0,
+      "suspense": 6,
+      "violence": 8
+    },
+    "created_at": "2026-08-19 00:07:03.352075",
+    "updated_at": "2026-08-19 00:07:03.352075"
+  }
 }
