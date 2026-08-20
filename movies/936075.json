@@ -10,9 +10,9 @@
     "budget": "250000000",
     "revenue": "1021000000",
     "status": "Released",
-    "popularity": 87.0547,
-    "voteAverage": 8.676,
-    "voteCount": 4069,
+    "popularity": 81.9152,
+    "voteAverage": 8.675,
+    "voteCount": 4077,
     "homepage": "https://michael.movie",
     "posterPath": "/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
     "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -737,6 +737,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/bEv7ao6l4Hn5tnphxN8vMxuSpqz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/zZtagf8mE4mdUqpWskVn23HaoiG.jpg",
       "width": 2000,
       "height": 3000,
@@ -745,13 +752,6 @@
     },
     {
       "filePath": "/gKWVxVJ5Q0JcQKj2Z8Hu5Qwo7s2.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/bEv7ao6l4Hn5tnphxN8vMxuSpqz.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -2770,8 +2770,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.676,
-      "votesCount": 4069
+      "ratingValue": 8.675,
+      "votesCount": 4077
     },
     {
       "source": "imdb",
@@ -2935,15 +2935,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2801928,
-      "name": "John McClain",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 16729,
       "name": "Graham King",
       "profilePath": "/pscp8CgdCEWwIWwj8iil0B45LD7.jpg",
@@ -2959,6 +2950,15 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2801928,
+      "name": "John McClain",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -3080,7 +3080,7 @@
           "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
         },
         {
-          "name": "Starz Apple TV Channel",
+          "name": "Starz Apple TV channel",
           "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
         },
         {
