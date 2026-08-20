@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.4646,
+    "popularity": 2.1314,
     "voteAverage": 2,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1274134",
-    "posterPath": "/rzbbtzA50E66aUFNWcLMKFeUMTw.jpg",
+    "posterPath": "/dWgaHEgorSUPHLUKLhvavkEDuLK.jpg",
     "backdropPath": "/6UPQh6f5XRjDG3608g0uR3qWW2X.jpg",
     "collectionId": null
   },
@@ -69,7 +69,7 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/rzbbtzA50E66aUFNWcLMKFeUMTw.jpg",
+      "filePath": "/dWgaHEgorSUPHLUKLhvavkEDuLK.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -83,6 +83,20 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/dWgaHEgorSUPHLUKLhvavkEDuLK.jpg",
+      "width": 2000,
+      "height": 2945,
+      "aspectRatio": 0.679,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qp2xwmcKsFlxB7aw37OnXZ1COrF.jpg",
+      "width": 700,
+      "height": 1031,
+      "aspectRatio": 0.679,
+      "type": "poster"
+    },
+    {
       "filePath": "/lqcgo17pJlqkBDRWyEOTAE9EcVM.jpg",
       "width": 1200,
       "height": 1700,
@@ -94,20 +108,6 @@
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/qp2xwmcKsFlxB7aw37OnXZ1COrF.jpg",
-      "width": 700,
-      "height": 1031,
-      "aspectRatio": 0.679,
-      "type": "poster"
-    },
-    {
-      "filePath": "/dWgaHEgorSUPHLUKLhvavkEDuLK.jpg",
-      "width": 2000,
-      "height": 2945,
-      "aspectRatio": 0.679,
       "type": "poster"
     },
     {
@@ -259,12 +259,12 @@
       "order": 10
     },
     {
-      "tmdbPersonId": 4651421,
-      "name": "Eliese Lissner",
+      "tmdbPersonId": 1395201,
+      "name": "Julie Pacino",
       "profilePath": null,
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -277,15 +277,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3180960,
-      "name": "Mireia Vilanova",
-      "profilePath": "/ug33uNPXHxczCE28aH0ebbnQYer.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1395201,
       "name": "Julie Pacino",
       "profilePath": null,
@@ -295,12 +286,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1395201,
-      "name": "Julie Pacino",
+      "tmdbPersonId": 1456469,
+      "name": "Lara Clear",
+      "profilePath": "/j55risgi0AZdcdG2SFAEF1Mdrpf.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4651421,
+      "name": "Eliese Lissner",
       "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -313,9 +313,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1456469,
-      "name": "Lara Clear",
-      "profilePath": "/j55risgi0AZdcdG2SFAEF1Mdrpf.jpg",
+      "tmdbPersonId": 3180960,
+      "name": "Mireia Vilanova",
+      "profilePath": "/ug33uNPXHxczCE28aH0ebbnQYer.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -397,5 +397,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1274134/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1274134,
+    "hash": "6cef855ab06882c1a9c311d75ad51689c0956dcfba0074eaaf552b7803494a3b",
+    "summary_one_sentence": "Trapped in an isolated hotel, a woman must face the violent, recurring specters of her past as her reality fractures into a living nightmare.",
+    "summary_short": "A tormented woman arrives at a remote, secluded hotel hoping to escape her troubled history, only to find the sanctuary turning into a prison. Dark echoes of her past violent trauma materialize within the corridors, forcing her to confront forgotten memories. As the boundaries between her waking life and horrific nightmares dissolve, she faces a desperate struggle for survival. She must decipher whether the haunting forces are real or driven by her own unraveling psyche.",
+    "summary_long": "Seeking refuge from a fraught past, a troubled woman checks into a quiet, isolated hotel located far from civilization. What begins as a peaceful retreat quickly devolves into terror when uncanny, violent manifestations begin to disrupt her stay. Surreal encounters and phantom-like occurrences replay the worst memories of her previous relationships and trauma, blurring her perception of space and time. Trapped within the sprawling, maze-like building, she attempts to find an exit, only to discover every corridor leads her deeper into her own subconscious guilt. The hotel itself seems to feed on her fear, altering its layout and twisting her sensory reality until she can no longer trust her own senses. Paranoid and exhausted, she encounters lingering representations of her abusers and past mistakes, forcing her to relived her darkest moments. To survive the night, she must actively unravel the secrets buried within her memories rather than running from them. Ultimately, her fight for physical escape mirrors an internal battle to reclaim her agency from the horrors that have long haunted her.",
+    "synopsis": "I Live Here Now is a psychological horror thriller following a woman who seeks refuge at a remote hotel to escape her past. Instead of finding peace, she becomes trapped in a harrowing realm where violent memories manifest in the real world, forcing her to navigate a haunting maze of personal trauma and psychological terror.",
+    "keywords": [
+      "unreliable narrator",
+      "psychological horror",
+      "trauma-manifestation",
+      "haunted hotel",
+      "remote location",
+      "past catching up",
+      "hallucination or reality",
+      "nightmare logic",
+      "isolation",
+      "surreal terror",
+      "guilt and trauma",
+      "memory distortion",
+      "trapped heroine"
+    ],
+    "themes": [
+      {
+        "theme": "Trauma & Memory",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Psychological Horror & Delusion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Guilt & Regret",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Psychological Horror",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "A harrowing confrontation takes place where the darkest shadow of her past directly threatens to consume her permanently within the physical space of the hotel.",
+      "conflict": "Strange, violent occurrences begin manifesting inside the hotel, gradually revealing themselves as uncanny physical manifestations of her traumatic past.",
+      "resolution": "The immediate threat subsides, forcing her to reckon with the remaining aftermath of her trauma and come to terms with her new reality.",
+      "introduction": "A woman arrives at an isolated, remote hotel, attempting to find refuge or start fresh away from her troubled history.",
+      "risingAction": "As the line between her nightmare visions and reality completely dissolves, she must navigate the increasingly hostile hotel while confronting the traumatic memories she tried to suppress."
+    },
+    "characters": [
+      {
+        "name": "Sarah",
+        "role": "Hero",
+        "description": "The protagonist who is trapped in a remote hotel and forced to confront the violent, haunting echoes of her past."
+      },
+      {
+        "name": "Hotel Manager / Antagonistic Entity",
+        "role": "Villain",
+        "description": "The malevolent presence or figure within the hotel that manipulates the violent echoes to terrorize the protagonist."
+      },
+      {
+        "name": "Eerie Resident / Staff Member",
+        "role": "Mentor",
+        "description": "A cryptic figure in the hotel who provides unsettling guidance and unravels the dark history of the location."
+      },
+      {
+        "name": "Hotel Guest / Past Acquaintance",
+        "role": "Supporting Character",
+        "description": "A figure connected to the protagonist's past whose presence helps bridge her nightmares with reality."
+      },
+      {
+        "name": "Unwitting Visitor",
+        "role": "Comic Relief",
+        "description": "A lighthearted or oblivious character who offers brief moments of levity amidst the psychological tension."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Protagonist (Trapped Woman)",
+        "target": "Specters of the Past",
+        "description": "Hostile/Haunting Echoes"
+      },
+      {
+        "source": "Protagonist (Trapped Woman)",
+        "target": "Hotel / The Isolation",
+        "description": "Environment/Psychological Trap"
+      }
+    ],
+    "seo": {
+      "slug": "i-live-here-now",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/i-live-here-now](https://movnix.com/movie/i-live-here-now)",
+        "name": "I Live Here Now",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Psychological Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A woman finds herself trapped in a remote hotel where the violent echoes of her past come alive, blurring the lines between her darkest nightmares and the waking world."
+      },
+      "keywords": [
+        "I Live Here Now",
+        "I Live Here Now movie",
+        "psychological horror",
+        "thriller movie",
+        "hotel horror film",
+        "I Live Here Now trailer"
+      ],
+      "canonical": "[https://movnix.com/movie/i-live-here-now](https://movnix.com/movie/i-live-here-now)",
+      "metaTitle": "I Live Here Now - Psychological Horror & Thriller Movie | Movnix",
+      "openGraph": {
+        "og:title": "I Live Here Now | Official Psychological Thriller",
+        "og:description": "Trapped in a remote hotel, a woman confronts violent echoes of her past where nightmares become reality. Stream I Live Here Now."
+      },
+      "twitterCard": {
+        "twitter:title": "I Live Here Now | Official Psychological Thriller",
+        "twitter:description": "A remote hotel. Violent echoes of the past. Nightmares made real. Discover I Live Here Now."
+      },
+      "metaDescription": "Trapped in a remote hotel, a woman confronts violent echoes of her past in I Live Here Now. Watch the thriller unfold on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "'I Live Here Now' is primarily a psychological horror and thriller film, heavily featuring themes of supernatural suspense and trauma-driven dread.",
+        "question": "What is the dominant genre of 'I Live Here Now'?"
+      },
+      {
+        "answer": "No, 'I Live Here Now' is a standalone original film and is not connected to any existing cinematic franchise or universe.",
+        "question": "Is this movie part of a franchise, cinematic universe, or a sequel?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes, so you do not need to stay past the main end credits.",
+        "question": "Is there a post-credit scene in 'I Live Here Now'?"
+      },
+      {
+        "answer": "The movie follows a woman trapped inside a remote hotel where violent, traumatic echoes from her past physically manifest, making it difficult to distinguish between her real-life horrors and her nightmares.",
+        "question": "What is the core premise of 'I Live Here Now'?"
+      },
+      {
+        "answer": "The film is intended for adult fans of psychological horror, atmospheric thrillers, and stories dealing with themes of trauma, memory, and reality-bending suspense.",
+        "question": "What target audience is this film intended for?"
+      },
+      {
+        "answer": "No, the story is a fictional original screenplay written specifically for the film.",
+        "question": "Is 'I Live Here Now' based on a true story or a book?"
+      },
+      {
+        "answer": "The narrative is primarily set in an isolated, remote hotel that serves as a claustrophobic backdrop for the protagonist's psychological ordeal.",
+        "question": "Where does the story of 'I Live Here Now' take place?"
+      },
+      {
+        "answer": "While it features tense and shocking moments, the film relies far more on dread, psychological tension, and surreal horror than on traditional jump scares.",
+        "question": "Does 'I Live Here Now' rely on jump scares or psychological atmosphere?"
+      },
+      {
+        "answer": "Yes, the film incorporates supernatural phenomena as the violently haunting manifestations of the main character's past come to life around her.",
+        "question": "Are there supernatural elements in 'I Live Here Now'?"
+      },
+      {
+        "answer": "No, due to intense terrifying sequences, violent themes, psychological distress, and mature subject matter, it is recommended for mature audiences only.",
+        "question": "Is 'I Live Here Now' suitable for younger viewers?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong psychological horror elements, terrifying nightmares, and intense atmosphere."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language under distress."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depictions of violent past memories and implied physical aggression."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving trauma, fear, and psychological turmoil."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 6,
+      "mystery": 9,
+      "romance": 1,
+      "science": 1,
+      "suspense": 10,
+      "violence": 6
+    },
+    "created_at": "2026-08-19 16:06:04.731563",
+    "updated_at": "2026-08-19 16:06:04.731563"
+  }
 }
