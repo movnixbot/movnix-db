@@ -2,39 +2,72 @@
   "movie": {
     "tmdbId": 1749047,
     "imdbId": null,
-    "title": "쓰리하우스",
+    "title": "Three House",
     "originalTitle": "쓰리하우스",
-    "overview": "Mock movie description parsed from html scraper page.",
-    "releaseDate": "2026-08-13",
-    "runtime": 139,
+    "overview": "First, never leave the house. Second, take your medicine and sleep once it gets dark. Third, never touch the locked doors. Having spent his entire life trapped inside under his father's strict rules, Jae-jun begins to question everything. Myung-sook, who cares alone for her father suffering from dementia, encounters an unidentified woman in the mountains on the anniversary of her daughter's death. And on the day of a move-in cleaning, Jung-hye finds herself alone with the cleaners when her husband suddenly stops answering her calls…",
+    "releaseDate": "2026-08-12",
+    "runtime": 85,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.215,
+    "popularity": 0.4818,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1749047",
-    "posterPath": "/kmCQIVo1Qu8Rqyyk0pWzglryT3K.jpg",
-    "backdropPath": null,
+    "posterPath": "/8vZ1hp4VgGlPskS3Z9XTsXQqbme.jpg",
+    "backdropPath": "/jIsJq0QaSVReNkTqAmnYmOxCc3b.jpg",
     "collectionId": null,
     "certification": "15"
   },
   "collection": null,
   "genres": [
     {
+      "tmdbId": 27,
+      "name": "Horror"
+    },
+    {
+      "tmdbId": 9648,
+      "name": "Mystery"
+    },
+    {
+      "tmdbId": 53,
+      "name": "Thriller"
+    },
+    {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 307411,
+      "name": "Aa Films.",
+      "logoPath": null,
+      "originCountry": "KR"
+    }
+  ],
   "keywords": [],
   "videos": [],
   "images": [
     {
-      "filePath": "/kmCQIVo1Qu8Rqyyk0pWzglryT3K.jpg",
+      "filePath": "/8vZ1hp4VgGlPskS3Z9XTsXQqbme.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jIsJq0QaSVReNkTqAmnYmOxCc3b.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cvjJho4aDICZdPwvPnqcJbNOv2j.jpg",
+      "width": 2000,
+      "height": 2850,
+      "aspectRatio": 0.702,
       "type": "poster"
     },
     {
@@ -43,6 +76,20 @@
       "height": 750,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/8vZ1hp4VgGlPskS3Z9XTsXQqbme.jpg",
+      "width": 2000,
+      "height": 2850,
+      "aspectRatio": 0.702,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jIsJq0QaSVReNkTqAmnYmOxCc3b.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -52,7 +99,143 @@
       "votesCount": 10
     }
   ],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 6419653,
+      "name": "Joo Sou-jung",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 3244039,
+      "name": "Mi Ram",
+      "profilePath": "/kzRIe35yukgawa7ILePn1mrFpOK.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 3823867,
+      "name": "Lim Young-woo",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 6419656,
+      "name": "Hwang In-bo",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1488079,
+      "name": "Kim Do-yeon",
+      "profilePath": "/3OKLEqZo4I9gJjvtp1JcrXmxcEc.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 2458208,
+      "name": "Lim Ho-jun",
+      "profilePath": "/wROdj632NdoRfuokSECReP34LQW.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 1887008,
+      "name": "Kim Choo-wol",
+      "profilePath": "/eIQrzIHbHQN1TYOteLki0ndJh5S.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 2625514,
+      "name": "Son Kyoung-won",
+      "profilePath": "/wTEnjWnUXrUMZrdnsDWPbiHtI3N.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 6419660,
+      "name": "Shin So-yeun",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 4957251,
+      "name": "Shim Ji-yu",
+      "profilePath": "/cGaN9m8uxCjIndzSkq56iuAyFRS.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 3930983,
+      "name": "Park So-eul",
+      "profilePath": "/vkglEIIxP14YR0IjuxSeDumPpoT.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 3962368,
+      "name": "Choi Won",
+      "profilePath": "/f4xX8JWZl5OcTULJnhpTegHwPCP.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 3608469,
+      "name": "Kim Joon",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2893192,
+      "name": "Kim Phile-su",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5693035,
+      "name": "Jungho Lee",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    }
+  ],
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": null,
