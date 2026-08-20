@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5293,
+    "popularity": 4.2384,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1465818",
@@ -347,7 +347,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [
@@ -383,5 +404,218 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1465818/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1465818,
+    "hash": "1ac0f5deec8c3416fbec920e8db78f8fd26c099c8c128f6a28141245c5d041ff",
+    "summary_one_sentence": "Facing the uncertainty of her mother's mysterious illness, neurodivergent 22-year-old Margarita finds solace, confidence, and community through the unconventional world of hobbyhorsing.",
+    "summary_short": "Margarita, a neurodivergent young woman navigating the complexities of early adulthood, finds her life upended when her mother receives an uncertain medical diagnosis. Stressed and seeking an outlet, she unexpectedly discovers the passionate world of hobbyhorsing. Through this unique sport, Margarita finds a powerful creative escape and a comforting sense of control amid familial hardship. Ultimately, the hobby empowers her to build resilience, embrace her identity, and confront her fears with renewed optimism.",
+    "summary_long": "Margarita is a 22-year-old neurodivergent woman whose routine is shattered when her mother falls ill with an elusive, ambiguous medical condition. As family dynamics strain under the weight of diagnostic uncertainty, Margarita struggles to process her anxiety and find emotional stability. Seeking a distraction, she stumbles upon a local community dedicated to hobbyhorsing—a sport combining athletic jump courses with handcrafted wooden horse heads. Initial hesitation quickly gives way to fascination as Margarita immerses herself in the discipline, creativity, and physical exertion required by the passion. The structured nature of the hobby offers her a safe haven where her neurodivergent traits are embraced rather than misunderstood. Along the way, she connects with fellow enthusiasts who teach her that strength often springs from unexpected places. Balancing her responsibilities at home with her newfound dedication, Margarita learns to use the sport's emotional leverage to support her mother. As her mother's medical journey unfolds, Margarita stands tall on the competition course, demonstrating how creative self-expression can transform vulnerability into genuine resilience.",
+    "synopsis": "Horsegirls is a heartwarming comedy-drama that explores the healing power of niche subcultures, neurodivergent self-discovery, and unconditional family bonds. When 22-year-old Margarita faces the emotional turmoil of her mother's lingering medical uncertainty, she unexpectedly discovers hobbyhorsing. What begins as an unusual distraction quickly turns into a transformative journey of empowerment, community, and personal growth, offering a unique look at coping with life's unpredictable hurdles through creativity and play.",
+    "keywords": [
+      "hobbyhorsing",
+      "neurodivergent protagonist",
+      "mother daughter relationship",
+      "illness in family",
+      "coming of age",
+      "unconventional sports",
+      "coping mechanism",
+      "bittersweet humor",
+      "found community",
+      "emotional resilience",
+      "quirky comedy",
+      "character driven"
+    ],
+    "themes": [
+      {
+        "theme": "Neurodiversity and Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Coping with Illness",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Mother-Daughter Relationships",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Unconventional Healing and Belonging",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "Margarita faces a high-stakes hobbyhorsing event, where emotional turmoil from her family life and the pressure to perform force her to confront her deepest insecurities on the field.",
+      "conflict": "When Margarita encounters the world of hobbyhorsing, she discovers a passionate community and a personal outlet, but she struggles against social stigma, self-doubt, and the escalating pressure of her mother's health crisis.",
+      "resolution": "Through her journey in the sport, Margarita finds resilience and identity, emerging with a renewed sense of strength and self-acceptance as she and her family navigate the future together.",
+      "introduction": "Neurodivergent 22-year-old Margarita navigates the emotional strain of her mother's mysterious, worsening illness while searching for a sense of control and belonging in her daily life.",
+      "risingAction": "As Margarita immerses herself in training and local competitions, she builds meaningful connections with fellow participants, constantly balancing her growing devotion to the sport with her caretaking responsibilities at home."
+    },
+    "characters": [
+      {
+        "name": "Margarita",
+        "role": "Hero",
+        "description": "A neurodivergent 22-year-old woman navigating her mother's illness who finds empowerment and personal growth through hobbyhorsing."
+      },
+      {
+        "name": "Margarita's Mother",
+        "role": "Supporting Character",
+        "description": "A central figure in Margarita's life facing an uncertain medical diagnosis, driving the emotional core of the story."
+      },
+      {
+        "name": "Hobbyhorsing Mentor / Coach",
+        "role": "Mentor",
+        "description": "A supportive figure in the hobbyhorsing community who guides Margarita as she learns the sport and builds confidence."
+      },
+      {
+        "name": "Hobbyhorsing Teammates / Community",
+        "role": "Supporting Character",
+        "description": "Fellow enthusiasts who provide a sense of belonging, friendship, and encouragement to Margarita."
+      },
+      {
+        "name": "Rival Competitor",
+        "role": "Villain",
+        "description": "An opposing competitor in the hobbyhorsing circuit who challenges Margarita and serves as a foil during competitions."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Margarita",
+        "target": "Margarita's Mother",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Margarita",
+        "target": "Hobbyhorsing Community",
+        "description": "Member/Community"
+      }
+    ],
+    "seo": {
+      "slug": "horsegirls",
+      "jsonLd": {
+        "name": "Horsegirls",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "As her mother battles an uncertain diagnosis, neurodivergent 22-year-old Margarita discovers a source of strength in an unexpected place: the sport of hobbyhorsing."
+      },
+      "keywords": [
+        "horsegirls film",
+        "horsegirls movie",
+        "hobbyhorsing movie",
+        "neurodivergent cinema",
+        "indie drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/horsegirls](https://movnix.com/movie/horsegirls)",
+      "metaTitle": "Horsegirls | Synopsis & Details",
+      "openGraph": {
+        "og:title": "Horsegirls",
+        "og:description": "As her mother battles an uncertain diagnosis, neurodivergent 22-year-old Margarita discovers strength in the sport of hobbyhorsing."
+      },
+      "twitterCard": {
+        "twitter:title": "Horsegirls",
+        "twitter:description": "As her mother battles an uncertain diagnosis, neurodivergent 22-year-old Margarita discovers strength in the sport of hobbyhorsing."
+      },
+      "metaDescription": "Discover Horsegirls, a film following neurodivergent Margarita as she finds resilience in hobbyhorsing while navigating her mother's illness."
+    },
+    "faq": [
+      {
+        "answer": "Horsegirls is primarily a coming-of-age drama that blends grounded emotional realism with lighthearted, unconventional elements.",
+        "question": "What is the dominant genre of Horsegirls?"
+      },
+      {
+        "answer": "While inspired by the real-world subculture of hobbyhorsing, the story of 22-year-old Margarita and her family is a fictional narrative.",
+        "question": "Is this movie based on a true story?"
+      },
+      {
+        "answer": "No, Horsegirls is a standalone original film with no connections to existing franchises or cinematic universes.",
+        "question": "Is Horsegirls part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene. The narrative fully concludes before the credits roll.",
+        "question": "Is there a post-credits scene in Horsegirls?"
+      },
+      {
+        "answer": "The film explores themes of neurodivergence, maternal bonds, coping with illness, and finding empowerment through non-traditional communities.",
+        "question": "What is the central theme of the movie?"
+      },
+      {
+        "answer": "Hobbyhorsing is a real-world sport originating in Finland where participants perform gymnastics and equestrian-style jumping using stick horses.",
+        "question": "What is 'hobbyhorsing', as featured in the film?"
+      },
+      {
+        "answer": "The story centers on Margarita, a neurodivergent 22-year-old navigating personal growth while supporting her mother through a medical crisis.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "Yes, the film deals with mature emotional themes surrounding illness and self-discovery, making it suitable for teens and adults.",
+        "question": "Is Horsegirls suitable for family viewing?"
+      },
+      {
+        "answer": "The central drama stems from the uncertainty of Margarita's mother's medical diagnosis and Margarita's search for personal coping mechanisms.",
+        "question": "Where does the emotional conflict of the story stem from?"
+      },
+      {
+        "answer": "Yes, Margarita's neurodivergence plays a central role in how she processes stress, relates to others, and connects with her newfound passion.",
+        "question": "Does the film focus heavily on neurodivergent representation?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening themes present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to mild language typical for a character-driven drama."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence depicted; the focus is on personal growth and hobbyhorsing."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Potential minor references to medical treatments or prescription drugs for the mother's illness."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit romance referenced."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity surrounding a parent dealing with a serious medical diagnosis."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-20 13:01:32.870778",
+    "updated_at": "2026-08-20 13:01:32.870778"
+  }
 }
