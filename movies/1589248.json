@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 47.1292,
-    "voteAverage": 3.318,
-    "voteCount": 11,
+    "popularity": 45.3441,
+    "voteAverage": 3.7,
+    "voteCount": 13,
     "homepage": "https://www.netflix.com/title/82032039",
     "posterPath": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
     "backdropPath": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
@@ -147,6 +147,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/5ehcgIog62Ja6xNHRcVz5zptCsE.jpg",
+      "width": 904,
+      "height": 1280,
+      "aspectRatio": 0.706,
+      "type": "poster"
+    },
+    {
       "filePath": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
       "width": 1920,
       "height": 1080,
@@ -213,8 +220,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 3.318,
-      "votesCount": 11
+      "ratingValue": 3.7,
+      "votesCount": 13
     },
     {
       "source": "crawled",
@@ -471,5 +478,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1589248/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1589248,
+    "hash": "d1f8ff8b8939f4675df13c8062c10070f00d80697769544c859bee098839a0e0",
+    "summary_one_sentence": "The tight-knit bond and global travel dreams of best friends Olli and Matze are thrown into chaos when Matze falls deeply in love with Rebecca.",
+    "summary_short": "Olli and Matze have always done everything together, sharing an apartment, working the same job, and saving up for a long-awaited trip around the world. However, their lifelong dynamic shifts abruptly when Matze meets Rebecca and enters a passionate romance. As Matze begins prioritizing his new relationship, Olli finds himself struggling with feelings of abandonment and jealousy. Olli must ultimately navigate the uncomfortable transition of his inner circle while learning to support his friend's newfound happiness.",
+    "summary_long": "Olli and Matze share an unbreakable brotherhood built on shared routines, mutual humor, and an ambitious plan to leave their daily lives behind to travel the world. Their partnership faces its biggest test when Matze meets Rebecca, a charming woman who instantly captures his heart. As Matze spends more of his time and energy courting Rebecca, the once-equal priority given to their friendship begins to crumble. Olli feels increasingly sidelined and views Rebecca as an unexpected intrusion into their carefully crafted future together. Tensions rise as the deadline for their grand trip approaches, forcing Olli to confront his deep-seated fears of being left behind and forgotten. Meanwhile, Matze finds himself pulled between his loyalty to his best friend and his growing affection for his new partner. Through a series of awkward encounters, emotional confrontations, and comedic miscommunications, all three must re-evaluate what intimacy and commitment mean. In the end, Olli learns to accept that relationships evolve, finding a way to preserve his friendship while granting Matze the room to pursue romance.",
+    "synopsis": "Olli and Matze are inseparable best friends whose lives are completely intertwined: they live under the same roof, work side-by-side, and share a long-standing dream of packing their bags to travel the globe together. Their comfortable, predictable routine is unexpectedly upended when Matze falls in love with Rebecca. As Matze's new romance quickly grows serious, Olli suddenly finds himself feeling like a third wheel in his own life, watching their shared goals fall by the wayside. Balancing lighthearted humor with grounded emotional reality, the story explores the bittersweet growing pains of adult friendship, shifting loyalties, and the struggle to adapt when a best friend finds love.",
+    "keywords": [
+      "male friendship",
+      "third wheel",
+      "relationship dynamic",
+      "friendship test",
+      "romantic friction",
+      "travel dreams",
+      "coming of age",
+      "buddies",
+      "love triangle drama",
+      "interpersonal conflict",
+      "life plans disrupted",
+      "slice of life",
+      "roommates and co-workers",
+      "bittersweet comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Friendship and Loyalty",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Romance vs. Friendship",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Growing Apart",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Life Transitions",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Romantic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "A central confrontation forces all three characters to face the reality of how their lives, feelings, and future plans have fundamentally changed.",
+      "conflict": "Matze begins a romantic relationship with Rebecca, introducing new dynamics that threaten to derail their shared travel plans and test the boundaries of their friendship.",
+      "resolution": "The group emerges with a clearer understanding of where they stand, recalibrating their relationships and individual paths moving forward.",
+      "introduction": "Olli and Matze share a close bond as best friends who live together, work side by side, and share ambitious plans to travel the world.",
+      "risingAction": "Tensions build as Olli tries to navigate feeling sidelined, while Matze struggles to balance his growing feelings for Rebecca with his long-standing loyalty to Olli."
+    },
+    "characters": [
+      {
+        "name": "Olli",
+        "role": "Hero",
+        "description": "The central protagonist who finds his life and future travel plans thrown into disarray by his best friend's new relationship."
+      },
+      {
+        "name": "Matze",
+        "role": "Supporting Character",
+        "description": "Olli's best friend and roommate whose new romantic relationship creates the core conflict in their friendship."
+      },
+      {
+        "name": "Rebecca",
+        "role": "Supporting Character",
+        "description": "Matze's new girlfriend whose sudden presence disrupts Olli and Matze's bond and shared world-traveling plans."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Olli",
+        "target": "Matze",
+        "description": "Best Friends & Co-workers"
+      },
+      {
+        "source": "Matze",
+        "target": "Rebecca",
+        "description": "Romantic Partners"
+      },
+      {
+        "source": "Olli",
+        "target": "Rebecca",
+        "description": "Love Triangle / Rivals for Matze's Attention"
+      }
+    ],
+    "seo": {
+      "slug": "my-best-friend-his-girlfriend-and-me",
+      "jsonLd": {
+        "name": "My Best Friend, His Girlfriend and Me",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down."
+      },
+      "keywords": [
+        "My Best Friend His Girlfriend and Me",
+        "Olli and Matze movie",
+        "romantic drama overview",
+        "travel the world movie"
+      ],
+      "canonical": "[https://movnix.com/movie/my-best-friend-his-girlfriend-and-me](https://movnix.com/movie/my-best-friend-his-girlfriend-and-me)",
+      "metaTitle": "My Best Friend, His Girlfriend and Me - Synopsis & Overview",
+      "openGraph": {
+        "og:title": "My Best Friend, His Girlfriend and Me",
+        "og:description": "Olli and Matze's plans to travel the world are turned upside down when Rebecca enters the picture."
+      },
+      "twitterCard": {
+        "twitter:title": "My Best Friend, His Girlfriend and Me",
+        "twitter:description": "Olli and Matze's plans to travel the world are turned upside down when Rebecca enters the picture."
+      },
+      "metaDescription": "Olli and Matze plan to travel the world until Rebecca enters the picture. Discover the drama in My Best Friend, His Girlfriend and Me."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a romantic comedy and drama, focusing on the friction and evolving dynamics between best friends when a new romantic relationship enters the picture.",
+        "question": "What is the dominant genre of My Best Friend, His Girlfriend and Me?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not connected to any larger franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the credits, so you do not need to stay after the end titles finish.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story follows best friends Olli and Matze, who live, work, and plan to travel the world together, until Matze falls in love with Rebecca and disrupts their plans.",
+        "question": "What is the central premise of the movie?"
+      },
+      {
+        "answer": "The main characters are Olli, his best friend Matze, and Matze's new girlfriend, Rebecca.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "It is generally suitable for young adults and older audiences, though it contains light romantic themes, relationship drama, and occasional mature comedy.",
+        "question": "Is the movie suitable for general audiences?"
+      },
+      {
+        "answer": "The movie primarily takes place in an urban setting where the main characters live, work, and prepare for their intended world journey.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, it is an original fictional screenplay created for the screen.",
+        "question": "Is this film based on a true story or a book?"
+      },
+      {
+        "answer": "It balances both, offering lightweight comedic moments about friendship and rooming together alongside emotional relationship drama.",
+        "question": "Does the movie lean more toward comedy or drama?"
+      },
+      {
+        "answer": "The central themes include friendship loyalty, growing up, balancing romantic love with platonic bonds, and adapting when long-term life plans change.",
+        "question": "What are the primary themes explored in the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening themes present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate conversational coarse language typical of a romantic comedy."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violent content or physical aggression depicted."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual alcohol consumption and social drinking."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Moderate sexual references, suggestive themes, and romantic relationships."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Mild emotional conflict surrounding friendship dynamics, romantic entanglements, and life changes."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 1,
+      "comedy": 8,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 7,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-08-18 19:01:52.072463",
+    "updated_at": "2026-08-18 19:01:52.072463"
+  }
 }
