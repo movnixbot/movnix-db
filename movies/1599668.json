@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.3562,
+    "popularity": 8.1711,
     "voteAverage": 4,
     "voteCount": 1,
     "homepage": "https://www.benthatcher.co.uk/film-1-1",
-    "posterPath": "/113QcJe2qorfP6aA8cHxGxZF5uP.jpg",
+    "posterPath": "/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
     "backdropPath": "/jdb7kGp1UE1dot7rtCZlPuY4b6W.jpg",
     "collectionId": null
   },
@@ -63,7 +63,7 @@
   ],
   "images": [
     {
-      "filePath": "/113QcJe2qorfP6aA8cHxGxZF5uP.jpg",
+      "filePath": "/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -77,7 +77,21 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/113QcJe2qorfP6aA8cHxGxZF5uP.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/s16m6jmklUqhwI43rNgsNDL65yp.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -329,5 +343,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1599668/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1599668,
+    "hash": "015593935b031781b485ea5b3b77e53f6d83e9ea356982824cfda33add0aaa69",
+    "summary_one_sentence": "During the 1917 Battle of Passchendaele, a nine-man British MKIV tank crew embarks on a high-stakes mission across the mud-soaked Western Front to eliminate heavily fortified German bunkers.",
+    "summary_short": "Set against the brutal backdrop of the 1917 Battle of Passchendaele, three years into the devastation of the Great War, the Western Front remains trapped in a deadly stalemate. At the onset of a major Allied offensive, the nine-man crew of a British MKIV tank is tasked with penetrating enemy lines to destroy a key series of heavily fortified German positions. Bound together inside the suffocating metal confines of their armored landship, the crew must battle relentless bombardment, unforgiving terrain, and their own intense fears. Their perilous assault becomes a crucial test of grit and survival in one of World War I's most harrowing conflicts.",
+    "summary_long": "In the autumn of 1917, the Great War has ground down into three devastating years of trench warfare, leaving Allied and German forces locked along a four-hundred-mile Western Front. As commanders launch a pivotal Allied offensive at the Battle of Passchendaele to finally break the deadly deadlock, victory hinges on neutralising key German strongholds. Enter the nine-man crew of a British MKIV tank, an iconic 'landship' designed to spearhead the dangerous assault across no man's land. Entrusted with navigating the treacherous, shell-pocked terrain, their objective is to dismantle a network of heavily defended enemy pillboxes and bunkers. Inside the cramped, heat-filled interior of the steel vessel, tension mounts as mechanical failures, oppressive fumes, and incoming artillery threaten to end their mission before it truly begins. Each crew member must confront the overwhelming physical and psychological toll of armored warfare while maintaining absolute unity. As they push deeper into contested enemy territory, their armored push becomes a microcosm of the war's sheer endurance and tragic scale. Ultimately, the crew's relentless advance highlights the human spirit pushed to its absolute limits amidst the industrial chaos of World War I.",
+    "synopsis": "Set amidst the chaotic, mud-choked battlefields of the 1917 Battle of Passchendaele, 'Landship' delivers a visceral look into World War I armored warfare along the Western Front. After three agonizing years of trench stalemate, Allied high command initiates a bold offensive to punch through enemy lines. The story follows a diverse nine-man crew assigned to operate a British MKIV tank—dubbed a 'landship'—as the tip of the spear in this crucial campaign. Their primary directive is to cross no man's land and destroy a string of heavily fortified German bunkers that threaten to obliterate advancing infantry units. Navigating intense enemy bombardment, treacherous mud, and claustrophobic interior conditions, the crew must rely on sheer discipline and brotherhood to survive the horrors of the Western Front.",
+    "keywords": [
+      "Western Front",
+      "Battle of Passchendaele",
+      "World War I",
+      "trench warfare",
+      "tank crew",
+      "military combat",
+      "Mark IV tank",
+      "bunker assault",
+      "historical warfare",
+      "bunker destruction",
+      "band of brothers",
+      "war-torn landscape",
+      "mud and blood",
+      "strategic offensive"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty and Sacrifice",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Comradeship and Brotherhood",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Futility and Stalemate",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Grim",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The mission reaches its peak intensity as the crew engages the primary enemy stronghold in a final, perilous assault, forcing them to make critical tactical decisions under heavy bombardment.",
+      "conflict": "The crew is tasked with a high-stakes mission to push through hazardous, muddy terrain and eliminate a series of heavily fortified German bunkers to pave the way for the advancing Allied infantry.",
+      "resolution": "The immediate outcome of the bunker assault is realized, detailing the aftermath of the crew's mission and reflecting on the human cost and chaotic reality of mechanized warfare on the Western Front.",
+      "introduction": "Set during the grueling Battle of Passchendaele in 1917, the stage is set with two entrenched armies locked in a brutal three-year stalemate along the Western Front. The nine-man crew of a British MKIV Heavy Tank is introduced as a new offensive begins.",
+      "risingAction": "As the tank traverses the chaotic battlefield, the crew faces mechanical breakdowns, claustrophobic conditions, relentless enemy fire, and the psychological strain of combat, testing their endurance and unity with every passing obstacle."
+    },
+    "characters": [
+      {
+        "name": "Captain Donald Richardson",
+        "role": "Hero",
+        "description": "Grounded leader of the MKIV tank crew who commands the mission and carries the weight of responsibility for his men during the Battle of Passchendaele."
+      },
+      {
+        "name": "2nd Lieutenant George Hill",
+        "role": "Mentor",
+        "description": "Second-in-command who offers guidance, calm leadership, and emotional support to hold crew morale together inside the tank."
+      },
+      {
+        "name": "Sergeant Robert Missen",
+        "role": "Supporting Character",
+        "description": "Veteran non-commissioned officer who helps maintain order, discipline, and operational execution among the stranded soldiers."
+      },
+      {
+        "name": "Private Morrey",
+        "role": "Anti Hero",
+        "description": "Outspoken and contentious crew member whose friction and skepticism challenge authority under extreme, claustrophobic pressure."
+      },
+      {
+        "name": "MKIV Tank Crewmen",
+        "role": "Supporting Character",
+        "description": "The remaining specialized crew members who battle shellshock, claustrophobia, and severe environmental conditions while attempting to survive."
+      },
+      {
+        "name": "German Infantry & Gunners",
+        "role": "Villain",
+        "description": "Faceless, relentless enemy forces surrounding the stranded tank with artillery, poison gas, and gunfire."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "British MKIV Tank Commander",
+        "target": "Nine-Man Tank Crew",
+        "description": "Commander/Subordinates"
+      },
+      {
+        "source": "Nine-Man Tank Crew",
+        "target": "German Bunker Forces",
+        "description": "Enemies/Combatants"
+      },
+      {
+        "source": "British MKIV Tank Crew",
+        "target": "British High Command",
+        "description": "Subordinates/Offensive Force"
+      }
+    ],
+    "seo": {
+      "slug": "landship",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/landship](https://movnix.com/movie/landship)",
+        "name": "Landship",
+        "@type": "Movie",
+        "about": {
+          "name": "Battle of Passchendaele",
+          "@type": "Event"
+        },
+        "genre": [
+          "War",
+          "History",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "During the Battle of Passchendaele in 1917, the nine-man crew of a British MKIV Tank sets out to destroy a series of heavily defended German bunkers along the Western Front."
+      },
+      "keywords": [
+        "Landship movie",
+        "Battle of Passchendaele",
+        "WWI tank movie",
+        "British MKIV Tank",
+        "Western Front 1917",
+        "World War 1 film"
+      ],
+      "canonical": "[https://movnix.com/movie/landship](https://movnix.com/movie/landship)",
+      "metaTitle": "Landship (2026) - Battle of Passchendaele Tank Drama | Movnix",
+      "openGraph": {
+        "og:title": "Landship - World War I Tank Drama",
+        "og:description": "Follow the nine-man crew of a British MKIV Tank as they attempt to break the Western Front stalemate in 1917."
+      },
+      "twitterCard": {
+        "twitter:title": "Landship - WWI Battle of Passchendaele Film",
+        "twitter:description": "A British MKIV tank crew takes on a harrowing mission against German bunkers during the Battle of Passchendaele."
+      },
+      "metaDescription": "In 1917, a nine-man British MKIV tank crew embarks on a deadly mission against German bunkers during the Battle of Passchendaele."
+    },
+    "faq": [
+      {
+        "answer": "The story takes place during the Battle of Passchendaele in 1917 along the Western Front of World War I, where British and German forces have been entrenched in a bitter stalemate.",
+        "question": "What is the primary setting and historical context of Landship?"
+      },
+      {
+        "answer": "It follows a nine-man crew aboard a British Mark IV tank tasked with taking out a series of heavily fortified German bunkers to support a major Allied offensive.",
+        "question": "What is the core plot of Landship?"
+      },
+      {
+        "answer": "The film falls squarely into the historical war and military action drama genres, focusing on realistic wartime struggle and intense vehicle-based combat.",
+        "question": "What is the dominant genre of Landship?"
+      },
+      {
+        "answer": "No, Landship is a standalone historical war film centered specifically on the World War I armored combat experience at Passchendaele.",
+        "question": "Is Landship part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively as the credits roll, maintaining the somber tone typical of historical war dramas.",
+        "question": "Is there a post-credit scene in Landship?"
+      },
+      {
+        "answer": "'Landship' was the original military term used during World War I by the First Lord of the Admiralty, Winston Churchill, and the Landships Committee to describe early armored combat tanks like the Mark IV.",
+        "question": "What does the title 'Landship' refer to?"
+      },
+      {
+        "answer": "The central characters are the nine crew members operating the British Mark IV tank, each handling different critical roles inside the claustrophobic vehicle.",
+        "question": "Who are the main protagonists in the story?"
+      },
+      {
+        "answer": "The narrative revolves around the British Mark IV tank, a iconic heavy armored vehicle deployed in large numbers during the later stages of World War I.",
+        "question": "What specific vehicle plays a central role in the narrative?"
+      },
+      {
+        "answer": "Their main objective is to advance through heavily defended, mud-soaked territory to destroy strategic German bunker fortifications and open a path for infantry forces.",
+        "question": "What is the primary objective of the tank crew?"
+      },
+      {
+        "answer": "While it is set during the real-life historical Battle of Passchendaele in 1917 and accurately depicts the conditions faced by British tank crews, the specific nine-man crew and their mission are a dramatized narrative inspired by true events.",
+        "question": "Is Landship based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to high psychological horror, claustrophobia within the tank, and graphic depictions of combat trauma/battlefield carnage."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language typically associated with military personnel in high-stress, life-or-death battle situations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence expected due to wartime setting, heavy artillery, tank warfare, and infantry combat on the Western Front."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate substance use, primarily soldiers smoking tobacco or drinking alcohol/rum rations."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romance indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense thematic elements involving war trauma, life-and-death stakes, loss of comrades, and extreme tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 8,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 3,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-19 07:01:19.288836",
+    "updated_at": "2026-08-19 07:01:19.288836"
+  }
 }
