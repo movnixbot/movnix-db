@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.6919,
+    "popularity": 2.772,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1745446",
@@ -42,7 +42,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Shackled | Official Trailer 2026",
+      "key": "fU2ADhj0xqY",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/wJQjU8AvN5Z2USzGseTL98oZSlB.jpg",
@@ -55,6 +63,13 @@
       "filePath": "/wJQjU8AvN5Z2USzGseTL98oZSlB.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2QoYtkwkMvqjBNAhT53ALCsvJU9.jpg",
+      "width": 500,
+      "height": 750,
       "aspectRatio": 0.667,
       "type": "poster"
     }
@@ -214,5 +229,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1745446/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1745446,
+    "hash": "feaa3b652440d606cf8f8769b28bcf25a5a9e24c87886bfacc3af46c0b61d1b2",
+    "summary_one_sentence": "In a bleak dystopian future, a white-collar ex-con is forced into a deadly partnership with a sociopathic, terminally ill gangster via heart-implanted explosives.",
+    "summary_short": "In a dystopian society, the traditional parole system is replaced by R.A.P.P., pairing paroled convicts together with explosive charges surgically implanted in their hearts. A white-collar ex-con finds himself tethered to a sociopathic gangster with terminal cancer whose imminent death could trigger mutual destruction. To survive the extreme system, he must take drastic and dangerous measures before time runs out. Every move becomes a high-stakes gamble where one mistake guarantees summary execution for both.",
+    "summary_long": "In a grim dystopian future, the justice system replaces standard parole with the Recidivism Accountability Partnership Program (R.A.P.P.), a ruthless initiative designed to enforce compliance. Under this system, paroled convicts are paired together and surgically fitted with explosive charges in their hearts that detonate if either party steps out of line or dies. The story follows a mild-mannered white-collar ex-con trying to peacefully reintegrate into society while forced into this involuntary partnership. Tension skyrockets when he discovers his assigned partner is a ruthless, sociopathic gangster suffering from terminal cancer. Knowing that his partner's natural death will trigger his own instant execution, the ex-con is forced into an escalating struggle for self-preservation. Navigating a lethal web of gang violence, systemic corruption, and volatile personal conflict, he must find a way to manipulate the system and neutralize the threat. As mistrust and desperation build between the two mismatched men, every decision carries life-or-death consequences. Ultimately, he must take extreme, unthinkable measures to untether himself before his partner's ticking clock runs out completely.",
+    "synopsis": "Set in a harsh, speculative future where criminal justice has evolved into a brutal experiment, Shackled explores the lethal consequences of the Recidivism Accountability Partnership Program (R.A.P.P.). Under R.A.P.P., state-enforced probation links two former convicts together using heart-implanted explosive devices, ensuring that any violation or death results in immediate, double execution. When a white-collar offender attempting to rebuild his life is paired with an unhinged, terminally ill gangster, the tension becomes a pressure cooker of survival. Facing an inevitable countdown due to his partner's failing health, the ex-con must navigate psychological warfare, underworld threats, and an unyielding legal system in a desperate bid to survive.",
+    "keywords": [
+      "dystopian",
+      "forced partnership",
+      "explosive collar trope",
+      "white collar criminal",
+      "sociopath",
+      "terminal illness",
+      "summary execution",
+      "parole system",
+      "survival thriller",
+      "high stakes",
+      "reluctant allies",
+      "recidivism",
+      "criminal underworld",
+      "cyberpunk elements",
+      "deadly consequences"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Forced Coexistence & Interdependence",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Dystopian Control & Institutional Oppression",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Morality vs. Desperation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dystopian",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Desperate",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A catastrophic crisis forces the ex-con to directly confront his partner's chaotic choices and the brutal reality of the R.A.P.P. system, pushing their shared life line to its absolute breaking point.",
+      "conflict": "The protagonist must navigate daily survival alongside a volatile, sociopathic partner whose ruthless tendencies and declining health constantly threaten to trigger the automated summary execution mechanism for both of them.",
+      "resolution": "The intense ordeal reaches its conclusion, forever altering the protagonist's outlook on freedom, survival, and the dark cost of the state's total control mechanism.",
+      "introduction": "In a dystopian future, a non-violent ex-con enters the R.A.P.P. parole program and is forced to share a physical, life-or-death tether via implanted cardiac explosives with an unpredictable, terminally ill gangster.",
+      "risingAction": "As high-stakes criminal friction and escalating external threats push the mismatched pair into perilous situations, trust becomes impossible while mutual survival demands tight synchronization and extreme desperate measures."
+    },
+    "characters": [
+      {
+        "name": "White-Collar Ex-Con",
+        "role": "Hero",
+        "description": "The protagonist forced to navigate a deadly, dystopian parole program while fighting for his survival."
+      },
+      {
+        "name": "Sociopathic Gangster",
+        "role": "Anti Hero",
+        "description": "A terminally ill criminal paired with the protagonist, whose volatile behavior puts both of their lives in constant jeopardy."
+      },
+      {
+        "name": "System Administrators / Enforcers (R.A.P.P. Authority)",
+        "role": "Villain",
+        "description": "The dystopian authority enforcing lethal conditions via implanted explosive charges to eliminate reoffenders."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "White-Collar Ex-Con",
+        "target": "Sociopathic Gangster",
+        "description": "R.A.P.P. Tethered Partners"
+      },
+      {
+        "source": "White-Collar Ex-Con",
+        "target": "R.A.P.P. Parole System",
+        "description": "Enforced / Captive"
+      },
+      {
+        "source": "Sociopathic Gangster",
+        "target": "R.A.P.P. Parole System",
+        "description": "Enforced / Terminally Ill Captive"
+      }
+    ],
+    "seo": {
+      "slug": "shackled",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/shackled](https://movnix.com/movie/shackled)",
+        "name": "Shackled",
+        "@type": "Movie",
+        "genre": [
+          "Sci-Fi",
+          "Thriller",
+          "Crime"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In a dystopian future where the parole system has been replaced with R.A.P.P. - the Recidivism Accountability Partnership Program - a white collar ex-con must take drastic measures to ensure his survival when he's paired with a sociopathic gangster with terminal cancer. One wrong move by either of them could mean the summary execution of them both, via the explosive charges surgically implanted in their hearts as a condition of their release."
+      },
+      "keywords": [
+        "Shackled movie",
+        "dystopian thriller",
+        "RAPP parole movie",
+        "Shackled synopsis",
+        "sci-fi crime movie",
+        "Shackled 2026"
+      ],
+      "canonical": "[https://movnix.com/movie/shackled](https://movnix.com/movie/shackled)",
+      "metaTitle": "Shackled (2026) Movie - Synopsis, Cast & Dystopian Thriller Details",
+      "openGraph": {
+        "og:title": "Shackled - Official Movie Details & Synopsis",
+        "og:description": "Bound by explosive heart implants, a white-collar ex-con and a sociopathic gangster must survive each other under the dystopian R.A.P.P. program."
+      },
+      "twitterCard": {
+        "twitter:title": "Shackled - Sci-Fi Thriller Movie",
+        "twitter:description": "One wrong move means instant death. Explore the dystopian high-stakes thriller Shackled."
+      },
+      "metaDescription": "An ex-con and a sociopathic gangster are bound by explosive heart implants under R.A.P.P. in this high-stakes dystopian thriller, Shackled."
+    },
+    "faq": [
+      {
+        "answer": "Shackled is primarily a sci-fi action-thriller set in a dark, dystopian future.",
+        "question": "What is the dominant genre of Shackled?"
+      },
+      {
+        "answer": "The film follows a white-collar ex-con who is paired with a sociopathic, terminally ill gangster under a brutal futuristic parole program called R.A.P.P. They are bound together by surgically implanted explosive heart charges, meaning if either one steps out of line, both will be instantly executed.",
+        "question": "What is the main premise of Shackled?"
+      },
+      {
+        "answer": "No, Shackled is a standalone film with an original story.",
+        "question": "Is Shackled part of a franchise or an existing cinematic universe?"
+      },
+      {
+        "answer": "R.A.P.P. stands for the Recidivism Accountability Partnership Program, a high-stakes parole initiative that forces ex-convicts into mutually dependent pairs.",
+        "question": "What does R.A.P.P. stand for in the movie?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the end credits roll.",
+        "question": "Is there a post-credits scene in Shackled?"
+      },
+      {
+        "answer": "No, the movie contains high-stakes violence, intense thrill elements, and mature dystopian themes, making it intended for adult audiences.",
+        "question": "Is Shackled suitable for family viewing?"
+      },
+      {
+        "answer": "Because the two men's fates are tied via explosive heart implants, the gangster having a terminal illness creates immediate danger and a ticking clock for the ex-con, as the gangster has very little left to lose.",
+        "question": "Why is the gangster's terminal cancer a major plot point?"
+      },
+      {
+        "answer": "The film explores themes of survival, forced trust, institutional control, corrupt criminal justice systems, and human mortality.",
+        "question": "What are the core themes explored in the story?"
+      },
+      {
+        "answer": "Availability depends on your region, but it can typically be found on major streaming platforms and digital video-on-demand services.",
+        "question": "Where can I watch Shackled?"
+      },
+      {
+        "answer": "Fans of high-concept dystopian thrillers, buddy-cop/forced-partner tropes with a dark twist, and edge-of-your-seat survival action will likely enjoy it.",
+        "question": "Who would enjoy watching Shackled?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate body horror and suspense tied to surgically implanted explosives and constant threat of sudden death."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential mild to moderate strong language implied by dark crime and dystopian themes."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High thematic violence and threat of graphic violence, including summary execution via surgically implanted explosive charges and conflict involving a sociopathic gangster."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal substance references implied beyond the presence of a terminally ill main character."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity driven by high-stakes survival, constant psychological strain, and lethal consequences."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 0,
+      "science": 7,
+      "suspense": 10,
+      "violence": 8
+    },
+    "created_at": "2026-08-19 17:02:27.308112",
+    "updated_at": "2026-08-19 17:02:27.308112"
+  }
 }
