@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.4955,
+    "popularity": 2.7809,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/82772041",
@@ -143,11 +143,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -177,5 +191,207 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1738070/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1738070,
+    "hash": "3f485340869ad2be1104726fcfa0a6241064964dc21d053707128b50dbed212c",
+    "summary_one_sentence": "Comedian Kelsey Cook delivers a candid, sharp stand-up set unpacking everything from post-drinking 'hangxiety' to absurd dating blunders and horrific travel mishaps.",
+    "summary_short": "In her stand-up special Happy Hour, comedian Kelsey Cook takes the stage to offer an unvarnished, witty take on the chaotic realities of modern adulthood. She dives into relatable anxieties, including the dreaded 'hangxiety' that follows a night out, and breaks down the hilarious pitfalls of dating a literal Chad. With her trademark sharp delivery, Cook turns awkward personal experiences into laugh-out-loud relatable comedy. It's a clever, high-energy exploration of life's most cringe-worthy moments.",
+    "summary_long": "In Kelsey Cook: Happy Hour, comedian Kelsey Cook delivers a hilariously open and relatable stand-up performance that captures the messiness of adult life. Cook begins by diving into the world of modern social drinking, breaking down the all-too-familiar feeling of 'hangxiety' and the morning-after regret that comes with it. She transitions into unforgettable story-telling, detailing a horrific and humiliating nightmare experience inside an airplane bathroom during a flight. Moving beyond travel mishaps, Cook turns her sharp observational eye toward modern romance, recounting the absurdities and red flags of dating a man named Chad. Throughout the special, she balances laugh-out-loud punchlines with raw, self-deprecating honesty. Cook's witty insights extend to daily interactions, relationships, and the existential dread of navigating her thirties. Her crisp delivery and sharp timing keep the energy high as she turns personal embarrassment into universal comedy. Ultimately, Happy Hour offers a cathartic, side-splitting celebration of embracing life's inescapable chaos.",
+    "synopsis": "Kelsey Cook brings her candid, clever humor to the stage in the stand-up special Happy Hour. Blending sharp observational comedy with uninhibited story-telling, Cook explores the emotional hangover of 'hangxiety,' recounts a catastrophic airplane bathroom ordeal, and dissects the unique challenges of dating a literal Chad. Unflinchingly honest and consistently sharp, Cook crafts a lively and relatable performance that turns life's most embarrassing moments into premier comedy.",
+    "keywords": [
+      "stand-up comedy",
+      "female comedian",
+      "candid humor",
+      "dating humor",
+      "hangxiety",
+      "embarrassing stories",
+      "travel mishap",
+      "relationship tropes",
+      "observational comedy",
+      "millennial humor",
+      "self-deprecating",
+      "modern romance",
+      "personal anecdotes",
+      "clever wit"
+    ],
+    "themes": [
+      {
+        "theme": "Anxiety & Mental Health",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Modern Dating & Relationships",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Embarrassment & Awkward Experiences",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Self-Deprecation & Vulnerability",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Upbeat",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The emotional and comedic peak occurs during her break down of dating a literal 'Chad,' where the hilarity of superficial romantic dynamics culminates.",
+      "conflict": "The tension builds as she dives into the overwhelming experience of 'hangxiety' and the friction between expectations and real-life adulting.",
+      "resolution": "Cook wraps up the special by weaving these chaotic threads together, leaving the audience with a sharp, hilarious perspective on embracing life's messiest moments.",
+      "introduction": "Kelsey Cook sets the stage with candid, relatable humor, introducing her comedic style through observations on modern social anxieties and everyday awkwardness.",
+      "risingAction": "The narrative escalates through increasingly chaotic personal anecdotes, highlighted by a deeply uncomfortable and absurd plane bathroom nightmare."
+    },
+    "characters": [
+      {
+        "name": "Kelsey Cook",
+        "role": "Hero",
+        "description": "The central stand-up comedian and narrator who shares personal stories, candid experiences, and humorous observations."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Kelsey Cook",
+        "target": "Chad",
+        "description": "Ex-boyfriend / Dating Partner"
+      }
+    ],
+    "seo": {
+      "slug": "kelsey-cook-happy-hour",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/kelsey-cook-happy-hour](https://movnix.com/movie/kelsey-cook-happy-hour)",
+        "name": "Kelsey Cook: Happy Hour",
+        "@type": "Movie",
+        "actor": {
+          "name": "Kelsey Cook",
+          "@type": "Person"
+        },
+        "genre": [
+          "Comedy",
+          "Stand-up"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In this candid and clever stand-up special, Kelsey Cook explores hangxiety, relives a plane bathroom nightmare and breaks down dating a literal Chad."
+      },
+      "keywords": [
+        "Kelsey Cook",
+        "Kelsey Cook Happy Hour",
+        "Happy Hour stand up",
+        "Kelsey Cook comedy special",
+        "stand up comedy",
+        "hangxiety comedy special"
+      ],
+      "canonical": "[https://movnix.com/movie/kelsey-cook-happy-hour](https://movnix.com/movie/kelsey-cook-happy-hour)",
+      "metaTitle": "Kelsey Cook: Happy Hour - Stand-Up Comedy Special | Movnix",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/kelsey-cook-happy-hour](https://movnix.com/movie/kelsey-cook-happy-hour)",
+        "og:type": "video.movie",
+        "og:title": "Kelsey Cook: Happy Hour - Stand-Up Comedy Special",
+        "og:description": "In this candid and clever stand-up special, Kelsey Cook explores hangxiety, relives a plane bathroom nightmare and breaks down dating a literal Chad."
+      },
+      "twitterCard": {
+        "twitter:title": "Kelsey Cook: Happy Hour - Stand-Up Comedy Special",
+        "twitter:description": "In this candid and clever stand-up special, Kelsey Cook explores hangxiety, relives a plane bathroom nightmare and breaks down dating a literal Chad."
+      },
+      "metaDescription": "Watch Kelsey Cook: Happy Hour. Kelsey explores hangxiety, a plane bathroom nightmare, and dating a literal Chad in this candid comedy special."
+    },
+    "faq": [
+      {
+        "answer": "It is a stand-up comedy special where comedian Kelsey Cook candidly navigates topics like 'hangxiety,' an embarrassing plane bathroom incident, and the reality of dating someone named Chad.",
+        "question": "What is Kelsey Cook: Happy Hour about?"
+      },
+      {
+        "answer": "The dominant genre is Stand-Up Comedy.",
+        "question": "What is the dominant genre of Kelsey Cook: Happy Hour?"
+      },
+      {
+        "answer": "No, this is a standalone stand-up comedy special and not part of a narrative movie franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, stand-up comedy specials typically do not feature post-credits scenes, and the show concludes when the end credits finish rolling.",
+        "question": "Is there a post-credits scene in Kelsey Cook: Happy Hour?"
+      },
+      {
+        "answer": "The special stars comedian Kelsey Cook, who performs her live stand-up routine.",
+        "question": "Who stars in Kelsey Cook: Happy Hour?"
+      },
+      {
+        "answer": "Key topics include dealing with 'hangxiety' (hangover anxiety), surviving a nightmare situation in an airplane bathroom, and comical dating experiences with a 'literal Chad.'",
+        "question": "What main topics are covered in the special?"
+      },
+      {
+        "answer": "It is intended for adult audiences due to mature comedy themes, frank discussions on dating, and coarse language typical of live stand-up routines.",
+        "question": "Is Kelsey Cook: Happy Hour suitable for all ages?"
+      },
+      {
+        "answer": "It is presented in a traditional live stand-up special format filmed in front of a live audience.",
+        "question": "What format is Kelsey Cook: Happy Hour presented in?"
+      },
+      {
+        "answer": "It is available to stream on digital comedy networks and major video-on-demand streaming platforms.",
+        "question": "Where can I watch Kelsey Cook: Happy Hour?"
+      },
+      {
+        "answer": "While not based on a book, the material is based on Kelsey Cook's personal life experiences, real-world observations, and comedic story-telling.",
+        "question": "Is this special based on a book or true events?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely strong or profane language typical of adult stand-up comedy."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence described or implied."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate alcohol and hangover references ('hangxiety', 'Happy Hour')."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Mild to moderate sexual references and adult themes related to dating and relationships."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Low emotional intensity, framed in a humorous and candid stand-up format."
+      }
+    },
+    "movie_dna": {
+      "drama": 1,
+      "action": 0,
+      "comedy": 10,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 0,
+      "romance": 2,
+      "science": 0,
+      "suspense": 0,
+      "violence": 0
+    },
+    "created_at": "2026-08-19 22:03:38.359482",
+    "updated_at": "2026-08-19 22:03:38.359482"
+  }
 }
