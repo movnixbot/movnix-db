@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.4201,
-    "voteAverage": 6.3,
-    "voteCount": 19,
+    "popularity": 5.8792,
+    "voteAverage": 6.375,
+    "voteCount": 20,
     "homepage": "https://mock-movie-website.com/movies/1399525",
     "posterPath": "/baFW06cijsli2OFewKgEIFpuFc2.jpg",
     "backdropPath": "/eqbTtL7Ow6kqKYcCKkkH9CbSx6z.jpg",
@@ -450,13 +450,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 19
+      "ratingValue": 6.375,
+      "votesCount": 20
     },
     {
       "source": "imdb",
-      "ratingValue": 6.9,
-      "votesCount": 964
+      "ratingValue": 6.4,
+      "votesCount": 2295
     },
     {
       "source": "rotten_tomatoes",
@@ -654,7 +654,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [
