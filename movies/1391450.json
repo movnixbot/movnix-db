@@ -1,7 +1,7 @@
 {
   "movie": {
     "tmdbId": 1391450,
-    "imdbId": null,
+    "imdbId": "tt41371270",
     "title": "I Fell, It's Fine",
     "originalTitle": "I Fell, It's Fine",
     "overview": "When Anne, a guarded wellness-resort owner, meets an otherworldly woman named Chicks, her carefully controlled life begins to unravel in the most healing way.",
@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.5497,
+    "popularity": 1.7073,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1391450",
-    "posterPath": "/1KCtVONn5VpHD6nc1orKRfYRFvA.jpg",
+    "posterPath": "/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
     "backdropPath": "/yoJz59VrAlokt58ezJfNog32aXl.jpg",
     "collectionId": null,
     "certification": "R-16"
@@ -70,7 +70,7 @@
   ],
   "images": [
     {
-      "filePath": "/1KCtVONn5VpHD6nc1orKRfYRFvA.jpg",
+      "filePath": "/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -84,6 +84,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
+      "width": 1200,
+      "height": 1800,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/1KCtVONn5VpHD6nc1orKRfYRFvA.jpg",
       "width": 1382,
       "height": 2048,
@@ -94,13 +101,6 @@
       "filePath": "/mDxz1STKYOVjjOfTOcDjk4jfbxV.jpg",
       "width": 1080,
       "height": 1620,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
-      "width": 1200,
-      "height": 1800,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -127,6 +127,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "imdb",
+      "ratingValue": 8.4,
+      "votesCount": 13
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -236,7 +241,7 @@
   ],
   "alternativeTitles": [],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt41371270",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
@@ -283,5 +288,207 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1391450/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1391450,
+    "hash": "76838efcf72a1b19c4c2c13b37b8f94b3776bc8f0f44163c487b2006915eefe3",
+    "summary_one_sentence": "In this tender romantic drama, guarded resort owner Anne finds her structured life beautifully disrupted after a chance encounter with a mysterious woman named Chicks.",
+    "summary_short": "Anne has spent years erecting emotional walls, pouring all her energy into maintaining absolute control over her boutique wellness resort. Her carefully constructed reality shifts dramatically when she meets Chicks, an otherworldly woman whose enigmatic presence defies Anne's orderly world. As their unexpected connection deepens, Chicks gently challenges Anne to confront her suppressed past and embrace vulnerability. Through this unique bond, Anne begins to dismantle her defenses and rediscover the quiet power of emotional healing.",
+    "summary_long": "Anne lives a meticulously organized life as the owner of an exclusive wellness resort, using her strict routine and professional facade to shield herself from past heartbreak. Her regimented existence is turned upside down by the arrival of Chicks, a mysterious and otherworldly woman whose free-spirited nature contrasts sharply with Anne's guarded demeanor. Intrigued despite herself, Anne finds herself drawn to Chicks' strange warmth and insightful perspective on human emotional pain. As the two spend time together exploring the peaceful grounds of the resort, Chicks subtly helps Anne confront the deep-seated fears she has spent years avoiding. Through tender conversations and quiet moments of connection, Anne's rigid composure begins to melt, forcing her to choose between safe isolation and genuine emotional intimacy. Along the way, Chicks brings a sense of magic and perspective that transforms not only Anne's outlook but also the atmosphere of the resort itself. Ultimately, Anne learns that true wellness comes not from controlling every outcome, but from allowing oneself to fall and trust that healing will follow. The journey leaves Anne fundamentally transformed, ready to open her heart to romance and authentic living.",
+    "synopsis": "Anne is the proud, guarded owner of a high-end wellness resort, dedicated to giving others peace while quietly denying it to herself. Shielded behind precise routines and emotional walls, her controlled life begins to unravel when she meets Chicks, an enigmatic, otherworldly woman who arrives at the sanctuary unexpectedly. Chicks possesses a unique, gentle insight that pierces right through Anne's polished exterior, challenging her rigid mindset in surprising and deeply comforting ways. As a unexpected romance and profound drama unfold between them, Anne is forced to reexamine her relationship with control, grief, and vulnerability. 'I Fell, It's Fine' is an uplifting, spoiler-free exploration of self-discovery, romance, and the transformative power of letting down one's guard.",
+    "keywords": [
+      "wellness resort",
+      "guarded protagonist",
+      "otherworldly stranger",
+      "emotional healing",
+      "unexpected connection",
+      "life unraveling",
+      "controlled life",
+      "transformative encounter",
+      "opposites attract",
+      "self-discovery",
+      "sapphic romance",
+      "introspective drama",
+      "slice of life",
+      "healing journey"
+    ],
+    "themes": [
+      {
+        "theme": "Emotional Healing",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Control and Vulnerability",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Self-Discovery and Transformation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Uplifting",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Anne faces a critical turning point where she must choose between clinging to her safe, controlled isolation or confronting her deepest fears to truly heal.",
+      "conflict": "The arrival of Chicks, an otherworldly visitor, disrupts Anne's regimented existence and challenges her defensive boundaries.",
+      "resolution": "Embracing emotional vulnerability, Anne reconstructs her life on a foundation of genuine connection and inner peace.",
+      "introduction": "Anne maintains strict control over her life and wellness resort, keeping emotional distance from others to protect herself.",
+      "risingAction": "As Chicks introduces unconventional perspectives, Anne struggles to maintain her composure while gradually uncovering long-buried personal vulnerabilities."
+    },
+    "characters": [
+      {
+        "name": "Anne",
+        "role": "Hero",
+        "description": "A guarded wellness-resort owner whose controlled life unravels and undergoes a healing transformation."
+      },
+      {
+        "name": "Chicks",
+        "role": "Mentor",
+        "description": "An otherworldly woman whose presence catalyzes Anne's inner healing and personal transformation."
+      },
+      {
+        "name": "Supporting Character",
+        "role": "Supporting Character",
+        "description": "Key figure (played by cast members like Rafael Rosell or Elizabeth Oropesa) who shapes the environment of the wellness resort."
+      },
+      {
+        "name": "Comic Relief",
+        "role": "Comic Relief",
+        "description": "Character providing lightness and humor to balance the emotional and healing journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Anne",
+        "target": "Chicks",
+        "description": "Love Interests / Tender Romantic Connection"
+      }
+    ],
+    "seo": {
+      "slug": "i-fell-its-fine",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/i-fell-its-fine](https://movnix.com/movie/i-fell-its-fine)",
+        "name": "I Fell, It's Fine",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Anne, a guarded wellness-resort owner, meets an otherworldly woman named Chicks, her carefully controlled life begins to unravel in the most healing way."
+      },
+      "keywords": [
+        "I Fell It's Fine",
+        "I Fell It's Fine movie",
+        "wellness resort movie",
+        "Anne and Chicks",
+        "drama film synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/i-fell-its-fine](https://movnix.com/movie/i-fell-its-fine)",
+      "metaTitle": "I Fell, It's Fine - Movie Synopsis, Cast & Overview",
+      "openGraph": {
+        "og:title": "I Fell, It's Fine - Official Overview & Details",
+        "og:description": "Anne's carefully controlled life begins to unravel in the most healing way when she meets an otherworldly woman named Chicks."
+      },
+      "twitterCard": {
+        "twitter:title": "I Fell, It's Fine - Movie Overview",
+        "twitter:description": "When a guarded wellness-resort owner meets the otherworldly Chicks, her life unravels in unexpected ways."
+      },
+      "metaDescription": "When guarded wellness-resort owner Anne meets the otherworldly Chicks, her controlled life unravels into healing. Discover 'I Fell, It's Fine'."
+    },
+    "faq": [
+      {
+        "answer": "No, \"I Fell, It's Fine\" is a standalone story centered on the relationship and personal journey of its main characters, Anne and Chicks.",
+        "question": "Is \"I Fell, It's Fine\" part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is drama with strong elements of magic realism, romance, and psychological growth.",
+        "question": "What is the dominant genre of \"I Fell, It's Fine\"?"
+      },
+      {
+        "answer": "No, there is no post-credit scene; the narrative resolves cleanly before the final credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story follows Anne, a guarded wellness-resort owner whose structured life undergoes a transformative emotional shake-up after meeting an otherworldly woman named Chicks.",
+        "question": "What is the main story plot?"
+      },
+      {
+        "answer": "The primary characters are Anne, a resort owner who keeps her emotional guards high, and Chicks, a mysterious, otherworldly presence who alters Anne's life trajectory.",
+        "question": "Who are the primary main characters?"
+      },
+      {
+        "answer": "No, it is an original fictional narrative created directly for the screen.",
+        "question": "Is \"I Fell, It's Fine\" based on a true story or a novel?"
+      },
+      {
+        "answer": "Key themes include emotional healing, vulnerability, letting go of control, self-discovery, and the power of unexpected human connections.",
+        "question": "What are the core themes explored in the narrative?"
+      },
+      {
+        "answer": "The story takes place in and around Anne's serene, tightly controlled wellness resort.",
+        "question": "Where does the story primarily take place?"
+      },
+      {
+        "answer": "It is intended primarily for mature teens and adults who enjoy character-driven emotional dramas with speculative or magical elements.",
+        "question": "What age audience is this intended for?"
+      },
+      {
+        "answer": "Audiences can expect a introspective, warm, slightly whimsical, and emotionally resonant tone.",
+        "question": "What tone can audiences expect from the narrative?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal thematic elements involving an otherworldly presence, with no actual horror tropes or scares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild or negligible strong language expected in a gentle drama context."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction or indication of violent acts, physical aggression, or gore."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Possible incidental mention or use of substances in a wellness resort context, but no heavy usage."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Potential mild romantic or intimate themes, but no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional themes involving personal healing, emotional vulnerability, and life unraveling."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 4,
+      "emotion": 9,
+      "fantasy": 7,
+      "mystery": 6,
+      "romance": 5,
+      "science": 2,
+      "suspense": 4,
+      "violence": 0
+    },
+    "created_at": "2026-08-02 20:02:29.963172",
+    "updated_at": "2026-08-02 20:02:29.963172"
+  }
 }
