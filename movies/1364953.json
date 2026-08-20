@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.2237,
-    "voteAverage": 6.308,
-    "voteCount": 26,
+    "popularity": 5.0212,
+    "voteAverage": 6.188,
+    "voteCount": 32,
     "homepage": "https://mock-movie-website.com/movies/1364953",
     "posterPath": "/a2grH0utOOUIVA6YydwvAZdHvru.jpg",
     "backdropPath": "/c4w0cHapoKndfq4fXnDoUyW90Xd.jpg",
@@ -150,13 +150,6 @@
       "width": 503,
       "height": 750,
       "aspectRatio": 0.671,
-      "type": "poster"
-    },
-    {
-      "filePath": "/ijkf0abx101Ll5ey1AE2QOV26fe.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -303,8 +296,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.308,
-      "votesCount": 26
+      "ratingValue": 6.188,
+      "votesCount": 32
     },
     {
       "source": "imdb",
@@ -446,8 +439,8 @@
     },
     {
       "tmdbPersonId": 1613804,
-      "name": "Toa Stappard",
-      "profilePath": null,
+      "name": "Taratoa Stappard",
+      "profilePath": "/r23PzY65977Fw1g5khjJMNi4WSC.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
@@ -455,8 +448,8 @@
     },
     {
       "tmdbPersonId": 1613804,
-      "name": "Toa Stappard",
-      "profilePath": null,
+      "name": "Taratoa Stappard",
+      "profilePath": "/r23PzY65977Fw1g5khjJMNi4WSC.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -556,5 +549,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1364953/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1364953,
+    "hash": "74eed9abbd2965119b51fbb2dbe4ba1b1c8b0286e6e80d0684b1841d37ed814f",
+    "summary_one_sentence": "In 1859, a young Māori woman travels to North Yorkshire, where she uncovers her family's tragic connection to a ruthless English aristocrat and sets out to destroy him.",
+    "summary_short": "Summoned from New Zealand to a dark estate in 1859 North Yorkshire, a young Māori woman arrives expecting answers about her past. Instead, she uncovers the horrifying colonial atrocity that shattered her ancestral family. Driven by justice and survival, she is compelled to confront and dismantle the titled Englishman responsible for her lineage's devastation.",
+    "summary_long": "Set in 1859, Mārama follows a young Māori woman who leaves her home in New Zealand after receiving a mysterious summons to North Yorkshire. Upon arriving at a gloomy English estate, she finds herself isolated in a cold, unfamiliar land steeped in secrets. As she navigates her new surroundings, strange occurrences and sinister revelations begin to surface. She gradually unearths the horrifying truth behind her family's heritage and the painful legacy of British colonial violence. Central to this trauma is a high-ranking English aristocrat whose past actions brought ruin and heartbreak to her ancestors. The realization transforms her journey from a search for identity into a desperate struggle for retribution. Haunted by her people's history, she gathers the strength to challenge the oppressive power dynamics of the era. Ultimately, she decides to face the titled nobleman directly, determined to destroy the source of her family's anguish once and for all.",
+    "synopsis": "Set against the stark backdrop of 1859, Mārama bridges the worlds of 19th-century New Zealand and Victorian North Yorkshire in a haunting tale of identity, colonial trauma, and vengeance. When a young Māori woman is unexpectedly summoned to a remote English manor, she embarks on a journey that exposes deep-seated secrets and supernatural undertones. Far from home, she unravels a grim history connecting her ancestors to a powerful British lord whose devastating influence spans oceans. Blending gothic horror, rich drama, and gripping mystery, the narrative follows her atmospheric journey as she confronts the brutal realities of her family's past and stands against the man who sought to erase them.",
+    "keywords": [
+      "colonial horror",
+      "revenge plot",
+      "19th century",
+      "Māori protagonist",
+      "Victorian era",
+      "North Yorkshire",
+      "family secrets",
+      "gothic mystery",
+      "dark family heritage",
+      "indigenous identity",
+      "aristocratic villain",
+      "colonial exploitation",
+      "historical horror"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Colonialism",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Justice",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension culminates in a direct, high-stakes confrontation between her and the oppressive aristocrat, where she seeks to dismantle his influence and avenge her family.",
+      "conflict": "As she settles into the English countryside, she discovers disturbing truths about her horrific colonial heritage and the sinister history connecting her lineage to the estate's lord.",
+      "resolution": "In the aftermath of the confrontation, the immediate threat is brought to an end, allowing her to process her traumatic discoveries and reclaim her identity and future.",
+      "introduction": "In 1859, a young Māori woman leaves New Zealand after being summoned to a remote estate in North Yorkshire, stepping into an unfamiliar world tied to her family's past.",
+      "risingAction": "Uncovering the extent of the harm done to her family, she navigates treacherous social dynamics and growing danger as she plots to hold the titled Englishman accountable."
+    },
+    "characters": [
+      {
+        "name": "Mārama",
+        "role": "Hero",
+        "description": "The young Māori protagonist who travels to England to uncover her colonial heritage and seek justice for her family."
+      },
+      {
+        "name": "The Titled Englishman",
+        "role": "Villain",
+        "description": "The tyrannical English aristocrat who devastated Mārama's family and embodies the horrific colonial heritage she must destroy."
+      },
+      {
+        "name": "Ariāna Osborne",
+        "role": "Supporting Character",
+        "description": "A key cast member involved in Mārama's journey through North Yorkshire."
+      },
+      {
+        "name": "Toby Stephens",
+        "role": "Supporting Character",
+        "description": "A central figure within the Victorian English setting tied to the estate and colonial intrigue."
+      },
+      {
+        "name": "Umi Myers",
+        "role": "Supporting Character",
+        "description": "A member of the cast contributing to the dramatic narrative and character dynamics."
+      },
+      {
+        "name": "Erroll Shand",
+        "role": "Supporting Character",
+        "description": "A dramatic actor portraying a key figure involved in the conflict between New Zealand and England."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mary Stevens / Mārama",
+        "target": "Sir Nathaniel Cole",
+        "description": "Enemies / Governess and Master / Family's Colonial Exploiter"
+      },
+      {
+        "source": "Sir Nathaniel Cole",
+        "target": "Arthur Cole",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Arthur Cole",
+        "target": "Anne / Anahera",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Sir Nathaniel Cole",
+        "target": "Anne / Anahera",
+        "description": "Grandfather/Granddaughter"
+      },
+      {
+        "source": "Mary Stevens / Mārama",
+        "target": "Anne / Anahera",
+        "description": "Governess/Student"
+      },
+      {
+        "source": "Mary Stevens / Mārama",
+        "target": "Peggy",
+        "description": "Allies / Romantic Interest"
+      },
+      {
+        "source": "Sir Nathaniel Cole",
+        "target": "Jack Fenton",
+        "description": "Master/Servant"
+      },
+      {
+        "source": "Mary Stevens / Mārama",
+        "target": "Thomas Boyd",
+        "description": "Correspondent / Catalyst for Journey"
+      }
+    ],
+    "seo": {
+      "slug": "marama",
+      "jsonLd": {
+        "name": "Mārama",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Historical",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "dateCreated": "1859",
+        "description": "1859. When a young Māori woman is summoned from New Zealand to North Yorkshire, she uncovers her horrific colonial heritage and is compelled to confront and destroy the titled Englishman who devastated her family."
+      },
+      "keywords": [
+        "Marama movie",
+        "Marama 1859",
+        "Maori cinema",
+        "colonial drama",
+        "historical thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/marama](https://movnix.com/movie/marama)",
+      "metaTitle": "Mārama (1859) - Story, Synopsis & Details",
+      "openGraph": {
+        "og:title": "Mārama - Official Movie Synopsis & Details",
+        "og:description": "A young Māori woman travels to North Yorkshire in 1859 to confront a horrific colonial past and fight for justice."
+      },
+      "twitterCard": {
+        "twitter:title": "Mārama - Movie Overview",
+        "twitter:description": "1859: A Māori woman's quest for justice brings her face-to-face with a dark colonial legacy in North Yorkshire."
+      },
+      "metaDescription": "Summoned to North Yorkshire in 1859, a young Māori woman uncovers her tragic colonial heritage and confronts the man who destroyed her family."
+    },
+    "faq": [
+      {
+        "answer": "Mārama is primarily a Māori gothic horror film, blending historical drama, psychological horror, and revenge thriller elements.",
+        "question": "What is the dominant genre of Mārama?"
+      },
+      {
+        "answer": "No, Mārama is a standalone original film, though writer-director Taratoa Stappard conceived it as the first in a planned trilogy of Māori gothic horror stories exploring colonial retribution.",
+        "question": "Is Mārama part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene in Mārama.",
+        "question": "Is there a post-credit scene in Mārama?"
+      },
+      {
+        "answer": "The story takes place in 1859, following a journey from Aotearoa New Zealand to a remote estate in North Yorkshire, England, during the Victorian era.",
+        "question": "When and where is Mārama set?"
+      },
+      {
+        "answer": "The film stars Ariāna Osborne as the lead protagonist, Mary Stevens (Mārama), alongside Toby Stephens as Sir Nathaniel Cole, Umi Myers, and Erroll Shand.",
+        "question": "Who stars in Mārama?"
+      },
+      {
+        "answer": "Mārama was written and directed by Māori filmmaker Taratoa Stappard as his debut feature film.",
+        "question": "Who wrote and directed Mārama?"
+      },
+      {
+        "answer": "The film is spoken in both English and Te Reo Māori.",
+        "question": "What languages are spoken in Mārama?"
+      },
+      {
+        "answer": "Mārama is a fictional story, but it is deeply rooted in the real-world history and trauma of British colonial expansion in New Zealand during the 19th century.",
+        "question": "Is Mārama based on a true story?"
+      },
+      {
+        "answer": "The film follows a young Māori woman summoned to England under false pretenses who uncovers dark colonial secrets tied to her family's stolen heritage and seeks vengeance against the ruthless Englishman responsible.",
+        "question": "What is the central plot of Mārama?"
+      },
+      {
+        "answer": "In Te Reo Māori, Mārama translates to 'light,' 'understanding,' or 'clarity,' representing the protagonist's real name and her journey toward uncovering the truth of her past.",
+        "question": "What does the title Mārama mean?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Gothic horror elements tied to unsettling family secrets and disturbing historical discoveries."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate period-typical strong language during intense conflicts."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Themes of physical confrontation, revenge, and historical colonial devastation."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional period-typical references to alcohol or tobacco."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by heavy themes of colonial trauma, grief, oppression, and revenge."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 1,
+      "mystery": 8,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-07-27 23:45:49.926485",
+    "updated_at": "2026-07-27 23:45:49.926485"
+  }
 }
