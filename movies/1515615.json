@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 10.846,
-    "voteAverage": 7.282,
-    "voteCount": 55,
+    "popularity": 9.3813,
+    "voteAverage": 7.2,
+    "voteCount": 61,
     "homepage": "https://tubitv.com/movies/100050541/kissing-is-the-easy-part",
     "posterPath": "/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
     "backdropPath": "/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
@@ -102,6 +102,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/1kuUHuFiCIXGdZUfrFobiYulycU.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/grQidk5bRir3VFg4ocUS7f1z9gr.jpg",
       "width": 1913,
       "height": 2870,
@@ -187,6 +194,13 @@
     },
     {
       "filePath": "/qmLFYcm6MFp02IIF5Qn6FuoPnKd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yztYRGaObp3w4coUmvCYzxEvoWn.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -350,8 +364,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.282,
-      "votesCount": 55
+      "ratingValue": 7.2,
+      "votesCount": 61
     },
     {
       "source": "imdb",
@@ -528,7 +542,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "RU",
+      "title": "Поцелуй - это самое простое",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt36935050",
     "wikidataId": null,
@@ -572,5 +592,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1515615/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1515615,
+    "hash": "744eec8370f5f05289e8fc7f36538305bd89a6f4b65e5b889cbc123fdd8974ea",
+    "summary_one_sentence": "When ambitious MIT hopeful Sean strikes a secret deal with the tenured parents of free-spirited Flora, an unexpected romance emerges that forces both teenagers to reevaluate their futures.",
+    "summary_short": "Sean is a high-achieving student laser-focused on earning a spot at MIT, while Flora is a rebel planning to skip the SATs entirely. In an attempt to keep Flora on an academic track, her tenured professor parents strike a secret deal with Sean to influence her. As the two spend more time together, their initial friction transforms into a genuine romantic connection that forces them to question everything they believe in.",
+    "summary_long": "Driven by intense ambition, Sean has mapped out his entire future around getting accepted into MIT, viewing academic perfection as his only path to success. Flora, on the other hand, rejects the hyper-competitive academic pressure imposed by her tenured professor parents and plans to ditch the SATs entirely. Desperate to ensure their daughter stays on a traditional track, Flora's parents secretly enlist Sean to motivate her under the guise of peer support. What begins as a transactional agreement quickly becomes complicated as Sean and Flora discover a deep, mutual connection beneath their contrasting worldviews. Through their growing intimacy, Flora learns to articulate her authentic desires, while Sean realizes that life extends far beyond test scores and institutional prestige. Their blossoming romance challenges their core beliefs about success, obligation, and family expectations. However, the hidden arrangement constantly threatens to unravel the trust they have built between them. Ultimately, both teenagers must navigate the fallout of secrets and decide what true success means on their own terms.",
+    "synopsis": "Kissing Is the Easy Part is a romantic comedy-drama that explores the collision of high academic expectations, youth rebellion, and genuine connection. The story follows Sean, a disciplined high school senior whose ultimate dream is admission to MIT, and Flora, an independent thinker who resists her family's academic legacy by refusing to take the SATs. Caught between her desire for freedom and her tenured parents' vision for her future, Flora becomes the center of a secret deal between her parents and Sean. As Sean balances his ambition with his growing affection for Flora, both teenagers navigate the delicate boundaries between parental pressure, personal identity, and young love.",
+    "keywords": [
+      "high school romance",
+      "academic pressure",
+      "opposites attract",
+      "secret deal",
+      "coming of age",
+      "college admissions",
+      "ambition vs rebellion",
+      "teen drama",
+      "romantic comedy",
+      "parental expectations",
+      "overachiever vs slacker",
+      "first love",
+      "challenging beliefs"
+    ],
+    "themes": [
+      {
+        "theme": "Academic Pressure & Ambition",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Parental & Societal Expectations",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Romance & Identity",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Secrets & Deception",
+        "confidence": 0.84
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Romantic",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Drama",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The truth behind their arrangement and the friction between their divergent paths reach a high-stakes breaking point, forcing both to make a decisive choice.",
+      "conflict": "Sean enters into a secret arrangement with Flora's tenured parents, tying his future goals directly to her, despite their initial clash in values.",
+      "resolution": "In the aftermath of the confrontation, Sean and Flora confront their true desires, redefining what happiness and their futures look like beyond expectations.",
+      "introduction": "Driven MIT-hopeful Sean and academic-rebel Flora navigate high-stakes high school life with completely opposing priorities.",
+      "risingAction": "As they carry out their deal, a genuine romantic connection blossoms, complicating their motivations and challenging what each believes about success, pressure, and romance."
+    },
+    "characters": [
+      {
+        "name": "Sean",
+        "role": "Hero",
+        "description": "An ambitious student focused on getting into MIT whose life and worldview are turned upside down after making a secret deal with Flora's parents."
+      },
+      {
+        "name": "Flora",
+        "role": "Hero",
+        "description": "A rebellious student who rejects academic pressure and SATs, becoming Sean's romantic interest and pushing him to challenge his priorities."
+      },
+      {
+        "name": "Flora's Parents",
+        "role": "Mentor",
+        "description": "Tenured academics who initiate the secret deal with Sean to influence Flora, serving as catalyst figures in the story."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sean",
+        "target": "Flora",
+        "description": "Love Interests / Romantic Partners"
+      },
+      {
+        "source": "Flora",
+        "target": "Flora's Parents",
+        "description": "Daughter / Tenured Parents"
+      },
+      {
+        "source": "Sean",
+        "target": "Flora's Parents",
+        "description": "Secret Deal Partners / Co-conspirators"
+      }
+    ],
+    "seo": {
+      "slug": "kissing-is-the-easy-part",
+      "jsonLd": {
+        "name": "Kissing Is the Easy Part",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in."
+      },
+      "keywords": [
+        "Kissing Is the Easy Part",
+        "Kissing Is the Easy Part movie",
+        "romantic drama",
+        "Kissing Is the Easy Part synopsis",
+        "Kissing Is the Easy Part cast"
+      ],
+      "canonical": "[https://movnix.com/movie/kissing-is-the-easy-part](https://movnix.com/movie/kissing-is-the-easy-part)",
+      "metaTitle": "Kissing Is the Easy Part - Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Kissing Is the Easy Part - Movie Synopsis & Details",
+        "og:description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal sparks an unexpected romance that challenges everything they believe in."
+      },
+      "twitterCard": {
+        "twitter:title": "Kissing Is the Easy Part - Movie Synopsis & Details",
+        "twitter:description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal sparks an unexpected romance that challenges everything they believe in."
+      },
+      "metaDescription": "Sean targets MIT while Flora skips the SAT. A secret deal sparks an unexpected romance. Read the full synopsis and movie details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is young adult romantic comedy and drama.",
+        "question": "What is the dominant genre of Kissing Is the Easy Part?"
+      },
+      {
+        "answer": "No, it is a standalone movie and not part of an ongoing franchise.",
+        "question": "Is Kissing Is the Easy Part part of a film franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes at the end of the film.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "Yes, it is adapted from the popular Wattpad romance novel of the same name by Christine Duann.",
+        "question": "Is Kissing Is the Easy Part based on a book or original story?"
+      },
+      {
+        "answer": "Asher Angel stars as Sean and Paris Berelc stars as Flora.",
+        "question": "Who are the lead actors starring as Sean and Flora?"
+      },
+      {
+        "answer": "Sean agrees to tutor Flora in exchange for a university recommendation letter from her tenured parents, leading to an unexpected romance between the two opposites.",
+        "question": "What is the primary setup for the romance between the lead characters?"
+      },
+      {
+        "answer": "It is targeted primarily at young adults, teenagers, and fans of coming-of-age romantic comedies.",
+        "question": "What target audience is Kissing Is the Easy Part intended for?"
+      },
+      {
+        "answer": "The film explores themes of academic pressure, personal expectations, young love, and stepping out of one's comfort zone.",
+        "question": "What are the key themes explored in the story?"
+      },
+      {
+        "answer": "The movie has a breezy, lighthearted, and sweet tone that delivers classic opposites-attract romantic comedy tropes.",
+        "question": "What tone can viewers expect from the movie?"
+      },
+      {
+        "answer": "The film is available on popular digital and streaming platforms such as Tubi and Prime Video.",
+        "question": "Where is Kissing Is the Easy Part available to stream?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror or frightening elements are present."
+      },
+      "language": {
+        "score": 1,
+        "description": "Likely contains minimal or mild profanity typical of contemporary young adult drama."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence or aggressive behavior is indicated in the premise."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or drug references indicated."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic themes, focus on kissing, and teenage relationship dynamics."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional intensity focused on academic pressure, secret deals, and relationship challenges."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 5,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 9,
+      "science": 3,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-01 21:02:32.280872",
+    "updated_at": "2026-08-01 21:02:32.280872"
+  }
 }
