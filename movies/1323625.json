@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.9523,
+    "popularity": 5.7006,
     "voteAverage": 5.017,
     "voteCount": 87,
     "homepage": "https://mock-movie-website.com/movies/1323625",
@@ -444,12 +444,30 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 3893,
-      "name": "David S. Goyer",
-      "profilePath": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg",
+      "tmdbPersonId": 1833217,
+      "name": "Ryan Prows",
+      "profilePath": "/gzs4WsGaneTX11MFGsVkgEs3jp5.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2125797,
+      "name": "Keith Levine",
+      "profilePath": "/s1Hw6zv701OzrVXDPCl27nuwnMO.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1833217,
+      "name": "Ryan Prows",
+      "profilePath": "/gzs4WsGaneTX11MFGsVkgEs3jp5.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -459,15 +477,6 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1833217,
-      "name": "Ryan Prows",
-      "profilePath": "/gzs4WsGaneTX11MFGsVkgEs3jp5.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -489,18 +498,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1833217,
-      "name": "Ryan Prows",
-      "profilePath": "/gzs4WsGaneTX11MFGsVkgEs3jp5.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2125797,
-      "name": "Keith Levine",
-      "profilePath": "/s1Hw6zv701OzrVXDPCl27nuwnMO.jpg",
+      "tmdbPersonId": 3893,
+      "name": "David S. Goyer",
+      "profilePath": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -563,7 +563,7 @@
           "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
         },
         {
-          "name": "AMC Plus Apple TV Channel ",
+          "name": "AMC Plus Apple TV channel",
           "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
         },
         {
@@ -583,7 +583,7 @@
           "logo": "/qb6Lj5BhNJavdmRVDzAqAjd4Tj3.jpg"
         },
         {
-          "name": "Shudder Apple TV Channel",
+          "name": "Shudder Apple TV channel",
           "logo": "/kLfq0I2MwiUFUY9yI1GwOeKxX8f.jpg"
         }
       ],
