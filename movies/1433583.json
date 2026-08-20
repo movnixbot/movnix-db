@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.666,
+    "popularity": 2.911,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.vert-ent.com/library/the-weight",
@@ -56,6 +56,18 @@
       "name": "Augenschein Filmproduktion",
       "logoPath": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
       "originCountry": "DE"
+    },
+    {
+      "tmdbId": 209127,
+      "name": "Logical Content Ventures",
+      "logoPath": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png",
+      "originCountry": "FR"
+    },
+    {
+      "tmdbId": 44225,
+      "name": "Construction Film",
+      "logoPath": "/faD1loVvInTAOnwWpqNPRXe3Itj.png",
+      "originCountry": "DE"
     }
   ],
   "keywords": [],
@@ -95,6 +107,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
+      "width": 1170,
+      "height": 1560,
+      "aspectRatio": 0.75,
       "type": "poster"
     },
     {
@@ -168,6 +187,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/tfJJy9Lvzyo18GfVdrm27kaqlID.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
       "width": 2560,
       "height": 1440,
@@ -187,6 +213,27 @@
       "height": 900,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/doKGNHnbawL8bsIAfkZH6AA2To3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wnn2jKXfBGOZmCxW78PGSr4WfjQ.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -200,7 +247,7 @@
     {
       "tmdbPersonId": 569,
       "name": "Ethan Hawke",
-      "profilePath": "/oojD9jSshvUT4t6AUySsBxoekHk.jpg",
+      "profilePath": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg",
       "character": "Samuel Murphy",
       "job": "Actor",
       "department": "Acting",
@@ -351,15 +398,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 21808,
-      "name": "Matthew Chapman",
-      "profilePath": null,
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 3899896,
       "name": "Matthew Booi",
       "profilePath": null,
@@ -458,5 +496,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1433583/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1433583,
+    "hash": "671107577f5622313c8e80467579896785ddc538e6ab28069ab2044089fda64a",
+    "summary_one_sentence": "To earn his freedom and reunite with his daughter, a imprisoned man named Samuel accepts a Warden's dangerous deal to smuggle gold out of a remote mine alongside a volatile crew of fellow convicts.",
+    "summary_short": "After being ripped away from his daughter and thrown into a brutal prison, Samuel finds himself trapped in a desperate situation. Opportunity strikes when the corrupt Warden Clancy presents him with a risky proposal: join a squad of dangerous inmates to smuggle gold out of a isolated, harsh mining camp. If Samuel succeeds, he wins his freedom, but navigating the treacherous wilderness and his untrustworthy crew proves just as lethal as his sentence. Samuel must rely on his wits and endurance to survive the perilous trek and finally make it back to his child.",
+    "summary_long": "Samuel's life is shattered when he is unjustly torn from his young daughter and sent to serve time in a notoriously brutal prison facility. Desperate to return home, his hopes rest entirely on Warden Clancy, a shrewd official who controls the inmates' fates. Clancy offers Samuel an extraordinary deal: lead a high-stakes smuggling operation to covertly extract gold from a remote and heavily guarded mining site. To accomplish this deadly mission, Samuel is paired with a volatile crew of seasoned criminals, none of whom can be trusted. As the team ventures into harsh, unforgiving terrain, tensions rise quickly over greed, power, and survival. Samuel must constantly outmaneuver both environmental hazards and the deadly instincts of his fellow convicts. Every step of the journey brings immense physical and psychological strain, testing how far he is willing to go for his liberty. Warden Clancy's true motives remain ambiguous, leaving Samuel to wonder if freedom is ever genuinely within reach. Ultimately, Samuel must use every ounce of resourcefulness to survive the deadly expedition and secure his return to his daughter.",
+    "synopsis": "The Weight is a tense dramatic thriller centered on Samuel, a devoted father unexpectedly ripped from his home and incarcerated in a ruthless prison. Desperate to reunite with his daughter, Samuel is forced to consider an illicit proposal from Warden Clancy: smuggle gold out of a hazardous, remote mining camp in exchange for full pardon and freedom. To pull off the heist, Samuel is forced into an uneasy alliance with a crew of hardened criminals, each with their own selfish motives. As the party embarks on a dangerous trek through unforgiving landscapes, internal betrayal and external threats threaten to derail the mission at every turn. Samuel must navigate the dangerous dynamic of his crew while striving to stay alive against overwhelming odds.",
+    "keywords": [
+      "father daughter relationship",
+      "brutal prison",
+      "corrupt warden",
+      "high stakes deal",
+      "gold smuggling",
+      "remote mine setting",
+      "dangerous crew",
+      "promise of freedom",
+      "forced labor",
+      "desperate father",
+      "gold heist",
+      "reluctant criminal",
+      "survival thriller",
+      "betrayal",
+      "prison survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Freedom",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "During the height of the extraction attempt, hidden motives come to light, forcing Samuel into a desperate physical and moral confrontation where the cost of freedom becomes painfully clear.",
+      "conflict": "Warden Clancy presents Samuel with a high-stakes proposition: smuggle gold out of a remote, hazardous mine alongside a dangerous crew of fellow inmates in exchange for his full freedom.",
+      "resolution": "The dust settles from the operation, revealing the final fate of the smuggled gold, the survivors of the expedition, and whether Samuel will truly get the chance to be a father again.",
+      "introduction": "Samuel is unjustly separated from his daughter and thrown into a brutal, unforgiving prison environment.",
+      "risingAction": "Samuel must navigate the harsh wilderness, internal crew betrayals, and the warden's oppressive control while keeping his focus entirely on reuniting with his daughter."
+    },
+    "characters": [
+      {
+        "name": "Samuel",
+        "role": "Hero",
+        "description": "A loving father torn from his daughter who agrees to a dangerous prison gold-smuggling operation to earn his freedom."
+      },
+      {
+        "name": "Warden Clancy",
+        "role": "Villain",
+        "description": "The brutal authority figure running the prison who leverages Samuel's situation with a high-stakes proposition."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Samuel",
+        "target": "Daughter",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Warden Clancy",
+        "target": "Samuel",
+        "description": "Captor/Prisoner (High-stakes deal provider)"
+      },
+      {
+        "source": "Samuel",
+        "target": "Dangerous Crew of Prisoners",
+        "description": "Leader/Crew"
+      },
+      {
+        "source": "Warden Clancy",
+        "target": "Dangerous Crew of Prisoners",
+        "description": "Authority/Inmates"
+      }
+    ],
+    "seo": {
+      "slug": "the-weight",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-weight](https://movnix.com/movie/the-weight)",
+        "name": "The Weight",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom."
+      },
+      "keywords": [
+        "The Weight movie",
+        "The Weight overview",
+        "Samuel prison film",
+        "gold mine heist movie",
+        "prison drama action movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-weight](https://movnix.com/movie/the-weight)",
+      "metaTitle": "The Weight - Movie Synopsis, Cast & Official Overview | Movnix",
+      "openGraph": {
+        "og:title": "The Weight - High-Stakes Prison & Gold Smuggling Drama",
+        "og:description": "Samuel is offered a dangerous deal: smuggle gold out of a remote mine with a ruthless prisoner crew to win back his freedom and return to his daughter."
+      },
+      "twitterCard": {
+        "twitter:title": "The Weight - Official Overview & Movie Info",
+        "twitter:description": "Torn from his daughter and sent to a brutal prison, Samuel must complete a dangerous gold smuggling job to win his freedom in 'The Weight'."
+      },
+      "metaDescription": "In 'The Weight', Samuel must join a dangerous crew of prisoners to smuggle gold out of a remote mine and earn his freedom. Read the full overview now."
+    },
+    "faq": [
+      {
+        "answer": "The Weight is primarily a drama and action-thriller set around a high-stakes prison mine heist.",
+        "question": "What is the dominant genre of The Weight?"
+      },
+      {
+        "answer": "No, The Weight is a standalone film and is not part of an existing franchise or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The story follows Samuel, a father separated from his daughter and sent to a brutal prison, who is offered freedom by Warden Clancy if he successfully smuggles gold out of a remote mine with a dangerous crew of inmates.",
+        "question": "What is the main plot of The Weight?"
+      },
+      {
+        "answer": "The central characters include Samuel, the desperate father fighting for his freedom, and Warden Clancy, the authority figure who presents the high-stakes proposition.",
+        "question": "Who are the central characters in the movie?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes; the story concludes fully before the final credits sequence.",
+        "question": "Is there a post-credits scene in The Weight?"
+      },
+      {
+        "answer": "Samuel's primary motivation is his deep desire to be reunited with his daughter, driving him to accept a life-threatening mission.",
+        "question": "What drives the main protagonist, Samuel?"
+      },
+      {
+        "answer": "The core conflict lies in the extreme danger of the gold-smuggling mission, the treacherous nature of Samuel's inmate crew, and the untrustworthy motivations of Warden Clancy.",
+        "question": "What is the main central conflict in the film?"
+      },
+      {
+        "answer": "Viewers can expect a tense, gritty, and emotionally grounded atmosphere focused on survival, betrayal, and high stakes.",
+        "question": "What atmosphere or tone can viewers expect?"
+      },
+      {
+        "answer": "The story is set across a brutal prison environment and a remote, hazardous gold mine.",
+        "question": "Where does the primary action of the film take place?"
+      },
+      {
+        "answer": "The movie is tailored for fans of suspenseful thrillers, prison drama stories, and high-stakes heist narratives.",
+        "question": "Who is the target audience for this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements present; tension stems primarily from physical danger and suspense rather than supernatural or horrific threats."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely features moderate vulgarity and strong language consistent with a tense prison and criminal setting."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Themes of prison brutality, high-stakes smuggling, and potential conflict among a dangerous crew indicate moderate to strong violence."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible incidental use of tobacco or alcohol typical of prison/period settings, but no heavy substance focus indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the core premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional stakes driven by the protagonist being torn from his daughter, facing life-or-death decisions, and striving for freedom."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-07-31 16:03:39.57197",
+    "updated_at": "2026-07-31 16:03:39.57197"
+  }
 }

@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.1417,
-    "voteAverage": 5,
-    "voteCount": 38,
+    "popularity": 5.9124,
+    "voteAverage": 5.1,
+    "voteCount": 42,
     "homepage": "https://www.snd-films.com/movies/55",
     "posterPath": "/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
     "backdropPath": "/zlxcwTkFet8e6FfGTkbKZfgb3PJ.jpg",
@@ -259,8 +259,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5,
-      "votesCount": 38
+      "ratingValue": 5.1,
+      "votesCount": 42
     },
     {
       "source": "imdb",
@@ -446,7 +446,7 @@
   ],
   "externalIds": {
     "imdbId": "tt36933402",
-    "wikidataId": null,
+    "wikidataId": "Q138819148",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -487,5 +487,257 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1437939/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1437939,
+    "hash": "fa4afcde305fad441b3580ab0b0b6fbea512a84f02659e58252295fa432e7bec",
+    "summary_one_sentence": "Before Alice and François's wedding, unexpected DNA test results shatter the proud French identities of their fathers—an elitist aristocrat and a modest car dealer.",
+    "summary_short": "In this hilarious French comedy, the impending marriage between aristocrat's daughter Alice and car salesman's son François brings two radically different families together. To celebrate the union, the young couple presents their parents with ancestry DNA kits to discover their ancestral roots. The unexpected results reveal that neither father is as purely French as he proudly believed, triggering a comedic identity crisis. As chaos unfolds and long-held secrets resurface, both families must navigate cultural shocks and new family ties.",
+    "summary_long": "The aristocratic Bouvier-Sauvage family and the working-class Martin family are forced to unite as their children, Alice and François, prepare to get married. To celebrate the occasion and break the ice between the clashing households, the couple gifts their parents DNA ancestry test kits. Expecting to confirm their deeply ingrained French heritage, conservative aristocrat Frédéric and pragmatic car dealer Gérard are stunned when the results reveal shocking international origins. The revelations spark severe cultural shock and hilarious infighting as both fathers attempt to reconcile their shattered national pride. As they try to bury the hatchet to keep the wedding on track, new complications arise when a distant cousin suddenly surfaces from the test database. A secondary wave of DNA results uncovers additional hidden secrets, turning the ancestral family trees upside down. Forced to embrace their unexpected bloodlines, the rivaling patriarchs engage in absurdity, passion, and comedic soul-searching. Ultimately, the chaotic revelations force both families to reconsider what true identity and heritage really mean before walking down the aisle.",
+    "synopsis": "As Alice and François prepare for their upcoming wedding, they bring together two vastly different families: the elite, aristocratic Bouvier-Sauvages and the down-to-earth, middle-class Martins. In an effort to celebrate their heritage and bridge the gap between their disparate backgrounds, the couple surprises their parents with home DNA testing kits. What was intended to be a lighthearted gesture quickly turns into explosive chaos when the test results reveal surprising ethnic roots that contradict both patriarchs' fierce national pride. As newly discovered cousins, hidden secrets, and unexpected heritage tests turn family trees upside down, both fathers are forced to confront their biases in a flurry of cultural shock and hilarious misadventures.",
+    "keywords": [
+      "wedding context",
+      "DNA test reveal",
+      "family secrets",
+      "identity crisis",
+      "cultural identity",
+      "class clash",
+      "aristocracy",
+      "car dealership",
+      "paternal revelation",
+      "ancestry discovery",
+      "national identity",
+      "family drama",
+      "satire",
+      "pre-wedding chaos",
+      "french cinema"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Heritage",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Class Conflict",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Family Secrets",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Marriage & Acceptance",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Humorous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Amusing",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Witty",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a boiling point during a major pre-wedding family event, forcing both patriarchs to confront their prejudices, family pride, and what true identity really means.",
+      "conflict": "As a pre-wedding gesture, DNA test results are revealed, unexpectedly uncovering secret ancestral roots and challenging both fathers' deeply held beliefs about their French identity.",
+      "resolution": "The families come to accept their blended origins, realizing that shared bonds matter more than ancestral labels, paving the way for the wedding to proceed in harmony.",
+      "introduction": "Alice and François prepare for their upcoming wedding, bringing their two vastly different families together—an aristocratic family of long-standing lineage and a pragmatic car dealership family.",
+      "risingAction": "Chaos ensues as the two fathers struggle to accept their newfound heritage, sparking cultural misunderstandings, comedic rivalries, and frantic efforts to come to terms with their identities before the big day."
+    },
+    "characters": [
+      {
+        "name": "Frédéric Bouvier-Sauvage",
+        "role": "Comic Relief",
+        "description": "An arrogant aristocrat obsessed with lineage whose pretentious world is turned upside down by erroneous DNA results."
+      },
+      {
+        "name": "Gérard Martin",
+        "role": "Comic Relief",
+        "description": "An outspoken car dealer whose working-class pride clashes hilariously with the snobbish aristocrats."
+      },
+      {
+        "name": "Alice Bouvier-Sauvage",
+        "role": "Hero",
+        "description": "The bride-to-be whose idea to gift DNA tests triggers the chaotic unraveling of both families' ancestral secrets."
+      },
+      {
+        "name": "François Martin",
+        "role": "Hero",
+        "description": "The groom-to-be who works alongside Alice to keep their upcoming wedding on track despite their parents' turmoil."
+      },
+      {
+        "name": "Catherine Bouvier-Sauvage",
+        "role": "Supporting Character",
+        "description": "Frédéric's aristocratic wife who attempts to maintain composure amidst the ongoing genetic revelations."
+      },
+      {
+        "name": "Nicole Martin",
+        "role": "Supporting Character",
+        "description": "Gérard's sensible wife who provides a grounded perspective during the family identity crisis."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Alice Bouvier-Sauvage",
+        "target": "François Martin",
+        "description": "Fiancée/Fiancé"
+      },
+      {
+        "source": "Frédéric Bouvier-Sauvage",
+        "target": "Alice Bouvier-Sauvage",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Catherine Bouvier-Sauvage",
+        "target": "Alice Bouvier-Sauvage",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Gérard Martin",
+        "target": "François Martin",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Nicole Martin",
+        "target": "François Martin",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Frédéric Bouvier-Sauvage",
+        "target": "Catherine Bouvier-Sauvage",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Gérard Martin",
+        "target": "Nicole Martin",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Frédéric Bouvier-Sauvage",
+        "target": "Gérard Martin",
+        "description": "In-laws / Cultural Rivals"
+      }
+    ],
+    "seo": {
+      "slug": "cocorico-2",
+      "jsonLd": {
+        "name": "Cocorico 2",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "DNA tests before Alice and François's wedding reveal their fathers - an aristocrat and car dealer - aren't as French as they thought."
+      },
+      "keywords": [
+        "Cocorico 2",
+        "Cocorico 2 movie",
+        "French comedy film",
+        "Cocorico sequel",
+        "Alice and Francois movie",
+        "DNA test comedy movie"
+      ],
+      "canonical": "[https://movnix.com/movie/cocorico-2](https://movnix.com/movie/cocorico-2)",
+      "metaTitle": "Cocorico 2 - Synopsis, Details & SEO Information",
+      "openGraph": {
+        "og:title": "Cocorico 2 - Official Movie Info",
+        "og:description": "Pre-wedding DNA tests shatter expectations for two French fathers in this hilarious comedy sequel."
+      },
+      "twitterCard": {
+        "twitter:title": "Cocorico 2 - Movie Synopsis",
+        "twitter:description": "Pre-wedding DNA tests trigger unexpected ancestral revelations for Alice and François's families."
+      },
+      "metaDescription": "Pre-wedding DNA tests trigger unexpected ancestral revelations for Alice and François's families in Cocorico 2."
+    },
+    "faq": [
+      {
+        "answer": "Yes, Cocorico 2 is the direct sequel to the 2024 French comedy film Cocorico.",
+        "question": "Is Cocorico 2 part of a franchise?"
+      },
+      {
+        "answer": "The film is primarily a comedy, focusing on family dynamics, cultural identity mix-ups, and clash-of-classes humor.",
+        "question": "What is the dominant genre of Cocorico 2?"
+      },
+      {
+        "answer": "Before the upcoming wedding of Alice and François, DNA test results reveal that their respective fathers—an aristocrat and a car dealer—do not have the pure French heritage they previously believed, leading to chaotic family revelations.",
+        "question": "What is the plot of Cocorico 2?"
+      },
+      {
+        "answer": "Typically for comedies of this style, there may be short extra outtakes or a brief extra scene during the initial credits, but there is no essential narrative teaser after the full credits finish.",
+        "question": "Is there a post-credits scene in Cocorico 2?"
+      },
+      {
+        "answer": "The original language of the film is French, though subtitle and dubbed versions are available for international audiences.",
+        "question": "What language is Cocorico 2 in?"
+      },
+      {
+        "answer": "The core dynamic relies on the contrasting relationship and banter between the wealthy aristocratic father and the working-class car dealer father as they react to their unexpected heritage.",
+        "question": "Who are the main character dynamics built around in the film?"
+      },
+      {
+        "answer": "While watching the original film provides helpful context on the families' relationship, the premise of the DNA test conflict in Cocorico 2 is self-contained enough to enjoy on its own.",
+        "question": "Do you need to watch the first Cocorico film to understand Cocorico 2?"
+      },
+      {
+        "answer": "Yes, it is generally aimed at a broad family audience, containing mild comedic themes, light satire, and humorous family conflict.",
+        "question": "Is Cocorico 2 suitable for family viewing?"
+      },
+      {
+        "answer": "The movie satirizes concepts of national pride, aristocratic pretension, ancestry, class differences, and what truly makes up a family's identity.",
+        "question": "What main themes does Cocorico 2 explore?"
+      },
+      {
+        "answer": "Availability depends on regional distribution, but it can typically be found in theaters during its initial run and later on video-on-demand platforms or streaming services.",
+        "question": "Where can I watch Cocorico 2?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening imagery."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild comedic coarse language and light profanity suitable for a general comedy."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no violence; typical slapstick comedy or minor comedic altercations."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Casual social drinking at family gatherings or celebratory events."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild sexual references or suggestive humor related to romantic relationships and marriage, but no explicit content."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Light social and familial awkwardness, lighthearted identity crisis, and comedic tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 1,
+      "comedy": 9,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-08-17 19:04:04.55873",
+    "updated_at": "2026-08-17 19:04:04.55873"
+  }
 }
