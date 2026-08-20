@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.0701,
+    "popularity": 5.5571,
     "voteAverage": 6.9,
     "voteCount": 35,
     "homepage": "https://mock-movie-website.com/movies/1339588",
@@ -346,6 +346,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/lSPQ7jghBsqaNX5AD9Sa501mBBQ.jpg",
+      "width": 600,
+      "height": 900,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
       "width": 3413,
       "height": 1920,
@@ -600,15 +607,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1211739,
-      "name": "Rachel Hirons",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2236,
       "name": "Tim Bevan",
       "profilePath": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
@@ -618,18 +616,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2238,
-      "name": "Eric Fellner",
-      "profilePath": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+      "tmdbPersonId": 1211739,
+      "name": "Rachel Hirons",
+      "profilePath": null,
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
       "tmdbPersonId": 1422344,
       "name": "Olivier Kaempfer",
       "profilePath": "/5OShwLlPXi4fgTgf6zOhqm0asXb.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2238,
+      "name": "Eric Fellner",
+      "profilePath": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
