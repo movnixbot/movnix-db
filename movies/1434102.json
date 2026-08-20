@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.6769,
-    "voteAverage": 6,
-    "voteCount": 2,
+    "popularity": 3.5556,
+    "voteAverage": 5.667,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1434102",
     "posterPath": "/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
     "backdropPath": "/ufVCGoqEHOCahpXwDguGIq8CxAP.jpg",
@@ -109,8 +109,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 2
+      "ratingValue": 5.667,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -243,7 +243,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
