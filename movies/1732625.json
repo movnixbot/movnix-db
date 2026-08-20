@@ -9,8 +9,8 @@
     "runtime": 139,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 2.0427,
+    "status": "Released",
+    "popularity": 2.6254,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1732625",
@@ -58,7 +58,14 @@
   "keywords": [],
   "videos": [
     {
-      "name": "LEGO Disney Princess: Magical Mayhem | Official Trailer | Available on Disney+ August 21",
+      "name": "The Princesses Have Unexpected Visitors! 🏰🐾✨ | LEGO Disney Princess: Magical Mayhem | @disneykids",
+      "key": "ciDobnlJ7CU",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
+    {
+      "name": "Official Trailer",
       "key": "xcxi10laLUQ",
       "site": "YouTube",
       "size": 1080,
@@ -95,9 +102,51 @@
       "type": "poster"
     },
     {
+      "filePath": "/nwqGLMXGertU7gd5Dpbvk8TWMcK.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xwIjtLG5YV9CFwavZll0v4NZ9JJ.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hLrrjb5K5mrSsmYJiXT8eAehYNA.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/iyJc33L3SCOkNrt7lTHITcZtGkx.jpg",
       "width": 1920,
       "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8cSufscNp4tyIUNvuhEIcfC8fXj.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/kAuqWyaquTgHIPBIx3A7yzXMg91.jpg",
+      "width": 1312,
+      "height": 738,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/pN8clEDxTtRWaZBJs6GpYnURhBw.jpg",
+      "width": 1280,
+      "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -174,22 +223,58 @@
       "order": 6
     },
     {
-      "tmdbPersonId": 71857,
-      "name": "Mark Moseley",
-      "profilePath": "/1I65kWE6cM25G14Wz3TanpTtYev.jpg",
-      "character": "Mushu (voice)",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 7
-    },
-    {
       "tmdbPersonId": 3135014,
       "name": "Gracen Newton",
       "profilePath": "/yyMBocOeMuHujjVnYcAPaNBkgMx.jpg",
       "character": "Flounder (voice)",
       "job": "Actor",
       "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 1865803,
+      "name": "Isaac Robinson-Smith",
+      "profilePath": "/ceNxqevAX7c9uAzl8IthjG3slqy.jpg",
+      "character": "Mushu (voice)",
+      "job": "Actor",
+      "department": "Acting",
       "order": 8
+    },
+    {
+      "tmdbPersonId": 35219,
+      "name": "Corey Burton",
+      "profilePath": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg",
+      "character": "Magic Mirror (voice)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 2067256,
+      "name": "Rachel Vine",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3333952,
+      "name": "Randi Rodrigues",
+      "profilePath": "/4KFvJdHlcs274e5CJu8XF601n9K.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5648102,
+      "name": "Jake Wilkinson",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
     }
   ],
   "alternativeTitles": [],

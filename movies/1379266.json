@@ -10,9 +10,9 @@
     "budget": "8000000",
     "revenue": "134421151",
     "status": "Released",
-    "popularity": 5.993,
-    "voteAverage": 7.8,
-    "voteCount": 94,
+    "popularity": 5.4355,
+    "voteAverage": 7.795,
+    "voteCount": 95,
     "homepage": "https://www.palacecinemas.com.au/movies/kokuho",
     "posterPath": "/8fHBOSOIUKNkQVsZvC7lfUDJo1W.jpg",
     "backdropPath": "/2JGI8fWxddrkN6otY82HkbPPJr3.jpg",
@@ -269,6 +269,13 @@
       "filePath": "/1gzJtWbhzwiiIIvvme7arGQ4K4V.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bFTIaokNzOf3YUe0hd0JUCBc3ws.jpg",
+      "width": 1400,
+      "height": 2100,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -588,13 +595,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/bFTIaokNzOf3YUe0hd0JUCBc3ws.jpg",
-      "width": 1400,
-      "height": 2100,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/2JGI8fWxddrkN6otY82HkbPPJr3.jpg",
       "width": 2000,
       "height": 1123,
@@ -850,8 +850,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.8,
-      "votesCount": 94
+      "ratingValue": 7.795,
+      "votesCount": 95
     },
     {
       "source": "rotten_tomatoes",
@@ -1151,5 +1151,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1379266/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1379266,
+    "hash": "824011fbeed6f72490f6cf430f94c33e55ba72640ae637ea752b0d351cc10d2e",
+    "summary_one_sentence": "In post-war Japan, the orphaned son of a yakuza boss is taken in by a renowned Kabuki actor, embarking on a lifelong journey of rivalry and artistic devotion alongside the master's biological son.",
+    "summary_short": "Set against the backdrop of 1964 Nagasaki, fifteen-year-old Kikuo finds himself taken in by a legendary Kabuki master following his father's tragic death. Raised alongside the master's biological son, Shunsuke, Kikuo completely immerses himself in the rigorous, demanding world of traditional Japanese theatre. Over the course of several decades, the two young men forge a deep bond defined by mutual support, intense creative competition, and personal sacrifice. Ultimately, their shared passion pushes one of them to rise above all others and achieve the pinnacle of Kabuki artistry.",
+    "summary_long": "The story begins in Nagasaki in 1964, where fifteen-year-old Kikuo is left orphaned after his yakuza father meets a violent end. Seeking a new path, he is taken in by a celebrated Kabuki actor who recognizes potential in the young boy. Kikuo is introduced to Shunsuke, the master's heir, and the two boys are brought up together within the strict discipline of the traditional performance arts. As they transition into adulthood, both men fully commit their lives to mastering the ancient craft, facing grueling training, societal expectations, and internal doubts. Their relationship evolves into a complex tapestry of brotherhood and fiercest artistic rivalry, as both strive to honor their master's legacy while forging their own identities. Through decades of shifting cultural landscapes, personal triumphs, and deep heartbreaks, their lives remain inextricably bound to the stage. As age and experience refine their talent, the pressure mounts to see who will truly master the art form. In the end, one of them transcends the traditional boundaries of the discipline to be recognized as a true national treasure of Kabuki theatre.",
+    "synopsis": "Kokuho is a sweeping drama that explores the life-defining dedication, fierce rivalry, and profound beauty found within the world of traditional Japanese Kabuki theatre. Beginning in 1964 Nagasaki after a family tragedy, the story traces the decades-long journey of two young men bound together by fate and artistic obsession. As they navigate the strict hierarchies, relentless physical demands, and emotional sacrifices required by their craft, their friendship is repeatedly tested by the drive for perfection. Rich in dynamic cultural heritage and personal character study, the narrative offers an immersive look at what it truly takes to achieve artistic greatness.",
+    "keywords": [
+      "Kabuki theater",
+      "traditional Japanese performing arts",
+      "yakuza heritage",
+      "mentor and protégé",
+      "artistic mastery",
+      "rivalry and brotherhood",
+      "Showa era Japan",
+      "decades-spanning narrative",
+      "coming of age",
+      "1960s Nagasaki",
+      "stage performance",
+      "pursuit of perfection",
+      "legacy and lineage",
+      "dual protagonists"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Dedication and Mastery",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Rivalry and Brotherhood",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity and Belonging",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dramatic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The culmination of their lifelong obsession reaches a peak as decades of discipline, personal sacrifice, and performance come together to determine who will achieve ultimate mastery.",
+      "conflict": "As Kikuo and Shunsuke grow up within the strict boundaries of Kabuki, Kikuo must overcome his outsider origins while competing and bonding with Shunsuke to carve out his own artistic identity.",
+      "resolution": "The journey settles into the legacy of their art, reflecting the cost, devotion, and profound bond shaped through a lifetime of Kabuki.",
+      "introduction": "In 1964 Nagasaki, 15-year-old Kikuo loses his Yakuza father and is taken in by a prestigious Kabuki actor, entering a traditional theatrical world alongside the actor's son, Shunsuke.",
+      "risingAction": "Over decades of rigorous training, personal loss, and intense rivalry, both young men dedicate their lives to mastering Kabuki, pushing their skills and dynamic relationship to extreme limits."
+    },
+    "characters": [
+      {
+        "name": "Kikuo",
+        "role": "Hero",
+        "description": "The son of a deceased Yakuza boss who dedicates his life to Kabuki theater, striving through decades of competition and training to become a master of the art."
+      },
+      {
+        "name": "Shunsuke",
+        "role": "Supporting Character",
+        "description": "The biological son of the Kabuki actor who grows up alongside Kikuo as both a lifelong friend and a fierce rival in Kabuki."
+      },
+      {
+        "name": "Famous Kabuki Actor (Mentor)",
+        "role": "Mentor",
+        "description": "The master Kabuki performer who takes in Kikuo after his father's death and guides both boys in the rigorous tradition of Kabuki theater."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tachibana Kikuo",
+        "target": "Onoegawa Shunji",
+        "description": "Rivals / Adoptive Brothers"
+      },
+      {
+        "source": "Hanai Hanjiro",
+        "target": "Tachibana Kikuo",
+        "description": "Mentor / Adoptive Father"
+      },
+      {
+        "source": "Hanai Hanjiro",
+        "target": "Onoegawa Shunji",
+        "description": "Father / Teacher"
+      },
+      {
+        "source": "Tachibana Kikuo",
+        "target": "Tachibana Goro",
+        "description": "Father / Son"
+      },
+      {
+        "source": "Hanai Hanjiro",
+        "target": "Hanai Sachiko",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Tachibana Kikuo",
+        "target": "Ayano",
+        "description": "Romantic Interest"
+      }
+    ],
+    "seo": {
+      "slug": "kokuho-2025",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/kokuho-2025](https://movnix.com/movie/kokuho-2025)",
+        "name": "Kokuho",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "History"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "ja",
+        "description": "Nagasaki, 1964: Following the death of his Yakuza father, 15-year-old Kikuo is taken under the wings of a famous Kabuki actor. Alongside Shunsuke, the actor’s only son, he decides to dedicate himself to this traditional form of theatre. For decades, the two young men grow and evolve together – and one will become the greatest Japanese master of the art of Kabuki.",
+        "datePublished": "2025-06-06"
+      },
+      "keywords": [
+        "kokuho",
+        "kokuho movie",
+        "kokuho 2025",
+        "kabuki movie",
+        "kikuo shunsuke",
+        "japanese drama movie",
+        "kokuho plot",
+        "kokuho synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/kokuho-2025](https://movnix.com/movie/kokuho-2025)",
+      "metaTitle": "Kokuho (2025) Movie - Plot, Cast, Details | Movnix",
+      "openGraph": {
+        "og:title": "Kokuho (2025) - Epic Japanese Kabuki Drama",
+        "og:description": "Follow Kikuo and Shunsuke across decades as they dedicate their lives to Kabuki in a masterclass of Japanese traditional art and rival brotherhood."
+      },
+      "twitterCard": {
+        "twitter:title": "Kokuho (2025) - Epic Japanese Kabuki Drama",
+        "twitter:description": "Follow Kikuo and Shunsuke across decades as they dedicate their lives to Kabuki in a masterclass of Japanese traditional art and rival brotherhood."
+      },
+      "metaDescription": "In 1964 Nagasaki, orphan Kikuo is taken in by a Kabuki actor. Follow his decades-long journey alongside Shunsuke to become a master of Japanese theatre."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a drama and coming-of-age story centered on Japanese culture and traditional theatre.",
+        "question": "What is the dominant genre of Kokuho?"
+      },
+      {
+        "answer": "Set starting in Nagasaki in 1964, the story follows Kikuo, a 15-year-old orphan of a Yakuza leader, who is taken in by a renowned Kabuki actor. Alongside the actor's son, Shunsuke, Kikuo dedicates his life to mastering the traditional art of Kabuki over several decades.",
+        "question": "What is the main storyline of the movie?"
+      },
+      {
+        "answer": "No, it is a standalone feature film focused on the lifelong journey of two Kabuki performers.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the movie concludes its story before the final credits roll without any additional post-credit scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "'Kokuho' translates to 'National Treasure' in Japanese, referring to the title bestowed upon grand masters of traditional Japanese arts like Kabuki.",
+        "question": "What does the title 'Kokuho' mean?"
+      },
+      {
+        "answer": "The narrative begins in Nagasaki, Japan, in the year 1964 following the death of Kikuo's Yakuza father.",
+        "question": "When and where does the story begin?"
+      },
+      {
+        "answer": "The main characters are Kikuo, the son of a Yakuza boss, and Shunsuke, the biological son of a prestigious Kabuki actor.",
+        "question": "Who are the two main characters in the film?"
+      },
+      {
+        "answer": "The movie heavily features Kabuki, a classical form of Japanese dance-drama known for its stylized performing, elaborate makeup, and rich history.",
+        "question": "What traditional art form is featured in the movie?"
+      },
+      {
+        "answer": "The film contains mature themes related to Yakuza violence, grief, intense dramatic conflict, and the rigorous pressures of traditional art mastery.",
+        "question": "Is the movie suitable for general audiences?"
+      },
+      {
+        "answer": "The movie is adapted from Shuichi Yoshida's acclaimed novel 'Kokuho', which draws inspiration from the real-world world and traditions of Kabuki theatre.",
+        "question": "Is Kokuho based on a true story or a novel?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Very minimal horror elements; minor tension during gang ambushes and dramatic stage injuries."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional moderate profanity, aggressive insults, and rough gang-related dialect."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Opening gang shootout results in the violent death of a yakuza boss, with subsequent physical assaults, beatings, and violent confrontations over a multi-decade saga."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Frequent depictions of alcohol consumption, drinking in bars or banquets, and heavy tobacco smoking typical of the era."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Includes adult themes, extramarital affairs, scenes involving geishas and mistresses, and non-explicit sexual relationships."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional weight dealing with parental murder, intense artistic obsession, debilitating illness, betrayal, and lifelong rivalry."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 4,
+      "violence": 4
+    },
+    "created_at": "2026-08-18 07:01:42.739556",
+    "updated_at": "2026-08-18 07:01:42.739556"
+  }
 }
