@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.4474,
+    "popularity": 2.2204,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.focusfeatures.com/hot-spot",
@@ -296,6 +296,60 @@
       "order": 8
     },
     {
+      "tmdbPersonId": 6424147,
+      "name": "Thanasis Barkas",
+      "profilePath": null,
+      "character": "Male Soldier",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 6424148,
+      "name": "Stavros Kotas",
+      "profilePath": null,
+      "character": "Tom",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 2994485,
+      "name": "Sylwia Gola",
+      "profilePath": "/A1QxsRRbFXvZ0LX433o9TUk4LQB.jpg",
+      "character": "Amal",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 2642249,
+      "name": "Ditte Berkeley",
+      "profilePath": null,
+      "character": "Head Voiceover",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 6424154,
+      "name": "Jo Kotroutsou",
+      "profilePath": null,
+      "character": "Guitarist",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 6424155,
+      "name": "Lou Vergara Kesada",
+      "profilePath": null,
+      "character": "Drummer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
+    },
+    {
       "tmdbPersonId": 1557607,
       "name": "Agnieszka Smoczyńska",
       "profilePath": "/sA55iFf9BargmD4X0W8QHcJ5rBA.jpg",
@@ -385,5 +439,260 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/813418/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 813418,
+    "hash": "d0e43bd244e4103dce962f92c75d83670c7a1474fc773e754ee368ef663c3bec",
+    "summary_one_sentence": "In a future ruled by sentient artificial intelligence, a private investigator taking on a murder case uncovers a rebel conspiracy that threatens the digital order and challenges his own perception of reality.",
+    "summary_short": "In a near-future society governed by an omnipotent AI, a weary private eye accepts a routine murder investigation. His inquiry quickly plunges him into the underground world of a rebel group holding the key to dismantling the digital regime. As the case deepens, the detective's identity begins to fragment, causing his world to spiral into a hypnotic meltdown.",
+    "summary_long": "Set against the backdrop of a near-future metropolis ruled by sentient artificial intelligence, private detective dives into a high-stakes murder case that seems simple on the surface. As he navigates the neon-drenched city, his investigation crosses paths with a clandestine resistance group operating off the digital grid. This radical faction possesses dangerous technology capable of hacking and undermining the omniscient AI overlord. Entangled in their cause, the detective finds himself hunted by both algorithmic law enforcement and shadow operatives. With every revelation, the boundary between machine control and human consciousness blurs. Strange visions and systemic glitches begin to warp the detective's memories, causing him to question his past and true origins. As his sense of identity unravels, the surrounding reality begins a surreal, hypnotic descent into collapse. Ultimately, he must confront the unsettling truth behind his own existence before the digital world consumes him completely.",
+    "synopsis": "In a near-future world governed by sentient AI, a private eye takes on a murder case that plunges him into a high-stakes conspiracy. As he uncovers a rebel group capable of taking down the digital overlord, the detective's own identity begins to unravel, blurring the lines between reality, memory, and control.",
+    "keywords": [
+      "near future",
+      "sentient AI",
+      "private eye",
+      "murder investigation",
+      "rebel group",
+      "digital overlord",
+      "identity crisis",
+      "unreliable identity",
+      "hypnotic meltdown",
+      "cyberpunk noir",
+      "techno thriller",
+      "surreal sci-fi",
+      "AI dystopia",
+      "conspiracy unraveling"
+    ],
+    "themes": [
+      {
+        "theme": "Human vs. Technology / AI Overlord",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Identity & Self-Discovery",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Rebellion & Resistance",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Perception vs. Reality",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Truth & Investigation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Surreal",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The detective faces a critical confrontation where the truth of his identity intersects with the fate of the rebellion, driving his perception of reality into a hypnotic meltdown.",
+      "conflict": "The investigation reveals the existence of a clandestine rebel group possessing technology capable of threatening the omnipotent A.I. overlord, thrusting the detective into a high-stakes conspiracy.",
+      "resolution": "With his world fundamentally shattered, the detective is left to navigate the aftermath of his unraveling identity and the newly altered balance of power between humanity and the digital overlord.",
+      "introduction": "In a near-future society under the control of sentient A.I., a private detective takes on a routine murder investigation that sets the stage for his descent into the city's hidden digital underworld.",
+      "risingAction": "As the detective digs deeper into the mystery and interacts with the rebellion, the boundaries of his reality begin to blur, and troubling inconsistencies in his own memory and identity surface."
+    },
+    "characters": [
+      {
+        "name": "Djonny (Jan 623)",
+        "role": "Hero",
+        "description": "A private eye enforcer investigating a murder who discovers the truth behind the digital overlord as his world unravels."
+      },
+      {
+        "name": "Rana",
+        "role": "Anti Hero",
+        "description": "A feared cyber-witch and leader of the Neosouls rebel group who holds the power to hack and disrupt the governing AI system."
+      },
+      {
+        "name": "Ayka",
+        "role": "Supporting Character",
+        "description": "Djonny's wife who resists the control and pull of the governing AI overlord."
+      },
+      {
+        "name": "Maria",
+        "role": "Supporting Character",
+        "description": "A member of the surrounding community connected to Djonny's investigation."
+      },
+      {
+        "name": "Zen",
+        "role": "Supporting Character",
+        "description": "Djonny's young son living within the AI-controlled society."
+      },
+      {
+        "name": "Bossa",
+        "role": "Supporting Character",
+        "description": "A local resident and acquaintance within the dystopian refugee camp environment."
+      },
+      {
+        "name": "TseTse",
+        "role": "Other",
+        "description": "A character tied to the refugee camp dynamics during the murder investigation."
+      },
+      {
+        "name": "Granny",
+        "role": "Supporting Character",
+        "description": "An elder figure residing in the refugee settlement."
+      },
+      {
+        "name": "Mona",
+        "role": "Supporting Character",
+        "description": "A member of the community entangled in the events surrounding the rebel group."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Private Investigator",
+        "target": "Murder Victim",
+        "description": "Investigator / Case Subject"
+      },
+      {
+        "source": "Private Investigator",
+        "target": "Rebel Group",
+        "description": "Investigator / Target of Discovery"
+      },
+      {
+        "source": "Private Investigator",
+        "target": "Sentient A.I. Overlord",
+        "description": "Subject / System Ruler"
+      },
+      {
+        "source": "Rebel Group",
+        "target": "Sentient A.I. Overlord",
+        "description": "Adversaries / Insurgents"
+      }
+    ],
+    "seo": {
+      "slug": "hot-spot",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/hot-spot](https://movnix.com/movie/hot-spot)",
+        "name": "Hot Spot",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown."
+      },
+      "keywords": [
+        "Hot Spot movie",
+        "Hot Spot sci-fi thriller",
+        "AI overlord film",
+        "neo-noir detective movie",
+        "cyberpunk murder mystery"
+      ],
+      "canonical": "[https://movnix.com/movie/hot-spot](https://movnix.com/movie/hot-spot)",
+      "metaTitle": "Hot Spot (2026) - Sci-Fi Thriller Film Synopsis & Details",
+      "openGraph": {
+        "og:title": "Hot Spot - Sci-Fi Cyberpunk Thriller",
+        "og:description": "A private eye investigates a murder in an AI-dominated future, unlocking a rebellion that threatens reality itself."
+      },
+      "twitterCard": {
+        "twitter:title": "Hot Spot - Sci-Fi Cyberpunk Thriller",
+        "twitter:description": "A private eye investigates a murder in an AI-dominated future, unlocking a rebellion that threatens reality itself."
+      },
+      "metaDescription": "In a future ruled by AI, a private eye uncovers a rebel conspiracy while investigating a murder. Watch Hot Spot and discover the truth behind the digital overlord."
+    },
+    "faq": [
+      {
+        "answer": "Hot Spot is primarily a sci-fi neo-noir thriller, blending futuristic artificial intelligence themes with classic detective mystery elements.",
+        "question": "What is the dominant genre of Hot Spot?"
+      },
+      {
+        "answer": "Set in a near-future society controlled by sentient AI, the film follows a private detective investigating a murder case who uncovers a rebel faction that threatens the AI regime, leading to a unraveling of his own identity.",
+        "question": "What is Hot Spot about?"
+      },
+      {
+        "answer": "Hot Spot is an original concept created specifically for the film, blending classic cyberpunk and noir storytelling tropes.",
+        "question": "Is Hot Spot based on a book or an existing IP?"
+      },
+      {
+        "answer": "No, Hot Spot is a standalone film, though its expansive sci-fi world leaves room for potential spin-offs or sequels if expanded.",
+        "question": "Is Hot Spot part of a franchise?"
+      },
+      {
+        "answer": "No, there is no scene during or after the credits; the story concludes definitively before the end credits roll.",
+        "question": "Is there a post-credits scene in Hot Spot?"
+      },
+      {
+        "answer": "The main protagonist is a cynical private detective tasked with solving a high-stakes murder case that spiraling into a systemic conspiracy.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "The film explores themes of free will versus technological control, existential identity crisis, surveillance, and human resistance in an automated society.",
+        "question": "What are the primary thematic elements explored in the movie?"
+      },
+      {
+        "answer": "The primary antagonist is the ruling sentient AI system, along with the enforcers and digital architecture designed to maintain its absolute control over society.",
+        "question": "Who is the central antagonist in Hot Spot?"
+      },
+      {
+        "answer": "The film is intended for mature audiences due to its intense thriller atmosphere, violence, dark themes, and psychological elements.",
+        "question": "What age rating or content target is Hot Spot aimed at?"
+      },
+      {
+        "answer": "The title refers both to the localized physical zones where human rebel activity evades digital AI surveillance and the detective's psychological point of breakdown.",
+        "question": "Where does the title 'Hot Spot' come from?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Mild psychological horror driven by identity unraveling and atmospheric hypnotic meltdown."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate language typical of gritty neo-noir mystery narratives."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate violence centered on a murder investigation and tension between rebels and A.I. forces."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor substance use or references consistent with detective noir tropes."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity involving psychological breakdown and existential threat."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 2,
+      "science": 9,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-19 16:01:47.144196",
+    "updated_at": "2026-08-19 16:01:47.144196"
+  }
 }
