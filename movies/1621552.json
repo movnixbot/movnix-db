@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.099,
+    "popularity": 4.4772,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/82048151",
@@ -26,12 +26,12 @@
       "name": "Crime"
     },
     {
-      "tmdbId": 53,
-      "name": "Thriller"
-    },
-    {
       "tmdbId": 28,
       "name": "Action"
+    },
+    {
+      "tmdbId": 53,
+      "name": "Thriller"
     },
     {
       "tmdbId": 1,
@@ -342,7 +342,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "TR",
+      "title": "El Chapo ile Yüz Yüze",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt39390497",
     "wikidataId": null,
