@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.9054,
+    "popularity": 1.478,
     "voteAverage": 8,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1750855",
     "posterPath": "/2YyWdtnpbJRmvSvBHttJlTEAWTy.jpg",
-    "backdropPath": null,
+    "backdropPath": "/auP3rYRZDEkCpxzUMztdrmytWMg.jpg",
     "collectionId": null,
     "certification": "G"
   },
@@ -63,11 +63,25 @@
       "type": "poster"
     },
     {
+      "filePath": "/auP3rYRZDEkCpxzUMztdrmytWMg.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/2YyWdtnpbJRmvSvBHttJlTEAWTy.jpg",
       "width": 1206,
       "height": 1673,
       "aspectRatio": 0.721,
       "type": "poster"
+    },
+    {
+      "filePath": "/auP3rYRZDEkCpxzUMztdrmytWMg.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -215,12 +229,7 @@
       "buy": []
     },
     "us": {
-      "flatrate": [
-        {
-          "name": "fuboTV",
-          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-        }
-      ],
+      "flatrate": [],
       "buy": []
     }
   },
@@ -250,5 +259,256 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1750855/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1750855,
+    "hash": "1cff57fd1c167ac0a777cfeab886b57bf5e8d0eb25fc057b5df0bcbf632c0f97",
+    "summary_one_sentence": "Disney Princess: The Ultimate Concert Celebration brings together a historic cast of Disney Princess performers at Disneyland Resort for a night of iconic songs, projection mapping, light shows, and fountain displays.",
+    "summary_short": "This spectacular live concert event at Disneyland Resort gathers the largest collection of Disney Princess original stars and performers ever assembled. Together, they perform beloved musical numbers spanning Disney's rich history across animation, live-action films, and Broadway stage productions. Enhanced by immersive projections, fountain displays, and light shows, the event serves as a grand tribute to the music and legacy of Disney Princesses. It provides fans of all ages with a magical journey through timeless stories of courage, love, and ambition.",
+    "summary_long": "Disney Princess: The Ultimate Concert Celebration is a historic musical event staged at the Disneyland Resort that honors the enduring legacy of Disney's classic and modern heroines. The production features the largest assembly of Disney Princess voice actors, Broadway stars, and musical performers ever brought together on a single stage. As each performer takes the stage, they deliver live renditions of iconic Disney songs that have defined generations of storytelling. The concert seamlessly integrates music from animated classics, live-action adaptations, and hit theatrical productions. Visual magic elevates the performance as state-of-the-art light displays, sweeping projection mapping, and soaring water fountains transform the surrounding environment. Audiences are taken on a nostalgic and inspiring journey through themes of bravery, self-discovery, kindness, and hope. Each musical set piece highlights the distinct personality and narrative impact of individual princesses while celebrating their collective impact on global culture. The grand finale brings the ensemble cast together for a breathtaking collaborative performance under illuminated night skies. Ultimately, the concert stands as a landmark tribute to the timeless songs and empowering stories that continue to inspire audiences around the world.",
+    "synopsis": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort is a grand, immersive live music event celebrating the beloved songs and stories of the Disney Princess franchise. Featuring a historic gathering of original voice actors, stage stars, and musical legends, the concert brings decades of classic and contemporary Disney music to life. Accompanied by cutting-edge visual effects—including dynamic projection mapping, fountain choreography, and brilliant light design—the performance creates an enchanting atmosphere that honors the spirit, heroism, and timeless magic of Disney's legendary heroines.",
+    "keywords": [
+      "Disney Princesses",
+      "live concert",
+      "Disneyland Resort",
+      "musical celebration",
+      "stage performance",
+      "sweeping projections",
+      "sky-high fountains",
+      "immersive experience",
+      "dazzling light show",
+      "animated music tribute",
+      "live-action Disney",
+      "iconic songs",
+      "nostalgia",
+      "family entertainment",
+      "Disney legacy"
+    ],
+    "themes": [
+      {
+        "theme": "Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Magic & Empowerment",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Celebration & Unity",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Uplifting",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Magical",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Triumphant",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A breathtaking spectacle where music, pyrotechnics, lighting, and fountain displays peak simultaneously, celebrating the ultimate triumph of the Disney Princess legacy.",
+      "conflict": "The challenge of honoring dozens of distinct, beloved character journeys and musical eras within a single unified, live stage production.",
+      "resolution": "A festive grand finale that leaves the audience with a lasting sense of magic, unity, and inspiration.",
+      "introduction": "The evening begins with a grand opening that brings together an unprecedented assembly of Disney Princess performers, welcoming the audience into an immersive world of classic animation and live-action history.",
+      "risingAction": "A build-up of iconic musical numbers across various eras, enhanced by escalating visual effects including sweeping projections, synchronized light displays, and towering fountain features."
+    },
+    "characters": [
+      {
+        "name": "Brandy Norwood",
+        "role": "Hero",
+        "description": "Performs as Cinderella, representing hope, grace, and resilience as a iconic Disney Princess lead."
+      },
+      {
+        "name": "Lea Salonga",
+        "role": "Hero",
+        "description": "Performs as the singing voice of Mulan and Jasmine, embodying courage, determination, and independence."
+      },
+      {
+        "name": "Jodi Benson",
+        "role": "Hero",
+        "description": "Performs as the voice of Ariel, representing curiosity, wonder, and adventurous spirit."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Cinderella",
+        "target": "Prince Charming",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Ariel",
+        "target": "Prince Eric",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Belle",
+        "target": "Beast",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Jasmine",
+        "target": "Aladdin",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Snow White",
+        "target": "The Evil Queen",
+        "description": "Rivals / Step-mother and Step-daughter"
+      },
+      {
+        "source": "Elsa",
+        "target": "Anna",
+        "description": "Sisters"
+      },
+      {
+        "source": "Aurora",
+        "target": "Maleficent",
+        "description": "Rivals"
+      },
+      {
+        "source": "Rapunzel",
+        "target": "Flynn Rider",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Tiana",
+        "target": "Prince Naveen",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Moana",
+        "target": "Maui",
+        "description": "Allies / Friends"
+      }
+    ],
+    "seo": {
+      "slug": "disney-princess-the-ultimate-concert-celebration",
+      "jsonLd": {
+        "name": "Disney Princess: The Ultimate Concert Celebration",
+        "@type": "MusicEvent",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "name": "Disneyland Resort",
+          "@type": "Place"
+        },
+        "description": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort brings together the largest gathering of Disney Princess stars ever assembled, celebrating the iconic stories across animation, live-action, stage, and music.",
+        "eventStatus": "[https://schema.org/EventScheduled](https://schema.org/EventScheduled)"
+      },
+      "keywords": [
+        "Disney Princess The Ultimate Concert Celebration",
+        "Disneyland Resort concert",
+        "Disney Princess live concert",
+        "Disney Princess music event",
+        "Disneyland night show"
+      ],
+      "canonical": "[https://movnix.com/movie/disney-princess-the-ultimate-concert-celebration](https://movnix.com/movie/disney-princess-the-ultimate-concert-celebration)",
+      "metaTitle": "Disney Princess: The Ultimate Concert Celebration at Disneyland",
+      "openGraph": {
+        "og:title": "Disney Princess: The Ultimate Concert Celebration at Disneyland",
+        "og:description": "Join the ultimate gathering of Disney Princess stars at Disneyland Resort featuring breathtaking projections, lights, fountains, and legendary music."
+      },
+      "twitterCard": {
+        "twitter:title": "Disney Princess: The Ultimate Concert Celebration at Disneyland",
+        "twitter:description": "Experience the ultimate gathering of Disney Princess stars live at Disneyland Resort with unforgettable music and immersive night sky spectacles."
+      },
+      "metaDescription": "Experience the largest gathering of Disney Princess stars at Disneyland Resort with immersive projections, dazzling lights, and iconic music."
+    },
+    "faq": [
+      {
+        "answer": "It is a special live concert event hosted at Disneyland Resort featuring the largest gathering of Disney Princess stars ever assembled, celebrating classic songs and stories across Disney animation, live-action, stage, and music.",
+        "question": "What is Disney Princess: The Ultimate Concert Celebration?"
+      },
+      {
+        "answer": "The concert celebration takes place at Disneyland Resort.",
+        "question": "Where does this event take place?"
+      },
+      {
+        "answer": "The dominant genre is a live musical concert and visual spectacle, centered on theatrical performance, film scores, and live Disney music.",
+        "question": "What is the dominant genre of this show?"
+      },
+      {
+        "answer": "This is a live concert performance hosted at the park rather than a traditional theatrical movie release.",
+        "question": "Is this event a movie release or a live performance?"
+      },
+      {
+        "answer": "Yes, it is part of the global Disney Princess brand and media franchise, highlighting stories, characters, and music from across the entire Disney Princess canon.",
+        "question": "Is this show part of a franchise?"
+      },
+      {
+        "answer": "Because this is a live concert experience at a theme park rather than a standard film screening, traditional film post-credit scenes do not apply, though the performance builds to a spectacular grand finale.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The concert features dazzling night-sky lighting, sweeping projection mapping, and sky-high fountains to create an immersive visual backdrop for the live musical performances.",
+        "question": "What special effects and visual elements are included in the concert?"
+      },
+      {
+        "answer": "The concert celebrates iconic Disney Princess stories spanning classic and modern animated films, live-action adaptations, and stage productions.",
+        "question": "Which Disney Princess stories are featured in the performance?"
+      },
+      {
+        "answer": "The show brings together an unprecedented lineup of Disney Princess stars, including vocalists and performers who have brought these iconic characters to life across stage, screen, and music.",
+        "question": "Who will be performing in the show?"
+      },
+      {
+        "answer": "Yes, it is a family-friendly event designed for Disney fans and music lovers of all ages.",
+        "question": "Is Disney Princess: The Ultimate Concert Celebration suitable for all ages?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No scary or horrific elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "Clean language suitable for all ages."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence present in this family-friendly concert celebration."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 1,
+        "description": "Very low emotional intensity, focused on uplifting and magical Disney music."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 2,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 10,
+      "mystery": 1,
+      "romance": 7,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-08-19 00:05:12.992687",
+    "updated_at": "2026-08-19 00:05:12.992687"
+  }
 }
