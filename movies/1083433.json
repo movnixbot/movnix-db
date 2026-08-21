@@ -10,9 +10,9 @@
     "budget": "18000000",
     "revenue": "64808120",
     "status": "Released",
-    "popularity": 8.2486,
-    "voteAverage": 5.654,
-    "voteCount": 826,
+    "popularity": 8.901,
+    "voteAverage": 5.633,
+    "voteCount": 847,
     "homepage": "https://iknowwhatyoudidlastsummer.movie",
     "posterPath": "/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
     "backdropPath": "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
@@ -49,12 +49,6 @@
       "tmdbId": 5,
       "name": "Columbia Pictures",
       "logoPath": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-      "originCountry": "US"
-    },
-    {
-      "tmdbId": 551,
-      "name": "Mandalay Pictures",
-      "logoPath": "/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png",
       "originCountry": "US"
     },
     {
@@ -1768,6 +1762,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/q4iPuXSEYPD5wOM7PQADtrS8Pys.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/b50DQpWmnaRu291bR706FuNyh2A.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
       "width": 3840,
       "height": 2160,
@@ -2417,13 +2425,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/by8Rxrjn1jyhfgdLW6cc58tnCpU.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.654,
-      "votesCount": 826
+      "ratingValue": 5.633,
+      "votesCount": 847
     },
     {
       "source": "imdb",
@@ -2456,46 +2471,46 @@
       "order": 1
     },
     {
-      "tmdbPersonId": 2286541,
-      "name": "Sarah Pidgeon",
-      "profilePath": "/qrXV2K7OAT4rArCoSa5Wsitc6W9.jpg",
-      "character": "Stevie Ward",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 2
-    },
-    {
-      "tmdbPersonId": 33259,
-      "name": "Jennifer Love Hewitt",
-      "profilePath": "/lW0iM9HZWvnjFTfrTvmZRn2Ks5f.jpg",
-      "character": "Julie James",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 33260,
-      "name": "Freddie Prinze Jr.",
-      "profilePath": "/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg",
-      "character": "Ray Bronson",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
-    },
-    {
       "tmdbPersonId": 1599391,
       "name": "Jonah Hauer-King",
       "profilePath": "/yXGsk9UtOV9tprU5ZSuhwdFtaBB.jpg",
       "character": "Milo Griffin",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 2
     },
     {
       "tmdbPersonId": 3052321,
       "name": "Tyriq Withers",
       "profilePath": "/ilDZHfT8mlXWlvLCaWDhL0OlLSh.jpg",
       "character": "Teddy Spencer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2286541,
+      "name": "Sarah Pidgeon",
+      "profilePath": "/qrXV2K7OAT4rArCoSa5Wsitc6W9.jpg",
+      "character": "Stevie Ward",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 33259,
+      "name": "Jennifer Love Hewitt",
+      "profilePath": "/kRySMLtckE7tl6136y0yzFYpUfE.jpg",
+      "character": "Julie James",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 33260,
+      "name": "Freddie Prinze Jr.",
+      "profilePath": "/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg",
+      "character": "Ray Bronson",
       "job": "Actor",
       "department": "Acting",
       "order": 6
