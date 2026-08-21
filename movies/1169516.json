@@ -2,16 +2,16 @@
   "movie": {
     "tmdbId": 1169516,
     "imdbId": "tt28540171",
-    "title": "Welcome to the Jungle",
-    "originalTitle": "Welcome to the Jungle",
+    "title": "Welcome To The Jungle",
+    "originalTitle": "Welcome To The Jungle",
     "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
     "releaseDate": "2026-06-25",
     "runtime": 170,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.011,
-    "voteAverage": 5.08,
+    "popularity": 6.4646,
+    "voteAverage": 5.1,
     "voteCount": 25,
     "homepage": "https://mock-movie-website.com/movies/1169516",
     "posterPath": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
@@ -197,12 +197,19 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/7q0OUrAScCVOo5WXrvtSPZjkgP6.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.08,
+      "ratingValue": 5.1,
       "votesCount": 25
     },
     {
@@ -442,5 +449,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1169516/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1169516,
+    "hash": "f0995d17714291b3737a4ff86825f1272a70389164d08fcab0b3933f12d7d08e",
+    "summary_one_sentence": "When a chaotic mission goes awry, an eccentric group of individuals becomes stranded in a dangerous jungle where they must evade criminals and overcome hilarious obstacles to escape.",
+    "summary_short": "A routine mission turns chaotic when a group of quirky characters finds themselves lost deep inside a treacherous jungle. Surrounded by ruthless criminals and unpredictable wild environments, the team faces constant confusion and comedic mishaps at every step. To survive the harrowing wilderness and outsmart their adversaries, they must learn to put aside their differences and work together. Ultimately, their wild journey tests their resilience, unity, and unexpected resourcefulness.",
+    "summary_long": "A team of deeply unconventional and quirky individuals embarks on a mission that swiftly devolves into total disorder, leaving them stranded in the heart of an untamed jungle. Without proper survival skills, the team immediately faces a barrage of perils, ranging from unforgiving environmental hazards to unexpected encounters with dangerous criminals. As misunderstandings and panic escalate, the group stumbles into a series of absurd and hilarious situations while trying to navigate the uncharted terrain. Despite their constant bickering and lack of preparation, each character brings unique quirks that surprisingly aid in their survival. Armed mercenaries and jungle hazards push the group to their limits, forcing them to confront their personal flaws and learn the true value of teamwork. High-octane action sequences mix with dramatic heart as the eccentric allies develop genuine trust and camaraderie under pressure. Working together as a unified front, they devise an ingenious plan to outmaneuver the criminals tracking them down. In a climactic fight for freedom, the group uses their wits and newfound cohesion to conquer the jungle's dangers and finally find a way back to safety.",
+    "synopsis": "Welcome to the Jungle is an action-packed comedy-drama that explores what happens when an ill-equipped team is thrown into the deep end of survival. The story follows a mismatched crew whose mission goes completely off the rails, leaving them lost in a dense and hostile jungle setting. Facing the dual threat of dangerous wild environments and ruthless criminals, the characters must navigate a chaotic sequence of comedic blunders and life-threatening scenarios. Beneath the lighthearted humor and dynamic action lies a story about unlikely bonds, personal resilience, and discovering strength through unity in the face of overwhelming odds.",
+    "keywords": [
+      "jungle survival",
+      "misfit team",
+      "chaotic mission",
+      "stranding",
+      "fish out of water",
+      "criminal elements",
+      "slapstick humor",
+      "reluctant allies",
+      "wilderness hazards",
+      "comedy of errors",
+      "high stakes action",
+      "hostile environment",
+      "group dynamics"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Teamwork and Cooperation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Comedic Chaos",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Chaotic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The team faces their ultimate test in a high-stakes showdown against both the elements and dangerous forces, forcing them to execute a frantic, synchronized plan for survival.",
+      "conflict": "Cut off from immediate help, the group faces immediate threats from dangerous terrain, elusive criminals, and their own internal chaos and lack of coordination.",
+      "resolution": "With the threat overcome, the group secures their escape from the jungle, emerging from the chaotic ordeal closer and more unified than before.",
+      "introduction": "A quirky team embarks on a routine mission that takes a sudden turn when they find themselves stranded deep inside an unfamiliar, hostile jungle.",
+      "risingAction": "As hilarious misunderstandings and perilous encounters mount, the team is forced to rely on each other's unique strengths, navigating escalating threats to piece together a way home."
+    },
+    "characters": [
+      {
+        "name": "Akshay Kumar's Character",
+        "role": "Hero",
+        "description": "The central protagonist leading the chaotic mission, combining action with comedic leadership to navigate the team out of danger."
+      },
+      {
+        "name": "Suniel Shetty's Character",
+        "role": "Hero",
+        "description": "A dependable co-lead involved in the core mission who helps hold the group together amidst the jungle hazards."
+      },
+      {
+        "name": "Arshad Warsi's Character",
+        "role": "Comic Relief",
+        "description": "Brings humor and chaotic energy, amplifying the confusion and lighthearted moments during dangerous situations."
+      },
+      {
+        "name": "Paresh Rawal's Character",
+        "role": "Comic Relief",
+        "description": "A quirky character involved in hilarious misunderstandings, contributing heavily to the comedic friction within the group."
+      },
+      {
+        "name": "Jacqueline Fernandez's Character",
+        "role": "Supporting Character",
+        "description": "Part of the main stranded group, aiding in the journey while navigating the jungle traps and criminal encounters."
+      },
+      {
+        "name": "Disha Patani's Character",
+        "role": "Supporting Character",
+        "description": "A key member of the team whose presence adds to the group's chaotic dynamics and survival efforts."
+      },
+      {
+        "name": "Raveena Tandon's Character",
+        "role": "Supporting Character",
+        "description": "An experienced member of the group who interacts closely with the lead characters during the mission."
+      },
+      {
+        "name": "Jackie Shroff's Character",
+        "role": "Villain",
+        "description": "One of the shady criminal figures posing a direct threat to the stranded group in the jungle."
+      },
+      {
+        "name": "Lara Dutta's Character",
+        "role": "Supporting Character",
+        "description": "A resilient member of the team helping navigate through the bizarre hazards of the jungle."
+      },
+      {
+        "name": "Farida Jalal's Character",
+        "role": "Mentor",
+        "description": "A maternal or elder figure offering guidance, wisdom, and moral support amidst the chaos."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Team Leader",
+        "target": "Rookie Specialist",
+        "description": "Mentor/Protege"
+      },
+      {
+        "source": "Eccentric Survivalist",
+        "target": "Team Leader",
+        "description": "Reluctant Allies"
+      },
+      {
+        "source": "Rookie Specialist",
+        "target": "Tech Expert",
+        "description": "Comedic Partners"
+      },
+      {
+        "source": "Jungle Group",
+        "target": "Mercenary Boss",
+        "description": "Enemies/Rivals"
+      }
+    ],
+    "seo": {
+      "slug": "welcome-to-the-jungle",
+      "jsonLd": {
+        "name": "Welcome to the Jungle",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out."
+      },
+      "keywords": [
+        "Welcome to the Jungle movie",
+        "Welcome to the Jungle comedy",
+        "jungle survival movie",
+        "action comedy film",
+        "Welcome to the Jungle synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/welcome-to-the-jungle](https://movnix.com/movie/welcome-to-the-jungle)",
+      "metaTitle": "Welcome to the Jungle - Comedy Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Welcome to the Jungle | Action-Packed Comedy Film",
+        "og:description": "Quirky characters, dangerous criminals, and chaotic jungle survival! Discover what happens in Welcome to the Jungle."
+      },
+      "twitterCard": {
+        "twitter:title": "Welcome to the Jungle | Action-Packed Comedy Film",
+        "twitter:description": "Quirky characters, dangerous criminals, and chaotic jungle survival! Discover what happens in Welcome to the Jungle."
+      },
+      "metaDescription": "A group of quirky characters gets stranded in a dangerous jungle. Can they survive the chaos and criminals? Watch Welcome to the Jungle!"
+    },
+    "faq": [
+      {
+        "answer": "While it shares a title with other notable jungle-themed media, this story operates as a standalone comedic action adventure centered on a unique group of characters trying to survive a chaotic mission.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "There is no official post-credit scene, though the story wraps up with fun character resolutions during the main ending sequence.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre is action-comedy, combining survival misadventures with humorous character interactions and chaotic set pieces.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "A mismatched, quirky crew gets stranded deep in a dangerous jungle during a botched mission, forcing them to navigate hostile wildlife, criminal threats, and their own confusion to escape.",
+        "question": "What is the central premise of Welcome to the Jungle?"
+      },
+      {
+        "answer": "The main threats come from a group of local criminals lurking in the wilderness, alongside the inherent hazards of the uncharted jungle itself.",
+        "question": "Who are the primary antagonists in the story?"
+      },
+      {
+        "answer": "The story features broad, slapstick comedy mixed with situational misadventures, making it largely suitable for general audiences and fans of lighthearted action.",
+        "question": "Is the humor aimed at families or mature audiences?"
+      },
+      {
+        "answer": "Poor planning, miscommunication among the eccentric group members, and unforeseen obstacles quickly derail the objective, leaving them hopelessly lost.",
+        "question": "Why does the mission go wrong in the first place?"
+      },
+      {
+        "answer": "Yes, despite constant arguments and hilarious misunderstandings, their shared desperation forces them to combine their unique skills to survive.",
+        "question": "Does the group eventually learn to work together?"
+      },
+      {
+        "answer": "The majority of the narrative unfolds within a dense, treacherous jungle environment filled with unexpected traps, wildlife, and hidden danger.",
+        "question": "Where does most of the action take place?"
+      },
+      {
+        "answer": "Expect a upbeat, fast-paced, and humorous tone where high-stakes survival situations are constantly undercut by funny character dynamics.",
+        "question": "What type of tone can viewers expect from this story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minor peril and dark jungle atmosphere with low-level suspense."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity and comedic insults."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mild to moderate slapstick action and comedic violence involving criminals and jungle dangers."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Passing background depictions or references to alcohol consumption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive material."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Lighthearted comedic peril and mild survival tension."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 9,
+      "emotion": 3,
+      "fantasy": 1,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 5
+    },
+    "created_at": "2026-08-02 14:04:13.541391",
+    "updated_at": "2026-08-02 14:04:13.541391"
+  }
 }
