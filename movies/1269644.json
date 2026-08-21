@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "8795452",
     "status": "Released",
-    "popularity": 2.0132,
-    "voteAverage": 7.21,
-    "voteCount": 81,
+    "popularity": 1.9172,
+    "voteAverage": 7.2,
+    "voteCount": 85,
     "homepage": "https://mock-movie-website.com/movies/1269644",
     "posterPath": "/z87OLGYXojP3bJjp0EpbutpvGTy.jpg",
     "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
@@ -100,13 +100,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/2BwmqUGlbcLuzjoq76SvdrWXj3p.jpg",
       "width": 1181,
       "height": 1772,
@@ -143,6 +136,13 @@
     },
     {
       "filePath": "/ydc1GKRkZWkJJYZhjldq5BMLvEg.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -376,8 +376,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.21,
-      "votesCount": 81
+      "ratingValue": 7.2,
+      "votesCount": 85
     },
     {
       "source": "imdb",
@@ -541,18 +541,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1865,
-      "name": "Hark Bohm",
-      "profilePath": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg",
+      "tmdbPersonId": 5125,
+      "name": "Fatih Akin",
+      "profilePath": "/jqxUPrXlsAoNPY2GiZaZXUjFbTH.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
     },
     {
-      "tmdbPersonId": 5125,
-      "name": "Fatih Akin",
-      "profilePath": "/jqxUPrXlsAoNPY2GiZaZXUjFbTH.jpg",
+      "tmdbPersonId": 1865,
+      "name": "Hark Bohm",
+      "profilePath": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -635,6 +635,14 @@
         {
           "name": "Apple TV Store",
           "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
         },
         {
           "name": "Fandango At Home",
