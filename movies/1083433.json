@@ -2785,5 +2785,267 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1083433/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1083433,
+    "hash": "8a4d2c1d9c5db8c22d855a89133bf6928dfc88a9421e21d7dbe6f11655953166",
+    "summary_one_sentence": "A year after covering up a fatal hit-and-run, four friends are targeted by a hook-wielding killer who knows their dark secret.",
+    "summary_short": "After inadvertently causing a fatal accident on the Fourth of July, four teenagers dump the victim's body into the ocean and vow never to speak of it again. Exactly one year later, as they try to move on with their lives, they begin receiving cryptic notes warning that someone knows what they did. Soon, a stalker clad in a yellow slicker and armed with a sharp hook begins brutally hunting them down one by one. To survive, the friends must unravel the true identity of the victim and uncover who is seeking vengeance.",
+    "summary_long": "Following their high school graduation, four friends—Julie, Ray, Helen, and Barry—are involved in a tragic hit-and-run accident on a dark coastal road. Panicked about ruining their futures, they decide to toss the seemingly dead body of the pedestrian into the ocean and swear a pact of silence. A year passes, and the traumatized group has drifted apart while struggling with guilt and broken dreams. Their lives are thrown into chaos when Julie receives an anonymous note containing the chilling message: \"I know what you did last summer.\" Suspicion immediately arises among the group, leading them to believe that the man they hit survived or that someone else witnessed the crime. As they investigate the identity of the victim, a mysterious figure wearing a oilskin rain slicker and carrying a meat hook begins terrorizing and murdering those close to them. The body count rises as Helen and Barry fall victim to the killer's relentless rampage, isolating Julie and Ray. Desperate to stay alive, Julie uncovers the truth about the victim's past, leading to a suspenseful confrontation aboard a fishing boat with the killer, a vengeful fisherman named Ben Willis. Although they manage to overpower Willis and throw him overboard, the lingering trauma ensures the nightmare is far from over.",
+    "synopsis": "On the night of July 4th in a small coastal town, four popular teenagers celebrate their high school graduation and promising futures. However, their lives are permanently altered when a moment of carelessness leads to a horrific car accident, striking a lone pedestrian. Fearing prison and the destruction of their ambitions, the group decides to conceal the crime by dumping the body into the sea and pledging absolute secrecy. A year later, as each struggles with the lingering psychological fallout, a terrifying threat emerges in the form of a anonymous note. Soon, a relentless stalker armed with a hook begins targeting them, forcing the former friends to reunite, uncover the identity of the person they struck, and figure out who is hunting them down before it is too late.",
+    "keywords": [
+      "slasher",
+      "small town murder",
+      "stalker",
+      "revenge plot",
+      "deadly secret",
+      "teen horror",
+      "hit and run",
+      "coastal town",
+      "guilt and paranoia",
+      "hook handed killer",
+      "cover up",
+      "past comes back to haunt",
+      "whodunit",
+      "mysterious letters",
+      "90s horror"
+    ],
+    "themes": [
+      {
+        "theme": "Guilt and Secrets",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Consequences of Actions",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The surviving friends face a terrifying, direct confrontation on the water against the relentless stalker, forced to fight for their lives while uncovering the true identity of their tormentor.",
+      "conflict": "Fearing the ruin of their futures, the group decides to dump the victim's body into the ocean, swearing a strict pact of silence to take the secret to their graves.",
+      "resolution": "The immediate threat is overcome and the survivors attempt to rebuild their shattered lives, though the lingering trauma leaves a haunting uncertainty about whether the past is truly buried.",
+      "introduction": "Four high school friends celebrate their graduation and future plans, but their lives are upended when they are involved in a tragic hit-and-run accident on a dark coastal road.",
+      "risingAction": "A year later, the alienated friends receive a threatening anonymous note, initiating a deadly campaign of stalkings, violent attacks, and paranoia as a mysterious killer targets them one by one."
+    },
+    "characters": [
+      {
+        "name": "Julie James",
+        "role": "Hero",
+        "description": "The central protagonist who is consumed by guilt over the accident and leads the effort to uncover the killer's identity."
+      },
+      {
+        "name": "Ray Bronson",
+        "role": "Hero",
+        "description": "Julie's working-class boyfriend who was involved in the accident and helps protect the group while facing suspicion."
+      },
+      {
+        "name": "The Fisherman (Ben Willis)",
+        "role": "Villain",
+        "description": "The vengeful killer clad in a slicker and wielding a hook, seeking retribution against the teenagers for the hit-and-run."
+      },
+      {
+        "name": "Helen Shivers",
+        "role": "Supporting Character",
+        "description": "Julie's best friend and local beauty queen who tries to move on with her life before becoming a target."
+      },
+      {
+        "name": "Barry Cox",
+        "role": "Anti Hero",
+        "description": "An aggressive, hot-headed athlete who insists on covering up the accident and reacts to the threat with hostility."
+      },
+      {
+        "name": "Max Neurick",
+        "role": "Comic Relief",
+        "description": "An acquaintance who had a crush on Helen and serves as an early suspect and source of tension."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Julie James",
+        "target": "Ray Bronson",
+        "description": "Romantic / Ex-Boyfriend"
+      },
+      {
+        "source": "Julie James",
+        "target": "Helen Shivers",
+        "description": "Best Friends / Co-Conspirators"
+      },
+      {
+        "source": "Julie James",
+        "target": "Barry Cox",
+        "description": "Friends / Co-Conspirators"
+      },
+      {
+        "source": "Helen Shivers",
+        "target": "Barry Cox",
+        "description": "Romantic / Ex-Boyfriend"
+      },
+      {
+        "source": "Ray Bronson",
+        "target": "Barry Cox",
+        "description": "Friends / Friction"
+      },
+      {
+        "source": "Ben Willis (The Fisherman)",
+        "target": "Julie James",
+        "description": "Stalker / Target"
+      },
+      {
+        "source": "Ben Willis (The Fisherman)",
+        "target": "Helen Shivers",
+        "description": "Stalker / Target"
+      },
+      {
+        "source": "Ben Willis (The Fisherman)",
+        "target": "Barry Cox",
+        "description": "Stalker / Target"
+      },
+      {
+        "source": "Ben Willis (The Fisherman)",
+        "target": "Ray Bronson",
+        "description": "Stalker / Target"
+      },
+      {
+        "source": "Julie James",
+        "target": "Max Neurick",
+        "description": "Acquaintance / Suspect"
+      },
+      {
+        "source": "Julie James",
+        "target": "Melissa Egan",
+        "description": "Investigative Contact / Sister of Suspected Victim"
+      }
+    ],
+    "seo": {
+      "slug": "i-know-what-you-did-last-summer",
+      "jsonLd": {
+        "name": "I Know What You Did Last Summer",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge."
+      },
+      "keywords": [
+        "I Know What You Did Last Summer",
+        "slasher movie",
+        "horror thriller",
+        "movie synopsis",
+        "I Know What You Did Last Summer plot"
+      ],
+      "canonical": "[https://movnix.com/movie/i-know-what-you-did-last-summer](https://movnix.com/movie/i-know-what-you-did-last-summer)",
+      "metaTitle": "I Know What You Did Last Summer | Synopsis & Movie Info",
+      "openGraph": {
+        "og:title": "I Know What You Did Last Summer - Official Overview",
+        "og:description": "A year after covering up a fatal accident, five friends are stalked by a vengeful killer who knows their secret."
+      },
+      "twitterCard": {
+        "twitter:title": "I Know What You Did Last Summer - Official Overview",
+        "twitter:description": "A year after covering up a fatal accident, five friends are stalked by a vengeful killer who knows their secret."
+      },
+      "metaDescription": "Five friends cover up a deadly car accident, only to be hunted down a year later by a revenge-seeking killer who knows their dark secret."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a slasher horror movie with strong mystery and thriller elements.",
+        "question": "What is the dominant genre of I Know What You Did Last Summer?"
+      },
+      {
+        "answer": "Yes, it is loosely based on the 1973 novel of the same name written by Lois Duncan, though the film adaptation adds considerably more violence and slasher tropes.",
+        "question": "Is I Know What You Did Last Summer based on a book?"
+      },
+      {
+        "answer": "Yes, it launched a franchise that includes several film sequels, such as I Still Know What You Did Last Summer (1998) and I'll Always Know What You Did Last Summer (2006), as well as a 2021 television series adaptation.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, the original 1997 film does not have a post-credits or mid-credits scene, though it ends with a dramatic cliffhanger right before the credits roll.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "The film was directed by Jim Gillespie and written by Kevin Williamson, who also wrote Scream.",
+        "question": "Who directed I Know What You Did Last Summer?"
+      },
+      {
+        "answer": "After accidentally hitting a pedestrian with their car during a late-night celebration, five friends dump the body into the ocean and vow never to speak of it again, only to be stalked by a hook-wielding killer one year later.",
+        "question": "What is the main plot setup of the film?"
+      },
+      {
+        "answer": "The main cast features Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe, and Freddie Prinze Jr.",
+        "question": "Who are the primary cast members starring in the movie?"
+      },
+      {
+        "answer": "The movie is rated R for intense horror violence and gore, as well as some strong language.",
+        "question": "What is the film's Motion Picture Rating (MPA)?"
+      },
+      {
+        "answer": "I Know What You Did Last Summer was released in theaters in North America on October 17, 1997.",
+        "question": "When was the movie originally released in theaters?"
+      },
+      {
+        "answer": "Due to its slasher violence, blood, suspenseful atmosphere, and profanity, it is recommended primarily for mature teenagers and adults.",
+        "question": "Is the movie suitable for younger audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Pervasive dread, suspenseful stalker sequences, body horror, and frequent jump scares."
+      },
+      "language": {
+        "score": 7,
+        "description": "Frequent strong profanity, including explicit expletives and aggressive sexualized insults."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic slash-and-stalk violence, severe injuries, and multiple fatal stabbings with a large metal hook."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Depiction of teenage drinking, alcohol abuse driving key plot events, and recreational drug references."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Brief non-explicit sexual activity, mild sensuality, revealing clothing, and suggestive dialogue."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High psychological distress involving hit-and-run guilt, panic, blackmail, and persistent life-threatening peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 5,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 3,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-21 23:05:59.90773",
+    "updated_at": "2026-08-21 23:05:59.90773"
+  }
 }
