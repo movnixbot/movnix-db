@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.7509,
-    "voteAverage": 5.5,
-    "voteCount": 2,
+    "popularity": 4.9188,
+    "voteAverage": 8.1,
+    "voteCount": 25,
     "homepage": "https://mock-movie-website.com/movies/1314829",
     "posterPath": "/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
     "backdropPath": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
@@ -83,7 +83,21 @@
       "type": "poster"
     },
     {
+      "filePath": "/vnrdXSgNlYj17oU7BWThXLHzdQn.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/Ak3JLIUtRy7ItwPCvUMGK8ROf38.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pt9MGSMt4iOHoOt7rhbObn2ud6l.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -132,18 +146,53 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/yNgFn4f7OAqp1ZFqlGXFZraY4d2.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/1Df85zG0qDXxYFOi1bUoIc0qgai.jpg",
       "width": 2882,
       "height": 1621,
       "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vI60lDrirOfPJZdZkVscHARgb6P.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/88XaRfTn2OwaBSMKbqwExqeEleb.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/roycc4leuZVe9Wfs3wWA3vJiBsw.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cvlCbkB6s7QG7cOl8uz2p43mWkh.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
       "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.5,
-      "votesCount": 2
+      "ratingValue": 8.1,
+      "votesCount": 25
     },
     {
       "source": "crawled",
@@ -243,15 +292,6 @@
       "order": 9
     },
     {
-      "tmdbPersonId": 4820792,
-      "name": "Aidan Leary",
-      "profilePath": null,
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1023306,
       "name": "Jordan Yale Levine",
       "profilePath": "/4HWd65IXQeYChp9SflB0l41Y7TA.jpg",
@@ -276,6 +316,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4820792,
+      "name": "Aidan Leary",
+      "profilePath": "/fivqLaLJXEOUtyFWxNdowoSBILR.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -308,7 +357,7 @@
     {
       "tmdbPersonId": 4820792,
       "name": "Aidan Leary",
-      "profilePath": null,
+      "profilePath": "/fivqLaLJXEOUtyFWxNdowoSBILR.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -330,10 +379,6 @@
     },
     "us": {
       "flatrate": [
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-        },
         {
           "name": "Screambox Amazon Channel",
           "logo": "/vmXC3D9Kqtt9TEohDEmcaxnLYA5.jpg"
