@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.428,
+    "popularity": 4.2825,
     "voteAverage": 10,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1577326",
@@ -290,11 +290,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": []
     }
   },
