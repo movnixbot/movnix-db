@@ -10,9 +10,9 @@
     "budget": "1000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 9.283,
-    "voteAverage": 6.98,
-    "voteCount": 676,
+    "popularity": 11.3724,
+    "voteAverage": 6.988,
+    "voteCount": 699,
     "homepage": "https://www.netflix.com/title/81764371",
     "posterPath": "/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
     "backdropPath": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
@@ -444,6 +444,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/ygAxYspg7s1qqaUwlKWhsI8OHO9.jpg",
+      "width": 1240,
+      "height": 1755,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
       "filePath": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
       "width": 1920,
       "height": 1080,
@@ -617,20 +624,13 @@
       "height": 2037,
       "aspectRatio": 1.778,
       "type": "backdrop"
-    },
-    {
-      "filePath": "/hhJD8Vr40YsxUWqDja3RmUggvmK.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.98,
-      "votesCount": 676
+      "ratingValue": 6.988,
+      "votesCount": 699
     },
     {
       "source": "crawled",
@@ -775,24 +775,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 932759,
-      "name": "Brett Haley",
-      "profilePath": "/AghtkUjCNMa6Kjyq2xNzFXvs32p.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1488451,
-      "name": "Yulin Kuang",
-      "profilePath": "/jiRoG5jHjhDzz1zCb6U2r7FTJbm.jpg",
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 25046,
       "name": "Marty Bowen",
       "profilePath": "/dviYV5G5Gj53G5UBl3DcFl77KBD.jpg",
@@ -811,12 +793,30 @@
       "order": null
     },
     {
+      "tmdbPersonId": 932759,
+      "name": "Brett Haley",
+      "profilePath": "/AghtkUjCNMa6Kjyq2xNzFXvs32p.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1538209,
       "name": "Isaac Klausner",
       "profilePath": "/pjDFZlY2NdoqrnoiMiCB05bMz9y.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1488451,
+      "name": "Yulin Kuang",
+      "profilePath": "/jiRoG5jHjhDzz1zCb6U2r7FTJbm.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     },
     {
