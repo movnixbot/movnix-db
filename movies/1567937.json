@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5293,
+    "popularity": 5.6504,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1567937",
@@ -109,6 +109,13 @@
       "width": 2000,
       "height": 2801,
       "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bm4FpLT76STYHbPcFGhMVQZP1a0.jpg",
+      "width": 2000,
+      "height": 2799,
+      "aspectRatio": 0.715,
       "type": "poster"
     },
     {
@@ -352,7 +359,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "The Empty Gun",
+      "type": "literal"
+    }
+  ],
   "externalIds": {
     "imdbId": "tt38775487",
     "wikidataId": null,
