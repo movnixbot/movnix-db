@@ -1,0 +1,105 @@
+{
+  "movie": {
+    "tmdbId": 1752999,
+    "imdbId": null,
+    "title": "狄仁杰之玄龙六相",
+    "originalTitle": "狄仁杰之玄龙六相",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "2026-08-20",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 5,
+    "voteAverage": 2,
+    "voteCount": 1,
+    "homepage": "https://mock-movie-website.com/movies/1752999",
+    "posterPath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
+    "backdropPath": null,
+    "collectionId": null
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [],
+  "keywords": [],
+  "videos": [],
+  "images": [
+    {
+      "filePath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/1752999"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/1752999"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=1752999"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1752999/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1752999/en.vtt"
+    }
+  ]
+}

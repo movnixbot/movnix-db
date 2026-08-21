@@ -10,7 +10,7 @@
     "budget": "7300000",
     "revenue": "9300000",
     "status": "Released",
-    "popularity": 12.3502,
+    "popularity": 10.7587,
     "voteAverage": 6.6,
     "voteCount": 16,
     "homepage": "https://mock-movie-website.com/movies/1431068",
@@ -164,6 +164,13 @@
       "width": 960,
       "height": 1280,
       "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qk1GXqkOEqMfGHrtoIbMtn1Fb69.jpg",
+      "width": 1383,
+      "height": 2000,
+      "aspectRatio": 0.692,
       "type": "poster"
     },
     {
@@ -607,5 +614,218 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1431068/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1431068,
+    "hash": "474979b0d36a566688c3e1b19bd4770fe3984d8ce01d6dcc23f6e197735aa33f",
+    "summary_one_sentence": "In the twilight of his life, 95-year-old Ishar Singh Grewal recounts his enduring love story and the painful memories of separation during the 1947 Partition of India to his listening grandson.",
+    "summary_short": "Haunted by the memory of a lost childhood romance, 95-year-old Ishar Singh Grewal opens up to his grandson Nirvair about his past. As he shares his experiences, the dramatic reality of the 1947 Partition of India comes to light, revealing the tragedy of forced migration and deep heartbreak. Through these tender recollections, a timeless tale of love and longing emerges, demonstrating how devotion can survive across decades and generations.",
+    "summary_long": "At 95 years old, Ishar Singh Grewal carries the emotional weight of a life spent remembering a love that was torn away by history. He decides to share his deeply buried memories with his grandson, Nirvair, who listens attentively to his grandfather's lingering tale. The narrative shifts back to 1947, during the tumultuous period of the Partition of India, when millions were displaced and countless lives were altered forever. Amid the chaos and violence of forced migration, young Ishar was separated from the girl who held his heart, leaving him with decades of unresolved grief and unanswered questions. As Ishar recounts the details of their secret affection, the painful journey across new borders, and the persistent hope of a future reunion, the mystery surrounding her ultimate fate comes into focus. Nirvair begins to understand the profound impact this lost connection had on his grandfather's lifelong journey and character. The unfolding reflections illustrate the devastating human cost of political division while honoring the resilient spirit of love. Ultimately, Ishar's storytelling bridges the gap between generations, ensuring that a tragic yet beautiful memory continues to live on.",
+    "synopsis": "Main Vaapas Aaunga is an emotional romantic drama centered on 95-year-old Ishar Singh Grewal, who reflects on the unforgettable romance of his youth against the backdrop of the 1947 Partition of India. As Ishar confides in his grandson Nirvair, the narrative delves into the historical tragedy of forced migration, capturing the turmoil, heartbreak, and mystery of a affection disrupted by sudden geopolitical division. This reflective story explores themes of longing, memory, and an enduring devotion that transcends time, offering a poignant look at how personal histories shape family legacies across generations.",
+    "keywords": [
+      "1947 Partition of India",
+      "partition trauma",
+      "star-crossed lovers",
+      "enduring love",
+      "longing",
+      "memory and nostalgia",
+      "elderly protagonist",
+      "intergenerational story",
+      "oral history",
+      "lost romance",
+      "migration narrative",
+      "historical romance",
+      "childhood sweethearts",
+      "haunted by the past",
+      "cultural memory"
+    ],
+    "themes": [
+      {
+        "theme": "Partition of India & Displacement",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Enduring Love & Longing",
+        "confidence": 0.96
+      },
+      {
+        "theme": "Generational Legacy & Memory",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Nostalgia & Regret",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival & Resilience",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Poignant",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The narrative reaches its peak as the past frame aligns with the present, revealing the ultimate fate of Ishar's lost love and forcing both Ishar and Nirvair to confront the emotional weight of a lifetime promise.",
+      "conflict": "The historic 1947 Partition of India abruptly disrupts Ishar's life, separating him from his love amidst mass migration, violence, and border displacements, instigating a decades-long struggle between geographical separation and emotional devotion.",
+      "resolution": "By sharing his full story with Nirvair, Ishar passes down his legacy of resilience and love, offering closure to his lifelong separation while bridging the generational divide.",
+      "introduction": "In the present day, 95-year-old Ishar Singh Grewal sits down with his grandson, Nirvair, to recount the defining memories of his youth, establishing a frame story centered on a deep childhood romance and life prior to the turmoil of 1947.",
+      "risingAction": "As Ishar narrates his journey across decades, Nirvair learns of his grandfather's persistent search, the painful realities of rebuilding a life post-independence, and how unresolved grief and enduring hope echoed through the family line across generations."
+    },
+    "characters": [
+      {
+        "name": "Ishar Singh Grewal (Elderly)",
+        "role": "Mentor",
+        "description": "The 95-year-old protagonist whose memories of love and loss during the Partition serve as the central narrative frame and guide for his grandson."
+      },
+      {
+        "name": "Ishar Singh Grewal (Young)",
+        "role": "Hero",
+        "description": "The youthful central figure experiencing the intense childhood romance, migration, and heartbreak during the 1947 Partition."
+      },
+      {
+        "name": "Nirvair",
+        "role": "Supporting Character",
+        "description": "The listening grandson who receives Ishar Singh's story, connecting the enduring past romance to the modern generation."
+      },
+      {
+        "name": "Ishar's Lost Love",
+        "role": "Supporting Character",
+        "description": "The romantic interest from Ishar's youth whose memory and separation drive the emotional core of the narrative."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ishar Singh Grewal",
+        "target": "Nirvair",
+        "description": "Grandfather/Grandson"
+      }
+    ],
+    "seo": {
+      "slug": "main-vaapas-aaunga",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/main-vaapas-aaunga](https://movnix.com/movie/main-vaapas-aaunga)",
+        "name": "Main Vaapas Aaunga",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+        "mainEntityOfPage": "[https://movnix.com/movie/main-vaapas-aaunga](https://movnix.com/movie/main-vaapas-aaunga)"
+      },
+      "keywords": [
+        "Main Vaapas Aaunga",
+        "Main Vaapas Aaunga movie",
+        "1947 Partition movie",
+        "Indian drama film",
+        "historical romance movie",
+        "Ishar Singh Grewal"
+      ],
+      "canonical": "[https://movnix.com/movie/main-vaapas-aaunga](https://movnix.com/movie/main-vaapas-aaunga)",
+      "metaTitle": "Main Vaapas Aaunga - Partition Romance & Legacy Drama",
+      "openGraph": {
+        "og:title": "Main Vaapas Aaunga - A Story of Love & the 1947 Partition",
+        "og:description": "95-year-old Ishar Singh Grewal recounts a timeless tale of migration, lost love, and enduring romance during the 1947 Partition of India."
+      },
+      "twitterCard": {
+        "twitter:title": "Main Vaapas Aaunga - Historical Romance Drama",
+        "twitter:description": "A powerful tale of romance, longing, and memory enduring across generations after the 1947 Partition of India."
+      },
+      "metaDescription": "Haunted by love lost during the 1947 Partition, 95-year-old Ishar Singh Grewal shares an enduring romance that spans generations with his grandson."
+    },
+    "faq": [
+      {
+        "answer": "The story centers on 95-year-old Ishar Singh Grewal, who shares recollections of his childhood romance and lost love during the 1947 Partition of India with his grandson Nirvair.",
+        "question": "What is Main Vaapas Aaunga about?"
+      },
+      {
+        "answer": "The dominant genres are romantic drama and historical drama.",
+        "question": "What is the dominant genre of this movie?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not part of a franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The 1947 Partition of India serves as the primary historical background for the protagonist's memories.",
+        "question": "What key historical event serves as the backdrop for the film?"
+      },
+      {
+        "answer": "The central characters are Ishar Singh Grewal, an elderly man reflecting on his past, and his grandson Nirvair, who listens to his story.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "The key themes include enduring love, memory, migration, longing, and generational connection.",
+        "question": "What are the core themes explored in Main Vaapas Aaunga?"
+      },
+      {
+        "answer": "While it draws heavily from the real-life historical events and personal accounts surrounding the 1947 Partition, it is framed as a dramatic narrative.",
+        "question": "Is this film based on a true story?"
+      },
+      {
+        "answer": "The story is structured through flashbacks and oral storytelling, transitioning between modern times and memories of the 1947 Partition.",
+        "question": "How is the story structured?"
+      },
+      {
+        "answer": "Yes, it is an emotional drama suitable for audiences interested in historical romance and family storytelling, though it addresses emotional themes related to Partition.",
+        "question": "Is this movie suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements, primarily restricted to thematic hauntings of past memories."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild or negligible strong language."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence associated with historical recollections of the 1947 Partition of India."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use depicted."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content, focused on a romantic narrative and longing."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from themes of trauma, displacement, grief, and lifelong longing."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 1,
+      "emotion": 10,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 10,
+      "science": 0,
+      "suspense": 4,
+      "violence": 3
+    },
+    "created_at": "2026-08-18 11:01:26.901336",
+    "updated_at": "2026-08-18 11:01:26.901336"
+  }
 }
