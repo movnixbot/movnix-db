@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.9706,
-    "voteAverage": 7,
-    "voteCount": 1,
+    "popularity": 3.2461,
+    "voteAverage": 8.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1328335",
     "posterPath": "/k9WhgyyPufmzqxrcMqaJrfowogV.jpg",
     "backdropPath": "/xUYOpSGPBlD2zJPElfzLdfLlant.jpg",
@@ -80,6 +80,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/3UfSDmbnnd07x6E0zBJArANQtWm.jpg",
+      "width": 1080,
+      "height": 1530,
+      "aspectRatio": 0.706,
+      "type": "poster"
+    },
+    {
       "filePath": "/xUYOpSGPBlD2zJPElfzLdfLlant.jpg",
       "width": 2724,
       "height": 1531,
@@ -97,8 +104,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 1
+      "ratingValue": 8.5,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -162,13 +169,31 @@
       "order": 5
     },
     {
+      "tmdbPersonId": 229396,
+      "name": "Ruby O. Fee",
+      "profilePath": "/ozswBwSFKPqTc4wmDXqd9Up2xfh.jpg",
+      "character": "Tessa Paulus",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 24440,
+      "name": "Milan Peschel",
+      "profilePath": "/3E9GchiOTtdEIvZ3AP5cCzXaFNy.jpg",
+      "character": "Marek Bufka",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
       "tmdbPersonId": 1323749,
       "name": "Daniel Christensen",
       "profilePath": "/csIjW5tZcywwkL56YusPUPZ0mfe.jpg",
       "character": "Ignaz Flötzinger",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 8
     },
     {
       "tmdbPersonId": 18951,
@@ -177,7 +202,7 @@
       "character": "Simmerl",
       "job": "Actor",
       "department": "Acting",
-      "order": 7
+      "order": 9
     },
     {
       "tmdbPersonId": 1365556,
@@ -186,7 +211,7 @@
       "character": "Wirt Wolfi",
       "job": "Actor",
       "department": "Acting",
-      "order": 8
+      "order": 10
     },
     {
       "tmdbPersonId": 1093132,
@@ -195,7 +220,7 @@
       "character": "Mayor",
       "job": "Actor",
       "department": "Acting",
-      "order": 9
+      "order": 11
     },
     {
       "tmdbPersonId": 1322963,
@@ -204,7 +229,7 @@
       "character": "Max Simmerl",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 12
     },
     {
       "tmdbPersonId": 572646,
@@ -213,31 +238,13 @@
       "character": "Moratschek",
       "job": "Actor",
       "department": "Acting",
-      "order": 11
+      "order": 13
     },
     {
       "tmdbPersonId": 49270,
       "name": "Petra Berndt",
       "profilePath": "/lJVpNPIlIEJmklR6tEWrHSBexhV.jpg",
       "character": "Mother Dottinger",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 1453230,
-      "name": "Eli Wasserscheid",
-      "profilePath": "/jcmOaDJW0mLrJIPiqg1Vaoxul8i.jpg",
-      "character": "Jessie",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 85785,
-      "name": "Michael Ostrowski",
-      "profilePath": "/vFKDJSCcGexRC0SI9WDcrbnzDCq.jpg",
-      "character": "Günther",
       "job": "Actor",
       "department": "Acting",
       "order": 14
