@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "3300444",
     "status": "Released",
-    "popularity": 12.7352,
-    "voteAverage": 6.559,
-    "voteCount": 507,
+    "popularity": 10.8477,
+    "voteAverage": 6.562,
+    "voteCount": 508,
     "homepage": "https://bleeckerstreetmedia.com/the-return",
     "posterPath": "/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
     "backdropPath": "/vgT0kAaWU88do5RrCfHhXRVPnXM.jpg",
@@ -715,8 +715,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.559,
-      "votesCount": 507
+      "ratingValue": 6.562,
+      "votesCount": 508
     },
     {
       "source": "imdb",
@@ -871,24 +871,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 65456,
-      "name": "James Clayton",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 57632,
-      "name": "Uberto Pasolini",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 55474,
       "name": "John Collee",
       "profilePath": "/521HIZiZfAVcgfudbvefZXAyBxN.jpg",
@@ -911,8 +893,17 @@
       "name": "Uberto Pasolini",
       "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 65456,
+      "name": "James Clayton",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -925,39 +916,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1603891,
-      "name": "Giorgos Karnavas",
-      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1620686,
-      "name": "Konstantinos Kontovrakis",
-      "profilePath": "/ahzGhjKIn1w71tQnL0elKEcd0wx.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1969409,
-      "name": "Stéphane Moatti",
+      "tmdbPersonId": 57632,
+      "name": "Uberto Pasolini",
       "profilePath": null,
       "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 586297,
-      "name": "Romain Le Grand",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -979,12 +943,48 @@
       "order": null
     },
     {
+      "tmdbPersonId": 1969409,
+      "name": "Stéphane Moatti",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 57632,
       "name": "Uberto Pasolini",
       "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1603891,
+      "name": "Giorgos Karnavas",
+      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 586297,
+      "name": "Romain Le Grand",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1620686,
+      "name": "Konstantinos Kontovrakis",
+      "profilePath": "/ahzGhjKIn1w71tQnL0elKEcd0wx.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
