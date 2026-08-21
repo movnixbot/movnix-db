@@ -2,15 +2,15 @@
   "movie": {
     "tmdbId": 1611977,
     "imdbId": "tt39319989",
-    "title": "Housemaid",
-    "originalTitle": "Housemaid",
+    "title": "Housemaid - Sie liebt dich zu Tode",
+    "originalTitle": "Housemaid - Sie liebt dich zu Tode",
     "overview": "After his wife's consciousness is transferred into their android maid, a widower finds himself trapped in a deadly love triangle when the jealous A.I. goes to terrifying lengths to prevent him from moving on with a new woman.",
     "releaseDate": "2026-01-06",
     "runtime": 89,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.7681,
+    "popularity": 3.1565,
     "voteAverage": 1,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1611977",
@@ -146,6 +146,13 @@
       "height": 1204,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/gZ6SMcMD3vsBGkbqM6rdT6on7uL.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -263,7 +270,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
