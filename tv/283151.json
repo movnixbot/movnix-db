@@ -8,62 +8,15 @@
     "firstAirDate": "2026-07-09",
     "lastAirDate": "2026-07-09",
     "status": "Returning Series",
-    "popularity": 10.7713,
-    "voteAverage": 5.3,
-    "voteCount": 6,
+    "popularity": 7.5218,
+    "voteAverage": 5.7,
+    "voteCount": 13,
     "type": "Scripted",
     "posterPath": "/l9z65nDVteL88PmwDqyiTFmxCtF.jpg",
     "backdropPath": "/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
-    "certification": "NC16"
+    "certification": "TV-MA"
   },
   "seasons": [
-    {
-      "_id": "6a58540365b847d40ceb1236",
-      "air_date": "2026-07-09",
-      "episodes": [
-        {
-          "air_date": "2026-07-09",
-          "episode_number": 1,
-          "episode_type": "standard",
-          "id": 7537124,
-          "name": "Episode 1 (with Jennifer Garner)",
-          "overview": "Elin sits down with Jennifer Garner and showrunner Bekah Brunstetter to discuss Episode 1",
-          "production_code": "",
-          "runtime": 46,
-          "season_number": 0,
-          "show_id": 283151,
-          "still_path": null,
-          "vote_average": 0,
-          "vote_count": 0,
-          "crew": [],
-          "guest_stars": []
-        },
-        {
-          "air_date": "2026-07-09",
-          "episode_number": 2,
-          "episode_type": "standard",
-          "id": 7537150,
-          "name": "Episode 2 (with Chloē Sevigny)",
-          "overview": "Chloē Sevigny joins Elin to break down Episode 2 and share stories from filming on Nantucket.",
-          "production_code": "",
-          "runtime": 28,
-          "season_number": 0,
-          "show_id": 283151,
-          "still_path": null,
-          "vote_average": 0,
-          "vote_count": 0,
-          "crew": [],
-          "guest_stars": []
-        }
-      ],
-      "name": "Specials",
-      "networks": [],
-      "overview": "Best-selling author Elin Hilderbrand unpacks \"The Five Star Weekend\" with the cast and crew, discussing all the joy, drama, and food on the show.",
-      "id": 530254,
-      "poster_path": null,
-      "season_number": 0,
-      "vote_average": 0
-    },
     {
       "_id": "6797da710e1e0486d62b50ef",
       "air_date": "2026-07-09",
@@ -201,7 +154,34 @@
           "still_path": "/bMYU61aKpXTassD0s88D5Jg5ZiI.jpg",
           "vote_average": 6.5,
           "vote_count": 1,
-          "crew": [],
+          "crew": [
+            {
+              "job": "Teleplay",
+              "department": "Writing",
+              "credit_id": "6a6bafee74359e1e013f0142",
+              "adult": false,
+              "gender": 1,
+              "id": 1514398,
+              "known_for_department": "Writing",
+              "name": "Bekah Brunstetter",
+              "original_name": "Bekah Brunstetter",
+              "popularity": 0.3895,
+              "profile_path": "/yufSikG3A5g3uqIk3dRSvPwNsq7.jpg"
+            },
+            {
+              "job": "Teleplay",
+              "department": "Writing",
+              "credit_id": "6a6baff125dfb06bf4d2cbd8",
+              "adult": false,
+              "gender": 1,
+              "id": 6379920,
+              "known_for_department": "Writing",
+              "name": "Isabella Rodriguez",
+              "original_name": "Isabella Rodriguez",
+              "popularity": 0.1602,
+              "profile_path": null
+            }
+          ],
           "guest_stars": []
         }
       ],
@@ -232,30 +212,29 @@
       "tmdbId": 251585,
       "name": "Dinner Party Productions",
       "logoPath": null,
-      "originCountry": null
+      "originCountry": "US"
     },
     {
       "tmdbId": 7938,
       "name": "UCP",
       "logoPath": "/8I52qpy2Dp48gD9Jf6W1D6E7Imo.png",
       "originCountry": "US"
+    },
+    {
+      "tmdbId": 307485,
+      "name": "Taco Night Productions",
+      "logoPath": null,
+      "originCountry": "US"
     }
   ],
   "keywords": [],
   "videos": [
     {
-      "name": "The Five Star Weekend | Official Trailer | Sky",
+      "name": "Official Sky Trailer",
       "key": "8KYNnmsCTYc",
       "site": "YouTube",
       "size": 1080,
       "type": "Trailer"
-    },
-    {
-      "name": "The Five Star Weekend | Official Teaser | Peacock Original",
-      "key": "yJzp9LNfaxs",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Teaser"
     }
   ],
   "images": [
@@ -342,20 +321,41 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/2QCnbCGbdhsugc1YwDmTAK9MwJR.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/nhqj6Rek1OB9YY7DwhaPhi0EdxP.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vFf1oBOpQyjMlLVl6E1wlgOaLYl.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.3,
-      "votesCount": 6
+      "ratingValue": 5.7,
+      "votesCount": 13
     }
   ],
   "credits": [
     {
       "tmdbPersonId": 9278,
       "name": "Jennifer Garner",
-      "profilePath": "/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg",
+      "profilePath": "/eiX083VOa0RCGSgwENZgVi5MgDi.jpg",
       "character": "Hollis Shaw",
       "job": "Actor",
       "department": "Acting",
@@ -418,7 +418,7 @@
     {
       "tmdbPersonId": 9278,
       "name": "Jennifer Garner",
-      "profilePath": "/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg",
+      "profilePath": "/eiX083VOa0RCGSgwENZgVi5MgDi.jpg",
       "character": null,
       "job": "Executive Producer",
       "department": "Production",
@@ -488,7 +488,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "RU",
+      "title": "Уикенд на пять звезд",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt35587659",
     "wikidataId": null,
@@ -517,7 +523,20 @@
           "logo": "/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
