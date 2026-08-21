@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.5417,
+    "popularity": 2.0176,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1404521",
-    "posterPath": "/8THEBd1bdOsJZRGTCR3oYrFHaiP.jpg",
+    "posterPath": "/bPP7IWH0GeQDZ5VC9QsE6lRlijI.jpg",
     "backdropPath": "/1KXnH4NcCQTAxV0pZwvIIGCepIx.jpg",
     "collectionId": null,
     "certification": "U"
@@ -50,7 +50,7 @@
   ],
   "images": [
     {
-      "filePath": "/8THEBd1bdOsJZRGTCR3oYrFHaiP.jpg",
+      "filePath": "/bPP7IWH0GeQDZ5VC9QsE6lRlijI.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -62,13 +62,6 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
-    },
-    {
-      "filePath": "/8THEBd1bdOsJZRGTCR3oYrFHaiP.jpg",
-      "width": 1086,
-      "height": 1448,
-      "aspectRatio": 0.75,
-      "type": "poster"
     },
     {
       "filePath": "/bPP7IWH0GeQDZ5VC9QsE6lRlijI.jpg",
@@ -95,6 +88,13 @@
       "filePath": "/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg",
       "width": 1152,
       "height": 1728,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9ICB7f9UvLESzNH24sba6zBZKZK.jpg",
+      "width": 966,
+      "height": 1448,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -351,7 +351,12 @@
           "logo": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
