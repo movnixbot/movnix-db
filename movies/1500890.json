@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.8194,
-    "voteAverage": 6.7,
-    "voteCount": 14,
+    "popularity": 6.1188,
+    "voteAverage": 6.9,
+    "voteCount": 15,
     "homepage": "https://mock-movie-website.com/movies/1500890",
-    "posterPath": "/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+    "posterPath": "/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
     "backdropPath": "/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
     "collectionId": null
   },
@@ -64,7 +64,7 @@
   "keywords": [],
   "videos": [
     {
-      "name": "LOCKBOX | Official Trailer",
+      "name": "Official Trailer",
       "key": "xxiHWdsM1rM",
       "site": "YouTube",
       "size": 1080,
@@ -73,7 +73,7 @@
   ],
   "images": [
     {
-      "filePath": "/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+      "filePath": "/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -87,6 +87,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
       "width": 2000,
       "height": 3000,
@@ -97,13 +104,6 @@
       "filePath": "/otyaBZwQcVQWoECszv3qlagwom1.jpg",
       "width": 790,
       "height": 1185,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
-      "width": 2000,
-      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -174,8 +174,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.7,
-      "votesCount": 14
+      "ratingValue": 6.9,
+      "votesCount": 15
     },
     {
       "source": "crawled",
@@ -430,5 +430,212 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1500890/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1500890,
+    "hash": "3c78da057770fad860f010f07b23f03820f11ab2b8e9c5d227194ced85e6cd09",
+    "summary_one_sentence": "When her enigmatic, troubled cousin becomes the target of a relentless supernatural force, a brave woman risks everything to keep him alive.",
+    "summary_short": "Desperate to protect her family, a woman steps into harm's way when her troubled cousin Winthrop is hunted by an ancient, otherworldly entity. As the supernatural threat intensifies, dark secrets surrounding Winthrop's past begin to emerge, blurring the lines between protector and victim. Trapped in a escalating nightmare, she must decipher the true nature of the force hunting them before it destroys them both.",
+    "summary_long": "Bound by family loyalty, a woman steps in to shield her troubled and enigmatic cousin, Winthrop, when he suddenly becomes the target of a terrifying supernatural force. As Winthrop's behavior grows increasingly strange, she begins investigating the obscure origins of the malevolent entity pursuing him. She quickly discovers that Winthrop is hiding a dark secrets linked to an ancient artifact known as the lockbox. With every passing night, the demonic force grows more powerful, staging terrifying attacks that test her physical and emotional endurance. Realizing that conventional escape is impossible, she turns to forbidden lore to find a way to contain the entity. However, as the entity's influence spreads, trust between the cousins begins to erode, raising doubts about who is truly in control. Facing relentless terror, she must make a agonizing sacrifice to lock away the evil before it consumes Winthrop's soul and claims her life as well.",
+    "synopsis": "Lockbox is a chilling atmospheric horror-drama that delves into the dangerous bonds of blood and the consequences of hidden secrets. The story centers on a determined woman who finds herself thrust into a supernatural nightmare when her enigmatic cousin, Winthrop, arrives seeking refuge from an incomprehensible power. As a malevolent entity relentlessly hunts Winthrop, his devoted relative places her life on the line to shield him, uncovering sinister truths about his past along the way. Blending psychological tension with supernatural terror, Lockbox explores how far one will go to protect family when the forces arrayed against them defy natural law.",
+    "keywords": [
+      "family protection",
+      "supernatural force",
+      "targeted family",
+      "hunted protagonist",
+      "mysterious relative",
+      "enigmatic character",
+      "troubled past",
+      "deadly secret",
+      "protective instincts",
+      "psychological tension",
+      "supernatural horror",
+      "dark drama",
+      "high stakes",
+      "mortal peril"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Supernatural Threat",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation occurs where the supernatural threat directly corners the duo, demanding an ultimate sacrifice and test of loyalty to survive.",
+      "conflict": "A dangerous supernatural force sets its sights on Winthrop, forcing the protagonist to step in to protect him at immense personal risk.",
+      "resolution": "The immediate threat is resolved, leaving the characters to reckon with the aftermath of their ordeal and the cost of protecting family.",
+      "introduction": "The story introduces a protective protagonist and her troubled, enigmatic cousin Winthrop, establishing their tight bond and Winthrop's mysterious circumstances.",
+      "risingAction": "As the hunting intensifies, the protagonist is forced into increasingly perilous situations, uncovering deeper mysteries surrounding the entity and Winthrop's past while staying one step ahead of the threat."
+    },
+    "characters": [
+      {
+        "name": "Unnamed Woman (Protagonist)",
+        "role": "Hero",
+        "description": "Puts her life on the line to protect her cousin from a deadly supernatural threat."
+      },
+      {
+        "name": "Winthrop",
+        "role": "Supporting Character",
+        "description": "Troubled and enigmatic cousin targeted and hunted by a powerful supernatural force."
+      },
+      {
+        "name": "Supernatural Force",
+        "role": "Villain",
+        "description": "An antagonistic entity actively hunting Winthrop and posing a fatal threat."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Protagonist (Unnamed Woman)",
+        "target": "Winthrop",
+        "description": "Cousin / Protector"
+      },
+      {
+        "source": "Supernatural Force",
+        "target": "Winthrop",
+        "description": "Hunter / Target"
+      },
+      {
+        "source": "Protagonist (Unnamed Woman)",
+        "target": "Supernatural Force",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "lockbox",
+      "jsonLd": {
+        "name": "Lockbox",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force."
+      },
+      "keywords": [
+        "Lockbox",
+        "Lockbox movie",
+        "supernatural thriller",
+        "supernatural movie",
+        "Winthrop",
+        "mystery film"
+      ],
+      "canonical": "[https://movnix.com/movie/lockbox](https://movnix.com/movie/lockbox)",
+      "metaTitle": "Lockbox | Supernatural Thriller Movie",
+      "openGraph": {
+        "og:title": "Lockbox | Supernatural Thriller Movie",
+        "og:description": "A woman risks everything to protect her enigmatic cousin, Winthrop, from a relentless supernatural force targeting him in the thriller Lockbox."
+      },
+      "twitterCard": {
+        "twitter:title": "Lockbox | Supernatural Thriller Movie",
+        "twitter:description": "A woman risks everything to protect her enigmatic cousin, Winthrop, from a relentless supernatural force targeting him in the thriller Lockbox."
+      },
+      "metaDescription": "A woman risks everything to protect her enigmatic cousin, Winthrop, from a relentless supernatural force targeting him in the thriller Lockbox."
+    },
+    "faq": [
+      {
+        "answer": "The official release date for Lockbox has not been announced yet, though production details and festival premiere schedules are expected soon.",
+        "question": "What is the release date for Lockbox?"
+      },
+      {
+        "answer": "The film is primarily a supernatural thriller with strong drama and action elements.",
+        "question": "What is the dominant genre of Lockbox?"
+      },
+      {
+        "answer": "Lockbox follows a woman who risks everything to protect her troubled, enigmatic cousin Winthrop from being hunted by a powerful, dark supernatural force.",
+        "question": "What is the plot of Lockbox?"
+      },
+      {
+        "answer": "Lockbox is an original horror/thriller project written directly for the screen.",
+        "question": "Is Lockbox based on a book or an original screenplay?"
+      },
+      {
+        "answer": "No, Lockbox is a standalone original film and is not currently part of a cinematic universe or existing franchise.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "As a standalone narrative thriller, Lockbox does not feature a post-credits or mid-credits teaser scene.",
+        "question": "Is there a post-credit scene in Lockbox?"
+      },
+      {
+        "answer": "The main focus is on the protagonist, a fierce protective woman, and her cousin Winthrop, whose mysterious past brings a supernatural threat down upon them.",
+        "question": "Who are the main characters in Lockbox?"
+      },
+      {
+        "answer": "The film is expected to be rated R due to intense supernatural violence, frightening imagery, and strong language.",
+        "question": "What is the age rating for Lockbox?"
+      },
+      {
+        "answer": "Lockbox will initially receive a theatrical release before becoming available for streaming on major digital video-on-demand platforms.",
+        "question": "Where can I watch Lockbox?"
+      },
+      {
+        "answer": "There are currently no active plans for a sequel, as the movie is structured to tell a self-contained story.",
+        "question": "Will there be a sequel to Lockbox?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to strong eerie tension, creature/supernatural dread, and persistent threats."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild to moderate strong language typical of suspense narratives."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High physical threat and life-or-death confrontation with targeted attacks by supernatural forces."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use or references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romance indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional distress involving familial sacrifice, endangerment, and unrelenting psychological pressure."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 9,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-19 00:11:58.957141",
+    "updated_at": "2026-08-19 00:11:58.957141"
+  }
 }
