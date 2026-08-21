@@ -3,14 +3,14 @@
     "tmdbId": 1182935,
     "imdbId": "tt32359586",
     "title": "The Unknown",
-    "originalTitle": "L’Inconnue",
+    "originalTitle": "L’inconnue",
     "overview": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
     "releaseDate": "2026-08-26",
-    "runtime": 139,
+    "runtime": 140,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.232,
+    "popularity": 1.4236,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1182935",
@@ -27,6 +27,10 @@
     {
       "tmdbId": 18,
       "name": "Drama"
+    },
+    {
+      "tmdbId": 9648,
+      "name": "Mystery"
     },
     {
       "tmdbId": 1,
@@ -75,6 +79,12 @@
       "name": "Logical Content Ventures",
       "logoPath": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png",
       "originCountry": "FR"
+    },
+    {
+      "tmdbId": 128102,
+      "name": "Adler Entertainment",
+      "logoPath": "/dpAwWUOotsC5QAFKnJEvG6K0HXR.png",
+      "originCountry": "IT"
     }
   ],
   "keywords": [],
@@ -142,6 +152,13 @@
       "width": 853,
       "height": 1280,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vHcBtlyQQP6NkT4ld68DamDNkXq.jpg",
+      "width": 2000,
+      "height": 2800,
+      "aspectRatio": 0.714,
       "type": "poster"
     },
     {
@@ -234,6 +251,48 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/xFJtOPZQSl6iuHbmR3iPTkmU0E2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/j1A9G6br2PfKQx5nnayHB3vNgUl.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/xefvE9hDdNdPHXEOIGBeFByW9iA.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/qyJYHpb5fALnY1q3HKMasUjuO5k.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/8spAnbkT9M5LZss4fgXaoTD86XQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7KMmSf6liWyCIlJ4JV8HbtKZngr.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -304,19 +363,19 @@
       "order": 5
     },
     {
-      "tmdbPersonId": 1592949,
-      "name": "Victoire du Bois",
-      "profilePath": "/eQm8pA8ahuPZysSsqxd9oqmEBUy.jpg",
-      "character": "Sophie Caro",
+      "tmdbPersonId": 2239987,
+      "name": "Jonathan Turnbull",
+      "profilePath": "/xwb9vbNeMmQ9XMsqxkFMeRcKR2I.jpg",
+      "character": "Chris Caro",
       "job": "Actor",
       "department": "Acting",
       "order": 6
     },
     {
-      "tmdbPersonId": 2239987,
-      "name": "Jonathan Turnbull",
-      "profilePath": "/xwb9vbNeMmQ9XMsqxkFMeRcKR2I.jpg",
-      "character": "Chris Caro",
+      "tmdbPersonId": 1592949,
+      "name": "Victoire du Bois",
+      "profilePath": "/eQm8pA8ahuPZysSsqxd9oqmEBUy.jpg",
+      "character": "Sophie Caro",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -326,8 +385,8 @@
       "name": "Arthur Harari",
       "profilePath": "/7UK3QYeWql7lPyU8aqY204g2WV5.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -335,8 +394,8 @@
       "name": "Arthur Harari",
       "profilePath": "/7UK3QYeWql7lPyU8aqY204g2WV5.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -358,15 +417,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1678390,
-      "name": "Lucas Harari",
-      "profilePath": null,
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1595100,
       "name": "Lionel Guedj",
       "profilePath": null,
@@ -376,9 +426,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1175620,
-      "name": "Justine Triet",
-      "profilePath": "/mOn5lo038i8vw6qqJTwKw35KCL7.jpg",
+      "tmdbPersonId": 1678390,
+      "name": "Lucas Harari",
+      "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
