@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.4236,
+    "popularity": 1.7828,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1182935",
@@ -320,7 +320,7 @@
     {
       "tmdbPersonId": 143596,
       "name": "Niels Schneider",
-      "profilePath": "/iIVp60s30iA2CNKTWxmxLgdy1Vr.jpg",
+      "profilePath": "/eG7go6nzgnb791avzYoN7GSqPd6.jpg",
       "character": "David Zimmerman / Malia",
       "job": "Actor",
       "department": "Acting",
@@ -385,8 +385,8 @@
       "name": "Arthur Harari",
       "profilePath": "/7UK3QYeWql7lPyU8aqY204g2WV5.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -394,8 +394,8 @@
       "name": "Arthur Harari",
       "profilePath": "/7UK3QYeWql7lPyU8aqY204g2WV5.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -490,5 +490,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1182935/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1182935,
+    "hash": "bf0980adf3215d8f5ec86125bcffb1a9bb8b078b25cb47fcf677980264739207",
+    "summary_one_sentence": "After pursuing a mysterious woman at a wild party, an agoraphobic photographer undergoes a surreal transformation when he awakens trapped inside her body.",
+    "summary_short": "David Zimmerman is a reclusive photographer who rarely steps outside his comfort zone until his friends coax him into attending a chaotic party. There, he becomes deeply obsessed with a enigmatic woman and decides to follow her into the night. As dawn breaks, David's reality shatters when he wakes up to discover he has mysteriously swapped bodies with her. He must now navigate this bizarre new existence while searching for answers about what truly happened.",
+    "summary_long": "David Zimmerman leads a quiet, isolated life as a photographer, preferring the safety of his home over the unpredictability of the outside world. His routine is disrupted when well-meaning friends persuade him to break his isolation and join them at an energetic party. At the event, David's attention is immediately captured by an intriguing and mysterious woman who stands out from the crowd. Driven by an intense fascination, he decides to follow her when she leaves, embarking on an unexpected journey through the night. As they navigate the city together, an intangible shift occurs in the atmosphere, blurrying the lines between reality and dream. By the time dawn arrives, David experiences a shocking, life-altering phenomenon as consciousness fades. He awakens shortly after, only to realize in horror and disbelief that he is now occupying the woman's physical body. Trapped in an unfamiliar identity, David is forced to confront both his past anxieties and the supernatural nature of his transformation. He must piece together the woman's true origins while trying to find a way back to his original self.",
+    "synopsis": "The Unknown tells the story of David Zimmerman, a reserved photographer accustomed to a secluded lifestyle. Encouraged by his close friends, David steps out of his comfort zone to attend a lively evening gathering, where he becomes captivated by a enigmatic woman. Following her into the night, David enters a surreal journey that culminates at dawn when he mysteriously awakens inside her body, setting off a drama blended with fantasy elements as he confronts identity, obsession, and the surreal consequences of his fixations.",
+    "keywords": [
+      "body swap",
+      "identity transformation",
+      "mysterious woman",
+      "obsessive fixation",
+      "reclusive protagonist",
+      "photographer",
+      "wild party",
+      "overnight change",
+      "surreal drama",
+      "loss of identity",
+      "urban fantasy",
+      "psychological mystery",
+      "altered reality"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Transformation",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Obsession & Fixation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation vs. Connection",
+        "confidence": 0.85
+      },
+      {
+        "theme": "The Unknown & Mystery",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "David awakens at daybreak to the shocking realization that he has inhabited her body, completely shattering his sense of identity and reality.",
+      "conflict": "At the party, David encounters a captivating and mysterious woman, sparking an intense fixation that drives him to follow her into the unfamiliar night.",
+      "resolution": "Faced with the irreversible shift in his existence, David must navigate the immediate psychological aftermath and adapt to an entirely new life and perspective.",
+      "introduction": "David Zimmerman, an introverted photographer, lives an isolated, stay-at-home existence until his friends convince him to step outside his comfort zone and attend an unpredictable party.",
+      "risingAction": "As David pursues her through the hours leading up to dawn, the boundaries of his secluded world begin to unravel, culminating in a surreal and unsettling transformation."
+    },
+    "characters": [
+      {
+        "name": "David Zimmerman",
+        "role": "Hero",
+        "description": "A reclusive Parisian photographer whose life is upended after waking up in the body of a mysterious woman following a party encounter."
+      },
+      {
+        "name": "Eva / The Mysterious Woman",
+        "role": "Villain",
+        "description": "The enigmatic woman David follows, who initiates the sexual encounter that forces David to swap bodies with her."
+      },
+      {
+        "name": "Sophie",
+        "role": "Supporting Character",
+        "description": "One of David's close friends who convinces him to leave his home and attend the wild party."
+      },
+      {
+        "name": "Gabi",
+        "role": "Mentor",
+        "description": "David's observant mother who provides grounded guidance and emotional support as he navigates his identity crisis."
+      },
+      {
+        "name": "Malia",
+        "role": "Supporting Character",
+        "description": "A crucial figure connected to the central mystery whom David encounters during his search for answers."
+      },
+      {
+        "name": "Chris Caro",
+        "role": "Comic Relief",
+        "description": "An eccentric party acquaintance whose erratic behavior provides lighthearted contrast to the uncanny narrative."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "David Zimmerman",
+        "target": "Mysterious Woman",
+        "description": "Fixation / Body Swap Target"
+      },
+      {
+        "source": "David Zimmerman",
+        "target": "Friends",
+        "description": "Friends / Social Encouragers"
+      }
+    ],
+    "seo": {
+      "slug": "the-unknown",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-unknown](https://movnix.com/movie/the-unknown)",
+        "name": "The Unknown",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "David Zimmerman",
+            "@type": "Person"
+          }
+        ],
+        "description": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body."
+      },
+      "keywords": [
+        "The Unknown movie",
+        "David Zimmerman photographer",
+        "psychological thriller",
+        "body swap mystery",
+        "The Unknown synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-unknown](https://movnix.com/movie/the-unknown)",
+      "metaTitle": "The Unknown (2026) - Watch Psychological Thriller | Movnix",
+      "openGraph": {
+        "og:title": "The Unknown - A Mind-Bending Body Swap Mystery",
+        "og:description": "When photographer David Zimmerman follows a mysterious stranger home, dawn brings an impossible transformation: he awakens in her body."
+      },
+      "twitterCard": {
+        "twitter:title": "The Unknown - Mystery Thriller",
+        "twitter:description": "A photographer follows a mysterious woman and wakes up living her life. Explore the story behind The Unknown."
+      },
+      "metaDescription": "Photographer David Zimmerman follows a mysterious woman from a party and wakes up in her body. Discover the mind-bending mystery of The Unknown."
+    },
+    "faq": [
+      {
+        "answer": "The Unknown is primarily a supernatural drama and psychological mystery, featuring elements of bodyswap fantasy and romantic thrillers.",
+        "question": "What is the dominant genre of The Unknown?"
+      },
+      {
+        "answer": "The story follows David Zimmerman, a introverted photographer who leaves his home to attend a wild party, becomes fixated on a mysterious woman, and follows her, only to wake up in her body by dawn.",
+        "question": "What is the primary plot of The Unknown?"
+      },
+      {
+        "answer": "The Unknown is an original concept designed as a standalone body-switch thriller and psychological character study.",
+        "question": "Is The Unknown based on a book or an original concept?"
+      },
+      {
+        "answer": "No, The Unknown is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The story concludes definitively as the main narrative resolves before the credits roll.",
+        "question": "Is there a post-credits scene in The Unknown?"
+      },
+      {
+        "answer": "The protagonist is David Zimmerman, a reclusive photographer whose life changes dramatically after attending a party.",
+        "question": "Who is the protagonist of The Unknown?"
+      },
+      {
+        "answer": "The primary conflict stems from David discovering he has awakened in the mysterious woman's body, forcing him to navigate her life while figuring out what happened to his own body and identity.",
+        "question": "What is the central conflict in the movie?"
+      },
+      {
+        "answer": "Unlike traditional body-swap comedies, The Unknown adopts a moody, atmospheric, and psychological tone focused on identity, fixation, and transformation.",
+        "question": "What tone does the film take with the body-swap premise?"
+      },
+      {
+        "answer": "The central turning point occurs between a wild night party and dawn, as David tracks the mysterious woman back to her location before waking up transformed.",
+        "question": "Where does the turning point of the movie take place?"
+      },
+      {
+        "answer": "The film appeals to fans of suspenseful indie dramas, supernatural mysteries, atmospheric character studies, and psychological thrillers.",
+        "question": "Who is the intended target audience for The Unknown?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild eerie and unnerving surreal elements surrounding the sudden body-swapping transformation."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or strong language indicated in the brief synopsis."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or physical harm is described in the premise."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild substance presence implied by a wild party setting."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild suggestive themes implied by following a fixation from a party, but no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate psychological distress and existential confusion associated with awakening in a completely different body."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 4,
+      "science": 3,
+      "suspense": 8,
+      "violence": 1
+    },
+    "created_at": "2026-08-21 16:01:25.704487",
+    "updated_at": "2026-08-21 16:01:25.704487"
+  }
 }

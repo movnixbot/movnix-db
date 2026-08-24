@@ -3,19 +3,19 @@
     "tmdbId": 1508168,
     "imdbId": "tt37535100",
     "title": "Bethlehem Kudumba Unit",
-    "originalTitle": "ബത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+    "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
     "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
     "releaseDate": "2026-08-21",
-    "runtime": 156,
+    "runtime": 155,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5287,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 8.0197,
+    "voteAverage": 8.3,
+    "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1508168",
     "posterPath": "/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-    "backdropPath": "/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+    "backdropPath": "/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -27,6 +27,10 @@
     {
       "tmdbId": 35,
       "name": "Comedy"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 1,
@@ -54,7 +58,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Bethlehem Kudumba Unit Official Trailer | Girish AD | Nivin Pauly | Mamitha Baiju | Bhavana Studios",
+      "key": "fk0JHh1P9H0",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
@@ -64,7 +76,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "filePath": "/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -75,6 +87,27 @@
       "width": 1868,
       "height": 2803,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3DgkZZlTANurdiqbbD2hqAQ7xKx.jpg",
+      "width": 640,
+      "height": 853,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5OkcT9ctOBfuIwT2ceBg4gHb8Ko.jpg",
+      "width": 569,
+      "height": 853,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2nK41U3LNbz3LBnwSWoGjeYWA7I.jpg",
+      "width": 640,
+      "height": 853,
+      "aspectRatio": 0.75,
       "type": "poster"
     },
     {
@@ -99,14 +132,33 @@
       "type": "poster"
     },
     {
+      "filePath": "/lx08xQFFMIU6J8a699484Zy8WF2.jpg",
+      "width": 640,
+      "height": 853,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
       "filePath": "/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+      "width": 3277,
+      "height": 1843,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8.3,
+      "votesCount": 6
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -118,7 +170,7 @@
       "tmdbPersonId": 1071561,
       "name": "Nivin Pauly",
       "profilePath": "/v8duBiKG9cfOy3RX1cW6JnrLuDe.jpg",
-      "character": "Justin",
+      "character": "Justin Davis",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -136,7 +188,7 @@
       "tmdbPersonId": 3389588,
       "name": "Sangeeth Prathap",
       "profilePath": "/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg",
-      "character": null,
+      "character": "Joel Davis",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -145,7 +197,7 @@
       "tmdbPersonId": 141074,
       "name": "Suresh Krishna",
       "profilePath": "/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg",
-      "character": null,
+      "character": "Johnny",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -154,7 +206,7 @@
       "tmdbPersonId": 1160633,
       "name": "Vinay Forrt",
       "profilePath": "/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg",
-      "character": null,
+      "character": "Alex",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -163,7 +215,7 @@
       "tmdbPersonId": 3398014,
       "name": "Shyam Mohan",
       "profilePath": "/wqUndf8mfVUxKtus68hrh7dlBhX.jpg",
-      "character": null,
+      "character": "Hari",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -172,7 +224,7 @@
       "tmdbPersonId": 591174,
       "name": "Bindu Panicker",
       "profilePath": "/18KNkcI2UpSASkztGHJCGDtw4bP.jpg",
-      "character": null,
+      "character": "Kunjaunty",
       "job": "Actor",
       "department": "Acting",
       "order": 6
@@ -181,7 +233,7 @@
       "tmdbPersonId": 4027672,
       "name": "Roshan Shanavas",
       "profilePath": "/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg",
-      "character": null,
+      "character": "Glixon",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -190,7 +242,7 @@
       "tmdbPersonId": 1293125,
       "name": "Srindaa",
       "profilePath": "/5kdOuFtZ6T3LPwtu5mQfXSXPYUP.jpg",
-      "character": null,
+      "character": "Reshma",
       "job": "Actor",
       "department": "Acting",
       "order": 8
@@ -199,7 +251,7 @@
       "tmdbPersonId": 1868474,
       "name": "Shameer Khan",
       "profilePath": null,
-      "character": null,
+      "character": "Brinto",
       "job": "Actor",
       "department": "Acting",
       "order": 9
@@ -208,7 +260,7 @@
       "tmdbPersonId": 2238390,
       "name": "Meenakshi Raveendran",
       "profilePath": "/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg",
-      "character": null,
+      "character": "Riya",
       "job": "Actor",
       "department": "Acting",
       "order": 10
@@ -217,7 +269,7 @@
       "tmdbPersonId": 5744621,
       "name": "Parvathy Ayyapadas",
       "profilePath": null,
-      "character": null,
+      "character": "Sayoojya",
       "job": "Actor",
       "department": "Acting",
       "order": 11
@@ -226,7 +278,7 @@
       "tmdbPersonId": 3348461,
       "name": "Sree Renjini",
       "profilePath": null,
-      "character": null,
+      "character": "Renju",
       "job": "Actor",
       "department": "Acting",
       "order": 12
@@ -235,7 +287,7 @@
       "tmdbPersonId": 1825233,
       "name": "Vineeth Vishwam",
       "profilePath": "/aNNOrpCuXrgxtGpNTYYZjDyv3HM.jpg",
-      "character": null,
+      "character": "Nandanji",
       "job": "Actor",
       "department": "Acting",
       "order": 13
@@ -244,7 +296,7 @@
       "tmdbPersonId": 1706817,
       "name": "Vettukili Prakash",
       "profilePath": "/h1mftN3IxrVKbw18RkH4SGBj0Rw.jpg",
-      "character": null,
+      "character": "Davis",
       "job": "Actor",
       "department": "Acting",
       "order": 14
