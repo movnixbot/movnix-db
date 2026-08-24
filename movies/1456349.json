@@ -10,9 +10,9 @@
     "budget": "6000000",
     "revenue": "9602793",
     "status": "Released",
-    "popularity": 7.2402,
-    "voteAverage": 7.14,
-    "voteCount": 620,
+    "popularity": 10.0731,
+    "voteAverage": 7.163,
+    "voteCount": 649,
     "homepage": "https://www.neonrated.com/film/it-was-just-an-accident",
     "posterPath": "/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
     "backdropPath": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
@@ -1104,8 +1104,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.14,
-      "votesCount": 620
+      "ratingValue": 7.163,
+      "votesCount": 649
     },
     {
       "source": "imdb",
@@ -1431,5 +1431,221 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1456349/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1456349,
+    "hash": "89a77bb8cdfdd8d87124d7166b1f7d7e406dbe613eb302ed6c52b048961c2d8b",
+    "summary_one_sentence": "After recognizing the distinct squeak of a prosthetic leg, an Iranian mechanic kidnaps a man he suspects to be his former prison torturer and gathers fellow survivors to confirm his identity and decide his fate.",
+    "summary_short": "Vahid, an unassuming Iranian auto mechanic, is haunted by memories of his imprisonment when a customer with a squeaky prosthetic leg enters his garage. Convinced the man is Eghbal, the sadistic jailhouse captor who brutalized him while blindfolded, Vahid impulsively abducts him and enlists other former political prisoners to verify his identity. As the group navigates moral conflicts and personal disagreements while driving around Tehran, they struggle with whether to exact revenge or seek reconciliation. Ultimately, the film examines the heavy burden of trauma, justice, and the delicate line between retribution and humanity.",
+    "summary_long": "The story begins when a man with a squeaky prosthetic leg brings his car to an Iranian garage, triggering traumatic memories for mechanic Vahid, a former political prisoner. Believing this customer is Eghbal, his former blindfolded torturer, Vahid follows the man, kidnaps him, and seeks out other survivors to confirm his identity. He connects with fellow victims—including photographer Shiva, a bride-to-be named Golrokh, and the aggressive Hamid—who each struggle to positively identify the man since they never saw his face. Tensions escalate within the group as they debate whether to execute their suspect, demand a confession, or let him go. Amidst their heated debates, they discover the captive's pregnant wife is in labor, prompting them to briefly set aside their plan to transport the family to a hospital. Frustrated by the situation, most of the group departs, leaving Vahid and Shiva alone with the bound captive in a remote location. Facing intense interrogation, the man eventually breaks down, admits his identity as Eghbal, and tearfully apologizes while claiming he was merely following orders. Touched by his remorse and unwilling to perpetuate the cycle of violence, Vahid sets Eghbal free and drives away with Shiva. However, an ambiguous concluding moment leaves the enduring shadow of fear and trauma lingering over Vahid's life.",
+    "synopsis": "Directed by Jafar Panahi, 'It Was Just an Accident' is a tense moral thriller centered on Vahid, an ordinary mechanic whose traumatic past resurfaces during a chance encounter with a customer. Hearing the distinctive squeak of a prosthetic leg, Vahid comes to suspect that the man is Eghbal—the sadistic prison interrogator who tormented him and many others under the Iranian regime. Determined to seek truth and potential justice, Vahid abducts the suspect and gathers a motley crew of fellow former political prisoners. Because the victims were blindfolded during their confinement, none can definitively confirm the man's identity, forcing the group into a frantic, ethically charged journey across Tehran. As personal grievances, conflicting ideals, and unexpected human moments complicate their plot, the film delivers a gripping exploration of trauma, revenge, and the complex nature of forgiveness.",
+    "keywords": [
+      "sadistic captor",
+      "torture survivor",
+      "iranian prison",
+      "mechanic hero",
+      "mistaken identity",
+      "revenge plot",
+      "psychological trauma",
+      "confronting the past",
+      "vigilante justice",
+      "paranoia",
+      "moral ambiguity",
+      "cat and mouse",
+      "dark secrets",
+      "haunted past"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge vs. Forgiveness",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Trauma and Memory",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Justice and Accountability",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Paranoia and Moral Ambiguity",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The ex-prisoners engage in a high-stakes, tense confrontation with the man as conflicting memories, moral arguments, and personal grievances boil over during their improvised interrogation.",
+      "conflict": "Vahid notices key details about the customer, Eghbal, that lead him to strongly suspect the man is the sadistic jailhouse captor who tortured him while he was blindfolded in prison.",
+      "resolution": "The group reaches a critical decision regarding vengeance and justice, forcing each survivor to confront the ethical burden of revenge and the enduring impact of systemic persecution.",
+      "introduction": "Vahid, an unassuming mechanic living a quiet life, has his past suddenly reignited when a customer arrives at his auto shop seeking help after a car accident.",
+      "risingAction": "Plagued by uncertainty and past trauma, Vahid detains Eghbal and gathers a group of fellow ex-prisoners to help verify the suspect's identity and determine how to handle their presumed tormentor."
+    },
+    "characters": [
+      {
+        "name": "Vahid Mobasseri",
+        "role": "Hero",
+        "description": "An unassuming mechanic haunted by trauma, who must confront his past when he crosses paths with his former tormentor."
+      },
+      {
+        "name": "Ebrahim Azizi",
+        "role": "Villain",
+        "description": "The suspected sadistic prison captor whose presence reignites dark memories and tension."
+      },
+      {
+        "name": "Mariam Afshari",
+        "role": "Supporting Character",
+        "description": "A close ally or confidante providing emotional grounding and perspective amidst the conflict."
+      },
+      {
+        "name": "Hadis Pakbaten",
+        "role": "Supporting Character",
+        "description": "A key figure in the community who witnesses the escalating psychological fallout."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Mechanic (Former Political Prisoner)",
+        "target": "The Customer (Suspected Torturer)",
+        "description": "Victim / Alleged Captor"
+      },
+      {
+        "source": "The Mechanic (Former Political Prisoner)",
+        "target": "Fellow Survivors",
+        "description": "Allies / Co-conspirators"
+      },
+      {
+        "source": "Fellow Survivors",
+        "target": "The Customer (Suspected Torturer)",
+        "description": "Accusers / Targets of Reckoning"
+      }
+    ],
+    "seo": {
+      "slug": "it-was-just-an-accident",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/it-was-just-an-accident](https://movnix.com/movie/it-was-just-an-accident)",
+        "name": "It Was Just an Accident",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor."
+      },
+      "keywords": [
+        "It Was Just an Accident",
+        "It Was Just an Accident movie",
+        "Iranian prison thriller",
+        "psychological thriller movie",
+        "mechanic thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/it-was-just-an-accident](https://movnix.com/movie/it-was-just-an-accident)",
+      "metaTitle": "It Was Just an Accident - Movie Overview & Details | Movnix",
+      "openGraph": {
+        "og:title": "It Was Just an Accident - Official Movie Overview",
+        "og:description": "An unassuming mechanic's past haunts him when he encounters the man he suspects was his sadistic Iranian prison captor."
+      },
+      "twitterCard": {
+        "twitter:title": "It Was Just an Accident - Official Movie Overview",
+        "twitter:description": "An unassuming mechanic's past haunts him when he encounters the man he suspects was his sadistic Iranian prison captor."
+      },
+      "metaDescription": "An unassuming mechanic confronts his past when he encounters a man he suspects was his sadistic captor in an Iranian prison. Watch details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "This story centers on an unassuming mechanic whose past trauma resurfaces when he believes he's encountered his sadistic jailhouse captor from an Iranian prison.",
+        "question": "What is \"It Was Just an Accident\" about?"
+      },
+      {
+        "answer": "The overview provided does not specify if the story is based on true events. It appears to be a fictional narrative.",
+        "question": "Is \"It Was Just an Accident\" based on a true story?"
+      },
+      {
+        "answer": "Based on the overview, the dominant genre appears to be a psychological thriller with elements of drama and suspense.",
+        "question": "What is the dominant genre of \"It Was Just an Accident\"?"
+      },
+      {
+        "answer": "The main characters include the unassuming mechanic, who is the protagonist, and a man he suspects to be his former jailhouse captor, serving as the antagonist.",
+        "question": "Who are the main characters in \"It Was Just an Accident\"?"
+      },
+      {
+        "answer": "There is no indication in the overview that \"It Was Just an Accident\" is part of a larger franchise or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Key themes likely include trauma, memory, justice, revenge, and the lingering effects of past atrocities.",
+        "question": "What themes are explored in \"It Was Just an Accident\"?"
+      },
+      {
+        "answer": "The provided overview does not contain information regarding the presence of a post-credit scene.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story involves flashbacks or memories of an Iranian prison, but the present-day setting where the mechanic encounters the suspected captor is not specified.",
+        "question": "Where does \"It Was Just an Accident\" take place?"
+      },
+      {
+        "answer": "The tone is likely dark, intense, and suspenseful, reflecting the serious and dramatic nature of the plot.",
+        "question": "What kind of tone does \"It Was Just an Accident\" have?"
+      },
+      {
+        "answer": "The overview states he 'suspects' the man, implying a recognition or a strong gut feeling, but the specific details of what triggers this suspicion are not provided.",
+        "question": "What makes the mechanic suspect the man is his captor?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Psychological tension, dread, and disturbing themes related to severe past trauma rather than traditional horror tropes."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely includes moderate strong language in confrontational or high-stress scenes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence implied through themes of physical abuse and torture associated with Iranian prison experiences."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible mild alcohol or tobacco use typical of dramatic character interactions."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by themes of trauma, revenge, torture memories, and tense confrontation."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-07-30 13:14:45.965704",
+    "updated_at": "2026-07-30 13:14:45.965704"
+  }
 }
