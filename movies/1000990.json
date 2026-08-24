@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.1119,
-    "voteAverage": 6.2,
-    "voteCount": 9,
+    "popularity": 2.6821,
+    "voteAverage": 6,
+    "voteCount": 11,
     "homepage": "https://mock-movie-website.com/movies/1000990",
     "posterPath": "/2jWVQPOHvMfnOokoougM4blUlYk.jpg",
     "backdropPath": "/iR3kcb9uXP9HmBa4CidYx2BUFru.jpg",
@@ -222,8 +222,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.2,
-      "votesCount": 9
+      "ratingValue": 6,
+      "votesCount": 11
     },
     {
       "source": "crawled",
@@ -448,5 +448,214 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1000990/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1000990,
+    "hash": "25228e1a4834a1e4f07f2eccbbea248da12f780a42d16738636c5e6235f0b9ec",
+    "summary_one_sentence": "On the brink of turning forty, a wealthy Lorraine industrialist's wife questions her comfortable yet suffocating life when an unexpected shadow from her past reemerges.",
+    "summary_short": "Marianne appears to have the perfect life as the envied wife of a wealthy industrialist in Lorraine and a devoted mother to her children. However, as her 40th birthday approaches, she realizes the grand family estate has become a quiet, merciless prison stifling her identity. When a unexpected figure from her past suddenly resurfaces, it cracks open her carefully structured world. Marianne must confront the hidden desire for a different life and decide if she is willing to pay the costly price of personal freedom.",
+    "summary_long": "Marianne lives a life that many envy, residing in a grand estate in the Lorraine region of France as the wife of a powerful and wealthy industrialist. To the outside world, she is the ideal partner and a deeply committed mother, flawlessly fulfilling the social expectations placed upon her. Yet, beneath the polished surface, Marianne feels an overwhelming sense of isolation within the vast walls of her family home. As her 40th birthday draws near, the suffocating reality of her comfortable routine becomes impossible to ignore. The routine of high society and domestic duty begins to feel less like security and more like a carefully crafted trap. Everything changes when an unexpected reminder of her past suddenly reappears, threatening to shatter her controlled existence. This unexpected arrival opens a rift in her daily life, forcing Marianne to glimpse a reality outside her gilded cage. She begins to question the choices that led her to this point and whether another path is still attainable. Caught between the safety of her established role and the tantalizing prospect of reinvention, she must grapple with the heavy sacrifices required to break free. Ultimately, Marianne is forced to confront what her true happiness is worth and whether she has the courage to pay the ultimate price.",
+    "synopsis": "Set in the scenic region of Lorraine, Mrs. is a poignant drama exploring the hidden quiet crises of a woman trapped in a gilded lifestyle. Marianne has built a picture-perfect existence as the admired wife of an influential industrialist and a loving mother. However, beneath her privileged public persona lies an increasing sense of entrapment within the walls of her expansive estate. As her 40th birthday approaches, the resurfacing of a long-buried element from her past disrupts her routine, opening up a realm of possibilities she thought were long gone. The film delves into themes of identity, social expectations, and the daunting cost of self-discovery as Marianne navigates the choice between comfortable conformity and the dangerous pursuit of an authentic life.",
+    "keywords": [
+      "marital entrapment",
+      "bourgeois society",
+      "secret past",
+      "wealthy family",
+      "turning 40",
+      "midlife awakening",
+      "domestic trap",
+      "devoted mother",
+      "provincial elite",
+      "identity crisis",
+      "second chances",
+      "social pressure",
+      "psychological drama"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Identity & Self-Discovery",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Escape & Freedom",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical confrontation forces Marianne to choose between the secure, suffocating reality of her established marriage and the volatile freedom of an uncertain alternative path.",
+      "conflict": "Underneath her privileged lifestyle, Marianne feels increasingly trapped by societal expectations and her domestic isolation, a frustration that sharpens as a figure from her past unexpectedly re-emerges.",
+      "resolution": "Marianne faces the irrevocable consequences of her choice, accepting the true cost of her personal liberation and establishing a new narrative identity moving forward.",
+      "introduction": "Marianne leads an enviable, structured life as the devoted wife of a prominent Lorraine industrialist, presiding over a grand family estate as she approaches her 40th birthday.",
+      "risingAction": "The sudden reopening of old wounds forces Marianne to confront buried desires and re-evaluate her personal identity, prompting her to take subtle, deliberate steps toward autonomy while navigating the strict boundaries of her marriage and social class."
+    },
+    "characters": [
+      {
+        "name": "Marianne",
+        "role": "Hero",
+        "description": "The central protagonist approaching her 40th birthday who faces an existential crisis and seeks a path out of her stifling life."
+      },
+      {
+        "name": "Wealthy Industrialist Husband",
+        "role": "Supporting Character",
+        "description": "Marianne's husband whose position and family home represent the comfortable yet suffocating trap around her."
+      },
+      {
+        "name": "Figure from Marianne's Past",
+        "role": "Supporting Character",
+        "description": "The catalyst whose unexpected emergence reopens Marianne's past and sparks the central conflict about her future."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marianne",
+        "target": "Industrialist Husband",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Marianne",
+        "target": "Children",
+        "description": "Mother/Children"
+      },
+      {
+        "source": "Marianne",
+        "target": "Figure from the Past",
+        "description": "Past Connection / Catalyst for Choice"
+      }
+    ],
+    "seo": {
+      "slug": "mrs",
+      "jsonLd": {
+        "name": "Mrs.",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Marianne, the wife of a wealthy industrialist from Lorraine, envied and admired, a model wife and devoted mother, is about to turn 40, and the comfort of the vast family home has slowly closed its merciless trap around her. So, when the shadow of her past resurfaces, a breach opens. Would another life be possible? And at what price?"
+      },
+      "keywords": [
+        "Mrs movie",
+        "Mrs film synopsis",
+        "Marianne Lorraine drama",
+        "French drama film",
+        "Mrs movie plot"
+      ],
+      "canonical": "[https://movnix.com/movie/mrs](https://movnix.com/movie/mrs)",
+      "metaTitle": "Mrs. (Movie Overview & Synopsis) | Movnix",
+      "openGraph": {
+        "og:title": "Mrs. - Would Another Life Be Possible?",
+        "og:description": "Marianne's comfortable life turns into a trap as she hits 40. When her past resurfaces, she faces a life-altering choice."
+      },
+      "twitterCard": {
+        "twitter:title": "Mrs. - Official Movie Overview",
+        "twitter:description": "Marianne's comfortable life turns into a trap as she hits 40. When her past resurfaces, she faces a life-altering choice."
+      },
+      "metaDescription": "As Marianne turns 40, the shadow of her past resurfaces. Can she break free from her golden cage? Read the plot synopsis and details for Mrs."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Marianne, a wealthy industrialist's wife turning 40, whose comfortable and structured domestic life in Lorraine begins to feel like a trap. When a figure from her past unexpectedly reappears, she is forced to question whether another life is possible and what sacrifices it would require.",
+        "question": "What is the primary plot of Mrs.?"
+      },
+      {
+        "answer": "The film is primarily a drama with strong elements of psychological mystery and character-driven suspense.",
+        "question": "What is the dominant genre of Mrs.?"
+      },
+      {
+        "answer": "It is a standalone original film and is not part of any existing cinematic franchise, sequel, or cinematic universe.",
+        "question": "Is Mrs. part of a franchise or an original film?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes. The story concludes fully before the credits start rolling.",
+        "question": "Is there a post-credits scene in Mrs.?"
+      },
+      {
+        "answer": "The narrative takes place in the Lorraine region of northeastern France, centered primarily around a sprawling family estate.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The main protagonist is Marianne, a devoted mother and admired wife of a prominent local industrialist.",
+        "question": "Who is the central character of the movie?"
+      },
+      {
+        "answer": "The movie explores themes of domestic isolation, mid-life identity crises, the burden of societal expectations, regret, and the high cost of seeking personal freedom.",
+        "question": "What are the core themes explored in the film?"
+      },
+      {
+        "answer": "The film is intended primarily for mature audiences due to its complex psychological themes, domestic tension, and mature dramatic content.",
+        "question": "Is Mrs. suitable for family viewing?"
+      },
+      {
+        "answer": "The inciting incident is the unexpected arrival of a shadow from Marianne's past right around her 40th birthday, disrupting the quiet order of her household.",
+        "question": "What triggers the main conflict in the story?"
+      },
+      {
+        "answer": "The tone is somber, tense, and introspective, building a quiet atmospheric suspense around Marianne's internal turmoil.",
+        "question": "What is the tone of the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or terrifying themes present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong or offensive language present."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction or reference to physical violence in the text."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drugs, alcohol, or substance abuse."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit themes."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Mild emotional weight dealing with existential reflection, mid-life crisis, and secret pasts."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-17 18:02:11.962042",
+    "updated_at": "2026-08-17 18:02:11.962042"
+  }
 }
