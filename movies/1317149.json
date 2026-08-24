@@ -10,9 +10,9 @@
     "budget": "3730000",
     "revenue": "15564404",
     "status": "Released",
-    "popularity": 17.2829,
-    "voteAverage": 8.23,
-    "voteCount": 478,
+    "popularity": 18.5923,
+    "voteAverage": 8.2,
+    "voteCount": 487,
     "homepage": "https://www.iswearfilm.com",
     "posterPath": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
     "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
@@ -753,6 +753,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/3kBmT5RXWmHJ6aDoOQcddSsSTpw.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/YnuLRK3ZWJvKerShvn0Ceuv0fh.jpg",
       "width": 1920,
       "height": 1080,
@@ -879,13 +886,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/3kBmT5RXWmHJ6aDoOQcddSsSTpw.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/jtI6VixdlRcXn4jtsSYUZX087KF.jpg",
       "width": 1920,
       "height": 1080,
@@ -973,8 +973,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.23,
-      "votesCount": 478
+      "ratingValue": 8.2,
+      "votesCount": 487
     },
     {
       "source": "imdb",
@@ -1254,7 +1254,16 @@
       ]
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
