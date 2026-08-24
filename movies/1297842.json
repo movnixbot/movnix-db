@@ -10,9 +10,9 @@
     "budget": "90000000",
     "revenue": "193566330",
     "status": "Released",
-    "popularity": 31.0874,
-    "voteAverage": 8.1,
-    "voteCount": 996,
+    "popularity": 37.2349,
+    "voteAverage": 8.081,
+    "voteCount": 1024,
     "homepage": "https://goat.movie",
     "posterPath": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
     "backdropPath": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
@@ -620,6 +620,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/jUt16J07IFhjDRdGdqwcl0GkJq6.jpg",
       "width": 2000,
       "height": 3000,
@@ -1120,13 +1127,6 @@
       "filePath": "/isAuGvWjVPfl4LYjMSekO8bhyGP.jpg",
       "width": 2000,
       "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg",
-      "width": 1365,
-      "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -2086,8 +2086,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.1,
-      "votesCount": 996
+      "ratingValue": 8.081,
+      "votesCount": 1024
     },
     {
       "source": "imdb",
@@ -2096,7 +2096,7 @@
     },
     {
       "source": "rotten_tomatoes",
-      "ratingValue": 82,
+      "ratingValue": 83,
       "votesCount": null
     },
     {
@@ -2242,24 +2242,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 2122835,
-      "name": "Tyree Dillihay",
-      "profilePath": "/cA4rfx4HwDYmmxpJoBclTZTjcEN.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2266453,
-      "name": "Erick Peyton",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 3544025,
       "name": "Adam Rosenberg",
       "profilePath": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg",
@@ -2269,9 +2251,27 @@
       "order": null
     },
     {
+      "tmdbPersonId": 2122835,
+      "name": "Tyree Dillihay",
+      "profilePath": "/cA4rfx4HwDYmmxpJoBclTZTjcEN.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1743063,
       "name": "Michelle Raimo Kouyate",
       "profilePath": "/4P1eg0mhXPN8aDTqFuih0Cj0vSb.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2266453,
+      "name": "Erick Peyton",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -2289,7 +2289,7 @@
     {
       "tmdbPersonId": 59918,
       "name": "Rodney Rothman",
-      "profilePath": "/rkeMVdINeqVPFQCl4Jruntqm5SQ.jpg",
+      "profilePath": "/75yKuJr1wL8qesEDYL2IHK67BEx.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -2393,6 +2393,11 @@
     {
       "iso_3166_1": "RU",
       "title": "Goat - Мечтай по-крупному",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "EE",
+      "title": "Väike kits. Suur mäng.",
       "type": ""
     }
   ],
