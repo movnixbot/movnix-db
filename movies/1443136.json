@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.2778,
-    "voteAverage": 6,
-    "voteCount": 5,
+    "popularity": 6.587,
+    "voteAverage": 5.857,
+    "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1443136",
     "posterPath": "/hACM25xigqIYeRgylB0epf34hmk.jpg",
     "backdropPath": "/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
@@ -78,6 +78,13 @@
       "width": 799,
       "height": 1199,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fFRK9p5cOdnhBPEd9WPvAj27QqD.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -198,13 +205,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/px3MTKR70MUwOBoa4y0EZ96nof9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 5
+      "ratingValue": 5.857,
+      "votesCount": 7
     },
     {
       "source": "crawled",
