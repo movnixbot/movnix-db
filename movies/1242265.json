@@ -10,9 +10,9 @@
     "budget": "45000000",
     "revenue": "2890908",
     "status": "Released",
-    "popularity": 12.5998,
-    "voteAverage": 7.2,
-    "voteCount": 316,
+    "popularity": 14.3295,
+    "voteAverage": 7.223,
+    "voteCount": 325,
     "homepage": "https://www.fuzefilm.co.uk/",
     "posterPath": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
     "backdropPath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
@@ -231,6 +231,13 @@
       "filePath": "/lRI7LdfUlRXwewyU0DUZcrAsF9y.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5LnKmIDOxRLRB5jPQGSaV674GE8.jpg",
+      "width": 1080,
+      "height": 1620,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -1085,8 +1092,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.2,
-      "votesCount": 316
+      "ratingValue": 7.223,
+      "votesCount": 325
     },
     {
       "source": "imdb",
@@ -1241,12 +1248,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 2858152,
-      "name": "Sebastien Raybaud",
-      "profilePath": null,
+      "tmdbPersonId": 3055,
+      "name": "David Mackenzie",
+      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1259,12 +1266,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3055,
-      "name": "David Mackenzie",
-      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+      "tmdbPersonId": 2858152,
+      "name": "Sebastien Raybaud",
+      "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -1277,21 +1284,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3055,
-      "name": "David Mackenzie",
-      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 72156,
       "name": "Ben Hopkins",
       "profilePath": "/aRWnVuS30etQvFonmAQWR82CVLT.jpg",
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3055,
+      "name": "David Mackenzie",
+      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
