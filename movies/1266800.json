@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": "3108495",
     "status": "Released",
-    "popularity": 6.6872,
+    "popularity": 7.5854,
     "voteAverage": 7.7,
     "voteCount": 23,
     "homepage": "https://mock-movie-website.com/movies/1266800",
@@ -195,6 +195,20 @@
       "width": 1058,
       "height": 1500,
       "aspectRatio": 0.705,
+      "type": "poster"
+    },
+    {
+      "filePath": "/25mctev8pp4XCKEe4jdqEvafIUx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nB4cmaVe8EtRdIOhzej9zRQxEyB.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -392,15 +406,6 @@
       "name": "Gilles de Maistre",
       "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 49870,
-      "name": "Gilles de Maistre",
-      "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
-      "character": null,
       "job": "Screenplay",
       "department": "Writing",
       "order": null
@@ -412,6 +417,15 @@
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 49870,
+      "name": "Gilles de Maistre",
+      "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
@@ -465,5 +479,247 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1266800/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1266800,
+    "hash": "36177d6192edfb05deb2701b20334e67238a94aacf3fe916cfaea9d5171f1542",
+    "summary_one_sentence": "After publishing a book based on her late grandfather's tale of a boy raised by ostriches, 14-year-old Sun travels to the Sahara and discovers the story of Hadara may be a living reality.",
+    "summary_short": "Fourteen-year-old Sun achieves unexpected publishing success with a book inspired by her grandfather's captivating tale about Hadara, a young boy raised by ostriches in the harsh desert. Invited to the Sahara by a local community familiar with the legend, Sun forms a bond with a Nomad girl named Kharouba. As they explore the desert together, Sun begins uncovering clues that bridge the gap between myth and reality. Ultimately, she realizes her grandfather's bedtime story holds a far deeper, historical truth.",
+    "summary_long": "Sun is an imaginative 14-year-old girl who turns her late grandfather's enchanting bedtime story into a published book. The tale revolves around Hadara, a young child lost during a severe desert storm who is rescued and adopted by a flock of ostriches. Raised alongside wild desert creatures, including his loyal desert fox companion, Hadara learns to survive and thrive in the vast wilderness. When news of Sun's book reaches a remote Saharan community, she receives an invitation to visit the region that inspired her grandfather. Upon arrival, Sun meets Kharouba, a sharp and perceptive Nomad girl her own age who shares intimate knowledge of the land. As Kharouba guides Sun through the breathtaking landscape, the line between fiction and fact begins to blur. Sun uncovers physical evidence and local lore that suggest Hadara was a real person rather than just a mythical figure. Together, the two girls embark on an adventurous journey across the dunes to piece together the true legacy of the ostrich boy. Through this transformative experience, Sun honors her grandfather's memory while discovering the profound connection between human storytelling and desert heritage.",
+    "synopsis": "The Desert Child follows 14-year-old Sun, an insightful young girl who transforms her late grandfather's beloved bedtime story into a wildly successful published book. Her narrative centers on Hadara, a wild child who becomes lost in a powerful storm, rescued by a flock of ostriches, and raised in the heart of the desert with a desert fox as his best friend. Sun's life takes an adventurous turn when a Saharan community, deeply moved by her publication, invites her to travel to their home. Intrigued by the origin of her grandfather's inspiration, Sun journey to the desert and meets Kharouba, a Nomad girl her own age. As the two form an enduring friendship, Kharouba introduces Sun to the rich traditions and oral histories of the desert people. Sun soon discovers astonishing parallels between her book and local legend, sparking a quest to uncover whether Hadara was merely a character of imagination or a real figure from the past. Rich in adventure, family heritage, and dramatic discovery, this heart-warming journey explores how stories shape our understanding of the world and connect us across cultures.",
+    "keywords": [
+      "desert wilderness",
+      "wild child",
+      "ostrich upbringing",
+      "animal friendship",
+      "grandfather's secret",
+      "inspired by true events",
+      "sahara desert",
+      "nomadic culture",
+      "young author",
+      "storytelling legend",
+      "coming of age",
+      "cultural discovery",
+      "desert survival",
+      "nature and youth",
+      "family mystery"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Connection to Nature",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Truth and Myth",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Cultural Heritage",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Wondrous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Sun faces a moment of truth where she must reconcile the factual reality of Hadara's existence with her personal relationship to her grandfather's heritage.",
+      "conflict": "Sun receives an invitation from a Saharan community to visit the desert, where she meets Kharouba, a young Nomad girl who suggests Hadara's tale is far more than mere fiction.",
+      "resolution": "Sun gains a deeper understanding of her identity, her grandfather's legacy, and the profound connection between storytelling and human experience.",
+      "introduction": "14-year-old Sun successfully publishes a book based on her late grandfather's bedtime story about Hadara, a boy raised by ostriches and wild animals in the desert.",
+      "risingAction": "As Sun immerses herself in the desert environment, she uncovers clues and local lore that challenge the boundary between her grandfather's legend and real-world history."
+    },
+    "characters": [
+      {
+        "name": "Sun",
+        "role": "Hero",
+        "description": "A 14-year-old author who publishes her grandfather's tale and travels to the Sahara, discovering the real-life truth behind her story."
+      },
+      {
+        "name": "Hadara",
+        "role": "Supporting Character",
+        "description": "The wild child of legend raised by ostriches and desert animals, serving as the central figure of the bedtime story."
+      },
+      {
+        "name": "Kharouba",
+        "role": "Mentor",
+        "description": "A Nomad girl of Sun's age who guides Sun in the Sahara and helps her realize the reality of Hadara's existence."
+      },
+      {
+        "name": "Late Grandfather",
+        "role": "Supporting Character",
+        "description": "Sun's deceased grandfather whose incredible bedtime stories inspire Sun's book and journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sun",
+        "target": "Grandfather",
+        "description": "Granddaughter/Late Grandfather (Inspiration)"
+      },
+      {
+        "source": "Sun",
+        "target": "Hadara",
+        "description": "Author/Fictional Subject (and potential historical figure)"
+      },
+      {
+        "source": "Sun",
+        "target": "Kharouba",
+        "description": "Peers/Sahara Community Guides"
+      },
+      {
+        "source": "Hadara",
+        "target": "Grandfather",
+        "description": "Legendary Subject/Storyteller"
+      },
+      {
+        "source": "Hadara",
+        "target": "Ostriches",
+        "description": "Adoptive Family/Rescuers"
+      },
+      {
+        "source": "Hadara",
+        "target": "Desert Fox",
+        "description": "Best Friends/Companions"
+      },
+      {
+        "source": "Kharouba",
+        "target": "Hadara",
+        "description": "Local Cultural Connection/Believer in Legend"
+      }
+    ],
+    "seo": {
+      "slug": "the-desert-child",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-desert-child](https://movnix.com/movie/the-desert-child)",
+        "name": "The Desert Child",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "14-year-old Sun publishes a story based on her grandfather's tale of Hadara, a boy raised by ostriches in the Sahara. Invited to the desert, she meets a Nomad girl and discovers the legend might be real."
+      },
+      "keywords": [
+        "The Desert Child",
+        "The Desert Child movie",
+        "Sahara movie",
+        "Nomad desert legend",
+        "desert drama film",
+        "Hadara ostrich story"
+      ],
+      "canonical": "[https://movnix.com/movie/the-desert-child](https://movnix.com/movie/the-desert-child)",
+      "metaTitle": "The Desert Child - Official Movie Overview & Story Details",
+      "openGraph": {
+        "og:title": "The Desert Child | A Sahara Adventure Legend",
+        "og:description": "When 14-year-old Sun travels to the Sahara following the success of her book, she discovers her grandfather's tale of a child raised by ostriches is far more than just fiction."
+      },
+      "twitterCard": {
+        "twitter:title": "The Desert Child - Movie Synopsis & Details",
+        "twitter:description": "Sun travels to the Sahara to uncover the real-life legend behind her grandfather's story of a boy raised by wild animals."
+      },
+      "metaDescription": "Discover The Desert Child: A 14-year-old author journeys to the Sahara to uncover the true desert legend behind her late grandfather's miraculous story."
+    },
+    "faq": [
+      {
+        "answer": "The film follows 14-year-old Sun, who publishes a successful book based on a story told by her late grandfather about Hadara, a boy raised in the desert by ostriches and animals. When Sun travels to the Sahara, she meets a Nomad girl named Kharouba and discovers that Hadara's story might be real.",
+        "question": "What is the plot of The Desert Child?"
+      },
+      {
+        "answer": "The film is based on the legendary tale of Hadara, a real-life boy who, according to local Sahrawi folklore, was separated from his family in a sandstorm during the early 20th century and raised by ostriches in the Sahara Desert.",
+        "question": "Is The Desert Child based on a true story or a book?"
+      },
+      {
+        "answer": "The dominant genre is family adventure-drama, blending coming-of-age storytelling with elements of desert exploration, folklore, and nature.",
+        "question": "What is the dominant genre of The Desert Child?"
+      },
+      {
+        "answer": "The core characters include Sun, a 14-year-old young author; Kharouba, a Nomad girl she meets in the Sahara; and Hadara, the legendary wild child raised by ostriches alongside his desert fox companion.",
+        "question": "Who are the main characters in the movie?"
+      },
+      {
+        "answer": "No, The Desert Child is a standalone feature film focused on a self-contained story of discovery and Saharan folklore.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The narrative concludes fully before the final credits roll.",
+        "question": "Is there a post-credits scene in The Desert Child?"
+      },
+      {
+        "answer": "The movie is a family-friendly adventure film suitable for children, teens, and adults, generally rated PG for mild thematic elements and peril.",
+        "question": "What age group is The Desert Child suitable for?"
+      },
+      {
+        "answer": "Key themes include connection across cultures, honoring oral storytelling and family heritage, respect for wildlife and the natural world, and friendship.",
+        "question": "What primary themes are explored in the story?"
+      },
+      {
+        "answer": "The main action takes place in the Sahara Desert, moving between Sun's life as a published author and her journey into the heart of the desert landscape.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "Hadara is primarily taken in and raised by a flock of wild ostriches, and his closest animal companion in the desert is a desert fox.",
+        "question": "What animals play a major role in Hadara's backstory?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal frightening elements; slight thematic tension around being lost in a storm."
+      },
+      "language": {
+        "score": 0,
+        "description": "No foul language or profanity present in the narrative overview."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Mild peril involving desert survival and a sandstorm, but no graphic violence or explicit harm."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to or depictions of drugs, alcohol, or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, suggestive themes, or romance."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Gentle emotional themes surrounding the loss of a grandfather and a child separated from family."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 4,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-08-21 09:01:28.59855",
+    "updated_at": "2026-08-21 09:01:28.59855"
+  }
 }
