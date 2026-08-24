@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "8795452",
     "status": "Released",
-    "popularity": 1.9172,
-    "voteAverage": 7.2,
-    "voteCount": 85,
+    "popularity": 4.062,
+    "voteAverage": 7.205,
+    "voteCount": 88,
     "homepage": "https://mock-movie-website.com/movies/1269644",
     "posterPath": "/z87OLGYXojP3bJjp0EpbutpvGTy.jpg",
     "backdropPath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
@@ -275,6 +275,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/ierVU7fHaajxH5tmT4g6RyUKMPf.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fEsiIzuSMQsyeKRtkFiddCTHhOb.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
       "width": 3840,
       "height": 2160,
@@ -376,8 +390,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.2,
-      "votesCount": 85
+      "ratingValue": 7.205,
+      "votesCount": 88
     },
     {
       "source": "imdb",
@@ -534,7 +548,7 @@
     {
       "tmdbPersonId": 5125,
       "name": "Fatih Akin",
-      "profilePath": "/jqxUPrXlsAoNPY2GiZaZXUjFbTH.jpg",
+      "profilePath": "/cP7R8pOYVEI2dScalNB9NRyJcrZ.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
@@ -543,7 +557,7 @@
     {
       "tmdbPersonId": 5125,
       "name": "Fatih Akin",
-      "profilePath": "/jqxUPrXlsAoNPY2GiZaZXUjFbTH.jpg",
+      "profilePath": "/cP7R8pOYVEI2dScalNB9NRyJcrZ.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -570,7 +584,7 @@
     {
       "tmdbPersonId": 5125,
       "name": "Fatih Akin",
-      "profilePath": "/jqxUPrXlsAoNPY2GiZaZXUjFbTH.jpg",
+      "profilePath": "/cP7R8pOYVEI2dScalNB9NRyJcrZ.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -677,5 +691,211 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1269644/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1269644,
+    "hash": "42c889871e81fc3b09a377479dd90b38dcfd026a5fee13d3ac412d85c074952e",
+    "summary_one_sentence": "In the spring of 1945 on Amrum Island, twelve-year-old Nanning works tirelessly to feed his family during the final days of World War II, only to face new emotional and personal hardships when peace brings his mother's sudden depression.",
+    "summary_short": "Set on a quiet German island during the final spring of World War II, twelve-year-old Nanning takes on adult responsibilities to keep his family alive by seal hunting, night fishing, and farming. However, the official end of the war brings unexpected turmoil rather than relief as his mother succumbs to a profound depression. Forced to shoulder new burdens in a changing post-war society, Nanning must navigate complex familial conflicts while forging his own identity.",
+    "summary_long": "In the spring of 1945, the isolated island of Amrum serves as a stark backdrop to the final weeks of World War II. Twelve-year-old Nanning is thrust into maturity early, spending his days farming the fields and his nights seal hunting and fishing in order to provide basic sustenance for his struggling family. While the harsh realities of wartime rationing demand his constant labor, Nanning takes pride in his resilience and his connection to the rugged island landscape. When the war finally draws to a close, the expected sense of relief is short-lived as the aftermath brings new emotional and social challenges to the isolated community. Nanning's mother, overwhelmed by the trauma and grief accumulated during the war years, sinks into a severe and debilitating depression. As his family dynamic fractures under the weight of her condition, Nanning must step up to keep the household functioning while dealing with shifting local power dynamics. The arrival of post-war changes forces him to confront painful realities about the adults around him and the world beyond the island. Balancing his devotion to his family with his own growing desire for independence, Nanning is forced to mature rapidly. Ultimately, he must learn to chart his own destiny amidst the emotional wreckage left behind by global conflict.",
+    "synopsis": "Set against the stark, coastal backdrop of Germany's Amrum Island in the spring of 1945, this dramatic narrative follows twelve-year-old Nanning during the tumultuous transition from wartime survival to post-war reality. Forced to assume heavy responsibilities beyond his years, Nanning labors in the fields, fishes under the cover of night, and hunts seals across the icy tides to keep his family fed during the lean final weeks of World War II. When peace finally arrives, it does not bring the immediate salvation the islanders hoped for. Instead, the sudden shift ruptures Nanning's home life as his mother sinks into a deep, paralyzing depression, leaving him to navigate both domestic hardship and the complex societal shifts unfolding around him. As the community redefines itself in the shadow of defeat, Nanning must balance his fierce loyalty to his family with his own quiet struggle to discover who he is in a rapidly changing world.",
+    "keywords": [
+      "coming-of-age",
+      "post-wwii",
+      "island life",
+      "child protagonist",
+      "maternal depression",
+      "loss of innocence",
+      "post-war trauma",
+      "family hardship",
+      "coastal survival",
+      "1940s",
+      "spring 1945",
+      "rural life",
+      "breadwinner child",
+      "identity search"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.91
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Loss and Grief",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Impact of War",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Somber",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "A decisive emotional and personal crisis forces Nanning to directly confront his mother's state, his family's precarious situation, and the harsh realities of their new postwar life.",
+      "conflict": "As the war comes to an end, the immediate threat of global conflict is replaced by intense personal turmoil when Nanning's mother sinks into a deep depression, forcing him to bear the heavy family burden alone.",
+      "resolution": "Nanning begins to carve out his own independent identity and path forward, learning to cope with the changing world and finding hope for his family's future.",
+      "introduction": "Twelve-year-old Nanning spends the harsh spring of 1945 on the isolated island of Amrum, taking on heavy responsibilities like hunting seals, night fishing, and farming to help feed his family during the waning days of World War II.",
+      "risingAction": "Nanning struggles to navigate complex postwar societal shifts and household conflicts while taking on increasing emotional and physical responsibilities, pushing him to mature far faster than his years."
+    },
+    "characters": [
+      {
+        "name": "Nanning",
+        "role": "Hero",
+        "description": "A twelve-year-old boy living on Amrum Island in 1945 who works tirelessly to support his family and must navigate personal growth and emotional hardships following the end of WWII."
+      },
+      {
+        "name": "Nanning's Mother",
+        "role": "Supporting Character",
+        "description": "Nanning's mother who struggles with deep depression as the war ends, forcing Nanning to take on greater responsibility."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nanning",
+        "target": "Nanning's Mother",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Nanning",
+        "target": "Nanning's Family",
+        "description": "Provider/Family"
+      }
+    ],
+    "seo": {
+      "slug": "amrum",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/amrum](https://movnix.com/movie/amrum)",
+        "name": "Amrum",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "On Amrum Island in spring 1945, twelve-year-old Nanning hunts seals, fishes at night, and works the fields to help feed his family. When the war ends, his mother sinks into depression, and he must navigate new conflicts while struggling to find his own path."
+      },
+      "keywords": [
+        "Amrum movie",
+        "Amrum island film",
+        "Amrum plot",
+        "spring 1945 film",
+        "WWII drama movie",
+        "German drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/amrum](https://movnix.com/movie/amrum)",
+      "metaTitle": "Amrum (2025) - Movie Overview, Plot & Details",
+      "openGraph": {
+        "og:title": "Amrum - Movie Overview & Plot",
+        "og:description": "Discover the story of 12-year-old Nanning navigating survival and family heartbreak on Amrum Island at the close of WWII."
+      },
+      "twitterCard": {
+        "twitter:title": "Amrum - Movie Overview & Plot",
+        "twitter:description": "Discover the story of 12-year-old Nanning navigating survival and family heartbreak on Amrum Island at the close of WWII."
+      },
+      "metaDescription": "In spring 1945 on Amrum Island, 12-year-old Nanning helps his family survive the end of WWII and faces new conflicts as his family struggles to rebuild."
+    },
+    "faq": [
+      {
+        "answer": "Set in spring 1945 on Amrum Island, the story follows twelve-year-old Nanning as he hunts seals, fishes, and works the fields to support his family. As the war ends and his mother falls into a deep depression, Nanning faces new personal conflicts while striving to forge his own path.",
+        "question": "What is Amrum about?"
+      },
+      {
+        "answer": "The dominant genre is historical coming-of-age drama.",
+        "question": "What is the dominant genre of Amrum?"
+      },
+      {
+        "answer": "Yes, it is based on the semi-autobiographical novel 'Amrum' by Hark Bohm, reflecting experiences from his childhood during the end of World War II.",
+        "question": "Is Amrum based on a book or true story?"
+      },
+      {
+        "answer": "No, Amrum is a standalone feature film and not part of a franchise.",
+        "question": "Is this film part of a movie franchise?"
+      },
+      {
+        "answer": "No, being a traditional historical drama, there are no post-credits or mid-credits scenes.",
+        "question": "Is there a post-credits scene in Amrum?"
+      },
+      {
+        "answer": "The protagonist is twelve-year-old Nanning, who takes on significant responsibilities to help his family survive during the final stages of World War II.",
+        "question": "Who is the protagonist of the story?"
+      },
+      {
+        "answer": "The story takes place on Amrum, a North Frisian island off the German North Sea coast.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The film is set during the spring of 1945, capturing the transition period right at the end of World War II.",
+        "question": "What time period is portrayed in Amrum?"
+      },
+      {
+        "answer": "Key themes include survival, coming of age, family hardship, trauma, loss, and resilience in the immediate aftermath of war.",
+        "question": "What are the central themes of Amrum?"
+      },
+      {
+        "answer": "The film is directed by acclaimed director Fatih Akin.",
+        "question": "Who directed Amrum?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild eerie elements present through WWII bombing planes overhead, tense wartime atmosphere, and haunting familial discoveries."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild to moderate language, including historical political slurs and period-typical verbal conflict or ostracization."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Depicts survival hunting practices such as seal hunting and rabbit catching, alongside background WWII tension and localized conflict, but avoids graphic gore."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background adult usage of tobacco or alcohol typical of a historical period drama setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional weight involving a mother's severe post-partum depression, post-war familial conflict, trauma, and the disillusionment of childhood."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 4,
+      "violence": 3
+    },
+    "created_at": "2026-08-21 21:11:32.990038",
+    "updated_at": "2026-08-21 21:11:32.990038"
+  }
 }

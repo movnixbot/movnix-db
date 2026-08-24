@@ -2,17 +2,17 @@
   "movie": {
     "tmdbId": 1611977,
     "imdbId": "tt39319989",
-    "title": "Housemaid - Sie liebt dich zu Tode",
-    "originalTitle": "Housemaid - Sie liebt dich zu Tode",
+    "title": "Housemaid",
+    "originalTitle": "Housemaid",
     "overview": "After his wife's consciousness is transferred into their android maid, a widower finds himself trapped in a deadly love triangle when the jealous A.I. goes to terrifying lengths to prevent him from moving on with a new woman.",
     "releaseDate": "2026-01-06",
     "runtime": 89,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1565,
-    "voteAverage": 1,
-    "voteCount": 1,
+    "popularity": 6.32,
+    "voteAverage": 4.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1611977",
     "posterPath": "/8pYMq8niA7Mkqt5oT9qommrSfV.jpg",
     "backdropPath": "/aeq0CZZUV1pUr0jyah9YkNmVsLj.jpg",
@@ -21,16 +21,16 @@
   "collection": null,
   "genres": [
     {
+      "tmdbId": 27,
+      "name": "Horror"
+    },
+    {
       "tmdbId": 878,
       "name": "Science Fiction"
     },
     {
       "tmdbId": 53,
       "name": "Thriller"
-    },
-    {
-      "tmdbId": 27,
-      "name": "Horror"
     },
     {
       "tmdbId": 1,
@@ -113,6 +113,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/fyVy0VppQF2FhaHQIU3m2F37Qtz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/aeq0CZZUV1pUr0jyah9YkNmVsLj.jpg",
       "width": 1920,
       "height": 1080,
@@ -153,13 +160,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/8onA0yPZ7KOXgvd2P6KanjCRWP.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 1,
-      "votesCount": 1
+      "ratingValue": 4.5,
+      "votesCount": 2
     },
     {
       "source": "crawled",
