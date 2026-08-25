@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1254,
-    "voteAverage": 6.9,
-    "voteCount": 40,
+    "popularity": 4.6734,
+    "voteAverage": 6.789,
+    "voteCount": 45,
     "homepage": "https://mock-movie-website.com/movies/1257406",
     "posterPath": "/wV8A0YX9bVJ7CGnUAqDJtyYv6C2.jpg",
     "backdropPath": "/3bFyBL1gFghrWH3FG0wNwZc1BGp.jpg",
@@ -162,6 +162,13 @@
       "width": 1973,
       "height": 2795,
       "aspectRatio": 0.706,
+      "type": "poster"
+    },
+    {
+      "filePath": "/axsydvlnKnIGnpBENqRrnq5lzZB.jpg",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -396,13 +403,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/axsydvlnKnIGnpBENqRrnq5lzZB.jpg",
-      "width": 1365,
-      "height": 2048,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/fwnDZqtOCDIbiq2LdWSw8HL32LU.jpg",
       "width": 2000,
       "height": 3000,
@@ -456,6 +456,13 @@
       "width": 725,
       "height": 1024,
       "aspectRatio": 0.708,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t0TWdyxeHHHfTS8YNn0W5r2smQ0.jpg",
+      "width": 832,
+      "height": 1248,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -513,13 +520,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/5kRRsMSXpqXYy0lpC8WVf1tIT95.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.9,
-      "votesCount": 40
+      "ratingValue": 6.789,
+      "votesCount": 45
     },
     {
       "source": "imdb",
@@ -528,7 +542,7 @@
     },
     {
       "source": "rotten_tomatoes",
-      "ratingValue": 97,
+      "ratingValue": 98,
       "votesCount": null
     },
     {
@@ -678,8 +692,8 @@
       "name": "Sergei Loznitsa",
       "profilePath": "/gxs4Qqw5DjgbChJNU9cZ3UkK9Vw.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -687,8 +701,8 @@
       "name": "Sergei Loznitsa",
       "profilePath": "/gxs4Qqw5DjgbChJNU9cZ3UkK9Vw.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -745,11 +759,6 @@
       "iso_3166_1": "US",
       "title": "2 Prosecutors",
       "type": "alt. spelling"
-    },
-    {
-      "iso_3166_1": "ES",
-      "title": "DOS FISCALES",
-      "type": ""
     },
     {
       "iso_3166_1": "SE",
