@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "17000000",
     "status": "Released",
-    "popularity": 7.3019,
-    "voteAverage": 7.1,
-    "voteCount": 7,
+    "popularity": 15.4683,
+    "voteAverage": 7.375,
+    "voteCount": 8,
     "homepage": "https://mock-movie-website.com/movies/1481955",
     "posterPath": "/brdsfjePxwKwajeonKCgIyqsDoU.jpg",
     "backdropPath": "/5K8zQhHIr6GiOIpM18DWsgy2COv.jpg",
@@ -525,8 +525,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.1,
-      "votesCount": 7
+      "ratingValue": 7.375,
+      "votesCount": 8
     },
     {
       "source": "imdb",
@@ -542,7 +542,7 @@
   "credits": [
     {
       "tmdbPersonId": 126776,
-      "name": "Ivy Chen Yi-Han",
+      "name": "Ivy Chen",
       "profilePath": "/h2C6e67v7ULbYOF9Bj09Q9UxSQY.jpg",
       "character": "Li Hui Zhen",
       "job": "Actor",
@@ -613,64 +613,64 @@
       "order": 7
     },
     {
-      "tmdbPersonId": 5850735,
-      "name": "7LING",
-      "profilePath": "/aJVO0VFwnJmwobTG5aWrrBHlhey.jpg",
-      "character": "Chen Shin Ti",
+      "tmdbPersonId": 3389550,
+      "name": "Michelle Ho",
+      "profilePath": "/8Y0uSO4XPi53lMuH94WEcPmB03s.jpg",
+      "character": "You Xin's Mother",
       "job": "Actor",
       "department": "Acting",
       "order": 8
+    },
+    {
+      "tmdbPersonId": 989606,
+      "name": "Peggy Tseng",
+      "profilePath": "/6aFwU4xLkGGzwF3h5mhrLjEC3U3.jpg",
+      "character": "Hu Mei Hua",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 1257652,
+      "name": "Esther Huang",
+      "profilePath": "/yGiHpKyLoM3gJKKhpXqtqs4KF1s.jpg",
+      "character": "Yang Yu Ying (young)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 85963,
+      "name": "Alice Tzeng",
+      "profilePath": "/oIMD4miROKlXLCNbnSQa1RtYyZ2.jpg",
+      "character": "Tseng Ya Han",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 2680301,
+      "name": "Blaire Chang",
+      "profilePath": "/1e4qkjaGRF8YQcyEgWnwJYXURWZ.jpg",
+      "character": "Aunt Chen Xi",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 6209708,
+      "name": "Lo Chen-en",
+      "profilePath": null,
+      "character": "Tseng Zi Qing",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
     },
     {
       "tmdbPersonId": 1017333,
       "name": "Cheng Chih-wei",
       "profilePath": "/jZuUX7ROaBILxPguDEtGnaZ9PIF.jpg",
       "character": "Governor",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 9
-    },
-    {
-      "tmdbPersonId": 5595036,
-      "name": "Chang Ya-han",
-      "profilePath": null,
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 3300377,
-      "name": "Wu Yi-chen",
-      "profilePath": null,
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 5945337,
-      "name": "Wusay Halu",
-      "profilePath": null,
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 5945378,
-      "name": "Lousarah Chuang",
-      "profilePath": null,
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 5946935,
-      "name": "Huang Hsing-hui",
-      "profilePath": null,
-      "character": null,
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -699,6 +699,11 @@
       "iso_3166_1": "TW",
       "title": "為愛和聲-陽光女子合唱團",
       "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "Yang guang nü zi he chang tuan",
+      "type": "romanized"
     }
   ],
   "externalIds": {
@@ -710,11 +715,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     }
   },
