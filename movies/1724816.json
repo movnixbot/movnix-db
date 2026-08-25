@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 10.8674,
+    "popularity": 18.0599,
     "voteAverage": 4,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1724816",
@@ -162,7 +162,7 @@
     {
       "tmdbPersonId": 5327360,
       "name": "Basti Flores",
-      "profilePath": null,
+      "profilePath": "/4EgboVqmferPWp1pUfymUkoBTlC.jpg",
       "character": "Wilson",
       "job": "Actor",
       "department": "Acting",
@@ -222,5 +222,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1724816/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1724816,
+    "hash": "a4bb9b50286090d95baa765d77616cbfccbe2d5ec13257ef2d82023e98dce2ad",
+    "summary_one_sentence": "When a small-town healer's secret affairs with her patients' husbands lead to a tragic death, the enraged community turns against her in vengeance.",
+    "summary_short": "Helena serves as the sole traditional healer and midwife in a tightly-knit small town. Behind her respected facade, she secretly engages in affairs with the husbands of the local women she treats. Tragically, a pregnant patient discovers Helena's betrayal with her husband and dies shortly after from the emotional shock and physical distress. In the aftermath, the once-revering townsfolk unite in fury, turning fiercely against the woman who shattered their community's trust.",
+    "summary_long": "Helena is a vital figure in her small rural community, serving as the town's only traditional midwife and healer. Despite her indispensable role in the lives of the villagers, Helena harbors a dark secret that threatens the stability of numerous households. She regularly engages in illicit affairs with the husbands of the very women under her medical care. Her secret life remains hidden until a pregnant patient unexpectedly uncovers evidence of Helena's affair with her own husband. Overwhelmed by betrayal and distress, the pregnant woman suffers fatal complications and tragically passes away. News of the affair and the sudden loss spreads rapidly throughout the village, utterly shattering Helena's saintly reputation. Outraged and grief-stricken, the local women and their families band together to hold the healer accountable for her destructive actions. As hatred consumes the town, Helena finds herself utterly isolated and forced to confront the deadly consequences of her moral transgressions.",
+    "synopsis": "Set in a secluded rural community, Helena centers on a traditional midwife and healer who holds immense influence over the local townspeople's most vulnerable moments. While the village relies heavily on her medical skills and trusted presence, Helena harbors a complex web of secrets that jeopardizes the marriages and lives of those around her. As hidden betrayals threaten to surface, tension builds between duty, desire, and moral accountability, ultimately testing the fragile bonds of trust in a tightly knit community.",
+    "keywords": [
+      "hilot",
+      "traditional healer",
+      "small town secrets",
+      "infidelity",
+      "secret affair",
+      "betrayal",
+      "pregnant patient",
+      "tragic death",
+      "scandal",
+      "mob mentality",
+      "enraged townsfolk",
+      "moral conflict",
+      "ostracization",
+      "consequence of actions",
+      "guilt and retribution"
+    ],
+    "themes": [
+      {
+        "theme": "Infidelity and Betrayal",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Retribution and Guilt",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Community Rejection and Ostracization",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Forbidden Desire",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "The enraged community turns directly against Helena, forcing a tense, high-stakes confrontation as she faces total public exposure and retaliation.",
+      "conflict": "A critical boundary is broken when a pregnant patient dies after discovering Helena's affair with her husband.",
+      "resolution": "Helena must reckon with the inescapable consequences of her betrayals, the total destruction of her reputation, and her permanent exile or isolation from the community.",
+      "introduction": "Helena serves as the sole traditional healer (hilot) in a close-knit town while secretly engaging in affairs with her patients' husbands.",
+      "risingAction": "Word of the tragic discovery spreads, exposing Helena's secret life and inciting mounting anger and hostility among the local townspeople."
+    },
+    "characters": [
+      {
+        "name": "Helena",
+        "role": "Anti Hero",
+        "description": "The town's sole hilot who engages in secret affairs with her patients' husbands, triggering a fatal scandal."
+      },
+      {
+        "name": "Pregnant Patient",
+        "role": "Supporting Character",
+        "description": "A townswoman who tragically dies from shock upon catching Helena with her husband."
+      },
+      {
+        "name": "Patient's Husband",
+        "role": "Supporting Character",
+        "description": "The unfaithful husband whose affair with Helena directly leads to his wife's death."
+      },
+      {
+        "name": "The Townsfolk",
+        "role": "Villain",
+        "description": "The enraged local community that turns against Helena to exact retribution."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Helena",
+        "target": "Pregnant Patient",
+        "description": "Healer/Patient"
+      },
+      {
+        "source": "Helena",
+        "target": "Pregnant Patient's Husband",
+        "description": "Secret Lovers"
+      },
+      {
+        "source": "Pregnant Patient",
+        "target": "Pregnant Patient's Husband",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Helena",
+        "target": "Townsfolk",
+        "description": "Target of Wrath / Former Healer"
+      },
+      {
+        "source": "Townsfolk",
+        "target": "Pregnant Patient",
+        "description": "Fellow Villagers / Sympathizers"
+      }
+    ],
+    "seo": {
+      "slug": "helena",
+      "jsonLd": {
+        "name": "Helena",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Helena, the only hilot in a small town who secretly has affairs with her patients' husbands. After a pregnant patient dies upon discovering Helena's affair with her own husband, the enraged townsfolk turn against her."
+      },
+      "keywords": [
+        "Helena movie",
+        "Helena synopsis",
+        "Helena plot overview",
+        "hilot movie drama",
+        "Helena drama thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/helena](https://movnix.com/movie/helena)",
+      "metaTitle": "Helena Movie Synopsis & Plot Summary | Movnix",
+      "openGraph": {
+        "og:title": "Helena - Official Movie Overview",
+        "og:description": "A small-town hilot's secret affairs spark tragic consequences and enraged townsfolk turn against her in Helena."
+      },
+      "twitterCard": {
+        "twitter:title": "Helena - Official Movie Overview",
+        "twitter:description": "A small-town hilot's secret affairs spark tragic consequences and enraged townsfolk turn against her in Helena."
+      },
+      "metaDescription": "Helena, a small-town hilot with secret affairs, faces deadly consequences and the wrath of enraged townsfolk after a tragic betrayal is uncovered."
+    },
+    "faq": [
+      {
+        "answer": "Helena follows a small-town traditional healer (hilot) who secretly engages in affairs with the husbands of her patients. The central tragedy unfolds when a pregnant patient dies after discovering Helena's relationship with her husband, causing the enraged local community to turn against her.",
+        "question": "What is the main plot of Helena?"
+      },
+      {
+        "answer": "Helena is primarily a psychological drama and thriller, focusing on themes of betrayal, secret passion, and small-town retribution.",
+        "question": "What is the dominant genre of Helena?"
+      },
+      {
+        "answer": "A hilot is a traditional practitioner in Filipino culture who uses hands-on healing, massage, and traditional midwifery techniques to treat ailments and care for pregnant women.",
+        "question": "What does 'hilot' mean in the context of the story?"
+      },
+      {
+        "answer": "No, Helena is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Helena part of a movie franchise?"
+      },
+      {
+        "answer": "No, there is no mid-credits or post-credits scene in Helena; the story concludes completely before the end credits roll.",
+        "question": "Is there a post-credits scene in Helena?"
+      },
+      {
+        "answer": "The central character is Helena, the town's sole hilot whose hidden relationships ultimately destroy her standing in the community.",
+        "question": "Who is the central character in the film?"
+      },
+      {
+        "answer": "The townspeople turn against Helena after a pregnant patient unexpectedly dies upon discovering that Helena was having a secret affair with her husband.",
+        "question": "What causes the townsfolk to turn against Helena?"
+      },
+      {
+        "answer": "The film explores themes of breach of trust, forbidden desires, moral corruption, guilt, and the mob mentality of a tight-knit community.",
+        "question": "What core themes does Helena explore?"
+      },
+      {
+        "answer": "No, the film is intended for mature audiences due to its adult themes, depicting infidelity, tragic medical complications, and community conflict.",
+        "question": "Is Helena suitable for young audiences?"
+      },
+      {
+        "answer": "The movie is set in a rural, close-knit small town where access to medical care is limited, making the local hilot a central figure of trust.",
+        "question": "Where is the film set?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild disturbing themes involving maternal death and targeted retaliation by an enraged community."
+      },
+      "language": {
+        "score": 4,
+        "description": "Likely moderate use of aggressive language and verbal confrontation given the high-conflict storyline."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Themes of mob vengeance and implied lethal conflict following the tragic death of a pregnant townsperson."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no explicit substance abuse indicated, though traditional folk healing (hilot) practices are featured."
+      },
+      "sexualContent": {
+        "score": 7,
+        "description": "Strong sexual themes centered on secret extramarital affairs and infidelity with multiple married partners."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes including fatal betrayal, grief, public hostility, and mob hostility."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 6,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-31 09:02:18.955385",
+    "updated_at": "2026-07-31 09:02:18.955385"
+  }
 }
