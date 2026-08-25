@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.1099,
+    "popularity": 5.6189,
     "voteAverage": 6.8,
-    "voteCount": 68,
+    "voteCount": 70,
     "homepage": "https://www.thechristophers.film",
     "posterPath": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
     "backdropPath": "/saEkWul1fGNixEug2w6RtOmTws2.jpg",
@@ -277,6 +277,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/wsrQbOGqvEenrdj13gxV30DjLDu.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/saEkWul1fGNixEug2w6RtOmTws2.jpg",
       "width": 3840,
       "height": 2160,
@@ -400,7 +407,7 @@
     {
       "source": "tmdb",
       "ratingValue": 6.8,
-      "votesCount": 68
+      "votesCount": 70
     },
     {
       "source": "imdb",
@@ -578,7 +585,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",

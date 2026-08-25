@@ -10,9 +10,9 @@
     "budget": "55000000",
     "revenue": "4755330",
     "status": "Released",
-    "popularity": 7.5986,
-    "voteAverage": 6.4,
-    "voteCount": 843,
+    "popularity": 11.9861,
+    "voteAverage": 6.339,
+    "voteCount": 868,
     "homepage": "https://inthelostlands.com",
     "posterPath": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
     "backdropPath": "/oI5uHu7lrQ0mBBH1c8OHCAkCq4x.jpg",
@@ -32,6 +32,14 @@
     {
       "tmdbId": 37,
       "name": "Western"
+    },
+    {
+      "tmdbId": 12,
+      "name": "Adventure"
+    },
+    {
+      "tmdbId": 27,
+      "name": "Horror"
     },
     {
       "tmdbId": 1,
@@ -1320,8 +1328,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.4,
-      "votesCount": 843
+      "ratingValue": 6.339,
+      "votesCount": 868
     },
     {
       "source": "imdb",
@@ -1669,7 +1677,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
