@@ -363,5 +363,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1383750/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1383750,
+    "hash": "d1caf899c7c00566f776d9f2e0adcc4e19ac5a9a456a63b87dd5bd54e9cab6fb",
+    "summary_one_sentence": "Pat Tate travels to Ibiza to avenge a friend's murder, stumbling into a dangerous web of arms traffickers, mercenaries, and the CIA.",
+    "summary_short": "Seeking vengeance for his friend's murder, Pat Tate journeys to Ibiza, Spain. His quest for justice soon intertwines with a perilous conflict involving international arms traffickers, ruthless mercenaries, and the covert operations of the CIA. Tate finds himself in a deadly situation, battling multiple dangerous factions while trying to achieve his personal retribution.",
+    "summary_long": "After the brutal murder of his close friend, Pat Tate, driven by a thirst for revenge, heads to the sun-drenched but treacherous island of Ibiza. His initial mission is to track down and punish those responsible for the heinous crime. However, Tate's focused pursuit of retribution quickly plunges him into a much larger and more dangerous world than he anticipated. He uncovers a complex web of illicit activities, finding himself caught between powerful arms traffickers who control vast criminal networks. Adding to the peril, highly trained and merciless mercenaries are also operating on the island, complicating Tate's every move. Further escalating the stakes, the secretive and influential CIA becomes involved, suggesting a deeper, geopolitical dimension to the conflict. Tate must navigate this deadly tripartite struggle, utilizing his street smarts and brutal efficiency to survive while never losing sight of his ultimate goal: to avenge his fallen friend amidst the chaos of international intrigue and violence.",
+    "synopsis": "In 'Rise of the Footsoldier: Retribution,' the hardened criminal Pat Tate embarks on a personal mission of vengeance, traveling to the Spanish island of Ibiza after a close friend is brutally murdered. What begins as a straightforward quest for justice quickly devolves into a complex and dangerous entanglement. Tate finds himself inadvertently caught in a deadly conflict involving powerful and ruthless international arms traffickers. This already volatile situation is further complicated by the presence of highly skilled and dangerous mercenaries, who operate with their own agendas on the island. Adding another layer of intrigue and peril, the clandestine operations of the CIA become intertwined with the unfolding events, suggesting a much larger, global conspiracy at play. As Tate navigates this perilous landscape, he must confront multiple formidable enemies while attempting to achieve his singular goal of exacting revenge for his friend, all amidst a backdrop of escalating violence and international espionage.",
+    "keywords": [
+      "revenge plot",
+      "gang warfare",
+      "drug trafficking",
+      "mercenaries",
+      "CIA",
+      "Ibiza",
+      "underworld",
+      "violent crime",
+      "anti-hero",
+      "gritty",
+      "international crime",
+      "action thriller",
+      "moral ambiguity"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Loyalty",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Criminal Underworld",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension erupts into a chaotic and explosive confrontation in Ibiza, where Tate must face overwhelming violent forces and navigate deadly betrayals to survive.",
+      "conflict": "Upon arrival, Tate's quest for revenge escalates into a perilous ordeal when he crosses paths with ruthless international criminals linked to the murder.",
+      "resolution": "With the dust settling from the violent fallout, the fallout of Tate's vengeance leaves a lasting mark on his future and the shadow economy of the island.",
+      "introduction": "Pat Tate embarks on a high-stakes journey to Ibiza, Spain, driven by personal loyalty and an unyielding desire to seek vengeance for the murder of his close friend.",
+      "risingAction": "As Tate pulls at the threads of the criminal underworld, he becomes entangled in a dangerous web of deadly arms traffickers, mercenary forces, and covert CIA operations."
+    },
+    "characters": [
+      {
+        "name": "Pat Tate (Craig Fairbrass)",
+        "role": "Anti Hero",
+        "description": "A ruthless, rage-fueled killer driven by revenge for his murdered friend, operating outside moral boundaries."
+      },
+      {
+        "name": "Colonel Sullivan (Tamer Hassan)",
+        "role": "Villain",
+        "description": "A ruthless mercenary and arms trafficker heading a high-stakes weapons operation in Ibiza."
+      },
+      {
+        "name": "Fisher (Andrew Loveday)",
+        "role": "Supporting Character",
+        "description": "An associate involved in the surrounding criminal and underworld network."
+      },
+      {
+        "name": "Sam (Jamie Foreman)",
+        "role": "Mentor",
+        "description": "A seasoned veteran criminal figure providing guidance, backing, and wisdom to Tate."
+      },
+      {
+        "name": "Greener (Nick Nevern)",
+        "role": "Comic Relief",
+        "description": "An eccentric underworld associate providing humor amid high-intensity violence and conflicts."
+      },
+      {
+        "name": "Captain Sergio (Leo Gregory)",
+        "role": "Villain",
+        "description": "A mercenary leader collaborating with illegal arms traffickers in Ibiza opposing Tate."
+      },
+      {
+        "name": "Ricky (Byron Gibson)",
+        "role": "Supporting Character",
+        "description": "An underworld contact assisting with operations and navigation through criminal territories."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Pat Tate",
+        "target": "Murdered Friend",
+        "description": "Friends / Vengeance target"
+      },
+      {
+        "source": "Pat Tate",
+        "target": "International Arms Dealers",
+        "description": "Adversaries / Conflict"
+      },
+      {
+        "source": "Pat Tate",
+        "target": "Mercenaries",
+        "description": "Adversaries / Conflict"
+      },
+      {
+        "source": "Pat Tate",
+        "target": "CIA",
+        "description": "Covert Conflict / Adversaries"
+      },
+      {
+        "source": "International Arms Dealers",
+        "target": "Mercenaries",
+        "description": "Allies / Co-conspirators"
+      },
+      {
+        "source": "International Arms Dealers",
+        "target": "CIA",
+        "description": "Covert Operatives / Conflict"
+      }
+    ],
+    "seo": {
+      "slug": "rise-of-the-footsoldier-retribution",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/rise-of-the-footsoldier-retribution](https://movnix.com/movie/rise-of-the-footsoldier-retribution)",
+        "name": "Rise of the Footsoldier: Retribution",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Pat Tate travels to Ibiza, Spain to seek revenge and track down criminals who murdered his friend. During his journey, Tate is caught in a deadly conflict involving arms traffickers, mercenaries and the CIA."
+      },
+      "keywords": [
+        "Rise of the Footsoldier Retribution",
+        "Pat Tate Ibiza",
+        "Rise of the Footsoldier sequel",
+        "crime action movie",
+        "British crime cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/rise-of-the-footsoldier-retribution](https://movnix.com/movie/rise-of-the-footsoldier-retribution)",
+      "metaTitle": "Rise of the Footsoldier: Retribution - Movie Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Rise of the Footsoldier: Retribution | Official Movie Details",
+        "og:description": "Pat Tate heads to Ibiza for brutal revenge against his friend's killers, stepping into a war zone of mercenaries, arms dealers, and the CIA."
+      },
+      "twitterCard": {
+        "twitter:title": "Rise of the Footsoldier: Retribution",
+        "twitter:description": "Pat Tate heads to Ibiza for brutal revenge against his friend's killers, stepping into a war zone of mercenaries, arms dealers, and the CIA."
+      },
+      "metaDescription": "Pat Tate travels to Ibiza for revenge after his friend's murder, tangling with arms traffickers and the CIA. Watch Rise of the Footsoldier: Retribution."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the long-running British crime film franchise 'Rise of the Footsoldier', which centers on various figures in the British underworld.",
+        "question": "Is Rise of the Footsoldier: Retribution part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is crime action and thriller, featuring heavy elements of violence, revenge, and criminal drama.",
+        "question": "What is the dominant genre of the movie?"
+      },
+      {
+        "answer": "The film follows Pat Tate as he travels to Ibiza, Spain, to seek revenge for the murder of his friend, only to end up tangled in a dangerous confrontation involving mercenaries, arms traffickers, and the CIA.",
+        "question": "What is the main plot of Rise of the Footsoldier: Retribution?"
+      },
+      {
+        "answer": "The main protagonist is Pat Tate, a ruthless British gangster determined to avenge his friend's death.",
+        "question": "Who is the central character of this movie?"
+      },
+      {
+        "answer": "While originating from the UK crime setting, the main story shifts location to Ibiza, Spain.",
+        "question": "Where does the story primarily take place?"
+      },
+      {
+        "answer": "No, there is typically no mid-credit or post-credit scene, though credits feature soundtrack music typical of the franchise.",
+        "question": "Is there a post-credit scene in Rise of the Footsoldier: Retribution?"
+      },
+      {
+        "answer": "Pat Tate finds himself caught in a deadly crossfire between arms traffickers, ruthless mercenaries, and agents from the CIA.",
+        "question": "What key factions does Pat Tate face during his mission?"
+      },
+      {
+        "answer": "No, like other entries in the franchise, it contains strong graphic violence, intense action, profanity, and crime-related themes intended for mature audiences.",
+        "question": "Is this film suitable for all audiences?"
+      },
+      {
+        "answer": "While watching previous installments provides deeper context on Pat Tate's background, the standalone revenge storyline in Ibiza is straightforward enough for new viewers to follow.",
+        "question": "Do I need to watch the previous Rise of the Footsoldier movies to understand this film?"
+      },
+      {
+        "answer": "Viewers can expect a gritty, fast-paced, violent, and intense crime thriller with a strong focus on vengeance.",
+        "question": "What tone can viewers expect from the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Minimal horror elements, though intense tense situations and deadly confrontation create mild distress."
+      },
+      "language": {
+        "score": 8,
+        "description": "Frequent and persistent strong profanity typical of intense crime and revenge thrillers."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of explicit violence involving revenge, weapons, arms trafficking, and fatal conflicts with mercenaries."
+      },
+      "substance": {
+        "score": 6,
+        "description": "Moderate to heavy substance depiction related to modern criminal underground and Ibiza party atmosphere."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Likely includes mild to moderate suggestive content or nightclub themes, but no explicit focus provided."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by themes of grief, violent revenge, continuous peril, and high-stakes conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-08-25 12:10:05.692594",
+    "updated_at": "2026-08-25 12:10:05.692594"
+  }
 }
