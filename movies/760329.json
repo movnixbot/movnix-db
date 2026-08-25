@@ -10,9 +10,9 @@
     "budget": "50000000",
     "revenue": "21133481",
     "status": "Released",
-    "popularity": 6.1306,
-    "voteAverage": 6.376,
-    "voteCount": 657,
+    "popularity": 10.7026,
+    "voteAverage": 6.353,
+    "voteCount": 685,
     "homepage": "https://a24films.com/films/the-smashing-machine",
     "posterPath": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
     "backdropPath": "/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
@@ -1063,6 +1063,34 @@
       "type": "poster"
     },
     {
+      "filePath": "/1ioV9Dvq61FbS1Z01K0WOkdjjRg.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oWExCJXkEfKBuwD9mL6Df170Mpm.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bZqKANnyWFEC73eJC71VYlJBuVB.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pDkR1D5xYI4u97vQdjPgWXYdLwk.jpg",
+      "width": 1280,
+      "height": 1920,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
       "width": 3840,
       "height": 2160,
@@ -1098,13 +1126,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/lW9RMdxvD2xQnZgSH0wPyr0wHHV.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/8pEFxrRnqW04Q1hCdDjPKEd9tFL.jpg",
       "width": 1280,
       "height": 720,
@@ -1122,6 +1143,20 @@
       "filePath": "/nch8tmF8ieB7jyTLyeAbHAhy0be.jpg",
       "width": 2560,
       "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vgZsDEt3l2E9dIQJ080ZieUJjKI.jpg",
+      "width": 3648,
+      "height": 2052,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lW9RMdxvD2xQnZgSH0wPyr0wHHV.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -1439,13 +1474,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/4HNJ6cRAJZSeecDmdEkjMb2Kjiy.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.376,
-      "votesCount": 657
+      "ratingValue": 6.353,
+      "votesCount": 685
     },
     {
       "source": "imdb",
@@ -1600,39 +1642,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1039217,
-      "name": "Dany Garcia",
-      "profilePath": "/tagn66w0Y17fq7yZz5epMa7JF5M.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 227564,
       "name": "Benny Safdie",
       "profilePath": "/u10A5DpUYRB1zMF7YoGYcyvhois.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 18918,
-      "name": "Dwayne Johnson",
-      "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 179974,
-      "name": "David Koplan",
-      "profilePath": "/jPg5PIGICYF8WNGq60BetnCG5Pf.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -1645,9 +1660,36 @@
       "order": null
     },
     {
+      "tmdbPersonId": 179974,
+      "name": "David Koplan",
+      "profilePath": "/jPg5PIGICYF8WNGq60BetnCG5Pf.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1039217,
+      "name": "Dany Garcia",
+      "profilePath": "/tagn66w0Y17fq7yZz5epMa7JF5M.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 9543,
       "name": "Beau Flynn",
       "profilePath": "/wKknGP4ONNSuIOrQpO3z4CYwTkm.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 18918,
+      "name": "Dwayne Johnson",
+      "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1726,10 +1768,6 @@
         {
           "name": "HBO Max Amazon Channel",
           "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
         },
         {
           "name": "HBO Max",
