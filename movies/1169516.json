@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.4646,
-    "voteAverage": 5.1,
-    "voteCount": 25,
+    "popularity": 17.8493,
+    "voteAverage": 4.964,
+    "voteCount": 28,
     "homepage": "https://mock-movie-website.com/movies/1169516",
     "posterPath": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
     "backdropPath": "/96chPcURxg5thGyLqxO6otyxHFR.jpg",
@@ -70,7 +70,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Welcome To The Jungle (Teaser)",
+      "key": "25l9MXYWxww",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Teaser"
+    }
+  ],
   "images": [
     {
       "filePath": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
@@ -204,13 +212,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/sJzTirEQ8CloqDP5wDGGu8Xrrz3.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.1,
-      "votesCount": 25
+      "ratingValue": 4.964,
+      "votesCount": 28
     },
     {
       "source": "rotten_tomatoes",
