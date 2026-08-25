@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.4508,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.6493,
+    "voteAverage": 6.625,
+    "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/785157",
-    "posterPath": "/wrckam4GGGnlMWXCjiYxD7XzHaO.jpg",
+    "posterPath": "/dv41YlAt2ANxP2twCCEUSjj85uq.jpg",
     "backdropPath": "/vl9OmIBWqkvcWG6X6qdQDUaTvn8.jpg",
     "collectionId": null,
     "certification": "R"
@@ -60,7 +60,7 @@
   ],
   "images": [
     {
-      "filePath": "/wrckam4GGGnlMWXCjiYxD7XzHaO.jpg",
+      "filePath": "/dv41YlAt2ANxP2twCCEUSjj85uq.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -72,6 +72,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/dv41YlAt2ANxP2twCCEUSjj85uq.jpg",
+      "width": 960,
+      "height": 1440,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/wrckam4GGGnlMWXCjiYxD7XzHaO.jpg",
@@ -88,13 +95,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/dv41YlAt2ANxP2twCCEUSjj85uq.jpg",
-      "width": 960,
-      "height": 1440,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/vl9OmIBWqkvcWG6X6qdQDUaTvn8.jpg",
       "width": 2048,
       "height": 1152,
@@ -103,6 +103,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6.625,
+      "votesCount": 4
+    },
     {
       "source": "crawled",
       "ratingValue": 7,

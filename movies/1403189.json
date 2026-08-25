@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.9918,
-    "voteAverage": 5.667,
-    "voteCount": 3,
+    "popularity": 3.926,
+    "voteAverage": 6,
+    "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1403189",
     "posterPath": "/q31pAsmK2mlxxEztWzf9OaN0zf2.jpg",
     "backdropPath": "/6y98EyDVC3cJuzFx8DCxvHYYXR5.jpg",
@@ -158,6 +158,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/sPA9gRC0punSzbf6nuBqotDEduC.jpg",
+      "width": 918,
+      "height": 1376,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/6y98EyDVC3cJuzFx8DCxvHYYXR5.jpg",
       "width": 3840,
       "height": 2160,
@@ -196,8 +203,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.667,
-      "votesCount": 3
+      "ratingValue": 6,
+      "votesCount": 5
     },
     {
       "source": "crawled",
@@ -225,10 +232,10 @@
       "order": 1
     },
     {
-      "tmdbPersonId": 2372885,
-      "name": "Ambre Jabrane",
-      "profilePath": "/wCim9BvzKi2sIrJzw7n5A8YxLp3.jpg",
-      "character": "Leila",
+      "tmdbPersonId": 1289774,
+      "name": "Florence Blain Mbaye",
+      "profilePath": "/3Zzf3VEUigOlQ0ekEdY0xfy9gel.jpg",
+      "character": "Suzanne",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -243,19 +250,19 @@
       "order": 3
     },
     {
-      "tmdbPersonId": 237875,
-      "name": "Sophie Letourneur",
-      "profilePath": "/gpgwKBpGKv78UeCnxqrkaNqYNoJ.jpg",
-      "character": "Sophie",
+      "tmdbPersonId": 4809034,
+      "name": "Sarah Chouinard-Poirier",
+      "profilePath": null,
+      "character": "Maxine",
       "job": "Actor",
       "department": "Acting",
       "order": 4
     },
     {
-      "tmdbPersonId": 2306676,
-      "name": "Antonin Mousseau-Rivard",
-      "profilePath": "/zZIOOiM4PKVWWbqDlGohSfm4bJY.jpg",
-      "character": "Antonin",
+      "tmdbPersonId": 3508176,
+      "name": "Agathe Bellemare-Ledoux",
+      "profilePath": "/yQ9CCcgGUPQmta5NonSgdwddavV.jpg",
+      "character": "Louise",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -270,13 +277,31 @@
       "order": 6
     },
     {
-      "tmdbPersonId": 3508176,
-      "name": "Agathe Bellemare-Ledoux",
-      "profilePath": "/yQ9CCcgGUPQmta5NonSgdwddavV.jpg",
-      "character": "Louise",
+      "tmdbPersonId": 2372885,
+      "name": "Ambre Jabrane",
+      "profilePath": "/wCim9BvzKi2sIrJzw7n5A8YxLp3.jpg",
+      "character": "Leila",
       "job": "Actor",
       "department": "Acting",
       "order": 7
+    },
+    {
+      "tmdbPersonId": 237875,
+      "name": "Sophie Letourneur",
+      "profilePath": "/gpgwKBpGKv78UeCnxqrkaNqYNoJ.jpg",
+      "character": "Sophie",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 2306676,
+      "name": "Antonin Mousseau-Rivard",
+      "profilePath": "/zZIOOiM4PKVWWbqDlGohSfm4bJY.jpg",
+      "character": "Antonin",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
     },
     {
       "tmdbPersonId": 233556,
@@ -285,7 +310,7 @@
       "character": "Manon",
       "job": "Actor",
       "department": "Acting",
-      "order": 8
+      "order": 10
     },
     {
       "tmdbPersonId": 1152758,
@@ -294,7 +319,7 @@
       "character": "Serge",
       "job": "Actor",
       "department": "Acting",
-      "order": 9
+      "order": 11
     },
     {
       "tmdbPersonId": 1761582,
@@ -303,7 +328,7 @@
       "character": "Chauffeur de taxi",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 12
     },
     {
       "tmdbPersonId": 1592925,
@@ -312,31 +337,13 @@
       "character": "Luc",
       "job": "Actor",
       "department": "Acting",
-      "order": 11
+      "order": 13
     },
     {
       "tmdbPersonId": 1500313,
       "name": "Ève Landry",
       "profilePath": "/j6SzfDCCWIpN92fohWH0DmDkWL5.jpg",
       "character": "Sonia",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 1881905,
-      "name": "Rose-Anne Déry",
-      "profilePath": "/jFCt9frI9Ffg03ovK1yAPFs7T8Z.jpg",
-      "character": "Valérie",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 2321606,
-      "name": "Nicolas Krief",
-      "profilePath": "/l2CWC0SDUCyz7TZvjGnlzV3Yv7p.jpg",
-      "character": "Nicolas",
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -372,6 +379,24 @@
       "tmdbPersonId": 2917133,
       "name": "Laurie Pominville",
       "profilePath": "/gguRztLnsHCYJ2jAhJFfvGYRR5v.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1675871,
+      "name": "Alexandre Auger",
+      "profilePath": "/j0T66NazR7coXocWR8q67u85Xlf.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1346048,
+      "name": "Eric K. Boulianne",
+      "profilePath": "/rZidIbEwjMGkbng8cG8skbDKYnX.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
