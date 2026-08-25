@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.5371,
-    "voteAverage": 5.75,
-    "voteCount": 6,
+    "popularity": 6.2773,
+    "voteAverage": 5.313,
+    "voteCount": 8,
     "homepage": "https://mock-movie-website.com/movies/1339175",
     "posterPath": "/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
     "backdropPath": "/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg",
@@ -272,6 +272,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/kZziHGom7kqo7oHjTzviD0Jlq7m.jpg",
+      "width": 1020,
+      "height": 1530,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg",
       "width": 3840,
       "height": 2160,
@@ -296,13 +303,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.75,
-      "votesCount": 6
+      "ratingValue": 5.313,
+      "votesCount": 8
     },
     {
       "source": "imdb",
       "ratingValue": 5.2,
       "votesCount": 196
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 30,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -451,8 +463,17 @@
       "name": "Miguel Ángel Jiménez",
       "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1603891,
+      "name": "Giorgos Karnavas",
+      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -465,9 +486,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1603891,
-      "name": "Giorgos Karnavas",
-      "profilePath": "/1lRJeNHpm2msD7hbKJrkl3UhvjA.jpg",
+      "tmdbPersonId": 3055062,
+      "name": "Nicos Panayotopoulos",
+      "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -478,17 +499,8 @@
       "name": "Miguel Ángel Jiménez",
       "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 3055062,
-      "name": "Nicos Panayotopoulos",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
