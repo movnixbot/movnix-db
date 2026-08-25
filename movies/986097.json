@@ -10,9 +10,9 @@
     "budget": "27000000",
     "revenue": "27834512",
     "status": "Released",
-    "popularity": 5.8896,
-    "voteAverage": 5.647,
-    "voteCount": 443,
+    "popularity": 7.5568,
+    "voteAverage": 5.6,
+    "voteCount": 447,
     "homepage": "https://www.himmovie.com",
     "posterPath": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
     "backdropPath": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
@@ -1037,13 +1037,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/3HPHtF4i8aWoeRNys2avDXoQyNQ.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/gttVRoTJa2xJwbwtXhPXuuH4jlS.jpg",
       "width": 1740,
       "height": 979,
@@ -1180,8 +1173,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.647,
-      "votesCount": 443
+      "ratingValue": 5.6,
+      "votesCount": 447
     },
     {
       "source": "imdb",
@@ -1336,15 +1329,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 3582702,
-      "name": "Skip Bronkie",
-      "profilePath": "/7U5nGNWxEm0soT5s1r3X9oTvb06.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 3582701,
       "name": "Zack Akers",
       "profilePath": "/wXkGOOdLKPf3UmOzCjvZN0noC5R.jpg",
@@ -1354,21 +1338,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 291263,
-      "name": "Jordan Peele",
-      "profilePath": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg",
+      "tmdbPersonId": 3582702,
+      "name": "Skip Bronkie",
+      "profilePath": "/7U5nGNWxEm0soT5s1r3X9oTvb06.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 4482754,
-      "name": "Jamal Watson",
-      "profilePath": "/aq5swC2u6s34Xq5pj2DrKqAqlVA.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -1390,9 +1365,27 @@
       "order": null
     },
     {
+      "tmdbPersonId": 291263,
+      "name": "Jordan Peele",
+      "profilePath": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2330663,
       "name": "Ian Cooper",
       "profilePath": "/iIRcxATiMyX2qD0wTerXehnViis.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4482754,
+      "name": "Jamal Watson",
+      "profilePath": "/aq5swC2u6s34Xq5pj2DrKqAqlVA.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1541,5 +1534,231 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/986097/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 986097,
+    "hash": "e61fd982e6b68c8992b987c6bf4c41868188b634be92859416e8012d4c3bd073",
+    "summary_one_sentence": "When a promising young athlete recovering from a severe brain injury joins his legendary football idol at a remote training compound, he discovers that his hero's intense mentorship hides a dark, chilling sinister agenda.",
+    "summary_short": "After suffering a potentially career-ending brain trauma, aspiring quarterback Cameron Cade accepts a once-in-a-lifetime offer to train at the isolated estate of his idol, eight-time champion Isaiah White. Surrounded by the opulent yet unsettling lifestyle Isaiah shares with his influencer wife, Cam pushes his physical and mental limits to achieve greatness. However, as the rigorous regimen intensifies, Isaiah's magnetic charisma twists into psychological manipulation and terrifying control. Cam is forced to confront the sinister reality behind his hero's legendary success before his own mind and life are permanently destroyed.",
+    "summary_long": "Cameron Cade is a gifted young football prospect whose rising career hits a devastating standstill following a horrific brain injury on the field. Desperate to rebuild his future, Cam receives an unexpected lifeline from Isaiah White, a legendary eight-time championship quarterback and global cultural icon. Isaiah invites Cam to his ultra-exclusive, secluded compound to personally mentor him back to peak performance. Upon arrival, Cam is immersed in a high-tech, luxurious environment shared by Isaiah and his glamorous influencer wife, both of whom project an image of perfection. Initial training sessions yield astonishing physical progress, restoring Cam's confidence and instilling absolute devotion to his mentor. As time passes, however, the isolated nature of the compound begins to weigh heavily on Cam, cutting him off from the outside world. Isaiah's motivational tactics grow increasingly aggressive, crossing the line from intense coaching into psychological torture and surreal torment. Cam begins experiencing horrifying hallucinations and unsettling lapses in memory, uncertain if they stem from his prior trauma or something far more nefarious occurring at the facility. Terrifying clues suggest that Isaiah's unmatched legacy is built on horrific sacrifices, forcing Cam into a desperate struggle to escape the compound with his life and sanity intact.",
+    "synopsis": "HIM is a psychological horror thriller that explores the dark obsession with athletic perfection, celebrity worship, and the predatory nature of toxic mentorship. The story centers on Cameron Cade, a brilliant high school quarterback whose promising future is shattered by a devastating head injury. Facing the abrupt end of his athletic dreams, Cam is unexpectedly thrown a lifeline by Isaiah White, an eight-time championship quarterback widely regarded as the greatest athlete of his generation. Isaiah invites Cam to his deeply isolated, high-tech compound—a private paradise he shares with his famous influencer wife—promising to restore Cam's mind and body through a revolutionary, highly secret training regimen. Isolated from his family, friends, and the media, Cam throws himself into the demanding program, initially experiencing miraculous physical gains under the guidance of his childhood hero. But as the compound's walls feel increasingly like a cage, the atmosphere transforms from inspiring to deeply oppressive. Isaiah's charismatic persona starts to fracture, uncovering a unsettling fixation on absolute dominance and control. As Cam's physical recovery advances, his mental reality unravels through terrifying nightmarish visions, leaving him to question whether his idol is saving his career or orchestrating his total undoing.",
+    "keywords": [
+      "mentorship gone wrong",
+      "isolated compound",
+      "toxic masculinity",
+      "sports thriller",
+      "brain trauma",
+      "celebrity culture",
+      "psychological manipulation",
+      "sinister mentor",
+      "paranoia",
+      "influencer culture",
+      "ambition and obsession",
+      "hero worship",
+      "dark secrets",
+      "career-ending injury"
+    ],
+    "themes": [
+      {
+        "theme": "Hero Worship",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Manipulation and Abuse of Power",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Isolation and Entrapment",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Ambition and Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "The Facade of Fame",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The true, sinister nature of Isaiah's motives and the compound's environment comes to a head in a high-stakes confrontation, forcing Cam to fight for his mind, career, and survival.",
+      "conflict": "Cam arrives at the compound eager to rebuild his career, but struggles to balance the intense physical and mental demands of the elite training regimen with the unsettling atmosphere surrounding Isaiah and his celebrity lifestyle.",
+      "resolution": "The ordeal reaches a definitive conclusion as Cam is forced to reconcile his ambitions with the hidden costs of reaching the top, irrevocably altered by his time at the compound.",
+      "introduction": "Promising athlete Cameron Cade faces the end of his career following a severe brain injury, until legendary quarterback Isaiah White invites him to train at his secluded, high-profile compound.",
+      "risingAction": "As Cam's training becomes increasingly rigorous and unconventional, Isaiah's charismatic mentorship turns psychologically intense, exposing strange dynamics and deep-seated obsession within the isolated estate."
+    },
+    "characters": [
+      {
+        "name": "Cameron Cade",
+        "role": "Hero",
+        "description": "A promising young athlete recovering from severe brain trauma who seeks to reclaim his career through intense training at his idol's compound."
+      },
+      {
+        "name": "Isaiah White",
+        "role": "Villain",
+        "description": "A legendary eight-time Championship quarterback whose charming mentor persona gradually reveals a darker, sinister nature."
+      },
+      {
+        "name": "Isaiah's Wife",
+        "role": "Supporting Character",
+        "description": "A celebrity influencer who shares the isolated compound with Isaiah and aids in the intense atmosphere surrounding Cameron's training."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Isaiah White",
+        "target": "Cameron Cade",
+        "description": "Mentor/Protégé"
+      },
+      {
+        "source": "Cameron Cade",
+        "target": "Isaiah White",
+        "description": "Idolizer/Admirer"
+      },
+      {
+        "source": "Isaiah White",
+        "target": "Influencer Wife",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Cameron Cade",
+        "target": "Influencer Wife",
+        "description": "Trainee/Hostess"
+      }
+    ],
+    "seo": {
+      "slug": "him",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/him](https://movnix.com/movie/him)",
+        "name": "HIM",
+        "@type": "Movie",
+        "genre": [
+          "Psychological Thriller",
+          "Horror",
+          "Sports Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback Isaiah White, offers to train him at an isolated compound. But as training accelerates, Isaiah's charisma turns into something far darker."
+      },
+      "keywords": [
+        "HIM movie",
+        "HIM film",
+        "Cameron Cade",
+        "Isaiah White movie",
+        "sports thriller movie",
+        "psychological thriller films"
+      ],
+      "canonical": "[https://movnix.com/movie/him](https://movnix.com/movie/him)",
+      "metaTitle": "HIM (2025) - Official Movie Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "HIM - Official Movie Details & Synopsis",
+        "og:description": "When injured quarterback Cameron Cade trains at his hero's isolated compound, mentorship turns into a terrifying ordeal. Read the full plot and details."
+      },
+      "twitterCard": {
+        "twitter:title": "HIM - Psychological Sports Thriller",
+        "twitter:description": "A rising QB trains with his legendary idol at a remote compound, only to discover a sinister dark side to his hero."
+      },
+      "metaDescription": "A young QB trains at the isolated compound of his legendary hero, but the superstar's charisma quickly turns sinister. Explore the plot and details for HIM."
+    },
+    "faq": [
+      {
+        "answer": "HIM follows Cameron Cade, a promising athlete whose career is threatened by severe brain trauma. He receives an invitation to train at the isolated compound of his hero, legendary championship quarterback Isaiah White, but the mentorship soon turns into a sinister experience.",
+        "question": "What is HIM about?"
+      },
+      {
+        "answer": "The dominant genre of HIM is psychological thriller, blending sports drama with suspense and horror elements.",
+        "question": "What is the dominant genre of HIM?"
+      },
+      {
+        "answer": "No, HIM is a standalone original film and is not part of an existing franchise or cinematic universe.",
+        "question": "Is HIM part of an existing franchise?"
+      },
+      {
+        "answer": "The core characters include Cameron Cade, an injured athlete seeking a comeback; Isaiah White, a legendary eight-time championship quarterback; and Isaiah's celebrity influencer wife who lives with him at their isolated compound.",
+        "question": "Who are the main characters in HIM?"
+      },
+      {
+        "answer": "The primary setting of the movie is an isolated high-tech compound owned by legendary quarterback Isaiah White.",
+        "question": "Where does the movie take place?"
+      },
+      {
+        "answer": "The film explores themes of hero worship, toxic mentorship, fame, celebrity influence, and the physical and mental tolls of elite sports performance.",
+        "question": "What themes does HIM explore?"
+      },
+      {
+        "answer": "HIM contains dark psychological themes, intense suspense, and horror elements, making it intended for mature audiences rather than young children.",
+        "question": "Is HIM suitable for children?"
+      },
+      {
+        "answer": "No, HIM does not feature any post-credit or mid-credit scenes, as the narrative concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in HIM?"
+      },
+      {
+        "answer": "The film was produced by Monkeypaw Productions, the production company founded by Jordan Peele known for psychological thrillers and social horror.",
+        "question": "Who produced HIM?"
+      },
+      {
+        "answer": "No, HIM is a fictional story, though it draws inspiration from real-world sports culture and the intense pressures surrounding professional athletes.",
+        "question": "Is HIM based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Psychological horror and thriller elements stemming from an unsettling isolation, manipulative mentorship, and a darkening personality dynamics."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely moderate to strong profanity typical of intense psychological thrillers and high-stakes athletic drama."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence implied through sports-related brain trauma, intense physical conditioning, and escalating psychological or physical conflict at an isolated compound."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild to moderate substance use, potentially involving medical treatments for brain trauma or casual alcohol use."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minimal sexual content expected, possibly limited to mild suggestive themes related to celebrity influencer lifestyle."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by career-ending injuries, intense psychological manipulation, isolation, and high-pressure mentorship."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 2,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-19 15:02:35.502447",
+    "updated_at": "2026-08-19 15:02:35.502447"
+  }
 }
