@@ -3,21 +3,21 @@
     "tmdbId": 1393326,
     "imdbId": "tt9000310",
     "title": "Ghost in the Cell",
-    "originalTitle": "Ghost in the Cell",
+    "originalTitle": "Hantu Dalam Sel",
     "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
     "releaseDate": "2026-04-16",
     "runtime": 106,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.5835,
-    "voteAverage": 7.7,
-    "voteCount": 20,
+    "popularity": 43.2647,
+    "voteAverage": 7.283,
+    "voteCount": 30,
     "homepage": "https://mock-movie-website.com/movies/1393326",
     "posterPath": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
     "backdropPath": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
     "collectionId": 1679602,
-    "certification": "17+"
+    "certification": "R"
   },
   "collection": {
     "tmdbId": 1679602,
@@ -257,10 +257,31 @@
       "type": "poster"
     },
     {
+      "filePath": "/2QSrAV09vmwm3f51Yb3qk1F21TU.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/4TcKvgmuNA4JQsHQcgdIrCNHnyy.jpg",
       "width": 700,
       "height": 1029,
       "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9Y2MWaH8buRDM9rZ26OnxIi32oZ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7WaH2Tqo6oP1gQTojAEwbXTeNM1.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -307,13 +328,6 @@
     },
     {
       "filePath": "/uSHxHJaiUZgWpj7mDcYT54Xm3Q4.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/9Y2MWaH8buRDM9rZ26OnxIi32oZ.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -680,8 +694,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.7,
-      "votesCount": 20
+      "ratingValue": 7.283,
+      "votesCount": 30
     },
     {
       "source": "crawled",
@@ -899,7 +913,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
