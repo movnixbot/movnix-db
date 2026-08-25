@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.1564,
+    "popularity": 2.3337,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "http://www.2bigtorig.com",
@@ -336,5 +336,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1693400/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1693400,
+    "hash": "054bff57e1a9758cd0e12ec8b9fc6062e35c7a8c982e18dac28d12fb7605c8ee",
+    "summary_one_sentence": "Filmed in 16mm at two sold-out Mexico City shows, this concert documentary delivers the ultimate live GHOST ritual featuring exclusive backstage access and historic footage of Papa V Perpetua.",
+    "summary_short": "Captured live during two sold-out shows in Mexico City, 2 BIG TO RIG brings the spectacle of GHOST’s SKELETOUR WORLD TOUR to audiences worldwide, including select IMAX® locations. As the exclusive pro-shot document of the phone-free tour, the film combines powerful live performances with unmasked, behind-the-scenes moments. Designed specifically for fans in regions where staging the massive production was logistically impossible, it stands as a cinematic love letter to the band's global fanbase. Visually enriched by 16mm film, the performance covers tracks across six studio albums alongside fan-favorite non-LP tracks.",
+    "summary_long": "2 BIG TO RIG serves as the definitive concert film documenting heavy metal band GHOST during their iconic SKELETOUR WORLD TOUR. Captured over two sold-out nights in Mexico City, the movie brings the high-octane energy of the band's theatrical live rituals directly to moviegoers and select IMAX® screens. This release marks the only professional multi-camera recording of Papa V Perpetua alongside his Nameless Ghouls from the strict phone-free tour experience. Beyond the stage, the film offers fans unprecedented behind-the-scenes access and intimate backstage footage of the band in motion. Created intentionally for followers in territories where bringing the massive stage show was logistically impossible, the project acts as a dedicated love letter to the global GHOST community. Shot entirely on 16mm film, the visual presentation provides a unique, raw texture that elevates the band's dark, theatrical aesthetic. The setlist spans material from all six of GHOST's studio albums, including their 2025 chart-topping release SKELETÁ. Fans are also treated to live renditions of non-album hits such as 'Mary On A Cross,' 'Kiss the Go-Goat,' and 'The Future is a Foreign Land.' Ultimately, 2 BIG TO RIG captures a pivotal era of the band in peak performance, delivering an immersive cinematic ritual.",
+    "synopsis": "Shot on 16mm film across two sold-out nights in Mexico City, 2 BIG TO RIG offers an immersive concert and documentary experience capturing GHOST's SKELETOUR WORLD TOUR. Featuring exclusive pro-shot footage of Papa V Perpetua and the Nameless Ghouls from their phone-free shows, the film weaves together high-energy stage performances with rare behind-the-scenes access. Designed to bring the live ritual to fans worldwide—especially in regions where the tour could not logistically travel—the setlist highlights music from six studio albums, including 2025's SKELETÁ, along with standalone hits like 'Mary On A Cross.'",
+    "keywords": [
+      "concert film",
+      "live music ritual",
+      "theatrical hard rock",
+      "occult rock aesthetic",
+      "16mm film footage",
+      "behind-the-scenes access",
+      "arena rock spectacle",
+      "Papa V Perpetua",
+      "Nameless Ghouls",
+      "phone-free show",
+      "tour documentary",
+      "heavy metal spectacle",
+      "IMAX concert experience",
+      "satanic panic satire"
+    ],
+    "themes": [
+      {
+        "theme": "Community and Belonging",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Performance and Spectacle",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Immersion and Shared Experience",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Nostalgia and Legacy",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Energetic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Exhilarating",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The concert reaches its peak intensity as GHOST delivers show-stopping performances of iconic non-LP anthems like 'Mary On A Cross' and 'Kiss the Go-Goat' in front of a sold-out crowd.",
+      "conflict": "The challenge of translating the immense scale and energy of a live phone-free arena show into a narrative film experience for fans worldwide who could not attend in person.",
+      "resolution": "The experience concludes as a heartfelt love letter to the faithful fanbase, successfully capturing the definitive document of the SKELETOUR ritual for IMAX screens.",
+      "introduction": "The ritual begins as Papa V Perpetua and the Nameless Ghouls take the stage in Mexico City, introducing audiences to the cinematic 16mm atmosphere of the SKELETOUR WORLD TOUR.",
+      "risingAction": "The band powers through a career-spanning setlist of favorites and tracks from SKELETÁ, interspersed with exclusive behind-the-scenes footage and intimate backstage access."
+    },
+    "characters": [
+      {
+        "name": "Papa V Perpetua (Tobias Forge)",
+        "role": "Hero",
+        "description": "The charismatic frontman and leader of Ghost, guiding the audience through the theatrical live ritual."
+      },
+      {
+        "name": "The Nameless Ghouls (Per Eriksson, Cosmo Sniderman, Hayden C Scott, Laura Scarborough, Olivia Morreale, Randy Moore, Gabriela Gunčíková)",
+        "role": "Supporting Character",
+        "description": "The anonymous backing musicians providing live music and theatrical performance to support Papa V Perpetua."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Papa V Perpetua",
+        "target": "Nameless Ghouls",
+        "description": "Bandleader/Backing Band"
+      }
+    ],
+    "seo": {
+      "slug": "2-big-to-rig",
+      "jsonLd": {
+        "name": "2 Big to Rig",
+        "@type": "Movie",
+        "actor": [
+          {
+            "@type": "PerformanceRole",
+            "actor": {
+              "name": "Papa V Perpetua",
+              "@type": "Person"
+            }
+          }
+        ],
+        "genre": [
+          "Documentary",
+          "Music"
+        ],
+        "musicBy": {
+          "name": "GHOST",
+          "@type": "MusicGroup"
+        },
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Captured live over two sold-out shows in Mexico City, 2 BIG TO RIG is the definitive document of GHOST's SKELETOUR WORLD TOUR, presented in IMAX® featuring pro-shot 16mm film footage, backstage access, and tracks spanning six albums.",
+        "alternateName": "GHOST: 2 Big to Rig"
+      },
+      "keywords": [
+        "2 Big to Rig",
+        "GHOST concert film",
+        "GHOST 2 Big to Rig",
+        "SKELETOUR WORLD TOUR",
+        "Papa V Perpetua",
+        "Nameless Ghouls",
+        "GHOST IMAX",
+        "SKELETÁ",
+        "Mary On A Cross"
+      ],
+      "canonical": "[https://movnix.com/movie/2-big-to-rig](https://movnix.com/movie/2-big-to-rig)",
+      "metaTitle": "2 Big to Rig (2026) - GHOST Live in IMAX® | Synopsis & Info",
+      "openGraph": {
+        "og:title": "2 Big to Rig - GHOST SKELETOUR Concert Film in IMAX®",
+        "og:description": "The definitive document of GHOST’s SKELETOUR WORLD TOUR. Captured on 16mm film in Mexico City featuring Papa V Perpetua, exclusive backstage access, and hits from all six albums."
+      },
+      "twitterCard": {
+        "twitter:title": "2 Big to Rig - GHOST SKELETOUR Concert Film in IMAX®",
+        "twitter:description": "The definitive document of GHOST’s SKELETOUR WORLD TOUR. Captured on 16mm film in Mexico City featuring Papa V Perpetua, exclusive backstage access, and hits from all six albums."
+      },
+      "metaDescription": "Experience GHOST's SKELETOUR WORLD TOUR live in IMAX®. Featuring Papa V Perpetua, 16mm footage from Mexico City, behind-the-scenes content, and hit songs."
+    },
+    "faq": [
+      {
+        "answer": "Yes, '2 Big to Rig' is part of the theatrical releases and cinematic lore of the Swedish rock band GHOST, following their previous feature film 'RITE HERE RITE NOW'.",
+        "question": "Is 2 Big to Rig part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is a concert film and music documentary.",
+        "question": "What is the dominant genre of 2 Big to Rig?"
+      },
+      {
+        "answer": "Concert films and feature releases from GHOST typically include extra footage, easter eggs, or special behind-the-scenes moments during or after the credits, so fans are encouraged to stay until the end.",
+        "question": "Is there a post-credit scene in 2 Big to Rig?"
+      },
+      {
+        "answer": "The concert footage was captured live over the course of GHOST's two sold-out shows in Mexico City.",
+        "question": "Where was 2 Big to Rig filmed?"
+      },
+      {
+        "answer": "The film features frontman Papa V Perpetua alongside his backing band of Nameless Ghouls.",
+        "question": "Which band members are featured in the movie?"
+      },
+      {
+        "answer": "The feature was shot on 16mm film to give the live performance a distinct visual look and texture.",
+        "question": "Was 2 Big to Rig shot on digital or physical film?"
+      },
+      {
+        "answer": "Yes, 2 Big to Rig is presented in IMAX® format in select cinema locations.",
+        "question": "Will 2 Big to Rig be available in IMAX?"
+      },
+      {
+        "answer": "Yes, alongside the live performance footage, the film features exclusive backstage and behind-the-scenes access.",
+        "question": "Does 2 Big to Rig include behind-the-scenes content?"
+      },
+      {
+        "answer": "It was created to bring the SKELETOUR experience to fans in regions where bringing the physical tour stage production was logistically impossible, serving as a love letter to the band's global fanbase.",
+        "question": "Why was 2 Big to Rig created?"
+      },
+      {
+        "answer": "The concert covers material spanning GHOST's six studio albums—including 2025's 'SKELETÁ'—as well as non-album fan favorites like 'Mary On A Cross,' 'Kiss the Go-Goat,' and 'The Future is a Foreign Land.'",
+        "question": "What songs and albums are featured in the movie's setlist?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild theatrical shock or dark aesthetic themes related to the band's occult persona."
+      },
+      "language": {
+        "score": 2,
+        "description": "Infrequent coarse language or mild profanity typically present in live rock performances."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or harm."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance references beyond standard rock concert culture."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild suggestive themes or lyrics present in songs such as 'Kiss the Go-Goat'."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Standard high-energy atmosphere of a live music concert."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 7,
+      "comedy": 3,
+      "emotion": 8,
+      "fantasy": 5,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-08-18 14:12:24.551819",
+    "updated_at": "2026-08-18 14:12:24.551819"
+  }
 }
