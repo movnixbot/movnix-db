@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6172,
+    "popularity": 5.936,
     "voteAverage": 6.4,
     "voteCount": 9,
     "homepage": "https://mock-movie-website.com/movies/1409853",
@@ -27,6 +27,10 @@
     {
       "tmdbId": 53,
       "name": "Thriller"
+    },
+    {
+      "tmdbId": 10770,
+      "name": "TV Movie"
     },
     {
       "tmdbId": 1,
@@ -143,6 +147,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/si0nou3OecPZCTOj4GzQLMAvkzE.jpg",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
+      "filePath": "/p1TQQbY7RUyWT6bPwhRtykcOgMV.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
       "width": 3840,
       "height": 2160,
@@ -174,6 +192,13 @@
       "filePath": "/pqTWxI18RSzBz8phSyCloRCAcRe.jpg",
       "width": 3840,
       "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/eUZquoomEUgkuBSt8DbNZdxSvLi.jpg",
+      "width": 1920,
+      "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -442,6 +467,16 @@
       "iso_3166_1": "CN",
       "title": "限时拯救",
       "type": ""
+    },
+    {
+      "iso_3166_1": "FR",
+      "title": "Défaillance",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CA",
+      "title": "Dernière enquête",
+      "type": "(Québec)"
     }
   ],
   "externalIds": {

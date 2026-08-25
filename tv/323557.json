@@ -8,9 +8,9 @@
     "firstAirDate": "2026-08-19",
     "lastAirDate": "2026-08-19",
     "status": "Returning Series",
-    "popularity": 11.4787,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 12.4565,
+    "voteAverage": 9,
+    "voteCount": 2,
     "type": "Miniseries",
     "posterPath": "/infZU4gpDlqgoQUsNWgDuzBsiNx.jpg",
     "backdropPath": "/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg",
@@ -327,7 +327,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 2
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 6395454,
@@ -383,12 +389,43 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney+",
+          "logo": "/tHtNW975SmVydaBULhEaOqPTmo8.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
-      "buy": []
+      "flatrate": [
+        {
+          "name": "Disney Plus",
+          "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        },
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+        }
+      ],
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
