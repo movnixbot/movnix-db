@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 35.45,
-    "voteAverage": 7.577,
-    "voteCount": 156,
+    "popularity": 36.4843,
+    "voteAverage": 7.565,
+    "voteCount": 161,
     "homepage": "https://mock-movie-website.com/movies/1318621",
     "posterPath": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
     "backdropPath": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
@@ -28,16 +28,16 @@
   },
   "genres": [
     {
+      "tmdbId": 14,
+      "name": "Fantasy"
+    },
+    {
       "tmdbId": 10770,
       "name": "TV Movie"
     },
     {
       "tmdbId": 10751,
       "name": "Family"
-    },
-    {
-      "tmdbId": 14,
-      "name": "Fantasy"
     },
     {
       "tmdbId": 12,
@@ -813,6 +813,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/7tZlTQk6ROhhnUAMM5h5GT0yrZa.jpg",
+      "width": 689,
+      "height": 1032,
+      "aspectRatio": 0.668,
+      "type": "poster"
+    },
+    {
       "filePath": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
       "width": 3840,
       "height": 2160,
@@ -1203,13 +1210,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/gWtbFsRzKXyZw3Mc8oZtJyCJPEr.jpg",
+      "width": 1851,
+      "height": 1041,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.577,
-      "votesCount": 156
+      "ratingValue": 7.565,
+      "votesCount": 161
     },
     {
       "source": "crawled",
