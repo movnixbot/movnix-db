@@ -242,5 +242,236 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1571687/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1571687,
+    "hash": "7a552f6a23947ffcece6ab59c67cd0e490a0f6b87fe60063777bbad89b102706",
+    "summary_one_sentence": "An illiterate French peasant conscripted into World War I, Justin navigates the absurdity of war, forming unlikely friendships and inspiring mutiny, all while questioning the senseless violence.",
+    "summary_short": "Justin, an illiterate French peasant, is drafted into World War I with no understanding of the conflict. On the front lines, his naivete leads him to befriend a German pilot and a Senegalese soldier, questioning the rationale behind the fighting. He escapes a prisoner camp and incites a mutiny to save his fellow soldiers, ultimately discovering the profound absurdity of war and forming enduring bonds.",
+    "summary_long": "In World War I France, Justin, an uneducated peasant farmer, is conscripted into the French army, completely oblivious to the war or its global implications. Thrust onto the front lines, he struggles to comprehend why he must kill men he doesn't know. His inherent naivete and open-mindedness lead him to unexpected encounters, including forming a bond with a German pilot and a Senegalese soldier. After being captured, Justin manages to escape a prisoner camp, further solidifying his anti-war sentiments. Driven by a desire to protect his comrades from senseless danger, he instigates a mutiny, urging them to refuse orders that would risk their lives. Throughout his tumultuous journey, Justin confronts the inherent absurdity of war, makes lasting friendships, and becomes an unlikely source of inspiration for many around him, forever changing his perspective on conflict and humanity.",
+    "synopsis": "Set against the backdrop of World War I, 'Justin the Just' follows Justin, an uneducated French peasant farmer who is forcibly conscripted into the army. Having lived a life isolated from global events, Justin finds himself on the front lines without any understanding of the conflict or the rationale behind the violence. His innocent and open-minded nature allows him to transcend the manufactured animosity of war, leading to remarkable encounters with a German pilot and a Senegalese soldier, people he's told are his enemies. After a dramatic escape from a prisoner-of-war camp, Justin becomes even more convinced of the senselessness of the fighting. Driven by a burgeoning sense of justice and a deep concern for his fellow soldiers, he bravely incites a mutiny to prevent them from embarking on a suicide mission. Through these profound experiences, Justin not only challenges the very notion of war but also forges powerful, lifelong friendships and emerges as an unexpected beacon of inspiration for those around him, ultimately questioning the cost of conflict and the true meaning of humanity amidst chaos.",
+    "keywords": [
+      "absurdity of war",
+      "illiterate protagonist",
+      "naive hero",
+      "world war i",
+      "french army",
+      "western front",
+      "anti-war mutiny",
+      "prisoner of war escape",
+      "reluctant soldier",
+      "unlikely friendships",
+      "senegalese tirailleurs",
+      "satirical history",
+      "peasant soldier",
+      "cross-cultural bond",
+      "humanitarian message"
+    ],
+    "themes": [
+      {
+        "theme": "Absurdity of War",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Friendship and Brotherhood",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Rebellion and Resistance",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Innocence and Naivety",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Satirical/Absurdist",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "After escaping captivity, Justin instigates a dangerous mutiny among his fellow soldiers to halt a futile mission and protect them from senseless slaughter.",
+      "conflict": "Thrown onto the front lines, Justin struggles to comprehend the absurdity of a brutal war and why he is expected to kill total strangers.",
+      "resolution": "Through his innocence and courage, Justin inspires his comrades, leaves a lasting impact on those around him, and forever challenges the meaningless violence of war.",
+      "introduction": "Justin, an illiterate and naive French peasant farmer with no knowledge of the outside world, is abruptly conscripted into the French army during World War I.",
+      "risingAction": "Navigating the horror of combat with an open heart, Justin forms unexpected bonds with a Senegalese soldier and a captured German pilot before enduring capture and imprisonment in a POW camp."
+    },
+    "characters": [
+      {
+        "name": "Justin",
+        "role": "Hero",
+        "description": "An illiterate, naive, and open-minded French peasant farmer drafted into WWI who questions the absurdity of war and inspires those around him."
+      },
+      {
+        "name": "Senegalese Soldier",
+        "role": "Supporting Character",
+        "description": "A fellow soldier Justin meets on his journey, forming a deep bond that helps him navigate the realities of the war."
+      },
+      {
+        "name": "German Pilot",
+        "role": "Supporting Character",
+        "description": "An enemy airman whose path crosses with Justin, highlighting the human connection beyond national divides."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Justin",
+        "target": "German Pilot",
+        "description": "Enemies turned Unlikely Friends"
+      },
+      {
+        "source": "Justin",
+        "target": "Senegalese Soldier",
+        "description": "Comrades and Close Friends"
+      },
+      {
+        "source": "Justin",
+        "target": "French Army Comrades",
+        "description": "Fellow Soldiers and Mutiny Followers"
+      }
+    ],
+    "seo": {
+      "slug": "justin-the-just",
+      "jsonLd": {
+        "name": "Justin the Just",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Alban Ivanov",
+            "@type": "Person"
+          }
+        ],
+        "genre": [
+          "Drama",
+          "War",
+          "History"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In World War I France, Justin, an illiterate peasant farmer, is drafted into the army and finds himself on the front line. Through encounters with a German pilot and a Senegalese soldier, escaping a prisoner camp, and leading a mutiny, he questions the absurdity of war."
+      },
+      "keywords": [
+        "Justin the Just",
+        "Justin the Just movie",
+        "Alban Ivanov",
+        "World War I movie",
+        "WWI anti-war drama",
+        "French war movie"
+      ],
+      "canonical": "[https://movnix.com/movie/justin-the-just](https://movnix.com/movie/justin-the-just)",
+      "metaTitle": "Justin the Just (WWI Movie) - Story, Cast & Overview",
+      "openGraph": {
+        "og:title": "Justin the Just - World War I Drama Starring Alban Ivanov",
+        "og:description": "Follow the journey of Justin, an illiterate French farmer thrust into WWI, who questions war's absurdity and inspires his comrades."
+      },
+      "twitterCard": {
+        "twitter:title": "Justin the Just - WWI Film Overview",
+        "twitter:description": "Follow the journey of Justin, an illiterate French farmer thrust into WWI, who questions war's absurdity and inspires his comrades."
+      },
+      "metaDescription": "In WWI France, an illiterate peasant farmer is drafted into army, questioning the absurdity of war while inspiring fellow comrades."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Justin the Just is historical war drama with comedic and satirical elements.",
+        "question": "What is the dominant genre of Justin the Just?"
+      },
+      {
+        "answer": "The film follows Justin, an illiterate French peasant farmer drafted into World War I, who navigates the absurdity of the conflict, forms unexpected friendships, escapes a prisoner camp, and leads a mutiny to save his fellow soldiers.",
+        "question": "What is the main storyline of the film?"
+      },
+      {
+        "answer": "No, Justin the Just is a standalone film and not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Justin the Just; the story concludes fully before the credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main character, Justin, is portrayed by the actor Alban Ivanov.",
+        "question": "Who plays the lead character, Justin?"
+      },
+      {
+        "answer": "The movie is set in France during World War I.",
+        "question": "What is the historical setting of Justin the Just?"
+      },
+      {
+        "answer": "Throughout his journey on the front and beyond, Justin crosses paths with a German pilot and a Senegalese soldier, both of whom influence his perspective on the war.",
+        "question": "What key characters does Justin encounter during his journey?"
+      },
+      {
+        "answer": "Justin initiates a mutiny to prevent his fellow comrades from risking their lives unnecessarily in what he views as an absurd and pointless conflict.",
+        "question": "Why does Justin start a mutiny?"
+      },
+      {
+        "answer": "While inspired by the real history and anti-war sentiments of World War I, the specific character and narrative of Justin are fictional.",
+        "question": "Is Justin the Just based on a true story?"
+      },
+      {
+        "answer": "The film primarily explores the absurdity of war, the power of innocence and open-mindedness, human empathy across enemy lines, and brotherhood.",
+        "question": "What are the central themes explored in the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild tense elements inherent to trench warfare, military captivity, and life-threatening combat situations."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate military and battlefield profanity appropriate for a wartime historical context."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts World War I frontline combat, wartime killing, and mutiny scenes typical of historical war dramas."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Likely mild historical usage of alcohol or tobacco common to soldier depictions in World War I."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional themes dealing with the absurdity of war, prisoner camps, mutiny, and existential questioning of killing."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 6,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 5,
+      "violence": 6
+    },
+    "created_at": "2026-08-25 19:03:26.083396",
+    "updated_at": "2026-08-25 19:03:26.083396"
+  }
 }
