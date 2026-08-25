@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9379,
-    "voteAverage": 5.3,
-    "voteCount": 25,
+    "popularity": 9.129,
+    "voteAverage": 5.13,
+    "voteCount": 27,
     "homepage": "https://mock-movie-website.com/movies/1285959",
     "posterPath": "/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
     "backdropPath": "/nItaRm9Kaz7xVkcIaFmxjlnfrME.jpg",
@@ -145,6 +145,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/4li847oWaW00T7BUU7fguAHzVxi.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/mp7VwsqUcgJxMmFjhUMgIsZrAix.jpg",
       "width": 3840,
       "height": 2160,
@@ -171,13 +178,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/epYnt5vixM2Au0YzPEKWKJbrhTc.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.3,
-      "votesCount": 25
+      "ratingValue": 5.13,
+      "votesCount": 27
     },
     {
       "source": "imdb",
@@ -327,6 +341,33 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 78118,
+      "name": "Vadim Perelman",
+      "profilePath": "/yFZ2C4QiD35F4eblRSBpNUimrYD.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2626833,
+      "name": "Bennett Fisher",
+      "profilePath": null,
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 20515,
+      "name": "Jib Polhemus",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2402854,
       "name": "Michael Helfant",
       "profilePath": null,
@@ -342,33 +383,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 20515,
-      "name": "Jib Polhemus",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2626833,
-      "name": "Bennett Fisher",
-      "profilePath": null,
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 78118,
-      "name": "Vadim Perelman",
-      "profilePath": "/yFZ2C4QiD35F4eblRSBpNUimrYD.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
