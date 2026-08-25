@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.7618,
-    "voteAverage": 7,
-    "voteCount": 1,
+    "popularity": 24.1089,
+    "voteAverage": 6,
+    "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1391325",
     "posterPath": "/m0LzWedEi0bWmPSt98o4kkAFYTa.jpg",
     "backdropPath": "/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
@@ -20,10 +20,10 @@
   },
   "collection": {
     "tmdbId": 1489937,
-    "name": "La familia Benetón",
+    "name": "La familia Benetón - Colección",
     "overview": null,
-    "posterPath": "/lWej2XkL16BVH6c2LLcDbRw0AOQ.jpg",
-    "backdropPath": null
+    "posterPath": "/kNan7IKHJjuHOxPInkwMdkOtASo.jpg",
+    "backdropPath": "/nbF8LFd3aXNCQiiuwFjYKzQOFz.jpg"
   },
   "genres": [
     {
@@ -85,6 +85,20 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/of100MlUVoC0M55mm9latkH5MVu.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zjnbCXyo5Txe16jwKFdjR5v8cdD.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/nAdhNSk1PJKpFrXbx6Xz0aE2Kbh.jpg",
       "width": 1500,
       "height": 2217,
@@ -92,17 +106,17 @@
       "type": "poster"
     },
     {
-      "filePath": "/m0LzWedEi0bWmPSt98o4kkAFYTa.jpg",
-      "width": 1807,
-      "height": 2560,
-      "aspectRatio": 0.706,
-      "type": "poster"
-    },
-    {
       "filePath": "/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/m0LzWedEi0bWmPSt98o4kkAFYTa.jpg",
+      "width": 1807,
+      "height": 2560,
+      "aspectRatio": 0.706,
       "type": "poster"
     },
     {
@@ -130,8 +144,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 1
+      "ratingValue": 6,
+      "votesCount": 5
     },
     {
       "source": "crawled",
