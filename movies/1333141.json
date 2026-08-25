@@ -741,5 +741,249 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1333141/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1333141,
+    "hash": "67e1359ef18ed9da04488fbf7db6a032194a18ea48700f11c94594c444963458",
+    "summary_one_sentence": "An introverted, sheltered space princess embarks on an intergalactic quest across the cosmos to rescue her bounty hunter ex-girlfriend from an evil faction of straight white maliens.",
+    "summary_short": "Brought up in absolute comfort, an introverted space princess is suddenly forced to step outside her comfort zone when crisis strikes. Her ex-girlfriend, a tough-as-nails bounty hunter, is captured by a bizarre and menacing faction known as the straight white maliens. To save her past love, the princess must navigate unfamiliar worlds, assemble unlikely allies, and face cosmic perils. Along the way, she discovers a hidden inner strength and learns what it truly means to take charge of her own destiny.",
+    "summary_long": "In a vibrant, fantastical galaxy, a sheltered princess spends her days isolated from the chaos of the broader universe within the safety of her royal home. Her routine life is upended when she receives dire news: her ex-girlfriend, an eccentric and highly skilled bounty hunter, has been kidnapped. The perpetrators are the straight white maliens, a tyrannical alien force bent on imposing their rigid conformity across the stars. Driven by remaining affection and newfound determination, the princess leaves her comfortable palace to venture into the unknown. Her journey takes her through bizarre alien landscapes, lawless space ports, and hazardous cosmic anomalies. As she searches for clues, she must rely on her wits, adapt to harsh environments, and form uneasy alliances with quirky galactic rogues. The relentless chase forces her to confront both physical dangers and the emotional baggage lingering from her past relationship. Through absurd encounters, comedic misadventures, and moments of genuine heart, she steadily closes in on the maliens' stronghold. Ultimately, the princess must lead a daring rescue mission that challenges her sheltered worldview and permanently changes the balance of power in the galaxy.",
+    "synopsis": "Lesbian Space Princess is an animated sci-fi comedy-adventure that follows an introverted, pampered princess who has lived a sheltered life far removed from galactic turmoil. When her badass bounty hunter ex-girlfriend is captured by the dreaded straight white maliens, the princess is forced to abandon her comfortable world and launch an ambitious rescue mission. Traveling through dangerous sectors of deep space, she encounters eccentric aliens, navigates chaotic planetary environments, and overcomes personal fears to save the woman she once loved.",
+    "keywords": [
+      "space princess",
+      "queer romance",
+      "lesbian theme",
+      "bounty hunter",
+      "rescue mission",
+      "ex-lovers",
+      "galactic quest",
+      "sheltered to hero",
+      "space opera",
+      "alien encounter",
+      "satirical comedy",
+      "dystopian satire",
+      "absurdist humor"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Liberation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Romance & Relationships",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Hero's Journey & Self-Discovery",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Social Satire & Critique",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Rescue & Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Satirical",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Campy",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation deep in enemy territory where the princess must utilize everything she has learned to stand up to the maliens and save her ex.",
+      "conflict": "Inciting incident where the protagonist discovers her bounty hunter ex-girlfriend has been captured by the straight white maliens, forcing her into an unwanted galactic rescue mission.",
+      "resolution": "The aftermath of the rescue, showing how the journey transformed the once-sheltered princess into a self-reliant hero navigating her relationship and future.",
+      "introduction": "Introductory stage establishing the sheltered status quo of the space princess before her quiet life is disrupted by sudden cosmic stakes.",
+      "risingAction": "The princess ventures across space, facing unfamiliar outer-rim hazards, navigating alien worlds, and learning to survive outside her comfortable upbringing."
+    },
+    "characters": [
+      {
+        "name": "Space Princess",
+        "role": "Hero",
+        "description": "A sheltered royal forced out of her comfort zone to embark on a galactic quest."
+      },
+      {
+        "name": "Bounty Hunter Ex-Girlfriend",
+        "role": "Supporting Character",
+        "description": "The protagonist's kidnapped former partner whose capture drives the plot."
+      },
+      {
+        "name": "Straight White Maliens",
+        "role": "Villain",
+        "description": "The alien antagonists who capture the ex-girlfriend and oppose the princess."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Princess Saira",
+        "target": "Kiki",
+        "description": "Ex-Girlfriends / Rescue Target"
+      },
+      {
+        "source": "Straight White Maliens",
+        "target": "Kiki",
+        "description": "Captors / Hostage"
+      },
+      {
+        "source": "Princess Saira",
+        "target": "Straight White Maliens",
+        "description": "Enemies / Antagonists"
+      },
+      {
+        "source": "Princess Saira",
+        "target": "Willow",
+        "description": "Love Interest / Quest Companions"
+      },
+      {
+        "source": "Princess Saira",
+        "target": "The Problematic Ship",
+        "description": "Pilot / Spaceship"
+      },
+      {
+        "source": "Queens of Clitopolis (Anne & Leanne)",
+        "target": "Princess Saira",
+        "description": "Parents / Mothers"
+      },
+      {
+        "source": "Willow",
+        "target": "Kiki",
+        "description": "Love Rivals"
+      }
+    ],
+    "seo": {
+      "slug": "lesbian-space-princess",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/lesbian-space-princess](https://movnix.com/movie/lesbian-space-princess)",
+        "name": "Lesbian Space Princess",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A space princess is thrust out of her sheltered life into a galactic quest to save her bounty hunter ex-girlfriend from the straight white maliens."
+      },
+      "keywords": [
+        "Lesbian Space Princess",
+        "Lesbian Space Princess movie",
+        "sci-fi comedy movie",
+        "LGBTQ space movie",
+        "animated sci-fi comedy",
+        "Lesbian Space Princess summary"
+      ],
+      "canonical": "[https://movnix.com/movie/lesbian-space-princess](https://movnix.com/movie/lesbian-space-princess)",
+      "metaTitle": "Lesbian Space Princess (2026) - Movie Overview & Details | Movnix",
+      "openGraph": {
+        "og:title": "Lesbian Space Princess - Movie Overview | Movnix",
+        "og:description": "Follow a sheltered space princess on a chaotic galactic quest to save her bounty hunter ex-girlfriend from straight white maliens."
+      },
+      "twitterCard": {
+        "twitter:title": "Lesbian Space Princess - Movie Overview | Movnix",
+        "twitter:description": "Follow a sheltered space princess on a chaotic galactic quest to save her bounty hunter ex-girlfriend from straight white maliens."
+      },
+      "metaDescription": "A sheltered space princess embarks on a galactic quest to rescue her bounty hunter ex-girlfriend from straight white maliens. Read details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "Lesbian Space Princess is an animated sci-fi comedy and adventure film that combines romantic comedy tropes with space opera satire.",
+        "question": "What is the dominant genre of Lesbian Space Princess?"
+      },
+      {
+        "answer": "No, Lesbian Space Princess is an original standalone movie and is not currently part of an established franchise.",
+        "question": "Is Lesbian Space Princess part of an existing franchise?"
+      },
+      {
+        "answer": "The film follows a sheltered space princess who leaves her comfortable life behind to embark on a chaotic galactic quest to rescue her bounty hunter ex-girlfriend from an evil faction of straight white maliens.",
+        "question": "What is the main plot of Lesbian Space Princess?"
+      },
+      {
+        "answer": "Yes, there is a short mid/post-credits scene that provides a final extra joke for viewers who stay through the credits.",
+        "question": "Is there a post-credits scene in Lesbian Space Princess?"
+      },
+      {
+        "answer": "No, the movie is intended for mature audiences due to its adult humor, sexual themes, language, and satirical violence.",
+        "question": "Is Lesbian Space Princess suitable for kids?"
+      },
+      {
+        "answer": "The movie is an animated feature film featuring a distinct, vibrant, and comedic animation style.",
+        "question": "What format is Lesbian Space Princess made in?"
+      },
+      {
+        "answer": "The primary villains of the movie are the straight white maliens, an alien race embodying privilege and cosmic bureaucracy.",
+        "question": "Who are the main antagonists in the film?"
+      },
+      {
+        "answer": "The film explores themes of personal independence, dealing with exes, LGBTQ+ identity, breaking out of one's comfort zone, and satirizing sci-fi tropes.",
+        "question": "What are the primary themes explored in Lesbian Space Princess?"
+      },
+      {
+        "answer": "While it features a fun, high-energy soundtrack and comedic sound design, it is not a traditional musical where characters break out into song to advance the plot.",
+        "question": "Is Lesbian Space Princess a musical?"
+      },
+      {
+        "answer": "Availability depends on your region, but it typically screens at film festivals or streams on select independent and film-focused streaming platforms.",
+        "question": "Where can I watch Lesbian Space Princess?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror or scary elements."
+      },
+      "language": {
+        "score": 2,
+        "description": "Likely mild comedic profanity or suggestive humor."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild animated action violence expected based on galactic quest themes."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use referenced."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic references and themes without explicit content."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Lighthearted comedic adventure with low emotional stakes."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 9,
+      "emotion": 5,
+      "fantasy": 3,
+      "mystery": 2,
+      "romance": 6,
+      "science": 7,
+      "suspense": 3,
+      "violence": 4
+    },
+    "created_at": "2026-08-26 03:01:58.994506",
+    "updated_at": "2026-08-26 03:01:58.994506"
+  }
 }
