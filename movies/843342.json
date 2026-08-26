@@ -591,5 +591,306 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/843342/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 843342,
+    "hash": "1fbbed4f21e3f23bd4d19c579152519e13d83cde20c84b65a2673adad6ab4f21",
+    "summary_one_sentence": "Haunted by his father's ghost, Prince Hamlet embarks on a perilous quest for vengeance against his murderous uncle Claudius, driving himself and the royal court into madness and tragic ruin.",
+    "summary_short": "After returning home for his father's funeral, Prince Hamlet is shocked to find his mother married to his uncle Claudius, the newly crowned king. A spectral encounter with his father's ghost reveals that Claudius murdered the king to usurp the throne, charging Hamlet with avenging the foul crime. Feigning madness to investigate the truth, Hamlet struggles with existential dread and inaction as his pursuit of justice destabilizes the entire kingdom. His relentless vengeance ultimately triggers a chain reaction of tragedy, betrayal, and fatal corruption within the royal family.",
+    "summary_long": "Prince Hamlet returns to Elsinore for his father's funeral, only to be deeply disturbed by his mother Gertrude's sudden marriage to his uncle Claudius. The atmosphere grows even darker when the ghost of the late king appears to Hamlet, revealing that Claudius murdered him with poison to steal both his crown and his queen. Bound by a vow of vengeance, Hamlet decides to feign madness to conceal his intentions while assessing the truth of the ghost's claims. His erratic behavior deeply alarms the court, straining his romantic connection with Ophelia and driving her father, Polonius, to spy on him. To confirm Claudius's guilt, Hamlet arranges for a troupe of actors to perform a play recreating the circumstances of his father's murder, causing a panicked Claudius to storm out and reveal his conscience. However, Hamlet's hesitation to kill Claudius in prayer leads to a tragic mistake when he accidentally slays Polonius, mistaking him for the king behind a tapestry. Driven mad by grief over her father's death and Hamlet's rejection, Ophelia drowns herself, prompting her brother Laertes to demand revenge. Claudius manipulates Laertes into a deadly fencing match against Hamlet, secretly using a poisoned blade and a poisoned cup as backup. The scheme unravels into total catastrophe during the duel as Gertrude unwittingly drinks the poisoned wine, and both combatants are struck by the venomous sword. Before succumbing to the poison himself, Hamlet slays Claudius, ending the corrupted reign and leaving the kingdom of Denmark to fall into foreign hands.",
+    "synopsis": "Set in the royal court of Denmark, Hamlet is an intense psychological drama centered on grief, betrayal, and the heavy burden of vengeance. Following the sudden death of King Hamlet, Prince Hamlet returns home only to find his world inverted by his mother’s hasty marriage to his uncle Claudius, who has assumed the throne. When a supernatural apparition reveals a dark secret of betrayal at the highest level, Hamlet is forced into a dangerous game of deception, wrestling with moral paralyzation, sanity, and the high cost of justice in a deeply corrupted kingdom.",
+    "keywords": [
+      "revenge plot",
+      "ghostly apparition",
+      "feigned madness",
+      "royal tragedy",
+      "unreliable mental state",
+      "family rot",
+      "fratricide",
+      "moral corruption",
+      "existential dread",
+      "usurped throne",
+      "grief and betrayal",
+      "tragic flaw",
+      "power struggle",
+      "internal conflict"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Madness and Sanity",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Corruption and Moral Rot",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Hamlet confronts his mother, accidentally kills Polonius behind the tapestry, and forces Claudius to take direct action to eliminate him.",
+      "conflict": "The ghost of Hamlet's father reveals he was murdered by Claudius, demanding vengeance and plunging Hamlet into deep moral uncertainty and inner turmoil.",
+      "resolution": "A tragic chain of revenge culminates in the deadly duel, exposing the rot of Denmark and leaving a new ruler to restore order.",
+      "introduction": "Prince Hamlet returns to Elsinore for his father's funeral, only to find his uncle Claudius crowned as the new king and married to his mother, Gertrude.",
+      "risingAction": "Hamlet feigns madness to investigate the claim, staging a play to trap Claudius while alienating those around him and escalating tensions across the court."
+    },
+    "characters": [
+      {
+        "name": "Hamlet",
+        "role": "Hero",
+        "description": "The prince of Denmark driven to madness and revenge after learning of his father's murder."
+      },
+      {
+        "name": "Claudius",
+        "role": "Villain",
+        "description": "Hamlet's uncle who murdered the king to seize the throne and marry Gertrude."
+      },
+      {
+        "name": "Ghost of King Hamlet",
+        "role": "Mentor",
+        "description": "The spectral apparition of Hamlet's deceased father who reveals the truth of his murder and instigates the quest for vengeance."
+      },
+      {
+        "name": "Ophelia",
+        "role": "Supporting Character",
+        "description": "Hamlet's tragic love interest whose life is destroyed by the conflict within the royal family."
+      },
+      {
+        "name": "Polonius",
+        "role": "Supporting Character",
+        "description": "The pompous and overbearing chief councillor to the king whose meddling ultimately leads to his demise."
+      },
+      {
+        "name": "Gertrude",
+        "role": "Supporting Character",
+        "description": "Queen of Denmark and Hamlet's mother, whose hasty marriage to Claudius fuels Hamlet's rage."
+      },
+      {
+        "name": "Horatio",
+        "role": "Supporting Character",
+        "description": "Hamlet's loyal friend and confidant who remains steadfast throughout the tragedy."
+      },
+      {
+        "name": "Laertes",
+        "role": "Anti Hero",
+        "description": "Polonius's son who seeks righteous vengeance for his father's death, manipulated by Claudius into opposing Hamlet."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Hamlet",
+        "target": "Claudius",
+        "description": "Uncle / Stepfather & Enemy"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Gertrude",
+        "description": "Mother & Son"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Ghost of King Hamlet",
+        "description": "Father & Son"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Ophelia",
+        "description": "Lovers"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Horatio",
+        "description": "Close Friends & Allies"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Polonius",
+        "description": "Antagonists"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Laertes",
+        "description": "Rivals & Foils"
+      },
+      {
+        "source": "Claudius",
+        "target": "Gertrude",
+        "description": "Husband & Wife"
+      },
+      {
+        "source": "Claudius",
+        "target": "Ghost of King Hamlet",
+        "description": "Brothers & Murderer/Victim"
+      },
+      {
+        "source": "Claudius",
+        "target": "Polonius",
+        "description": "King & Chief Advisor"
+      },
+      {
+        "source": "Polonius",
+        "target": "Ophelia",
+        "description": "Father & Daughter"
+      },
+      {
+        "source": "Polonius",
+        "target": "Laertes",
+        "description": "Father & Son"
+      },
+      {
+        "source": "Laertes",
+        "target": "Ophelia",
+        "description": "Siblings"
+      },
+      {
+        "source": "Claudius",
+        "target": "Laertes",
+        "description": "Co-conspirators"
+      },
+      {
+        "source": "Hamlet",
+        "target": "Rosencrantz and Guildenstern",
+        "description": "Former Friends & Betrayers"
+      }
+    ],
+    "seo": {
+      "slug": "hamlet",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/hamlet](https://movnix.com/movie/hamlet)",
+        "name": "Hamlet",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When Hamlet returns for his father’s funeral, he is stunned to discover his uncle Claudius is marrying his newly widowed mother. Visited by his father’s ghost, Hamlet learns his brutal murder was at the hands of Claudius - and spirals into a quest for vengeance that exposes the rot at the heart of the family’s empire and threatens his own sanity."
+      },
+      "keywords": [
+        "Hamlet",
+        "Hamlet movie synopsis",
+        "Claudius",
+        "Shakespeare tragedy",
+        "Hamlet revenge story",
+        "Hamlet overview"
+      ],
+      "canonical": "[https://movnix.com/movie/hamlet](https://movnix.com/movie/hamlet)",
+      "metaTitle": "Hamlet - Tragedy, Revenge, and Betrayal | Synopsis & Details",
+      "openGraph": {
+        "og:title": "Hamlet - A Dark Quest for Vengeance and Truth",
+        "og:description": "Stunned by his mother's sudden remarriage and driven by a ghost's revelation, Hamlet sets out to avenge his father's murder."
+      },
+      "twitterCard": {
+        "twitter:title": "Hamlet - Tragedy, Revenge, and Betrayal",
+        "twitter:description": "After learning his uncle murdered his father, Prince Hamlet spirals into a quest for vengeance that threatens his own sanity."
+      },
+      "metaDescription": "Haunted by his father's ghost, Prince Hamlet vows revenge against his uncle Claudius in this dark tragedy of betrayal, madness, and corrupt power."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Hamlet is tragic drama, incorporating elements of psychological thriller, mystery, and revenge story.",
+        "question": "What is the dominant genre of Hamlet?"
+      },
+      {
+        "answer": "No, Hamlet is a standalone classic tragic play written by William Shakespeare and is not part of a film or literary franchise.",
+        "question": "Is this story part of a larger franchise?"
+      },
+      {
+        "answer": "As a traditional stage play, Hamlet does not have post-credit scenes, though modern cinematic adaptations generally do not include them either.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Hamlet's quest for vengeance is triggered when his father's ghost appears to him and reveals that Claudius murdered him.",
+        "question": "What triggers Hamlet's quest for revenge?"
+      },
+      {
+        "answer": "The main antagonist is Claudius, Hamlet's uncle, who murdered the King to take the throne and marry Hamlet's mother, Gertrude.",
+        "question": "Who is the main antagonist in Hamlet?"
+      },
+      {
+        "answer": "The story is primarily set in Elsinore Castle in Denmark.",
+        "question": "What is the primary setting of Hamlet?"
+      },
+      {
+        "answer": "A central theme of the story is the ambiguity surrounding Hamlet's mental state—whether he is feigning madness as a calculated ploy or genuinely unraveling due to grief and paranoia.",
+        "question": "Does Hamlet actually go mad or is he feigning sanity loss?"
+      },
+      {
+        "answer": "The primary themes include revenge, betrayal, mortality, moral corruption, madness, and the consequences of inaction.",
+        "question": "What is the core central theme of the story?"
+      },
+      {
+        "answer": " Hamlet contains mature themes including murder, psychological distress, suicide, and familial betrayal, making it best suited for teens and adult audiences.",
+        "question": "Is Hamlet suitable for all audiences?"
+      },
+      {
+        "answer": "The story was written by William Shakespeare in the early 17th century, inspired by earlier Scandinavian legends such as the tale of Amleth.",
+        "question": "What is the origin of the Hamlet story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Features spectral visitations and eerie, atmospheric themes involving ghosts and death."
+      },
+      "language": {
+        "score": 2,
+        "description": "Contains archaic insult language, double entendres, and dramatic vitriol, but lacks modern vulgarities."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Portrays revenge, murder, poisoning, and fatal confrontations resulting in multiple main character deaths."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Depicts heavy alcohol consumption at royal banquets and the tactical use of lethal poison."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Includes suggestive dialogue, bawdy humor, and references to incestuous marriage, though without explicit depiction."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Deeply intense psychological themes including severe grief, existential dread, madness, suicide ideation, and familial betrayal."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 4,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 3,
+      "mystery": 7,
+      "romance": 3,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-26 20:06:24.222018",
+    "updated_at": "2026-08-26 20:06:24.222018"
+  }
 }
