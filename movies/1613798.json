@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 30.4614,
-    "voteAverage": 7.557,
-    "voteCount": 282,
+    "popularity": 29.3471,
+    "voteAverage": 7.527,
+    "voteCount": 298,
     "homepage": "https://www.amazon.com/gp/video/detail/B0GS6Y7QCD",
     "posterPath": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
     "backdropPath": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
@@ -272,8 +272,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.557,
-      "votesCount": 282
+      "ratingValue": 7.527,
+      "votesCount": 298
     },
     {
       "source": "crawled",
@@ -428,6 +428,11 @@
       "iso_3166_1": "MX",
       "title": "Un billón a uno",
       "type": "Working Titel"
+    },
+    {
+      "iso_3166_1": "AZ",
+      "title": "İntiqam",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -487,5 +492,220 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1613798/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1613798,
+    "hash": "715ef8a96457bf32bf19a623ce8cda2656877cbfcdf1ad4f611301ffc9e9ea06",
+    "summary_one_sentence": "Driven by grief, a decorated special forces hero uses a sudden fortune to assemble his elite squad and hunt down the syndicate responsible for his wife's murder.",
+    "summary_short": "When the wife of legendary special forces operative 'Toro' is brutally murdered, his life is shattered and stripped of purpose. A sudden stroke of fate leaves him with a massive fortune, allowing him to turn vast wealth into a high-tech arsenal. Reconnecting with his most trusted former squadmates, Toro launches an unrelenting campaign to execute everyone involved in the attack. Together, they wage a private war, ensuring no target can hide from their specialized brand of justice.",
+    "summary_long": "Carlos, known in military circles as 'Toro,' is a decorated special forces hero trying to adapt to a peaceful civilian life alongside his beloved wife. That peace is shattered when a ruthless syndicate brutally assassinates her in a violent home invasion, leaving Toro broken and seeking answers. Devastated by grief, he finds himself trapped in a cycle of despair until an unexpected stroke of fate makes him an overnight millionaire. Realizing he now possesses the resources to wage an unyielding war, Carlos decides to dedicate every cent of his fortune to a single motive: ultimate revenge. He channels his newfound wealth into procuring military-grade weaponry, tactical gear, and cutting-edge intelligence assets. Recognizing that he cannot accomplish this mission alone, Carlos recruits his former special forces squad, a group of elite soldiers who share an unbreakable bond of loyalty. Together, the team meticulously tracks down every individual linked to the tragedy, unraveling a deep web of corruption and hostility. As they eliminate targets one by one, Carlos must navigate the brutal consequences of his campaign, proving that no amount of danger will stop him from exacting retribution.",
+    "synopsis": "Vengeance follows Carlos, a highly decorated special forces veteran nicknamed 'Toro,' whose world is torn apart by a tragic act of violence when his wife is brutally murdered. Consumed by grief and left with nothing to lose, Carlos's path takes an unexpected turn when he suddenly acquires a massive financial fortune. Rather than seeking a quiet life, he converts his wealth into a deadly tactical arsenal and seeks out his most reliable former squadmates. Fueled by brotherhood, loyalty, and an unquenchable desire for justice, the elite unit embarks on a dangerous mission to hunt down the powerful figures behind the hit, sparking a high-stakes war between seasoned soldiers and a dangerous criminal network.",
+    "keywords": [
+      "revenge plot",
+      "vigilante justice",
+      "military veteran",
+      "special forces",
+      "murdered spouse",
+      "sudden wealth",
+      "comrades in arms",
+      "manhunt",
+      "retribution",
+      "heavily armed",
+      "squad-based action",
+      "grief-driven motivation",
+      "personal crusade"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Loyalty",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Brotherhood",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Carlos and his battle-tested team launch an explosive final assault against the head of the operation behind the murder.",
+      "conflict": "Driven by grief and anger following his wife's brutal murder, Carlos commits entirely to seeking revenge against those responsible.",
+      "resolution": "With the confrontation concluded, Carlos must face the aftermath of his campaign and the reality of life after vengeance.",
+      "introduction": "Carlos, known as 'Toro,' is an elite military hero whose life changes dramatically after a tragic personal loss and an unexpected windfall.",
+      "risingAction": "Carlos leverages his new wealth to build a formidable arsenal, recruits his most loyal former squadmates, and systematically tracks down his targets."
+    },
+    "characters": [
+      {
+        "name": "Carlos \"Toro\"",
+        "role": "Anti Hero",
+        "description": "A former special forces military hero who turns into a relentless vigilante driven by revenge after the brutal murder of his wife."
+      },
+      {
+        "name": "Toro's Wife",
+        "role": "Supporting Character",
+        "description": "The beloved wife whose tragic murder serves as the catalyst for Toro's transformation and quest for vengeance."
+      },
+      {
+        "name": "Toro's Soldiers / Squad",
+        "role": "Supporting Character",
+        "description": "A loyal unit of close military comrades who assist Toro in utilizing his fortune to wage war against those responsible."
+      },
+      {
+        "name": "The Murderers / Antagonists",
+        "role": "Villain",
+        "description": "The ruthless criminals responsible for the murder of Toro's wife, becoming the primary targets of his pursuit."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Carlos \"Toro\"",
+        "target": "Carlos's Wife",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Carlos \"Toro\"",
+        "target": "Elite Squad / Soldiers",
+        "description": "Commander/Comrades"
+      },
+      {
+        "source": "Carlos \"Toro\"",
+        "target": "Syndicate / Murderers",
+        "description": "Enemies/Target of Revenge"
+      },
+      {
+        "source": "Elite Squad / Soldiers",
+        "target": "Syndicate / Murderers",
+        "description": "Adversaries"
+      }
+    ],
+    "seo": {
+      "slug": "vengeance",
+      "jsonLd": {
+        "name": "Vengeance",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The brutal murder of the wife of 'Toro,' a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible."
+      },
+      "keywords": [
+        "Vengeance movie",
+        "Toro Vengeance film",
+        "action revenge movie",
+        "Carlos Vengeance synopsis",
+        "military hero movie"
+      ],
+      "canonical": "[https://movnix.com/movie/vengeance](https://movnix.com/movie/vengeance)",
+      "metaTitle": "Vengeance - Movie Synopsis, Cast & Official Release Details",
+      "openGraph": {
+        "og:title": "Vengeance - Action Thriller Movie",
+        "og:description": "After a devastating tragedy, a special forces veteran uses a newfound fortune to hunt down his wife's killers. Watch the trailer and learn more."
+      },
+      "twitterCard": {
+        "twitter:title": "Vengeance - Action Thriller Movie",
+        "twitter:description": "A special forces hero turns millionaire to unleash ultimate revenge for his wife's murder. Get full plot details and updates."
+      },
+      "metaDescription": "A military hero turns millionaire to exact ruthless revenge for his wife's murder. Discover full plot details and updates for the action movie Vengeance."
+    },
+    "faq": [
+      {
+        "answer": "Vengeance follows Carlos, a decorated special forces hero known as 'Toro,' whose life is devastated by the brutal murder of his wife. After a stroke of fate makes him a millionaire, he uses his massive fortune to build a high-tech arsenal and recruits his closest military comrades to hunt down those responsible.",
+        "question": "What is the plot of Vengeance?"
+      },
+      {
+        "answer": "The dominant genre of Vengeance is action-thriller, featuring strong elements of military action and revenge drama.",
+        "question": "What is the dominant genre of Vengeance?"
+      },
+      {
+        "answer": "Vengeance is a standalone story, though its open universe and compelling protagonist leave potential for future sequels or spin-offs.",
+        "question": "Is Vengeance part of a franchise?"
+      },
+      {
+        "answer": "No, Vengeance does not feature a post-credit scene. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in Vengeance?"
+      },
+      {
+        "answer": "The main protagonist is Carlos, a special forces veteran nicknamed 'Toro,' who turns his personal tragedy into a relentless mission for vengeance.",
+        "question": "Who is the main protagonist of Vengeance?"
+      },
+      {
+        "answer": "The film primarily explores themes of grief, retribution, military brotherhood, justice, and the moral boundaries crossed when taking the law into your own hands.",
+        "question": "What are the primary themes in Vengeance?"
+      },
+      {
+        "answer": "After a stroke of fate leaves Carlos a millionaire, he uses his fortune to buy heavy weapons, tactical gear, and advanced equipment for his mission.",
+        "question": "How does Carlos acquire his military arsenal?"
+      },
+      {
+        "answer": "Carlos is assisted by a elite group of his closest and most trusted soldiers from his special forces days.",
+        "question": "Who helps Carlos on his quest for revenge?"
+      },
+      {
+        "answer": "Viewers can expect a gritty, fast-paced, and intense tone with explosive combat sequences and emotional drama.",
+        "question": "What tone can viewers expect from Vengeance?"
+      },
+      {
+        "answer": "Vengeance is intended for mature audiences due to its intense violence, military combat, and dark themes surrounding revenge.",
+        "question": "What target audience is Vengeance intended for?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minimal horror elements, primarily focused on tense, gritty action and dark thematic tone rather than fear."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong profanity and aggressive military/action dialogue."
+      },
+      "violence": {
+        "score": 8,
+        "description": "Graphic depiction of revenge-driven violence, brutal murder, and heavy weaponry tactical warfare."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Likely occasional portrayals of alcohol or tobacco use consistent with military/crime thrillers."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes surrounding grief, devastating personal loss, and relentless vengeance."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 9,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 1,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-07-28 20:04:51.868954",
+    "updated_at": "2026-07-28 20:04:51.868954"
+  }
 }
