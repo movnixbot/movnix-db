@@ -770,5 +770,265 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1266798/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1266798,
+    "hash": "544e5f6ef825fa9cc63cd39afa2344920e1022542ee41ec19d3fd3696e356711",
+    "summary_one_sentence": "In a segregated near-future Paris governed by a predictive AI, an elite agent and a world-weary cop must team up to solve the assassination of the system's creator.",
+    "summary_short": "Near-future Paris is rigidly divided into social zones and closely monitored by ALMA, an advanced predictive AI that dictates law enforcement. When the brilliant creator behind ALMA is mysteriously assassinated, two unlikely allies are forced to work together on the investigation: Salia, an elite top-tier agent, and Zem, a disillusioned, jaded detective. As they delve deeper into the high-stakes murder case, they begin to uncover unsettling truths about the society they protect. Their search for justice threatens to expose dark, dangerous secrets buried at the very heart of the system.",
+    "summary_long": "In a dystopian near-future, the city of Paris has been restructured into three distinct zones that rigidly segregate its population by social class. Overseeing this delicate social order is ALMA, a revolutionary predictive artificial intelligence that has transformed law enforcement by neutralizing threats before they can fully materialize. The status quo is shattered when the mastermind and creator behind ALMA is brutally assassinated in a seemingly impossible breach of security. To investigate the high-profile crime, authorities pair Salia, a precise and devoted elite agent, with Zem, a cynical cop who has grown disillusioned with the regime. Initially clashing over their contrasting philosophies and methods, the duo must learn to navigate the stark divisions between the city's wealthy upper crust and its marginalized lower sectors. As their joint investigation progresses, they discover evidence suggesting the killer knew internal vulnerabilities that only an insider could exploit. The trail leads them through a web of corporate deception, underground resistance groups, and high-level political corruption. Ultimately, Salia and Zem realize that solving the murder means confronting a truth that could dismantle the entire predictive system and expose the dark compromises upon which their society was built.",
+    "synopsis": "Set against the backdrop of a futuristic Paris partitioned into strict socio-economic zones, 'Dog 51' explores a society maintained under the watchful eye of ALMA, an authoritative predictive AI designed to revolutionize crime prevention and social control. When the visionary engineer responsible for creating ALMA is murdered, the state assigns elite operative Salia and hardened detective Zem to lead the joint investigation. As they move across the starkly divided city districts, the pair must bridge their ideological differences to untangle a complex conspiracy that spans corporate boardrooms, technological surveillance, and street-level resistance. 'Dog 51' delivers a suspenseful science fiction thriller that examines artificial intelligence, socio-economic disparity, and the ethical costs of absolute security.",
+    "keywords": [
+      "predictive AI",
+      "divided city",
+      "dystopian",
+      "futuristic Paris",
+      "reluctant partners",
+      "buddy cop",
+      "assassination plot",
+      "systemic corruption",
+      "tech noir",
+      "surveillance state",
+      "social class divide",
+      "high-profile murder"
+    ],
+    "themes": [
+      {
+        "theme": "Systemic Surveillance and Control",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Class Struggle and Social Inequality",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Corruption and Systemic Deception",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Reluctant Partnership and Unity",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Truth versus Illusion of Security",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The investigation reaches a critical confrontation where the truth behind the creator's death and the terrifying reality of ALMA's power are fully brought to light.",
+      "conflict": "The creator of ALMA is assassinated, forcing the reluctant duo to partner up and solve a high-profile murder that threatens to uncover deep vulnerabilities in the status quo.",
+      "resolution": "The agents must face the fallout of their discoveries, permanently altering their understanding of the city's social order and their place within the system.",
+      "introduction": "In a near-future Paris rigidly partitioned into three social zones, top agent Salia and jaded cop Zem operate under the pervasive, predictive oversight of the ALMA AI law enforcement system.",
+      "risingAction": "As Salia and Zem navigate the city's divided sectors to pursue clues, escalating threats and hidden motives reveal that the crime is linked to corrupt secrets embedded at the core of the system."
+    },
+    "characters": [
+      {
+        "name": "Salia Malberg",
+        "role": "Hero",
+        "description": "An elite police agent from Zone 2 who is assigned to lead the high-stakes murder investigation and drive the inquiry into ALMA's secrets."
+      },
+      {
+        "name": "Zem Brecht",
+        "role": "Anti Hero",
+        "description": "A jaded, disillusioned police officer from the impoverished Zone 3 who operates with cynical methods while assisting Salia in solving the crime."
+      },
+      {
+        "name": "ALMA",
+        "role": "Villain",
+        "description": "The predictive artificial intelligence governing law enforcement and social division in Paris, whose dark secrets form the core threat."
+      },
+      {
+        "name": "Jon Mafram",
+        "role": "Supporting Character",
+        "description": "A key figure within the authoritarian political and technological hierarchy connected to the ALMA system."
+      },
+      {
+        "name": "Malik Bouzid",
+        "role": "Comic Relief",
+        "description": "A fellow officer in the police force whose banter and lighter demeanor contrast with the bleak dystopian environment."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Salia Malberg",
+        "target": "Zem Brecht",
+        "description": "Investigative Partners / Reluctant Allies"
+      },
+      {
+        "source": "Salia Malberg",
+        "target": "ALMA",
+        "description": "Agent/System relationship (Enforces laws prescribed by ALMA while ultimately exposing its secrets)"
+      },
+      {
+        "source": "Zem Brecht",
+        "target": "ALMA",
+        "description": "Cop/System relationship (Subject to police surveillance and control via ALMA)"
+      },
+      {
+        "source": "Théo Rimarval",
+        "target": "ALMA",
+        "description": "Creator / AI System"
+      },
+      {
+        "source": "Salia Malberg",
+        "target": "Théo Rimarval",
+        "description": "Investigator / Murder Victim"
+      },
+      {
+        "source": "Zem Brecht",
+        "target": "Théo Rimarval",
+        "description": "Investigator / Murder Victim"
+      },
+      {
+        "source": "Jon Mafram",
+        "target": "Salia Malberg",
+        "description": "Adversaries / Underground Resistance Leader vs. Law Enforcement Agent"
+      },
+      {
+        "source": "Jon Mafram",
+        "target": "Zem Brecht",
+        "description": "Informant & Resistance Leader / Investigating Officer"
+      },
+      {
+        "source": "Irina Mitrovna",
+        "target": "Zem Brecht",
+        "description": "Community Doctor / Local Contact in Zone 3"
+      }
+    ],
+    "seo": {
+      "slug": "dog-51",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/dog-51](https://movnix.com/movie/dog-51)",
+        "name": "Dog 51",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve."
+      },
+      "keywords": [
+        "Dog 51",
+        "Dog 51 movie",
+        "Dog 51 sci-fi movie",
+        "ALMA predictive AI movie",
+        "Paris futuristic movie",
+        "Dog 51 synopsis",
+        "sci-fi crime thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/dog-51](https://movnix.com/movie/dog-51)",
+      "metaTitle": "Dog 51 (2026) Movie Overview, Synopsis & Details | Movnix",
+      "openGraph": {
+        "og:title": "Dog 51 Movie Overview & Synopsis | Movnix",
+        "og:description": "When the creator of Paris's law-enforcement AI is murdered, an agent and a cop team up to uncover a deadly truth in Dog 51."
+      },
+      "twitterCard": {
+        "twitter:title": "Dog 51 Movie Overview & Synopsis | Movnix",
+        "twitter:description": "When the creator of Paris's law-enforcement AI is murdered, an agent and a cop team up to uncover a deadly truth in Dog 51."
+      },
+      "metaDescription": "In futuristic Paris, an agent and a cop team up to solve the creator of ALMA AI's murder, exposing dark systemic secrets. Discover Dog 51 details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Dog 51 is sci-fi thriller, blending futuristic dystopian themes with a classic noir detective investigation.",
+        "question": "What is the dominant genre of Dog 51?"
+      },
+      {
+        "answer": "Set in a near-future Paris divided into three distinct social zones, the story follows top agent Salia and jaded cop Zem as they investigate the assassination of the creator of ALMA, an all-seeing predictive law enforcement AI.",
+        "question": "What is the core plot of Dog 51?"
+      },
+      {
+        "answer": "Dog 51 is designed as a standalone film, though its rich dystopian world and lore offer potential for future spin-offs or sequels.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene, but the narrative resolution during the main ending leaves lasting implications about the predictive AI system.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "ALMA is a revolutionary predictive artificial intelligence that governs law enforcement and monitors citizens across the three social zones of Paris.",
+        "question": "What is ALMA in Dog 51?"
+      },
+      {
+        "answer": "The main protagonists are Salia, an elite operative loyal to the system, and Zem, a weary, cynical police officer working the ground level.",
+        "question": "Who are the main protagonists?"
+      },
+      {
+        "answer": "The story takes place in a near-future Paris that has been segregated into three distinct zones based on social class and economic standing.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The film carries a mature audience recommendation due to intense thriller violence, dark futuristic themes, and complex political intrigue.",
+        "question": "What age rating or content advice does Dog 51 carry?"
+      },
+      {
+        "answer": "The story explores themes of AI surveillance, systemic social inequality, human agency versus algorithmic control, and institutional corruption.",
+        "question": "What are the central themes of the story?"
+      },
+      {
+        "answer": "Dog 51 is available on major streaming platforms and select theatrical screenings depending on your region.",
+        "question": "Where can I watch Dog 51?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild suspense, tense dystopian thriller atmosphere, and psychological dread stemming from ubiquitous surveillance."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent coarse language and strong profanity standard for gritty police crime dramas."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High-octane action featuring intense physical combat, gun violence, and gritty police confrontations within a dystopic setting."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Occasional alcohol consumption and mild drug references typical of gritty urban noir thrillers."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Contains brief natural non-explicit nudity and sensual romantic themes without explicit sexual depictions."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Intense thematic focus on class stratification, authoritarian AI control, moral compromise, and systemic corruption."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 2,
+      "science": 8,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-26 15:07:18.351171",
+    "updated_at": "2026-08-26 15:07:18.351171"
+  }
 }
