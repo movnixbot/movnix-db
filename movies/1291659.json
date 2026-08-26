@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "8440584",
     "status": "Released",
-    "popularity": 6.2641,
-    "voteAverage": 6.531,
-    "voteCount": 209,
+    "popularity": 11.3904,
+    "voteAverage": 6.509,
+    "voteCount": 226,
     "homepage": "https://www.vert-ent.com/library/the-wizard-of-the-kremlin",
     "posterPath": "/85EYON4oXVYTPdMuW5q5ELQLU88.jpg",
     "backdropPath": "/bDBVzSp24aesVWJBBmWxDcoOSRw.jpg",
@@ -492,6 +492,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/dkwEBoHfzXNC2y0yRauY9Q9t9pN.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/bDBVzSp24aesVWJBBmWxDcoOSRw.jpg",
       "width": 1920,
       "height": 1080,
@@ -658,13 +665,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/4PvEEzJYbxjAFlgKtOu2hEvNtqV.jpg",
+      "width": 1568,
+      "height": 882,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.531,
-      "votesCount": 209
+      "ratingValue": 6.509,
+      "votesCount": 226
     },
     {
       "source": "imdb",
@@ -673,7 +687,7 @@
     },
     {
       "source": "rotten_tomatoes",
-      "ratingValue": 43,
+      "ratingValue": 44,
       "votesCount": null
     },
     {
@@ -823,15 +837,6 @@
       "name": "Olivier Assayas",
       "profilePath": "/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 21678,
-      "name": "Olivier Assayas",
-      "profilePath": "/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg",
-      "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
@@ -843,6 +848,15 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 21678,
+      "name": "Olivier Assayas",
+      "profilePath": "/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -894,7 +908,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
@@ -950,5 +969,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1291659/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1291659,
+    "hash": "9586b98e4e5b6020a201ca5520fb3a141d615637f214cd9bc6c03ecfd0707974",
+    "summary_one_sentence": "In the volatile landscape of post-Soviet Russia, an ambitious KGB officer and a cunning media strategist unite to reshape power through cold calculation, deception, and force.",
+    "summary_short": "Set against the backdrop of post-Soviet turbulence, the story follows rising KGB officer Vladimir Putin as he builds an unprecedented grip on power. Partnering with Vadim Baranov, a brilliant and cynical master manipulator, they orchestrate political narratives and control public perception. Together, they deploy strategic violence and psychological warfare to bend the nation—and the global order—to their will. Their alliance forever alters the trajectory of modern political strategy behind and beyond the former Iron Curtain.",
+    "summary_long": "Following the collapse of the Soviet Union, Russia experiences immense socioeconomic upheaval and political chaos. Amidst this turmoil, Vladimir Putin, a former KGB agent, begins a calculated ascent through the ranks of the political apparatus. To consolidate control, he aligns with Vadim Baranov, an astute media advisor with a deep understanding of human psychology and narrative control. Baranov crafts the image of a strong, decisive leader, utilizing television networks, manufactured rivalries, and staged political events to manipulate the populace. As their strategy unfolds, dissent is systematically neutralized through a mix of institutional force, intimidation, and strategic violence. The pair redefines modern statecraft, turning public confusion and political apathy into their greatest weapons. As foreign powers struggle to adapt, the domestic opposition finds itself hopelessly outmaneuvered by the illusion of control. The narrative examines how media manipulation can redefine reality in a nuclear-capable state. Ultimately, the partnership permanently cements a new paradigm of autocratic power on the global stage.",
+    "synopsis": "The Wizard of the Kremlin is a tense dramatic exploration of power, propaganda, and political intrigue during a pivotal transition in modern history. The narrative centers on the calculated partnership between Vladimir Putin, an ambitious figure emerging from the former KGB, and Vadim Baranov, a shadowy political strategist who turns statecraft into art. Set in post-Soviet Russia, the story illustrates how information control, covert operations, and calculated theater can consolidate political power and shape international relations without relying solely on traditional diplomacy.",
+    "keywords": [
+      "post-Soviet Russia",
+      "KGB",
+      "Vladimir Putin",
+      "political intrigue",
+      "master manipulator",
+      "power play",
+      "political spin",
+      "political satire",
+      "behind the scenes",
+      "authoritarianism",
+      "corruption",
+      "deception",
+      "rise to power",
+      "Kremlin politics",
+      "modern history"
+    ],
+    "themes": [
+      {
+        "theme": "Political Power & Manipulation",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Deception & Propaganda",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Authoritarianism & Control",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Ambition & Survival",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Cynical",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "As the ruthless political machine grows beyond any individual's control, the overwhelming moral weight and personal cost of the regime force Baranov to confront the monster he helped engineer.",
+      "conflict": "Baranov aligns with rising leader Vladimir Putin, facing the challenge of constructing a new political reality while managing cutthroat oligarchs, institutional corruption, and shifting public perception.",
+      "resolution": "Baranov steps back from the inner circle into quiet seclusion, reflecting on the enduring legacy of the psychological and political machinery he crafted to reshape modern Russia.",
+      "introduction": "In post-Soviet Moscow, former theater producer Vadim Baranov finds himself drawn into the chaotic high-stakes world of Russian politics as the Soviet regime collapses.",
+      "risingAction": "Employing narrative warfare, political theater, and media manipulation, Baranov centralizes state power and helps build an airtight autocratic apparatus, steadily neutralizing domestic and foreign opposition."
+    },
+    "characters": [
+      {
+        "name": "Vadim Baranov",
+        "role": "Anti Hero",
+        "description": "The central protagonist and political strategist who uses manipulation and media control to shape modern Russian power dynamics."
+      },
+      {
+        "name": "Vladimir Putin",
+        "role": "Villain",
+        "description": "The rising KGB officer turned authoritarian leader who consolidates power through ruthlessness, force, and deception."
+      },
+      {
+        "name": "Ksenia",
+        "role": "Supporting Character",
+        "description": "An influential companion to Baranov whose presence impacts his personal choices and moral boundaries amid political chaos."
+      },
+      {
+        "name": "Boris Berezovsky",
+        "role": "Mentor",
+        "description": "An ambitious oligarch and political puppet master who initially guides and elevates key figures before losing control of the regime."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Vadim Baranov",
+        "target": "Vladimir Putin",
+        "description": "Chief Political Advisor / Master Manipulator and Leader"
+      },
+      {
+        "source": "Vadim Baranov",
+        "target": "Boris Berezovsky",
+        "description": "Former Associates turned Political Rivals"
+      },
+      {
+        "source": "Vladimir Putin",
+        "target": "Boris Berezovsky",
+        "description": "Former Political Allies turned Bitter Rivals"
+      },
+      {
+        "source": "Vadim Baranov",
+        "target": "Ksenia",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Vladimir Putin",
+        "target": "Mikhail Khodorkovsky",
+        "description": "Rivals / Political Opponents"
+      },
+      {
+        "source": "Vadim Baranov",
+        "target": "Eduard Limonov",
+        "description": "Counter-cultural Acquaintances / Ideological Counterparts"
+      }
+    ],
+    "seo": {
+      "slug": "the-wizard-of-the-kremlin",
+      "jsonLd": {
+        "name": "The Wizard of the Kremlin",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the chaos of post-Soviet Russia, rising KGB officer Vladimir Putin joins forces with master manipulator Vadim Baranov to reshape life behind the Iron Curtain, using violence and deception to change the world forever."
+      },
+      "keywords": [
+        "The Wizard of the Kremlin",
+        "The Wizard of the Kremlin movie",
+        "Vladimir Putin movie",
+        "Vadim Baranov",
+        "post-Soviet Russia cinema",
+        "political thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/the-wizard-of-the-kremlin](https://movnix.com/movie/the-wizard-of-the-kremlin)",
+      "metaTitle": "The Wizard of the Kremlin - Plot, Overview & Movie Info",
+      "openGraph": {
+        "og:title": "The Wizard of the Kremlin - Post-Soviet Power and Deception",
+        "og:description": "Discover the story of Vadim Baranov and Vladimir Putin as they reshape Russia in the wake of the Soviet collapse."
+      },
+      "twitterCard": {
+        "twitter:title": "The Wizard of the Kremlin - Movie Overview",
+        "twitter:description": "Inside post-Soviet Russia: Vladimir Putin and Vadim Baranov use power and deception to reshape the world."
+      },
+      "metaDescription": "Explore The Wizard of the Kremlin: Vadim Baranov and Vladimir Putin reshape post-Soviet Russia through deception, power, and manipulation."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is political thriller and biographical drama, focusing on political manipulation, power dynamics, and modern Russian history.",
+        "question": "What is the dominant genre of The Wizard of the Kremlin?"
+      },
+      {
+        "answer": "Yes, it is adapted from the acclaimed 2022 novel 'Le Mage du Kremlin' by Giuliano da Empoli, which blends historical events with dramatized narrative.",
+        "question": "Is The Wizard of the Kremlin based on a true story or a book?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and is not part of any cinematic franchise or shared universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The narrative focuses on Vladimir Putin during his rise to power and Vadim Baranov, a master political strategist and spin doctor working behind the scenes.",
+        "question": "Who are the central figures in the story?"
+      },
+      {
+        "answer": "No, as a dramatic political thriller, there are no mid-credit or post-credit scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story spans the chaotic post-Soviet era from the late 1990s through the consolidation of Russian political authority in the 2000s.",
+        "question": "What period of history does the story cover?"
+      },
+      {
+        "answer": "The main theme explores political propaganda, how truth and perception are manufactured, and the sacrifices made to engineer absolute political power.",
+        "question": "What is the main theme of The Wizard of the Kremlin?"
+      },
+      {
+        "answer": "Vadim Baranov is heavily inspired by Vladislav Surkov, the real-life chief political advisor and media strategist often called the 'grey cardinal' of the Kremlin.",
+        "question": "Who is the character Vadim Baranov based on?"
+      },
+      {
+        "answer": "While anchored in real political events and historical figures, the narrative uses fictionalized conversations and creative license to explore the behind-the-scenes power dynamics.",
+        "question": "Is the narrative completely historically accurate?"
+      },
+      {
+        "answer": "The story primarily takes place in Moscow, Russia, centered inside the corridors of power within the Kremlin.",
+        "question": "Where does the primary setting of the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror content; primarily psychological tension, dark political atmosphere, and unsettling themes of authoritarian control."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and harsh political rhetoric."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depictions and references to state violence, military aggression, assassinations, and political coercion in post-Soviet Russia."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Frequent alcohol consumption (vodka) and tobacco use in social and political settings."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild adult content, brief sexual references, and romantic affairs."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by psychological manipulation, existential political stakes, corruption, and systemic oppression."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-02 23:02:36.102602",
+    "updated_at": "2026-08-02 23:02:36.102602"
+  }
 }
