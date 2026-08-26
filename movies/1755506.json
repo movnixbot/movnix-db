@@ -1,0 +1,136 @@
+{
+  "movie": {
+    "tmdbId": 1755506,
+    "imdbId": null,
+    "title": "Meu Nome é Eneas",
+    "originalTitle": "Meu Nome é Eneas",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "2026-08-01",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 0.1514,
+    "voteAverage": 7,
+    "voteCount": 10,
+    "homepage": "https://mock-movie-website.com/movies/1755506",
+    "posterPath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
+    "backdropPath": "/57K9WtvxoduSJ0zp6d2ha0BvfeX.jpg",
+    "collectionId": null,
+    "certification": "16"
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 99,
+      "name": "Documentary"
+    },
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 156483,
+      "name": "Brasil Paralelo",
+      "logoPath": "/hI4QxQav2AkH8oTHw7XbF4dMqra.png",
+      "originCountry": "BR"
+    }
+  ],
+  "keywords": [],
+  "videos": [],
+  "images": [
+    {
+      "filePath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/57K9WtvxoduSJ0zp6d2ha0BvfeX.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
+      "width": 800,
+      "height": 1150,
+      "aspectRatio": 0.696,
+      "type": "poster"
+    },
+    {
+      "filePath": "/57K9WtvxoduSJ0zp6d2ha0BvfeX.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 6001370,
+      "name": "Renato Dias",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/1755506"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/1755506"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=1755506"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1755506/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1755506/en.vtt"
+    }
+  ]
+}
