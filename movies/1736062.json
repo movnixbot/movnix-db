@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 5.5031,
+    "popularity": 5.9008,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1736062",
@@ -92,6 +92,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/AbFcBb2ffWoFDX9IwAOhyR56zYy.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/86UbkaAlNaD2dJ93SOhCzP4gOz7.jpg",
       "width": 3840,
       "height": 2160,
@@ -114,6 +121,13 @@
     },
     {
       "filePath": "/dycGmbbrPEaKnlpCjeTzwtVvnNw.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/9SBTJJuc8slLCdxbHRfIIYX9wGI.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -219,7 +233,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IL",
+      "title": "לבנות את העולם של דיסני",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt43702934",
     "wikidataId": null,
@@ -229,11 +249,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney+",
+          "logo": "/tHtNW975SmVydaBULhEaOqPTmo8.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney Plus",
+          "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        }
+      ],
       "buy": []
     }
   },
