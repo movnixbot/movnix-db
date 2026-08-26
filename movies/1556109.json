@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.5413,
-    "voteAverage": 5.5,
-    "voteCount": 1,
+    "popularity": 4.441,
+    "voteAverage": 5.667,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1556109",
     "posterPath": "/wIS9IwwuI2tcwp31gVz3jgbn0Rl.jpg",
     "backdropPath": "/tXuOavAo9hw3AmJ5lxzIfSXEYbH.jpg",
@@ -109,8 +109,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.5,
-      "votesCount": 1
+      "ratingValue": 5.667,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -163,6 +163,42 @@
       "job": "Director",
       "department": "Directing",
       "order": null
+    },
+    {
+      "tmdbPersonId": 1007592,
+      "name": "Marina Seresesky",
+      "profilePath": "/AgJWkhbfh3byObmBjAJMunVKsTV.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1527536,
+      "name": "Frank Ariza",
+      "profilePath": "/9Olm2dIR5rimLv88q1LqZfSqkqV.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5288438,
+      "name": "Carmen Aguado",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2804618,
+      "name": "Manuel Vega",
+      "profilePath": "/f0lQDhqfrQNpxnkh7Thd20nYtck.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
     }
   ],
   "alternativeTitles": [],
@@ -209,5 +245,213 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1556109/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1556109,
+    "hash": "90b994853f97e7362c43f18a2402b8dbc4e179a62ceb2d4146dc155dd98ed8cf",
+    "summary_one_sentence": "An washed-up actress planning to end her life at a former film location forms an unexpected, unsettling bond with a troubled young man.",
+    "summary_short": "Destitute and forgotten, former actress Amparo checks into the hotel where she once made a movie, intending to commit suicide in hopes of regaining media attention. Her plan is derailed when she crosses paths with Toni, a tormented twenty-year-old wrestling with his own inner demons. Over two days spent among bored tourists and decadent parties, the pair forge a strange connection that gradually uncovers their darkest secrets. Ultimately, their brief time together leads to a shocking conclusion that neither could have anticipated.",
+    "summary_long": "Amparo is a destitute former actress whose career has long since faded into obscurity. Driven by desperation and isolation, she decides to take her own life at the very hotel where she once filmed one of her forgotten movies, hoping her tragic death will reignite public interest in her story. However, her fatalistic plan takes an unexpected turn when she meets Toni, a tormented twenty-year-old man battling deep emotional turmoil of his own. Set against the surreal backdrop of bored resort tourists, lavish parties, and heavy silences, the two spend two transformative days together. As they navigate their burgeoning bond, both Amparo and Toni begin to realize that neither is who they initially appeared to be. Dark secrets from their pasts slowly come to light, altering the dynamic of their relationship and forcing them to confront their shared isolation. What begins as a chance encounter between two lost souls rapidly evolves into an intense, psychologically complex connection. By the end of their brief journey, the collision of their hidden lives culminates in an unsettling twist that forever alters their fates.",
+    "synopsis": "Amparo, a destitute former actress facing the end of her career and life, retreats to a resort hotel—the site of one of her long-forgotten film shoots—intending to commit suicide as a final plea for public recognition. Her deliberate path to self-destruction is interrupted when she crosses paths with Toni, a troubled twenty-year-old man carrying his own heavy emotional burdens. Over the span of two days, set against the backdrop of a decadent resort filled with indifferent tourists and tense, quiet moments, the unlikely pair forge an intense and unpredictable bond. As they open up to one another, dark secrets emerge that shatter their initial impressions, building toward a deeply unsettling and surprising conclusion.",
+    "keywords": [
+      "fading actor",
+      "suicidal ideation",
+      "unlikely bond",
+      "hotel setting",
+      "dark secrets",
+      "tormented characters",
+      "bored tourists",
+      "decadent lifestyle",
+      "unexpected twist",
+      "tense atmosphere",
+      "existential dread",
+      "fame and obscurity",
+      "psychological drama",
+      "two-day timeline",
+      "unsettling mystery"
+    ],
+    "themes": [
+      {
+        "theme": "Loneliness and Desolation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Shared Trauma and Torment",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Identity and Illusion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Mortality and Desperation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The tense bond between Amparo and Toni reaches a critical turning point as the full weight of their concealed truths surfaces.",
+      "conflict": "Amparo encounters Toni, a deeply troubled twenty-year-old, establishing an unexpected connection between two isolated individuals carrying hidden burdens.",
+      "resolution": "The strange dynamic between them concludes in a unsettling and unforeseen turn of events.",
+      "introduction": "Amparo, an impoverished former actress contemplating suicide, arrives at a hotel linked to her past acting career in hopes that her death will draw media attention.",
+      "risingAction": "Over the course of two days set against a backdrop of hedonistic parties and uneasy silences, the two spend time together while their troubling secrets gradually emerge."
+    },
+    "characters": [
+      {
+        "name": "Amparo",
+        "role": "Hero",
+        "description": "A destitute former actress driven to despair, whose encounter with Toni forces her to confront shared darkness and unknown secrets."
+      },
+      {
+        "name": "Toni",
+        "role": "Supporting Character",
+        "description": "A tormented twenty-year-old man whose unexpected connection with Amparo uncovers dark secrets over two days."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amparo",
+        "target": "Toni",
+        "description": "Companions/Confidants"
+      }
+    ],
+    "seo": {
+      "slug": "islands",
+      "jsonLd": {
+        "name": "Islands",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Amparo, alone and destitute, with her acting career over, has decided to take her own life at the very hotel where she once filmed one of her forgotten movies. She hopes the press will at least take note of her desperate end. But she crosses paths with Toni, a twenty-year-old man as tormented as she is. Over the course of two days, they will discover one another and realize that neither is quite what they seem."
+      },
+      "keywords": [
+        "Islands movie",
+        "Islands film synopsis",
+        "Amparo and Toni",
+        "Islands drama movie",
+        "Islands plot overview"
+      ],
+      "canonical": "[https://movnix.com/movie/islands](https://movnix.com/movie/islands)",
+      "metaTitle": "Islands Movie - Plot Synopsis & Film Details",
+      "openGraph": {
+        "og:title": "Islands - Movie Synopsis & Details",
+        "og:description": "Two troubled souls cross paths at a decadent hotel in Islands, uncovering dark secrets in an unsettling emotional journey."
+      },
+      "twitterCard": {
+        "twitter:title": "Islands - Movie Synopsis & Details",
+        "twitter:description": "Two troubled souls cross paths at a decadent hotel in Islands, uncovering dark secrets in an unsettling emotional journey."
+      },
+      "metaDescription": "Discover the plot and secrets behind Islands, a gripping drama following Amparo and Toni's unsettling encounter over two days at a decadent hotel."
+    },
+    "faq": [
+      {
+        "answer": "The movie is primarily a drama and psychological suspense film, focusing on themes of isolation, hidden secrets, and the complex connection between two deeply troubled individuals.",
+        "question": "What is the dominant genre of Islands?"
+      },
+      {
+        "answer": "The story follows Amparo, an isolated former actress planning to end her life at a hotel from her past, whose trajectory changes after an unexpected encounter with Toni, a tormented young man carrying his own dark secrets.",
+        "question": "What is the core premise of Islands?"
+      },
+      {
+        "answer": "No, Islands is a standalone film with an original storyline and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes fully before the end credits roll.",
+        "question": "Is there a post-credit scene in Islands?"
+      },
+      {
+        "answer": "The main narrative unfolds rapidly over the course of just two intense days.",
+        "question": "Over what timeframe does the story of Islands take place?"
+      },
+      {
+        "answer": "The story is set at a coastal resort hotel—the exact location where Amparo previously filmed one of her forgotten movies.",
+        "question": "Where does the film take place?"
+      },
+      {
+        "answer": "The main characters are Amparo, a destitute former actress struggling with despair, and Toni, a troubled twenty-year-old man she meets at the hotel.",
+        "question": "Who are the central characters in Islands?"
+      },
+      {
+        "answer": "The film features a tense, atmospheric, and unsettling tone characterized by sharp silences, decadent resort life, and a mounting sense of mystery as dark truths emerge.",
+        "question": "What kind of tone can viewers expect from Islands?"
+      },
+      {
+        "answer": "Yes, both characters harbor dark secrets that come to light, leading to an ending described as highly unsettling and unexpected.",
+        "question": "Does Islands feature a major twist or plot revelation?"
+      },
+      {
+        "answer": "Due to mature themes including suicide, psychological distress, and dark personal secrets, the film is intended for mature audiences.",
+        "question": "Is Islands suitable for general audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Unsettling tones and dark secrets create light suspense without explicit horror elements."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity present in the overview."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Implied self-harm/suicide context and dark secrets, but no explicit physical violence described."
+      },
+      "substance": {
+        "score": 2,
+        "description": "References to decadent parties suggesting potential alcohol or recreational substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romance depicted."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity focused on depression, suicidal ideation, despair, and dark secrets."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 5,
+      "science": 0,
+      "suspense": 8,
+      "violence": 3
+    },
+    "created_at": "2026-08-25 12:20:12.879389",
+    "updated_at": "2026-08-25 12:20:12.879389"
+  }
 }

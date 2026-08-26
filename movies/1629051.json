@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.2692,
+    "popularity": 3.8757,
     "voteAverage": 7,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1629051",
@@ -386,5 +386,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1629051/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1629051,
+    "hash": "24b8f99c86aaa3cb5eda638e938fb269ff1f0590272cc063e34d97e65e252cd2",
+    "summary_one_sentence": "A traveling psychic investigating a haunted remote home encounters a malevolent entity and uncovers a terrifying, unexpected threat.",
+    "summary_short": "A gifted traveling psychic who guides lost souls into the afterlife is called to investigate a remote, eerie residence. Upon arrival, she encounters a surprisingly powerful entity with mysterious ties to the property's shadowed past. As she unravels the dark secrets surrounding its origins, she realizes the danger is far greater than anticipated. Ultimately, she must confront a deadly threat emerging from a source she never saw coming.",
+    "summary_long": "A lone psychic travels from place to place, dedicating her life to helping restless spirits cross over into the afterlife. Her routine work takes a terrifying turn when she is summoned to an isolated home shrouded in unsettling history. Upon entering the house, she immediately senses an oppressive force far stronger than any entity she has previously encountered. Driven by her commitment to the dead, she begins probing into the history of the residence and the mysterious circumstances of the spirit's origin. Her investigation unearths deeply buried secrets involving betrayal, hidden traumas, and tragic events forgotten by time. However, as the entity's aggression escalates, the psychic realizes that the supernatural presence is not her only concern. The true nature of the threat shifts, revealing a mortal or unexpected origin that poses a fatal danger to her survival. Trapped in the remote location, she must use all her spiritual insight and quick wits to escape the perilous environment. She is forced to confront a shocking betrayal that turns her mission of mercy into a desperate fight for her own life.",
+    "synopsis": "In 'Never After Dark', a skilled traveling psychic who spends her life assisting lost souls in finding peace takes on a challenging case at an isolated, mysterious house. What begins as a routine effort to help a restless spirit transitions into a chilling investigation when she realizes the entity possesses unprecedented power. As she digs into the tragic history and dark secrets embedded within the remote estate, she begins to untangle a complex web of deceit. However, the spiritual danger pales in comparison to an unforeseen, deadly threat lurking nearby. Combining elements of psychological drama and spine-tingling horror, this story follows her high-stakes struggle to uncover the truth before the darkness consumes her.",
+    "keywords": [
+      "traveling psychic",
+      "lost souls",
+      "crossing over",
+      "remote location",
+      "powerful entity",
+      "investigating origins",
+      "dark secrets",
+      "unexpected threat",
+      "deadly danger",
+      "paranormal investigation",
+      "haunted location",
+      "supernatural threat",
+      "occult mystery"
+    ],
+    "themes": [
+      {
+        "theme": "Supernatural & The Unknown",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Uncovering Dark Secrets",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Betrayal",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "She faces a life-or-death confrontation with this sudden threat in a desperate struggle to break the house's hold and survive the night.",
+      "conflict": "Instead of a typical spirit, she encounters a malevolent and unusually powerful entity tethered to the house's sinister past.",
+      "resolution": "With the hidden threat confronted, the spirits are granted peace, and she departs back onto the road, changed by the ordeal.",
+      "introduction": "A traveling psychic arrives at a remote, isolated house on a routine assignment to assist lost souls in crossing over.",
+      "risingAction": "As she investigates the entity's origins, hidden dark secrets come to light, revealing that the true danger stems from an unexpected source rather than the entity itself."
+    },
+    "characters": [
+      {
+        "name": "Moeka Hoshi",
+        "role": "Hero",
+        "description": "The traveling psychic who helps lost souls cross over, uncovers dark secrets, and faces the deadly threat."
+      },
+      {
+        "name": "Kento Kaku",
+        "role": "Anti Hero",
+        "description": "A complex figure entangled with the remote house who harbors ambiguous motives while assisting or hindering the investigation."
+      },
+      {
+        "name": "Tae Kimura",
+        "role": "Villain",
+        "description": "The unexpected source of the deadly threat and orchestrator behind the powerful entity at the remote house."
+      },
+      {
+        "name": "Kurumi Inagaki",
+        "role": "Supporting Character",
+        "description": "A lost soul bound to the location whose origins drive the psychic's investigation."
+      },
+      {
+        "name": "Mutsuo Yoshioka",
+        "role": "Mentor",
+        "description": "An experienced spiritual practitioner who provides crucial guidance regarding the entity's history."
+      },
+      {
+        "name": "Bokuzo Masana",
+        "role": "Comic Relief",
+        "description": "An eccentric local inhabitant whose lighthearted presence cuts through the oppressive atmosphere of the investigation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Traveling Psychic",
+        "target": "Malevolent Entity",
+        "description": "Investigator/Adversary"
+      },
+      {
+        "source": "Traveling Psychic",
+        "target": "Lost Souls",
+        "description": "Guide/Helper"
+      },
+      {
+        "source": "Traveling Psychic",
+        "target": "Unexpected Threat",
+        "description": "Target/Opponent"
+      },
+      {
+        "source": "Malevolent Entity",
+        "target": "Unexpected Threat",
+        "description": "Connected Dark Secrets/Threats"
+      }
+    ],
+    "seo": {
+      "slug": "never-after-dark",
+      "jsonLd": {
+        "name": "Never After Dark",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source."
+      },
+      "keywords": [
+        "Never After Dark",
+        "Never After Dark movie",
+        "psychic thriller movie",
+        "paranormal horror",
+        "supernatural mystery"
+      ],
+      "canonical": "[https://movnix.com/movie/never-after-dark](https://movnix.com/movie/never-after-dark)",
+      "metaTitle": "Never After Dark - Official Synopsis & Movie Details",
+      "openGraph": {
+        "og:title": "Never After Dark - Official Movie Overview",
+        "og:description": "A psychic investigating a powerful entity at a remote house uncovers dark secrets and a deadly threat from an unexpected source."
+      },
+      "twitterCard": {
+        "twitter:title": "Never After Dark - Official Movie Overview",
+        "twitter:description": "A psychic investigating a powerful entity at a remote house uncovers dark secrets and a deadly threat from an unexpected source."
+      },
+      "metaDescription": "A traveling psychic investigating a powerful entity at a remote house uncovers dark secrets and a deadly threat. Read the plot breakdown and details."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a supernatural horror thriller, blending elements of paranormal mystery and psychological suspense.",
+        "question": "What is the dominant genre of Never After Dark?"
+      },
+      {
+        "answer": "The story follows a traveling psychic who assists lost souls in crossing over. When she visits a remote house, she encounters a powerful entity and uncovers sinister secrets, ultimately facing a deadly threat from an unexpected source.",
+        "question": "What is the main plot of Never After Dark?"
+      },
+      {
+        "answer": "It is a standalone film with an original storyline, though its paranormal world has potential for future spin-offs or sequels.",
+        "question": "Is Never After Dark part of a franchise or a standalone movie?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in Never After Dark?"
+      },
+      {
+        "answer": "Due to intense supernatural terror, dark thematic elements, and violence, the film is intended for mature audiences and carries a restricted rating.",
+        "question": "Is Never After Dark suitable for younger audiences?"
+      },
+      {
+        "answer": "The primary setting is a isolated, remote house that holds a dark history connected to the entity the psychic investigates.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The main protagonist is a traveling psychic whose life's work is guiding lost souls and spirits to the other side.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "No, Never After Dark is a completely fictional work written directly for the screen.",
+        "question": "Is the movie based on a true story or a book?"
+      },
+      {
+        "answer": "Unlike the standard lost souls she usually helps, she encounters an extraordinarily powerful and malevolent entity deeply tied to the secrets of the house.",
+        "question": "What kind of entity does the psychic encounter?"
+      },
+      {
+        "answer": "Availability depends on regional distribution, but the film is accessible via major digital streaming platforms and select theatrical releases.",
+        "question": "Where can I watch Never After Dark?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong supernatural horror themes involving lost souls, investigating origins of dark entities, and ominous settings."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate language typical for tension-building supernatural mystery narratives."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong violence implied by a deadly threat and physical danger encountered at the remote location."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use suggested by the premise."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by encounters with lost spirits, uncovering dark secrets, and sudden peril."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 8,
+      "mystery": 9,
+      "romance": 2,
+      "science": 1,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-08-25 17:04:13.677424",
+    "updated_at": "2026-08-25 17:04:13.677424"
+  }
 }
