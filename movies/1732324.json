@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.404,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 2.6632,
+    "voteAverage": 5,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1732324",
-    "posterPath": "/jawa4LKD9PnBgCpVANUhB3SL94I.jpg",
+    "posterPath": "/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
     "backdropPath": "/iInWVhzCKcGDLwcnhtvbtm9NOps.jpg",
     "collectionId": null,
     "certification": "U"
@@ -50,7 +50,7 @@
   ],
   "images": [
     {
-      "filePath": "/jawa4LKD9PnBgCpVANUhB3SL94I.jpg",
+      "filePath": "/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -92,6 +92,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/iInWVhzCKcGDLwcnhtvbtm9NOps.jpg",
       "width": 1920,
       "height": 1080,
@@ -107,6 +114,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 5,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -281,5 +293,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1732324/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1732324,
+    "hash": "220876ba0449faf8d3104f9cb8d3d1543288254542b8b25f2eaa835afeb0529a",
+    "summary_one_sentence": "When unexpected life challenges upend his carefully balanced routine, a middle-class man must navigate mounting setbacks to rediscover what truly matters.",
+    "summary_short": "A hardworking middle-class man leads a carefully managed life, striving to balance his modest dreams with his family's needs. When a series of unexpected personal and financial setbacks strike, his resilience and relationships are pushed to the absolute limit. Through humor, heartache, and perseverance, he embarks on a journey toward self-worth and genuine fulfillment. Ultimately, he learns that true security stems from the love and solidarity of family rather than material success.",
+    "summary_long": "Mister Middle Class follows the daily life of a dedicated family man who prides himself on maintaining stability despite living on a tight budget. His routine is thrown into complete disarray when sudden financial strain and unexpected professional disruptions threaten to destroy everything he has built. Struggling to maintain a brave face for his family, he tries to manage the rising chaos on his own, leading to humorous missteps and high-stakes misunderstandings. As each attempt to fix his problems creates new obstacles, tensions flare within his home and test his core relationships. Friends and relatives offer unsolicited advice, forcing him to confront his own insecurities and pride. Through various trials, he begins to see that his worth is not tied strictly to his socioeconomic standing or financial output. Guided by the unconditional support of his loved ones, he learns to embrace vulnerability and adapt to life's unpredictable nature. In the end, he successfully overcomes the immediate crisis, stronger in spirit and united with his family. The narrative delivers an uplifting message about finding joy, purpose, and dignity amidst everyday struggles.",
+    "synopsis": "Mister Middle Class is an engaging comedy-drama that takes an empathetic, relatable look at the triumphs and tribulations of ordinary life. The story centers on a quintessential middle-class man whose world is defined by routine, practical ambition, and deep love for his family. When a sudden cascade of unforeseen events disrupts his carefully maintained equilibrium, he is forced to navigate a gauntlet of emotional, personal, and financial hurdles. As he strives to protect his household and preserve his dignity, comedic misadventures collide with poignant moments of self-reflection. The series highlights the intricate dynamics of domestic life, the strain of societal expectations, and the enduring strength found in familial bonds. Heartfelt and humorous, Mister Middle Class serves as a grounded celebration of resilience, hope, and the true value of home.",
+    "keywords": [
+      "middle class life",
+      "everyday struggles",
+      "family bonds",
+      "perseverance",
+      "resilience",
+      "personal growth",
+      "unforeseen obstacles",
+      "financial stress",
+      "slice of life",
+      "self discovery",
+      "dramedy",
+      "relationship testing",
+      "underdog story",
+      "life turmoil",
+      "search for identity"
+    ],
+    "themes": [
+      {
+        "theme": "Perseverance",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Self-Worth",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Resilience",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Inspirational",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical breaking point forces him to make a defining choice between his old ambitions and the deeper values he has uncovered through his struggles.",
+      "conflict": "An sudden, unexpected disruption upends his stability, throwing his lifestyle into chaos and threatening his sense of security.",
+      "resolution": "He rebuilds his life with a renewed focus on family, perseverance, and genuine self-worth, emerging resilient despite the challenges faced.",
+      "introduction": "A middle-class man lives a carefully balanced, ordinary life centered around his personal dreams, core relationships, and daily routine.",
+      "risingAction": "He faces a series of escalating setbacks and compounding pressures that test his resilience, strain his family bonds, and force him to reassess his priorities."
+    },
+    "characters": [
+      {
+        "name": "Srikanth",
+        "role": "Hero",
+        "description": "The middle-class protagonist navigating personal and financial setbacks to protect his family and preserve his self-worth."
+      },
+      {
+        "name": "Laya",
+        "role": "Supporting Character",
+        "description": "The protagonist's supportive partner or key family member who offers emotional strength and grounding throughout his struggles."
+      },
+      {
+        "name": "Rajendra Prasad",
+        "role": "Mentor",
+        "description": "A wise elder or experienced figure providing vital guidance, moral strength, and practical advice in times of crisis."
+      },
+      {
+        "name": "Vennela Kishore",
+        "role": "Comic Relief",
+        "description": "A close ally who brings humor, lighthearted commentary, and witty observations to balance the story's emotional tension."
+      },
+      {
+        "name": "Ali",
+        "role": "Comic Relief",
+        "description": "An eccentric acquaintance whose humorous antics and unpredictable situations deliver consistent comedic breaks."
+      },
+      {
+        "name": "Sunil Varma",
+        "role": "Anti Hero",
+        "description": "A conflicted rival or morally ambiguous figure whose self-serving actions directly challenge the main protagonist."
+      },
+      {
+        "name": "Raghu Babu",
+        "role": "Comic Relief",
+        "description": "A humorous character entangled in the protagonist's daily difficulties, adding side plot comedy."
+      },
+      {
+        "name": "Prudhviraj",
+        "role": "Villain",
+        "description": "An antagonistic presence or opportunistic authority figure whose greed and opposition drive the main conflict."
+      },
+      {
+        "name": "Muralidhar Goud",
+        "role": "Other",
+        "description": "A traditional middle-class neighbor or elder figure grounding the socio-economic context of the protagonist's world."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mister Middle Class",
+        "target": "Spouse / Wife",
+        "description": "Husband / Wife"
+      },
+      {
+        "source": "Mister Middle Class",
+        "target": "Children / Family Members",
+        "description": "Father / Provider"
+      },
+      {
+        "source": "Mister Middle Class",
+        "target": "Employer / Work Rival",
+        "description": "Employee / Adversary"
+      }
+    ],
+    "seo": {
+      "slug": "mister-middle-class",
+      "jsonLd": {
+        "name": "Mister Middle Class",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A middle-class man's carefully balanced life is turned upside down by unexpected challenges that test his dreams, relationships, and resilience. As he faces one setback after another, he discovers the true meaning of family, perseverance, and self-worth."
+      },
+      "keywords": [
+        "Mister Middle Class",
+        "Mister Middle Class movie",
+        "drama movie",
+        "family drama",
+        "Mister Middle Class plot",
+        "perseverance drama"
+      ],
+      "canonical": "[https://movnix.com/movie/mister-middle-class](https://movnix.com/movie/mister-middle-class)",
+      "metaTitle": "Mister Middle Class - Drama Movie | Movnix",
+      "openGraph": {
+        "og:title": "Mister Middle Class - Official Movie Page",
+        "og:description": "A story of resilience, family, and self-worth as a middle-class man navigates unexpected life challenges."
+      },
+      "twitterCard": {
+        "twitter:title": "Mister Middle Class - Official Movie Page",
+        "twitter:description": "A story of resilience, family, and self-worth as a middle-class man navigates unexpected life challenges."
+      },
+      "metaDescription": "A middle-class man's balanced life is upended by unexpected challenges, testing his dreams, relationships, and resilience. Read full plot & details."
+    },
+    "faq": [
+      {
+        "answer": "Mister Middle Class is primarily a drama with strong elements of slice-of-life and social comedy, focusing on the everyday struggles and triumphs of everyday living.",
+        "question": "What is the dominant genre of Mister Middle Class?"
+      },
+      {
+        "answer": "No, the story is a fictional narrative created to reflect the realistic experiences, economic pressures, and personal aspirations common to middle-class families.",
+        "question": "Is Mister Middle Class based on a true story?"
+      },
+      {
+        "answer": "No, Mister Middle Class is a standalone film and is not connected to any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "The film appeals broadly to adults and families, particularly viewers who enjoy relatable character-driven stories, emotional drama, and inspirational life themes.",
+        "question": "Who is the target audience for this film?"
+      },
+      {
+        "answer": "No, there are no post-credits or mid-credits scenes. The story concludes completely before the credits roll.",
+        "question": "Is there a post-credits scene in Mister Middle Class?"
+      },
+      {
+        "answer": "The core themes include family loyalty, financial resilience, overcoming unexpected adversity, redefine success, and finding self-worth beyond personal achievements.",
+        "question": "What are the central themes explored in the story?"
+      },
+      {
+        "answer": "Yes, it is generally family-friendly, though younger children may find the narrative mature as it focuses heavily on adult responsibility, career stress, and relationship dynamics.",
+        "question": "Is Mister Middle Class suitable for children?"
+      },
+      {
+        "answer": "It stands out by combining humorous, ground-level realism with deeply emotional moments, offering an authentic look at the economic and psychological balance required in modern middle-class life.",
+        "question": "What sets this story apart from typical family dramas?"
+      },
+      {
+        "answer": "Streaming availability depends on your region, but the film can typically be found on major digital streaming platforms or video-on-demand services.",
+        "question": "Where can I watch Mister Middle Class?"
+      },
+      {
+        "answer": "Yes, while the protagonist faces major challenges throughout the narrative, the ending delivers an uplifting message about hope, family unity, and inner strength.",
+        "question": "Does the story end on a hopeful note?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or supernatural threats present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or strong language indicated in the brief overview."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence described in the overview; focuses entirely on personal and relational challenges."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use, drug references, or alcohol consumption mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes depicted in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional intensity related to themes of financial strain, family dynamics, and self-worth challenges."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 4,
+      "violence": 1
+    },
+    "created_at": "2026-08-22 01:06:59.581577",
+    "updated_at": "2026-08-22 01:06:59.581577"
+  }
 }
