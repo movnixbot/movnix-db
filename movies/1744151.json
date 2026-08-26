@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.2994,
+    "popularity": 5.3061,
     "voteAverage": 6,
     "voteCount": 3,
     "homepage": "https://www.mylifetime.com/movies/three-housewives-and-a-body",
@@ -71,6 +71,13 @@
       "filePath": "/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
       "width": 720,
       "height": 1080,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ifARJZuH9xBSuLQLTmbDlraGr9i.jpg",
+      "width": 1920,
+      "height": 2880,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -299,5 +306,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1744151/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1744151,
+    "hash": "c4b9357503b166b1aacda1f53608642b334144ecb745deb8c9a08d5e39e37170",
+    "summary_one_sentence": "When a girls' night takes a deadly turn during a home invasion, three close neighborhood friends must navigate the thrilling fallout of accidentally killing an intruder.",
+    "summary_short": "Lorelai leads a peaceful, comfortable life alongside her two best friends, Jackie and Ella, in their close-knit neighborhood. Their routine dynamic is shattered during a casual girls' night at Jackie's house when an unexpected home invasion occurs. Fighting to defend themselves, the three housewives accidentally kill the male intruder. Terrified of the consequences, they are forced to confront moral dilemmas and high-stakes choices as they attempt to manage the chaotic aftermath.",
+    "summary_long": "Lorelai deeply cherishes her suburban life, anchored by the close proximity and strong bonds of her best friends and neighbors, Jackie and Ella. Their regular social routine takes a dark and unexpected turn during an evening gathering at Jackie's home. The quiet night is interrupted by a violent home intruder who breaks into the residence, threatening the safety of all three women. In the heat of panic and desperate self-defense, a sudden struggle ensues, culminating in the intruder's accidental death at their hands. Shocked and overwhelmed by the body in the living room, the trio is forced to make immediate decisions about whether to contact the authorities or conceal the incident. As fear sets in, secrets start to surface, testing the limits of their loyalty and friendship. Each woman responds differently to the crisis, causing tension, suspicion, and paranoia to rise within their once-tight group. They must stay a step ahead of law enforcement and inquisitive neighbors while trying to preserve the quiet lives they spent years building. The unfolding thriller exposes how far ordinary suburban housewives will go to protect themselves and each other when driven to the brink.",
+    "synopsis": "Lorelai loves living in her suburban neighborhood, right next door to her closest confidantes, Jackie and Ella. Their tight-knit bond makes their enclave feel safe and welcoming until an ordinary girls' night at Jackie's house violently collides with a terrifying home invasion. When a self-defense struggle leaves an intruder dead on the floor, the three friends find their tranquil world upended in an instant. Faced with impossible choices, high-tension secrets, and shifting loyalties, 'Three Housewives and a Body' is a suspenseful drama that explores friendship, survival, and the dark turns ordinary lives can take when a single evening goes horribly wrong.",
+    "keywords": [
+      "home invasion gone wrong",
+      "accidental murder",
+      "suburban secrets",
+      "female friendship",
+      "suburban neighborhood",
+      "dark comedy",
+      "cover-up plot",
+      "suburban moms",
+      "ordinary people in extraordinary situations",
+      "girls night gone wrong",
+      "complicity",
+      "desperate measures",
+      "moral dilemma",
+      "domestic thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Accidental Crime & Cover-up",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Female Friendship & Solidarity",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Suburban Secrets",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Stressful",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The pressure reaches a breaking point when their secret is nearly exposed, forcing the women to make a high-stakes choice under extreme tension to protect themselves.",
+      "conflict": "An unexpected home invasion during a girls' night at Jackie's house escalates, resulting in the three friends accidentally killing the intruder.",
+      "resolution": "The immediate danger subsides, leaving the three women irrevocably changed as they cope with the aftermath of their actions and the permanent shift in their bond.",
+      "introduction": "Lorelai enjoys a peaceful suburban life alongside her close friends and neighbors, Jackie and Ella, enjoying regular social gatherings.",
+      "risingAction": "Fearing the consequences, the trio makes a desperate decision to cover up the crime, forcing them to navigate growing suspicion, internal panic, and the strain on their friendship as they try to maintain their normal lives."
+    },
+    "characters": [
+      {
+        "name": "Lorelai Hayes",
+        "role": "Hero",
+        "description": "The central protagonist whose quiet suburban life is upended after participating in the accidental killing, leaving her struggling with her conscience while trying to protect her family."
+      },
+      {
+        "name": "Jackie Cooper",
+        "role": "Villain",
+        "description": "Lorelai's secretive neighbor who holds sinister motives, enforces the cover-up pact, and threatens Lorelai when guilt threatens to expose their crime."
+      },
+      {
+        "name": "Ella Trawley",
+        "role": "Supporting Character",
+        "description": "Lorelai and Jackie's close friend and fellow neighbor who becomes entangled in the night's tragic events and subsequent cover-up."
+      },
+      {
+        "name": "Troy",
+        "role": "Other",
+        "description": "The intruder whose confrontation with the three housewives at Jackie's home leads to the accidental killing that initiates the plot."
+      },
+      {
+        "name": "Officer Corey Shaffer",
+        "role": "Supporting Character",
+        "description": "A local law enforcement officer investigating the circumstances surrounding the incident and suspicious activities in the neighborhood."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lorelai",
+        "target": "Jackie",
+        "description": "Best Friends / Neighbors"
+      },
+      {
+        "source": "Lorelai",
+        "target": "Ella",
+        "description": "Best Friends / Neighbors"
+      },
+      {
+        "source": "Jackie",
+        "target": "Ella",
+        "description": "Best Friends / Neighbors"
+      },
+      {
+        "source": "Lorelai",
+        "target": "Intruder",
+        "description": "Victim / Accidental Killer"
+      },
+      {
+        "source": "Jackie",
+        "target": "Intruder",
+        "description": "Victim / Accidental Killer"
+      },
+      {
+        "source": "Ella",
+        "target": "Intruder",
+        "description": "Victim / Accidental Killer"
+      }
+    ],
+    "seo": {
+      "slug": "three-housewives-and-a-body",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/three-housewives-and-a-body](https://movnix.com/movie/three-housewives-and-a-body)",
+        "name": "Three Housewives and a Body",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man."
+      },
+      "keywords": [
+        "Three Housewives and a Body",
+        "Three Housewives and a Body movie",
+        "home invasion comedy movie",
+        "thriller movie",
+        "Lorelai Jackie Ella movie"
+      ],
+      "canonical": "[https://movnix.com/movie/three-housewives-and-a-body](https://movnix.com/movie/three-housewives-and-a-body)",
+      "metaTitle": "Three Housewives and a Body - Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Three Housewives and a Body",
+        "og:description": "A girls' night takes a deadly turn when three best friends accidentally kill an intruder during a home invasion."
+      },
+      "twitterCard": {
+        "twitter:title": "Three Housewives and a Body",
+        "twitter:description": "A girls' night takes a deadly turn when three best friends accidentally kill an intruder during a home invasion."
+      },
+      "metaDescription": "When a home invasion goes wrong during girls' night, three best friends accidentally kill an intruder. Watch Three Housewives and a Body."
+    },
+    "faq": [
+      {
+        "answer": "The story follows Lorelai and her two best friends, Jackie and Ella, who live in the same neighborhood. During a girls' night at Jackie's house, a home invasion takes a dark, chaotic turn when the three women accidentally kill the intruder.",
+        "question": "What is the plot of Three Housewives and a Body?"
+      },
+      {
+        "answer": "The dominant genre is dark comedy thriller, blending suburban comedy with high-stakes suspense and crime elements.",
+        "question": "What is the dominant genre of Three Housewives and a Body?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not currently part of any film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes in this movie.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The three main characters are Lorelai, Jackie, and Ella, a tight-knit trio of suburban housewives.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "The main incident begins during a girls' night in Jackie's home in their quiet suburban neighborhood.",
+        "question": "Where does the main conflict of the story take place?"
+      },
+      {
+        "answer": "No, due to themes of violent home invasion, accidental death, adult language, and dark situational humor, it is intended for mature audiences.",
+        "question": "Is Three Housewives and a Body suitable for family viewing?"
+      },
+      {
+        "answer": "No, Three Housewives and a Body is a fictional comedy-thriller story.",
+        "question": "Is this film based on a true story?"
+      },
+      {
+        "answer": "The main conflict centers on the three women dealing with the immediate cover-up and unexpected fallout after accidentally killing a home intruder.",
+        "question": "What is the central conflict of the story?"
+      },
+      {
+        "answer": "Viewers can expect a mix of tense suspense, sharp suburban satire, and dark physical humor as the three main characters navigate an insane situation.",
+        "question": "What tone can viewers expect from the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Suspenseful atmosphere and dark comedy/thriller elements surrounding a corpse."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential mild to moderate strong language during high-stress situations."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts a lethal altercation involving a home invasion and accidental killing."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Social alcohol consumption implied during a girls' night."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional distress involving panic, cover-ups, and sudden trauma."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 7,
+      "violence": 5
+    },
+    "created_at": "2026-08-25 09:05:05.329018",
+    "updated_at": "2026-08-25 09:05:05.329018"
+  }
 }
