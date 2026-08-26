@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 1.4264,
+    "popularity": 2.5217,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1631807",
     "posterPath": "/dIl3cGBcR9AwOjWhEbMuagXdVtG.jpg",
-    "backdropPath": "/ryf3wj8VD7ZqBWEHbjfHRdBrTai.jpg",
+    "backdropPath": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -68,7 +68,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/ryf3wj8VD7ZqBWEHbjfHRdBrTai.jpg",
+      "filePath": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -82,10 +82,38 @@
       "type": "poster"
     },
     {
+      "filePath": "/oRYTURpoUC7CTEp1fpQ6BRwJlWQ.jpg",
+      "width": 1476,
+      "height": 2197,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
+      "filePath": "/t4vQEOJ665oIUWmHFOKjL2icUWR.jpg",
+      "width": 800,
+      "height": 1201,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+      "width": 2000,
+      "height": 1124,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/ryf3wj8VD7ZqBWEHbjfHRdBrTai.jpg",
       "width": 2192,
       "height": 1233,
       "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lUTAK2ZJLqhc1WzVXSVrrGT4XXa.jpg",
+      "width": 2000,
+      "height": 1123,
+      "aspectRatio": 1.781,
       "type": "backdrop"
     }
   ],
@@ -101,7 +129,7 @@
       "tmdbPersonId": 1437417,
       "name": "Natalie Madueño",
       "profilePath": "/6ArqX4adQjetz2Np5Z7oqw6yu7F.jpg",
-      "character": null,
+      "character": "Natalie Madueño",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -150,6 +178,87 @@
       "job": "Actor",
       "department": "Acting",
       "order": 5
+    },
+    {
+      "tmdbPersonId": 4410339,
+      "name": "Ida Appel",
+      "profilePath": "/4aU9cbXjQBQVP9TIz0HjyBC2Ysw.jpg",
+      "character": "Lulu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 1433678,
+      "name": "Nina Christrup",
+      "profilePath": "/guFY2gcYKQk1mlz3giFLIFBqY5v.jpg",
+      "character": "Librarian",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 6432832,
+      "name": "David Elting",
+      "profilePath": null,
+      "character": "Alexander",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 1335546,
+      "name": "Rasmus Hammerich",
+      "profilePath": "/j5TDse3vFQSdLEsUP4xNVb99XLN.jpg",
+      "character": "K.K. Møller",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 110604,
+      "name": "Joen Højerslev",
+      "profilePath": "/LuHMKVKFU8PQ66e6t8TqdGhfKI.jpg",
+      "character": "Dr. Mortensen",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 3393055,
+      "name": "Solvej Sonne Horn",
+      "profilePath": "/46XDBgySHE1UQmmrUBBumwRPAXO.jpg",
+      "character": "Mira",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 1179775,
+      "name": "Mia Jexen",
+      "profilePath": "/jEJ6FMabAheEiwyLOHTYB8urXF0.jpg",
+      "character": "Louise Andersen",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 1441412,
+      "name": "Janek Lesniak",
+      "profilePath": "/A7eC7ARVxHX8QKEiZYULyhXJ5sJ.jpg",
+      "character": "Peter",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 1366059,
+      "name": "Stine Prætorius",
+      "profilePath": "/AuLkjDdMB1XVwptxo3Anp0rKBox.jpg",
+      "character": "Elisabeth Fauerskov",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 127723,
@@ -223,5 +332,233 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1631807/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1631807,
+    "hash": "c7e9972caa026861fdb773e68ed0c96fc717a63c78d65dd76c16872abc91048a",
+    "summary_one_sentence": "A woman suffering from amnesia returns to her wealthy family and shipping empire, only to unravel the dangerous truth behind her mysterious disappearance.",
+    "summary_short": "After waking up with complete memory loss, a woman is shocked to discover that she is the heiress to a vast shipping empire with a seemingly perfect family. Driven to uncover why she abandoned this lavish life, she returns home to piece together her forgotten past. However, beneath the facade of luxury lies a web of deceit, betrayal, and hidden motives. As she digs deeper, she realizes that the truth behind her departure might put her life in danger once again.",
+    "summary_long": "Stricken with amnesia, a vulnerable woman discovers her true identity as the key figure behind a prestigious shipping empire and a prominent family. Her idyllic past appears flawless on the surface, prompting her to return home in hopes of regaining her memories and understanding why she ever ran away. Upon her arrival, she is warmly welcomed back into the fold, but subtle inconsistencies in her family's stories begin to trigger suspicion. As she navigates the high-stakes world of corporate intrigue and domestic politics, she uncovers carefully guarded secrets that challenge everything she was told. Each clue she unearths reveals a complex network of betrayal, crime, and hidden agendas within her inner circle. Distrusting those closest to her, she must rely on her instincts to untangle the dark mystery surrounding her departure. The line between friend and foe blurs as powerful figures conspire to keep the truth buried. Ultimately, her quest for identity transforms into a desperate struggle for survival as she confronts the chilling reason she left in the first place.",
+    "synopsis": "The Secret Woman is an atmospheric crime thriller and mystery drama that centers on a woman grappling with sudden memory loss. Upon learning that she is the cornerstone of a sprawling shipping empire with an enviable family, she undertakes a journey back to her roots to reconstruct her past. While her life appears picture-perfect from the outside, her return exposes dark undercurrents, deceit, and dangerous corporate secrets. As she pieces together her history step by step, she must navigate a world where no one can be trusted and every revelation brings her closer to a perilous truth.",
+    "keywords": [
+      "memory loss",
+      "amnesia",
+      "shipping empire",
+      "family secrets",
+      "hidden past",
+      "identity discovery",
+      "deceptive perfection",
+      "investigating own past",
+      "wealthy family",
+      "uncovering the truth",
+      "suspicious circumstances",
+      "dark secrets",
+      "psychological thriller",
+      "corporate empire",
+      "mystery plot"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Memory Loss",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Deception & Truth",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Power & Wealth",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation forces the truth to light, exposing the real reason behind her original departure and the betrayal that caused it.",
+      "conflict": "Determined to understand her lost past, she returns home, only to realize her paradise is built on unsettling secrets and hidden motives.",
+      "resolution": "With the full truth revealed, she reclaims her agency, reshapes her role within the empire, and steps into a newly forged future.",
+      "introduction": "An amnesiac woman discovers her true identity as the heir to a vast shipping empire and a seemingly devoted family.",
+      "risingAction": "As she navigates tense family dynamics and corporate politics, she uncovers layered deceptions that challenge who she can trust—including herself."
+    },
+    "characters": [
+      {
+        "name": "Natalie Madueño",
+        "role": "Hero",
+        "description": "The protagonist with memory loss who embarks on a quest to uncover the truth behind her hidden past and shipping empire."
+      },
+      {
+        "name": "Claes Bang",
+        "role": "Villain",
+        "description": "A prominent figure in her past who works behind the scenes to conceal the truth and maintain power over the family empire."
+      },
+      {
+        "name": "Pål Sverre Hagen",
+        "role": "Anti Hero",
+        "description": "An enigmatic ally with morally grey motivations who assists in navigating the dark secrets of the shipping business."
+      },
+      {
+        "name": "Stina Ekblad",
+        "role": "Mentor",
+        "description": "A seasoned matriarchal figure who provides crucial historical context and guidance regarding the family dynasty."
+      },
+      {
+        "name": "Ingrid Bolsø Berdal",
+        "role": "Supporting Character",
+        "description": "A trusted family member whose loyalties are tested as the true circumstances of the departure come to light."
+      },
+      {
+        "name": "Lars Simonsen",
+        "role": "Supporting Character",
+        "description": "A key corporate insider embedded in the shipping empire, holding vital pieces of the hidden past."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amnesiac Heiress",
+        "target": "Shipping Empire Family",
+        "description": "Estranged Family / Heiress"
+      },
+      {
+        "source": "Amnesiac Heiress",
+        "target": "Past Life Inner Circle",
+        "description": "Suspects / Former Associates"
+      }
+    ],
+    "seo": {
+      "slug": "the-secret-woman",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-secret-woman](https://movnix.com/movie/the-secret-woman)",
+        "name": "The Secret Woman",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A woman with memory loss discovers she has a family and a shipping empire. She returns to a seemingly perfect past to uncover the truth about why she left."
+      },
+      "keywords": [
+        "The Secret Woman",
+        "The Secret Woman movie",
+        "mystery drama movie",
+        "amnesia plot movie",
+        "shipping empire film",
+        "The Secret Woman synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/the-secret-woman](https://movnix.com/movie/the-secret-woman)",
+      "metaTitle": "The Secret Woman (2026) - Full Movie Synopsis & Cast | Movnix",
+      "openGraph": {
+        "og:title": "The Secret Woman - Uncover the Hidden Empire & Secrets",
+        "og:description": "She lost her memory, but not her past. Discover the mystery behind a woman returning to her hidden family and shipping empire."
+      },
+      "twitterCard": {
+        "twitter:title": "The Secret Woman - Movie Overview & Synopsis",
+        "twitter:description": "A forgotten past, a family empire, and the deadly truth behind why she left. Watch the story unfold in The Secret Woman."
+      },
+      "metaDescription": "A woman with amnesia uncovers her past, a hidden shipping empire, and the truth behind her departure in The Secret Woman. Read the full mystery overview."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is mystery thriller, blending elements of family drama and psychological suspense.",
+        "question": "What is the dominant genre of The Secret Woman?"
+      },
+      {
+        "answer": "The plot centers on a woman suffering from memory loss who discovers her past tied to a massive shipping empire and returns home to uncover why she originally left.",
+        "question": "What is the main premise of the story?"
+      },
+      {
+        "answer": "No, it is a standalone story and not part of an existing film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes after the main story concludes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "No, it is a fictional narrative created for screen entertainment.",
+        "question": "Is The Secret Woman based on a true story?"
+      },
+      {
+        "answer": "No, the storyline is an original screenplay designed directly for the screen.",
+        "question": "Is this movie based on a book or novel?"
+      },
+      {
+        "answer": "Key themes include identity, memory loss, family secrets, corporate power dynamics, and the search for truth.",
+        "question": "What are the central themes of the narrative?"
+      },
+      {
+        "answer": "It is aimed at fans of dramatic mystery thrillers, corporate intrigue, and suspenseful plot twists.",
+        "question": "Who is the primary audience for this film?"
+      },
+      {
+        "answer": "The story is set within the world of high-stakes corporate shipping, featuring wealthy family estates and coastal industry locations.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The story provides a conclusive wrap-up to the mystery of her past, though the world leaves room for potential further developments.",
+        "question": "Is the ending definitive or left open for a sequel?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Ominous, psychological tension, unsettling suspense, and dark noir themes, though lacking explicit gore or traditional horror monsters."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent to moderate strong language and elevated dramatic confrontations."
+      },
+      "violence": {
+        "score": 5,
+        "description": "Moderate thematic violence and physical danger typical of psychological thrillers, including mystery surrounding a sudden disappearance and criminal elements related to smuggling."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional social drinking and casual substance references typical for a mature television drama setting."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild romantic and sexual themes standard for adult mystery dramas involving complex marital relationships."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from loss of identity, trauma, family disruption, deception, and psychological distress."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 4,
+      "science": 0,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-08-19 16:07:37.541646",
+    "updated_at": "2026-08-19 16:07:37.541646"
+  }
 }
