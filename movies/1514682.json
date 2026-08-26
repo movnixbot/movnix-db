@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6499,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 16.7305,
+    "voteAverage": 7.7,
+    "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1514682",
     "posterPath": "/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
     "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
@@ -176,9 +176,21 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/7WQlf63Dr8CTm2pEMLlQMUWy74Q.jpg",
+      "width": 2729,
+      "height": 1535,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7.7,
+      "votesCount": 6
+    },
     {
       "source": "imdb",
       "ratingValue": 7.3,
@@ -348,7 +360,20 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
