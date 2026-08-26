@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.3892,
+    "popularity": 10.2803,
     "voteAverage": 9.8,
     "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1712326",
     "posterPath": "/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
-    "backdropPath": null,
+    "backdropPath": "/FGjyKdJbrrqABr8x4ZwQLGrmbs.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -42,7 +42,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "LAND OF WOLVES Official Trailer (2026)",
+      "key": "597SnN9kOYg",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
@@ -52,11 +60,53 @@
       "type": "poster"
     },
     {
+      "filePath": "/FGjyKdJbrrqABr8x4ZwQLGrmbs.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
       "width": 800,
       "height": 1185,
       "aspectRatio": 0.675,
       "type": "poster"
+    },
+    {
+      "filePath": "/n3nt25MVatqxXd8Qd31frAC343R.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/FGjyKdJbrrqABr8x4ZwQLGrmbs.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/nmOyxmSFLKU3Qt7Iam8uu6we19b.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1WGfpLCIGZdSIC8vjBmy6sf8dy9.jpg",
+      "width": 1776,
+      "height": 997,
+      "aspectRatio": 1.781,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/g1sskBXiOMLlbNjKep8OWx0Pbmd.jpg",
+      "width": 1614,
+      "height": 908,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
