@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.567,
+    "popularity": 3.3394,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1465818",
     "posterPath": "/3BmMIETSNNEYjk9Atg7id5Wnly4.jpg",
     "backdropPath": "/nDl5kgmpJ5PTE58pd8qcvKc6IVk.jpg",
@@ -144,13 +144,18 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    },
+    {
       "source": "imdb",
       "ratingValue": 7.9,
       "votesCount": 80
     },
     {
       "source": "rotten_tomatoes",
-      "ratingValue": 95,
+      "ratingValue": 96,
       "votesCount": null
     },
     {
