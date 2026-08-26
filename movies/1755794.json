@@ -1,0 +1,118 @@
+{
+  "movie": {
+    "tmdbId": 1755794,
+    "imdbId": null,
+    "title": "杯雪",
+    "originalTitle": "杯雪",
+    "overview": "Mock movie description parsed from html scraper page.",
+    "releaseDate": "2026-08-25",
+    "runtime": 139,
+    "budget": null,
+    "revenue": null,
+    "status": "Released",
+    "popularity": 0.5286,
+    "voteAverage": 7,
+    "voteCount": 10,
+    "homepage": "https://mock-movie-website.com/movies/1755794",
+    "posterPath": "/KXYhr8uUk6A5Hjp27a0R1vvI2K.jpg",
+    "backdropPath": "/9EmKGdEEtCGiMLLedAQyLj5Uic3.jpg",
+    "collectionId": null
+  },
+  "collection": null,
+  "genres": [
+    {
+      "tmdbId": 16,
+      "name": "Animation"
+    },
+    {
+      "tmdbId": 1,
+      "name": "Drama"
+    }
+  ],
+  "companies": [],
+  "keywords": [],
+  "videos": [],
+  "images": [
+    {
+      "filePath": "/KXYhr8uUk6A5Hjp27a0R1vvI2K.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9EmKGdEEtCGiMLLedAQyLj5Uic3.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/KXYhr8uUk6A5Hjp27a0R1vvI2K.jpg",
+      "width": 900,
+      "height": 1200,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9EmKGdEEtCGiMLLedAQyLj5Uic3.jpg",
+      "width": 2160,
+      "height": 1215,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "crawled",
+      "ratingValue": 7,
+      "votesCount": 10
+    }
+  ],
+  "credits": [],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": null,
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
+  "streamingLinks": [
+    {
+      "source": "VidSrc (Fast)",
+      "url": "https://vidsrc.to/embed/movie/1755794"
+    },
+    {
+      "source": "VidLink (Multi)",
+      "url": "https://vidlink.pro/embed/movie/1755794"
+    },
+    {
+      "source": "SuperEmbed",
+      "url": "https://multiembed.to/get.php?id=1755794"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "id",
+      "label": "Indonesian",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1755794/id.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1755794/en.vtt"
+    }
+  ]
+}
