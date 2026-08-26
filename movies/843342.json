@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "78451724",
     "status": "Released",
-    "popularity": 1.7907,
-    "voteAverage": 5.654,
-    "voteCount": 13,
+    "popularity": 2.4567,
+    "voteAverage": 5.4,
+    "voteCount": 14,
     "homepage": "https://mock-movie-website.com/movies/843342",
     "posterPath": "/7cBh6fWchOJY961A8F1rT98HDdA.jpg",
     "backdropPath": "/o94QPGgvZW3gysIfsbhQmysmAYo.jpg",
@@ -64,13 +64,6 @@
   ],
   "keywords": [],
   "videos": [
-    {
-      "name": "Hamlet | Official Trailer (HD) | Vertical",
-      "key": "mv2iYGYSUtY",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer"
-    },
     {
       "name": "\"To be, or not to be\" Riz Ahmed discusses the iconic Shakespeare line.",
       "key": "blLDLvP6LQE",
@@ -228,6 +221,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/i5XjOQdSUE74SFhNHt7uKKgtK75.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/o94QPGgvZW3gysIfsbhQmysmAYo.jpg",
       "width": 3840,
       "height": 2160,
@@ -287,8 +287,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.654,
-      "votesCount": 13
+      "ratingValue": 5.4,
+      "votesCount": 14
     },
     {
       "source": "imdb",
@@ -442,6 +442,15 @@
       "name": "Michael Lesslie",
       "profilePath": "/yWVeg77Pwol0ziN3ZK2zxqJ4nq8.jpg",
       "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1273117,
+      "name": "Michael Lesslie",
+      "profilePath": "/yWVeg77Pwol0ziN3ZK2zxqJ4nq8.jpg",
+      "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
@@ -453,15 +462,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1273117,
-      "name": "Michael Lesslie",
-      "profilePath": "/yWVeg77Pwol0ziN3ZK2zxqJ4nq8.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     },
     {
@@ -524,7 +524,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",

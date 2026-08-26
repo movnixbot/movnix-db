@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": "4710000",
     "status": "Released",
-    "popularity": 10.7222,
+    "popularity": 10.5748,
     "voteAverage": 5.239,
     "voteCount": 23,
     "homepage": "https://mock-movie-website.com/movies/1418709",
@@ -393,5 +393,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1418709/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1418709,
+    "hash": "19dd8ccba68fbb351a03674feffc1922bf92572859f0d0eabed273286685596f",
+    "summary_one_sentence": "To pay for his aging dog's medical treatment, a gentle everyday man unleashes his fierce combat skills by joining a street-fighting app that resolves everyday disputes with fists.",
+    "summary_short": "Naïm is a soft-spoken, kindhearted man in his day-to-day life, but he possesses an undeniable talent for fighting when pushed into the ring. When his beloved aging dog requires costly medical care, Naïm is forced to look for quick cash through unconventional means. He reluctantly joins 'Hello Brawl', a controversial service where street fighters are hired to settle personal conflicts with their fists. As he balances his gentle nature with brutal street brawls, Naïm must navigate comedic chaos and emotional stakes to save his companion.",
+    "summary_long": "Naïm lives a quiet, unassuming life, well-known by those around him as a gentle and sweetheart of a person. However, beneath his calm exterior lies an extraordinary, almost instinctual talent for fighting that he prefers to keep hidden. His peaceful routine comes to a sudden halt when his elderly dog falls severely ill, requiring an expensive medical treatment that Naïm simply cannot afford. Desperate for a rapid source of income, Naïm stumbles upon 'Hello Brawl', an underground gig-economy service where citizens hire fighters to resolve their everyday disputes through physical brawls. Recognizing that his innate combat skills are his only asset capable of raising the cash in time, he reluctantly signs up as a hired fighter. As Naïm takes on increasingly bizarre and humorous assignments, he finds himself clashing with eccentric clients, rival fighters, and absurd interpersonal conflicts. Despite the violence required by his new job, Naïm fights with a sense of reluctant duty, holding onto his core empathy even while knocking out opponents. The job tests both his physical endurance and his moral limits, forcing him to keep his brutal underground life secret from those he cares about. Ultimately, Naïm's deep devotion to his loyal dog drives him to overcome the toughest brawlers in the network, proving how far he will go for family.",
+    "synopsis": "Bagarre is a blend of comedy and drama that follows Naïm, an extraordinarily kind-hearted man who leads a simple life anchored by his devotion to his aging dog. Beneath his quiet and gentle demeanor, Naïm harbors a formidable talent for combat, a skill he rarely uses and prefers to keep secret. When his dog develops a serious medical condition requiring costly veterinary care, Naïm's financial constraints push him to desperation. In search of quick money, he discovers 'Hello Brawl', a unique street-fighting service where people hire brawlers to settle personal grievances with brute force. Striking a delicate balance between his gentle nature and the violent world of gig-economy street fighting, Naïm takes on a series of outlandish conflicts to earn the funds needed for his dog's treatment. The narrative balances lighthearted comedy derived from absurd fighting scenarios with heartfelt drama centered on unconditional loyalty and love.",
+    "keywords": [
+      "street fighting",
+      "dog owner",
+      "fight for money",
+      "underground fighting",
+      "aging pet",
+      "gentle giant",
+      "dual life",
+      "conflict resolution",
+      "brawler",
+      "reluctant fighter",
+      "veterinary bills",
+      "odd jobs",
+      "dark comedy"
+    ],
+    "themes": [
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Duality of Human Nature",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Companionship and Loyalty",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Naïm faces his most dangerous brawl yet, a high-stakes confrontation that tests the absolute limits of his endurance, principles, and fighting ability.",
+      "conflict": "To raise the money needed for his dog's medical treatment, Naïm reluctantly joins 'Hello Brawl,' an underground service where street fighters are hired to settle disputes through hand-to-hand combat.",
+      "resolution": "With the critical situation resolved, Naïm reflects on the sacrifices made for his loyal companion and attempts to reconcile his dual identity as both a caring owner and a lethal fighter.",
+      "introduction": "Naïm is introduced as a gentle soul who shares a deep bond with his aging dog. When his pet faces a costly health crisis, Naïm is forced to balance his compassionate nature with his hidden, formidable fighting skills.",
+      "risingAction": "As Naïm takes on increasingly intense and volatile combat assignments, he earns money for the treatment while navigating the escalating violence of the street-fighting underworld and questioning his moral boundaries."
+    },
+    "characters": [
+      {
+        "name": "Naïm",
+        "role": "Hero",
+        "description": "A kind-hearted individual driven by love for his aging dog, who uses his elite fighting skills in the 'Hello Brawl' service to pay for medical treatment."
+      },
+      {
+        "name": "Naïm's Dog",
+        "role": "Supporting Character",
+        "description": "Naïm's beloved aging companion whose medical needs serve as the main motivation for Naïm entering the street fighting service."
+      },
+      {
+        "name": "Hello Brawl Recruiter / Boss",
+        "role": "Mentor",
+        "description": "The figure or organization leader who introduces Naïm to the underground conflict-resolution street fighting service."
+      },
+      {
+        "name": "Rival Street Fighter / Opponent",
+        "role": "Villain",
+        "description": "Antagonistic fighters and adversaries Naïm must face within the Hello Brawl service who oppose him in combat."
+      },
+      {
+        "name": "Brawl Sidekick / Teammate",
+        "role": "Comic Relief",
+        "description": "A humorous associate or fellow fighter in the underground brawl scene who provides levity amidst the street fights."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Naïm",
+        "target": "Gary",
+        "description": "Fighter / Platform Operator"
+      },
+      {
+        "source": "Naïm",
+        "target": "Laëtitia",
+        "description": "Love Interest / Ally"
+      },
+      {
+        "source": "Naïm",
+        "target": "Kevlar",
+        "description": "Rivals / Opponents in Hello Brawl"
+      },
+      {
+        "source": "Naïm",
+        "target": "Thanos",
+        "description": "Rivals / Combatants"
+      }
+    ],
+    "seo": {
+      "slug": "bagarre",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/bagarre](https://movnix.com/movie/bagarre)",
+        "name": "Bagarre",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Naïm is a sweetheart in everyday life but a beast when it comes to fighting. To afford treatment for his aging dog, he's forced to join 'Hello Brawl', a service of street fighters resolving conflicts with punches."
+      },
+      "keywords": [
+        "Bagarre movie",
+        "Hello Brawl",
+        "Naïm fight movie",
+        "Bagarre synopsis",
+        "street fighting drama"
+      ],
+      "canonical": "[https://movnix.com/movie/bagarre](https://movnix.com/movie/bagarre)",
+      "metaTitle": "Bagarre (2026) - Watch Official Trailer & Plot Summary",
+      "openGraph": {
+        "og:title": "Bagarre - Official Movie Details & Synopsis",
+        "og:description": "To afford treatment for his aging dog, Naïm joins 'Hello Brawl'—a service of street fighters resolving conflicts with punches."
+      },
+      "twitterCard": {
+        "twitter:title": "Bagarre - Action Drama",
+        "twitter:description": "Naïm joins 'Hello Brawl' to save his dog by taking on street fights."
+      },
+      "metaDescription": "Naïm enters 'Hello Brawl' to fund his aging dog's medical treatment in Bagarre. Explore the plot, cast, and details of this action-packed drama."
+    },
+    "faq": [
+      {
+        "answer": "Bagarre follows Naïm, a gentle man in everyday life who possesses extraordinary fighting skills. To pay for his aging dog's medical treatment, he is forced to join 'Hello Brawl', a street fighting service where people hire fighters to settle conflicts with their fists.",
+        "question": "What is the primary plot of Bagarre?"
+      },
+      {
+        "answer": "The dominant genre of the film is action-comedy, blending high-energy martial arts and street-fighting sequences with lighthearted humor and emotional heart.",
+        "question": "What is the dominant genre of Bagarre?"
+      },
+      {
+        "answer": "No, Bagarre is a standalone original film and is not currently part of a broader cinematic franchise or cinematic universe.",
+        "question": "Is Bagarre part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credits or post-credits scenes after the main story concludes, so you do not need to sit through the full end credits for extra footage.",
+        "question": "Is there a post-credits scene in Bagarre?"
+      },
+      {
+        "answer": "The main protagonist is Naïm, a sweet-natured hero who turns into an unstoppable force when forced to step into the fighting ring.",
+        "question": "Who is the main protagonist in Bagarre?"
+      },
+      {
+        "answer": "Naïm is motivated entirely by love for his aging dog, entering the underground fighting business solely to afford expensive veterinary treatment.",
+        "question": "What drives Naïm to start fighting for money?"
+      },
+      {
+        "answer": "'Hello Brawl' is an on-demand street fighting service where clients hire professional brawlers to resolve personal disputes and conflicts through physical fights.",
+        "question": "What is 'Hello Brawl' in the film?"
+      },
+      {
+        "answer": "While the movie features comic tone and emotional heart, it contains frequent stylized martial arts violence and street fights, making it best suited for teens and adults.",
+        "question": "Is Bagarre suitable for family viewing?"
+      },
+      {
+        "answer": "No, Bagarre is based on an original fictional concept rather than a book, comic, or true historical events.",
+        "question": "Is Bagarre based on a book or a true story?"
+      },
+      {
+        "answer": "Bagarre is available to stream on major digital platforms and select streaming services depending on regional availability.",
+        "question": "Where can I watch Bagarre?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no traditional horror elements, jumpscares, or supernatural scary content."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate potential for vulgarity, rough language, and aggressive trash talk typical of combat environments."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of physical violence focused on street fighting and deliberate physical confrontation."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Low potential for mild substance use or medical treatment context for the pet."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content, nudity, or sexual themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate emotional weight involving financial distress and caring for an ailing companion animal."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 4,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 5,
+      "violence": 7
+    },
+    "created_at": "2026-08-25 18:02:19.637573",
+    "updated_at": "2026-08-25 18:02:19.637573"
+  }
 }
