@@ -10,9 +10,9 @@
     "budget": "21000000",
     "revenue": "41235665",
     "status": "Released",
-    "popularity": 17.381,
-    "voteAverage": 6.501,
-    "voteCount": 843,
+    "popularity": 16.7807,
+    "voteAverage": 6.502,
+    "voteCount": 850,
     "homepage": "http://www.primatemovie.com",
     "posterPath": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
     "backdropPath": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
@@ -633,6 +633,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/sKLjTMplKAWGEJjmwClnjfmDzRf.jpg",
+      "width": 1548,
+      "height": 2322,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/77lTJPRJXAA4fZoGAqgowjdZUMi.jpg",
       "width": 1080,
       "height": 1620,
@@ -899,6 +906,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/aHhMdj4N0u2U9VWP3sB1vHfR5Om.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/dFc4KNgpczoSVzf5Uwil2ek6hsF.jpg",
       "width": 848,
       "height": 1216,
@@ -1082,13 +1096,6 @@
     },
     {
       "filePath": "/w3ebG1bMXhpCCpZ8PC33OUcmrzC.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/aHhMdj4N0u2U9VWP3sB1vHfR5Om.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -1546,8 +1553,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.501,
-      "votesCount": 843
+      "ratingValue": 6.502,
+      "votesCount": 850
     },
     {
       "source": "imdb",
@@ -1697,27 +1704,18 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 100734,
-      "name": "Johannes Roberts",
-      "profilePath": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
+      "tmdbPersonId": 1173417,
+      "name": "John Hodges",
+      "profilePath": "/ia4sa638RYOh50JV8AJ5Z1rqvQb.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
       "tmdbPersonId": 100734,
       "name": "Johannes Roberts",
       "profilePath": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1301112,
-      "name": "Ernest Riera",
-      "profilePath": "/oAYkN7NUZXCA9TFToxua6fydp9e.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -1742,12 +1740,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1173417,
-      "name": "John Hodges",
-      "profilePath": "/ia4sa638RYOh50JV8AJ5Z1rqvQb.jpg",
+      "tmdbPersonId": 100734,
+      "name": "Johannes Roberts",
+      "profilePath": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1301112,
+      "name": "Ernest Riera",
+      "profilePath": "/oAYkN7NUZXCA9TFToxua6fydp9e.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
