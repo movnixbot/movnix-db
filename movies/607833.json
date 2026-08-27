@@ -6,17 +6,18 @@
     "originalTitle": "인턴",
     "overview": "A story about what happens when  Seon-wu, the CEO of a fashion company who is more passionate than anyone when it comes to work, hires Ki-ho, who has a wealth of life experience, as a silver intern.",
     "releaseDate": "2026-09-16",
-    "runtime": 139,
+    "runtime": 133,
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 1.5536,
+    "popularity": 1.4345,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/607833",
     "posterPath": "/kRHjgsICPISgEClloeARkPHP96M.jpg",
     "backdropPath": "/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "12"
   },
   "collection": null,
   "genres": [
@@ -163,7 +164,7 @@
       "tmdbPersonId": 2112859,
       "name": "Han So-hee",
       "profilePath": "/8IvEOnqMjqJWcci3z44haH38Ee8.jpg",
-      "character": "Seon-wu",
+      "character": "Lee Seon-wu",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -321,5 +322,209 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/607833/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 607833,
+    "hash": "63fe20dc8d717a3c0d4436ebefef93843e0417fb953ccf22f261e7ec84f73fae",
+    "summary_one_sentence": "When a passionate young fashion company CEO hires a wise elderly silver intern, an unexpected bond forms that bridges generational divides and transforms both of their lives.",
+    "summary_short": "Seon-wu is a dedicated and ambitious CEO driving her fast-growing fashion company toward success through relentless work ethic. Seeking a unique perspective, the company launches a senior internship program, welcoming Ki-ho, a man rich with decades of life experience. Despite initial skepticism about his fit in a fast-paced digital environment, Ki-ho's subtle wisdom, calm composure, and grounded advice quickly make him an indispensable ally. Together, they navigate work stress, personal growth, and the true meaning of leadership.",
+    "summary_long": "Seon-wu, the energetic and perfectionist CEO of a thriving fashion startup, pours her heart and soul into every detail of her business. As the company expands rapidly, management decides to launch a silver intern program to foster diversity and gain broader perspectives. Enter Ki-ho, a gentle and observant senior citizen who brings decades of life experience and timeless courtesy into a modernized, tech-driven workplace. At first, Seon-wu views Ki-ho's presence as a mere publicity initiative or a potential distraction in her fast-paced world. However, Ki-ho quietly goes to work, using his emotional intelligence, practical wisdom, and keen observational skills to support those around him. He gradually becomes a stabilizing anchor for the overburdened staff and earns Seon-wu's trust through his genuine care and non-judgmental guidance. When high-pressure business challenges and personal dilemmas threaten to overwhelm Seon-wu, Ki-ho offers steady mentorship that helps her regain balance. Through their heartwarming dynamic, Seon-wu learns to navigate the heavy burdens of executive leadership without sacrificing her personal well-being. Ultimately, their intergenerational bond reshapes the company culture and leaves a lasting impact on everyone involved.",
+    "synopsis": "The Intern is a warmhearted drama-comedy centered on Seon-wu, a driven and passionate CEO leading a modern fashion enterprise. Seeking fresh insights while promoting social value, her company introduces a senior internship initiative and brings on Ki-ho, a seasoned elder brimming with life wisdom. As the high-energy world of modern corporate fashion collides with Ki-ho's traditional, measured approach, both Seon-wu and her team discover the invaluable power of human connection, patient mentorship, and shared mutual respect.",
+    "keywords": [
+      "workplace comedy",
+      "silver intern",
+      "generational gap",
+      "fashion industry",
+      "career guidance",
+      "life experience",
+      "passionate CEO",
+      "unlikely friendship",
+      "work-life balance",
+      "corporate culture",
+      "mentorship",
+      "character-driven",
+      "slice of life"
+    ],
+    "themes": [
+      {
+        "theme": "Intergenerational Wisdom & Connection",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Work Ethic & Professional Passion",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Personal Growth & Mentorship",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Adapting to Change in the Workplace",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Uplifting",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Inspirational",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "A major operational crisis and personal turning point force Seon-wu to confront key decisions about the company's direction and her own personal well-being.",
+      "conflict": "Generational gaps, contrasting work ethics, and dynamic workplace expectations create initial friction as Seon-wu's fast-paced environment collides with Ki-ho's traditional, measured approach to life and work.",
+      "resolution": "Through mutual respect and shared growth, Seon-wu and Ki-ho forge an enduring balance, demonstrating how fresh passion and seasoned experience can meaningfully enrich one another.",
+      "introduction": "Seon-wu, the intense and deeply passionate CEO of a fast-growing fashion company, brings on Ki-ho—a wise, seasoned individual with decades of life experience—as a senior 'silver' intern.",
+      "risingAction": "As Ki-ho begins applying his quiet wisdom and interpersonal skill to everyday workplace challenges, he earns the trust of his younger colleagues and begins to offer subtle support to Seon-wu amid rising corporate pressures."
+    },
+    "characters": [
+      {
+        "name": "Seon-wu",
+        "role": "Hero",
+        "description": "The passionate CEO of a fashion company who leads the main narrative and drives the core story forward."
+      },
+      {
+        "name": "Ki-ho",
+        "role": "Mentor",
+        "description": "A silver intern with a wealth of life experience who guides and supports the younger CEO and team."
+      },
+      {
+        "name": "Supporting Character",
+        "role": "Supporting Character",
+        "description": "Colleagues and team members at the fashion company played by the ensemble cast who support the primary narrative arc."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Seon-wu",
+        "target": "Ki-ho",
+        "description": "CEO / Silver Intern, Protégé / Mentor"
+      },
+      {
+        "source": "Ki-ho",
+        "target": "Seon-wu",
+        "description": "Silver Intern / CEO, Mentor / Protégé"
+      }
+    ],
+    "seo": {
+      "slug": "the-intern",
+      "jsonLd": {
+        "name": "The Intern",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A story about what happens when Seon-wu, the CEO of a fashion company who is more passionate than anyone when it comes to work, hires Ki-ho, who has a wealth of life experience, as a silver intern."
+      },
+      "keywords": [
+        "The Intern movie",
+        "Seon-wu fashion CEO",
+        "silver intern Ki-ho",
+        "Korean drama film",
+        "The Intern overview"
+      ],
+      "canonical": "[https://movnix.com/movie/the-intern](https://movnix.com/movie/the-intern)",
+      "metaTitle": "The Intern Movie - Story, Overview & Details",
+      "openGraph": {
+        "og:title": "The Intern - Official Movie Overview",
+        "og:description": "Fashion CEO Seon-wu hires Ki-ho, a silver intern with rich life experience. Explore the story behind The Intern."
+      },
+      "twitterCard": {
+        "twitter:title": "The Intern - Movie Overview",
+        "twitter:description": "When a passionate fashion CEO hires a silver intern, dynamic work and life experiences collide in The Intern."
+      },
+      "metaDescription": "Discover The Intern: Passionate fashion CEO Seon-wu hires experienced silver intern Ki-ho in this inspiring Korean drama movie."
+    },
+    "faq": [
+      {
+        "answer": "The Intern follows Seon-wu, a highly passionate CEO of a fashion company, who hires Ki-ho, a senior citizen with a wealth of life experience, as a new 'silver' intern.",
+        "question": "What is the plot of The Intern?"
+      },
+      {
+        "answer": "The dominant genre is drama/comedy, focusing on workplace dynamics, personal growth, and cross-generational friendship.",
+        "question": "What is the dominant genre of this title?"
+      },
+      {
+        "answer": "No, it is a standalone story and not part of an existing film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The main characters are Seon-wu, the energetic fashion company CEO, and Ki-ho, the experienced silver intern.",
+        "question": "Who are the main characters in the story?"
+      },
+      {
+        "answer": "No, there is typically no post-credits scene set up for a cinematic universe, though brief extra character moments or outtakes may play alongside the initial credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "A 'silver intern' refers to a senior citizen or older adult who enters an internship or entry-level program to bring lifelong experience into a modern workplace.",
+        "question": "What does the term 'silver intern' mean in this context?"
+      },
+      {
+        "answer": "The main themes include mentorship, intergenerational understanding, balancing career ambition with personal well-being, and finding purpose at any stage of life.",
+        "question": "What is the main theme of the story?"
+      },
+      {
+        "answer": "Yes, it is generally a lighthearted, wholesome, and heartwarming drama suitable for a wide audience.",
+        "question": "Is this suitable for family viewing?"
+      },
+      {
+        "answer": "No, it is a fictional narrative created for entertainment, though inspired by real-world senior internship programs.",
+        "question": "Is this based on a true story?"
+      },
+      {
+        "answer": "The primary setting is a fast-paced, modern fashion company office environment.",
+        "question": "Where does the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No scary themes, jumpscares, or unsettling imagery."
+      },
+      "language": {
+        "score": 2,
+        "description": "Occasional mild workplace profanity or casual modern slang."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence, graphic encounters, or threats."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Social drinking at dinners and after-work gatherings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Brief non-explicit references to marital strain or infidelity."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional weight touching on workplace stress, generational conflicts, and balancing family life."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 7,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 2,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-08-26 17:02:53.880175",
+    "updated_at": "2026-08-26 17:02:53.880175"
+  }
 }
