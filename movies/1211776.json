@@ -526,5 +526,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1211776/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1211776,
+    "hash": "4f42852cb68c991ffd5640184c4ce17999dbb4315d52587377787f9981e61e3f",
+    "summary_one_sentence": "An honest man trying to escape his crime family's violent legacy is dragged back into the underworld when his cousin's botched armed robbery results in innocent casualties.",
+    "summary_short": "Lucas Frost has spent his life trying to break free from his dangerous crime family to build a peaceful future with his fiancée, Emma. However, his quiet life is shattered when his impulsive cousin Eli pulls off a violent scrap yard heist that goes terribly wrong. Caught in the tragic crossfire, Lucas is forced to confront the dark legacy he despised and desperately tried to leave behind. To protect the ones he loves, he must navigate a treacherous web of familial loyalty and escalating violence.",
+    "summary_long": "Lucas Frost grew up surrounded by bloodshed, but he has worked tirelessly to forge an honest path alongside his fiancée, Emma. Just as his new life begins to take root, the dark shadow of his family's criminal enterprise returns to haunt him. His cousin Eli, eager to prove himself, plans and executes an armed robbery on a local scrap yard. The high-stakes heist quickly spirals out of control, leading to gunfire and the tragic involvement of an innocent bystander. News of the incident sends shockwaves through the local underworld and draws the attention of both law enforcement and vengeful rivals. Desperate to clean up his cousin's reckless mistake and prevent further bloodshed, Lucas is unwillingly pulled back into the violent lifestyle he detests. As pressure mounts from all sides, Lucas finds his morals tested and his relationship with Emma strained to the breaking point. He must face the cold reality that escaping his bloodline might require sacrifices he never wanted to make. Ultimately, Lucas is forced into a high-stakes struggle for survival where every decision carries fatal consequences.",
+    "synopsis": "Violent Ends is a gritty crime thriller that explores the heavy burden of bloodlines and the difficulty of escaping a violent past. The narrative follows Lucas Frost, a man raised within a notorious crime family who seeks a clean slate and a quiet life with his fiancée, Emma. Despite his best efforts to distance himself from his family's dark reputation, tragedy strikes when his volatile cousin Eli orchestrates a scrap yard robbery that leads to unintended bloodshed. As an innocent life is caught in the crossfire, Lucas finds himself dragged back into the criminal underworld to mitigate the fallout. Caught between loyalty to his family and his desire for a peaceful future, Lucas must navigate an escalating cycle of violence while fighting to protect the life he built for himself.",
+    "keywords": [
+      "crime family",
+      "reluctant criminal",
+      "pulled back in",
+      "family legacy",
+      "armed robbery",
+      "innocent bystander",
+      "wrong place wrong time",
+      "morally conflicted hero",
+      "protecting loved ones",
+      "small town crime",
+      "reckless cousin",
+      "cycle of violence",
+      "desperate measures",
+      "high stakes crime"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Loyalty vs. Duty",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Morality and Corruption",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Guilt and Consequences",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Escaping the Past",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes confrontation forces Lucas to directly face both his family's dark legacy and the immediate dangers threatening Emma, forcing a pivotal choice between loyalty and survival.",
+      "conflict": "Lucas is thrust back into the criminal underworld after his cousin, Eli, carries out a chaotic armed robbery at a local scrap yard that leaves an innocent bystander's life hanging in the balance.",
+      "resolution": "The violent ordeal reaches its conclusion, leaving Lucas to deal with the lasting consequences of his family's actions and determine what remains of his future with Emma.",
+      "introduction": "Lucas Frost strives to live a normal, honest life alongside his fiancée, Emma, seeking to distance himself from the dark history and violent legacy of his criminal family.",
+      "risingAction": "Desperate to protect his new life and deal with the fallout of the botched heist, Lucas must navigate escalating tensions with family members, local authorities, and dangerous rival interests."
+    },
+    "characters": [
+      {
+        "name": "Lucas Frost",
+        "role": "Anti Hero",
+        "description": "An honest man who tries to break away from his family's violent criminal empire, but gets pulled into a vengeful crusade when his fiancée is killed in a robbery."
+      },
+      {
+        "name": "Emma Darling",
+        "role": "Supporting Character",
+        "description": "Lucas's fiancée whose innocent life is tragically caught in the crossfire during a botched scrap yard robbery, serving as the tragic catalyst for Lucas's actions."
+      },
+      {
+        "name": "Eli Frost",
+        "role": "Villain",
+        "description": "Lucas's cousin who perpetrates the armed robbery on the local scrap yard that sets the tragic events into motion."
+      },
+      {
+        "name": "Sid Frost",
+        "role": "Villain",
+        "description": "Lucas's sadistic cousin and Eli's older brother, who operates as a ruthless figure within the family's criminal enterprise."
+      },
+      {
+        "name": "Tuck Whitehead",
+        "role": "Supporting Character",
+        "description": "Lucas's half-brother who joins him on his mission after the incident."
+      },
+      {
+        "name": "Darlene Woodley",
+        "role": "Supporting Character",
+        "description": "Lucas and Tuck's mother, who serves as the deputy sheriff of Copperhead Creek attempting to maintain peace and justice."
+      },
+      {
+        "name": "Walt Frost",
+        "role": "Villain",
+        "description": "Lucas's uncle who manages the family's illicit drug trade operations."
+      },
+      {
+        "name": "Ray Frost",
+        "role": "Supporting Character",
+        "description": "Lucas's father and member of the Frost family."
+      },
+      {
+        "name": "Donny Frost",
+        "role": "Supporting Character",
+        "description": "An uncle to Lucas within the extended Frost family."
+      },
+      {
+        "name": "Fiddle Frost",
+        "role": "Supporting Character",
+        "description": "A member of the Frost family network."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lucas Frost",
+        "target": "Emma",
+        "description": "Fiancé/Fiancée"
+      },
+      {
+        "source": "Lucas Frost",
+        "target": "Eli",
+        "description": "Cousins"
+      },
+      {
+        "source": "Eli",
+        "target": "Frost Crime Family",
+        "description": "Family Member/Criminal Associate"
+      },
+      {
+        "source": "Lucas Frost",
+        "target": "Frost Crime Family",
+        "description": "Estranged Family Member"
+      }
+    ],
+    "seo": {
+      "slug": "violent-ends",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/violent-ends](https://movnix.com/movie/violent-ends)",
+        "name": "Violent Ends",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Lucas Frost, an honest man brought up in a crime family whose only legacy is violence, tries to make his own life with his fiancée, Emma. He is suddenly pulled back into the family business he so despises when his cousin, Eli, perpetrates an armed robbery on a local scrap yard and an innocent life is caught in the crossfire."
+      },
+      "keywords": [
+        "Violent Ends movie",
+        "Lucas Frost",
+        "crime drama films",
+        "Violent Ends synopsis",
+        "Violent Ends plot",
+        "action crime movies"
+      ],
+      "canonical": "[https://movnix.com/movie/violent-ends](https://movnix.com/movie/violent-ends)",
+      "metaTitle": "Violent Ends (2026) Movie Synopsis, Cast & Latest Updates",
+      "openGraph": {
+        "og:title": "Violent Ends - Official Movie Details & Synopsis",
+        "og:description": "When an armed robbery pulls Lucas Frost back into his family's dark past, escape becomes a matter of life and death. Read the synopsis for Violent Ends."
+      },
+      "twitterCard": {
+        "twitter:title": "Violent Ends - Crime Drama Movie",
+        "twitter:description": "An honest man is pulled back into his crime family's violent legacy after a high-stakes scrap yard robbery goes wrong. Watch the story unfold in Violent Ends."
+      },
+      "metaDescription": "Lucas Frost is pulled back into his family's violent criminal legacy after a scrap yard robbery goes wrong. Discover the plot and details for Violent Ends."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Violent Ends is a Southern Gothic crime thriller and revenge drama.",
+        "question": "What is the dominant genre of Violent Ends?"
+      },
+      {
+        "answer": "No, Violent Ends is a standalone independent crime thriller film.",
+        "question": "Is Violent Ends part of a movie franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene in Violent Ends; the story concludes fully before the end credits roll.",
+        "question": "Is there a post-credit scene in Violent Ends?"
+      },
+      {
+        "answer": "Lucas Frost is played by actor Billy Magnussen.",
+        "question": "Who plays the lead character, Lucas Frost?"
+      },
+      {
+        "answer": "Violent Ends was written and directed by filmmaker John-Michael Powell.",
+        "question": "Who directed and wrote Violent Ends?"
+      },
+      {
+        "answer": "Lucas is pulled back into the crime world after his cousin Eli commits a botched robbery at a scrapyard, which results in the tragic death of Lucas's fiancée, Emma.",
+        "question": "What triggers Lucas Frost's return to his family's criminal enterprise?"
+      },
+      {
+        "answer": "Emma is played by actress Alexandra Shipp.",
+        "question": "Who plays Lucas's fiancée, Emma?"
+      },
+      {
+        "answer": "The film is set and filmed in the rural Ozark Mountains region of Northwest Arkansas.",
+        "question": "Where is the movie set and filmed?"
+      },
+      {
+        "answer": "Violent Ends is rated R for strong and bloody violence, pervasive language, and some drug content.",
+        "question": "What is the MPA rating for Violent Ends?"
+      },
+      {
+        "answer": "Violent Ends was released in select theaters in the United States on October 31, 2025.",
+        "question": "When was Violent Ends released?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror elements; tension primarily stems from crime-thriller tropes rather than supernatural or visual dread."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical of organized crime and street-level criminal drama."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Armed robbery, gun violence, and physical harm resulting in severe collateral damage or loss of innocent life."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible depictions or references to alcohol, tobacco, or illicit substance use linked to criminal activities."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to none; romantic relationship context present without explicit sexual descriptions."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional distress driven by family betrayal, tragic fallout, and inescapable criminal legacy."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-27 15:02:01.796068",
+    "updated_at": "2026-08-27 15:02:01.796068"
+  }
 }
