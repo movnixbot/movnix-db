@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.5011,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.9142,
+    "voteAverage": 6,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1550019",
     "posterPath": "/3D02TZJ2Tpnu3HNmFNZC7wPzxu8.jpg",
-    "backdropPath": null,
+    "backdropPath": "/s6BH0omt0gbdAe51s2A42QtDXhx.jpg",
     "collectionId": null,
     "certification": "12"
   },
@@ -65,14 +65,40 @@
       "type": "poster"
     },
     {
+      "filePath": "/s6BH0omt0gbdAe51s2A42QtDXhx.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/3D02TZJ2Tpnu3HNmFNZC7wPzxu8.jpg",
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/s6BH0omt0gbdAe51s2A42QtDXhx.jpg",
+      "width": 1333,
+      "height": 750,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5OQGs493DQLf6hXtHUX4TkHgB86.jpg",
+      "width": 1333,
+      "height": 750,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -161,5 +187,213 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1550019/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1550019,
+    "hash": "26518b55f9b398ce06ec5b28647fb5fdcbed21567ac6568d545da6248ed2c3ca",
+    "summary_one_sentence": "This documentary drama delves into the complex, intimate relationship between iconic Brazilian singer Elis Regina and those in her inner circle.",
+    "summary_short": " Elis & Eu offers an inside look at the life, artistry, and personal struggles of legendary musician Elis Regina. Through dramatic reenactments and intimate personal accounts, the story explores her meteoric rise to fame against the backdrop of Brazil's turbulent political landscape. The narrative balances her profound musical legacy with the private vulnerabilities she navigated behind closed doors. Ultimately, it paints a poignant portrait of a generational talent balancing public adoration with personal truth.",
+    "summary_long": "Elis & Eu explores the captivating journey of one of Brazil's most celebrated vocalists, detailing both her extraordinary career and her deeply human relationships. Set against a backdrop of cultural shift and political tension, the narrative tracks her growth from a passionate young talent into a defining voice of MPB (Música Popular Brasileira). As her public persona expands, the story turns inward to highlight the tensions that arise between her artistic devotion and private life. Intimate dynamics with family, collaborators, and lovers take center stage, revealing the emotional weight behind her powerful performances. Key moments of creative triumph are mirrored by periods of personal uncertainty and relentless self-demand. As pressures mount from both the industry and societal expectations, those closest to her witness the sacrifices required to sustain her passion. The narrative meticulously frames how her fierce independence and raw vulnerability shaped her artistic choices. In its final movement, the project reflects on the enduring legacy of her music and the permanent mark she left on those who knew her best.",
+    "synopsis": "Elis & Eu provides a compelling, spoiler-free glimpse into the life and legacy of iconic singer Elis Regina. Blending dramatic storytelling with documentary-style intimacy, the narrative captures the essence of an extraordinary artist navigating fame, love, and personal conviction during a pivotal era in Brazilian music history.",
+    "keywords": [
+      "documentary drama",
+      "mockumentary",
+      "biographical drama",
+      "music industry",
+      "behind the scenes",
+      "artistic collaboration",
+      "musical duo",
+      "brazilian music",
+      "creative conflict",
+      "portrait of an artist",
+      "fame and celebrity",
+      "archive footage style",
+      "character-driven drama",
+      "personal conflict"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity & Belonging",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The central narrative reaches its peak emotional moment, where the characters face their main obstacle head-on.",
+      "conflict": "A key challenge or disruption arises, introducing friction between the main characters and forcing them to confront personal differences.",
+      "resolution": "The narrative winds down, settling the main tension and offering closure on the journey of Elis and Eu.",
+      "introduction": "The film opens by introducing Elis and Eu, establishing their relationship and daily lives within their social environment.",
+      "risingAction": "As complications build, the protagonists navigate mounting pressure, leading to heightened tension and critical decisions."
+    },
+    "characters": [
+      {
+        "name": "Elis Regina",
+        "role": "Hero",
+        "description": "The central icon whose legendary life, musical legacy, and personal relationships drive the narrative."
+      },
+      {
+        "name": "João Marcello Bôscoli",
+        "role": "Mentor",
+        "description": "Elis Regina's son, who guides the story by sharing personal memories, testimonials, and reflective commentary about his mother."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elis Regina",
+        "target": "João Marcello Bôscoli",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Elis Regina",
+        "target": "Ronaldo Bôscoli",
+        "description": "Ex-Husband/Collaborator"
+      },
+      {
+        "source": "Elis Regina",
+        "target": "César Camargo Mariano",
+        "description": "Husband/Musical Director"
+      },
+      {
+        "source": "Elis Regina",
+        "target": "Antônio Carlos Jobim",
+        "description": "Musical Collaborator & Duet Partner"
+      },
+      {
+        "source": "Elis Regina",
+        "target": "Maria Rita",
+        "description": "Mother/Daughter"
+      }
+    ],
+    "seo": {
+      "slug": "elis-and-eu",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/elis-and-eu](https://movnix.com/movie/elis-and-eu)",
+        "name": "Elis & Eu",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "Elis & Eu",
+        "Elis & Eu movie",
+        "Elis & Eu synopsis",
+        "Elis & Eu cast",
+        "watch Elis & Eu",
+        "Elis & Eu review"
+      ],
+      "canonical": "[https://movnix.com/movie/elis-and-eu](https://movnix.com/movie/elis-and-eu)",
+      "metaTitle": "Elis & Eu - Movie Overview & Synopsis | Movnix",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/elis-and-eu](https://movnix.com/movie/elis-and-eu)",
+        "og:type": "video.movie",
+        "og:title": "Elis & Eu - Full Movie Overview",
+        "og:description": "Read the complete overview and details for Elis & Eu on Movnix."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Elis & Eu - Movie Overview",
+        "twitter:description": "Read the complete overview and details for Elis & Eu on Movnix."
+      },
+      "metaDescription": "Explore the mock movie description and full overview for Elis & Eu. Read synopsis, cast details, and more on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a documentary and drama, focusing on the personal life and intimacy of Brazilian singer Elis Regina through real archival material and dramatic reenactments.",
+        "question": "What is the dominant genre of Elis & Eu?"
+      },
+      {
+        "answer": "No, it is a standalone documentary project inspired by João Marcello Bôscoli's biographical memoir.",
+        "question": "Is Elis & Eu part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, as a non-fiction biographical documentary, there are no narrative teaser or stinger scenes after the credits.",
+        "question": "Is there a post-credit scene in Elis & Eu?"
+      },
+      {
+        "answer": "The documentary is directed by Brazilian filmmaker André Bushatsky.",
+        "question": "Who directed the film?"
+      },
+      {
+        "answer": "The movie explores the private, off-stage life of legendary Brazilian music icon Elis Regina, framing her human relationships, family life, and motherhood through the perspective of her son.",
+        "question": "What is the primary story or premise of Elis & Eu?"
+      },
+      {
+        "answer": "Yes, it blends real historical recordings and interviews with dramatic scenes performed by actors, such as Lílian Menezes portraying Elis.",
+        "question": "Does the movie feature dramatizations alongside archival footage?"
+      },
+      {
+        "answer": "It is generally rated for general audiences or parental guidance suggested, depending on region, as it focuses on personal biography, music history, and interviews.",
+        "question": "What age rating or parental guidance level does the film carry?"
+      },
+      {
+        "answer": "The film premiered in August 2026.",
+        "question": "When was the movie released?"
+      },
+      {
+        "answer": "It is a live-action production featuring real-life documentary footage, archival media, and live actor reenactments.",
+        "question": "Is Elis & Eu an animated or live-action movie?"
+      },
+      {
+        "answer": "The movie premiered on digital streaming services, including Universal+ across select regional platforms.",
+        "question": "Where can viewers stream or watch Elis & Eu?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jumpscares present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong or explicit language present."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence present in the provided title and overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drug, alcohol, or substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 0,
+        "description": "No intense emotional themes present."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 4,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 5,
+      "science": 0,
+      "suspense": 3,
+      "violence": 1
+    },
+    "created_at": "2026-08-27 07:05:24.17041",
+    "updated_at": "2026-08-27 07:05:24.17041"
+  }
 }
