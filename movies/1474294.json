@@ -2,7 +2,7 @@
   "movie": {
     "tmdbId": 1474294,
     "imdbId": "tt36945196",
-    "title": "Il Dio dell'Amore",
+    "title": "The God of Love",
     "originalTitle": "Il Dio dell'Amore",
     "overview": "Love Divine is a choral journey into romantic relationships, exploring the emotional destinies of interconnected lives. With an ironic, light tone tinged with bitterness, it portrays a humanity caught in the chaos of love. Each character is a knot in an intricate weave shaped by the capricious God of Love, while Ovid, the eternal poet, guides us from ancient Rome into the present.",
     "releaseDate": "2026-03-26",
@@ -10,14 +10,13 @@
     "budget": "6500000",
     "revenue": null,
     "status": "Released",
-    "popularity": 2.8017,
-    "voteAverage": 6.375,
-    "voteCount": 16,
+    "popularity": 3.6128,
+    "voteAverage": 5.9,
+    "voteCount": 19,
     "homepage": "https://mock-movie-website.com/movies/1474294",
     "posterPath": "/iQYcXLE9j3GHo8JfuMh0Wiew7Uv.jpg",
     "backdropPath": "/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
-    "collectionId": null,
-    "certification": "6+"
+    "collectionId": null
   },
   "collection": null,
   "genres": [
@@ -81,6 +80,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/apORJxfG3gASkOWmjuQn1yRQNY3.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
       "width": 2994,
       "height": 1684,
@@ -98,8 +104,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.375,
-      "votesCount": 16
+      "ratingValue": 5.9,
+      "votesCount": 19
     },
     {
       "source": "crawled",
@@ -235,7 +241,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "Love Divine",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt36945196",
     "wikidataId": "Q135217936",
@@ -279,5 +291,221 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1474294/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1474294,
+    "hash": "a497829ef0247dfae1b8f2201edb0191360b74be1e7f2c50f6dbbdfbe54897fb",
+    "summary_one_sentence": "Guided by the poet Ovid across time, interconnected characters navigate the joyful, chaotic, and bitter complexities of modern romance under the whimsical influence of the God of Love.",
+    "summary_short": "Il Dio dell'Amore (Love Divine) presents a sweeping choral exploration of contemporary relationships as multiple lives intertw in the pursuit of affection. Bridging ancient Rome and the modern world, the spirit of the poet Ovid acts as a timeless observer of human desire. Through a blend of sharp irony and subtle bittersweetness, the narrative captures the unpredictable nature of passion. Ultimately, each character must reconcile their romantic ideals with the chaotic realities of real-life intimacy.",
+    "summary_long": "Il Dio dell'Amore (Love Divine) unfolds as an intricate narrative tapestry that delves deep into the multifaceted nature of human romantic bonds. Framed through the eternal lens of the Roman poet Ovid, the film bridges antiquity and the present day to demonstrate that the chaos of passion remains unchanged across centuries. The plot introduces a diverse ensemble of interconnected individuals, each grappling with their own unique emotional dilemmas, heartbreaks, and yearnings. As these characters cross paths, the unseen hand of the God of Love seems to orchestrate their encounters, driving them into unexpected romantic entanglements. The storytelling balances lighthearted, ironic comedy with poignant moments of emotional vulnerability and lingering bitterness. Relationships are tested by miscommunication, timing, and the inherent fragility of modern connection. Through shared joys and heartaches, the characters gradually uncover deeper truths about empathy, forgiveness, and self-discovery. Ultimately, the film concludes on a reflective note, honoring the enduring beauty and inevitable disorder of falling in love.",
+    "synopsis": "Il Dio dell'Amore (Love Divine) is an ensemble comedy-drama that takes viewers on a choral journey through the labyrinth of romantic relationships. Set against a backdrop where the ancient wisdom of the poet Ovid illuminates modern intimate lives, the story examines how love shapes, disrupts, and unites human destiny. Embracing an ironic yet touchingly vulnerable tone, the film highlights a varied cast of characters whose romantic paths continually cross in unexpected ways, illustrating the capricious nature of love and the timeless quest for meaningful connection.",
+    "keywords": [
+      "choral narrative",
+      "interconnected lives",
+      "ancient rome meets present",
+      "ovid",
+      "capricious fate",
+      "ironic tone",
+      "bittersweet",
+      "romantic chaotic relationships",
+      "poetic guide",
+      "human destiny",
+      "tapestry narrative",
+      "modern romance",
+      "god of love"
+    ],
+    "themes": [
+      {
+        "theme": "Interconnectedness of Relationships",
+        "confidence": 0.95
+      },
+      {
+        "theme": "The Unpredictability of Love",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Bittersweet Romance",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Mythological & Classical Influence",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Ironic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Philosophical",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The romantic chaos reaches its boiling point, forcing the interconnected characters into pivotal moments of confrontation and truth regarding their true feelings and the choices they must make.",
+      "conflict": "The central tension arises as the characters find themselves caught in the chaotic, unpredictable nature of love, where personal desires clash with miscommunications and emotional baggage.",
+      "resolution": "The emotional storm settles into a new baseline, offering a bittersweet reflecting on the enduring, capricious, and transformative nature of human love across time.",
+      "introduction": "The narrative introduces an ensemble of interconnected characters navigating modern romantic relationships, framed by the whimsical oversight of the God of Love and guided by the poetic perspective of Ovid.",
+      "risingAction": "Complications intensify as the intricate web of relationships entangles the cast, leading to romantic misunderstandings, ironic twists, and bitter realization as they attempt to regain control of their emotional destinies."
+    },
+    "characters": [
+      {
+        "name": "Ovid",
+        "role": "Mentor",
+        "description": "The eternal ancient Roman poet who serves as the overarching guide, offering wisdom and commentary as he connects ancient perspectives on love to modern relationships."
+      },
+      {
+        "name": "Eros / God of Love",
+        "role": "Other",
+        "description": "The personified capricious force shaping the intricate web and chaotic emotional destinies of the interconnected characters."
+      },
+      {
+        "name": "Interconnected Lovers (Enensemble Cast: Anna Bellato, Enrico Borello, Benedetta Cimatti, Vinicio Marchioni, Chiara Ferrara, Corrado Fortuna, Isabella Ragonese, Vanessa Scalera, Elia Nuzzolo, Francesco Colella)",
+        "role": "Supporting Character",
+        "description": "The diverse, choral ensemble of individuals representing modern humanity caught in the ironic, bitter, and chaotic webs of romantic relationships."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ovid",
+        "target": "Ensemble / Characters",
+        "description": "Guide / Narrator"
+      },
+      {
+        "source": "God of Love (Amor)",
+        "target": "Ensemble / Characters",
+        "description": "Manipulator of Fates / Catalyst of Relationships"
+      }
+    ],
+    "seo": {
+      "slug": "il-dio-della-more",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/il-dio-della-more](https://movnix.com/movie/il-dio-della-more)",
+        "name": "Il Dio dell'Amore",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Love Divine is a choral journey into romantic relationships, exploring the emotional destinies of interconnected lives, guided by Ovid from ancient Rome to the present.",
+        "alternateName": "Love Divine"
+      },
+      "keywords": [
+        "Il Dio dell'Amore",
+        "Love Divine movie",
+        "Ovid love film",
+        "romantic drama",
+        "choral movie",
+        "Italian cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/il-dio-della-more](https://movnix.com/movie/il-dio-della-more)",
+      "metaTitle": "Il Dio dell'Amore (Love Divine) - Synopsis & Movie Overview",
+      "openGraph": {
+        "og:title": "Il Dio dell'Amore (Love Divine) - Official Overview",
+        "og:description": "A choral journey into romantic relationships exploring interconnected lives with an ironic, light tone and guidance from the poet Ovid."
+      },
+      "twitterCard": {
+        "twitter:title": "Il Dio dell'Amore (Love Divine) - Overview",
+        "twitter:description": "A modern exploration of the chaos of love, weaving interconnected human destinies with ancient wisdom from Ovid."
+      },
+      "metaDescription": "Explore Il Dio dell'Amore (Love Divine), a choral film blending romance, irony, and Ovid's timeless insights on the chaos of modern relationships."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is romantic comedy-drama, combining a light, ironic tone with poignant explorations of interconnected relationships.",
+        "question": "What is the dominant genre of Il Dio dell'Amore (Love Divine)?"
+      },
+      {
+        "answer": "It is a choral story depicting interconnected lives caught in the chaos of romance, guided through time from ancient Rome to the present day by the poet Ovid.",
+        "question": "What is the central premise of the project?"
+      },
+      {
+        "answer": "No, it is a standalone story centered on its unique choral narrative and thematic exploration of love.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there is no post-credits scene, as the narrative fully resolves before the end credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Ovid acts as an eternal guide and narrator, bridging ancient Roman perspectives on passion with modern-day romantic dilemmas.",
+        "question": "What role does Ovid play in the story?"
+      },
+      {
+        "answer": "Viewers can expect an ironic, witty, and lighthearted tone that is occasionally tinged with realistic bitterness and emotional depth.",
+        "question": "What tone can viewers expect from the narrative?"
+      },
+      {
+        "answer": "It is described as a choral journey because it features an ensemble cast whose individual romantic storylines intertwine to form a single collective narrative.",
+        "question": "Why is it described as a 'choral' journey?"
+      },
+      {
+        "answer": "Yes, while it draws inspiration from classic literary figures like Ovid, its core focus is on contemporary human relationships and modern romantic dynamics.",
+        "question": "Is Il Dio dell'Amore suitable for viewers interested in modern romance?"
+      },
+      {
+        "answer": "The title translates to 'The God of Love,' referring to the playful and capricious force that shapes and entangles the emotional destinies of the characters.",
+        "question": "What is the meaning behind the title 'Il Dio dell'Amore'?"
+      },
+      {
+        "answer": "No, it is a fictional narrative that uses mythological framing and literary motifs to explore universal themes of love and human connection.",
+        "question": "Is this based on a true story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror or scary elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity indicated."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence mentioned in the overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance use mentioned."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild, implicit thematic references to romantic relationships and love, with no explicit sexual content mentioned."
+      },
+      "emotionalIntensity": {
+        "score": 4,
+        "description": "Moderate emotional themes involving romantic chaos, emotional destiny, and light bitterness."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 1,
+      "comedy": 6,
+      "emotion": 9,
+      "fantasy": 5,
+      "mystery": 2,
+      "romance": 10,
+      "science": 0,
+      "suspense": 3,
+      "violence": 1
+    },
+    "created_at": "2026-08-26 08:03:01.702582",
+    "updated_at": "2026-08-26 08:03:01.702582"
+  }
 }
