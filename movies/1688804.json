@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 16.4302,
-    "voteAverage": 6.781,
-    "voteCount": 16,
+    "popularity": 13.2838,
+    "voteAverage": 6.636,
+    "voteCount": 22,
     "homepage": "https://www.netflix.com/title/81780118",
     "posterPath": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
     "backdropPath": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
@@ -156,8 +156,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.781,
-      "votesCount": 16
+      "ratingValue": 6.636,
+      "votesCount": 22
     },
     {
       "source": "crawled",
@@ -452,5 +452,265 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1688804/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1688804,
+    "hash": "ac0e4a1c60ce2fa8dbf763e648bf82036f0fdad6a8e9bf44830ab303fdca8f36",
+    "summary_one_sentence": "Filmmaker Rory Kennedy investigates Boeing's ongoing safety crisis and corporate rot following the tragic death of whistleblower John Barnett.",
+    "summary_short": "Directed by Rory Kennedy, 'Freefall: A Reckoning for Boeing' serves as a hard-hitting follow-up to the 2022 documentary 'Downfall: The Case Against Boeing'. The documentary opens with the tragic March 2024 death of key whistleblower John Barnett, using it as a catalyst to examine systemic safety flaws across Boeing's manufacturing lines. Through insider accounts, undercover footage, and congressional testimonies, the film exposes how corporate greed continues to compromise passenger safety. It stands as an urgent demand for genuine accountability at the highest levels of corporate leadership.",
+    "summary_long": "Director Rory Kennedy returns to expose the deepening corporate crisis within aviation giant Boeing in 'Freefall: A Reckoning for Boeing'. The documentary begins with the harrowing impact of whistleblower John Barnett's death in 2024, examining both the personal toll on those who speak out and the systemic pressure applied by corporate management. As new whistleblowers step forward, the film uncovers alarming manufacturing failures, including missing door-plug bolts and malfunctioning passenger oxygen systems. Undercover footage from assembly plants reveals employees expressing deep distrust in the structural integrity of the very planes they build. The documentary also tracks the persistent efforts of victims' families from the 737 MAX crashes as they lobby for regulatory reform and criminal prosecution. Kennedy contextualizes Boeing's decline within a broader culture of neoliberal financialization, where shareholder value is prioritized over engineering excellence. Through fiery Senate hearings and expert journalism, the film challenges the lack of personal liability for top executives who profit handsomely despite catastrophic failures. Ultimately, 'Freefall' delivers a sobering look at an industry where compromised safety protocols put public lives at risk every single day.",
+    "synopsis": "'Freefall: A Reckoning for Boeing' is a compelling investigative documentary that picks up in the wake of Boeing whistleblower John Barnett's tragic death. The film offers an inside look into the persistent safety, manufacturing, and cultural crises plaguing the iconic aerospace company. Featuring interviews with courageous whistleblowers, aviation journalists, and families affected by air disasters, the documentary reveals how a profit-first corporate mentality repeatedly undermines engineering standards and public safety.",
+    "keywords": [
+      "aviation industry",
+      "Boeing",
+      "whistleblower",
+      "corporate crisis",
+      "corporate scandal",
+      "investigative journalism",
+      "John Barnett",
+      "corporate greed",
+      "systemic corruption",
+      "insider accounts",
+      "airplane safety",
+      "flight safety",
+      "conspiracy and cover-up",
+      "tragedy and accountability"
+    ],
+    "themes": [
+      {
+        "theme": "Corporate Ethics and Accountability",
+        "confidence": 0.96
+      },
+      {
+        "theme": "Whistleblowing and Retaliation",
+        "confidence": 0.94
+      },
+      {
+        "theme": "Corporate Crisis and Scandal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Institutional Reputation and Fall from Grace",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Truth and Investigation",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The investigation reaches a critical juncture as mounting public scrutiny, regulatory pressure, and devastating insider revelations force Boeing into a high-stakes corporate crisis, exposing the full scale of its internal breakdown.",
+      "conflict": "A tension emerges between Boeing's longstanding reputation for engineering excellence and growing allegations of corporate negligence, compromised safety standards, and systemic pressure on insiders who raise concerns.",
+      "resolution": "The narrative reflects on the broader implications for the aviation industry and public trust, offering a sobering assessment of what accountability looks like for a critical global institution facing a pivotal turning point.",
+      "introduction": "The documentary introduces Boeing's historic legacy as an industry leader in aviation, alongside the sudden and tragic death of key whistleblower John Barnett, setting the stage for a critical look into the company's internal culture.",
+      "risingAction": "Former employees and industry experts come forward with alarming new testimony, revealing severe manufacturing flaws, quality control lapses, and executive decisions that allegedly prioritized profit and speed over passenger safety."
+    },
+    "characters": [
+      {
+        "name": "John Barnett",
+        "role": "Hero",
+        "description": "A former Boeing quality manager and key whistleblower who exposed safety critical issues before his untimely death."
+      },
+      {
+        "name": "Rob Turkewitz",
+        "role": "Supporting Character",
+        "description": "An attorney representing Boeing whistleblowers, advocating for justice and corporate accountability."
+      },
+      {
+        "name": "Sam Mohawk",
+        "role": "Hero",
+        "description": "A Boeing whistleblower and quality inspector who raised alarms regarding compromised plane parts."
+      },
+      {
+        "name": "Roy Irvin",
+        "role": "Supporting Character",
+        "description": "A former quality investigator at Boeing who shared insider accounts of manufacturing defects."
+      },
+      {
+        "name": "Sam Salehpour",
+        "role": "Hero",
+        "description": "A Boeing engineer turned whistleblower who publicly testified about structural safety concerns on major aircraft."
+      },
+      {
+        "name": "Merle Meyers",
+        "role": "Supporting Character",
+        "description": "A long-time Boeing employee and whistleblower detailing systemic production shortcuts."
+      },
+      {
+        "name": "Jim McNerney",
+        "role": "Villain",
+        "description": "Former Boeing CEO associated with the corporate culture shift prioritizing cost-cutting over engineering excellence."
+      },
+      {
+        "name": "David G. Bradley",
+        "role": "Other",
+        "description": "An investigative voice or figure providing analytical context on corporate practices."
+      },
+      {
+        "name": "Jack Welch",
+        "role": "Mentor",
+        "description": "The former General Electric CEO whose shareholder-first management philosophy heavily influenced Boeing's leadership strategy."
+      },
+      {
+        "name": "David Gelles",
+        "role": "Other",
+        "description": "A journalist and author examining the decline of Boeing's safety culture and corporate leadership."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "John Barnett",
+        "target": "Boeing Leadership",
+        "description": "Whistleblower / Corporate Employer & Legal Adversary"
+      },
+      {
+        "source": "John Barnett",
+        "target": "Rory Kennedy",
+        "description": "Documentary Subject & Key Interviewee / Director"
+      },
+      {
+        "source": "Naoise Connolly Ryan",
+        "target": "Michael Ryan",
+        "description": "Wife / Husband (Victim of Ethiopian Airlines Flight 302 crash)"
+      },
+      {
+        "source": "Naoise Connolly Ryan",
+        "target": "Boeing Leadership",
+        "description": "Victim's Family Advocate & Activist / Corporate Entity held accountable"
+      },
+      {
+        "source": "Boeing Whistleblowers",
+        "target": "John Barnett",
+        "description": "Inspirations / Posthumous Role Model & Peer"
+      },
+      {
+        "source": "Rory Kennedy",
+        "target": "Mark Bailey",
+        "description": "Director / Producer (Co-creators of the documentary)"
+      }
+    ],
+    "seo": {
+      "slug": "freefall-a-reckoning-for-boeing",
+      "jsonLd": {
+        "name": "Freefall: A Reckoning for Boeing",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis."
+      },
+      "keywords": [
+        "Freefall A Reckoning for Boeing",
+        "Boeing documentary",
+        "John Barnett whistleblower",
+        "Boeing crisis documentary",
+        "aviation investigation movie"
+      ],
+      "canonical": "[https://movnix.com/movie/freefall-a-reckoning-for-boeing](https://movnix.com/movie/freefall-a-reckoning-for-boeing)",
+      "metaTitle": "Freefall: A Reckoning for Boeing - Official Movie Details & Overview",
+      "openGraph": {
+        "og:title": "Freefall: A Reckoning for Boeing - Shocking Boeing Whistleblower Documentary",
+        "og:description": "Following the death of whistleblower John Barnett, new revelations and insider accounts emerge surrounding the Boeing corporate crisis."
+      },
+      "twitterCard": {
+        "twitter:title": "Freefall: A Reckoning for Boeing",
+        "twitter:description": "Insider accounts and startling revelations surface during the investigation into Boeing's deepening corporate crisis."
+      },
+      "metaDescription": "Explore Freefall: A Reckoning for Boeing. Uncovering insider accounts and shocking revelations following the death of Boeing whistleblower John Barnett."
+    },
+    "faq": [
+      {
+        "answer": "'Freefall: A Reckoning for Boeing' is an investigative project focusing on Boeing's deepening corporate crisis, corporate culture, and safety concerns, framed in the wake of high-profile incidents and the death of whistleblower John Barnett.",
+        "question": "What is 'Freefall: A Reckoning for Boeing' about?"
+      },
+      {
+        "answer": "The dominant genre is investigative documentary, focusing on true crime, business ethics, and corporate journalism.",
+        "question": "What is the dominant genre of this release?"
+      },
+      {
+        "answer": "No, it is a standalone investigative documentary and is not part of a broader cinematic franchise.",
+        "question": "Is this film part of a franchise?"
+      },
+      {
+        "answer": "No, as a non-fiction documentary, there are no narrative post-credit scenes or teaser sequences after the end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "Yes, it uncovers insider accounts, expert analysis, and revelations from aviation safety experts and corporate whistleblowers.",
+        "question": "Does the documentary feature real interviews with insiders?"
+      },
+      {
+        "answer": "John Barnett was a former Boeing quality control manager who raised serious concerns about assembly standards and safety issues before his highly publicized death during his legal proceedings against the company.",
+        "question": "Who was John Barnett and why is he central to the story?"
+      },
+      {
+        "answer": "Yes, though it deals with serious corporate news, aviation safety concerns, and sensitive topics surrounding whistleblower deaths, making it intended primarily for mature and mature-teen audiences.",
+        "question": "Is this suitable for general audiences?"
+      },
+      {
+        "answer": "Yes, it is entirely based on real-world events, corporate investigations, news reports, and actual regulatory probes into Boeing.",
+        "question": "Is this documentary based on a true story?"
+      },
+      {
+        "answer": "Distribution depends on the primary broadcast or streaming provider hosting the release, typically available via major video-on-demand or documentary streaming platforms.",
+        "question": "Where can viewers watch 'Freefall: A Reckoning for Boeing'?"
+      },
+      {
+        "answer": "It explores how short-term corporate profitability and manufacturing pressures can severely compromise quality control, public safety, and corporate integrity in a vital global industry.",
+        "question": "What key message does the project convey?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jumpscares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong language expected in news/documentary overview."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance abuse or references mentioned."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity surrounding death, corporate crisis, and whistleblower scandal."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 6,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-26 07:03:15.762054",
+    "updated_at": "2026-08-26 07:03:15.762054"
+  }
 }

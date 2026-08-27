@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.2569,
+    "popularity": 4.4782,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1506835",
@@ -291,5 +291,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1506835/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1506835,
+    "hash": "ebda36e4503b6d95ca4a70fa345113728fcd63f0f12d953969a0e7757877de31",
+    "summary_one_sentence": "In a remote country home, a religious zealot holds a young filmmaker captive, forcing him through horrific rituals she claims will elevate him to godhood.",
+    "summary_short": "A young filmmaker finds himself entrapped in an isolated rural residence after falling into the hands of a deeply fanatic woman. Driven by twisted spiritual convictions, his captor subjects him to brutal, sadistic trials intended to strip away his humanity. As the physical and mental torment escalates, the filmmaker must navigate her deadly delusions to find a way out before he is completely consumed by her terrifying vision.",
+    "summary_long": "Seeking inspiration for his latest creative work, an ambitious young filmmaker travels to an isolated rural home, completely unaware of the nightmare awaiting him. Upon arrival, he is taken hostage by a devout religious zealot who sees him not as a victim, but as a vessel for sacred transformation. Cut off from civilization, he is bound and subjected to a relentless series of horrifying, ritualistic acts designed to break his spirit. His captor meticulously executes each sadomasochistic ordeal, firmly believing that enduring this extreme suffering will purge his mortal flaws and elevate him into a divine being. As the days bleed together, the filmmaker’s reality fractures under the weight of physical pain and psychological distress. Desperate to survive, he attempts to manipulate her fanaticism, playing along with the twisted theology while searching for any vulnerability in her routine. Every escape attempt, however, brings harsher punishment, pushing him closer to the brink of complete despair. As the violence reaches a fever pitch, he is forced to confront a horrific ultimate trial that tests whether his humanity will survive or if he will indeed be reborn into something entirely unrecognizable.",
+    "synopsis": "Set in a harrowing atmosphere of isolation and fanaticism, Blood Shine follows a young filmmaker whose search for truth leads him straight into captivity at a remote country estate. His captor, an unyielding religious zealot, believes she has been chosen to execute a series of painful, transformative rituals that will turn him into a god. Trapped within her secretive domain, the filmmaker is forced to endure escalating psychological and physical trials, blurring the lines between horror, faith, and survival.",
+    "keywords": [
+      "religious zealot",
+      "captivity",
+      "filmmaker protagonist",
+      "sadistic rituals",
+      "apotheosis",
+      "remote country home",
+      "isolation horror",
+      "psychological torment",
+      "fanaticism",
+      "torture",
+      "delusional antagonist",
+      "hostage drama",
+      "body horror elements"
+    ],
+    "themes": [
+      {
+        "theme": "Fanaticism & Religious Extremism",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Captivity & Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Transformation & Apotheosis",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Obsession with Creation & Art",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Disturbing",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Psychological",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The situation reaches a critical breaking point during a final, central ritual where the filmmaker must make a decisive move to survive.",
+      "conflict": "The protagonist is unexpectedly taken captive by the zealot, who reveals a dark plan to subject him to grueling trials intended to achieve ascension.",
+      "resolution": "The ordeal comes to an end, leaving the protagonist transformed by the lingering aftermath of the captivity and its psychological toll.",
+      "introduction": "A young filmmaker arrives at a remote country home, encountering an eccentric host with deeply ingrained, mysterious religious beliefs.",
+      "risingAction": "As the captive attempts to find a way to escape, psychological pressure mounts, and the captor's rituals escalate in severity and intensity."
+    },
+    "characters": [
+      {
+        "name": "Joan",
+        "role": "Villain",
+        "description": "A religious zealot who abducts a young filmmaker and inflicts sadistic rituals under the belief that it will transform him into a god."
+      },
+      {
+        "name": "Finn",
+        "role": "Hero",
+        "description": "A young filmmaker taken captive by a zealot, struggling to survive and escape her horrific rituals."
+      },
+      {
+        "name": "Cult Leader / Religious Mentor",
+        "role": "Mentor",
+        "description": "A guiding figure or influence behind the zealot's extreme religious beliefs and rituals."
+      },
+      {
+        "name": "Captive / Local Resident",
+        "role": "Supporting Character",
+        "description": "A surrounding figure who either aids in the captivity or reveals details about the isolated location and lore."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Religious Zealot",
+        "target": "Young Filmmaker",
+        "description": "Captor/Captive"
+      }
+    ],
+    "seo": {
+      "slug": "blood-shine",
+      "jsonLd": {
+        "name": "Blood Shine",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In her remote country home, a religious zealot takes a young filmmaker captive, claiming her sadistic rituals will change him into a god."
+      },
+      "keywords": [
+        "blood shine movie",
+        "blood shine horror",
+        "blood shine plot",
+        "religious zealot horror film",
+        "psychological horror movie"
+      ],
+      "canonical": "[https://movnix.com/movie/blood-shine](https://movnix.com/movie/blood-shine)",
+      "metaTitle": "Blood Shine Movie - Plot Summary, Release Info & Trailer",
+      "openGraph": {
+        "og:title": "Blood Shine - Official Movie Page",
+        "og:description": "A religious zealot holds a young filmmaker captive for sadistic divine rituals in Blood Shine."
+      },
+      "twitterCard": {
+        "twitter:title": "Blood Shine Movie",
+        "twitter:description": "A remote country home becomes a nightmare when a religious zealot takes a filmmaker captive."
+      },
+      "metaDescription": "In Blood Shine, a religious zealot takes a young filmmaker captive in her remote home, claiming her sadistic rituals will turn him into a god."
+    },
+    "faq": [
+      {
+        "answer": "Blood Shine is primarily a psychological horror and thriller film centered on themes of religious fanaticism, captivity, and sadistic ritualism.",
+        "question": "What is the dominant genre of Blood Shine?"
+      },
+      {
+        "answer": "The film follows a young filmmaker who is held captive in a remote country home by a religious zealot who subjects him to brutal rituals, believing they will elevate him to godhood.",
+        "question": "What is the basic plot of Blood Shine?"
+      },
+      {
+        "answer": "No, Blood Shine is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Blood Shine part of an existing franchise?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credits scene in Blood Shine?"
+      },
+      {
+        "answer": "The main story takes place in an isolated, remote country home where the religious zealot lives and conducts her rituals.",
+        "question": "Where does the story of Blood Shine take place?"
+      },
+      {
+        "answer": "The primary characters are the fanatical host, who performs the torture rituals, and the young filmmaker she holds hostage.",
+        "question": "Who are the primary characters in the movie?"
+      },
+      {
+        "answer": "The antagonist is motivated by extreme religious delusion, believing her violent and ritualistic methods will transform her captive into a divine entity.",
+        "question": "What is the core motivation of the antagonist?"
+      },
+      {
+        "answer": "No, the movie features intense depictions of captivity, psychological torment, and sadistic violence, making it intended for mature audiences.",
+        "question": "Is Blood Shine suitable for sensitive viewers?"
+      },
+      {
+        "answer": "No, Blood Shine is a fictional narrative crafted for the psychological horror genre.",
+        "question": "Is Blood Shine based on a true story?"
+      },
+      {
+        "answer": "The film maintains a dark, claustrophobic, and suspenseful tone focused on isolation and escalating torture.",
+        "question": "What is the overall tone of the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Intense atmosphere of psychological terror, captivity, physical dread, and severe religious fanatical paranoia."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language likely present in distress and intense altercations."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of non-consensual graphic violence, torture, and sadistic physical trauma associated with religious rituals."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Low to minimal substance use, primarily focused on captive sedation or ritualistic administration if applicable."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no explicit sexual content, though thematic element of captive control carries disturbing personal violations."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely high psychological tension involving prolonged captivity, religious fanaticism, and extreme bodily harm."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 3,
+      "mystery": 6,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 9
+    },
+    "created_at": "2026-08-26 03:05:13.081344",
+    "updated_at": "2026-08-26 03:05:13.081344"
+  }
 }
