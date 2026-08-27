@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.7613,
+    "popularity": 0.9068,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1754069",
@@ -102,7 +102,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney Plus",
+          "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        },
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -132,5 +141,259 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1754069/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1754069,
+    "hash": "75b7d87429d1bb7b271c9ebda38de109b4d351dd1238cfd88e671906549d8f43",
+    "summary_one_sentence": "In Chris Carter's darker cut, former FBI agents Fox Mulder and Dana Scully reunite to investigate a series of gruesome kidnappings connected to an organ-harvesting operation and a disgraced, psychic priest.",
+    "summary_short": "When an FBI agent goes missing, the bureau seeks out Dana Scully to help persuade Fox Mulder to consult on the case. Guided by the disturbing visions of Father Joe, a convicted pedophile priest claiming psychic insights, Mulder and Scully uncover a horrifying medical experiment taking place in the frozen wilderness. As Scully wrestles with her faith and medical ethics in a separate case involving a terminally ill boy, Mulder pursues the grotesque truth behind the missing women. Restoring Carter's original vision, this version emphasizes the story's visceral medical horror and heavy emotional weight.",
+    "summary_long": "Years after leaving the FBI, Dana Scully works as a physician at a Catholic hospital, while Fox Mulder lives as a recluse continuing his research into the paranormal. The FBI requests Scully's assistance to locate Mulder after an agent is abducted in Virginia, offering to drop all past charges against him in exchange for his expertise. They are brought into the investigation by Father Joseph Crissman, a disgraced priest who experiences agonizing, supernatural visions of the crimes. Father Joe leads the agents and FBI team to a severed arm buried in the snow, triggering a desperate hunt for the missing women. As the investigation deepens, Mulder identifies a sinister pattern involving body parts and organ transplantation. Meanwhile, Scully faces a personal dilemma as she tries to save a young patient with an incurable disease using experimental stem-cell therapies, drawing parallels to the rogue medical procedures being conducted by the kidnappers. The trail leads to a remote organ-harvesting ring run by a radical scientist attempting human head transplants to prolong his dying lover's life. Mulder pursues the suspects to an isolated compound where the grislier elements of the human experimentation are laid bare. With Scully arriving in time to assist, they defeat the perpetrators and rescue the surviving victim, leaving Mulder and Scully to confront their own beliefs, relationship, and the fragile nature of hope.",
+    "synopsis": "The X-Files: I Want to Believe – Vrach Frankenshteyn presents a darker, more visceral realization of Chris Carter's 2008 feature film. Disconnected from the overarching alien mythology of the series, the story functions as a standalone psychological thriller and medical horror. Former FBI agent Dana Scully, now a dedicated hospital doctor, is approached by her former employers to trace her reclusive partner, Fox Mulder. The FBI needs Mulder's unconventional mind to evaluate the claims of Father Joe, a former priest claiming to receive divine visions regarding a string of local abductions. Despite Scully's intense skepticism toward the disgraced priest, Mulder follows Father Joe's cryptic clues, unearthing a terrifying crime network operating in the shadows of the winter landscape. The narrative contrasts Mulder's relentless search for truth against Scully's internal moral struggle over life-prolonging medical treatments, creating a thematic parallel between faith, ethics, and human survival. This cut emphasizes the body-horror elements of rogue transplantation procedures while exploring the complex dynamic between two iconic investigators forced to confront darkness both external and within.",
+    "keywords": [
+      "fanedit",
+      "alternate cut",
+      "psychic investigator",
+      "disgraced priest",
+      "missing person investigation",
+      "body horror",
+      "darker tone",
+      "medical gore",
+      "fbi investigation",
+      "organ trafficking",
+      "unsolved mystery",
+      "supernatural thriller",
+      "faith vs science",
+      "reminiscent of frankenstein"
+    ],
+    "themes": [
+      {
+        "theme": "Faith vs. Science",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Redemption & Guilt",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Obsession & Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Ethical Limits of Science",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival & Trauma",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Mulder pursues the suspects to a remote organ-harvesting compound in the frozen wilderness, leading to a perilous, high-stakes confrontation with the sinister figures behind the horror.",
+      "conflict": "The FBI is forced to rely on Father Joe, a convicted pedophile priest claiming to receive gruesome psychic visions, while Scully faces a moral and personal dilemma involving a dying young patient at her hospital.",
+      "resolution": "The ordeal draws to a close as Mulder and Scully process the physical and psychological toll of the case, seeking personal peace and a path forward together.",
+      "introduction": "Disgraced former agent Fox Mulder and Dr. Dana Scully are brought back into the FBI fold when a young female agent mysteriously disappears during an investigation.",
+      "risingAction": "As Father Joe guides investigators through snowy landscapes toward disturbing discoveries, additional women are abducted, uncovering an illegally operating medical team harvesting organs and bodies."
+    },
+    "characters": [
+      {
+        "name": "Fox Mulder",
+        "role": "Hero",
+        "description": "A former FBI agent and driven investigator who relies on intuition and a belief in the supernatural to solve mysteries."
+      },
+      {
+        "name": "Dana Scully",
+        "role": "Hero",
+        "description": "A former FBI agent and medical doctor whose rational, skeptical approach complements Mulder's intuitive investigative style."
+      },
+      {
+        "name": "Father Joseph Crissman",
+        "role": "Supporting Character",
+        "description": "A disgraced, pedophilic priest claiming to receive psychic visions regarding the missing women."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Fox Mulder",
+        "target": "Dana Scully",
+        "description": "Romantic Partners / Former FBI Partners"
+      },
+      {
+        "source": "Fox Mulder",
+        "target": "Father Joseph Crissman (Father Joe)",
+        "description": "Reluctant Allies / Investigator and Psychic Informant"
+      },
+      {
+        "source": "Dana Scully",
+        "target": "Father Joseph Crissman (Father Joe)",
+        "description": "Adversaries / Skeptical Doctor and Disgraced Priest"
+      },
+      {
+        "source": "Fox Mulder",
+        "target": "Dakota Whitney",
+        "description": "Colleagues / FBI Lead Investigator and Special Consultant"
+      },
+      {
+        "source": "Dana Scully",
+        "target": "Christian",
+        "description": "Doctor and Patient"
+      },
+      {
+        "source": "Jacek Niemann",
+        "target": "Franz Tomczeszyn",
+        "description": "Spouses / Co-Conspirators in Illegal Organ Harvesting"
+      },
+      {
+        "source": "Dakota Whitney",
+        "target": "Mosley Drumm",
+        "description": "FBI Colleagues / Supervisory Agent and Agent"
+      },
+      {
+        "source": "Jacek Niemann",
+        "target": "Franz Tomczeszyn",
+        "description": "Doctor / Medical Experimenter and Patient / Recipient"
+      }
+    ],
+    "seo": {
+      "slug": "the-x-files-i-want-to-believe-vrach-frankenshteyn",
+      "jsonLd": {
+        "name": "The X-Files: I Want to Believe – Vrach Frankenshteyn",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "director": {
+          "name": "Chris Carter",
+          "@type": "Person"
+        },
+        "character": [
+          {
+            "name": "Fox Mulder",
+            "@type": "Person"
+          },
+          {
+            "name": "Dana Scully",
+            "@type": "Person"
+          },
+          {
+            "name": "Father Joe",
+            "@type": "Person"
+          }
+        ],
+        "description": "Chris Carter’s Vrach Frankenshteyn cut features the same core plot as the original theatrical release—with Mulder and Scully pulled back into the FBI by a disgraced, psychic priest (Father Joe) to investigate the kidnapping of women. However, this version restores Carter's original, grislier medical gore and darker tone."
+      },
+      "keywords": [
+        "The X-Files: I Want to Believe",
+        "Vrach Frankenshteyn",
+        "Chris Carter",
+        "Mulder and Scully",
+        "Father Joe",
+        "The X-Files alternate cut"
+      ],
+      "canonical": "[https://movnix.com/movie/the-x-files-i-want-to-believe-vrach-frankenshteyn](https://movnix.com/movie/the-x-files-i-want-to-believe-vrach-frankenshteyn)",
+      "metaTitle": "The X-Files: I Want to Believe – Vrach Frankenshteyn Cut Details",
+      "openGraph": {
+        "og:title": "The X-Files: I Want to Believe – Vrach Frankenshteyn Cut Details",
+        "og:description": "Discover Chris Carter's grislier, darker Vrach Frankenshteyn cut of The X-Files: I Want to Believe starring Mulder, Scully, and Father Joe."
+      },
+      "twitterCard": {
+        "twitter:title": "The X-Files: I Want to Believe – Vrach Frankenshteyn Cut",
+        "twitter:description": "Check out details on Chris Carter's grislier, darker Vrach Frankenshteyn cut of The X-Files: I Want to Believe."
+      },
+      "metaDescription": "Explore Chris Carter's Vrach Frankenshteyn cut of The X-Files: I Want to Believe, featuring darker tones, grislier gore, and Father Joe's dark visions."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of *The X-Files* franchise and serves as the second feature film following *The X-Files: Fight the Future* (1998) and continuing the storyline of the original television series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "'Vrach Frankenshteyn' is director Chris Carter's darker, grislier cut of *The X-Files: I Want to Believe*, restoring original medical gore and a tone closer to his initial vision.",
+        "question": "What is 'Vrach Frankenshteyn'?"
+      },
+      {
+        "answer": "Yes, like the original theatrical release, there is a short post-credits scene featuring Mulder and Scully rowing a boat in tropical attire toward a remote island.",
+        "question": "Is there a post-credit scene in this release?"
+      },
+      {
+        "answer": "The dominant genre is supernatural thriller and sci-fi mystery, combined with heavy psychological horror and procedural elements.",
+        "question": "What is the dominant genre of this film?"
+      },
+      {
+        "answer": "The primary main characters are former FBI agents Fox Mulder (played by David Duchovny) and Dr. Dana Scully (played by Gillian Anderson).",
+        "question": "Who are the primary main characters?"
+      },
+      {
+        "answer": "Mulder and Scully are recruited by the FBI to help find a missing agent, relying on the unsettling visions of Father Joe, a disgraced priest who claims to have psychic revelations.",
+        "question": "What is the main plot of the film?"
+      },
+      {
+        "answer": "While fan familiarity with Mulder and Scully's relationship adds depth, the movie features a standalone case that does not require extensive knowledge of the television series' alien mythology.",
+        "question": "Do I need to watch the TV show before watching this film?"
+      },
+      {
+        "answer": "This cut restores Carter's original, darker atmospheric tone and features intensified, grislier medical gore that was modified or trimmed for the theatrical PG-13 rating.",
+        "question": "How does the 'Vrach Frankenshteyn' cut differ from the theatrical release?"
+      },
+      {
+        "answer": "The film was directed by Chris Carter, the original creator of *The X-Files* television series.",
+        "question": "Who directed this film?"
+      },
+      {
+        "answer": "No, unlike the first X-Files film, this entry focuses on a standalone monster-of-the-week style crime mystery rather than the overarching alien conspiracy mythology.",
+        "question": "Are alien storylines central to this specific movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Dark, unsettling tone featuring body horror, kidnapping, creepy medical experiments, and psychological distress."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate profanity typical of a dark thriller or TV-14/PG-13 rating."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Grisly medical violence and gore, involving organ harvesting, body modification, and decapitation themes."
+      },
+      "substance": {
+        "score": 4,
+        "description": "References to medical sedatives, anesthetics, and chemical incapacitation used during illegal operations."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content, though dark themes involve implied violations and body exploitation."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Sustained dark and tense atmosphere surrounding kidnappings, crisis of faith, and gruesome discoveries."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 2,
+      "science": 6,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-26 00:01:21.641493",
+    "updated_at": "2026-08-26 00:01:21.641493"
+  }
 }
