@@ -10,8 +10,8 @@
     "budget": "18000000",
     "revenue": "18734382",
     "status": "Released",
-    "popularity": 5.7628,
-    "voteAverage": 8.457,
+    "popularity": 5.5063,
+    "voteAverage": 8.5,
     "voteCount": 46,
     "homepage": "https://icanonlyimagine.com",
     "posterPath": "/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
@@ -360,7 +360,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.457,
+      "ratingValue": 8.5,
       "votesCount": 46
     },
     {
@@ -698,5 +698,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1405769/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1405769,
+    "hash": "9e11ac0dd41ca907a72374e1991237a3e7dfa84f34a4ce1af10ab3d0f42a0b8c",
+    "summary_one_sentence": "Following the success of 'I Can Only Imagine,' MercyMe lead singer Bart Millard must navigate the pressures of fame while confronting lingering past trauma to repair his fragile relationships with his family.",
+    "summary_short": "MercyMe's Bart Millard enjoys massive success after the hit song 'I Can Only Imagine,' filling sold-out arenas across the country. However, the relentless demands of fame and unaddressed past trauma begin to fracture his home life, especially his relationship with his son Sam and wife Shannon. When hopeful musician Tim Timmons joins their major tour, an unlikely friendship forms between the two artists. Through Tim's hidden struggles and resilient perspective, Bart gains the clarity needed to face his past and fight for what truly matters.",
+    "summary_long": "Riding the unprecedented wave of success from their breakout anthem 'I Can Only Imagine,' MercyMe and lead singer Bart Millard reach the pinnacle of the Christian music industry. Despite achieving his professional dreams with sold-out tours and an eager fanbase, Bart secretly struggles under the weight of his old emotional wounds. The strain of constant touring begins to tear at the foundation of his family, deepening a growing rift with his son, Sam, and testing his marriage with Shannon. Seeking fresh inspiration, the band invites vibrant newcomer Tim Timmons to join their largest arena tour to date. Tim's contagious gratitude and unique outlook slowly begin to shift Bart's perspective on life and ministry. However, Bart soon realizes that Tim's joyful exterior conceals deep personal hardships and undisclosed burdens of his own. Witnessing Tim's silent faith in the face of adversity forces Bart to confront his own unresolved past rather than running from it. Ultimately, Bart must step away from the allure of the spotlight to do the difficult work of restoring his bond with Sam and recommitting to his family before fame costs him everything.",
+    "synopsis": "Following the massive success of MercyMe's iconic anthem 'I Can Only Imagine,' frontman Bart Millard finds himself living out his dreams on major arena stages. Yet behind the bright lights and praise, Bart faces a quiet crisis at home, where unhealed scars from his upbringing threaten to tear apart his marriage to Shannon and distance him from his fragile son, Sam. When rising artist Tim Timmons joins the band on their biggest tour yet, an unexpected camaraderie develops. Tim’s uplifting spirit brings much-needed perspective to Bart’s life, but as Tim’s own hidden trials come to light, Bart is challenged to face his deepest vulnerabilities and prioritize his loved ones above his career.",
+    "keywords": [
+      "faith-based drama",
+      "christian music",
+      "father-son relationship",
+      "family reconciliation",
+      "band on tour",
+      "musician life",
+      "healing past trauma",
+      "unlikely friendship",
+      "hidden secrets",
+      "marital struggles",
+      "redemption arc",
+      "price of fame",
+      "gratitude",
+      "biographical drama"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Reconciliation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Faith and Gratitude",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Identity Beyond Fame",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Inspirational",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Tim's secret hardship comes to light, forcing Bart to confront his past head-on and take urgent responsibility for his family before his choices permanently sever his home life.",
+      "conflict": "As Bart navigates the pressures of fame, lingering unresolved issues from his past strain his relationship with his wife Shannon and threaten his bond with Sam.",
+      "resolution": "Bart embraces deeper gratitude and active reconciliation, prioritizing his family above career ambition to rebuild trust with Shannon and Sam.",
+      "introduction": "Following the success of 'I Can Only Imagine', Bart Millard enjoys a flourishing music career, but struggles to maintain a healthy connection with his family, particularly his son Sam.",
+      "risingAction": "Joining MercyMe on tour, newcomer Tim Timmons strikes up an impactful friendship with Bart, bringing newfound perspective while harboring his own hidden personal struggles."
+    },
+    "characters": [
+      {
+        "name": "Bart Millard",
+        "role": "Hero",
+        "description": "The lead singer of MercyMe who faces personal struggles, unresolved past trauma, and family strain amidst his success."
+      },
+      {
+        "name": "Tim Timmons",
+        "role": "Mentor",
+        "description": "A hopeful newcomer whose friendship, gratitude, and shared hardships inspire Bart to confront his past."
+      },
+      {
+        "name": "Sam Millard",
+        "role": "Supporting Character",
+        "description": "Bart's son, with whom Bart shares a fragile bond that he must work to heal and restore."
+      },
+      {
+        "name": "Shannon Millard",
+        "role": "Supporting Character",
+        "description": "Bart's wife, representing the family unit and home life that Bart risks losing to fame."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bart Millard",
+        "target": "Shannon Millard",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Bart Millard",
+        "target": "Sam Millard",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Bart Millard",
+        "target": "Tim Timmons",
+        "description": "Friends/Touring Bandmates"
+      },
+      {
+        "source": "Shannon Millard",
+        "target": "Sam Millard",
+        "description": "Mother/Son"
+      }
+    ],
+    "seo": {
+      "slug": "i-can-only-imagine-2",
+      "jsonLd": {
+        "name": "I Can Only Imagine 2",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most."
+      },
+      "keywords": [
+        "I Can Only Imagine 2",
+        "MercyMe movie",
+        "Bart Millard",
+        "Tim Timmons",
+        "Christian drama movie",
+        "faith-based movie"
+      ],
+      "canonical": "[https://movnix.com/movie/i-can-only-imagine-2](https://movnix.com/movie/i-can-only-imagine-2)",
+      "metaTitle": "I Can Only Imagine 2 - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "I Can Only Imagine 2 - Official Movie Synopsis",
+        "og:description": "Behind the spotlight, Bart Millard must face his past to save his family. Read the full storyline for I Can Only Imagine 2."
+      },
+      "twitterCard": {
+        "twitter:title": "I Can Only Imagine 2 - Official Movie Synopsis",
+        "twitter:description": "Behind the spotlight, Bart Millard must face his past to save his family. Read the full storyline for I Can Only Imagine 2."
+      },
+      "metaDescription": "MercyMe's Bart Millard faces family hardships & unexpected friendship on tour in I Can Only Imagine 2. Discover the story behind the music."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is the sequel to the 2018 hit biographical drama I Can Only Imagine, following the ongoing life journey and career of MercyMe lead singer Bart Millard.",
+        "question": "Is I Can Only Imagine 2 part of a franchise?"
+      },
+      {
+        "answer": "The film is primarily a faith-based biographical drama and musical film focusing on family dynamics, personal reconciliation, and Christian music.",
+        "question": "What is the dominant genre of I Can Only Imagine 2?"
+      },
+      {
+        "answer": "The story follows Bart Millard dealing with the pressure of arena-level fame while trying to repair his relationship with his son Sam and wife Shannon, all while building an impactful friendship with newcomer tourmate Tim Timmons.",
+        "question": "What is the core plot of I Can Only Imagine 2?"
+      },
+      {
+        "answer": "Yes, it is based on the real-life events, relationships, and musical experiences of MercyMe lead singer Bart Millard and fellow Christian musician Tim Timmons.",
+        "question": "Is I Can Only Imagine 2 based on a true story?"
+      },
+      {
+        "answer": "The main characters include Bart Millard, his wife Shannon, his son Sam, and touring musician Tim Timmons.",
+        "question": "Who are the key central characters in the movie?"
+      },
+      {
+        "answer": "Faith-based biopics typically include mid- or post-credit segments showcasing real-life photographs, footage, and updates on the real people portrayed in the film, though feature narrative mid-credit scenes may vary.",
+        "question": "Is there a post-credit scene in I Can Only Imagine 2?"
+      },
+      {
+        "answer": "While I Can Only Imagine 2 introduces new character dynamics like Tim Timmons, watching the first movie provides essential background on Bart Millard's origin story and his relationship with his father.",
+        "question": "Do you need to watch the first movie before watching this sequel?"
+      },
+      {
+        "answer": "The film explores themes of forgiveness, balancing fame with family priorities, coping with secret personal hardships, and finding gratitude through friendship.",
+        "question": "What central themes are explored in I Can Only Imagine 2?"
+      },
+      {
+        "answer": "Tim Timmons joins MercyMe on their biggest tour as a hopeful newcomer whose friendship and hidden struggles inspire Bart to confront his own past and mend his family bonds.",
+        "question": "What role does Tim Timmons play in the story?"
+      },
+      {
+        "answer": "Yes, like its predecessor, it is intended as an inspirational family drama, though it deals with mature themes such as emotional struggles and family tension.",
+        "question": "Is I Can Only Imagine 2 suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or jump scares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no profanity, fitting a family-oriented Christian drama."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence or graphic action scenes."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Mild potential thematic elements or medical/personal hardship discussions; no active drug/alcohol abuse featured."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional themes involving strained family relationships, personal trauma, and coping with hardship."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 4,
+      "science": 0,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-25 16:01:51.782804",
+    "updated_at": "2026-08-25 16:01:51.782804"
+  }
 }
