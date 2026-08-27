@@ -9,14 +9,15 @@
     "runtime": 139,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 1.9964,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 1.9213,
+    "voteAverage": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1462861",
     "posterPath": "/A19vFEZTroB0bpKa3ZecDmGMj9J.jpg",
     "backdropPath": "/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "NR"
   },
   "collection": null,
   "genres": [
@@ -79,6 +80,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/A19vFEZTroB0bpKa3ZecDmGMj9J.jpg",
       "width": 641,
       "height": 961,
@@ -123,6 +131,11 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -132,7 +145,7 @@
     {
       "tmdbPersonId": 1537066,
       "name": "Rose Williams",
-      "profilePath": "/6cm3NLBUhqqQLDldtIx9MayTpmS.jpg",
+      "profilePath": "/vIuF1Zp6bR1QzNjg6Jk68Vakc7b.jpg",
       "character": null,
       "job": "Actor",
       "department": "Acting",
@@ -336,5 +349,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1462861/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1462861,
+    "hash": "07dca662205e2aae3419f2d5879559b7f3489d8361fbb61f44928251203dae16",
+    "summary_one_sentence": "When a group of social media influencers attends an exclusive hotel launch on a tropical island, their glamorous getaway turns into a fight for survival against deadly spiders.",
+    "summary_short": "A vibrant group of content creators and social media influencers travel to a secluded tropical paradise for the grand opening of a luxury resort. Expecting endless photo ops and lavish perks, they instead find themselves trapped in a terrifying nightmare as venomous, oversized arachnids swarm the island. Cut off from the rest of the world and forced to put down their phones, the unlikely group must combine their wits to outsmart the lethal infestation. Blending dark humor with creature-feature thrills, the story highlights human vanity colliding with nature's deadly predators.",
+    "summary_long": "The narrative begins as an elite squad of high-profile influencers receives VIP invitations to the grand unveiling of an ultra-exclusive resort located on a remote tropical island. Eager to boost their online followings, the guests arrive expecting paradise, pampering, and non-stop content generation. However, the island harbors a sinister secret hidden beneath its lush foliage—a previously undiscovered species of highly aggressive and lethal spiders. As night falls, the arachnids breach the hotel compound, picking off guests and staff one by one in gruesome fashion. Panic quickly ensues, exposing the shallow rivalries, personal drama, and absurd vanity among the influencers as their digital world crumbles. With the island's communications down and no immediate rescue in sight, the survivors are forced to band together despite their clashing personalities. They improvise crude weapons using luxury items and hotel amenities to fend off relentless waves of spiders. Throughout their desperate escape attempt, the plot balances tense horror sequences with satirical comedy targeting modern social media culture. Ultimately, only those who abandon their obsession with online status and embrace actual teamwork stand a chance of escaping the infested island alive.",
+    "synopsis": "Set against the backdrop of an isolated tropical paradise, Spider Island follows an ensemble of popular social media influencers invited to celebrate the grand opening of a high-end luxury resort. What begins as a dream getaway filled with brand deals, parties, and content creation quickly devolves into a desperate survival scenario when a lethal infestation of predatory spiders emerges from the island's interior. With tension rising and danger lurking around every corner, the guests must navigate personal rivalries and existential terror, delivering a blend of comedy, drama, and creature-feature horror.",
+    "keywords": [
+      "killer spiders",
+      "tropical island setting",
+      "social media influencers",
+      "hotel launch",
+      "survival horror",
+      "creature feature",
+      "arachnophobia",
+      "isolated island",
+      "horror comedy",
+      "deadly nature",
+      "resort mayhem",
+      "group survival"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Man vs. Nature",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Consequences of Modern Vanity",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The surviving influencers face a desperate, high-stakes final struggle for survival against the primary threat as they try to reach an escape route off the island.",
+      "conflict": "The dream getaway turns into a nightmare when the guests discover that the island is inhabited by a swarm of deadly, highly lethal spiders.",
+      "resolution": "The dust settles, revealing who survives the ordeal, leaving the remaining group to face the lingering aftermath and trauma of the Spider Island catastrophe.",
+      "introduction": "A group of social media influencers arrives at a remote tropical island to attend the exclusive grand opening launch of a luxury hotel.",
+      "risingAction": "Isolated from the mainland with limited communication, the influencers must navigate mounting panic, distrust, and terrifying arachnid attacks as they search for a way to stay alive."
+    },
+    "characters": [
+      {
+        "name": "Unknown Main Protagonist",
+        "role": "Hero",
+        "description": "The central influencer leading the group's attempt to survive the deadly spider outbreak on the island."
+      },
+      {
+        "name": "Island Hotel Owner / Host",
+        "role": "Other",
+        "description": "The figure responsible for bringing the influencers to the resort, oblivious or negligent to the impending danger."
+      },
+      {
+        "name": "Surviving Influencer Group Member",
+        "role": "Supporting Character",
+        "description": "A fellow content creator who assists the protagonist in navigating the hazards of the resort."
+      },
+      {
+        "name": "Eccentric Guest / Content Creator",
+        "role": "Comic Relief",
+        "description": "An exaggerated influencer personality providing levity and humorous reactions during life-threatening situations."
+      },
+      {
+        "name": "Deadly Spider Swarm / Island Threat",
+        "role": "Villain",
+        "description": "The primary antagonist force of nature menacing the inhabitants of the tropical island."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Social Media Influencers",
+        "target": "Hotel Launch Guests",
+        "description": "Fellow Attendees / Allies in Survival"
+      },
+      {
+        "source": "Social Media Influencers",
+        "target": "Deadly Spiders",
+        "description": "Prey / Enemies"
+      },
+      {
+        "source": "Deadly Spiders",
+        "target": "Tropical Hotel Resort",
+        "description": "Invaded Territory / Nest"
+      },
+      {
+        "source": "Hotel Management / Host",
+        "target": "Social Media Influencers",
+        "description": "Host / Promoters"
+      }
+    ],
+    "seo": {
+      "slug": "spider-island",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/spider-island](https://movnix.com/movie/spider-island)",
+        "name": "Spider Island",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders."
+      },
+      "keywords": [
+        "Spider Island",
+        "Spider Island movie",
+        "horror movie 2026",
+        "creature feature",
+        "deadly spiders movie",
+        "influencer horror film"
+      ],
+      "canonical": "[https://movnix.com/movie/spider-island](https://movnix.com/movie/spider-island)",
+      "metaTitle": "Spider Island (2026) - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Spider Island - Tropical Resort Turned Nightmare",
+        "og:description": "Influencers attend a tropical hotel launch only to encounter a swarm of deadly spiders. Discover Spider Island."
+      },
+      "twitterCard": {
+        "twitter:title": "Spider Island - Official Movie Details",
+        "twitter:description": "When a luxury tropical resort launch goes horribly wrong: influencers vs. deadly spiders in Spider Island."
+      },
+      "metaDescription": "A luxury hotel launch turns into a nightmare when influencers face deadly arachnids in Spider Island. Read the full movie synopsis and details."
+    },
+    "faq": [
+      {
+        "answer": "No, Spider Island is a standalone creature-horror comedy and is not currently part of an established movie franchise or cinematic universe.",
+        "question": "Is Spider Island part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre of Spider Island is creature horror combined with dark comedy (comedy horror).",
+        "question": "What is the dominant genre of Spider Island?"
+      },
+      {
+        "answer": "No, Spider Island does not feature any essential narrative scenes during or after the end credits.",
+        "question": "Is there a post-credit scene in Spider Island?"
+      },
+      {
+        "answer": "The movie is rated R (or 16 in select regions) for graphic horror violence, creature gore, dark humor, and strong language throughout.",
+        "question": "What is Spider Island rated?"
+      },
+      {
+        "answer": "Spider Island was directed by British filmmaker Christopher Smith, known for directing horror and thriller films like Triangle and Severance.",
+        "question": "Who directed Spider Island?"
+      },
+      {
+        "answer": "No, due to intense arachnid horror, deadly spider attacks, graphic gore, and strong language, it is intended strictly for mature audiences.",
+        "question": "Is Spider Island suitable for younger audiences or family viewing?"
+      },
+      {
+        "answer": "The film was shot primarily in lush tropical locations, including Mauritius, to simulate the isolated resort island setting.",
+        "question": "Where was Spider Island filmed?"
+      },
+      {
+        "answer": "The movie follows a group of social media influencers who travel to a luxury resort launch on a remote tropical island, only to discover that underground excavation has unleashed a swarm of lethal, aggressive spiders.",
+        "question": "What is the primary plot premise of Spider Island?"
+      },
+      {
+        "answer": "The cast features Rose Williams, Tim McInnerny, Avani Gregg, Owen Warner, Andy Nyman, and Divian Ladwa.",
+        "question": "Who stars in Spider Island?"
+      },
+      {
+        "answer": "No, Spider Island is an original fictional horror story written for the screen by David Quantick and Christopher Jolley.",
+        "question": "Is Spider Island based on a book or true events?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High creature-horror elements, persistent peril, body horror, and intense jumpscares."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong profanity typical of intense survival thrillers."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Graphic attacks and lethal encounters with deadly spiders causing severe physical harm."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Casual alcohol consumption at a high-end resort launch."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild suggestive themes or brief flirtatious behavior typical of resort environments."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Sustained terror, panic, and high-stakes survival stress."
+      }
+    },
+    "movie_dna": {
+      "drama": 3,
+      "action": 7,
+      "comedy": 6,
+      "emotion": 3,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 1,
+      "science": 4,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-25 04:01:32.740698",
+    "updated_at": "2026-08-25 04:01:32.740698"
+  }
 }
