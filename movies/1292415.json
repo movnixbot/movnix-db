@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 23.9631,
-    "voteAverage": 7.016,
-    "voteCount": 125,
+    "popularity": 22.0424,
+    "voteAverage": 7.336,
+    "voteCount": 152,
     "homepage": "https://mock-movie-website.com/movies/1292415",
     "posterPath": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
     "backdropPath": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
@@ -308,6 +308,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/4m6umN3ffroAwFzZnxquGZUxstK.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9AOO3idGuNNvJIB98ppnTo2pqQi.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gCrZhQvWoLQv8sMTZbtczUHPqx1.jpg",
       "width": 2740,
       "height": 1540,
@@ -390,13 +404,27 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wlKxgPj9OQ4sQ4lVduRNS8ubCEi.jpg",
+      "width": 1421,
+      "height": 800,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/iaJDmeAADaf37H9ivURPWJv8UlE.jpg",
+      "width": 1421,
+      "height": 800,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.016,
-      "votesCount": 125
+      "ratingValue": 7.336,
+      "votesCount": 152
     },
     {
       "source": "imdb",
@@ -546,12 +574,30 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 1895348,
+      "name": "Tyler Atkins",
+      "profilePath": "/7xQ1YnvgXDCT9QD9SuVh1HGlvMQ.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1023296,
       "name": "David Frigerio",
       "profilePath": "/cLDgxVLXF0ru1v7eQorT2nxgbHV.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 61763,
+      "name": "Shane Abbess",
+      "profilePath": "/9R098O6dsDI94Ad0q5zDXlK05rx.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -576,24 +622,6 @@
       "tmdbPersonId": 1465559,
       "name": "Brett Thornquest",
       "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1895348,
-      "name": "Tyler Atkins",
-      "profilePath": "/7xQ1YnvgXDCT9QD9SuVh1HGlvMQ.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 61763,
-      "name": "Shane Abbess",
-      "profilePath": "/9R098O6dsDI94Ad0q5zDXlK05rx.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
