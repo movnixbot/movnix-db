@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "71491178",
     "status": "Released",
-    "popularity": 135.4444,
+    "popularity": 119.617,
     "voteAverage": 7.811,
-    "voteCount": 1288,
+    "voteCount": 1309,
     "homepage": "https://www.warnerbros.com/movies/evil-dead-burn",
     "posterPath": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
     "backdropPath": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
@@ -1986,13 +1986,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/lNMeSsVo1BValr1SxTbVBQLHo48.jpg",
-      "width": 500,
-      "height": 750,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/dcSYMDEo97HQdPhwIuMUl6Ez350.jpg",
       "width": 500,
       "height": 750,
@@ -2025,20 +2018,6 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/7pzl8Wi9DUgUZHrdCdTlI4ENqIf.jpg",
-      "width": 636,
-      "height": 950,
-      "aspectRatio": 0.669,
-      "type": "poster"
-    },
-    {
-      "filePath": "/zMINOZnfCxMiyCiTESsFSd3FRRx.jpg",
-      "width": 681,
-      "height": 953,
-      "aspectRatio": 0.715,
       "type": "poster"
     },
     {
@@ -2113,6 +2092,13 @@
     },
     {
       "filePath": "/51kjOAQw2U37RWpyPeUiiN8o2BJ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/89ahopOQAMUyUaHbNKLW7WtHQM2.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -2796,13 +2782,20 @@
       "height": 1608,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/dAf8MyZM4pOphz5ygSiEAscQYbb.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
       "ratingValue": 7.811,
-      "votesCount": 1288
+      "votesCount": 1309
     },
     {
       "source": "crawled",
@@ -3048,7 +3041,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Catchplay",
+          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Apple TV Store",
