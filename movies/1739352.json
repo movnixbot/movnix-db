@@ -186,5 +186,272 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1739352/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1739352,
+    "hash": "5f79ce1a327bf64822910043f85a7ef2b7036b7728c25aa3d8c999271a68382d",
+    "summary_one_sentence": "Determined to uncover the truth behind a chilling village murder, a journalist investigates three conflicting accounts of a woman accused of killing her husband.",
+    "summary_short": "Journalist Aabhas arrives in a quiet village to report on Maya, a woman currently imprisoned for the murder of her husband. As he probes deeper, he encounters widespread fear and reluctance among the locals to speak about her past. Three distinct witnesses—a village drunkard, a secretive neighbor, and a local driver—each offer drastically different versions of Maya's life and marriage. Aabhas must navigate these contradictory narratives to unravel the single common thread linking them: Maya's potential guilt.",
+    "summary_long": "Seeking a compelling story, journalist Aabhas travels to a remote village to cover the mysterious murder of a local man and the arrest of his wife, Maya. Upon his arrival, he quickly realizes that the villagers are terrified of Maya and hesitant to reveal anything about her history. Determined to find the truth, Aabhas first questions Ravdya, a village drunkard, who paints Maya as a tragic victim who was trapped and tormented by a abusive husband. However, her neighbor Gandha presents a completely opposite narrative, describing Maya as a reckless, drug-addicted woman who betrayed a loving partner for a former boyfriend. Adding to the confusion, a local driver claims the couple lived in ideal harmony until Maya's past lover unexpectedly reentered their lives, shattering their peace. Faced with three wildly divergent perspectives ranging from sympathy to outright condemnation, Aabhas finds himself trapped in a web of deceit and subjective memory. As he pieces together each account, he struggles to discern whether Maya is a victim of circumstance, a ruthless killer, or something far more complex. The investigation forces him to look beyond surface-level testimonies as he attempts to solve the central mystery binding all three stories together.",
+    "synopsis": "When journalist Aabhas arrives in a mysterious village to investigate a chilling homicide, he encounters a wall of silence surrounding Maya, a woman incarcerated for murdering her husband. Digging beneath the village's pervasive fear, Aabhas uncovers three wildly contradictory accounts of Maya's character and marriage from a local drunkard, a judgmental neighbor, and a village driver. As victimhood, betrayal, and passion overlap in the testimonies, Aabhas must decipher the truth from conflicting perspectives to solve the central mystery of what really happened.",
+    "keywords": [
+      "unreliable narrator",
+      "multiple perspectives",
+      "Rashomon effect",
+      "investigative journalist",
+      "murder mystery",
+      "village setting",
+      "small town secrets",
+      "conflicting testimonies",
+      "marital murder",
+      "past lover",
+      "infidelity",
+      "dark secrets",
+      "psychological thriller",
+      "truth vs deception"
+    ],
+    "themes": [
+      {
+        "theme": "Subjective Truth and Rashomon Effect",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Deception and Betrayal",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Marital Dysfunction and Abuse",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Secrets and Hidden Past",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.9
+      }
+    ],
+    "story_structure": {
+      "climax": "Aabhas synthesizes the conflicting stories to confront the central, elusive truth connecting all three versions: what actually triggered the fatal event between Maya and her husband.",
+      "conflict": "Aabhas attempts to uncover the truth behind Maya's arrest, but finds himself trapped in a maze of contradictory testimonies and silent fear from the villagers.",
+      "resolution": "The reality of Maya's story is unraveled, exposing the motives and village secrets buried beneath the competing narratives.",
+      "introduction": "Journalist Aabhas arrives in a quiet village to investigate a chilling crime: the murder of a man allegedly committed by his wife, Maya, a woman the locals are terrified to speak about.",
+      "risingAction": "As Aabhas interviews three key witnesses—a village drunkard claiming systemic abuse, a neighbor portraying Maya as a deceitful addict, and a local driver describing a happy marriage destroyed by an ex-lover—each wildly different account complicates the case while cementing Maya as the prime suspect."
+    },
+    "characters": [
+      {
+        "name": "Aabhas",
+        "role": "Hero",
+        "description": "A journalist who arrives in the village to investigate and uncover the truth behind the chilling story."
+      },
+      {
+        "name": "Maya",
+        "role": "Other",
+        "description": "The central suspect arrested for killing her husband, surrounded by conflicting accounts of her past and true nature."
+      },
+      {
+        "name": "Maya's Husband",
+        "role": "Supporting Character",
+        "description": "The victim of the crime whose relationship dynamic with Maya varies across different villagers' stories."
+      },
+      {
+        "name": "Ravdya",
+        "role": "Supporting Character",
+        "description": "A local drunkard who acts as an informant, claiming Maya was an abused victim."
+      },
+      {
+        "name": "Gandha",
+        "role": "Supporting Character",
+        "description": "A neighbor who portrays Maya in a negative light as a drug addict who cheated on her caring husband."
+      },
+      {
+        "name": "Village Driver",
+        "role": "Supporting Character",
+        "description": "A local driver who claims Maya and her husband were happy until her past lover returned."
+      },
+      {
+        "name": "Past Lover",
+        "role": "Supporting Character",
+        "description": "Maya's former boyfriend whose reappearance reportedly disrupted her marriage."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Aabhas",
+        "target": "Maya",
+        "description": "Investigator / Subject of story"
+      },
+      {
+        "source": "Aabhas",
+        "target": "Ravdya",
+        "description": "Interviewer / Informant"
+      },
+      {
+        "source": "Aabhas",
+        "target": "Gandha",
+        "description": "Interviewer / Informant"
+      },
+      {
+        "source": "Aabhas",
+        "target": "Village Driver",
+        "description": "Interviewer / Informant"
+      },
+      {
+        "source": "Maya",
+        "target": "Husband",
+        "description": "Wife / Alleged Victim (Husband)"
+      },
+      {
+        "source": "Maya",
+        "target": "Past Lover",
+        "description": "Ex-Partners / Secret Lovers"
+      },
+      {
+        "source": "Gandha",
+        "target": "Maya",
+        "description": "Neighbors"
+      },
+      {
+        "source": "Ravdya",
+        "target": "Maya",
+        "description": "Villager / Informant on her past"
+      },
+      {
+        "source": "Village Driver",
+        "target": "Maya",
+        "description": "Villager / Witness to her marriage"
+      }
+    ],
+    "seo": {
+      "slug": "bol-bol-rani",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/bol-bol-rani](https://movnix.com/movie/bol-bol-rani)",
+        "name": "Bol Bol Rani",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A journalist arrives in a village to investigate a murder case involving Maya, only to discover three completely different versions of the truth from local villagers."
+      },
+      "keywords": [
+        "Bol Bol Rani",
+        "Bol Bol Rani movie plot",
+        "Bol Bol Rani synopsis",
+        "Maya murder mystery",
+        "Bol Bol Rani movie overview",
+        "journalism thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/bol-bol-rani](https://movnix.com/movie/bol-bol-rani)",
+      "metaTitle": "Bol Bol Rani Movie Synopsis & Plot Breakdown | Movnix",
+      "openGraph": {
+        "og:title": "Bol Bol Rani - What is the Real Truth Behind Maya's Story?",
+        "og:description": "Three witnesses, three conflicting tales, and one murdered husband. Unravel the mystery of Bol Bol Rani."
+      },
+      "twitterCard": {
+        "twitter:title": "Bol Bol Rani - Thriller & Mystery Movie",
+        "twitter:description": "A journalist dives deep into a chilling murder mystery where nobody's story adds up. Explore Bol Bol Rani."
+      },
+      "metaDescription": "A journalist uncovers conflicting stories about Maya, a woman accused of murdering her husband. Discover the truth behind Bol Bol Rani."
+    },
+    "faq": [
+      {
+        "answer": "The story follows Aabhas, a journalist who visits a village to investigate Maya, a woman arrested for murdering her husband. As he digs deeper, three villagers offer completely conflicting accounts of Maya's character and her marriage, leaving him to uncover the truth.",
+        "question": "What is the core plot of Bol Bol Rani?"
+      },
+      {
+        "answer": "The central theme is subjective truth and the 'Rashomon effect,' where multiple perspectives present vastly different versions of the same event and the people involved.",
+        "question": "What is the primary theme of the film?"
+      },
+      {
+        "answer": "The film's dominant genres are psychological thriller, mystery, and crime drama.",
+        "question": "What is the dominant genre of Bol Bol Rani?"
+      },
+      {
+        "answer": "The primary protagonist driving the story is Aabhas, the investigative journalist attempting to uncover what really happened between Maya and her husband.",
+        "question": "Who is the main protagonist in Bol Bol Rani?"
+      },
+      {
+        "answer": "No, Bol Bol Rani is a standalone mystery thriller and is not part of an established cinematic universe or franchise.",
+        "question": "Is Bol Bol Rani part of an existing movie franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The full story and resolution are contained within the main runtime of the film.",
+        "question": "Is there a post-credits scene in Bol Bol Rani?"
+      },
+      {
+        "answer": "Each witness views Maya through their own biases and limited knowledge: Ravdya sees a victim of abuse, Gandha sees an unfaithful addict, and the local driver sees a once-happy marriage disrupted by a former lover.",
+        "question": "Why do the villagers' stories about Maya contradict each other?"
+      },
+      {
+        "answer": "The film contains heavy themes involving murder, domestic violence allegations, infidelity, and substance abuse, making it intended for mature audiences.",
+        "question": "Is Bol Bol Rani suitable for all audiences?"
+      },
+      {
+        "answer": "While all three villagers' accounts point to Maya as the key suspect in her husband's death, the central mystery revolves around uncovering her true motive and the exact circumstances of the crime.",
+        "question": "Does the story confirm whether Maya actually killed her husband?"
+      },
+      {
+        "answer": "The movie takes place primarily in a remote village where the local community lives in fear of speaking openly about Maya and the murder.",
+        "question": "Where does the narrative of Bol Bol Rani take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Chilling story setup with psychological mystery and dark, fear-inducing rumors."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild potential for thematic crude language given the character descriptions."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Mentions of torture, caging, domestic abuse, and the murder of a spouse."
+      },
+      "substance": {
+        "score": 5,
+        "description": "References to alcoholism (drunkard character) and drug addiction."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Thematic elements involving infidelity and an extramarital affair."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by themes of murder, spousal torture, betrayal, and conflicting accounts."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 5,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-27 20:03:38.2239",
+    "updated_at": "2026-08-27 20:03:38.2239"
+  }
 }
