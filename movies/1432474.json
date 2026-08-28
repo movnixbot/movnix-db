@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.5746,
+    "popularity": 5.7469,
     "voteAverage": 7.2,
     "voteCount": 8,
     "homepage": "https://nimrodsmovie.com",
@@ -177,13 +177,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/6FSEXE19MB7UUpfPpExDihDhjdo.jpg",
-      "width": 800,
-      "height": 1200,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg",
       "width": 1477,
       "height": 2215,
@@ -257,6 +250,13 @@
       "filePath": "/qiauJhpy13Z6SrUAFGNmHSAYUOl.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/x1TGAYQWY2be0MnUwUXrTKFU6Z8.jpg",
+      "width": 1005,
+      "height": 1507,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -425,6 +425,11 @@
       "source": "imdb",
       "ratingValue": 7.7,
       "votesCount": 147
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 72,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -682,7 +687,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
