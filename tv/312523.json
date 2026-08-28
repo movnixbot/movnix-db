@@ -8,11 +8,11 @@
     "firstAirDate": "2026-08-20",
     "lastAirDate": "2026-08-20",
     "status": "Returning Series",
-    "popularity": 20.083,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 29.2595,
+    "voteAverage": 7.25,
+    "voteCount": 4,
     "type": "Scripted",
-    "posterPath": "/2b1VtZeMXXYCq8MnI4ETWyx2Orx.jpg",
+    "posterPath": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
     "backdropPath": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
     "certification": "TV-MA"
   },
@@ -46,7 +46,7 @@
               "known_for_department": "Directing",
               "name": "Shogo Kusano",
               "original_name": "草野翔吾",
-              "popularity": 0.455,
+              "popularity": 0.7717,
               "profile_path": "/gA4GQWCZblWKX42tSY9JkBJGkvg.jpg"
             }
           ],
@@ -203,7 +203,7 @@
   ],
   "images": [
     {
-      "filePath": "/2b1VtZeMXXYCq8MnI4ETWyx2Orx.jpg",
+      "filePath": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -215,6 +215,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+      "width": 600,
+      "height": 900,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/pxMfWKFJI33PNyVQu0cxX8yqta7.jpg",
@@ -252,13 +259,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-      "width": 600,
-      "height": 900,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
       "width": 1561,
       "height": 878,
@@ -292,9 +292,22 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/oPyPJBFV5GExlpzNbJLLs0lg5uu.jpg",
+      "width": 1463,
+      "height": 823,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7.25,
+      "votesCount": 4
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 1434084,
@@ -407,8 +420,38 @@
   ],
   "alternativeTitles": [
     {
+      "iso_3166_1": "FR",
+      "title": "S&X",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "GB",
+      "title": "S&X",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "JP",
+      "title": "S and X",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "JP",
+      "title": "SとX",
+      "type": ""
+    },
+    {
       "iso_3166_1": "KR",
-      "title": "S와 X",
+      "title": "S&X",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "TW",
+      "title": "S&X",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "S&X",
       "type": ""
     }
   ],
@@ -421,11 +464,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
