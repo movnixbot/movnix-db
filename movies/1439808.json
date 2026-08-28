@@ -10,9 +10,9 @@
     "budget": "5000000",
     "revenue": "20669003",
     "status": "Released",
-    "popularity": 3.1683,
-    "voteAverage": 8.9,
-    "voteCount": 14,
+    "popularity": 13.9778,
+    "voteAverage": 8.947,
+    "voteCount": 19,
     "homepage": "https://bleeckerstreetmedia.com/hadestown-the-musical",
     "posterPath": "/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
     "backdropPath": "/n2Lx80fUrEp8OZOjfBNx0a7d37u.jpg",
@@ -120,6 +120,13 @@
     },
     {
       "filePath": "/zP7WrLfNcIkSUWNz7hVcmVgPJu1.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pe3AUxT8n3Le2HepzwCoJsYFYU2.jpg",
       "width": 1000,
       "height": 1500,
       "aspectRatio": 0.667,
@@ -255,6 +262,20 @@
       "filePath": "/2li7BGcYiCBZ4f6ojm23qOE7tHZ.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/16E6bEfHetK80UGZDBKiWxCpVgB.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4RJWIHwZoPkI0AGKkiQA568PtZF.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -404,13 +425,27 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/1cEvtHEKz95tQoD76UaRyyXJW4b.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4N14WjC56oStqnkbZ2PYmTgrrfK.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.9,
-      "votesCount": 14
+      "ratingValue": 8.947,
+      "votesCount": 19
     },
     {
       "source": "imdb",
@@ -617,7 +652,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
