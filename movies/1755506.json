@@ -2,19 +2,19 @@
   "movie": {
     "tmdbId": 1755506,
     "imdbId": null,
-    "title": "Meu Nome é Eneas",
-    "originalTitle": "Meu Nome é Eneas",
+    "title": "Meu Nome é Enéas: Muito Além dos 15 Segundos",
+    "originalTitle": "Meu Nome é Enéas: Muito Além dos 15 Segundos",
     "overview": "Mock movie description parsed from html scraper page.",
     "releaseDate": "2026-08-01",
     "runtime": 139,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.1514,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.8692,
+    "voteAverage": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1755506",
-    "posterPath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
+    "posterPath": "/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg",
     "backdropPath": "/57K9WtvxoduSJ0zp6d2ha0BvfeX.jpg",
     "collectionId": null,
     "certification": "16"
@@ -42,7 +42,7 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
+      "filePath": "/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -54,6 +54,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg",
+      "width": 767,
+      "height": 1150,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/r8CDPezvQxumhj1715Rq4wmTt4i.jpg",
@@ -72,12 +79,26 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
     }
   ],
   "credits": [
+    {
+      "tmdbPersonId": 4765270,
+      "name": "Enéas Carneiro",
+      "profilePath": null,
+      "character": "Imagens de arquivo",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
     {
       "tmdbPersonId": 6001370,
       "name": "Renato Dias",
