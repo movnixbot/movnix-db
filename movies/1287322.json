@@ -10,9 +10,9 @@
     "budget": "15000000",
     "revenue": "2343418",
     "status": "Released",
-    "popularity": 5.2271,
-    "voteAverage": 7.163,
-    "voteCount": 202,
+    "popularity": 10.0791,
+    "voteAverage": 7.07,
+    "voteCount": 222,
     "homepage": "https://christy.movie",
     "posterPath": "/fDsxBOmBFL57QtKM9kTJ3AQU8lD.jpg",
     "backdropPath": "/lD8AzRc21Y19IstxSuNEpifoLKo.jpg",
@@ -270,6 +270,13 @@
       "filePath": "/vaNRTob7SoBBfTQp120XpkEuQ4X.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/crqI0FEMT2UI1GkrYPlthMf5hB1.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -554,6 +561,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/flHYXmctIEFF8WzKePep7m9G5JS.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lD8AzRc21Y19IstxSuNEpifoLKo.jpg",
       "width": 3840,
       "height": 2160,
@@ -697,8 +711,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.163,
-      "votesCount": 202
+      "ratingValue": 7.07,
+      "votesCount": 222
     },
     {
       "source": "imdb",
@@ -857,8 +871,8 @@
       "name": "David Michôd",
       "profilePath": "/quitkLI98GpeMaqZI4ZSy8s9YWX.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -871,27 +885,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 115440,
-      "name": "Sydney Sweeney",
-      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1023141,
-      "name": "Brent Stiefel",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1080589,
-      "name": "Teddy Schwarzman",
-      "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+      "tmdbPersonId": 114334,
+      "name": "David Michôd",
+      "profilePath": "/quitkLI98GpeMaqZI4ZSy8s9YWX.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -907,12 +903,30 @@
       "order": null
     },
     {
-      "tmdbPersonId": 114334,
-      "name": "David Michôd",
-      "profilePath": "/quitkLI98GpeMaqZI4ZSy8s9YWX.jpg",
+      "tmdbPersonId": 1023141,
+      "name": "Brent Stiefel",
+      "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 115440,
+      "name": "Sydney Sweeney",
+      "profilePath": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1080589,
+      "name": "Teddy Schwarzman",
+      "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -962,10 +976,6 @@
         {
           "name": "HBO Max Amazon Channel",
           "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
         },
         {
           "name": "HBO Max",
