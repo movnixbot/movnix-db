@@ -10,9 +10,9 @@
     "budget": "6000000",
     "revenue": "1403346",
     "status": "Released",
-    "popularity": 10.2663,
-    "voteAverage": 7.217,
-    "voteCount": 23,
+    "popularity": 9.8823,
+    "voteAverage": 7,
+    "voteCount": 24,
     "homepage": "https://amziahking.film/",
     "posterPath": "/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
     "backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
@@ -151,6 +151,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/edjurzIupoqnRvx5NW6itlCIqYJ.jpg",
+      "width": 1188,
+      "height": 1783,
+      "aspectRatio": 0.666,
       "type": "poster"
     },
     {
@@ -308,6 +315,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/fvb5iGLB9XEcjAZu6RRW1bxO1im.jpg",
+      "width": 1371,
+      "height": 2057,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
       "width": 1920,
       "height": 1080,
@@ -437,8 +451,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.217,
-      "votesCount": 23
+      "ratingValue": 7,
+      "votesCount": 24
     },
     {
       "source": "imdb",
@@ -597,6 +611,24 @@
       "name": "Andrew Patterson",
       "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2186238,
+      "name": "Andrew Patterson",
+      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1619915,
+      "name": "Will Greenfield",
+      "profilePath": null,
+      "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
@@ -620,36 +652,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2213707,
-      "name": "Michael Heimler",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2186238,
-      "name": "Andrew Patterson",
-      "profilePath": "/ahVxlGaL5SdXmeRXOGYpzRb16MU.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1619915,
-      "name": "Will Greenfield",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1080589,
       "name": "Teddy Schwarzman",
       "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2213707,
+      "name": "Michael Heimler",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
