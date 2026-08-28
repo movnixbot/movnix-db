@@ -10,7 +10,7 @@
     "budget": "3735296",
     "revenue": "2081503",
     "status": "Released",
-    "popularity": 6.1788,
+    "popularity": 5.8692,
     "voteAverage": 6.58,
     "voteCount": 75,
     "homepage": "https://www.palacefilms.com.au/romeria",
@@ -558,21 +558,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 984027,
-      "name": "María Zamora",
-      "profilePath": "/gfvkYj2xFYixVGLrxcqvH10ksga.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1748697,
       "name": "Carla Simón",
       "profilePath": "/ohNupdUgeQ0XeqOxssNLHxD11Nm.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 984027,
+      "name": "María Zamora",
+      "profilePath": "/gfvkYj2xFYixVGLrxcqvH10ksga.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
@@ -696,5 +696,211 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1182861/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1182861,
+    "hash": "7d0a17becba3a3ae2b40b6bfd78630ce685644bbb0874da1284cb9ff7abb37c4",
+    "summary_one_sentence": "Guided by her mother's diary, Marina travels to the Atlantic coast to obtain official university paperwork, only to uncover deeply buried secrets about her biological family.",
+    "summary_short": "Marina embarks on a journey to the Atlantic coast intending to fulfill a routine administrative requirement for her university education. Armed with her late mother's personal diary, she hopes to locate her biological relatives and secure the necessary legal documents. However, her arrival unearths a tangled web of long-hidden family secrets and unresolved past conflicts. As she digs deeper, Marina is forced to confront difficult truths about her heritage and the true history of her lineage.",
+    "summary_long": "Marina is a young woman preparing for university when she encounters a bureaucratic hurdle requiring official documentation from her biological family. Her only lead is her mother's intimate personal diary, which points her toward a quiet coastal community along the Atlantic. Leaving her familiar surroundings behind, she travels to the region in search of answers and the paperwork necessary to secure her academic future. Upon locating her estranged relatives, Marina discovers a guarded household burdened by years of silent grievances and hidden truths. While attempting to navigate the complex family dynamic, her mother's diary begins to shed light on painful events that original family members actively tried to suppress. The contrast between her mother's written memories and the family's guarded behavior forces Marina to ask uncomfortable questions. As local ties and distant memories collide, she slowly pieces together the circumstances surrounding her mother's departure and her own origin. The administrative task transforms into an emotional reckoning as Marina negotiates her place among relatives who view her presence as a reminder of the past. Ultimately, her quest forces the family to confront their shared history, forever altering Marina's understanding of identity and belonging.",
+    "synopsis": "When a simple requirement for official university documents leads Marina to her mother's personal diary, she sets off for the Atlantic coast to track down her biological family. Expecting a quick administrative errand, Marina instead finds herself amidst an estranged household haunted by past decisions and buried truths. As she attempts to navigate the fragile dynamics of her newly discovered relatives, her mother's written words serve as a compass through a maze of hidden memories and unspoken tensions. Romería is a poignant drama exploring the weight of family heritage, the Search for identity, and the lingering legacy of secrets passed down through generations.",
+    "keywords": [
+      "family secrets",
+      "biological family",
+      "mother's diary",
+      "search for roots",
+      "identity discovery",
+      "Atlantic coast",
+      "coastal setting",
+      "administrative quest",
+      "estrangement",
+      "ancestry",
+      "hidden history",
+      "reconnecting",
+      "character-driven",
+      "coming of age"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Belonging",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Secrets & Revelation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Grief & Memory",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Mysterious",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Introspective",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical discovery connects the diary's revelations directly to her family's present circumstances, bringing the central secret into full view and forcing a decisive confrontation with the truth.",
+      "conflict": "As Marina begins asking questions, her administrative task collides with her family's unspoken past, forcing her to confront an atmosphere of silence and hidden histories.",
+      "resolution": "With the hidden history exposed, Marina integrates her discoveries about her lineage, altering her sense of identity as she prepares for her next chapter.",
+      "introduction": "Marina sets out for her biological family's home on the Atlantic coast, carrying her mother's diary under the guise of collecting necessary university paperwork.",
+      "risingAction": "Guided by entries in the diary, Marina uncovers persistent discrepancies between her family's accounts and historical records, steadily unearthing long-buried secrets."
+    },
+    "characters": [
+      {
+        "name": "Marina",
+        "role": "Hero",
+        "description": "The protagonist who embarks on a journey to find her biological family and discover long-buried secrets."
+      },
+      {
+        "name": "Marina's Mother",
+        "role": "Mentor",
+        "description": "Though present primarily through her diary, her written words guide Marina on her quest for truth."
+      },
+      {
+        "name": "Biological Family Members",
+        "role": "Supporting Character",
+        "description": "The relatives on the Atlantic coast whose hidden past and shared history shape the resolution of the story."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marina",
+        "target": "Mother",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Marina",
+        "target": "Biological Family",
+        "description": "Estranged Family"
+      }
+    ],
+    "seo": {
+      "slug": "romeria",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/romeria](https://movnix.com/movie/romeria)",
+        "name": "Romería",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets."
+      },
+      "keywords": [
+        "Romería movie",
+        "Romería film synopsis",
+        "Romería 2025",
+        "Marina Romería drama",
+        "Spanish film Romería"
+      ],
+      "canonical": "[https://movnix.com/movie/romeria](https://movnix.com/movie/romeria)",
+      "metaTitle": "Romería (2025) - Movie Overview & Storyline | Movnix",
+      "openGraph": {
+        "og:title": "Romería - Official Synopsis & Movie Details",
+        "og:description": "Marina's administrative quest turns into a journey of unearthing long-buried family secrets on the Atlantic coast."
+      },
+      "twitterCard": {
+        "twitter:title": "Romería - Official Synopsis & Movie Details",
+        "twitter:description": "Marina's administrative quest turns into a journey of unearthing long-buried family secrets on the Atlantic coast."
+      },
+      "metaDescription": "Marina travels to Spain's Atlantic coast following her mother's diary, uncovering buried family secrets in Romería. Watch trailer & read full synopsis."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Marina, who travels to the Atlantic coast with her mother's diary to collect official documents for her university application, only to uncover long-buried biological family secrets along the way.",
+        "question": "What is Romería about?"
+      },
+      {
+        "answer": "The film is primarily a drama with elements of mystery and coming-of-age story.",
+        "question": "What is the dominant genre of Romería?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not part of an existing franchise or cinematic universe.",
+        "question": "Is Romería part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the main credits roll.",
+        "question": "Is there a post-credits scene in Romería?"
+      },
+      {
+        "answer": "The story incorporates deeply personal and semi-autobiographical themes regarding family memory, but it functions as an original narrative screenplay.",
+        "question": "Is Romería based on a true story or a novel?"
+      },
+      {
+        "answer": "The protagonist is Marina, a young woman embarking on a journey to reconnect with her biological family roots.",
+        "question": "Who is the protagonist of the film?"
+      },
+      {
+        "answer": "The narrative takes place predominantly along the scenic Atlantic coast.",
+        "question": "Where is the main setting of the story?"
+      },
+      {
+        "answer": "Her search is initially triggered by a practical administrative need for official university documents, guided by her late mother's diary.",
+        "question": "What triggers Marina's journey to find her biological family?"
+      },
+      {
+        "answer": "Key themes include identity, family secrets, the burden of history, memory, and personal reconciliation.",
+        "question": "What are the key themes explored in Romería?"
+      },
+      {
+        "answer": "It is intended for mature audiences who enjoy character-driven dramas, as it deals with sensitive emotional family revelations.",
+        "question": "Is Romería suitable for general audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening themes."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no profanity implied in a dramatic search for family secrets."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or physical conflict is mentioned."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference to drugs or alcohol indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or references are indicated."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity involving unearthing buried family secrets and biological roots."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 2,
+      "science": 0,
+      "suspense": 6,
+      "violence": 1
+    },
+    "created_at": "2026-08-27 07:01:44.299653",
+    "updated_at": "2026-08-27 07:01:44.299653"
+  }
 }
