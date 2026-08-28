@@ -8,7 +8,7 @@
     "firstAirDate": "2026-03-15",
     "lastAirDate": "2026-03-29",
     "status": "Returning Series",
-    "popularity": 8.844,
+    "popularity": 8.8693,
     "voteAverage": 8.2,
     "voteCount": 43,
     "type": "Scripted",
@@ -17,6 +17,77 @@
     "certification": null
   },
   "seasons": [
+    {
+      "_id": "6a8ca9d135aac64f61b3f339",
+      "air_date": null,
+      "episodes": [
+        {
+          "air_date": null,
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 7734123,
+          "name": "Episode 1",
+          "overview": "",
+          "production_code": "",
+          "runtime": 30,
+          "season_number": 0,
+          "show_id": 273866,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": null,
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7734124,
+          "name": "Episode 2",
+          "overview": "",
+          "production_code": "",
+          "runtime": 30,
+          "season_number": 0,
+          "show_id": 273866,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": null,
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7734125,
+          "name": "Episode 3",
+          "overview": "",
+          "production_code": "",
+          "runtime": 30,
+          "season_number": 0,
+          "show_id": 273866,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Specials",
+      "networks": [
+        {
+          "id": 8800,
+          "logo_path": null,
+          "name": "British Broadcasting Corporation (BBC): United Kingdom",
+          "origin_country": ""
+        }
+      ],
+      "overview": "",
+      "id": 538514,
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
     {
       "_id": "6706828b003c9214a0b3c166",
       "air_date": "2026-03-15",
@@ -33,8 +104,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/z2bAbgP3kdJMfyrto1PjJKgKVfq.jpg",
-          "vote_average": 7,
-          "vote_count": 9,
+          "vote_average": 7.3,
+          "vote_count": 10,
           "crew": [
             {
               "job": "Writer",
@@ -46,7 +117,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -59,7 +130,7 @@
               "known_for_department": "Production",
               "name": "John Pocock",
               "original_name": "John Pocock",
-              "popularity": 0.2404,
+              "popularity": 0.3942,
               "profile_path": null
             },
             {
@@ -72,7 +143,7 @@
               "known_for_department": "Directing",
               "name": "Jennifer Sheridan",
               "original_name": "Jennifer Sheridan",
-              "popularity": 0.2458,
+              "popularity": 0.4952,
               "profile_path": "/7xrJAYlfwR5dgwDXL5a4kWmQCib.jpg"
             },
             {
@@ -85,7 +156,7 @@
               "known_for_department": "Production",
               "name": "Kate Crowther",
               "original_name": "Kate Crowther",
-              "popularity": 0.3057,
+              "popularity": 0.2707,
               "profile_path": null
             },
             {
@@ -98,7 +169,7 @@
               "known_for_department": "Sound",
               "name": "Anne Chmelewsky",
               "original_name": "Anne Chmelewsky",
-              "popularity": 0.3229,
+              "popularity": 0.4394,
               "profile_path": null
             },
             {
@@ -111,23 +182,231 @@
               "known_for_department": "Camera",
               "name": "Luke Bryant",
               "original_name": "Luke Bryant",
-              "popularity": 0.2563,
+              "popularity": 0.2677,
               "profile_path": null
             }
           ],
           "guest_stars": [
             {
-              "character": "Mr. Bennet",
-              "credit_id": "69e872d6926b824f71c01238",
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
               "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Jane Bingley / Jane Bennet",
+              "credit_id": "6a8f1b7534e786815831bc1d",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 5499064,
+              "known_for_department": "Acting",
+              "name": "Maddie Close",
+              "original_name": "Maddie Close",
+              "popularity": 0.5785,
+              "profile_path": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg"
+            },
+            {
+              "character": "Elizabeth Darcy / Elizabeth Bennet",
+              "credit_id": "6a8f1b94ee8ae8e94c58f402",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2412653,
+              "known_for_department": "Acting",
+              "name": "Poppy Gilbert",
+              "original_name": "Poppy Gilbert",
+              "popularity": 1.2872,
+              "profile_path": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg"
+            },
+            {
+              "character": "Kitty Buncock / Kitty Bennet",
+              "credit_id": "6a8f1bb0c6c6c0078cd4f7d4",
+              "order": 505,
+              "adult": false,
+              "gender": 1,
+              "id": 1677040,
+              "known_for_department": "Acting",
+              "name": "Molly Wright",
+              "original_name": "Molly Wright",
+              "popularity": 0.5763,
+              "profile_path": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg"
+            },
+            {
+              "character": "Lydia Wickham / Lydia Bennet",
+              "credit_id": "6a8f1be2cf0e84c7e1a61c7f",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 1537087,
+              "known_for_department": "Acting",
+              "name": "Grace Hogg-Robinson",
+              "original_name": "Grace Hogg-Robinson",
+              "popularity": 1.0221,
+              "profile_path": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg"
+            },
+            {
+              "character": "Charlotte Collins / Charlotte Lucas",
+              "credit_id": "6a8f2b447874b8a20664d044",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 3924112,
+              "known_for_department": "Acting",
+              "name": "Anna Fenton-Garvey",
+              "original_name": "Anna Fenton-Garvey",
+              "popularity": 0.3333,
+              "profile_path": "/4uNQaOboJlzsaFYEZvtrE9RkmY.jpg"
+            },
+            {
+              "character": "Mrs. Hill",
+              "credit_id": "6a8f2ba8d1e656b275021d2f",
+              "order": 513,
+              "adult": false,
+              "gender": 1,
+              "id": 1214779,
+              "known_for_department": "Acting",
+              "name": "Lucy Briers",
+              "original_name": "Lucy Briers",
+              "popularity": 1.3177,
+              "profile_path": "/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+            },
+            {
+              "character": "Mr. Hurst",
+              "credit_id": "6a8f2bc69f12cf90b117e1c5",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 3166907,
+              "known_for_department": "Acting",
+              "name": "Fergus Craig",
+              "original_name": "Fergus Craig",
+              "popularity": 0.6494,
+              "profile_path": "/j6Wft1bUQKuuwGu2YJ5RAOjlgTq.jpg"
+            },
+            {
+              "character": "Mr. Fitzwilliam Darcy",
+              "credit_id": "6a8f2c23437f6bb451cb06f4",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 6132396,
+              "known_for_department": "Acting",
+              "name": "Victor Pilard",
+              "original_name": "Victor Pilard",
+              "popularity": 1.0728,
+              "profile_path": null
+            },
+            {
+              "character": "Mr. Bennet",
+              "credit_id": "6a8f2c3303deaf2641b51771",
+              "order": 516,
               "adult": false,
               "gender": 2,
               "id": 20766,
               "known_for_department": "Acting",
               "name": "Richard E. Grant",
               "original_name": "Richard E. Grant",
-              "popularity": 2.3147,
-              "profile_path": "/720dpCjuN5cEYFn43GwzZqXtpWv.jpg"
+              "popularity": 3.2468,
+              "profile_path": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+            },
+            {
+              "character": "John Sparrow",
+              "credit_id": "6a8f2c66de9df0616317e1c8",
+              "order": 517,
+              "adult": false,
+              "gender": 0,
+              "id": 6032188,
+              "known_for_department": "Acting",
+              "name": "Aaron Gill",
+              "original_name": "Aaron Gill",
+              "popularity": 0.392,
+              "profile_path": "/lapzn0DyqKqKpNdwWgI2pNWTJrR.jpg"
+            },
+            {
+              "character": "Mr. Charles Bingley",
+              "credit_id": "6a8f2cda49233e75401e88d5",
+              "order": 518,
+              "adult": false,
+              "gender": 2,
+              "id": 3911594,
+              "known_for_department": "Directing",
+              "name": "Aled Owen",
+              "original_name": "Aled Owen",
+              "popularity": 0.4875,
+              "profile_path": "/4pKQ46uwZ7GB0fkUCbSNsMbuhsT.jpg"
+            },
+            {
+              "character": "Lady Lucas",
+              "credit_id": "6a8f2cf4bcfaf0b3d1878129",
+              "order": 519,
+              "adult": false,
+              "gender": 1,
+              "id": 1487758,
+              "known_for_department": "Acting",
+              "name": "Claire Cage",
+              "original_name": "Claire Cage",
+              "popularity": 0.6746,
+              "profile_path": null
+            },
+            {
+              "character": "Sir William Lucas",
+              "credit_id": "6a8f2d15bcfaf0b3d1878130",
+              "order": 520,
+              "adult": false,
+              "gender": 2,
+              "id": 2181863,
+              "known_for_department": "Acting",
+              "name": "Seán Carlsen",
+              "original_name": "Seán Carlsen",
+              "popularity": 0.5089,
+              "profile_path": "/6lg0onoknTS5e2lu866kKKchFMP.jpg"
+            },
+            {
+              "character": "Dancer",
+              "credit_id": "6a8f2d3201826b69f7878179",
+              "order": 521,
+              "adult": false,
+              "gender": 1,
+              "id": 1742654,
+              "known_for_department": "Acting",
+              "name": "Jane Fowler",
+              "original_name": "Jane Fowler",
+              "popularity": 0.8491,
+              "profile_path": "/abCPKxFI9X3JuPPuZhwIERFtpBk.jpg"
             }
           ]
         },
@@ -143,8 +422,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/6INhtv9nKiEWI4AKszPwIkJmpgS.jpg",
-          "vote_average": 7.4,
-          "vote_count": 7,
+          "vote_average": 7.8,
+          "vote_count": 8,
           "crew": [
             {
               "job": "Writer",
@@ -156,7 +435,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -169,7 +448,7 @@
               "known_for_department": "Production",
               "name": "John Pocock",
               "original_name": "John Pocock",
-              "popularity": 0.2404,
+              "popularity": 0.3942,
               "profile_path": null
             },
             {
@@ -182,23 +461,231 @@
               "known_for_department": "Directing",
               "name": "Jennifer Sheridan",
               "original_name": "Jennifer Sheridan",
-              "popularity": 0.2458,
+              "popularity": 0.4952,
               "profile_path": "/7xrJAYlfwR5dgwDXL5a4kWmQCib.jpg"
             }
           ],
           "guest_stars": [
             {
-              "character": "Mr. Bennet",
-              "credit_id": "69e872d6926b824f71c01238",
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
               "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Jane Bingley / Jane Bennet",
+              "credit_id": "6a8f1b7534e786815831bc1d",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 5499064,
+              "known_for_department": "Acting",
+              "name": "Maddie Close",
+              "original_name": "Maddie Close",
+              "popularity": 0.5785,
+              "profile_path": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg"
+            },
+            {
+              "character": "Elizabeth Darcy / Elizabeth Bennet",
+              "credit_id": "6a8f1b94ee8ae8e94c58f402",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2412653,
+              "known_for_department": "Acting",
+              "name": "Poppy Gilbert",
+              "original_name": "Poppy Gilbert",
+              "popularity": 1.2872,
+              "profile_path": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg"
+            },
+            {
+              "character": "Kitty Buncock / Kitty Bennet",
+              "credit_id": "6a8f1bb0c6c6c0078cd4f7d4",
+              "order": 505,
+              "adult": false,
+              "gender": 1,
+              "id": 1677040,
+              "known_for_department": "Acting",
+              "name": "Molly Wright",
+              "original_name": "Molly Wright",
+              "popularity": 0.5763,
+              "profile_path": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg"
+            },
+            {
+              "character": "Lydia Wickham / Lydia Bennet",
+              "credit_id": "6a8f1be2cf0e84c7e1a61c7f",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 1537087,
+              "known_for_department": "Acting",
+              "name": "Grace Hogg-Robinson",
+              "original_name": "Grace Hogg-Robinson",
+              "popularity": 1.0221,
+              "profile_path": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Charlotte Collins / Charlotte Lucas",
+              "credit_id": "6a8f2b447874b8a20664d044",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 3924112,
+              "known_for_department": "Acting",
+              "name": "Anna Fenton-Garvey",
+              "original_name": "Anna Fenton-Garvey",
+              "popularity": 0.3333,
+              "profile_path": "/4uNQaOboJlzsaFYEZvtrE9RkmY.jpg"
+            },
+            {
+              "character": "Mrs. Hill",
+              "credit_id": "6a8f2ba8d1e656b275021d2f",
+              "order": 513,
+              "adult": false,
+              "gender": 1,
+              "id": 1214779,
+              "known_for_department": "Acting",
+              "name": "Lucy Briers",
+              "original_name": "Lucy Briers",
+              "popularity": 1.3177,
+              "profile_path": "/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+            },
+            {
+              "character": "Mr. Fitzwilliam Darcy",
+              "credit_id": "6a8f2c23437f6bb451cb06f4",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 6132396,
+              "known_for_department": "Acting",
+              "name": "Victor Pilard",
+              "original_name": "Victor Pilard",
+              "popularity": 1.0728,
+              "profile_path": null
+            },
+            {
+              "character": "Mr. Bennet",
+              "credit_id": "6a8f2c3303deaf2641b51771",
+              "order": 516,
               "adult": false,
               "gender": 2,
               "id": 20766,
               "known_for_department": "Acting",
               "name": "Richard E. Grant",
               "original_name": "Richard E. Grant",
-              "popularity": 2.3147,
-              "profile_path": "/720dpCjuN5cEYFn43GwzZqXtpWv.jpg"
+              "popularity": 3.2468,
+              "profile_path": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+            },
+            {
+              "character": "Mr. Charles Bingley",
+              "credit_id": "6a8f2cda49233e75401e88d5",
+              "order": 518,
+              "adult": false,
+              "gender": 2,
+              "id": 3911594,
+              "known_for_department": "Directing",
+              "name": "Aled Owen",
+              "original_name": "Aled Owen",
+              "popularity": 0.4875,
+              "profile_path": "/4pKQ46uwZ7GB0fkUCbSNsMbuhsT.jpg"
+            },
+            {
+              "character": "Lady Lucas",
+              "credit_id": "6a8f2cf4bcfaf0b3d1878129",
+              "order": 519,
+              "adult": false,
+              "gender": 1,
+              "id": 1487758,
+              "known_for_department": "Acting",
+              "name": "Claire Cage",
+              "original_name": "Claire Cage",
+              "popularity": 0.6746,
+              "profile_path": null
+            },
+            {
+              "character": "Sir William Lucas",
+              "credit_id": "6a8f2d15bcfaf0b3d1878130",
+              "order": 520,
+              "adult": false,
+              "gender": 2,
+              "id": 2181863,
+              "known_for_department": "Acting",
+              "name": "Seán Carlsen",
+              "original_name": "Seán Carlsen",
+              "popularity": 0.5089,
+              "profile_path": "/6lg0onoknTS5e2lu866kKKchFMP.jpg"
+            },
+            {
+              "character": "Mr. Collins",
+              "credit_id": "6a8f2db5bcfaf0b3d1878137",
+              "order": 522,
+              "adult": false,
+              "gender": 2,
+              "id": 208323,
+              "known_for_department": "Acting",
+              "name": "Ryan Sampson",
+              "original_name": "Ryan Sampson",
+              "popularity": 1.0107,
+              "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
             }
           ]
         },
@@ -214,8 +701,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/7WVLQ9iL1WA5tmqGHi03JDs4rRa.jpg",
-          "vote_average": 7.2,
-          "vote_count": 5,
+          "vote_average": 7.7,
+          "vote_count": 6,
           "crew": [
             {
               "job": "Writer",
@@ -227,7 +714,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -240,7 +727,7 @@
               "known_for_department": "Production",
               "name": "John Pocock",
               "original_name": "John Pocock",
-              "popularity": 0.2404,
+              "popularity": 0.3942,
               "profile_path": null
             },
             {
@@ -253,11 +740,220 @@
               "known_for_department": "Directing",
               "name": "Jennifer Sheridan",
               "original_name": "Jennifer Sheridan",
-              "popularity": 0.2458,
+              "popularity": 0.4952,
               "profile_path": "/7xrJAYlfwR5dgwDXL5a4kWmQCib.jpg"
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
+              "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Jane Bingley / Jane Bennet",
+              "credit_id": "6a8f1b7534e786815831bc1d",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 5499064,
+              "known_for_department": "Acting",
+              "name": "Maddie Close",
+              "original_name": "Maddie Close",
+              "popularity": 0.5785,
+              "profile_path": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg"
+            },
+            {
+              "character": "Elizabeth Darcy / Elizabeth Bennet",
+              "credit_id": "6a8f1b94ee8ae8e94c58f402",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2412653,
+              "known_for_department": "Acting",
+              "name": "Poppy Gilbert",
+              "original_name": "Poppy Gilbert",
+              "popularity": 1.2872,
+              "profile_path": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg"
+            },
+            {
+              "character": "Kitty Buncock / Kitty Bennet",
+              "credit_id": "6a8f1bb0c6c6c0078cd4f7d4",
+              "order": 505,
+              "adult": false,
+              "gender": 1,
+              "id": 1677040,
+              "known_for_department": "Acting",
+              "name": "Molly Wright",
+              "original_name": "Molly Wright",
+              "popularity": 0.5763,
+              "profile_path": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg"
+            },
+            {
+              "character": "Lydia Wickham / Lydia Bennet",
+              "credit_id": "6a8f1be2cf0e84c7e1a61c7f",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 1537087,
+              "known_for_department": "Acting",
+              "name": "Grace Hogg-Robinson",
+              "original_name": "Grace Hogg-Robinson",
+              "popularity": 1.0221,
+              "profile_path": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Ann Baxter",
+              "credit_id": "6a8f1ed56fb28df9788780dc",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 1071127,
+              "known_for_department": "Acting",
+              "name": "Varada Sethu",
+              "original_name": "Varada Sethu",
+              "popularity": 1.6123,
+              "profile_path": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg"
+            },
+            {
+              "character": "Charlotte Collins / Charlotte Lucas",
+              "credit_id": "6a8f2b447874b8a20664d044",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 3924112,
+              "known_for_department": "Acting",
+              "name": "Anna Fenton-Garvey",
+              "original_name": "Anna Fenton-Garvey",
+              "popularity": 0.3333,
+              "profile_path": "/4uNQaOboJlzsaFYEZvtrE9RkmY.jpg"
+            },
+            {
+              "character": "Mrs. Hill",
+              "credit_id": "6a8f2ba8d1e656b275021d2f",
+              "order": 513,
+              "adult": false,
+              "gender": 1,
+              "id": 1214779,
+              "known_for_department": "Acting",
+              "name": "Lucy Briers",
+              "original_name": "Lucy Briers",
+              "popularity": 1.3177,
+              "profile_path": "/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+            },
+            {
+              "character": "Mr. Collins",
+              "credit_id": "6a8f2db5bcfaf0b3d1878137",
+              "order": 522,
+              "adult": false,
+              "gender": 2,
+              "id": 208323,
+              "known_for_department": "Acting",
+              "name": "Ryan Sampson",
+              "original_name": "Ryan Sampson",
+              "popularity": 1.0107,
+              "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
+            },
+            {
+              "character": "Marianne Gardiner",
+              "credit_id": "6a8f2e1ef5c0eb7beb9150c7",
+              "order": 523,
+              "adult": false,
+              "gender": 0,
+              "id": 6437618,
+              "known_for_department": "Acting",
+              "name": "Róisín Bhalla",
+              "original_name": "Róisín Bhalla",
+              "popularity": 0.0286,
+              "profile_path": "/tJUVf2QiFa4TziBXTdcJcBJuPIt.jpg"
+            },
+            {
+              "character": "George Gardiner",
+              "credit_id": "6a8f2e86c72bbfe3999150c4",
+              "order": 524,
+              "adult": false,
+              "gender": 0,
+              "id": 5171095,
+              "known_for_department": "Acting",
+              "name": "Reggie Absolom",
+              "original_name": "Reggie Absolom",
+              "popularity": 0.5496,
+              "profile_path": "/w6sVPpoxQ6veVEzWCPV96nFRHm4.jpg"
+            },
+            {
+              "character": "Rebecca Gardiner",
+              "credit_id": "6a8f2eaaaa33ecb09cd2fea3",
+              "order": 525,
+              "adult": false,
+              "gender": 0,
+              "id": 6437622,
+              "known_for_department": "Acting",
+              "name": "Jasmine Sharp",
+              "original_name": "Jasmine Sharp",
+              "popularity": 0.0214,
+              "profile_path": null
+            },
+            {
+              "character": "Gardiner Servant",
+              "credit_id": "6a8f2eefa3d459387db94267",
+              "order": 526,
+              "adult": false,
+              "gender": 0,
+              "id": 6437625,
+              "known_for_department": "Acting",
+              "name": "Jethro Weyman",
+              "original_name": "Jethro Weyman",
+              "popularity": 0.0071,
+              "profile_path": null
+            }
+          ]
         },
         {
           "air_date": "2026-03-22",
@@ -271,8 +967,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/qzPY7IArkJdQwYZvDPovhYjVO7u.jpg",
-          "vote_average": 7.2,
-          "vote_count": 5,
+          "vote_average": 7.7,
+          "vote_count": 6,
           "crew": [
             {
               "job": "Producer",
@@ -284,7 +980,7 @@
               "known_for_department": "Production",
               "name": "John Pocock",
               "original_name": "John Pocock",
-              "popularity": 0.2404,
+              "popularity": 0.3942,
               "profile_path": null
             },
             {
@@ -297,7 +993,7 @@
               "known_for_department": "Directing",
               "name": "Jennifer Sheridan",
               "original_name": "Jennifer Sheridan",
-              "popularity": 0.2458,
+              "popularity": 0.4952,
               "profile_path": "/7xrJAYlfwR5dgwDXL5a4kWmQCib.jpg"
             },
             {
@@ -310,11 +1006,142 @@
               "known_for_department": "Writing",
               "name": "Maddie Dai",
               "original_name": "Maddie Dai",
-              "popularity": 0.4251,
+              "popularity": 0.4963,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
+              "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Ann Baxter",
+              "credit_id": "6a8f1ed56fb28df9788780dc",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 1071127,
+              "known_for_department": "Acting",
+              "name": "Varada Sethu",
+              "original_name": "Varada Sethu",
+              "popularity": 1.6123,
+              "profile_path": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Marianne Gardiner",
+              "credit_id": "6a8f2e1ef5c0eb7beb9150c7",
+              "order": 523,
+              "adult": false,
+              "gender": 0,
+              "id": 6437618,
+              "known_for_department": "Acting",
+              "name": "Róisín Bhalla",
+              "original_name": "Róisín Bhalla",
+              "popularity": 0.0286,
+              "profile_path": "/tJUVf2QiFa4TziBXTdcJcBJuPIt.jpg"
+            },
+            {
+              "character": "George Gardiner",
+              "credit_id": "6a8f2e86c72bbfe3999150c4",
+              "order": 524,
+              "adult": false,
+              "gender": 0,
+              "id": 5171095,
+              "known_for_department": "Acting",
+              "name": "Reggie Absolom",
+              "original_name": "Reggie Absolom",
+              "popularity": 0.5496,
+              "profile_path": "/w6sVPpoxQ6veVEzWCPV96nFRHm4.jpg"
+            },
+            {
+              "character": "Rebecca Gardiner",
+              "credit_id": "6a8f2eaaaa33ecb09cd2fea3",
+              "order": 525,
+              "adult": false,
+              "gender": 0,
+              "id": 6437622,
+              "known_for_department": "Acting",
+              "name": "Jasmine Sharp",
+              "original_name": "Jasmine Sharp",
+              "popularity": 0.0214,
+              "profile_path": null
+            },
+            {
+              "character": "Gardiner Servant",
+              "credit_id": "6a8f2eefa3d459387db94267",
+              "order": 526,
+              "adult": false,
+              "gender": 0,
+              "id": 6437625,
+              "known_for_department": "Acting",
+              "name": "Jethro Weyman",
+              "original_name": "Jethro Weyman",
+              "popularity": 0.0071,
+              "profile_path": null
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -328,8 +1155,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/6A0JE8VIaNEL54RthPXDU7BZVyE.jpg",
-          "vote_average": 6.5,
-          "vote_count": 4,
+          "vote_average": 7.2,
+          "vote_count": 5,
           "crew": [
             {
               "job": "Writer",
@@ -341,7 +1168,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -354,7 +1181,7 @@
               "known_for_department": "Production",
               "name": "John Pocock",
               "original_name": "John Pocock",
-              "popularity": 0.2404,
+              "popularity": 0.3942,
               "profile_path": null
             },
             {
@@ -367,11 +1194,168 @@
               "known_for_department": "Directing",
               "name": "Jennifer Sheridan",
               "original_name": "Jennifer Sheridan",
-              "popularity": 0.2458,
+              "popularity": 0.4952,
               "profile_path": "/7xrJAYlfwR5dgwDXL5a4kWmQCib.jpg"
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Ann Baxter",
+              "credit_id": "6a8f1ed56fb28df9788780dc",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 1071127,
+              "known_for_department": "Acting",
+              "name": "Varada Sethu",
+              "original_name": "Varada Sethu",
+              "popularity": 1.6123,
+              "profile_path": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Mr. Hurst",
+              "credit_id": "6a8f2bc69f12cf90b117e1c5",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 3166907,
+              "known_for_department": "Acting",
+              "name": "Fergus Craig",
+              "original_name": "Fergus Craig",
+              "popularity": 0.6494,
+              "profile_path": "/j6Wft1bUQKuuwGu2YJ5RAOjlgTq.jpg"
+            },
+            {
+              "character": "Marianne Gardiner",
+              "credit_id": "6a8f2e1ef5c0eb7beb9150c7",
+              "order": 523,
+              "adult": false,
+              "gender": 0,
+              "id": 6437618,
+              "known_for_department": "Acting",
+              "name": "Róisín Bhalla",
+              "original_name": "Róisín Bhalla",
+              "popularity": 0.0286,
+              "profile_path": "/tJUVf2QiFa4TziBXTdcJcBJuPIt.jpg"
+            },
+            {
+              "character": "George Gardiner",
+              "credit_id": "6a8f2e86c72bbfe3999150c4",
+              "order": 524,
+              "adult": false,
+              "gender": 0,
+              "id": 5171095,
+              "known_for_department": "Acting",
+              "name": "Reggie Absolom",
+              "original_name": "Reggie Absolom",
+              "popularity": 0.5496,
+              "profile_path": "/w6sVPpoxQ6veVEzWCPV96nFRHm4.jpg"
+            },
+            {
+              "character": "Rebecca Gardiner",
+              "credit_id": "6a8f2eaaaa33ecb09cd2fea3",
+              "order": 525,
+              "adult": false,
+              "gender": 0,
+              "id": 6437622,
+              "known_for_department": "Acting",
+              "name": "Jasmine Sharp",
+              "original_name": "Jasmine Sharp",
+              "popularity": 0.0214,
+              "profile_path": null
+            },
+            {
+              "character": "Gardiner Servant",
+              "credit_id": "6a8f2eefa3d459387db94267",
+              "order": 526,
+              "adult": false,
+              "gender": 0,
+              "id": 6437625,
+              "known_for_department": "Acting",
+              "name": "Jethro Weyman",
+              "original_name": "Jethro Weyman",
+              "popularity": 0.0071,
+              "profile_path": null
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -385,8 +1369,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/pBjQWaHPDNxFGEsQ1sWLaXlNvHK.jpg",
-          "vote_average": 6.5,
-          "vote_count": 4,
+          "vote_average": 7.2,
+          "vote_count": 5,
           "crew": [
             {
               "job": "Writer",
@@ -398,7 +1382,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -411,11 +1395,142 @@
               "known_for_department": "Directing",
               "name": "Asim Abbasi",
               "original_name": "Asim Abbasi",
-              "popularity": 0.4845,
+              "popularity": 0.6698,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
+              "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Jane Bingley / Jane Bennet",
+              "credit_id": "6a8f1b7534e786815831bc1d",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 5499064,
+              "known_for_department": "Acting",
+              "name": "Maddie Close",
+              "original_name": "Maddie Close",
+              "popularity": 0.5785,
+              "profile_path": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg"
+            },
+            {
+              "character": "Elizabeth Darcy / Elizabeth Bennet",
+              "credit_id": "6a8f1b94ee8ae8e94c58f402",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2412653,
+              "known_for_department": "Acting",
+              "name": "Poppy Gilbert",
+              "original_name": "Poppy Gilbert",
+              "popularity": 1.2872,
+              "profile_path": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg"
+            },
+            {
+              "character": "Kitty Buncock / Kitty Bennet",
+              "credit_id": "6a8f1bb0c6c6c0078cd4f7d4",
+              "order": 505,
+              "adult": false,
+              "gender": 1,
+              "id": 1677040,
+              "known_for_department": "Acting",
+              "name": "Molly Wright",
+              "original_name": "Molly Wright",
+              "popularity": 0.5763,
+              "profile_path": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg"
+            },
+            {
+              "character": "Lydia Wickham / Lydia Bennet",
+              "credit_id": "6a8f1be2cf0e84c7e1a61c7f",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 1537087,
+              "known_for_department": "Acting",
+              "name": "Grace Hogg-Robinson",
+              "original_name": "Grace Hogg-Robinson",
+              "popularity": 1.0221,
+              "profile_path": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Charlotte Collins / Charlotte Lucas",
+              "credit_id": "6a8f2b447874b8a20664d044",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 3924112,
+              "known_for_department": "Acting",
+              "name": "Anna Fenton-Garvey",
+              "original_name": "Anna Fenton-Garvey",
+              "popularity": 0.3333,
+              "profile_path": "/4uNQaOboJlzsaFYEZvtrE9RkmY.jpg"
+            },
+            {
+              "character": "Mr. Fitzwilliam Darcy",
+              "credit_id": "6a8f2c23437f6bb451cb06f4",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 6132396,
+              "known_for_department": "Acting",
+              "name": "Victor Pilard",
+              "original_name": "Victor Pilard",
+              "popularity": 1.0728,
+              "profile_path": null
+            },
+            {
+              "character": "Mr. Collins",
+              "credit_id": "6a8f2db5bcfaf0b3d1878137",
+              "order": 522,
+              "adult": false,
+              "gender": 2,
+              "id": 208323,
+              "known_for_department": "Acting",
+              "name": "Ryan Sampson",
+              "original_name": "Ryan Sampson",
+              "popularity": 1.0107,
+              "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -429,8 +1544,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/8REoOcpGN08s2tlQFukVZYzds9e.jpg",
-          "vote_average": 7,
-          "vote_count": 4,
+          "vote_average": 7.6,
+          "vote_count": 5,
           "crew": [
             {
               "job": "Writer",
@@ -442,7 +1557,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -455,11 +1570,155 @@
               "known_for_department": "Directing",
               "name": "Asim Abbasi",
               "original_name": "Asim Abbasi",
-              "popularity": 0.4845,
+              "popularity": 0.6698,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
+              "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Jane Bingley / Jane Bennet",
+              "credit_id": "6a8f1b7534e786815831bc1d",
+              "order": 503,
+              "adult": false,
+              "gender": 1,
+              "id": 5499064,
+              "known_for_department": "Acting",
+              "name": "Maddie Close",
+              "original_name": "Maddie Close",
+              "popularity": 0.5785,
+              "profile_path": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg"
+            },
+            {
+              "character": "Elizabeth Darcy / Elizabeth Bennet",
+              "credit_id": "6a8f1b94ee8ae8e94c58f402",
+              "order": 504,
+              "adult": false,
+              "gender": 1,
+              "id": 2412653,
+              "known_for_department": "Acting",
+              "name": "Poppy Gilbert",
+              "original_name": "Poppy Gilbert",
+              "popularity": 1.2872,
+              "profile_path": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg"
+            },
+            {
+              "character": "Kitty Buncock / Kitty Bennet",
+              "credit_id": "6a8f1bb0c6c6c0078cd4f7d4",
+              "order": 505,
+              "adult": false,
+              "gender": 1,
+              "id": 1677040,
+              "known_for_department": "Acting",
+              "name": "Molly Wright",
+              "original_name": "Molly Wright",
+              "popularity": 0.5763,
+              "profile_path": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg"
+            },
+            {
+              "character": "Lydia Wickham / Lydia Bennet",
+              "credit_id": "6a8f1be2cf0e84c7e1a61c7f",
+              "order": 506,
+              "adult": false,
+              "gender": 1,
+              "id": 1537087,
+              "known_for_department": "Acting",
+              "name": "Grace Hogg-Robinson",
+              "original_name": "Grace Hogg-Robinson",
+              "popularity": 1.0221,
+              "profile_path": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Charlotte Collins / Charlotte Lucas",
+              "credit_id": "6a8f2b447874b8a20664d044",
+              "order": 512,
+              "adult": false,
+              "gender": 0,
+              "id": 3924112,
+              "known_for_department": "Acting",
+              "name": "Anna Fenton-Garvey",
+              "original_name": "Anna Fenton-Garvey",
+              "popularity": 0.3333,
+              "profile_path": "/4uNQaOboJlzsaFYEZvtrE9RkmY.jpg"
+            },
+            {
+              "character": "Mr. Fitzwilliam Darcy",
+              "credit_id": "6a8f2c23437f6bb451cb06f4",
+              "order": 515,
+              "adult": false,
+              "gender": 0,
+              "id": 6132396,
+              "known_for_department": "Acting",
+              "name": "Victor Pilard",
+              "original_name": "Victor Pilard",
+              "popularity": 1.0728,
+              "profile_path": null
+            },
+            {
+              "character": "Mr. Collins",
+              "credit_id": "6a8f2db5bcfaf0b3d1878137",
+              "order": 522,
+              "adult": false,
+              "gender": 2,
+              "id": 208323,
+              "known_for_department": "Acting",
+              "name": "Ryan Sampson",
+              "original_name": "Ryan Sampson",
+              "popularity": 1.0107,
+              "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -473,8 +1732,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/ipJWU0gotgcDYvEDaHlkJ8v3G9F.jpg",
-          "vote_average": 6,
-          "vote_count": 3,
+          "vote_average": 7,
+          "vote_count": 4,
           "crew": [
             {
               "job": "Writer",
@@ -486,7 +1745,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -499,11 +1758,116 @@
               "known_for_department": "Directing",
               "name": "Asim Abbasi",
               "original_name": "Asim Abbasi",
-              "popularity": 0.4845,
+              "popularity": 0.6698,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Ann Baxter",
+              "credit_id": "6a8f1ed56fb28df9788780dc",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 1071127,
+              "known_for_department": "Acting",
+              "name": "Varada Sethu",
+              "original_name": "Varada Sethu",
+              "popularity": 1.6123,
+              "profile_path": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Mr. Hurst",
+              "credit_id": "6a8f2bc69f12cf90b117e1c5",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 3166907,
+              "known_for_department": "Acting",
+              "name": "Fergus Craig",
+              "original_name": "Fergus Craig",
+              "popularity": 0.6494,
+              "profile_path": "/j6Wft1bUQKuuwGu2YJ5RAOjlgTq.jpg"
+            },
+            {
+              "character": "Mr. Bennet",
+              "credit_id": "6a8f2c3303deaf2641b51771",
+              "order": 516,
+              "adult": false,
+              "gender": 2,
+              "id": 20766,
+              "known_for_department": "Acting",
+              "name": "Richard E. Grant",
+              "original_name": "Richard E. Grant",
+              "popularity": 3.2468,
+              "profile_path": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -517,8 +1881,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/7cu7jnj6tYhTKEFlmyvUrxjlVQQ.jpg",
-          "vote_average": 6.5,
-          "vote_count": 4,
+          "vote_average": 7.2,
+          "vote_count": 5,
           "crew": [
             {
               "job": "Writer",
@@ -530,7 +1894,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -543,11 +1907,116 @@
               "known_for_department": "Directing",
               "name": "Asim Abbasi",
               "original_name": "Asim Abbasi",
-              "popularity": 0.4845,
+              "popularity": 0.6698,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Louisa Hurst / Louisa Bingley",
+              "credit_id": "6a8f1b55d5d709637964d002",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 82143,
+              "known_for_department": "Acting",
+              "name": "Lucinda Dryzek",
+              "original_name": "Lucinda Dryzek",
+              "popularity": 1.052,
+              "profile_path": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Mr. Hurst",
+              "credit_id": "6a8f2bc69f12cf90b117e1c5",
+              "order": 514,
+              "adult": false,
+              "gender": 2,
+              "id": 3166907,
+              "known_for_department": "Acting",
+              "name": "Fergus Craig",
+              "original_name": "Fergus Craig",
+              "popularity": 0.6494,
+              "profile_path": "/j6Wft1bUQKuuwGu2YJ5RAOjlgTq.jpg"
+            },
+            {
+              "character": "Roderick Armstrong",
+              "credit_id": "6a8f306a61ae8b697eabbca6",
+              "order": 527,
+              "adult": false,
+              "gender": 2,
+              "id": 1782026,
+              "known_for_department": "Acting",
+              "name": "Robert Cawsey",
+              "original_name": "Robert Cawsey",
+              "popularity": 0.4605,
+              "profile_path": "/7NoPCU4phW97eBNvQRVfU8KC7FK.jpg"
+            }
+          ]
         },
         {
           "air_date": "2026-03-29",
@@ -561,8 +2030,8 @@
           "season_number": 1,
           "show_id": 273866,
           "still_path": "/vihkXbyxWqSogW2p8TiT82uMETq.jpg",
-          "vote_average": 6.75,
-          "vote_count": 4,
+          "vote_average": 7.4,
+          "vote_count": 5,
           "crew": [
             {
               "job": "Writer",
@@ -574,7 +2043,7 @@
               "known_for_department": "Acting",
               "name": "Sarah Quintrell",
               "original_name": "Sarah Quintrell",
-              "popularity": 0.4097,
+              "popularity": 0.6832,
               "profile_path": null
             },
             {
@@ -587,11 +2056,181 @@
               "known_for_department": "Directing",
               "name": "Asim Abbasi",
               "original_name": "Asim Abbasi",
-              "popularity": 0.4845,
+              "popularity": 0.6698,
               "profile_path": null
             }
           ],
-          "guest_stars": []
+          "guest_stars": [
+            {
+              "character": "Mrs. Bennett",
+              "credit_id": "6a8f1b1b01826b69f78780e4",
+              "order": 500,
+              "adult": false,
+              "gender": 1,
+              "id": 192927,
+              "known_for_department": "Acting",
+              "name": "Ruth Jones",
+              "original_name": "Ruth Jones",
+              "popularity": 1.9655,
+              "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+              "character": "Caroline Bingley",
+              "credit_id": "6a8f1b363919a0d321a61c52",
+              "order": 501,
+              "adult": false,
+              "gender": 1,
+              "id": 1731959,
+              "known_for_department": "Acting",
+              "name": "Tanya Reynolds",
+              "original_name": "Tanya Reynolds",
+              "popularity": 17.5988,
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+            },
+            {
+              "character": "Mrs. Gardiner",
+              "credit_id": "6a8f1bf73b9fae5d35b941d1",
+              "order": 507,
+              "adult": false,
+              "gender": 1,
+              "id": 30430,
+              "known_for_department": "Acting",
+              "name": "Indira Varma",
+              "original_name": "Indira Varma",
+              "popularity": 3.9654,
+              "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+              "character": "Mr. Gardiner",
+              "credit_id": "6a8f1c1800f0c38d91021d0d",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 52890,
+              "known_for_department": "Acting",
+              "name": "Richard Coyle",
+              "original_name": "Richard Coyle",
+              "popularity": 1.5446,
+              "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+            },
+            {
+              "character": "Mr. Hayward",
+              "credit_id": "6a8f1e72587af658ad24503c",
+              "order": 509,
+              "adult": false,
+              "gender": 2,
+              "id": 2262886,
+              "known_for_department": "Acting",
+              "name": "Dónal Finn",
+              "original_name": "Dónal Finn",
+              "popularity": 2.1111,
+              "profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+            },
+            {
+              "character": "Ann Baxter",
+              "credit_id": "6a8f1ed56fb28df9788780dc",
+              "order": 510,
+              "adult": false,
+              "gender": 1,
+              "id": 1071127,
+              "known_for_department": "Acting",
+              "name": "Varada Sethu",
+              "original_name": "Varada Sethu",
+              "popularity": 1.6123,
+              "profile_path": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg"
+            },
+            {
+              "character": "Mr. Ryder",
+              "credit_id": "6a8f1f23d1e656b275021ce0",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 1800302,
+              "known_for_department": "Acting",
+              "name": "Laurie Davidson",
+              "original_name": "Laurie Davidson",
+              "popularity": 1.5051,
+              "profile_path": "/h2gts4uzqJ7DwusMfIekng78TL.jpg"
+            },
+            {
+              "character": "Mrs. Hill",
+              "credit_id": "6a8f2ba8d1e656b275021d2f",
+              "order": 513,
+              "adult": false,
+              "gender": 1,
+              "id": 1214779,
+              "known_for_department": "Acting",
+              "name": "Lucy Briers",
+              "original_name": "Lucy Briers",
+              "popularity": 1.3177,
+              "profile_path": "/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+            },
+            {
+              "character": "John Sparrow",
+              "credit_id": "6a8f2c66de9df0616317e1c8",
+              "order": 517,
+              "adult": false,
+              "gender": 0,
+              "id": 6032188,
+              "known_for_department": "Acting",
+              "name": "Aaron Gill",
+              "original_name": "Aaron Gill",
+              "popularity": 0.392,
+              "profile_path": "/lapzn0DyqKqKpNdwWgI2pNWTJrR.jpg"
+            },
+            {
+              "character": "Marianne Gardiner",
+              "credit_id": "6a8f2e1ef5c0eb7beb9150c7",
+              "order": 523,
+              "adult": false,
+              "gender": 0,
+              "id": 6437618,
+              "known_for_department": "Acting",
+              "name": "Róisín Bhalla",
+              "original_name": "Róisín Bhalla",
+              "popularity": 0.0286,
+              "profile_path": "/tJUVf2QiFa4TziBXTdcJcBJuPIt.jpg"
+            },
+            {
+              "character": "George Gardiner",
+              "credit_id": "6a8f2e86c72bbfe3999150c4",
+              "order": 524,
+              "adult": false,
+              "gender": 0,
+              "id": 5171095,
+              "known_for_department": "Acting",
+              "name": "Reggie Absolom",
+              "original_name": "Reggie Absolom",
+              "popularity": 0.5496,
+              "profile_path": "/w6sVPpoxQ6veVEzWCPV96nFRHm4.jpg"
+            },
+            {
+              "character": "Rebecca Gardiner",
+              "credit_id": "6a8f2eaaaa33ecb09cd2fea3",
+              "order": 525,
+              "adult": false,
+              "gender": 0,
+              "id": 6437622,
+              "known_for_department": "Acting",
+              "name": "Jasmine Sharp",
+              "original_name": "Jasmine Sharp",
+              "popularity": 0.0214,
+              "profile_path": null
+            },
+            {
+              "character": "Gardiner Servant",
+              "credit_id": "6a8f2eefa3d459387db94267",
+              "order": 526,
+              "adult": false,
+              "gender": 0,
+              "id": 6437625,
+              "known_for_department": "Acting",
+              "name": "Jethro Weyman",
+              "original_name": "Jethro Weyman",
+              "popularity": 0.0071,
+              "profile_path": null
+            }
+          ]
         }
       ],
       "name": "Series 1",
@@ -607,7 +2246,7 @@
       "id": 422552,
       "poster_path": "/uaVIylsE5pgFWqgv1BFbgQGbRnO.jpg",
       "season_number": 1,
-      "vote_average": 6.8
+      "vote_average": 7.4
     }
   ],
   "genres": [
@@ -836,13 +2475,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/ploeD630UfL29emGnJLYwMFxczp.jpg",
-      "width": 1066,
-      "height": 1599,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/lBVcrmRdp1weJZ3J7sFEZKH9SgU.jpg",
       "width": 2000,
       "height": 3000,
@@ -871,6 +2503,27 @@
       "type": "poster"
     },
     {
+      "filePath": "/bFUHNhmt95YXbz7rJa0CuuRNoxd.jpg",
+      "width": 736,
+      "height": 1104,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oVy9hktd22vEiGvCYHk4tkXLD3Y.jpg",
+      "width": 1599,
+      "height": 2399,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/1lgfVHFG9gf0kzlau6ybrEJZD0i.jpg",
       "width": 3840,
       "height": 2160,
@@ -878,10 +2531,10 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
+      "filePath": "/ye2i4B2pb5jRO1rrc1EICEY0Q4J.jpg",
+      "width": 1919,
+      "height": 1080,
+      "aspectRatio": 1.777,
       "type": "backdrop"
     },
     {
@@ -995,6 +2648,76 @@
       "height": 2160,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/ylKva4gnLoXXqL9L89AmNPDBqYC.jpg",
+      "width": 1418,
+      "height": 798,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/eYZNYhzyhXfvuFfBUoeq3EilxVw.jpg",
+      "width": 3000,
+      "height": 1688,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/fRjyOjWyfLwDSksicnr3ZZcsGNd.jpg",
+      "width": 3836,
+      "height": 2160,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yAlN0M71wKh0dbayv2E7EVZctNu.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7mywgA2PAC5830XY7xa0lWWhXaf.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1a2pDU2vqPbxW2xKeKf5piBIeFV.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wfX8PMYGDL2SVSXLlh4KhMv8cEK.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/m1XT6fvjAIjNKxWLW8IuLc3ZYvP.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/j5uTM32EuCuY1GpANAxLE0oWFqN.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/wi4sFBjqU6IPfpJrnBpo4w2J7Pd.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -1008,137 +2731,11 @@
     {
       "tmdbPersonId": 3250136,
       "name": "Ella Bruccoleri",
-      "profilePath": "/vAP4LZ6ZMwtjsZtkhymND1HJ0xI.jpg",
+      "profilePath": "/xVqbUOELKqxhEdqAz5IXhFYp7Uy.jpg",
       "character": "Mary Bennet",
       "job": "Actor",
       "department": "Acting",
       "order": 0
-    },
-    {
-      "tmdbPersonId": 192927,
-      "name": "Ruth Jones",
-      "profilePath": "/agBI9yM61lF8e70gkc27eu47b5R.jpg",
-      "character": "Mrs. Bennet",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 1
-    },
-    {
-      "tmdbPersonId": 2262886,
-      "name": "Dónal Finn",
-      "profilePath": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg",
-      "character": "Mr. Hayward",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 2
-    },
-    {
-      "tmdbPersonId": 1071127,
-      "name": "Varada Sethu",
-      "profilePath": "/6QDtR46iOvyz7xoJnlxGsCnEmDX.jpg",
-      "character": "Ann Baxter",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 52890,
-      "name": "Richard Coyle",
-      "profilePath": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg",
-      "character": "Mr. Gardiner",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
-    },
-    {
-      "tmdbPersonId": 30430,
-      "name": "Indira Varma",
-      "profilePath": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg",
-      "character": "Mrs. Gardiner",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 5
-    },
-    {
-      "tmdbPersonId": 1800302,
-      "name": "Laurie Davidson",
-      "profilePath": "/zLqCFqnOHKQOUmpnYRaGA2nt9Xn.jpg",
-      "character": "Mr. Ryder",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 6
-    },
-    {
-      "tmdbPersonId": 5499064,
-      "name": "Maddie Close",
-      "profilePath": "/bMxDO74q6eMcJM6JpaoOqXqcKi8.jpg",
-      "character": "Jane Bennet",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 7
-    },
-    {
-      "tmdbPersonId": 1537087,
-      "name": "Grace Hogg-Robinson",
-      "profilePath": "/TsNjyuHrmMFwLrE957UWJ2US6j.jpg",
-      "character": "Lydia Bennet",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 8
-    },
-    {
-      "tmdbPersonId": 2412653,
-      "name": "Poppy Gilbert",
-      "profilePath": "/g3CuUHqLiKnSN0T47m8VTOjmzOD.jpg",
-      "character": "Lizzy Bennet",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 9
-    },
-    {
-      "tmdbPersonId": 1677040,
-      "name": "Molly Wright",
-      "profilePath": "/k4ff4JwjsGl3b6vVpNv0NtWlJ9r.jpg",
-      "character": "Kitty Bennet",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 82143,
-      "name": "Lucinda Dryzek",
-      "profilePath": "/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg",
-      "character": "Louisa Bingley",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 1731959,
-      "name": "Tanya Reynolds",
-      "profilePath": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
-      "character": "Caroline Bingley",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 1214779,
-      "name": "Lucy Briers",
-      "profilePath": "/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg",
-      "character": "Mrs. Hill",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 208323,
-      "name": "Ryan Sampson",
-      "profilePath": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg",
-      "character": "Mr. Collins",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 14
     },
     {
       "tmdbPersonId": 3132853,

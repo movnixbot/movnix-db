@@ -10,9 +10,9 @@
     "budget": "220000000",
     "revenue": "1518815515",
     "status": "Released",
-    "popularity": 80.4722,
-    "voteAverage": 8.066,
-    "voteCount": 39255,
+    "popularity": 79.3188,
+    "voteAverage": 8.071,
+    "voteCount": 39463,
     "homepage": "https://www.marvel.com/movies/the-avengers",
     "posterPath": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "backdropPath": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
@@ -137,6 +137,13 @@
       "site": "YouTube",
       "size": 1080,
       "type": "Teaser"
+    },
+    {
+      "name": "Avengers Assemble Interview",
+      "key": "siMh_H7cIrM",
+      "site": "YouTube",
+      "size": 360,
+      "type": "Featurette"
     },
     {
       "name": "TV Spot - Roll Call",
@@ -1954,6 +1961,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/8XKcaePBNavaFxyw5FBaKBDZT0Z.jpg",
+      "width": 1500,
+      "height": 2250,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "width": 3840,
       "height": 2160,
@@ -2561,13 +2575,41 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/vL6lNfbSZsGANqJ0vuCbpyQZPjV.jpg",
+      "width": 3835,
+      "height": 2156,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/p7ttFGrJhykKXi2NAG5fxBwjhhQ.jpg",
+      "width": 3835,
+      "height": 2156,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/mQaWMar6nZyw5Z63EKRHBjcC2tP.jpg",
+      "width": 3835,
+      "height": 2156,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1pmprDFZiVQvmQi8mooxv91ETfV.jpg",
+      "width": 2048,
+      "height": 1152,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.066,
-      "votesCount": 39255
+      "ratingValue": 8.071,
+      "votesCount": 39463
     },
     {
       "source": "imdb",
@@ -2688,7 +2730,7 @@
     {
       "tmdbPersonId": 12052,
       "name": "Gwyneth Paltrow",
-      "profilePath": "/x040uB0CDrHjVAUSONw8bbWMvDC.jpg",
+      "profilePath": "/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg",
       "character": "Pepper Potts",
       "job": "Actor",
       "department": "Acting",
@@ -2726,15 +2768,6 @@
       "name": "Joss Whedon",
       "profilePath": "/tAcIXWQWgGzoSsw2BUBuDbCGgii.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 12891,
-      "name": "Joss Whedon",
-      "profilePath": "/tAcIXWQWgGzoSsw2BUBuDbCGgii.jpg",
-      "character": null,
       "job": "Screenplay",
       "department": "Writing",
       "order": null
@@ -2746,6 +2779,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 12891,
+      "name": "Joss Whedon",
+      "profilePath": "/tAcIXWQWgGzoSsw2BUBuDbCGgii.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     }
   ],
