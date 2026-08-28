@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.0533,
+    "popularity": 4.1945,
     "voteAverage": 7.1,
-    "voteCount": 143,
+    "voteCount": 144,
     "homepage": "https://mock-movie-website.com/movies/1376415",
     "posterPath": "/8hBGDCNJmBljmKbmFvt6Nk3Feua.jpg",
     "backdropPath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
@@ -227,6 +227,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/3HJXLHg5jeszZPoWYX9mIAFoN6.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
       "width": 1920,
       "height": 1080,
@@ -308,7 +315,7 @@
     {
       "source": "tmdb",
       "ratingValue": 7.1,
-      "votesCount": 143
+      "votesCount": 144
     },
     {
       "source": "crawled",
@@ -572,5 +579,202 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1376415/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1376415,
+    "hash": "4dc11a1aa7a1e4674347cbd0aaa6cb4a42c00bd328cb8585f3ad2c14a404bf59",
+    "summary_one_sentence": "A brilliant Polish engineer moves to France and spends 14 years meticulously forging millions in flawless French francs, becoming a legendary master counterfeiter.",
+    "summary_short": "After relocating to France, an exceptionally skilled Polish engineer turns his technical mastery toward an illicit empire of fraud. Working completely alone for over fourteen years, he manufactures millions in unnoticeable counterfeit francs with breathtaking precision. His unprecedented artistic skill and massive production earn him national notoriety and the moniker 'Cézanne of counterfeit money'. Ultimately, his story becomes a gripping exploration of obsession, brilliant craftsmanship, and high-stakes criminal history.",
+    "summary_long": "Driven by ambition and an extraordinary mechanical aptitude, a Polish engineer relocates to France to build a new life for himself. However, he soon pivots his immense talent toward an audacious criminal enterprise: crafting counterfeit French currency. Operating entirely as a lone agent, he meticulously recreates intricate banknote plates, perfecting the paper texture, ink chemistry, and printing techniques entirely on his own. Over the span of fourteen relentless years, his secret operation churns out millions of flawless fake francs that seamlessly pass through the nation's economy without detection. Authorities and financial experts are left baffled by the sheer volume and untraceable quality of the forged bills circulating nationwide. Due to the breathtaking detail and artistic perfection of his work, law enforcement and the media dub him the 'Cézanne of counterfeit money'. As the manhunt intensifies over the years, he must constantly navigate the psychological strain of his double life while staying one step ahead of the law. His incredible output ultimately cements his reputation as one of the most prolific and skilled art-forgers in European history. This dramatic tale captures the fine line between genius and criminality against a rich historical backdrop.",
+    "synopsis": "Inspired by incredible true events, 'The Money Maker' follows the life of a gifted Polish engineer who migrates to France and embarks on a dangerous path of deception. Leveraging his profound technical brilliance, he undertakes a solo 14-year campaign to forge millions of French francs, producing bills so astonishingly precise that they baffle international authorities. Dubbed the 'Cézanne of counterfeit money' for his unmatched technique and obsessive attention to detail, his rise to legendary status weaves a tense, historical narrative about art, ambition, and the ultimate cost of perfection.",
+    "keywords": [
+      "counterfeiter",
+      "forgery",
+      "master artisan",
+      "lone wolf",
+      "Polish immigrant",
+      "financial crime",
+      "post-war France",
+      "engineering precision",
+      "true story",
+      "obsession",
+      "cat and mouse",
+      "artistic genius",
+      "underground economy",
+      "1950s Europe"
+    ],
+    "themes": [
+      {
+        "theme": "Artistry vs. Deception",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation & Obsession",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Displacement & Ambition",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "The high-stakes game of cat-and-mouse reaches its breaking point as law enforcement closes in on his operation, forcing a final confrontation between his meticulous genius and the law.",
+      "conflict": "Balancing the demand for perfect craftsmanship against the constant threat of law enforcement detection, he must operate in total secrecy while scaling his underground output.",
+      "resolution": "The ultimate fate of the master craftsman is decided, leaving behind a legacy as one of the most prolific and artistic counterfeiters in criminal history.",
+      "introduction": "A Polish engineer moves to France and uses his extraordinary technical skill to begin duplicating French currency, setting the foundation for a decades-long illicit operation.",
+      "risingAction": "His flawless bank notes flood the economy over 14 years, earning him legendary status and prompting a massive, relentless investigation by French authorities to uncover the master counterfeiter."
+    },
+    "characters": [
+      {
+        "name": "Polish Engineer / The Counterfeiter",
+        "role": "Anti Hero",
+        "description": "The brilliant counterfeiter who uses his engineering and artistic talent to forge millions in fake francs over 14 years."
+      },
+      {
+        "name": "Investigating Detective",
+        "role": "Supporting Character",
+        "description": "The law enforcement figure dedicated to tracking down the source of the near-flawless fake currency."
+      },
+      {
+        "name": "Partner / Accomplice",
+        "role": "Supporting Character",
+        "description": "A close confidant or associate who assists or navigates the dangerous world alongside the master counterfeiter."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Polish Engineer",
+        "target": "French Police / Authorities",
+        "description": "Antagonists / Law Enforcement pursuing Counterfeiter"
+      }
+    ],
+    "seo": {
+      "slug": "the-money-maker",
+      "jsonLd": {
+        "name": "The Money Maker",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A Polish engineer relocates to France and becomes a legendary counterfeiter. Working solo, he crafts flawless fake francs worth millions over 14 years, earning the nickname Cézanne of counterfeit money."
+      },
+      "keywords": [
+        "The Money Maker",
+        "Cézanne of counterfeit money",
+        "Polish engineer counterfeiter",
+        "fake francs story",
+        "true crime counterfeiter",
+        "French money counterfeiting film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-money-maker](https://movnix.com/movie/the-money-maker)",
+      "metaTitle": "The Money Maker: The Legendary Cézanne of Counterfeit Money",
+      "openGraph": {
+        "og:title": "The Money Maker - The Story of the Cézanne of Counterfeit Money",
+        "og:description": "Over 14 years, a solo Polish engineer in France printed millions in flawless fake francs, earning legendary status in the art of counterfeiting."
+      },
+      "twitterCard": {
+        "twitter:title": "The Money Maker - The Story of the Cézanne of Counterfeit Money",
+        "twitter:description": "Discover the story of a Polish engineer who spent 14 years crafting millions in fake francs with master-level artistic skill."
+      },
+      "metaDescription": "A Polish engineer moves to France and crafts flawless fake francs worth millions, becoming a legendary counterfeiter known as the Cézanne of counterfeit money."
+    },
+    "faq": [
+      {
+        "answer": "The Money Maker is primarily a biographical drama and crime thriller, focusing on the true-life story and meticulous craft of an extraordinary solo counterfeiter.",
+        "question": "What is the dominant genre of The Money Maker?"
+      },
+      {
+        "answer": "Yes, it is based on the real life of a Polish engineer who moved to France and spent 14 years producing millions in highly accurate counterfeit French francs.",
+        "question": "Is The Money Maker based on a true story?"
+      },
+      {
+        "answer": "He earned the nickname due to his remarkable artistic precision, engineering skill, and output, treating the creation of fake banknotes with the dedication of a master artist.",
+        "question": "Why is the protagonist called the 'Cézanne of counterfeit money'?"
+      },
+      {
+        "answer": "No, The Money Maker is a standalone film focused specifically on this singular biographical story.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene; the story concludes fully before the final credits roll.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The story spans over 14 years, tracking the protagonist's relocation to France and his long-running solo counterfeiting operation.",
+        "question": "What period of time does the movie cover?"
+      },
+      {
+        "answer": "No, one of the most remarkable aspects of his operation was that he worked entirely solo, handling the engineering, printing, and distribution preparations himself.",
+        "question": "Did the main character work with a gang or team?"
+      },
+      {
+        "answer": "He specializes in duplicating French francs, manufacturing millions of high-quality fake notes over his career.",
+        "question": "What currency does the protagonist counterfeit?"
+      },
+      {
+        "answer": "While the protagonist originates from Poland, the primary setting of the movie is France, where he establishes his underground operations.",
+        "question": "Where does the film take place?"
+      },
+      {
+        "answer": "It is ideal for fans of true-crime dramas, historical biopics, and detailed cat-and-mouse thrillers that showcase meticulous craftsmanship and high-stakes subterfuge.",
+        "question": "Who would enjoy watching The Money Maker?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror content, with low tension focused on criminal detection and eluding law enforcement."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild profanity consistent with a period drama."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Mild, brief violence standard for a post-WWII crime drama/thriller, focusing primarily on tension and resistance-era forging rather than explicit gore."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Depictions of tobacco smoking and alcohol use typical of mid-20th-century settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; brief non-explicit depictions of married adult life."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate psychological tension involving exile, war-time survival, secret double life, and police pursuit."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 3,
+      "science": 6,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-20 15:02:01.265023",
+    "updated_at": "2026-08-20 15:02:01.265023"
+  }
 }
