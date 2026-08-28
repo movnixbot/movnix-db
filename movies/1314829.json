@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.5439,
-    "voteAverage": 8.204,
-    "voteCount": 27,
+    "popularity": 3.2098,
+    "voteAverage": 7.982,
+    "voteCount": 28,
     "homepage": "https://mock-movie-website.com/movies/1314829",
     "posterPath": "/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
     "backdropPath": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
@@ -191,8 +191,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.204,
-      "votesCount": 27
+      "ratingValue": 7.982,
+      "votesCount": 28
     },
     {
       "source": "crawled",
@@ -441,5 +441,266 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1314829/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1314829,
+    "hash": "145eb009005ae0819620effed5816e627ed882bb18c39cbc6c5817bc64671bbb",
+    "summary_one_sentence": "A beloved children's TV host with amnesia struggles to recall his past as his familiar puppet co-stars turn dangerously sinister.",
+    "summary_short": "After waking up with severe amnesia, a celebrated host of a classic children's television show attempts to rebuild his forgotten identity. However, returning to set offers little comfort as his beloved puppet co-stars begin displaying unnerving and hostile behavior. Isolated and increasingly paranoid, he must navigate a disturbing environment where the set itself seems to actively manipulate his perception. As his memories slowly resurface, the boundary separating his innocent stage persona from a dark reality completely collapses.",
+    "summary_long": "Following a sudden and unexplained episode of amnesia, a renowned children's TV host finds himself thrust back onto the set of his iconic show. Disoriented and desperate for familiar ground, he attempts to resume filming alongside the colorful puppet characters that made him famous. Instead of warmth, he is met with an eerie atmosphere and puppet co-stars that seem to move, watch, and act with subtle malice. The host's struggle to recall his personal history becomes tangled in strange, unscripted moments during production that feel targeted directly at his psyche. Strange hallucinations begin bleed into his daily life, causing him to question whether he is losing his mind or if a darker force is orchestrating his breakdown. With every passing rehearsal, the line between harmless child's entertainment and a terrifying nightmare grows razor-thin. Clues hidden within old set props and archival tapes hint at a traumatic past event tied to the show's origins. Desperate for answers, he confronts the production team, only to realize nobody else sees the puppets moving on their own. Trapped within a surreal soundstage that mirrors his broken mind, he must confront his deepest forgotten secrets before the show claims his sanity permanently.",
+    "synopsis": "When the beloved host of 'Monkey’s Magic Merry Go Round' suffers a mysterious bout of amnesia, returning to his cheerful studio set seems like the fastest route to recovery. Surrounded by the nostalgic props and whimsical puppets that defined his career, he hopes the familiar routine will spark his missing memories. Instead, the production takes a dark turn as his puppet co-stars begin exhibiting sinister behavior, subtly tormenting him both on and off camera. As strange occurrences multiply across the studio, the host finds himself caught in a psychological spiral where reality and performance become indistinguishable. 'Monkey’s Magic Merry Go Round' is a chilling exploration of memory, performance, and psychological horror that questions whether our pasts can ever truly be forgotten.",
+    "keywords": [
+      "amnesia",
+      "creepy puppets",
+      "children's television host",
+      "fractured memories",
+      "unravelling reality",
+      "sinister co-stars",
+      "psychological thriller",
+      "surreal nightmare",
+      "corrupted innocence",
+      "dark TV industry",
+      "hallucination or reality",
+      "memory loss plot",
+      "haunted stage"
+    ],
+    "themes": [
+      {
+        "theme": "Memory & Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Loss of Innocence",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Reality vs. Illusion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Psychological Horror",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Psychological Horror",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The boundary between the show's set and Monkey's psychological reality completely shatters, leading to a terrifying confrontation where the truth behind his amnesia and the puppets' true nature is forced into the open.",
+      "conflict": "As production resumes, Monkey notices subtle, sinister changes in his familiar puppet co-stars, forcing him to struggle between maintaining his cheerful persona and uncovering the lost memories of what happened to him.",
+      "resolution": "With the terrifying illusion unmasked, Monkey must face the grim reality of his past and deal with the lingering consequences of his unraveling world.",
+      "introduction": "Children's television host Monkey wakes up from a mysterious bout of amnesia, attempting to return to his beloved show despite feeling a growing sense of detachment and confusion about his past.",
+      "risingAction": "Disturbing incidents occur on and off set as the puppets become increasingly menacing, reality begins to bend, and Monkey digs deeper into the fractured clues of his memory to distinguish performance from nightmare."
+    },
+    "characters": [
+      {
+        "name": "Michael Gilio",
+        "role": "Hero",
+        "description": "The beloved children's television host suffering from amnesia, struggling to uncover the truth behind his fractured memories."
+      },
+      {
+        "name": "Puppet Co-Stars",
+        "role": "Villain",
+        "description": "The once-cheerful puppet characters who now act with sinister intent, blurring the line between performance and nightmare."
+      },
+      {
+        "name": "Frank Cesario",
+        "role": "Supporting Character",
+        "description": "A cast/crew member involved in the television production who interacts with the host as reality unravels."
+      },
+      {
+        "name": "C.R. Thompson",
+        "role": "Supporting Character",
+        "description": "A key figure surrounding the host, contributing to the unfolding mystery of the show."
+      },
+      {
+        "name": "Jackie Shook",
+        "role": "Supporting Character",
+        "description": "A supporting cast member whose role highlights the growing tension between the host and his environment."
+      },
+      {
+        "name": "Connar Brown Sprenger",
+        "role": "Comic Relief",
+        "description": "A character providing moments of eccentric or lighthearted contrast within the surreal, dark atmosphere."
+      },
+      {
+        "name": "Ben Gojer",
+        "role": "Supporting Character",
+        "description": "Part of the ensemble aiding or hindering the host's journey to regain his memory."
+      },
+      {
+        "name": "Rob Chesler",
+        "role": "Mentor",
+        "description": "A figure from the host's past or television crew who offers key insights into his forgotten memories."
+      },
+      {
+        "name": "Erick Heyer-Fogelberg",
+        "role": "Other",
+        "description": "An enigmatic presence within the fractured reality of the television set."
+      },
+      {
+        "name": "Roman Gilio",
+        "role": "Supporting Character",
+        "description": "A minor character connected to the main host's background or personal history."
+      },
+      {
+        "name": "Jordan Olivia Mershon",
+        "role": "Supporting Character",
+        "description": "A supporting character involved in the unfolding mystery of the show."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "James \"Jimbo\" Jensen",
+        "target": "Monkey",
+        "description": "Host and Puppet Co-star / Antagonists"
+      },
+      {
+        "source": "James \"Jimbo\" Jensen",
+        "target": "Neil",
+        "description": "Creator / Improvised Puppet Persona"
+      },
+      {
+        "source": "Monkey",
+        "target": "Playground Pals (Puppet Co-stars)",
+        "description": "Leader / Puppet Cohorts"
+      },
+      {
+        "source": "James \"Jimbo\" Jensen",
+        "target": "Playground Pals (Puppet Co-stars)",
+        "description": "TV Host / Traitorous Co-stars"
+      }
+    ],
+    "seo": {
+      "slug": "monkeys-magic-merry-go-round",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/monkeys-magic-merry-go-round](https://movnix.com/movie/monkeys-magic-merry-go-round)",
+        "name": "Monkey’s Magic Merry Go Round",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Psychological Thriller",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After a mysterious bout of amnesia, a beloved children’s television host struggles to piece together his fractured memories, only to find his once-cheerful puppet co-stars behaving with sinister intent. As reality unravels, the line between performance and nightmare begins to blur."
+      },
+      "keywords": [
+        "Monkey's Magic Merry Go Round",
+        "Monkey's Magic Merry Go Round movie",
+        "psychological horror movie",
+        "sinister puppets movie",
+        "amnesia thriller",
+        "children show horror"
+      ],
+      "canonical": "[https://movnix.com/movie/monkeys-magic-merry-go-round](https://movnix.com/movie/monkeys-magic-merry-go-round)",
+      "metaTitle": "Monkey’s Magic Merry Go Round (2026) - Official Movie Details & Overview",
+      "openGraph": {
+        "og:title": "Monkey’s Magic Merry Go Round - Psychological Horror Thriller",
+        "og:description": "A children's host with amnesia discovers his puppet co-stars have sinister motives in this chilling psychological horror."
+      },
+      "twitterCard": {
+        "twitter:title": "Monkey’s Magic Merry Go Round - Official Movie Overview",
+        "twitter:description": "When performance turns to nightmare: an amnesiac host confronts sinister puppets in Monkey’s Magic Merry Go Round."
+      },
+      "metaDescription": "An amnesiac children's host faces sinister puppet co-stars as reality unravels in Monkey’s Magic Merry Go Round. Watch trailers & read the full plot."
+    },
+    "faq": [
+      {
+        "answer": "The film follows a beloved children’s television host who suffers from amnesia. As he attempts to piece together his past, his cheerful puppet co-stars begin displaying sinister behavior, blurring the line between his performance and a living nightmare.",
+        "question": "What is the primary plot of Monkey’s Magic Merry Go Round?"
+      },
+      {
+        "answer": "The film is primarily a psychological horror and thriller, combining elements of puppet horror with dark mystery.",
+        "question": "What is the dominant genre of Monkey’s Magic Merry Go Round?"
+      },
+      {
+        "answer": "No, it is a fictional story designed to subvert the comforting nostalgia of classic children's television programming into a horror narrative.",
+        "question": "Is Monkey’s Magic Merry Go Round based on a true story?"
+      },
+      {
+        "answer": "No, it is a standalone original film and not currently tied to any preexisting cinematic franchise.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene, though the final image before the credits roll leaves a lasting unsettling note.",
+        "question": "Does Monkey’s Magic Merry Go Round have a post-credit scene?"
+      },
+      {
+        "answer": "No, despite featuring puppets and a children's television premise, the movie contains frightening imagery, psychological horror elements, and suspense intended for mature audiences.",
+        "question": "Is this movie suitable for children?"
+      },
+      {
+        "answer": "The film utilizes mostly physical, practical puppet effects to enhance the tangible, eerie atmosphere of a real studio set.",
+        "question": "Are the puppets in the film practical effects or CGI?"
+      },
+      {
+        "answer": "It explores themes of memory loss, trauma, repression, the falseness of public personas, and the loss of childhood innocence.",
+        "question": "What thematic elements does the movie explore?"
+      },
+      {
+        "answer": "The majority of the story takes place within the claustrophobic and increasingly surreal environment of the children's show soundstage and sound control room.",
+        "question": "Where does most of the film take place?"
+      },
+      {
+        "answer": "The ending leans heavily into psychological ambiguity, leaving viewers to interpret whether the events were a supernatural occurrence or a complete breakdown of the protagonist's psyche.",
+        "question": "Does the ending provide a definitive answer to what is real?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong psychological horror elements, unravelling reality, nightmare themes, and uncanny sinister puppets."
+      },
+      "language": {
+        "score": 0,
+        "description": "No foul language indicated in the title or overview."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Implied threat and sinister behavior from puppet characters without explicit violent acts described in the overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or romantic themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High psychological intensity focusing on amnesia, loss of reality, paranoia, and existential dread."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 4,
+      "mystery": 9,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-08-25 09:01:45.042327",
+    "updated_at": "2026-08-25 09:01:45.042327"
+  }
 }

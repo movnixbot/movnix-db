@@ -10,8 +10,8 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.2346,
-    "voteAverage": 6.607,
+    "popularity": 3.9183,
+    "voteAverage": 6.6,
     "voteCount": 14,
     "homepage": "https://mock-movie-website.com/movies/1232667",
     "posterPath": "/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg",
@@ -125,6 +125,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/eEBZ3cKpgcsHuIJk3mYFzYivPfM.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
       "width": 1789,
       "height": 1006,
@@ -170,7 +177,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.607,
+      "ratingValue": 6.6,
       "votesCount": 14
     },
     {
@@ -244,24 +251,6 @@
       "order": 6
     },
     {
-      "tmdbPersonId": 161932,
-      "name": "Jim Rash",
-      "profilePath": "/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 105648,
-      "name": "Nat Faxon",
-      "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1242110,
       "name": "Kevin J. Walsh",
       "profilePath": "/huPBnjbZmjuvnDENzCFzDRiU66C.jpg",
@@ -277,6 +266,24 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 105648,
+      "name": "Nat Faxon",
+      "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 161932,
+      "name": "Jim Rash",
+      "profilePath": "/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
