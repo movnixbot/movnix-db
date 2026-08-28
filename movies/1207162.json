@@ -10,8 +10,8 @@
     "budget": "30000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 12.3923,
-    "voteAverage": 6.175,
+    "popularity": 11.0852,
+    "voteAverage": 6.2,
     "voteCount": 20,
     "homepage": "https://wellgousa.com/films/rise-conqueror",
     "posterPath": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
@@ -154,14 +154,21 @@
       "type": "poster"
     },
     {
-      "filePath": "/615WsMjiK76xBzW6zQNaPjgvnpP.jpg",
+      "filePath": "/4TBbDkSUDbavdFT4Mnc37Dlxbc.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
     {
-      "filePath": "/4TBbDkSUDbavdFT4Mnc37Dlxbc.jpg",
+      "filePath": "/c3kApjx7PCtemfZau0FZ3cE9Hrl.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/615WsMjiK76xBzW6zQNaPjgvnpP.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -172,6 +179,13 @@
       "width": 2000,
       "height": 2999,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oBKLdMvotFzZyaG39hRwJUJRzfJ.jpg",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
       "type": "poster"
     },
     {
@@ -221,13 +235,6 @@
       "width": 600,
       "height": 900,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/oBKLdMvotFzZyaG39hRwJUJRzfJ.jpg",
-      "width": 1920,
-      "height": 2560,
-      "aspectRatio": 0.75,
       "type": "poster"
     },
     {
@@ -423,7 +430,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.175,
+      "ratingValue": 6.2,
       "votesCount": 20
     },
     {
@@ -738,5 +745,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1207162/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1207162,
+    "hash": "84bacaeac585d6c880823d5c18db167409cf37eff23d4a142ec3f53531192362",
+    "summary_one_sentence": "Exiled 14th-century warrior Timur employs tactical brilliance and ruthless ambition to unite fractured kingdoms along the crumbling Silk Road and forge the vast Timurid Empire.",
+    "summary_short": "Set during the crumbling of the 14th-century Silk Road, *Rise of the Conqueror* chronicles the brutal ascent of Timur from an exiled warrior to an empire builder. Facing constant warfare and fragmented factions, he utilizes unprecedented tactical brilliance and unyielding strength to conquer rival kingdoms across Central Asia, Iran, and Afghanistan. Undefeated on the battlefield, Timur's ruthless campaign permanently redraws the geopolitical map of the medieval world. The film showcases how sheer strategic will forged the legendary Timurid Empire from widespread chaos.",
+    "summary_long": "In the chaotic expanse of the 14th century, the iconic Silk Road falls into ruin while bloodthirsty factions wage war over the remnants of fractured kingdoms. Emerging from the desperation of exile with nothing left to lose, the fearless warrior Timur vows to reclaim power and reshape the continent. He meticulously analyzes the weaknesses of rival warlords, forging strategic alliances only to crush those who dare to oppose his vision. Across grueling military campaigns, Timur demonstrates unprecedented tactical intellect, earning a reputation as both a brilliant general and a terrifying conqueror. His forces sweep across regions spanning modern-day Afghanistan, Iran, and Central Asia, leaving an indelible mark of fear and awe in their wake. Battles are fought with uncompromising intensity, showcasing his ability to outmaneuver vastly superior numbers through discipline and psychological warfare. As his territory expands, Timur balances the burden of leadership with the brutal realities required to maintain absolute control over a volatile realm. Undefeated in battle, his unrelenting drive culminates in the unification of warring lands under a single banner. Ultimately, *Rise of the Conqueror* details the legendary rise of a military icon whose ambition birthed the powerful Timurid Empire.",
+    "synopsis": "Set in the tumultuous 14th century along the decaying trade routes of the Silk Road, *Rise of the Conqueror* explores the epic origin story of Timur, one of history's most celebrated yet feared military commanders. Driven into exile and stripped of his rights, Timur navigates a dangerous landscape dominated by warring kingdoms and rival factions. Through masterful military strategy, formidable willpower, and relentless brutality, he orchestrates a legendary campaign to consolidate power across Central Asia, Iran, and Afghanistan. Remaining undefeated throughout his conquests, Timur's fierce ambition and tactical genius ultimately lay the foundation for the historic Timurid Empire.",
+    "keywords": [
+      "14th century",
+      "historical epic",
+      "tactical genius",
+      "empire building",
+      "Silk Road",
+      "exile to power",
+      "brutal conqueror",
+      "unification war",
+      "warlord",
+      "Central Asian history",
+      "rival factions",
+      "military strategy",
+      "rise to power",
+      "dynastic founder"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Power & Conquest",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Rebuilding & Unity",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Legacy & Empire",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A decisive, high-stakes military campaign pits Timur against his primary rivals in a battle to determine the ultimate control over the fractured realm.",
+      "conflict": "Faced with fragmented kingdoms, political chaos, and ruthless enemies, Timur must survive and forge a path to power through military strategy and strength.",
+      "resolution": "With his enemies defeated, Timur consolidates power to establish the Timurid Empire, forging a dominant legacy across Central Asia, Iran, and Afghanistan.",
+      "introduction": "Set in the 14th century amid the collapse of the Silk Road, warrior Timur starts from the lowest point of exile and total loss in a land torn apart by rival factions.",
+      "risingAction": "Timur wage campaigns against rival factions, building his forces, orchestrating tactical triumphs, and establishing a reputation as an undefeated commander."
+    },
+    "characters": [
+      {
+        "name": "Timur",
+        "role": "Hero",
+        "description": "A fearless warrior and brilliant military tactician who fights from exile to unite fractured kingdoms and establish an empire."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Timur",
+        "target": "Aljai Khatun Agha",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Timur",
+        "target": "Hussayn",
+        "description": "Allies/Brother-in-law"
+      },
+      {
+        "source": "Timur",
+        "target": "Tugluk",
+        "description": "Commander/Subordinate (later Enemies)"
+      },
+      {
+        "source": "Timur",
+        "target": "Ilyas",
+        "description": "Advisor/Protege (turned Rivals)"
+      },
+      {
+        "source": "Timur",
+        "target": "Banu",
+        "description": "Rescuer/Allies"
+      },
+      {
+        "source": "Tugluk",
+        "target": "Ilyas",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Hussayn",
+        "target": "Aljai Khatun Agha",
+        "description": "Siblings"
+      }
+    ],
+    "seo": {
+      "slug": "rise-of-the-conqueror",
+      "jsonLd": {
+        "name": "Rise of the Conqueror",
+        "@type": "Movie",
+        "genre": [
+          "History",
+          "Action",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile to unite fractured kingdoms and carve out the Timurid Empire."
+      },
+      "keywords": [
+        "Rise of the Conqueror",
+        "Timur movie",
+        "Timurid Empire",
+        "14th century warrior",
+        "historical epic film"
+      ],
+      "canonical": "[https://movnix.com/movie/rise-of-the-conqueror](https://movnix.com/movie/rise-of-the-conqueror)",
+      "metaTitle": "Rise of the Conqueror - The Story of Timur",
+      "openGraph": {
+        "og:title": "Rise of the Conqueror - Epic Historical Drama",
+        "og:description": "Witness the legendary rise of Timur, one of history's greatest military tacticians, as he builds an empire from chaos."
+      },
+      "twitterCard": {
+        "twitter:title": "Rise of the Conqueror - Epic Historical Drama",
+        "twitter:description": "Witness the legendary rise of Timur, one of history's greatest military tacticians, as he builds an empire from chaos."
+      },
+      "metaDescription": "Discover the epic rise of Timur, the fearless warrior who united fractured kingdoms to build the legendary Timurid Empire in 14th-century Central Asia."
+    },
+    "faq": [
+      {
+        "answer": "Rise of the Conqueror tells the story of the 14th-century warrior Timur, who emerges from exile during the collapse of the Silk Road to unite fractured kingdoms through military genius and sheer strategy, ultimately founding the Timurid Empire.",
+        "question": "What is Rise of the Conqueror about?"
+      },
+      {
+        "answer": "The dominant genre is historical action drama, combining epic warfare, political strategy, and biographical narrative elements.",
+        "question": "What is the dominant genre of Rise of the Conqueror?"
+      },
+      {
+        "answer": "Yes, it is based on the historical life of Timur (also known as Tamerlane), the 14th-century conqueror who founded the Timurid Empire across modern-day Central Asia, Iran, and Afghanistan.",
+        "question": "Is Rise of the Conqueror based on a true story?"
+      },
+      {
+        "answer": "No, it is a standalone historical epic focused on the rise of Timur and the establishment of his empire.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes before the main credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film is set along the 14th-century Silk Road, spanning regions that make up modern-day Central Asia, Iran, and Afghanistan.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The film centers on the foundation of the Timurid Empire, which became one of the dominant powers in Asia during the late Middle Ages.",
+        "question": "What key historical empire is featured in the film?"
+      },
+      {
+        "answer": "The protagonist is Timur, a fearless tactician and military leader who rises from exile to become an undefeated emperor.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Given Timur's historical reputation as a brutal conqueror and military leader, viewers can expect intense battle sequences and mature themes related to warfare and political conflict.",
+        "question": "What age rating or content intensity should viewers expect?"
+      },
+      {
+        "answer": "The central themes include political ambition, strategic military warfare, resilience through exile, and the unification of fractured lands amidst chaos.",
+        "question": "What are the primary themes explored in the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild tense elements surrounding exile, military conflict, and chaos."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal or non-explicit language based on historical overview context."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of historical war violence, warfare tactics, and brutal conquests."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no references to drug or alcohol use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity referenced."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Highly intense themes involving empire collapse, exile, brutal warfare, and factional conflicts."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 1,
+      "mystery": 4,
+      "romance": 2,
+      "science": 1,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-08-25 01:01:29.351735",
+    "updated_at": "2026-08-25 01:01:29.351735"
+  }
 }
