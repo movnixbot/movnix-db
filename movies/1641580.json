@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5451,
+    "popularity": 3.4992,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1641580",
     "posterPath": "/4d86UYV3spPdqH2w9n0WouylnJl.jpg",
     "backdropPath": "/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
@@ -76,9 +76,21 @@
       "height": 1763,
       "aspectRatio": 0.666,
       "type": "poster"
+    },
+    {
+      "filePath": "/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -87,12 +99,102 @@
   ],
   "credits": [
     {
+      "tmdbPersonId": 4444297,
+      "name": "Athena Park",
+      "profilePath": "/z2Oi9YYcAnmEGM3hdFNuY1AM6TW.jpg",
+      "character": "The Kid",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 1841419,
+      "name": "Josh Bainbridge",
+      "profilePath": "/6DElbUWF8O0kCDXWnxRiUwwO6Ni.jpg",
+      "character": "Nobel",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 1880021,
+      "name": "Donno Mitoma",
+      "profilePath": "/kX5YNWQwhn6DJc0XAtqqJXvO0hT.jpg",
+      "character": "Patriarch",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 1649898,
+      "name": "Lora Burke",
+      "profilePath": "/hkK47d2DduNisGUYfAXmSFcr97D.jpg",
+      "character": "Metiseaya",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1570331,
+      "name": "Morgan Bedard",
+      "profilePath": "/8hjkAIrTNYLlJsGmKlsq2fwmibv.jpg",
+      "character": "Short Fat Bandit",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1825795,
+      "name": "Verlyn Plowman",
+      "profilePath": "/dDwI7B9N4xY4MX5OVg5SJXKsDIL.jpg",
+      "character": "Male Shop Owner",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
       "tmdbPersonId": 5477104,
       "name": "James Anthony Usas",
       "profilePath": null,
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5477105,
+      "name": "Jonathan Hlibka",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2739760,
+      "name": "Ryan Keller",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5477104,
+      "name": "James Anthony Usas",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2739760,
+      "name": "Ryan Keller",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
@@ -140,5 +242,258 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1641580/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1641580,
+    "hash": "3a93ca2b0fe83502c40adae15c45d1ca3e4001749519924bd22d7ce727d48f2f",
+    "summary_one_sentence": "In a frozen, fog-shrouded future, a protective warrior named Nobel must guide a young girl to safety at an abandoned laboratory, where digital holographic secrets hold the key to the physical world's survival.",
+    "summary_short": "Set in a bleak future where Earth is locked in an endless winter and covered by a deadly fog, a dedicated protector named Nobel takes a young girl on a perilous journey following the death of her father. Bound by a solemn oath to protect her dwindling lineage, Nobel leads her to her estranged aunt's last known location—an abandoned laboratory. Upon arrival, mysterious holographic recordings reveal the tragic and complex history of her family's past. As the boundary between the digital and physical realms begins to blur, the young girl realizes she may hold the key to saving what remains of humanity.",
+    "summary_long": "The story takes place in a distant, dystopian future where Earth has been rendered nearly uninhabitable by a permanent winter and a lethal, suffocating fog. Following the tragic murder of a man he was bound to protect, a resilient warrior named Nobel steps up to safeguard the man's young daughter, honoring a sacred vow to protect her family lineage. Together, they embark on a treacherous journey across the frozen wasteland to reach her aunt, a relative the girl has never met. Their destination is a long-abandoned laboratory hidden away from the deadly atmosphere above. Inside the subterranean facility, they activate automated systems that unleash a series of interactive holographic projections, detailing the groundbreaking work and tragic downfall of her ancestors. These digital archives expose deep secrets about the origin of the fog and the family's secret research into bridging virtual data with physical reality. As hostile forces close in on their location, the boundaries between holographic illusions and tangible matter begin to collapse. The young girl discovers that her unique genetic code allows her to manipulate the laboratory's digital matrix, potentially transforming virtual solutions into physical reality. Ultimately, Nobel and the girl must harness this hidden power to overcome the threats surrounding them and offer a glimmer of hope to a frozen world.",
+    "synopsis": "Set against the backdrop of a distant future where Earth is consumed by a perpetual winter and shrouded in a lethal mist, 'The Last Assassins' follows the high-stakes journey of a protector named Nobel and a young girl placed in his care. Bound by an ancient oath to safeguard her family, Nobel guides her across dangerous terrain to an abandoned research facility to find her long-lost aunt. There, atmospheric discoveries through holographic technology expose forgotten family truths, setting off a race to see if digital constructs can reshape physical reality before time runs out.",
+    "keywords": [
+      "post-apocalyptic",
+      "permanent winter",
+      "deadly fog",
+      "sworn protector",
+      "escort mission",
+      "family legacy",
+      "abandoned laboratory",
+      "holographic messages",
+      "digital to physical",
+      "chosen child",
+      "distant future",
+      "sci-fi drama",
+      "found family"
+    ],
+    "themes": [
+      {
+        "theme": "Duty and Honor",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Technology vs. Humanity",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Post-Apocalyptic World",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "As the secrets of the laboratory unfold, the boundary between digital projections and physical reality begins to blur, revealing that the young girl herself holds the key to a transformative technological phenomenon.",
+      "conflict": "Nobel must safely transport the girl through a hostile wasteland to reach her remaining relative, her estranged aunt, while navigating the lethal environment and protecting the rare surviving members of her bloodline.",
+      "resolution": "With the family's legacy fully exposed and the girl's vital role realized, a path forward emerges for her survival and the potential restoration of the world.",
+      "introduction": "In a bleak, frozen future consumed by deadly fog, Nobel—a guardian bound by an oath to protect a surviving family line—takes custody of a young girl following her father's murder.",
+      "risingAction": "The duo journeys across the ruined landscape and arrives at an abandoned laboratory, where holographic records reveal the long-buried history and true nature of the girl's family, raising questions about the boundaries between the digital and physical realms."
+    },
+    "characters": [
+      {
+        "name": "Nobel",
+        "role": "Hero",
+        "description": "A stoic guardian who has sworn to protect the family and guides the young girl across the dangerous, frozen landscape."
+      },
+      {
+        "name": "The Kid",
+        "role": "Hero",
+        "description": "The young girl whose father was killed; her unique connection to the abandoned laboratory's digital realm holds the solution to survival."
+      },
+      {
+        "name": "Metiseaya",
+        "role": "Mentor",
+        "description": "The young girl's estranged aunt, whom they seek out to unlock the secrets of her family's legacy."
+      },
+      {
+        "name": "Patriarch",
+        "role": "Supporting Character",
+        "description": "The young girl's father whose murder sets the journey in motion."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nobel",
+        "target": "The Kid",
+        "description": "Protector/Ward (Loyal family retainer sworn to guard and chaperone her to safety)"
+      },
+      {
+        "source": "The Kid",
+        "target": "Father",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Nobel",
+        "target": "Father",
+        "description": "Allies (Sworn retainer/protector to his family)"
+      },
+      {
+        "source": "The Kid",
+        "target": "Metiseaya (Aunt)",
+        "description": "Aunt/Niece (Unmet surviving family member at the abandoned laboratory)"
+      },
+      {
+        "source": "Nobel",
+        "target": "Metiseaya (Aunt)",
+        "description": "Allies (Sworn protector of her family lineage)"
+      },
+      {
+        "source": "The Kid",
+        "target": "Assassins Gang",
+        "description": "Enemies/Target of Revenge (Responsible for her father's murder)"
+      },
+      {
+        "source": "Nobel",
+        "target": "Assassins Gang",
+        "description": "Adversaries (Defends The Kid against their attacks)"
+      }
+    ],
+    "seo": {
+      "slug": "the-last-assassins",
+      "jsonLd": {
+        "name": "The Last Assassins",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Nobel",
+            "@type": "Person"
+          }
+        ],
+        "description": "In a distant future defined by a permanent winter and deadly fog, a sworn protector guides a young girl across the wasteland after her father's death, uncovering hidden truths at an abandoned laboratory that could blur the lines between the digital and physical worlds."
+      },
+      "keywords": [
+        "The Last Assassins",
+        "sci-fi movie",
+        "post apocalyptic film",
+        "futuristic thriller",
+        "cyberpunk movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-last-assassins](https://movnix.com/movie/the-last-assassins)",
+      "metaTitle": "The Last Assassins | Futuristic Sci-Fi Thriller",
+      "openGraph": {
+        "og:title": "The Last Assassins - A Sci-Fi Odyssey",
+        "og:description": "A sworn protector, a deadly fog, and a digital secret that could rewrite reality. Watch the struggle unfold in a frozen future."
+      },
+      "twitterCard": {
+        "twitter:title": "The Last Assassins | Post-Apocalyptic Sci-Fi",
+        "twitter:description": "Can the digital world become physical? Follow Nobel and a young woman through a frozen sci-fi wasteland."
+      },
+      "metaDescription": "In a frozen, fog-drenched future, a sworn protector must guide a young woman to safety, uncovering digital secrets that could alter reality itself."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is post-apocalyptic science fiction, combining elements of speculative action and drama.",
+        "question": "What is the dominant genre of The Last Assassins?"
+      },
+      {
+        "answer": "No, it appears to be a standalone story based on the premise of a unique sci-fi universe.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "As a standard release, it traditionally wraps up its plot before the credits, but viewers should check official runtime details for potential post-credit teasers.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main protagonist is Nobel, a protector who has sworn an oath to safeguard the remaining members of a specific family.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The plot takes place in a distant future where the Earth is trapped in a permanent winter and shrouded in a deadly fog.",
+        "question": "What is the primary setting of the plot?"
+      },
+      {
+        "answer": "Nobel's mission is triggered after the young girl's father is killed, forcing Nobel to honor his oath and escort her to safety.",
+        "question": "What triggers Nobel's mission in the story?"
+      },
+      {
+        "answer": "They are traveling to bring the young girl to her aunt, a relative she has never met before.",
+        "question": "Where are Nobel and the young girl traveling to?"
+      },
+      {
+        "answer": "They encounter holograms that reveal the tragic and hidden history of the girl's family.",
+        "question": "What key discovery do they make at the abandoned laboratory?"
+      },
+      {
+        "answer": "The movie explores whether the digital world—represented by the holograms—can manifest in the physical world, and how the young girl serves as the potential solution.",
+        "question": "What central sci-fi mystery does the film explore?"
+      },
+      {
+        "answer": "Very few members of the family remain alive, making the protection of the young girl vital to the survival of their lineage and legacy.",
+        "question": "What is the significance of the remaining family members?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate tension and uncanny elements stemming from a post-apocalyptic deadly fog, atmospheric isolation, and digital hologram reveals."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to occasional strong language typical of sci-fi thriller themes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy violence implied by assassin themes, post-apocalyptic survival, and the killing of a primary family member."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no drug, alcohol, or substance references implied."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving orphanhood, sworn protection duties, grief, and high-stakes futuristic survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 3,
+      "mystery": 8,
+      "romance": 0,
+      "science": 8,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-27 14:03:19.456357",
+    "updated_at": "2026-08-27 14:03:19.456357"
+  }
 }
