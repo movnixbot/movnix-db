@@ -10,9 +10,9 @@
     "budget": "7000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 7.5546,
-    "voteAverage": 5.8,
-    "voteCount": 57,
+    "popularity": 7.4381,
+    "voteAverage": 5.845,
+    "voteCount": 58,
     "homepage": "https://mock-movie-website.com/movies/1200320",
     "posterPath": "/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
     "backdropPath": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
@@ -394,6 +394,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/vMEkMP2GeLM5zj4zkd4qlvHMBVe.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
       "width": 1920,
       "height": 1080,
@@ -532,13 +539,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/lEhFi2Jv7E58yEuzj6vX1SxdCPp.jpg",
+      "width": 3560,
+      "height": 2000,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.8,
-      "votesCount": 57
+      "ratingValue": 5.845,
+      "votesCount": 58
     },
     {
       "source": "imdb",
@@ -784,6 +798,11 @@
     {
       "iso_3166_1": "RU",
       "title": "Проклятие пустоши",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "DE",
+      "title": "Devil in the Dust",
       "type": ""
     }
   ],
