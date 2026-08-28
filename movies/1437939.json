@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.9124,
+    "popularity": 6.165,
     "voteAverage": 5.1,
-    "voteCount": 42,
+    "voteCount": 45,
     "homepage": "https://www.snd-films.com/movies/55",
     "posterPath": "/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
     "backdropPath": "/zlxcwTkFet8e6FfGTkbKZfgb3PJ.jpg",
-    "collectionId": 1437944
+    "collectionId": 1437944,
+    "certification": "12+"
   },
   "collection": {
     "tmdbId": 1437944,
@@ -82,6 +83,13 @@
     },
     {
       "filePath": "/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/txAwLPgMVyYQx2G1Vjj3zpgfdt0.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -154,6 +162,20 @@
       "filePath": "/qgLNMwYSZgqWyDzf0yytH9zMbC5.jpg",
       "width": 667,
       "height": 1000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vmi0zcPAPbwWfyvCWTP0iZM9sWr.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/dO1sqQmkb5BslZIgH0F88yjYuu7.jpg",
+      "width": 1400,
+      "height": 2100,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -260,7 +282,7 @@
     {
       "source": "tmdb",
       "ratingValue": 5.1,
-      "votesCount": 42
+      "votesCount": 45
     },
     {
       "source": "imdb",
