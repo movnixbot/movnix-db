@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.21,
+    "popularity": 3.0668,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1490214",
@@ -90,13 +90,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/lxJVWuqAiFC7zhgpMUZM3It7Vgs.jpg",
-      "width": 1206,
-      "height": 1809,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
       "width": 2000,
       "height": 3000,
@@ -104,7 +97,21 @@
       "type": "poster"
     },
     {
+      "filePath": "/lxJVWuqAiFC7zhgpMUZM3It7Vgs.jpg",
+      "width": 1206,
+      "height": 1809,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/xt6Kj2NWaZNuLV0wEI9COgdkMBM.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eyq2Wkt94i3uibOMhzSXgPl695X.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -130,14 +137,16 @@
       "height": 1440,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/mYIRTQgdRG0EAfHMezjZIALROSK.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
-    {
-      "source": "imdb",
-      "ratingValue": 7.2,
-      "votesCount": 21
-    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -176,16 +185,16 @@
       "tmdbPersonId": 123846,
       "name": "Debby Ryan",
       "profilePath": "/hYMnrAO1fZx9tPmIM8xajliVT1N.jpg",
-      "character": null,
+      "character": "Lindsay",
       "job": "Actor",
       "department": "Acting",
       "order": 3
     },
     {
-      "tmdbPersonId": 1489288,
-      "name": "Anna Konkle",
-      "profilePath": "/5eXyNxWOESSAdDjVJyrW5SJEDzu.jpg",
-      "character": null,
+      "tmdbPersonId": 1971564,
+      "name": "Karley Sciortino",
+      "profilePath": "/aTNAV5xkQz4CKlRKMfx3vz4nf6F.jpg",
+      "character": "Sara",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -194,19 +203,91 @@
       "tmdbPersonId": 1181327,
       "name": "Lamorne Morris",
       "profilePath": "/9qPDnMsF7JbYSSn1K9yryFBmmXl.jpg",
-      "character": null,
+      "character": "Jack's Friend",
       "job": "Actor",
       "department": "Acting",
       "order": 5
     },
     {
-      "tmdbPersonId": 1971564,
-      "name": "Karley Sciortino",
-      "profilePath": "/aTNAV5xkQz4CKlRKMfx3vz4nf6F.jpg",
-      "character": null,
+      "tmdbPersonId": 1489288,
+      "name": "Anna Konkle",
+      "profilePath": "/5eXyNxWOESSAdDjVJyrW5SJEDzu.jpg",
+      "character": "Elizabeth",
       "job": "Actor",
       "department": "Acting",
       "order": 6
+    },
+    {
+      "tmdbPersonId": 2355955,
+      "name": "Drew Angle",
+      "profilePath": null,
+      "character": "Drew",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 6388506,
+      "name": "Slavik Lund",
+      "profilePath": null,
+      "character": "Kenny",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 40863,
+      "name": "Joe Swanberg",
+      "profilePath": "/fv4N4HkrQ7FUNEYJm1XVcnhoPRe.jpg",
+      "character": "Keith",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 6388508,
+      "name": "Lennix Lund",
+      "profilePath": null,
+      "character": "Baby",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 5473363,
+      "name": "Kincaid Zatalokin",
+      "profilePath": null,
+      "character": "Jude",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 6388510,
+      "name": "Charlie Golike",
+      "profilePath": null,
+      "character": "Abby",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 5078146,
+      "name": "Sanjay Choudrey",
+      "profilePath": null,
+      "character": "Ref",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 6388512,
+      "name": "Tim Nienhueser",
+      "profilePath": null,
+      "character": "Danny",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 40863,
@@ -290,7 +371,14 @@
       "buy": []
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "Brent Marchant",
+      "content": "We’ve all probably been through episodes of indecisiveness at some point in our lives, experiences in which we can honestly say we really don’t know what we want. Those circumstances can indeed be frustrating, too, leaving us unable to determine which path to pursue. But how we go about fixing such situations is what truly matters most, and this latest effort from writer-director Joe Swanberg is a prime example of what *not* to do. Thirty-one-year-old Wendy (Dakota Fanning), a construction equipment operator in Anchorage, Alaska, is a walking paradox. In some ways, she comes across as supremely cool, calm and collected, while at other times she appears adrift and unfocused – a combination of traits that illustrates she doesn’t know what she ultimately wants out of life. For two years, she’s been dating Jack (Jake Johnson), an older, divorced single father of two who gushingly adores her but also openly admits he’s not interested in remarrying – anyone – or having more children. What’s more, despite his avowed affection for Wendy, he senses she’s unsettled and urges her to take some time to find herself (whatever that might involve). It’s a suggestion that leaves her decidedly uncomfortable, making her feel as though Jack doesn’t love her as much as he says he does. That all changes, however, when she has a chance encounter with her ex-boyfriend, Chuck (Cory Michael Smith), a bad boy tourist pilot who recently moved back to Anchorage. Despite Chuck’s checkered past, he and Wendy quickly take up where they left off, a decision Jack finds highly suspect. He sees Wendy’s reinvolvement with Chuck as a mistake, and he abruptly pivots from his long-held no-strings relationship stance, spontaneously prompting him to profess his undying love to marry her and add to his progeny. But Wendy’s unwillingness to capitulate to his proposal subsequently launches them onto a new trajectory, effectively initiating an unending series of on-again/off-again romantic interludes involving the three members of this hapless love triangle. A few timely appearances by Jack’s new girlfriend, Sara (Karley Sciortino), are also thrown in for good measure, infusing the narrative with elements of jealousy and calculated leverage. From here, however, the story grows progressively circular, repetitive and shrill – and I didn’t buy any of it. The actions of these characters become more than a little too convenient to be credible, and they all (except Sara) exhibit a level of immaturity on par with that of junior high school students. What’s more, I’m at a loss to understand why anyone could, would or should care a whit about any of these individuals or their problems, especially considering how ineptly they handle them. And the resulting melodrama just keeps going on…and on…and on, a fitting metaphor for the never-ending daylight afforded by Alaska’s Midnight Sun (not to mention an apt reflection of the film’s title). To be sure, “The Sun Never Sets” boasts some gorgeous cinematography of the Alaskan wilderness (if only there were more of it) and a fine background soundtrack, but, if those are the best things one can say about a film, that’s not saying much. To be sure, romance is one of those areas of life that can be a tremendous source of indecisiveness, but, as it’s treated here, one might be better off remaining single.",
+      "rating": 3,
+      "createdAt": "2026-08-20T17:11:49Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
