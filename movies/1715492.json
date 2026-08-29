@@ -450,5 +450,274 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1715492/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1715492,
+    "hash": "1d87bdc5ac975c94bcb3fb2fc72badaba21a1f41432725c2e094bcf89bcc853c",
+    "summary_one_sentence": "Through rare archival footage and firsthand survivor accounts, this immersive documentary re-examines the catastrophic 2012 luxury cruise shipwreck and its harrowing immediate aftermath.",
+    "summary_short": "Shipwrecked: Nightmare at Sea takes viewers on a gripping journey into the 2012 disaster that turned a state-of-the-art luxury cruise into a scene of chaotic survival. Combining never-before-seen footage recorded by passengers with intimate interviews from survivors and responders, the documentary reconstructs the critical hours when the vessel ran aground. It explores both the human panic on board and the underlying decisions that led to the tragic event. Ultimately, it delivers a poignant and vivid account of resilience in the face of sudden marine tragedy.",
+    "summary_long": "The documentary begins by portraying the initial splendor and relaxed atmosphere aboard a state-of-the-art luxury cruise ship in 2012. As passengers enjoy their vacation, an unexpected navigational misstep causes the massive vessel to strike a submerged rock formation, crippling its hull. Initial confusion quickly gives way to terror as power fails, light turns into pitch darkness, and the ship begins to list heavily into the sea. Utilizing real-time video captured by terrified guests and crew, the film places viewers directly inside the escalating chaos on the tilting decks. Personal testimony from survivors reveals the desperate struggle for lifeboats, the breakdown of emergency protocols, and the brave actions of ordinary individuals attempting to save others. The narrative also examines the actions of the ship's command, contrasting official responses with the grim reality unfolding on the water. As night turns to dawn, rescue operations scramble to pull individuals from the sea and the capsized ship. The film concludes by reflecting on the psychological aftermath for the survivors and the lasting impact this modern maritime disaster had on cruise industry safety regulations.",
+    "synopsis": "Shipwrecked: Nightmare at Sea offers an immersive look at the 2012 disaster involving a luxury cruise ship. Utilizing never-before-seen footage recorded during the event alongside first-person survivor testimonies, the film captures the harrowing hours when a dream vacation transformed into a fight for survival in open water.",
+    "keywords": [
+      "maritime disaster",
+      "cruise ship accident",
+      "found footage",
+      "survivor accounts",
+      "shipwreck",
+      "2012 tragedy",
+      "ocean survival",
+      "luxury cruise",
+      "archival footage",
+      "firsthand testimony",
+      "immersive documentary",
+      "disaster footage",
+      "peril at sea"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Disaster & Crisis Management",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Human Endurance",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Tragedy & Loss",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Survivors face life-or-death decisions and intense peril as the ship reaches a critical point of collapse and emergency rescues unfold.",
+      "conflict": "The vessel strikes an obstacle at sea, causing severe damage, power loss, and immediate panic among the passengers and crew.",
+      "resolution": "The immediate ordeal concludes with the aftermath, highlighting survivor accounts, loss, and the investigation into the catastrophe.",
+      "introduction": "Passengers embark on a luxury cruise, establishing the initial setting and sense of routine before the impending disaster.",
+      "risingAction": "Chaos escalates as evacuation efforts begin amidst communication breakdowns, darkness, and the rapidly listing ship."
+    },
+    "characters": [
+      {
+        "name": "John Scimone",
+        "role": "Supporting Character",
+        "description": "A survivor and passenger on the Costa Concordia who provides key eyewitness accounts and footage of the night of the disaster."
+      },
+      {
+        "name": "Meghan Scimone",
+        "role": "Supporting Character",
+        "description": "A passenger on the ship alongside her husband John, sharing her emotional testimony of surviving the emergency."
+      },
+      {
+        "name": "Patricia Sandoval",
+        "role": "Supporting Character",
+        "description": "A cruise passenger who recounts her harrowing experience of the shipwreck and the evacuation process."
+      },
+      {
+        "name": "Nicholas Taliaferro",
+        "role": "Supporting Character",
+        "description": "A passenger who was planning to propose during the voyage and survived the chaos onboard."
+      },
+      {
+        "name": "Stefania Vincenzi",
+        "role": "Supporting Character",
+        "description": "A passenger on the cruise celebrating her mother's birthday who experienced the sudden disaster firsthand."
+      },
+      {
+        "name": "Manrico Giampedroni",
+        "role": "Hero",
+        "description": "The vessel's hotel manager who stayed onboard helping passengers, fell and broke his leg, and was saved 36 hours later as the final survivor."
+      },
+      {
+        "name": "Rose Metcalf",
+        "role": "Hero",
+        "description": "A ship dancer and crew member who demonstrated extraordinary bravery during the chaotic evacuation and was among the last saved."
+      },
+      {
+        "name": "Francesco Schettino",
+        "role": "Villain",
+        "description": "The disgraced captain of the Costa Concordia whose reckless actions caused the collision and who abandoned ship before passengers were safely evacuated."
+      },
+      {
+        "name": "Manoj Singh",
+        "role": "Supporting Character",
+        "description": "A chef on the ship who witnessed the captain's departure and shared his survival experience."
+      },
+      {
+        "name": "Francesco Boaria",
+        "role": "Other",
+        "description": "A specialized fire brigade diver who entered the submerged wreck and rescued trapped survivors like Manrico Giampedroni."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "John Scimone",
+        "target": "Meghan Scimone",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "John Scimone",
+        "target": "Lila Scimone",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Meghan Scimone",
+        "target": "Lila Scimone",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Nicholas Taliaferro",
+        "target": "Patricia Sandoval",
+        "description": "Engaged/Partners"
+      },
+      {
+        "source": "Stefania Vincenzi",
+        "target": "Maria Grazia Trecarichi",
+        "description": "Daughter/Mother"
+      },
+      {
+        "source": "Francesco Schettino",
+        "target": "Rose Metcalf",
+        "description": "Captain/Crew Member (Dancer)"
+      },
+      {
+        "source": "Francesco Schettino",
+        "target": "Manrico Giampedroni",
+        "description": "Captain/Hotel Manager"
+      },
+      {
+        "source": "Francesco Schettino",
+        "target": "Manoj Singh",
+        "description": "Captain/Crew Member (Chef)"
+      }
+    ],
+    "seo": {
+      "slug": "shipwrecked-nightmare-at-sea",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/shipwrecked-nightmare-at-sea](https://movnix.com/movie/shipwrecked-nightmare-at-sea)",
+        "name": "Shipwrecked: Nightmare at Sea",
+        "@type": "Movie",
+        "genre": [
+          "Documentary"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary."
+      },
+      "keywords": [
+        "Shipwrecked Nightmare at Sea",
+        "2012 cruise shipwreck documentary",
+        "cruise ship disaster movie",
+        "real shipwreck survivor accounts",
+        "luxury cruise disaster"
+      ],
+      "canonical": "[https://movnix.com/movie/shipwrecked-nightmare-at-sea](https://movnix.com/movie/shipwrecked-nightmare-at-sea)",
+      "metaTitle": "Shipwrecked: Nightmare at Sea (2012) - Watch Documentary",
+      "openGraph": {
+        "og:title": "Shipwrecked: Nightmare at Sea - Immersive 2012 Cruise Disaster Documentary",
+        "og:description": "Watch never-before-seen footage and gripping survivor accounts of the 2012 luxury cruise disaster in this thrilling documentary."
+      },
+      "twitterCard": {
+        "twitter:title": "Shipwrecked: Nightmare at Sea - 2012 Cruise Disaster Documentary",
+        "twitter:description": "Uncover the real story behind the 2012 luxury cruise shipwreck through unseen footage and survivor accounts."
+      },
+      "metaDescription": "Discover the true story of the 2012 luxury cruise disaster with unreleased footage and survivor accounts in Shipwrecked: Nightmare at Sea."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is documentary, specifically a historical and disaster documentary.",
+        "question": "What is the dominant genre of Shipwrecked: Nightmare at Sea?"
+      },
+      {
+        "answer": "Yes, it is based on the true events of the 2012 Costa Concordia cruise ship disaster.",
+        "question": "Is Shipwrecked: Nightmare at Sea based on a true story?"
+      },
+      {
+        "answer": "No, it is a standalone documentary film.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a non-fiction documentary, there are no post-credit scenes or teaser sequences.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The documentary features never-before-seen real footage from the event alongside firsthand accounts and interviews with survivors.",
+        "question": "What kind of footage is featured in the documentary?"
+      },
+      {
+        "answer": "It covers the 2012 grounding and partial capsizing of a luxury cruise liner off the coast of Italy and the dramatic rescue effort that followed.",
+        "question": "What event does the documentary cover?"
+      },
+      {
+        "answer": "Parental discretion is advised due to tense and emotional survivor accounts detailing a real-life disaster and life-threatening situations.",
+        "question": "Is this film suitable for children?"
+      },
+      {
+        "answer": "The documentary primarily features survivors, emergency responders, and maritime experts giving eyewitness accounts.",
+        "question": "Who appears in the documentary?"
+      },
+      {
+        "answer": "It is described as an immersive, intense, and dramatic film that builds tension through real footage and personal testimonies.",
+        "question": "What is the tone and style of the film?"
+      },
+      {
+        "answer": "Availability depends on regional distribution, but it is typically accessible via major streaming platforms or video-on-demand services.",
+        "question": "Where can I watch Shipwrecked: Nightmare at Sea?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Moderate thematic dread and suspense stemming from intense real-life survival conditions, claustrophobic vessel flooding, and life-threatening environments."
+      },
+      "language": {
+        "score": 3,
+        "description": "Infrequent mild to moderate language used by survivors recounting stressful and harrowing emergency situations."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal graphic physical violence. Potential depictions of real-life chaos, minor injuries, or emergency rescue efforts during a maritime disaster."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No significant depictions or references to substance abuse or drug use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional distress driven by intense real-life survival accounts, real documentary footage of panic, loss, and traumatic life-or-death scenarios."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 0,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-08-29 20:07:50.869926",
+    "updated_at": "2026-08-29 20:07:50.869926"
+  }
 }
