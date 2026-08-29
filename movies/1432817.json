@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6196,
+    "popularity": 2.0175,
     "voteAverage": 5.9,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1432817",
@@ -177,6 +177,20 @@
       "filePath": "/9EDfuvUKXT3DdCrBWLfTkX8Brtx.jpg",
       "width": 1920,
       "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/InREJblRnuapxrlbgfOV7JXL82.jpg",
+      "width": 3306,
+      "height": 1859,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/iuTkMHF6XISK5RTQyj8TGN0jQKj.jpg",
+      "width": 3708,
+      "height": 2085,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -371,5 +385,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1432817/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1432817,
+    "hash": "cf53cce3893fb82ee5909d777422d66911e9e32f192d57bec59283bda9f84713",
+    "summary_one_sentence": "When her friend mysteriously disappears during a DJ tour in the Canary Islands, Romy must navigate local hostility and a web of secrets that lead to a magnetic stranger and a sinister exotic animal sanctuary.",
+    "summary_short": "French DJ Romy is on tour across the sun-drenched, club-filled Canary Islands when her friend suddenly vanishes without a trace. Frustrated by the stonewalling tactics of both local authorities and residents, she embarks on her own desperate investigation. Her search brings her into the orbit of an alluring stranger and exposes the dark underbelly of a local exotic animal sanctuary.",
+    "summary_long": "Romy, a talented French DJ, arrives in the Canary Islands for a high-energy nightlife tour set against a backdrop of sun-bleached beaches and pulsating clubs. The exciting atmosphere turns nightmarish when her close friend suddenly goes missing after a night out. When Romy tries to get help, she is met with cold indifference, evasion, and bureaucratic stonewalling from local officials and residents alike. Refusing to give up, Romy launches her own investigation through the unfamiliar terrain and underground party scene. Along the way, she crosses paths with a magnetic stranger whose motives remain dangerously ambiguous. As the two dig deeper into the mystery, the clues lead away from the nightlife scene and toward a secluded exotic animal sanctuary. Behind the sanctuary's idyllic facade, Romy uncovers a sinister network managed by treacherous proprietors. Navigating escalating threat and deceit, she must risk her own safety to uncover the truth behind her friend's disappearance before it is too late.",
+    "synopsis": "Set against the vibrant contrast of sun-drenched Mediterranean landscapes and neon-lit electronic music venues, 'Mi Amor' is a gripping thriller centered on Romy, a touring French DJ. Romy's life is upended when her traveling companion disappears, leaving no trace behind. As Romy tries to piece together the events leading up to the disappearance, she hits a wall of secrecy from both tight-lipped locals and unhelpful authorities. Her relentless pursuit of answers draws her deeper into a complex web of lies, bringing her into contact with an enigmatic stranger who becomes an ally in her search. Together, they trace the missing friend's final movements, leading them to a remote exotic animal sanctuary. Beneath the surface of this unusual establishment lies a dark, dangerous reality that threatens everyone who gets too close.",
+    "keywords": [
+      "missing person",
+      "disappearance",
+      "club culture",
+      "electronic music",
+      "canary islands",
+      "touring dj",
+      "exotic animal sanctuary",
+      "sinister proprietors",
+      "magnetic stranger",
+      "island noir",
+      "local corruption",
+      "sun-bleached noir",
+      "desperate search",
+      "vacation gone wrong",
+      "atmospheric thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Isolation and Vulnerability",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Deception and Evasion",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Exploitation and Captivity",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Perilous Search and Justice",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Romy confronts the sinister operators of the sanctuary as the harrowing reality behind her friend's disappearance and the sanctuary's true operation comes to light.",
+      "conflict": "Her journey takes a sudden turn when her friend mysteriously disappears, and both local residents and authorities prove dismissive and unhelpful.",
+      "resolution": "In the aftermath of the ordeal, Romy deals with the consequences of her discoveries and seeks closure as her time in the Canary Islands comes to an end.",
+      "introduction": "Romy, a French DJ, arrives in the vibrant, sun-soaked Canary Islands for a high-energy tour of the local nightlife and club scene.",
+      "risingAction": "Determined to find answers, Romy pushes deeper into the islands' underbelly, crossing paths with a charismatic stranger and tracing clues to an isolated, exotic animal sanctuary."
+    },
+    "characters": [
+      {
+        "name": "Romy",
+        "role": "Hero",
+        "description": "A French DJ searching for her missing friend across the Canary Islands, driving the narrative forward despite facing evasion and local hostility."
+      },
+      {
+        "name": "Vincent",
+        "role": "Anti Hero",
+        "description": "A magnetic nightclub owner who assists Romy in her search, though his complex ties and moral ambiguity obscure his true motives."
+      },
+      {
+        "name": "Chloé",
+        "role": "Supporting Character",
+        "description": "Romy's close friend whose sudden disappearance initiates the central investigation and plot."
+      },
+      {
+        "name": "Proprietors of the Exotic Animal Sanctuary",
+        "role": "Villain",
+        "description": "The sinister owners running the animal sanctuary who harbor dark secrets tied to the disappearance."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Romy",
+        "target": "Missing Friend",
+        "description": "Friends / Search Subject"
+      },
+      {
+        "source": "Romy",
+        "target": "Magnetic Stranger",
+        "description": "Allies / Romantically Drawn"
+      },
+      {
+        "source": "Romy",
+        "target": "Exotic Animal Sanctuary Proprietors",
+        "description": "Adversaries / Suspicious Opponents"
+      },
+      {
+        "source": "Romy",
+        "target": "Canary Islands Locals & Authorities",
+        "description": "Hostile / Obstacles to Search"
+      },
+      {
+        "source": "Magnetic Stranger",
+        "target": "Exotic Animal Sanctuary Proprietors",
+        "description": "Key Connections / Network Contacts"
+      }
+    ],
+    "seo": {
+      "slug": "mi-amor",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/mi-amor](https://movnix.com/movie/mi-amor)",
+        "name": "Mi Amor",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Romy is a French DJ touring the sun-bleached and club-lit Canary Islands, until her friend vanishes. Met with evasion from locals and the authorities, her search leads her to a magnetic stranger and the sinister proprietors of an exotic animal sanctuary."
+      },
+      "keywords": [
+        "Mi Amor movie",
+        "Mi Amor synopsis",
+        "Romy French DJ movie",
+        "Canary Islands mystery film",
+        "thriller movies 2026",
+        "Mi Amor plot"
+      ],
+      "canonical": "[https://movnix.com/movie/mi-amor](https://movnix.com/movie/mi-amor)",
+      "metaTitle": "Mi Amor (2026) - Official Movie Synopsis, News & Updates",
+      "openGraph": {
+        "og:title": "Mi Amor - A Canary Islands Mystery Thriller",
+        "og:description": "Follow French DJ Romy as her search for a missing friend reveals a web of secrets and a sinister sanctuary in the Canary Islands."
+      },
+      "twitterCard": {
+        "twitter:title": "Mi Amor - Official Film Details",
+        "twitter:description": "A French DJ's search for her vanished friend leads to dark secrets in the Canary Islands. Discover Mi Amor."
+      },
+      "metaDescription": "When her friend vanishes in the Canary Islands, French DJ Romy uncovers dark secrets involving a stranger and a sinister animal sanctuary in Mi Amor."
+    },
+    "faq": [
+      {
+        "answer": "Mi Amor follows Romy, a French DJ touring the Canary Islands, whose trip turns sinister when her friend mysteriously vanishes. Facing unhelpful locals and indifferent authorities, her investigation draws her toward a magnetic stranger and the dark secrets behind an exotic animal sanctuary.",
+        "question": "What is the plot of Mi Amor?"
+      },
+      {
+        "answer": "The film is primarily a mystery thriller with strong elements of suspense and drama.",
+        "question": "What is the dominant genre of Mi Amor?"
+      },
+      {
+        "answer": "No, Mi Amor is an original fictional suspense story created for the screen.",
+        "question": "Is Mi Amor based on a true story or a book?"
+      },
+      {
+        "answer": "Mi Amor is a standalone film and is not part of any pre-existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or a standalone film?"
+      },
+      {
+        "answer": "The story is set across the sun-bleached landscapes and vibrant club scenes of the Canary Islands, Spain.",
+        "question": "Where is Mi Amor set and filmed?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes; the story fully concludes before the credits roll.",
+        "question": "Is there a post-credit scene in Mi Amor?"
+      },
+      {
+        "answer": "The story centers on Romy, a French DJ who takes matters into her own hands to find her missing friend.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The exotic animal sanctuary serves as a central mystery location, run by sinister proprietors who hold key secrets to the friend's disappearance.",
+        "question": "What role does the animal sanctuary play in the story?"
+      },
+      {
+        "answer": "Due to its mature thriller themes, suspenseful atmosphere, and nightclub backdrop, it is generally intended for mature and adult audiences.",
+        "question": "Is Mi Amor suitable for younger audiences?"
+      },
+      {
+        "answer": "The film features a mix of French, Spanish, and English dialogue, reflecting its international cast and Canary Islands setting.",
+        "question": "In what language is the movie presented?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Eerie and unsettling atmospheric suspense, underlying psychological dread, and mysterious threats."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild strong language typical for a mystery or thriller setting."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mild to moderate threat, implied danger, and potential force surrounding a missing person investigation and sinister sanctuary owners."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate references to nightlife, alcohol, and party culture consistent with a touring DJ in club settings."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Implied romantic or sensual attraction involving a magnetic stranger, with no explicit physical content detailed."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional stress driven by a friend's sudden disappearance and local hostility."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 5,
+      "science": 0,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-08-21 23:07:44.281054",
+    "updated_at": "2026-08-21 23:07:44.281054"
+  }
 }
