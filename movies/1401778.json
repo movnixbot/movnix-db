@@ -658,5 +658,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1401778/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1401778,
+    "hash": "04fb7228a7ff614594b96d3a933b91f9a55f0ece616b1a01a3b4e7f89865ec51",
+    "summary_one_sentence": "A struggling young couple's romantic hot air balloon ride over the Italian Dolomites turns into a high-altitude fight for survival when an unexpected fourth passenger triggers a series of terrifying events.",
+    "summary_short": "Hoping to rekindle their fraying marriage, Zach and Emmy embark on a scenic hot air balloon tour across the breathtaking Italian Dolomites. Accompanied by their pilot, Harry, the couple's quiet getaway is upended when a mysterious third passenger, Julia, joins the flight. Suspicion and tension quickly escalate thousands of meters above the ground, forcing everyone aboard to navigate both human deceit and perilous airborne conditions. As dark secrets emerge, what was meant to be a romantic journey becomes a desperate struggle to reach the ground alive.",
+    "summary_long": "Zach and Emmy are a young married couple facing a deep rift in their relationship, prompting them to book a hot air balloon excursion across the stunning peaks of the Italian Dolomites in a desperate attempt to reconnect. Under the guidance of their experienced pilot, Harry, the ride promises peace, isolation, and unforgettable views high above the mountainous terrain. However, the dynamics shift drastically when Julia, an enigmatic last-minute addition, joins the voyage with motives that remain unclear. As the balloon ascends to a harrowing altitude of five thousand meters, subtle tensions between the passengers rapidly escalate into open conflict and mistrust. Julia's unexpected presence acts as a catalyst, unraveling secrets that Zach and Emmy have kept hidden from each other while putting the entire group in immediate danger. Trapped in a tiny basket floating miles above the Earth, the group must contend with severe weather, mechanical failure, and rising hostility within the group. Harry struggles to maintain control of the aircraft as sabotage and betrayal threaten to plunge the balloon into the jagged peaks below. Every decision becomes life-or-death as physical endurance and mental stability are pushed to the absolute limit. Ultimately, Zach and Emmy are forced to confront the harsh truths of their bond while fighting side by side to outwit a deadly threat in the sky.",
+    "synopsis": "Hoping to repair their strained relationship, Zach and Emmy travel to Italy for a romantic hot air balloon voyage over the jagged, magnificent peaks of the Dolomites. Guided by seasoned pilot Harry, the peaceful flight takes a chilling turn when a enigmatic stranger named Julia unexpectedly boards the basket with them. Soaring thousands of meters above the mountain range, mysterious tensions and hidden agendas surface among the passengers, transforming a serene skyward getaway into a claustrophobic, high-stakes crisis where trust is low and the margin for error is non-existent.",
+    "keywords": [
+      "hot air balloon",
+      "Italian Dolomites",
+      "high altitude thrill",
+      "marriage in crisis",
+      "unwelcome intruder",
+      "isolated setting",
+      "relationship drama",
+      "survival thriller",
+      "airborne tension",
+      "hidden secrets",
+      "rekindling love",
+      "betrayal",
+      "perilous journey",
+      "confined space",
+      "psychological tension"
+    ],
+    "themes": [
+      {
+        "theme": "Relationship Reconciliation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Isolation and Vulnerability",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Trust and Betrayal",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A severe airborne crisis intersects with the revelation of a critical betrayal, forcing the passengers into a high-stakes struggle for survival where immediate life-or-death choices must be made.",
+      "conflict": "The peaceful journey is disrupted when an unannounced third passenger, Julia, joins the flight, immediately introducing tension, secrets, and unspoken history among the group thousands of meters above the ground.",
+      "resolution": "With the flight concluding, the surviving passengers face the irreversible emotional and physical aftermath of the journey, left to rebuild their lives in the wake of the ordeal.",
+      "introduction": "Zach and Emmy, a young married couple seeking to repair their strained relationship, embark on a scenic hot air balloon ride over the picturesque Italian Dolomites, accompanied by their pilot, Harry.",
+      "risingAction": "As the balloon climbs into high altitude, interpersonal frictions intensify alongside unpredictable weather conditions and mounting physical danger, forcing hidden truths to surface in the isolated, inescapable basket."
+    },
+    "characters": [
+      {
+        "name": "Zach",
+        "role": "Hero",
+        "description": "A young married man taking a hot air balloon trip to rekindle his relationship with his wife."
+      },
+      {
+        "name": "Emmy",
+        "role": "Hero",
+        "description": "Zach's wife, participating in the balloon journey across the Dolomites to fix their marriage."
+      },
+      {
+        "name": "Harry",
+        "role": "Supporting Character",
+        "description": "The pilot responsible for navigating the hot air balloon high above the Italian Alps."
+      },
+      {
+        "name": "Julia",
+        "role": "Villain",
+        "description": "The unexpected third passenger whose arrival triggers unpredictable and dangerous events in mid-air."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Zach",
+        "target": "Emmy",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Zach",
+        "target": "Harry",
+        "description": "Passenger/Pilot"
+      },
+      {
+        "source": "Emmy",
+        "target": "Harry",
+        "description": "Passenger/Pilot"
+      },
+      {
+        "source": "Julia",
+        "target": "Zach",
+        "description": "Unexpected Passenger/Fellow Traveler"
+      },
+      {
+        "source": "Julia",
+        "target": "Emmy",
+        "description": "Unexpected Passenger/Fellow Traveler"
+      },
+      {
+        "source": "Julia",
+        "target": "Harry",
+        "description": "Passenger/Pilot"
+      }
+    ],
+    "seo": {
+      "slug": "turbulence",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/turbulence](https://movnix.com/movie/turbulence)",
+        "name": "Turbulence",
+        "@type": "Movie",
+        "genre": [
+          "Thriller",
+          "Drama",
+          "Suspense"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air."
+      },
+      "keywords": [
+        "Turbulence movie",
+        "Turbulence thriller",
+        "Italian Dolomites movie",
+        "hot air balloon thriller",
+        "Zach and Emmy Turbulence"
+      ],
+      "canonical": "[https://movnix.com/movie/turbulence](https://movnix.com/movie/turbulence)",
+      "metaTitle": "Turbulence Movie: Thriller set in the Italian Dolomites",
+      "openGraph": {
+        "og:title": "Turbulence - High-Altitude Suspense Thriller",
+        "og:description": "A hot air balloon trip across the Italian Dolomites turns into a high-altitude nightmare for a couple and their mystery passenger."
+      },
+      "twitterCard": {
+        "twitter:title": "Turbulence - High-Altitude Suspense Thriller",
+        "twitter:description": "A hot air balloon trip across the Italian Dolomites turns into a high-altitude nightmare for a couple and their mystery passenger."
+      },
+      "metaDescription": "Zach and Emmy's hot air balloon trip over the Dolomites takes a dark turn when a mysterious passenger joins them. Watch the suspense unfold 5,000 meters high."
+    },
+    "faq": [
+      {
+        "answer": "Turbulence follows a young married couple, Zach and Emmy, who take a hot air balloon trip over the Italian Dolomites to rekindle their relationship. However, unexpected events unfold high in the air after they are joined by a third passenger named Julia.",
+        "question": "What is the primary plot of Turbulence?"
+      },
+      {
+        "answer": "The dominant genre of the film is a thriller, combining elements of dramatic tension and suspense set in a high-altitude, isolated environment.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "The main characters are Zach and Emmy, a married couple attempting to reconnect; Harry, the hot air balloon pilot; and Julia, the mysterious third passenger who joins their trip.",
+        "question": "Who are the main characters in Turbulence?"
+      },
+      {
+        "answer": "The film is set five thousand meters in the air aboard a hot air balloon floating over the scenic Italian Dolomites.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Turbulence is a standalone film and is not connected to any existing movie franchise, cinematic universe, or series.",
+        "question": "Is this movie part of a franchise or a standalone film?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene. The story concludes completely before the credits begin to roll.",
+        "question": "Is there a post-credit scene in Turbulence?"
+      },
+      {
+        "answer": "Turbulence is an original fictional story written specifically for the screen and is not based on a true story or a pre-existing novel.",
+        "question": "Is Turbulence based on a true story or a book?"
+      },
+      {
+        "answer": "The film explores themes of marital tension, trust, survival, secrets, and the emotional vulnerabilities that surface when trapped in extreme conditions.",
+        "question": "What are the core themes explored in the film?"
+      },
+      {
+        "answer": "The movie contains high-altitude suspense, psychological intensity, strong language, and moderate violence, making it intended primarily for mature audiences.",
+        "question": "What age rating or content advice applies to Turbulence?"
+      },
+      {
+        "answer": "Streaming availability depends on your region, but the film can typically be found on major video-on-demand platforms for digital rental, purchase, or streaming.",
+        "question": "Where can viewers watch or stream Turbulence?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild suspense and psychological tension implied by an escalating crisis at high altitude."
+      },
+      "language": {
+        "score": 2,
+        "description": "Potential for mild to moderate realistic profanity under high-stress conditions."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Low baseline violence indicated by the premise, though potential for localized peril exists."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit drug or alcohol use mentioned in the premise."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content indicated, though thematic relationship tension between a married couple is present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity driven by psychological drama, interpersonal conflict, and high-altitude danger."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 6,
+      "science": 1,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-08-29 09:03:09.928979",
+    "updated_at": "2026-08-29 09:03:09.928979"
+  }
 }
