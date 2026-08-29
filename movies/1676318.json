@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 37.9279,
-    "voteAverage": 5.333,
-    "voteCount": 8,
+    "popularity": 37.0853,
+    "voteAverage": 5.214,
+    "voteCount": 14,
     "homepage": "https://www.primevideo.com/detail/0H2PAXFIYMG0G7B1Y2LPQV3MY0",
     "posterPath": "/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
     "backdropPath": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
@@ -21,6 +21,10 @@
   },
   "collection": null,
   "genres": [
+    {
+      "tmdbId": 10749,
+      "name": "Romance"
+    },
     {
       "tmdbId": 35,
       "name": "Comedy"
@@ -223,8 +227,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.333,
-      "votesCount": 8
+      "ratingValue": 5.214,
+      "votesCount": 14
     },
     {
       "source": "crawled",
@@ -452,7 +456,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": []
     }
   },
