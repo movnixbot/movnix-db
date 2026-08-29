@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 9.9118,
-    "voteAverage": 6.833,
-    "voteCount": 48,
+    "popularity": 12.5795,
+    "voteAverage": 6.8,
+    "voteCount": 49,
     "homepage": "https://mock-movie-website.com/movies/1074074",
     "posterPath": "/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
     "backdropPath": "/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
@@ -187,7 +187,21 @@
       "type": "poster"
     },
     {
+      "filePath": "/9YyOCIpHiioA8Oq0EVkSRx0600D.jpg",
+      "width": 1414,
+      "height": 2000,
+      "aspectRatio": 0.707,
+      "type": "poster"
+    },
+    {
       "filePath": "/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1B0Rk8jfV8wx3XlFQI0KoSsEBhK.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -290,13 +304,27 @@
       "height": 790,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/bzYbDweLMP3avFwYWymuX0F0Jl0.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/g09OdvnMCo9NgxcuQNgqM93eKDL.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.833,
-      "votesCount": 48
+      "ratingValue": 6.8,
+      "votesCount": 49
     },
     {
       "source": "crawled",
@@ -417,7 +445,7 @@
       "tmdbPersonId": 2634628,
       "name": "Chos",
       "profilePath": "/9c2Idw3pDNiYczjuutaJqcXmu1l.jpg",
-      "character": null,
+      "character": "Andrea",
       "job": "Actor",
       "department": "Acting",
       "order": 12
@@ -441,21 +469,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1303404,
-      "name": "Isabel Peña",
-      "profilePath": "/om1oN6wqFXBHHzqcI7BnzK3XQS.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 96690,
       "name": "Rodrigo Sorogoyen",
       "profilePath": "/9oxHoT0vzumur7tMynr1FsSjMEs.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1303404,
+      "name": "Isabel Peña",
+      "profilePath": "/om1oN6wqFXBHHzqcI7BnzK3XQS.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
