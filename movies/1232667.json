@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.9183,
+    "popularity": 5.1732,
     "voteAverage": 6.6,
     "voteCount": 14,
     "homepage": "https://mock-movie-website.com/movies/1232667",
@@ -76,6 +76,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/82IHHlvPbDrsTXfMpabil0TM5UD.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eEBZ3cKpgcsHuIJk3mYFzYivPfM.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/odnel7VLYHTdW3OdgRl7N5nSlpM.jpg",
       "width": 2000,
       "height": 3000,
@@ -125,9 +139,16 @@
       "type": "poster"
     },
     {
-      "filePath": "/eEBZ3cKpgcsHuIJk3mYFzYivPfM.jpg",
+      "filePath": "/rSyzo9gfS0wdUZl0u9WqRRFNUXv.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cyqvcmQOR3Ne54i4UDrQwfZOlft.jpg",
+      "width": 1024,
+      "height": 1536,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -251,6 +272,24 @@
       "order": 6
     },
     {
+      "tmdbPersonId": 161932,
+      "name": "Jim Rash",
+      "profilePath": "/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 105648,
+      "name": "Nat Faxon",
+      "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1242110,
       "name": "Kevin J. Walsh",
       "profilePath": "/huPBnjbZmjuvnDENzCFzDRiU66C.jpg",
@@ -266,24 +305,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 105648,
-      "name": "Nat Faxon",
-      "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 161932,
-      "name": "Jim Rash",
-      "profilePath": "/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -358,5 +379,239 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1232667/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1232667,
+    "hash": "90ff1c3689febc89fba4b74cf075e9eb41c61a06a5883f8934da17ad1bd5c7d0",
+    "summary_one_sentence": "Following her husband's sudden death, a blunt grieving widow forms an unexpected bond with her estranged son's gay assistant as they navigate the chaotic process of funeral planning.",
+    "summary_short": "In the wake of her husband's passing, a candid and grieving mother finds herself forced to co-organize the funeral alongside her estranged gay son’s gay assistant. What begins as an awkward alliance soon devolves into a series of darkly funny and deeply emotional misadventures. As long-buried secrets and family resentments surface, the duo's turbulent partnership evolves into a profound conduit for shared healing and unexpected connection.",
+    "summary_long": "After the sudden loss of her husband, a sharply honest and grieving widow is thrust into the overwhelming responsibility of organizing a proper memorial service. Compounding her emotional turmoil, she is paired up with a total stranger to handle the arrangements: the gay personal assistant of her estranged gay son. Forced to work together through every detail of the service, the mismatched pair navigate chaotic, darkly humorous circumstances that constantly test their patience. As they push through the friction, hidden family secrets, unaddressed resentments, and deep-seated grief begin to come to light. The assistant quickly steps into the emotional void, becoming an unexpected surrogate son to the mother who feels isolated from her own child. Through shared tears and necessary laughter, their erratic collaboration transforms into a lifeline of genuine empathy. Ultimately, the unconventional partnership allows the widow to confront her past while finding a path forward toward peace, forgiveness, and healing.",
+    "synopsis": "A blunt, grieving widow is forced to plan her husband’s funeral with a total stranger: her estranged gay son’s gay assistant. As they fumble through grief and their strange, darkly funny circumstances, buried secrets and long-held resentments surface, but their partnership becomes an unlikely conduit for connection, laughter, and healing for this mother and her unexpected surrogate son.",
+    "keywords": [
+      "grieving widow",
+      "estranged son",
+      "funeral planning",
+      "unlikely bond",
+      "dark comedy",
+      "surrogate son",
+      "family secrets",
+      "reconciliation",
+      "lgbtq+ themes",
+      "grief and healing",
+      "clashing personalities",
+      "emotional connection",
+      "mother and son relationship"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Healing",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Resentment and Reconciliation",
+        "confidence": 0.94
+      },
+      {
+        "theme": "Found Family",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Connection Through Humor",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Darkly Comic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Touching",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A major revelation during final preparations brings emotional tension to a breaking point, forcing both to confront painful truths about love, estrangement, and the legacy left behind.",
+      "conflict": "Faced with organizing an intimate farewell alongside someone from a world she disconnected from, long-held resentments and unspoken secrets threaten to keep the widow isolated in her grief.",
+      "resolution": "Through mutual vulnerability and newly discovered empathy, the widow and assistant form a powerful, enduring connection, allowing her to honor her past while accepting a new path toward healing.",
+      "introduction": "Following her husband's sudden death, a blunt, grieving widow is tasked with organizing his funeral alongside her estranged son’s gay assistant, an eager stranger thrust into her personal life.",
+      "risingAction": "As the duo navigates complex logistics and awkward preparations, their dark humor and shared frustration pull back layers of family history, gradually shifting their friction into an unexpected, supportive bond."
+    },
+    "characters": [
+      {
+        "name": "Grieving Widow (Allison Janney)",
+        "role": "Hero",
+        "description": "A blunt, grieving woman navigating the loss of her husband while confronting long-held family resentments and learning to process her grief."
+      },
+      {
+        "name": "Son's Assistant (Andrew Rannells)",
+        "role": "Supporting Character",
+        "description": "The gay assistant to the widow's estranged son who serves as an unexpected partner and surrogate son, helping guide her through the funeral process."
+      },
+      {
+        "name": "Estranged Son",
+        "role": "Other",
+        "description": "The central catalyst whose absent presence and past relationship with his mother drive the buried secrets and emotional conflict."
+      },
+      {
+        "name": "Supporting Cast (Suzy Nakamura, Bonnie Hunt, Oscar Nuñez, Lisa Schurga, Rocky Lippman)",
+        "role": "Comic Relief",
+        "description": "Friends, relatives, and eccentric local figures surrounding the funeral process who provide warmth, humor, and moments of levity."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Widow",
+        "target": "Deceased Husband",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Widow",
+        "target": "Estranged Son",
+        "description": "Mother/Son (Estranged)"
+      },
+      {
+        "source": "Widow",
+        "target": "Son's Assistant",
+        "description": "Funeral Co-planners / Unlikely Bond / Surrogate Mother and Son"
+      },
+      {
+        "source": "Estranged Son",
+        "target": "Son's Assistant",
+        "description": "Employer/Assistant"
+      },
+      {
+        "source": "Deceased Husband",
+        "target": "Estranged Son",
+        "description": "Father/Son"
+      }
+    ],
+    "seo": {
+      "slug": "miss-you-love-you",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/miss-you-love-you](https://movnix.com/movie/miss-you-love-you)",
+        "name": "Miss You, Love You",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A blunt, grieving widow is forced to plan her husband’s funeral with a total stranger: her estranged gay son’s gay assistant. As they fumble through grief, buried secrets surface, leading to an unlikely connection."
+      },
+      "keywords": [
+        "Miss You Love You",
+        "Miss You Love You movie",
+        "grief comedy drama",
+        "indie drama film",
+        "family drama movie",
+        "dark comedy movie"
+      ],
+      "canonical": "[https://movnix.com/movie/miss-you-love-you](https://movnix.com/movie/miss-you-love-you)",
+      "metaTitle": "Miss You, Love You (2026) - Synopses, Details & Info",
+      "openGraph": {
+        "og:title": "Miss You, Love You - Official Movie Details",
+        "og:description": "When a blunt widow and her estranged son's assistant team up to plan a funeral, dark humor and unexpected healing follow. Discover 'Miss You, Love You'."
+      },
+      "twitterCard": {
+        "twitter:title": "Miss You, Love You - Official Movie Details",
+        "twitter:description": "When a blunt widow and her estranged son's assistant team up to plan a funeral, dark humor and unexpected healing follow. Discover 'Miss You, Love You'."
+      },
+      "metaDescription": "A grieving widow and her estranged son's assistant form an unlikely bond while planning a funeral. Watch the darkly funny journey of grief and healing."
+    },
+    "faq": [
+      {
+        "answer": "The story follows a blunt, grieving widow who must plan her late husband’s funeral alongside her estranged gay son’s gay assistant. As the unlikely duo navigate their shared grief, long-buried secrets and resentments emerge, leading to unexpected humor, connection, and healing.",
+        "question": "What is Miss You, Love You about?"
+      },
+      {
+        "answer": "The dominant genre is dark comedy-drama, combining poignant themes of grief and family reconciliation with sharp, situational humor.",
+        "question": "What is the dominant genre of Miss You, Love You?"
+      },
+      {
+        "answer": "No, it is a standalone story and not part of an existing franchise, sequel, or cinematic universe.",
+        "question": "Is Miss You, Love You part of a franchise or an original film?"
+      },
+      {
+        "answer": "No, as a narrative comedy-drama, there is no post-credit scene or extra footage after the end credits.",
+        "question": "Is there a post-credit scene in Miss You, Love You?"
+      },
+      {
+        "answer": "The central themes include processing grief, unconventional family dynamics, overcoming past resentments, finding connection through shared pain, and finding humor in difficult moments.",
+        "question": "What are the core themes of the movie?"
+      },
+      {
+        "answer": "The primary focus is on the grieving mother and her estranged son's gay assistant, who acts as an unexpected surrogate son and helper during the funeral planning process.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "It is an original fictional screenplay centered on personal grief, family estrangement, and reluctant companionship.",
+        "question": "Is Miss You, Love You based on a book or true story?"
+      },
+      {
+        "answer": "Viewers can expect a mix of blunt, darkly funny moments alongside tender, emotionally resonant beats exploring loss and recovery.",
+        "question": "What tone can viewers expect from Miss You, Love You?"
+      },
+      {
+        "answer": "Yes, key elements of the story involve the protagonist's relationship with her estranged gay son and her bond with his gay assistant.",
+        "question": "Does the movie feature LGBTQ+ representation?"
+      },
+      {
+        "answer": "It is ideal for audiences who enjoy character-driven comedy-dramas, stories about unexpected friendships, and films that handle heavy topics like grief with humor and heart.",
+        "question": "Who would enjoy watching Miss You, Love You?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening themes present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate language potential, given the blunt character and darkly funny tone."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence depicted or referenced in the overview."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use indicated, though alcohol/smoking may feature casually in adult grief drama."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content; mentions gay identities in a non-sexual narrative context."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity focusing on themes of grief, loss, family estrangement, and buried resentments."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 0,
+      "comedy": 6,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-08-28 08:03:21.470603",
+    "updated_at": "2026-08-28 08:03:21.470603"
+  }
 }
