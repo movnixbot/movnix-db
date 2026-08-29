@@ -8,11 +8,11 @@
     "firstAirDate": "2026-08-26",
     "lastAirDate": "2026-08-26",
     "status": "Returning Series",
-    "popularity": 9.9818,
-    "voteAverage": 6,
-    "voteCount": 1,
+    "popularity": 15.4478,
+    "voteAverage": 8,
+    "voteCount": 6,
     "type": "Miniseries",
-    "posterPath": "/1vY2JjWOKQefWFos9XQ20lqgmtZ.jpg",
+    "posterPath": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
     "backdropPath": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
     "certification": "M18"
   },
@@ -32,9 +32,9 @@
           "runtime": 42,
           "season_number": 1,
           "show_id": 331616,
-          "still_path": null,
-          "vote_average": 0,
-          "vote_count": 0,
+          "still_path": "/pqJX0C2a9NxQE14WD1erra8okqT.jpg",
+          "vote_average": 7,
+          "vote_count": 1,
           "crew": [],
           "guest_stars": []
         },
@@ -49,9 +49,9 @@
           "runtime": 48,
           "season_number": 1,
           "show_id": 331616,
-          "still_path": null,
-          "vote_average": 0,
-          "vote_count": 0,
+          "still_path": "/fjPtrhKrPMr8SSfLtNyYS6aIro7.jpg",
+          "vote_average": 7,
+          "vote_count": 2,
           "crew": [],
           "guest_stars": []
         },
@@ -66,9 +66,9 @@
           "runtime": 44,
           "season_number": 1,
           "show_id": 331616,
-          "still_path": null,
-          "vote_average": 0,
-          "vote_count": 0,
+          "still_path": "/y6f2EiN1nprVphOYEHSDR5UhLvH.jpg",
+          "vote_average": 8,
+          "vote_count": 1,
           "crew": [],
           "guest_stars": []
         }
@@ -86,7 +86,7 @@
       "id": 536289,
       "poster_path": "/5S8gaSgbFnNe3u8DuplqLCvmIux.jpg",
       "season_number": 1,
-      "vote_average": 0
+      "vote_average": 7.3
     }
   ],
   "genres": [
@@ -125,7 +125,7 @@
   ],
   "images": [
     {
-      "filePath": "/1vY2JjWOKQefWFos9XQ20lqgmtZ.jpg",
+      "filePath": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -137,6 +137,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/1vY2JjWOKQefWFos9XQ20lqgmtZ.jpg",
@@ -174,10 +181,24 @@
       "type": "poster"
     },
     {
-      "filePath": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-      "width": 1000,
-      "height": 1500,
+      "filePath": "/cjq6X90TpWeiFE6FrZrNuz6hhEX.jpg",
+      "width": 500,
+      "height": 750,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/smK3zo50v4eHwWjWKyhUgicJUxL.jpg",
+      "width": 1024,
+      "height": 1535,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+      "width": 848,
+      "height": 1264,
+      "aspectRatio": 0.671,
       "type": "poster"
     },
     {
@@ -205,8 +226,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 1
+      "ratingValue": 8,
+      "votesCount": 6
     }
   ],
   "credits": [
@@ -293,11 +314,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
