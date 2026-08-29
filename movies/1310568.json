@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.3127,
+    "popularity": 6.3302,
     "voteAverage": 6.058,
     "voteCount": 60,
     "homepage": "https://www.ace-entertainment.com/originalcontent/murder-at-the-embassy",
@@ -571,6 +571,10 @@
       "flatrate": [],
       "buy": [
         {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
           "name": "Apple TV Store",
           "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
         },
@@ -615,5 +619,298 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1310568/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1310568,
+    "hash": "565dfe623d03d4e9903575f592fad7398b0ce291e4d7a0357028af58e9053864",
+    "summary_one_sentence": "In 1934 Cairo, private detective Miranda Green must solve a high-stakes murder at the British Embassy before stolen secret documents drag world powers into war.",
+    "summary_short": "Set in 1934, private detective Miranda Green is called to the British Embassy in Cairo following a shocking murder and the theft of a top-secret document. With world peace and the reputation of Buckingham Palace on the line, everyone inside the locked-down embassy becomes a suspect. As Miranda interrogates a diverse group of guests and staff, she unravels a web of deception that stretches far beyond a simple crime. Ultimately, her investigation uncovers a dangerous Nazi conspiracy aiming to ignite a global conflict.",
+    "summary_long": "The year is 1934, and the tension inside the British Embassy in Cairo reaches a boiling point when a violent murder coincides with the theft of sensitive state documents. Private investigator Miranda Green takes charge of the locked-down embassy to find the killer and recover the missing intelligence before news leaks to the public. The suspect pool includes a varied assembly of individuals, ranging from an American photographer and a glamorous actress to an English student, an Egyptian security guard, an interpreter, a gardener, and the British Ambassador himself. Each suspect harbors personal secrets, creating a maze of red herrings that complicates Miranda's investigation. As she piecemeal reconstructs the sequence of events leading up to the crime, Miranda discovers that the theft was not motivated by mere blackmail or personal greed. Instead, a clandestine cell of Nazi operatives has infiltrated the diplomatic grounds, engineering the murder as part of a grander political conspiracy. With the stability of Buckingham Palace and international peace hanging in the balance, Miranda must outwit the conspirators before they escape Cairo with the stolen files. Her razor-sharp deduction skills ultimately expose the hidden ringleader and neutralize the threat just in time.",
+    "synopsis": "Set against the backdrop of 1934 Cairo, this atmospheric mystery follows sharp-witted private detective Miranda Green as she investigates a murder inside the secure confines of the British Embassy. The crime coincides with the disappearance of a top-secret document capable of endangering Buckingham Palace and plunging nations into war. Trapped inside with a eccentric array of suspects—including foreign visitors, embassy staff, and high-ranking diplomats—Miranda must untangle a web of secrets and political intrigue to unmask the killer and expose a far-reaching international plot before time runs out.",
+    "keywords": [
+      "1930s",
+      "historical mystery",
+      "locked-room mystery",
+      "cairo",
+      "embassy setting",
+      "private detective",
+      "stolen documents",
+      "political intrigue",
+      "nazi conspiracy",
+      "ensemble cast of suspects",
+      "female investigator",
+      "world war precursor",
+      "whodunit",
+      "diplomatic thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Political Intrigue & Espionage",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Murder Mystery & Whodunit",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Threat to Global Peace",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Deception & Hidden Motives",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The detective uncovers the true perpetrators behind the theft and plot, bringing the high-stakes confrontation to a head before the stolen secrets can be used.",
+      "conflict": "Miranda must navigate a tight circle of distinct suspects—from embassy staff to visiting foreign nationals—where everyone holds secrets and a motive to conceal the truth.",
+      "resolution": "With the conspirators exposed and the document secured, order is restored to the embassy, neutralizing the immediate threat to international peace.",
+      "introduction": "In 1934 Cairo, private detective Miranda Green is called to the isolated British Embassy after a high-profile murder and the theft of a sensitive document threatening world peace.",
+      "risingAction": "As Miranda investigates the closed-door setting, hidden agendas emerge, political tensions escalate, and clues point toward a broader international conspiracy far exceeding a routine murder."
+    },
+    "characters": [
+      {
+        "name": "Miranda Green",
+        "role": "Hero",
+        "description": "The private detective leading the investigation to solve the murder and prevent global chaos."
+      },
+      {
+        "name": "Nazi Group Leader / Nazi Plotters",
+        "role": "Villain",
+        "description": "The faction covertly operating behind the murder plot and theft of the top secret document."
+      },
+      {
+        "name": "The British Ambassador",
+        "role": "Supporting Character",
+        "description": "The diplomat presiding over the embassy and one of the primary suspects in the investigation."
+      },
+      {
+        "name": "American Photographer",
+        "role": "Supporting Character",
+        "description": "A guest or staff member present in the embassy during the murder, held as a key suspect."
+      },
+      {
+        "name": "English Student",
+        "role": "Supporting Character",
+        "description": "An embassy visitor caught in the closed-room murder investigation."
+      },
+      {
+        "name": "American Actress",
+        "role": "Supporting Character",
+        "description": "A high-profile guest under suspicion during the embassy lockdown."
+      },
+      {
+        "name": "Egyptian Security Guard",
+        "role": "Supporting Character",
+        "description": "Embassy security personnel present at the scene and suspected of involvement."
+      },
+      {
+        "name": "Ambassador Interpreter",
+        "role": "Supporting Character",
+        "description": "An embassy insider with access to sensitive information, listed among the suspects."
+      },
+      {
+        "name": "Egyptian Gardener",
+        "role": "Supporting Character",
+        "description": "An embassy groundskeeper under investigation as a potential insider or witness."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Miranda Green",
+        "target": "The Ambassador",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "American Photographer",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "English Student",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "American Actress",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "Egyptian Security Guard",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "Ambassador Interpreter",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "Miranda Green",
+        "target": "Egyptian Gardener",
+        "description": "Investigator / Suspect"
+      },
+      {
+        "source": "The Ambassador",
+        "target": "Ambassador Interpreter",
+        "description": "Employer / Employee"
+      },
+      {
+        "source": "The Ambassador",
+        "target": "Egyptian Security Guard",
+        "description": "Employer / Employee"
+      },
+      {
+        "source": "The Ambassador",
+        "target": "Egyptian Gardener",
+        "description": "Employer / Employee"
+      },
+      {
+        "source": "Nazi Plotters",
+        "target": "Miranda Green",
+        "description": "Antagonists / Investigator"
+      },
+      {
+        "source": "Nazi Plotters",
+        "target": "Embassy Suspects",
+        "description": "Conspirators / Unwitting Cover"
+      }
+    ],
+    "seo": {
+      "slug": "murder-at-the-embassy",
+      "jsonLd": {
+        "name": "Murder at the Embassy",
+        "@type": "Movie",
+        "genre": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Miranda Green",
+            "@type": "Person",
+            "jobTitle": "Private Detective"
+          }
+        ],
+        "description": "In 1934 Cairo, private detective Miranda Green investigates a murder at the British Embassy involving a stolen secret document, diplomatic intrigue, and a hidden plot."
+      },
+      "keywords": [
+        "Murder at the Embassy",
+        "Miranda Green detective",
+        "Cairo murder mystery movie",
+        "1934 mystery film",
+        "British Embassy Cairo plot"
+      ],
+      "canonical": "[https://movnix.com/movie/murder-at-the-embassy](https://movnix.com/movie/murder-at-the-embassy)",
+      "metaTitle": "Murder at the Embassy (1934) - Plot, Cast & Mystery Breakdown",
+      "openGraph": {
+        "og:title": "Murder at the Embassy - Historical Murder Mystery",
+        "og:description": "A stolen document, a high-stakes embassy murder in 1934 Cairo, and a web of suspects. Can Detective Miranda Green unravel the secret plot?"
+      },
+      "twitterCard": {
+        "twitter:title": "Murder at the Embassy - Mystery & Intrigue in 1934 Cairo",
+        "twitter:description": "Private detective Miranda Green takes on a deadly closed-room murder mystery at the British Embassy in Cairo."
+      },
+      "metaDescription": "Detective Miranda Green investigates a high-stakes murder and stolen secret at the British Embassy in Cairo. Discover the plot, suspects, and secret intrigue."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a period murder mystery and whodunit thriller set in the 1930s.",
+        "question": "What is the dominant genre of Murder at the Embassy?"
+      },
+      {
+        "answer": "Private detective Miranda Green investigates the murder of a diplomat and the theft of a top-secret document at the British Embassy in Cairo, uncovering a global political conspiracy.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "The story is set in 1934 inside the British Embassy in Cairo, Egypt.",
+        "question": "When and where does the story take place?"
+      },
+      {
+        "answer": "The lead character is private detective Miranda Green, who is tasked with solving the embassy murder.",
+        "question": "Who is the main protagonist in the film?"
+      },
+      {
+        "answer": "The suspects include an American photographer, an English student, an American actress, an Egyptian security guard, an ambassador's interpreter, an Egyptian gardener, and the British Ambassador himself.",
+        "question": "Who are the primary suspects in the murder investigation?"
+      },
+      {
+        "answer": "The crime is orchestrated by a secret group of Nazis plotting to destabilize global peace and threaten Buckingham Palace.",
+        "question": "Who is the ultimate villain behind the murder and theft?"
+      },
+      {
+        "answer": "It is a standalone period mystery film, though it features recurring detective character tropes popular in classic mystery franchises.",
+        "question": "Is Murder at the Embassy part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene following the conclusion of the film.",
+        "question": "Is there a post-credits scene in Murder at the Embassy?"
+      },
+      {
+        "answer": "Beyond solving the murder, Miranda Green must retrieve a stolen top-secret document to prevent an international crisis affecting Buckingham Palace and world peace.",
+        "question": "What are the key stakes in the investigation?"
+      },
+      {
+        "answer": "Viewers can expect a classic, closed-room mystery style reminiscent of Agatha Christie stories, combined with historical espionage elements.",
+        "question": "What tone can viewers expect from Murder at the Embassy?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild suspense and tension typical of a classic whodunit mystery, with no overt horror elements."
+      },
+      "language": {
+        "score": 1,
+        "description": "No explicit strong language indicated in the synopsis."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Contains references to a murder and a Nazi geopolitical plot, but lacks explicit details of graphic violence."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No prominent substance use indicated beyond potential period-typical depiction of alcohol or tobacco."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate suspense surrounding a high-stakes investigation, theft of secret documents, and political jeopardy."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 0,
+      "mystery": 10,
+      "romance": 2,
+      "science": 0,
+      "suspense": 9,
+      "violence": 3
+    },
+    "created_at": "2026-08-27 13:06:27.755409",
+    "updated_at": "2026-08-27 13:06:27.755409"
+  }
 }
