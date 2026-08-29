@@ -10,8 +10,8 @@
     "budget": "150000000",
     "revenue": "742066",
     "status": "Released",
-    "popularity": 12.7079,
-    "voteAverage": 5.833,
+    "popularity": 17.7076,
+    "voteAverage": 5.8,
     "voteCount": 30,
     "homepage": "https://www.vert-ent.com/library/desert-warrior",
     "posterPath": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
@@ -347,12 +347,26 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/bkd2kRWKp9f0DSOeMW1rf80AVjp.jpg",
+      "width": 2160,
+      "height": 1214,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7TaHar51yswkQPzo2fK5Tr1YVRS.jpg",
+      "width": 1440,
+      "height": 810,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.833,
+      "ratingValue": 5.8,
       "votesCount": 30
     },
     {
@@ -383,7 +397,7 @@
     {
       "tmdbPersonId": 20667,
       "name": "Sami Bouajila",
-      "profilePath": "/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg",
+      "profilePath": "/q903sFX1TVcFH7ySSRKbPhBTdS.jpg",
       "character": "Hani",
       "job": "Actor",
       "department": "Acting",
@@ -507,15 +521,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1420608,
-      "name": "Erica Beeney",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 4016,
       "name": "Jeremy Bolt",
       "profilePath": "/pqbpSnsM5Ord6t6Fx7AqCb0bGqo.jpg",
@@ -525,9 +530,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 77357,
-      "name": "Rupert Wyatt",
-      "profilePath": "/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg",
+      "tmdbPersonId": 1420608,
+      "name": "Erica Beeney",
+      "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -537,6 +542,15 @@
       "tmdbPersonId": 35021,
       "name": "David Self",
       "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 77357,
+      "name": "Rupert Wyatt",
+      "profilePath": "/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -568,7 +582,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Hulu",
+          "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
