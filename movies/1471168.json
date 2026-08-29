@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.4466,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 13.8624,
+    "voteAverage": 8.429,
+    "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1471168",
     "posterPath": "/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
     "backdropPath": "/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
@@ -83,6 +83,20 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/yoJNP8XGO0fCFt3pa7MGRx0KKYN.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+      "width": 1999,
+      "height": 3000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
       "width": 2000,
       "height": 3000,
@@ -112,6 +126,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8.429,
+      "votesCount": 7
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -274,11 +293,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -308,5 +341,275 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1471168/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1471168,
+    "hash": "371eec2bce942c45342d90da1224841ee9ad5660d1c886baa8878d37e2f17fc2",
+    "summary_one_sentence": "In 1992 Argentina, an unassuming dentist brutally murders his entire family, setting off a sensational media storm as he claims to be the true victim.",
+    "summary_short": "A fictionalized retelling of one of Argentina's most infamous real-life crimes, this drama explores the 1992 massacre committed by Ricardo Barreda. Behind the façade of a quiet, respectable dentist, Barreda brutally murders his wife, mother-in-law, and two adult daughters inside their home. He then attempts to manipulate the narrative, framing himself as a long-suffering victim to captivate the press and outrage the nation.",
+    "summary_long": "Set in 1992, the film dramatizes the shocking true events surrounding Ricardo Barreda, a seemingly ordinary dentist living in La Plata, Argentina. Beneath the quiet routine of his bourgeois household lies toxic domestic tension, which culminates in an explosion of unthinkable violence. In a single horrifying act, Barreda guns down his wife, his mother-in-law, and his two adult daughters inside their family residence. Rather than immediately fleeing or showing remorse, he orchestrates a calculated cover-up and attempts to paint himself as the abused target of relentless psychological harassment. As police unravel the crime scene, Barreda's cool, unrepentant demeanor shocks investigators and captivates the national press. The media frenzy amplifies his claims, turning a brutal domestic slaughter into a polarizing public debate on family dynamics, abuse, and justice. The narrative delves into the psychological chillingness of the perpetrator alongside the legal and journalistic aftermath. Ultimately, the film offers a grim look at how a devastating multi-homicide became one of the most sensationalized national scandals in modern Argentine history.",
+    "synopsis": "A chilling crime drama based on infamous true events, this film delves into the dark psychological reality and explosive public aftermath of the 1992 Barreda murders in Argentina. Centering on Ricardo Barreda—a suburban dentist whose unremarkable exterior hides a deadly potential—the narrative examines the shocking destruction of his household and the subsequent media circus that gripped a nation.",
+    "keywords": [
+      "fictionalized drama",
+      "true crime adaptation",
+      "family tragedy",
+      "familicide",
+      "domestic murder",
+      "1990s setting",
+      "Argentine history",
+      "media storm",
+      "national scandal",
+      "unreliable narrator",
+      "victim mentality",
+      "dark psychological drama",
+      "sensationalized crime",
+      "double life"
+    ],
+    "themes": [
+      {
+        "theme": "Domestic Violence and Femicide",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Media Sensationalism and Manipulation",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Façade of Respectability",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Victim Blaming and Narrative Control",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Dysfunction and Collapse",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Disturbing",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The truth behind the massacre comes to light, leading to Barreda's arrest and his startling public attempts to frame himself as the true victim of systemic domestic abuse.",
+      "conflict": "Beneath the domestic facade, severe interpersonal friction and deep-seated hostility simmer continuously between Barreda and the women in his household, pushing the domestic environment toward a breaking point.",
+      "resolution": "A sensational media storm and national scandal engulf Argentina as the legal process unfolds, forcing society to confront the shocking nature of the crime and Barreda's polarising public defense.",
+      "introduction": "Ricardo Barreda leads an outwardly quiet life as an unassuming dentist in La Plata, Argentina, living under the same roof with his wife, mother-in-law, and two adult daughters.",
+      "risingAction": "Tensions within the household escalate dramatically until a violent flashpoint occurs in 1992, leading to the brutal murder of all four family members and Barreda's initial attempts to obscure his role in the crime."
+    },
+    "characters": [
+      {
+        "name": "Ricardo Barreda",
+        "role": "Villain",
+        "description": "An unassuming dentist who brutally murders his entire family in their home, later attempting to frame himself as a victim in a national scandal."
+      },
+      {
+        "name": "Gladys Margarita Macana (Mother-in-law)",
+        "role": "Supporting Character",
+        "description": "The mother-in-law of Ricardo Barreda and one of the four domestic murder victims."
+      },
+      {
+        "name": "Berta André (Wife)",
+        "role": "Supporting Character",
+        "description": "Ricardo Barreda's wife, murdered along with her daughters and mother."
+      },
+      {
+        "name": "Cecilia Barreda (Daughter)",
+        "role": "Supporting Character",
+        "description": "One of Ricardo Barreda's adult daughters killed in the family home."
+      },
+      {
+        "name": "Adriana Barreda (Daughter)",
+        "role": "Supporting Character",
+        "description": "One of Ricardo Barreda's adult daughters killed in the family home."
+      },
+      {
+        "name": "Investigating Officer / Prosecutor",
+        "role": "Hero",
+        "description": "The lead investigator working to dismantle Barreda's victim narrative and bring him to justice."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ricardo Barreda",
+        "target": "Gladys Margarita Castro",
+        "description": "Husband/Wife (Victim of murder)"
+      },
+      {
+        "source": "Ricardo Barreda",
+        "target": "Elena Arreche",
+        "description": "Son-in-law/Mother-in-law (Victim of murder)"
+      },
+      {
+        "source": "Ricardo Barreda",
+        "target": "Cecilia Barreda",
+        "description": "Father/Daughter (Victim of murder)"
+      },
+      {
+        "source": "Ricardo Barreda",
+        "target": "Adriana Barreda",
+        "description": "Father/Daughter (Victim of murder)"
+      },
+      {
+        "source": "Gladys Margarita Castro",
+        "target": "Elena Arreche",
+        "description": "Daughter/Mother"
+      },
+      {
+        "source": "Gladys Margarita Castro",
+        "target": "Cecilia Barreda",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Gladys Margarita Castro",
+        "target": "Adriana Barreda",
+        "description": "Mother/Daughter"
+      },
+      {
+        "source": "Cecilia Barreda",
+        "target": "Adriana Barreda",
+        "description": "Sisters"
+      },
+      {
+        "source": "Elena Arreche",
+        "target": "Cecilia Barreda",
+        "description": "Grandmother/Granddaughter"
+      },
+      {
+        "source": "Elena Arreche",
+        "target": "Adriana Barreda",
+        "description": "Grandmother/Granddaughter"
+      }
+    ],
+    "seo": {
+      "slug": "barreda",
+      "jsonLd": {
+        "name": "Barreda",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "es",
+        "description": "A fictionalized drama film based on one of the most shocking crimes in Argentina's history. In 1992, Ricardo Barreda brutally murdered his family."
+      },
+      "keywords": [
+        "Barreda movie",
+        "Ricardo Barreda film",
+        "Argentina true crime movie",
+        "Barreda 1992 murder drama",
+        "Barreda full movie"
+      ],
+      "canonical": "[https://movnix.com/movie/barreda](https://movnix.com/movie/barreda)",
+      "metaTitle": "Barreda (2026) Movie - True Crime Drama Based on Argentina's Shocking History",
+      "openGraph": {
+        "og:title": "Barreda - The Shocking True Crime Drama",
+        "og:description": "A fictionalized drama about Ricardo Barreda, the unassuming dentist behind one of Argentina's most notorious 1992 family tragedies."
+      },
+      "twitterCard": {
+        "twitter:title": "Barreda - True Crime Film",
+        "twitter:description": "Discover the drama film based on the shocking 1992 Ricardo Barreda murders in Argentina."
+      },
+      "metaDescription": "Explore Barreda, a fictionalized drama detailing the notorious 1992 crimes of Ricardo Barreda in Argentina. Synopsis, details, and media coverage."
+    },
+    "faq": [
+      {
+        "answer": "Barreda is a fictionalized drama film based on the true events of 1992 in Argentina, where an unassuming dentist named Ricardo Barreda brutally murdered his wife, mother-in-law, and two adult daughters in their family home, igniting a major national scandal.",
+        "question": "What is Barreda about?"
+      },
+      {
+        "answer": "Yes, the film is based on one of the most infamous and shocking real-life crime cases in Argentina's history involving dentist Ricardo Barreda.",
+        "question": "Is Barreda based on a true story?"
+      },
+      {
+        "answer": "The dominant genre of the film is true crime drama, combined with psychological thriller and biographical elements.",
+        "question": "What is the dominant genre of Barreda?"
+      },
+      {
+        "answer": "No, Barreda is a standalone film and is not part of any broader movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a serious biographical crime drama, there are no post-credit or mid-credit scenes.",
+        "question": "Is there a post-credit scene in Barreda?"
+      },
+      {
+        "answer": "The film centers on Ricardo Barreda, his quiet life prior to the murders, the brutal crime itself, and his subsequent attempt to present himself as a victim to the media and the public.",
+        "question": "Who is the main focus of the film?"
+      },
+      {
+        "answer": "The core events of the movie take place around 1992, the year Ricardo Barreda committed the quadruple homicide in La Plata, Argentina.",
+        "question": "When do the events depicted in the film take place?"
+      },
+      {
+        "answer": "No, given its subject matter dealing with domestic abuse, multiple murders, and psychological horror, the film is intended for mature audiences.",
+        "question": "Is Barreda suitable for all audiences?"
+      },
+      {
+        "answer": "The movie explores themes of domestic tension, media manipulation, victim mentality, violent crime, and the societal impact of sensationalized news coverage.",
+        "question": "What key themes does the movie explore?"
+      },
+      {
+        "answer": "Availability depends on your region, but it typically streams on major regional platforms or video-on-demand services featuring international true crime cinema.",
+        "question": "Where can I watch Barreda?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Disturbing real-world shock value and crime-scene elements without traditional supernatural horror."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate to frequent strong language typical of high-stress criminal drama."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence involving the brutal quadruple murder of family members with a firearm."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible incidental depiction of tobacco or alcohol use."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content expected based on the core plot narrative."
+      },
+      "emotionalIntensity": {
+        "score": 9,
+        "description": "Extremely intense themes of domestic mass murder, betrayal, psychological strain, and media sensationalism."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 5,
+      "romance": 0,
+      "science": 1,
+      "suspense": 8,
+      "violence": 8
+    },
+    "created_at": "2026-08-29 05:01:27.215802",
+    "updated_at": "2026-08-29 05:01:27.215802"
+  }
 }
