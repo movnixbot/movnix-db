@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.601,
-    "voteAverage": 5,
-    "voteCount": 2,
+    "popularity": 8.7832,
+    "voteAverage": 5.333,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1510517",
     "posterPath": "/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
     "backdropPath": "/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
@@ -93,8 +93,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5,
-      "votesCount": 2
+      "ratingValue": 5.333,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -272,7 +272,12 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
