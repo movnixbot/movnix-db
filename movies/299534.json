@@ -10,9 +10,9 @@
     "budget": "356000000",
     "revenue": "2799439100",
     "status": "Released",
-    "popularity": 65.9188,
+    "popularity": 65.0459,
     "voteAverage": 8.241,
-    "voteCount": 28471,
+    "voteCount": 28491,
     "homepage": "https://www.marvel.com/movies/avengers-endgame",
     "posterPath": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
     "backdropPath": "/2xfV5Zdq4kCsFVReRXJKnJaUFCD.jpg",
@@ -3851,6 +3851,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/ernmVgRBqPC1sE3gwrrnlJCBRiQ.jpg",
+      "width": 504,
+      "height": 755,
+      "aspectRatio": 0.668,
+      "type": "poster"
+    },
+    {
       "filePath": "/2xfV5Zdq4kCsFVReRXJKnJaUFCD.jpg",
       "width": 1920,
       "height": 1080,
@@ -4961,7 +4968,7 @@
     {
       "source": "tmdb",
       "ratingValue": 8.241,
-      "votesCount": 28471
+      "votesCount": 28491
     },
     {
       "source": "imdb",
@@ -5125,15 +5132,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 5551,
-      "name": "Christopher Markus",
-      "profilePath": "/7ooPNp0gnURxYkSSKF2etH7wpZP.jpg",
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 5552,
       "name": "Stephen McFeely",
       "profilePath": "/i9B6gFzExPsh5IEjD2nn4ym4lx2.jpg",
@@ -5143,18 +5141,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 19271,
-      "name": "Anthony Russo",
-      "profilePath": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+      "tmdbPersonId": 5551,
+      "name": "Christopher Markus",
+      "profilePath": "/7ooPNp0gnURxYkSSKF2etH7wpZP.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     },
     {
       "tmdbPersonId": 19272,
       "name": "Joe Russo",
       "profilePath": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 19271,
+      "name": "Anthony Russo",
+      "profilePath": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
@@ -5180,16 +5187,6 @@
     {
       "iso_3166_1": "CN",
       "title": "复仇者联盟4：终局之战",
-      "type": ""
-    },
-    {
-      "iso_3166_1": "PT",
-      "title": "Vingadores Ultimato",
-      "type": ""
-    },
-    {
-      "iso_3166_1": "BR",
-      "title": "Vingadores: Ultimato",
       "type": ""
     },
     {
@@ -5320,7 +5317,7 @@
     {
       "iso_3166_1": "BR",
       "title": "Vingadores: Ultimato Encore",
-      "type": "Versão com sete minutos a mais de cenas inéditas."
+      "type": "Infinity Vision re-release"
     },
     {
       "iso_3166_1": "TH",
@@ -5335,6 +5332,11 @@
     {
       "iso_3166_1": "IL",
       "title": "הנוקמים: סוף המשחק הדרן",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "PT",
+      "title": "Vingadores: Endgame Encore",
       "type": ""
     }
   ],
