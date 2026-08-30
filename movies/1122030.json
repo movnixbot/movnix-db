@@ -10,9 +10,9 @@
     "budget": "10500000",
     "revenue": "6675000",
     "status": "Released",
-    "popularity": 10.3714,
-    "voteAverage": 5.6,
-    "voteCount": 10,
+    "popularity": 27.2492,
+    "voteAverage": 5.417,
+    "voteCount": 13,
     "homepage": "https://www.yashrajfilms.com/movies/alpha",
     "posterPath": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
     "backdropPath": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
@@ -295,8 +295,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.6,
-      "votesCount": 10
+      "ratingValue": 5.417,
+      "votesCount": 13
     },
     {
       "source": "rotten_tomatoes",
@@ -512,7 +512,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
