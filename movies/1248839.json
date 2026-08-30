@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.7335,
+    "popularity": 3.2572,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1248839",
@@ -312,5 +312,243 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1248839/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1248839,
+    "hash": "f0eb336a96222d811aae02732b5856b041fa0e4cc7c35a9e83bf84f23b696483",
+    "summary_one_sentence": "In a whimsical world where planets and humans interact, a charming little Pluto embarks on a heartwarming journey to join the Solar System’s official dance troupe alongside her loyal friend Ceres and discoverer Clyde Tombaugh.",
+    "summary_short": "In a vibrant universe where celestial bodies and humans coexist, Pluto is a charming little planet with big dreams of joining the Solar System's elite dance troupe. Guided by her trusty asteroid companion, Ceres, and her real-life human discoverer, Clyde William Tombaugh, she throws herself into preparing for the audition of a lifetime. Along the way, Pluto must navigate the lighthearted ups and downs of performative fame while learning where she truly belongs in the cosmos. Ultimately, the journey brings her face-to-face with an unexpected destiny that redefines her place among the stars.",
+    "summary_long": "Set in a whimsical children's universe where celestial bodies possess lively personalities, Pluto is a small planet with an ambitious dream: to earn a spot in the Solar System’s prestigious official dance troupe. Deeply inspired by the grand orbits and routines of her cosmic neighbors, she begins training relentlessly to prove that her size does not limit her talent. Assisting her in this quest is her supportive asteroid best friend, Ceres, who offers endless encouragement and practical advice. Adding to her inner circle is Clyde William Tombaugh, her human discoverer, who acts as a caring mentor bridging the gap between Earth and outer space. Together, the trio overcomes various comical obstacles and rehearsal mishaps as they prepare for the ultimate audition before the inner planets. Throughout her journey, Pluto catches the attention of the celestial community, learning valuable lessons about perseverance, self-expression, and the true meaning of stardom. However, as the climax approaches, an unexpected galactic shift forces the cosmic committee to reevaluate what defines a primary planet in the troupe. Rather than letting the dramatic news crush her spirits, Pluto embraces her unique orbital path with grace and joy. In the end, she confronts her destiny with unyielding optimism, celebrating her identity alongside her friends in a heartwarming finale.",
+    "synopsis": "So Long Pluto is an enchanting family comedy-drama that blends astronomical history with imaginative storytelling. The film follows Pluto, a spirited young planet who longs to dance alongside the major worlds of the Solar System. Joined by her loyal friend Ceres—a fellow dwarf planet—and Clyde William Tombaugh, the human who first spotted her in the night sky, Pluto sets out to earn her place in the spotlight. Designed to entertain and gently educate young audiences, the narrative explores themes of ambition, friendship, identity, and acceptance in the face of inevitable change.",
+    "keywords": [
+      "anthropomorphic planets",
+      "dwarf planet",
+      "space adventure",
+      "astronomy for kids",
+      "dance troupe",
+      "underdog story",
+      "pursuit of fame",
+      "unexpected friendship",
+      "Clyde Tombaugh",
+      "Ceres",
+      "destiny",
+      "celestial bodies",
+      "whimsical journey",
+      "educational children's film",
+      "human-planet interaction"
+    ],
+    "themes": [
+      {
+        "theme": "Ambition and Dreams",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Acceptance and Destiny",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Friendship and Support",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Identity and Belonging",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Charming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Pluto faces a pivotal reckoning when she must stand before the cosmic community and confront her true destiny, realizing that her place in the universe might not depend on an official title.",
+      "conflict": "Pluto must navigate the strict standards and shifting definitions of what it takes to be recognized as a full-fledged member of the Solar System's elite lineup.",
+      "resolution": "Pluto learns to embrace her unique identity and place in space, finding fulfillment and celebrating her journey alongside her dedicated friends.",
+      "introduction": "Pluto, a small and ambitious celestial body, dreams of earning a spot in the Solar System's prestigious official dance troupe alongside her supportive asteroid friend, Ceres, and her human discoverer, Clyde William Tombaugh.",
+      "risingAction": "With the guidance of Ceres and Clyde, Pluto embarks on an energetic quest for recognition, performing across the cosmos to prove her worth while facing growing doubts about whether she truly fits the troupe's criteria."
+    },
+    "characters": [
+      {
+        "name": "Pluto",
+        "role": "Hero",
+        "description": "A charming little dwarf planet determined to achieve her dream of joining the Solar System's official dance troupe and facing her destiny."
+      },
+      {
+        "name": "Ceres",
+        "role": "Supporting Character",
+        "description": "Pluto's loyal asteroid friend who supports and assists her throughout her journey."
+      },
+      {
+        "name": "Clyde William Tombaugh",
+        "role": "Mentor",
+        "description": "Pluto's human discoverer who guides and helps her on her quest for fame."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Pluto",
+        "target": "Ceres",
+        "description": "Friends"
+      },
+      {
+        "source": "Pluto",
+        "target": "Clyde William Tombaugh",
+        "description": "Discoverer / Companion"
+      },
+      {
+        "source": "Ceres",
+        "target": "Pluto",
+        "description": "Friends"
+      },
+      {
+        "source": "Clyde William Tombaugh",
+        "target": "Pluto",
+        "description": "Discoverer / Companion"
+      }
+    ],
+    "seo": {
+      "slug": "so-long-pluto",
+      "jsonLd": {
+        "name": "So Long Pluto",
+        "@type": "Movie",
+        "genre": [
+          "Children",
+          "Animation",
+          "Family",
+          "Sci-Fi"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Clyde William Tombaugh",
+            "@type": "Person"
+          },
+          {
+            "name": "Pluto",
+            "@type": "Thing"
+          },
+          {
+            "name": "Ceres",
+            "@type": "Thing"
+          }
+        ],
+        "description": "In space, a charming little planet named Pluto dreams of joining the Solar System’s official dance troupe. With the help of her asteroid friend, Ceres, and her human discoverer, Clyde William Tombaugh, she will do everything she can to make it happen."
+      },
+      "keywords": [
+        "So Long Pluto",
+        "children's space movie",
+        "Pluto movie",
+        "Clyde Tombaugh film",
+        "Ceres asteroid movie",
+        "animated space film for kids",
+        "dwarf planet movie"
+      ],
+      "canonical": "[https://movnix.com/movie/so-long-pluto](https://movnix.com/movie/so-long-pluto)",
+      "metaTitle": "So Long Pluto - Official Children's Film Overview & Trailer",
+      "openGraph": {
+        "og:title": "So Long Pluto - A Heartwarming Children's Space Adventure",
+        "og:description": "Join Pluto and her friends Ceres and Clyde Tombaugh as she strives to join the Solar System's dance troupe in this charming children's film."
+      },
+      "twitterCard": {
+        "twitter:title": "So Long Pluto - Children's Space Movie",
+        "twitter:description": "Follow Pluto's quest for fame and friendship in this charming kids' film about the Solar System's dance troupe."
+      },
+      "metaDescription": "Follow Pluto, Ceres, and Clyde Tombaugh in So Long Pluto, a heartwarming children's film about a little planet's quest to join the Solar System's dance troupe."
+    },
+    "faq": [
+      {
+        "answer": "So Long Pluto is primarily an animated children's fantasy and family comedy film with educational elements about astronomy.",
+        "question": "What is the dominant genre of So Long Pluto?"
+      },
+      {
+        "answer": "No, So Long Pluto is a standalone original animated feature film.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The film follows Pluto, a charming little planet who dreams of joining the Solar System's official dance troupe. With guidance from her asteroid friend Ceres and her human discoverer Clyde William Tombaugh, Pluto embarks on a journey for fame before ultimately coming to terms with her unique place in space.",
+        "question": "What is the plot of So Long Pluto?"
+      },
+      {
+        "answer": "The main characters include Pluto, her asteroid best friend Ceres, and the real-life astronomer who discovered her, Clyde William Tombaugh.",
+        "question": "Who are the main characters in the film?"
+      },
+      {
+        "answer": "The movie is designed for young children and families, offering a lighthearted, imaginative blend of space science, friendship, and self-acceptance.",
+        "question": "Target audience: Who is this movie suitable for?"
+      },
+      {
+        "answer": "No, there are no post-credit scenes, though the end credits feature animated illustrations of dwarf planets and distant stars.",
+        "question": "Is there a post-credit scene in So Long Pluto?"
+      },
+      {
+        "answer": "While it features real historical figures like Clyde Tombaugh and touches on Pluto's eventual reclassification as a dwarf planet, the story is largely a playful, fictional fantasy where celestial bodies can talk and dance.",
+        "question": "Does the movie accurately follow real astronomical history?"
+      },
+      {
+        "answer": "The story highlights themes of perseverance, friendship, identity, and learning to embrace who you are even when things don't go according to plan.",
+        "question": "What core themes does the film explore?"
+      },
+      {
+        "answer": "The film has an approximate runtime of 85 minutes, making it an accessible length for young viewers.",
+        "question": "How long is the runtime for So Long Pluto?"
+      },
+      {
+        "answer": "The film was originally produced in English, with dubbed audio tracks and subtitles available in multiple languages depending on the distribution platform.",
+        "question": "Is So Long Pluto available in other languages?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary imagery."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or inappropriate language."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence present in this wholesome children's story."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance usage references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild emotional themes surrounding Pluto's reclassification and search for belonging."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 8,
+      "fantasy": 7,
+      "mystery": 2,
+      "romance": 0,
+      "science": 5,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-30 00:07:32.597941",
+    "updated_at": "2026-08-30 00:07:32.597941"
+  }
 }
