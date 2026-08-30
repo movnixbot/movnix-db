@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6883,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 7.0453,
+    "voteAverage": 4,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1654516",
     "posterPath": "/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
     "backdropPath": "/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
@@ -131,6 +131,11 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 4,
+      "votesCount": 1
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -150,7 +155,7 @@
       "tmdbPersonId": 3063739,
       "name": "Anshumaan Pushkar",
       "profilePath": "/ktbqCXjoqLuD96tTkHo1PVqVi14.jpg",
-      "character": null,
+      "character": "Sharad Vashisht",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -159,7 +164,7 @@
       "tmdbPersonId": 1254661,
       "name": "Barun Sobti",
       "profilePath": "/5DyMqVtDdZmKq76Ujtnt59zPLms.jpg",
-      "character": "Bansi",
+      "character": "Bansi Seni",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -168,7 +173,7 @@
       "tmdbPersonId": 1336965,
       "name": "Rajesh Kumar",
       "profilePath": "/vat8qbqIeumutuToGX0VrtA06M6.jpg",
-      "character": null,
+      "character": "Mukesh Sethi",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -177,37 +182,73 @@
       "tmdbPersonId": 2120753,
       "name": "Geetika Vidya",
       "profilePath": "/8vGi0UERPBA5fzkjbIOqLOQfzso.jpg",
-      "character": null,
+      "character": "Karamjeet Kaur",
       "job": "Actor",
       "department": "Acting",
       "order": 4
     },
     {
-      "tmdbPersonId": 1241145,
-      "name": "Muskan Arora",
-      "profilePath": "/llYK6ZPzWgUK1XTERKcLd1dyNDq.jpg",
-      "character": null,
+      "tmdbPersonId": 2163264,
+      "name": "Sunita Rajwar",
+      "profilePath": "/cEhnGiU6arxA4vxZCUspFWDP76F.jpg",
+      "character": "Babita's Mother-in-Law",
       "job": "Actor",
       "department": "Acting",
       "order": 5
     },
     {
-      "tmdbPersonId": 2381654,
-      "name": "Priyanka Setia",
-      "profilePath": "/bHZwl5Vpf9X9IlqilC0wi3IGoVV.jpg",
-      "character": null,
+      "tmdbPersonId": 2711396,
+      "name": "Priya Yadav",
+      "profilePath": "/cvex8DWAbE8QZMfcNPbHMew5Q9x.jpg",
+      "character": "Guddi",
       "job": "Actor",
       "department": "Acting",
       "order": 6
     },
     {
-      "tmdbPersonId": 2163264,
-      "name": "Sunita Rajwar",
-      "profilePath": "/cEhnGiU6arxA4vxZCUspFWDP76F.jpg",
-      "character": null,
+      "tmdbPersonId": 2381654,
+      "name": "Priyanka Setia",
+      "profilePath": "/bHZwl5Vpf9X9IlqilC0wi3IGoVV.jpg",
+      "character": "Rupa",
       "job": "Actor",
       "department": "Acting",
       "order": 7
+    },
+    {
+      "tmdbPersonId": 4454948,
+      "name": "Rajat Dahiya",
+      "profilePath": null,
+      "character": "Bharadwaj",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 1241145,
+      "name": "Muskan Arora",
+      "profilePath": "/llYK6ZPzWgUK1XTERKcLd1dyNDq.jpg",
+      "character": "Archana",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 1303684,
+      "name": "Nitin Goel",
+      "profilePath": "/9NXWvSgPiy06grCbdVVcGKqydYO.jpg",
+      "character": "Mangal Seni",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 3200426,
+      "name": "Naval Shukla",
+      "profilePath": "/lJAKcetFitMb4PgQAzQniYe9ROe.jpg",
+      "character": "Kishore Shukla",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
     },
     {
       "tmdbPersonId": 2636871,
@@ -310,5 +351,241 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1654516/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1654516,
+    "hash": "54e33bf3e6ed94f20277101db3f5c772312727e9e0b84a21e8d598bb29bfe048",
+    "summary_one_sentence": "To attend a family celebration in Rewa, people-pleasing officer Baby takes a false charge for leave, only to be thrust into a dangerous murder investigation when her childhood friend is killed.",
+    "summary_short": "People-pleasing cop Baby agrees to accept a fake charge at work just to secure leave for her sister-in-law's baby shower in Rewa. Her homecoming turns tragic when her childhood friend Bansi is murdered on the night of her arrival. Defying her unsupportive husband, dismissive in-laws, and apathetic local law enforcement, Baby launches a secret investigation into the crime. As she uncovers painful family betrayals, she gradually finds her voice, courage, and true identity as a capable detective.",
+    "summary_long": "Babita \"Baby\" Singh is a timid, people-pleasing police officer who constantly seeks approval from both her family and colleagues. Desperate to attend her sister-in-law's baby shower in Rewa, she makes the risky decision to accept a false disciplinary charge just to take official leave. Upon arriving in Rewa, she experiences a warm reunion with her childhood best friend, Bansi. However, the joy is short-lived when Bansi is mysteriously murdered that very same night. The local police force shows little interest in pursuing the truth, quickly writing off the case as an open-and-shut incident. Confronted by her indifferent husband and dismissive in-laws who urge her to stay out of trouble, Baby decides she cannot let her friend's death go unpunished. Operating entirely in secret, she begins gathering clues and interviewing witnesses across town on her own. Her clandestine probe unearths a web of deep-seated family betrayals and hidden motives that span years. In standing up to the corruption around her and pursuing justice for Bansi, Baby transforms from an overly agreeable subordinate into a fearless, self-assured investigator who finally claims her place as a true cop.",
+    "synopsis": "Babita \"Baby\" Singh is an earnest policewoman known more for her desire to please others than her authoritative presence. When she needs leave to attend a family milestone—her sister-in-law's baby shower in the town of Rewa—she resorts to taking the blame for a fake charge at work. Shortly after arriving in Rewa, Baby reconnects with her cherished childhood friend, Bansi, bringing back fond memories of her past. Tragedy strikes that very evening when Bansi is suddenly murdered under mysterious circumstances. Disillusioned by the local police force's apathy and apathy from her own husband and in-laws, who insist she stay out of police matters while on leave, Baby refuses to remain silent. Driven by loyalty and a growing sense of duty, she launches an independent, covert investigation into the crime. As Baby unravels hidden secrets and personal deceit, she undergoes a profound personal transformation, stepping out of the shadows of expectation to become a resilient, confident officer of the law.",
+    "keywords": [
+      "reluctant hero",
+      "people pleaser",
+      "small town murder",
+      "secret investigation",
+      "undercover cop",
+      "family betrayals",
+      "patriarchal pressure",
+      "female empowerment",
+      "unhelpful police",
+      "childhood friend murder",
+      "double life",
+      "domestic drama",
+      "finding one's voice",
+      "amateur sleuth cop",
+      "small town secret"
+    ],
+    "themes": [
+      {
+        "theme": "Self-Discovery and Empowerment",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Loyalty and Betrayal",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Justice and Professional Integrity",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Empowering",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Baby directly confronts the forces behind the betrayal, risking her personal relationships and standing to expose the truth about the murder.",
+      "conflict": "Bansi is murdered on the night of their reunion, forcing Baby to confront an apathetic local police force and resistance from her indifferent husband and dismissive in-laws.",
+      "resolution": "Having solved the crime, Baby sheds her people-pleasing nature, earning her respect and establishing her identity as a confident, capable police officer.",
+      "introduction": "Baby, a people-pleasing police officer, takes on a fake charge to secure leave for her sister-in-law's baby shower in Rewa, where she reunites with her childhood friend, Bansi.",
+      "risingAction": "Defying her family's expectations and social pressure, Baby launches a secret investigation into Bansi's death, navigating hidden local secrets and deeply rooted family betrayals."
+    },
+    "characters": [
+      {
+        "name": "Baby (Babita Singh)",
+        "role": "Hero",
+        "description": "A people-pleasing cop who steps up to secretly investigate her childhood friend's murder, discovering her inner courage and true voice along the way."
+      },
+      {
+        "name": "Bansi",
+        "role": "Supporting Character",
+        "description": "Baby's childhood friend whose murder on the night of their reunion serves as the catalyst for the investigation."
+      },
+      {
+        "name": "Baby's Husband",
+        "role": "Supporting Character",
+        "description": "An indifferent partner who, along with his dismissive family, opposes Baby's commitment to finding the truth."
+      },
+      {
+        "name": "Local Police Force",
+        "role": "Other",
+        "description": "An apathetic law enforcement team that stands in the way of a proper investigation into Bansi's death."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Babita \"Baby\" Singh",
+        "target": "Bansi",
+        "description": "Childhood Friends"
+      },
+      {
+        "source": "Babita \"Baby\" Singh",
+        "target": "Baby's Husband",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Babita \"Baby\" Singh",
+        "target": "Sister-in-law",
+        "description": "Sisters-in-law"
+      },
+      {
+        "source": "Babita \"Baby\" Singh",
+        "target": "Baby's In-laws",
+        "description": "Daughter-in-law/In-laws"
+      },
+      {
+        "source": "Babita \"Baby\" Singh",
+        "target": "Local Police Force",
+        "description": "Colleagues / Investigative Opponents"
+      },
+      {
+        "source": "Bansi",
+        "target": "Murderer / Family Betrayers",
+        "description": "Victim/Perpetrator"
+      }
+    ],
+    "seo": {
+      "slug": "babita-singh-reporting",
+      "jsonLd": {
+        "name": "Babita Singh Reporting",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law’s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop."
+      },
+      "keywords": [
+        "Babita Singh Reporting",
+        "Babita Singh Reporting plot",
+        "Babita Singh Reporting movie summary",
+        "Rewa murder mystery movie",
+        "Indian crime drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/babita-singh-reporting](https://movnix.com/movie/babita-singh-reporting)",
+      "metaTitle": "Babita Singh Reporting Movie Overview, Cast & Plot - Movnix",
+      "openGraph": {
+        "og:title": "Babita Singh Reporting - Official Movie Synopsis & Details",
+        "og:description": "Follow cop Baby as she secretly investigates a tragic murder in Rewa, confronting betrayal and uncovering her true voice."
+      },
+      "twitterCard": {
+        "twitter:title": "Babita Singh Reporting - Plot Summary & Details",
+        "twitter:description": "When her childhood friend is murdered in Rewa, cop Baby secretly takes on the investigation, defying her family and local police."
+      },
+      "metaDescription": "Discover Babita Singh Reporting: A people-pleasing cop secretly investigates a childhood friend's murder in Rewa while confronting deep family betrayals."
+    },
+    "faq": [
+      {
+        "answer": "No, Babita Singh Reporting is a standalone film and not currently part of an established franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes in Babita Singh Reporting, so you do not need to sit through the entire credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The dominant genre of Babita Singh Reporting is crime mystery drama, combining police procedural elements with a character-driven story of personal empowerment.",
+        "question": "What is the dominant genre?"
+      },
+      {
+        "answer": "The film follows Baby, a people-pleasing cop who takes a fake charge to secure leave for a family event, only to secretly investigate the murder of her childhood friend Bansi when the local authorities refuse to properly probe the crime.",
+        "question": "What is the central premise of Babita Singh Reporting?"
+      },
+      {
+        "answer": "The main narrative unfolds in Rewa, where Baby travels for her sister-in-law's baby shower and subsequently investigates her friend's murder.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "The protagonist is Babita 'Baby' Singh, a police officer who starts off passive and eager to please but transforms into a determined, courageous investigator.",
+        "question": "Who is the protagonist of the film?"
+      },
+      {
+        "answer": "Baby must overcome resistance from her dismissive in-laws, an unsupportive and indifferent husband, and an apathetic local police force that lacks interest in solving the case.",
+        "question": "What obstacles does Baby face during her investigation?"
+      },
+      {
+        "answer": "The movie explores themes of female empowerment, overcoming societal and familial pressure, betrayal, justice, and self-discovery.",
+        "question": "What key thematic elements does the movie explore?"
+      },
+      {
+        "answer": "Yes, audiences who enjoy lighthearted mystery thrillers combined with emotional family drama and character growth will find the plot engaging.",
+        "question": "Is Babita Singh Reporting suitable for audiences looking for a suspenseful mystery?"
+      },
+      {
+        "answer": "The story places greater emphasis on secret investigation, uncovering family betrayals, and personal character development as Baby finds her voice as a true police officer.",
+        "question": "Does the story focus more on action or investigation and character growth?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild suspense and thriller elements surrounding a murder mystery."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild potential for infrequent moderate thematic strong language."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Involves a murder investigation, implying off-screen or mild thematic violence without explicit gore described."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to no substance use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the narrative."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity focused on murder mystery, strained family dynamics, and personal empowerment."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 3
+    },
+    "created_at": "2026-08-29 05:02:55.016539",
+    "updated_at": "2026-08-29 05:02:55.016539"
+  }
 }
