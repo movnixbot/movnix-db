@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.1988,
-    "voteAverage": 6.125,
-    "voteCount": 424,
+    "popularity": 7.7393,
+    "voteAverage": 6.134,
+    "voteCount": 445,
     "homepage": "https://mock-movie-website.com/movies/1086260",
     "posterPath": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
     "backdropPath": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -528,8 +528,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.125,
-      "votesCount": 424
+      "ratingValue": 6.134,
+      "votesCount": 445
     },
     {
       "source": "imdb",
@@ -693,9 +693,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 54844,
-      "name": "Brad Fuller",
-      "profilePath": "/qlJSn1kbOe6jZwJAkJGuyNh5tGi.jpg",
+      "tmdbPersonId": 1262632,
+      "name": "Eric B. Fleischman",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -711,21 +711,21 @@
       "order": null
     },
     {
+      "tmdbPersonId": 54844,
+      "name": "Brad Fuller",
+      "profilePath": "/qlJSn1kbOe6jZwJAkJGuyNh5tGi.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1561234,
       "name": "Jess Varley",
       "profilePath": "/9pKKxwPp0xkoioX51ljPerfoaEP.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1262632,
-      "name": "Eric B. Fleischman",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -856,5 +856,225 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1086260/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1086260,
+    "hash": "2aff2641c3791bacd76d8c12a94d000d38a91902de6f3fd0c1db727ddc07fed7",
+    "summary_one_sentence": "Upon returning from her inaugural space mission, astronaut Sam Walker undergoes rehabilitation in a high-security NASA facility, only to suspect that a sinister extraterrestrial presence followed her home.",
+    "summary_short": "After completing her first mission in space, astronaut Sam Walker is moved to a remote, high-security NASA facility for medical evaluation and rehabilitation. What should be a peaceful recovery quickly deteriorates as terrifying, unexplained events plague the property. Fearing for her safety and sanity, Sam begins to suspect that something non-human returned with her from orbit. As NASA personnel dismiss her concerns, she must unravel the truth before the unseen force destroys her.",
+    "summary_long": "Astronaut Sam Walker achieves her lifelong dream when she successfully completes her first orbital space mission. Upon returning to Earth, NASA places her in a secluded, high-security medical compound for routine rehabilitation, physiological testing, and psychological evaluation. Initially relieved to be back, Sam soon notices disturbing anomalies around the property, including strange environmental glitches and unsettling physical sensations. The staff attributes her experiences to severe post-mission stress and re-entry isolation, but the occurrences escalate into violent, unnatural phenomena. Isolated from the outside world and under constant surveillance, Sam starts conducting her own clandestine investigation into what really happened during her journey. She comes to the terrifying conclusion that an alien entity hitched a ride back to Earth inside or alongside her spacecraft. As the entity's influence grows more aggressive, the boundaries between NASA's protective protocols and a covert containment operation begin to blur. Sam is forced into a desperate fight for survival against both an enigmatic otherworldly parasite and the secretive institution keeping her confined.",
+    "synopsis": "The Astronaut is a high-tension sci-fi horror thriller that explores the psychological and physical aftermath of space exploration. Following her maiden voyage into orbit, astronaut Sam Walker is relocated to an isolated, heavily guarded NASA safehouse designed for recovery and quarantine. Surrounded by medical experts and high-tech monitoring, Sam expects a smooth transition back to terrestrial life. However, her isolation becomes a nightmare when unexplainable, menacing events begin occurring throughout the compound. As her physical health fluctuates and her surroundings grow increasingly hostile, Sam becomes convinced that an alien organism has followed her back from the cosmos. Caught in a claustrophobic battle of nerves, she must determine whether she is losing her mind to space sickness or if an extraterrestrial threat is actively hunting her from within the shadows of the facility.",
+    "keywords": [
+      "astronaut",
+      "space mission aftermath",
+      "extraterrestrial threat",
+      "alien entity",
+      "isolation",
+      "paranoia",
+      "medical testing",
+      "government facility",
+      "psychological horror",
+      "sci-fi thriller",
+      "unexplained phenomena",
+      "home invasion horror",
+      "trauma rehabilitation",
+      "purity of quarantine"
+    ],
+    "themes": [
+      {
+        "theme": "Extraterrestrial Threat",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Paranoia",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.82
+      }
+    ],
+    "story_structure": {
+      "climax": "Sam confronts the ultimate threat within the isolation facility, forcing a decisive stand between reality, her captors, and the mysterious presence.",
+      "conflict": "Strange and disturbing events begin unfolding around the property, leading Sam to suspect an extraterrestrial entity accompanied her to Earth.",
+      "resolution": "The true nature of the phenomenon and Sam's ultimate fate are revealed, establishing the lasting consequences of her return home.",
+      "introduction": "Astronaut Sam Walker completes her maiden space mission and enters NASA-supervised medical testing and rehabilitation in a secure home.",
+      "risingAction": "As the unsettling occurrences escalate, Sam attempts to uncover the truth while navigating intense physical recovery, strict surveillance, and her own growing paranoia."
+    },
+    "characters": [
+      {
+        "name": "Sam Walker",
+        "role": "Hero",
+        "description": "An astronaut undergoing rehabilitation after a space mission who faces terrifying, potentially extraterrestrial occurrences upon her return to Earth."
+      },
+      {
+        "name": "NASA Medical & Security Personnel",
+        "role": "Supporting Character",
+        "description": "The doctors and agents managing the high-security rehabilitation house, whose strict oversight creates tension surrounding Sam's isolation."
+      },
+      {
+        "name": "The Extraterrestrial Presence",
+        "role": "Villain",
+        "description": "An unknown entity or force that has seemingly followed Sam back from space, driving the disturbing and threatening phenomena around the property."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sam Walker",
+        "target": "General William Harris",
+        "description": "Adoptive Father / NASA Overseer"
+      },
+      {
+        "source": "Sam Walker",
+        "target": "Mark Walker",
+        "description": "Husband"
+      },
+      {
+        "source": "Sam Walker",
+        "target": "Extraterrestrial Entity",
+        "description": "Host/Infiltrator"
+      },
+      {
+        "source": "General William Harris",
+        "target": "Mark Walker",
+        "description": "Father-in-law / Controller"
+      }
+    ],
+    "seo": {
+      "slug": "the-astronaut",
+      "jsonLd": {
+        "name": "The Astronaut",
+        "@type": "Movie",
+        "genre": [
+          "Science Fiction",
+          "Thriller",
+          "Horror"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": {
+          "name": "Sam Walker",
+          "@type": "Person"
+        },
+        "description": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth."
+      },
+      "keywords": [
+        "The Astronaut movie",
+        "Sam Walker space movie",
+        "sci-fi horror film",
+        "extraterrestrial thriller",
+        "NASA sci-fi movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-astronaut](https://movnix.com/movie/the-astronaut)",
+      "metaTitle": "The Astronaut (2025) - Sci-Fi Thriller Film Details & Synopsis",
+      "openGraph": {
+        "og:title": "The Astronaut - Sci-Fi Thriller",
+        "og:description": "After returning from space, astronaut Sam Walker suspects an extraterrestrial threat followed her back to Earth during NASA rehabilitation."
+      },
+      "twitterCard": {
+        "twitter:title": "The Astronaut - Sci-Fi Thriller",
+        "twitter:description": "An astronaut returning from space faces disturbing extraterrestrial occurrences in NASA quarantine. Read full details."
+      },
+      "metaDescription": "Astronaut Sam Walker returns from space only to uncover a terrifying extraterrestrial presence at her rehabilitation site. Read full details for The Astronaut."
+    },
+    "faq": [
+      {
+        "answer": "The film's primary genres are sci-fi thriller and horror, blending elements of space mystery with atmospheric psychological dread.",
+        "question": "What is the dominant genre of The Astronaut?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not connected to an existing cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The story follows astronaut Sam Walker as she undergoes medical isolation at a secure NASA compound following her space mission, only to experience disturbing events that suggest an alien entity accompanied her home.",
+        "question": "What is the core premise of the story?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The protagonist is Sam Walker, an astronaut dealing with the physical and psychological aftermath of her orbital mission.",
+        "question": "Who is the main character in the movie?"
+      },
+      {
+        "answer": "The main setting is a high-security rehabilitation house maintained by NASA, creating an isolated and claustrophobic environment.",
+        "question": "Where does the majority of the film take place?"
+      },
+      {
+        "answer": "No, the movie is based on an original fictional screenplay.",
+        "question": "Is the movie based on a true story or book?"
+      },
+      {
+        "answer": "The film explores themes of isolation, paranoia, government surveillance, post-mission trauma, and fear of the unknown.",
+        "question": "What are the main thematic elements explored in the story?"
+      },
+      {
+        "answer": "Due to intense thriller elements, disturbing scenes, and horror suspense, it is intended primarily for mature audiences.",
+        "question": "Is the film suitable for younger audiences?"
+      },
+      {
+        "answer": "She faces an ambiguous, escalating threat that borders between an unidentified extraterrestrial presence and potential psychological fallout from her space voyage.",
+        "question": "What type of threat does the main character face?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate to high psychological horror, creepy jump scares, unsettling body horror visuals, and escalating extraterrestrial suspense."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language including occasional profanities like 'shit' and 'damn'."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence involving military confrontations, physical altercations, and physical distress from extraterrestrial effects."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Mild depictions of medical sedation, quarantine drugs, and occasional casual alcohol use."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, strictly limited to brief non-sexual marital intimacy/dialogue."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by themes of paranoia, isolation, memory loss, and threat to family."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 9,
+      "romance": 1,
+      "science": 7,
+      "suspense": 9,
+      "violence": 4
+    },
+    "created_at": "2026-08-18 09:03:07.112493",
+    "updated_at": "2026-08-18 09:03:07.112493"
+  }
 }
