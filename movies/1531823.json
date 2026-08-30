@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.6729,
+    "popularity": 1.3026,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1531823",
@@ -289,11 +289,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Sun Nxt",
+          "logo": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Sun Nxt",
+          "logo": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
+        }
+      ],
       "buy": []
     }
   },
