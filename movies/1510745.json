@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.7479,
-    "voteAverage": 5.853,
-    "voteCount": 92,
+    "popularity": 7.4265,
+    "voteAverage": 6.085,
+    "voteCount": 112,
     "homepage": "https://mock-movie-website.com/movies/1510745",
     "posterPath": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
     "backdropPath": "/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
@@ -84,6 +84,13 @@
     },
     {
       "filePath": "/vetYiaMY5IIUTr6N042hyfwO9w8.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4RLPhr9JUtGIChD0Yh9CdFltuX3.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -212,13 +219,6 @@
       "filePath": "/cUspANSVWks3ZO6MUxzgl9NY3jC.jpg",
       "width": 1000,
       "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/4RLPhr9JUtGIChD0Yh9CdFltuX3.jpg",
-      "width": 2000,
-      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -352,8 +352,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.853,
-      "votesCount": 92
+      "ratingValue": 6.085,
+      "votesCount": 112
     },
     {
       "source": "rotten_tomatoes",
@@ -547,7 +547,7 @@
           "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
         },
         {
-          "name": "AMC Plus Apple TV Channel ",
+          "name": "AMC Plus Apple TV channel",
           "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
         },
         {
@@ -571,7 +571,7 @@
           "logo": "/qb6Lj5BhNJavdmRVDzAqAjd4Tj3.jpg"
         },
         {
-          "name": "Shudder Apple TV Channel",
+          "name": "Shudder Apple TV channel",
           "logo": "/kLfq0I2MwiUFUY9yI1GwOeKxX8f.jpg"
         }
       ],
