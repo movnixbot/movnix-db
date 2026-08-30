@@ -10,9 +10,9 @@
     "budget": "6000000",
     "revenue": "56286295",
     "status": "Released",
-    "popularity": 17.3815,
-    "voteAverage": 7.08,
-    "voteCount": 3391,
+    "popularity": 18.7119,
+    "voteAverage": 7.078,
+    "voteCount": 3401,
     "homepage": "https://anora.film",
     "posterPath": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
     "backdropPath": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
@@ -365,13 +365,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/9leBvae1CCbti0BhoArm6kInKwF.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
       "width": 1384,
       "height": 1920,
@@ -393,10 +386,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/7VfqjsmkOwMJAWL01KLJkk4zNGV.jpg",
-      "width": 899,
-      "height": 1349,
-      "aspectRatio": 0.666,
+      "filePath": "/9leBvae1CCbti0BhoArm6kInKwF.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -418,6 +411,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7VfqjsmkOwMJAWL01KLJkk4zNGV.jpg",
+      "width": 899,
+      "height": 1349,
+      "aspectRatio": 0.666,
       "type": "poster"
     },
     {
@@ -1388,6 +1388,13 @@
     },
     {
       "filePath": "/utQ1efFJ9ZIIkh5VkrNbCCNoFYx.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/aA87DqsKgLT5DkXO4g5TvHnlVan.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -2384,8 +2391,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.08,
-      "votesCount": 3391
+      "ratingValue": 7.078,
+      "votesCount": 3401
     },
     {
       "source": "imdb",
@@ -2626,7 +2633,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
