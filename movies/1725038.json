@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.3332,
-    "voteAverage": 7,
-    "voteCount": 1,
+    "popularity": 2.283,
+    "voteAverage": 7.5,
+    "voteCount": 2,
     "homepage": "https://www.hallmarkchannel.com/aussie-at-heart",
-    "posterPath": "/gvndojJd2qfWlgsOhw1K1abxYB5.jpg",
-    "backdropPath": "/AtuX4TjgLJQK8wCGHag9PMr6q6e.jpg",
+    "posterPath": "/jDD0xST4NqKJzgUdOngdVKKr645.jpg",
+    "backdropPath": "/rJLKbIaqhdrolUZNeRUZVmHuLiV.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -23,6 +23,10 @@
     {
       "tmdbId": 10749,
       "name": "Romance"
+    },
+    {
+      "tmdbId": 10770,
+      "name": "TV Movie"
     },
     {
       "tmdbId": 1,
@@ -34,32 +38,39 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/gvndojJd2qfWlgsOhw1K1abxYB5.jpg",
+      "filePath": "/jDD0xST4NqKJzgUdOngdVKKr645.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
     },
     {
-      "filePath": "/AtuX4TjgLJQK8wCGHag9PMr6q6e.jpg",
+      "filePath": "/rJLKbIaqhdrolUZNeRUZVmHuLiV.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
     },
     {
-      "filePath": "/gvndojJd2qfWlgsOhw1K1abxYB5.jpg",
-      "width": 864,
-      "height": 1296,
+      "filePath": "/5wwzSyd44DpXv7yOL6lPsBTLD7p.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
     {
-      "filePath": "/z5RTkl96OcSWfmyTQkEeKjqFZ6L.jpg",
-      "width": 960,
-      "height": 1440,
+      "filePath": "/jDD0xST4NqKJzgUdOngdVKKr645.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/rJLKbIaqhdrolUZNeRUZVmHuLiV.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     },
     {
       "filePath": "/AtuX4TjgLJQK8wCGHag9PMr6q6e.jpg",
@@ -74,13 +85,27 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/jKvbjaC1IHUQLKCHALjVTPfINS4.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4653FHSdsxP9VtBBbiR9ixVS1rn.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 1
+      "ratingValue": 7.5,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -266,6 +291,18 @@
         {
           "name": "YouTube TV",
           "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+        },
+        {
+          "name": "Hallmark+ Amazon Channel",
+          "logo": "/wVxA3Rw87917VEXChiVKZpXUjSm.jpg"
+        },
+        {
+          "name": "Hallmark+ Apple TV channel",
+          "logo": "/hGIjvx8BIK4sHZwRYyyB17Pfywj.jpg"
+        },
+        {
+          "name": "Hallmark TV Amazon Channel",
+          "logo": "/xPrDQ8zxayT6PDcdaixzyLXVlWB.jpg"
         }
       ],
       "buy": []
