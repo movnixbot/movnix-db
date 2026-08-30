@@ -10,7 +10,7 @@
     "budget": "32000000",
     "revenue": null,
     "status": "Post Production",
-    "popularity": 4.757,
+    "popularity": 4.5435,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1228834",
@@ -91,6 +91,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Final Trailer",
+      "key": "l5Luvr9TRRc",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Trailer"
+    },
     {
       "name": "Official Trailer",
       "key": "NYC0v8xqQdM",
@@ -486,5 +493,230 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1228834/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1228834,
+    "hash": "95a646f0c6ecaf78e3589d9d0a5f10f3c6bc67b6cd14cbfe0927e3a9a58a5d1c",
+    "summary_one_sentence": "A group of disgraced, war-torn ex-CIA operatives head to Tehran after the end of the Afghanistan war to pull off a life-changing heist.",
+    "summary_short": "Disillusioned by the end of the war in Afghanistan, a group of disgraced and war-torn ex-CIA operatives find themselves adrift without a mission. Seeking redemption and financial freedom, they pull together for a dangerous, high-stakes operation in the heart of Tehran. Driven by trauma, betrayal, and a desire to control their own fates, the team sets out to execute a life-changing score. However, infiltrating enemy territory tests their loyalties and forces them to confront the true cost of their past choices.",
+    "summary_long": "Following the turbulent end of the war in Afghanistan, a band of former CIA operatives finds themselves cast aside, disgraced, and deeply scarred by their years of covert service. Struggling to adapt to civilian life while carrying the psychological weight of their past operations, they come together around an audacious proposal: execute a massive, covert heist in Tehran. The target promises a life-changing payout that could secure their futures and provide an escape from their pasts. However, operating off-grid in one of the most hostile espionage environments in the world requires precision, trust, and absolute discretion. As they assemble their team and map out the infiltration, long-buried grievances and unresolved trauma begin to surface, threatening their unity. Once on the ground in Tehran, unforeseen complications quickly derail their plan, escalating the operation into a deadly game of survival. Hunted by local intelligence and confronted with secrets within their own ranks, the operatives must rely on their lethal training to navigate the crossfire. Ultimately, the high-stakes mission forces each member to choose between personal survival and the remaining bonds of brotherhood.",
+    "synopsis": "The Fix is an edge-of-your-seat thriller that explores the psychological aftermath of modern conflict through the lens of a high-octane heist story. Set against the backdrop of post-war uncertainty following the end of the Afghanistan conflict, the narrative follows a hardened crew of ex-CIA operatives left abandoned by the system they served. Desperate to reclaim agency over their lives, they orchestrate an ambitious, unsanctioned operation in Tehran to pull off a massive score. Combining realistic tactical action with compelling character drama, the story delves into themes of loyalty, betrayal, and the deep emotional scars carried by veterans of shadow wars as they risk everything on one final, desperate play.",
+    "keywords": [
+      "ex-cia operatives",
+      "war-torn veterans",
+      "disillusioned operatives",
+      "heist score",
+      "revenge plot",
+      "post-war trauma",
+      "tehran setting",
+      "iranian backdrop",
+      "espionage thriller",
+      "rogue agents",
+      "afghanistan war aftermath",
+      "disgraced soldiers",
+      "high-stakes score",
+      "moral ambiguity"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Disillusionment",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Comradeship & Betrayal",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Moral Corruption",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The mission reaches its peak operational tension when their carefully crafted plan unravels in Tehran, forcing the team into an intense confrontation where survival and success hang in the balance.",
+      "conflict": "Driven by desperation and the desire for a life-changing score, the team decides to unite for an off-the-books heist targeting a high-stakes objective deep inside Tehran.",
+      "resolution": "The surviving operatives process the immediate fallout of the operation, facing the ultimate cost of their ambition and the reality of their new lives outside the covert world.",
+      "introduction": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives struggle to find direction after leaving active duty.",
+      "risingAction": "As they infiltrate hostile territory, the operative group must navigate strict surveillance, high-stakes logistics, and deep-seated personal trauma that threatens to fracture their trust from within."
+    },
+    "characters": [
+      {
+        "name": "Disgraced Ex-CIA Operative (Lead)",
+        "role": "Anti Hero",
+        "description": "A war-torn veteran driven by disillusionment and the pursuit of a major score rather than purely noble intentions."
+      },
+      {
+        "name": "Senior Operative / Handler",
+        "role": "Mentor",
+        "description": "An experienced elder figure providing tactical guidance and critical knowledge for the operation in Tehran."
+      },
+      {
+        "name": "Team Tactician / Enforcer",
+        "role": "Supporting Character",
+        "description": "A key member of the heist team offering specialized combat skills and logistical support."
+      },
+      {
+        "name": "Tehran Target / Rival Faction Leader",
+        "role": "Villain",
+        "description": "The high-value target or opposing force in Iran standing between the team and their payout."
+      },
+      {
+        "name": "Wildcard Operative",
+        "role": "Comic Relief",
+        "description": "A reckless or eccentric team member who breaks tension with dark humor during high-stakes moments."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Leader / Disgraced Ex-CIA Operative",
+        "target": "Ex-CIA Heist Team Member",
+        "description": "Comrades / Co-Conspirators"
+      },
+      {
+        "source": "Ex-CIA Heist Team",
+        "target": "Tehran Security Forces / Opponents",
+        "description": "Adversaries / High-Stakes Targets"
+      }
+    ],
+    "seo": {
+      "slug": "the-fix",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-fix](https://movnix.com/movie/the-fix)",
+        "name": "The Fix",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score."
+      },
+      "keywords": [
+        "The Fix movie",
+        "The Fix film",
+        "Tehran thriller",
+        "ex CIA operatives movie",
+        "Afghanistan war movie",
+        "action heist film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-fix](https://movnix.com/movie/the-fix)",
+      "metaTitle": "The Fix (2026) - Action Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "The Fix - Official Movie Overview",
+        "og:description": "Disillusioned ex-CIA operatives set out to Tehran for a high-stakes score in the action thriller The Fix."
+      },
+      "twitterCard": {
+        "twitter:title": "The Fix Movie Overview",
+        "twitter:description": "Ex-CIA operatives head to Tehran for a massive heist in the thriller movie, The Fix."
+      },
+      "metaDescription": "Disillusioned ex-CIA operatives head to Tehran for a life-changing score after the Afghan War. Explore details and overview for the film The Fix."
+    },
+    "faq": [
+      {
+        "answer": "The Fix is primarily an action-thriller with strong elements of espionage and heist drama.",
+        "question": "What is the dominant genre of 'The Fix'?"
+      },
+      {
+        "answer": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+        "question": "What is the plot overview of 'The Fix'?"
+      },
+      {
+        "answer": "No, 'The Fix' is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or an existing cinematic universe?"
+      },
+      {
+        "answer": "While the story is inspired by the real-world historical context surrounding the end of the war in Afghanistan, the plot and characters are fictional.",
+        "question": "Is 'The Fix' based on a true story or a book?"
+      },
+      {
+        "answer": "No, there are no extra scenes during or after the end credits.",
+        "question": "Is there a post-credits scene in 'The Fix'?"
+      },
+      {
+        "answer": "The film is targeted at adult audiences and is rated R for strong violence, pervasive language, and intense thematic elements.",
+        "question": "What is the target audience and age rating for the film?"
+      },
+      {
+        "answer": "While the backstory stems from the conflict in Afghanistan, the main heist and plot unfold in Tehran, Iran.",
+        "question": "Where does the primary action of the film take place?"
+      },
+      {
+        "answer": "The movie explores themes of disillusionment, military trauma, betrayal, brotherhood, and the search for redemption after war.",
+        "question": "What are the central themes explored in 'The Fix'?"
+      },
+      {
+        "answer": "'The Fix' is available in select theaters and across major digital video-on-demand platforms.",
+        "question": "Where can I watch or stream 'The Fix'?"
+      },
+      {
+        "answer": "The story centers on a squad of disgraced former CIA operatives led by a veteran operative who seeks one final high-stakes mission in Tehran.",
+        "question": "Who are the main characters in the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror element; mild tension or suspense standard for action thrillers, but no supernatural or overt horror tropes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Moderate to frequent coarse language and profanity typical of gritty action-thriller media involving operative characters."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High likelihood of intense military-style combat, tactical gunfire, explosive action, and lethal altercations given the ex-CIA heist premise."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Potential minor depictions or mentions of alcohol, tobacco, or prescription use common in hardened operative tropes."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content indicated in the core plot synopsis."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional weight driven by themes of post-war disillusionment, psychological trauma, high-stakes betrayal, and revenge."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-28 04:01:14.581351",
+    "updated_at": "2026-08-28 04:01:14.581351"
+  }
 }
