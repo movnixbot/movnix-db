@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 10.5499,
-    "voteAverage": 6.425,
-    "voteCount": 214,
+    "popularity": 11.8375,
+    "voteAverage": 6.418,
+    "voteCount": 220,
     "homepage": "https://hurawatch.lol/",
     "posterPath": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
     "backdropPath": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
@@ -353,8 +353,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.425,
-      "votesCount": 214
+      "ratingValue": 6.418,
+      "votesCount": 220
     },
     {
       "source": "imdb",
@@ -513,15 +513,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1382395,
-      "name": "Addam Bramich",
-      "profilePath": "/qWz9STF2Yrg2TJc5ITxSiMcFsSY.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 15115,
       "name": "Stefan Ruzowitzky",
       "profilePath": "/38AgCYbF46HIoKHPVKGRwOVnInH.jpg",
@@ -549,9 +540,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 56095,
-      "name": "Gary Hamilton",
-      "profilePath": "/wYcqkq5AKImjqSAnn59EwCdag1o.jpg",
+      "tmdbPersonId": 1382395,
+      "name": "Addam Bramich",
+      "profilePath": "/qWz9STF2Yrg2TJc5ITxSiMcFsSY.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -570,6 +561,15 @@
       "tmdbPersonId": 1375803,
       "name": "Ying Ye",
       "profilePath": "/2y6TXoaBLqDMP4HZuPrvcDfZogU.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 56095,
+      "name": "Gary Hamilton",
+      "profilePath": "/wYcqkq5AKImjqSAnn59EwCdag1o.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -700,5 +700,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1242501/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1242501,
+    "hash": "034e0f625743e009d47597ef3dad1f20d62436608e859490e951ee0543e507a2",
+    "summary_one_sentence": "An Indigenous game warden and an infamous poacher form an uneasy alliance to survive relentless criminals and corrupt cops racing to recover millions from a plane crash in a frozen lake.",
+    "summary_short": "After arresting a notorious poacher, a young Indigenous game warden discovers the criminal holds the secret to a downed plane hidden beneath a frozen lake containing millions in cash. Their situation turns dire when a ruthless group of criminals and dirty officers converge on their location to claim the fortune. Forced to work together, the warden and poacher must rely on each other to outwit their pursuers. Together, they embark on a dangerous battle for survival, racing across cracking ice before the thaw buries the truth forever.",
+    "summary_long": "In a remote wilderness, a dedicated young Indigenous game warden successfully tracks down and arrests an infamous poacher known for evading the law. During the arrest, the game warden learns a startling secret: the poacher knows the precise location of a secret plane crash submerged beneath the treacherous surface of a frozen lake, holding millions of dollars in untraceable cash. Word of the poacher's capture quickly spreads, alerting a deadly syndicate of ruthless criminals and dirty law enforcement officers who will stop at nothing to claim the fortune for themselves. Realizing they are hopelessly outgunned and isolated from help, the warden and her prisoner are forced into an improbable alliance to stay alive. As the heavily armed mercenary group closes in, the pair uses their knowledge of the local terrain to evade ambushes and deadly traps. Their escape route requires crossing the expansive, thawing lake, where every step carries the risk of plunging through thin ice into frigid waters. Amid constant gunfire and double-crosses, the warden must balance her moral duty with the reality of surviving against corrupt forces. Ultimately, the unlikely duo relies on instinct, trust, and wilderness survival skills to outsmart their relentless hunters before the ice entirely yields to the spring melt.",
+    "synopsis": "Icefall is a high-stakes survival thriller set in a harsh, freezing wilderness. When a young Indigenous game warden apprehends a notoriously elusive poacher, what begins as a routine arrest quickly devolves into a desperate fight for survival. The poacher reveals that he holds the location of a submerged plane crash holding a multi-million-dollar fortune. The revelation draws a lethal force of greed-driven criminals and corrupt police officers determined to eliminate all witnesses and retrieve the loot. Trapped in a high-tension cat-and-mouse game across a rapidly thawing frozen lake, the warden and the criminal must set aside their opposition and join forces to outwit their deadly pursuers against the unforgiving elements.",
+    "keywords": [
+      "unlikely alliance",
+      "survival thriller",
+      "frozen lake",
+      "treacherous ice",
+      "plane crash",
+      "stolen money",
+      "corrupt cops",
+      "poacher",
+      "game warden",
+      "Indigenous protagonist",
+      "cat and mouse",
+      "cold wilderness",
+      "race against time",
+      "isolated setting",
+      "heist aftermath"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Unlikely Alliances",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Greed and Corruption",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Duty vs. Expediency",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes final confrontation erupts on the treacherous, thawing surface, where shifting ice and enemy gunfire force the warden to leverage her survival skills to outwit the remaining threat.",
+      "conflict": "The poacher reveals he possesses critical intelligence about a sunken plane carrying millions in liquid assets, attracting an armed force of ruthless criminals and corrupted law enforcement officials.",
+      "resolution": "The criminal syndicate is dismantled, and the warden secures both the wilderness and her survival, leaving the icy expanse and its secret behind.",
+      "introduction": "An Indigenous game warden discovers an infamous poacher operating in her territory and successfully places him under arrest.",
+      "risingAction": "Forced into a tenuous alliance, the warden and poacher navigate targeted ambushes and environmental hazards as they attempt to stay steps ahead of their pursuers while traversing a destabilizing, frozen body of water."
+    },
+    "characters": [
+      {
+        "name": "Indigenous Game Warden",
+        "role": "Hero",
+        "description": "The protagonist who arrests the poacher and must navigate the treacherous frozen lake to survive against ruthless enemies."
+      },
+      {
+        "name": "Infamous Poacher",
+        "role": "Anti Hero",
+        "description": "A morally ambiguous criminal who holds critical knowledge of the crashed plane and forms an uneasy alliance with the warden to survive."
+      },
+      {
+        "name": "Lead Criminal / Corrupt Cop Leader",
+        "role": "Villain",
+        "description": "The primary antagonist pursuing the warden and poacher to secure the millions of dollars hidden in the crashed plane."
+      },
+      {
+        "name": "Indigenous Elder / Experienced Ally",
+        "role": "Mentor",
+        "description": "A seasoned figure providing guidance, local wisdom, and moral grounding to the warden during the ordeal."
+      },
+      {
+        "name": "Mercenary / Dirty Cop Enforcer",
+        "role": "Supporting Character",
+        "description": "A relentless adversary providing physical conflict and tactical pressure as part of the pursuing force."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Indigenous Game Warden",
+        "target": "Infamous Poacher",
+        "description": "Uneasy Allies / Captor & Captive"
+      },
+      {
+        "source": "Indigenous Game Warden",
+        "target": "Group of Criminals",
+        "description": "Enemies"
+      },
+      {
+        "source": "Indigenous Game Warden",
+        "target": "Dirty Cops",
+        "description": "Enemies / Adversaries"
+      },
+      {
+        "source": "Infamous Poacher",
+        "target": "Group of Criminals",
+        "description": "Enemies / Targets"
+      },
+      {
+        "source": "Infamous Poacher",
+        "target": "Dirty Cops",
+        "description": "Enemies / Targets"
+      },
+      {
+        "source": "Group of Criminals",
+        "target": "Dirty Cops",
+        "description": "Co-conspirators / Strategic Allies"
+      }
+    ],
+    "seo": {
+      "slug": "icefall",
+      "jsonLd": {
+        "name": "Icefall",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts."
+      },
+      "keywords": [
+        "Icefall movie",
+        "Icefall film overview",
+        "survival thriller movies",
+        "Icefall plot",
+        "indigenous game warden movie"
+      ],
+      "canonical": "[https://movnix.com/movie/icefall](https://movnix.com/movie/icefall)",
+      "metaTitle": "Icefall Movie | Synopsis, Cast & Latest Updates",
+      "openGraph": {
+        "og:title": "Icefall - Official Movie Overview & Plot",
+        "og:description": "A warden and a poacher form an uneasy alliance to outrun dirty cops across a melting frozen lake. Read the full synopsis for Icefall."
+      },
+      "twitterCard": {
+        "twitter:title": "Icefall Movie Overview",
+        "twitter:description": "A warden and a poacher team up to survive ruthless criminals and thin ice in the thriller Icefall."
+      },
+      "metaDescription": "An Indigenous game warden and an infamous poacher team up to survive corrupt cops and treacherous frozen lake waters in the survival thriller Icefall."
+    },
+    "faq": [
+      {
+        "answer": "The film's primary genres are survival thriller and action drama, centered on high-stakes physical conflict and environmental hazards.",
+        "question": "What is the dominant genre of Icefall?"
+      },
+      {
+        "answer": "No, Icefall is a standalone original action thriller film and not part of any broader cinematic franchise or sequel series.",
+        "question": "Is Icefall part of an existing film franchise?"
+      },
+      {
+        "answer": "No, the movie does not feature any mid-credits or post-credits scenes, bringing its full storyline to a complete conclusion before the final credits roll.",
+        "question": "Is there a post-credit scene in Icefall?"
+      },
+      {
+        "answer": "Icefall is directed by Academy Award winner Stefan Ruzowitzky and written by George S. Mahaffey Jr. and Steve Isles.",
+        "question": "Who directs and writes the movie Icefall?"
+      },
+      {
+        "answer": "The film stars Cara Jade Myers as the Indigenous game warden Ani and Joel Kinnaman as the grizzled poacher Harlan, alongside Danny Huston and Graham Greene.",
+        "question": "Who leads the cast of Icefall?"
+      },
+      {
+        "answer": "The story takes place in a frozen, icy wilderness and surrounding Indigenous territory, centered around a rapidly thawing lake holding a crashed aircraft.",
+        "question": "Where is the story of Icefall set?"
+      },
+      {
+        "answer": "The core conflict revolves around an unlikely partnership between a game warden and a poacher as they fight off hostile criminals and corrupt law enforcement while navigating hazardous, melting ice.",
+        "question": "What is the primary conflict in the plot?"
+      },
+      {
+        "answer": "Beyond human adversaries, the melting ice and extreme cold create constant natural hazards, forcing the main characters into a literal race against time before the surface destabilizes completely.",
+        "question": "What makes the environment a key antagonist in the film?"
+      },
+      {
+        "answer": "The movie is targeted toward adult action and thriller audiences due to sequences of violence, intense gun battles, and survival elements.",
+        "question": "What age rating or target audience is Icefall intended for?"
+      },
+      {
+        "answer": "Icefall is available across digital video-on-demand (VOD) platforms, including Apple TV and Fandango at Home.",
+        "question": "Where can viewers watch Icefall?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Low to moderate horror elements; primary tension stems from environmental peril, suspense, and thriller tropes rather than supernatural or traditional horror jumpscares."
+      },
+      "language": {
+        "score": 6,
+        "description": "Expected frequent strong language typical of high-stakes crime thrillers and conflict-driven action films."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Likely features high physical violence, gunplay, and intense action sequences given the survival thriller premise involving criminals, dirty cops, and poachers fighting for survival."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to potential mild substance use typical of crime thriller genres, though none explicitly highlighted in the core premise."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the plot overview."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity driven by dangerous life-or-death situations, betrayal, life-threatening environmental hazards, and relentless pursuit."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 0,
+      "science": 1,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-24 22:01:42.979892",
+    "updated_at": "2026-08-24 22:01:42.979892"
+  }
 }
