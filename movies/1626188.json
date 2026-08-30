@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.2226,
-    "voteAverage": 8.7,
-    "voteCount": 3,
+    "popularity": 7.2851,
+    "voteAverage": 8.4,
+    "voteCount": 5,
     "homepage": "https://mock-movie-website.com/movies/1626188",
     "posterPath": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
     "backdropPath": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
@@ -413,8 +413,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.7,
-      "votesCount": 3
+      "ratingValue": 8.4,
+      "votesCount": 5
     },
     {
       "source": "crawled",
@@ -545,5 +545,261 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1626188/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1626188,
+    "hash": "6893d01a9f720d60ee1fc5486855fb6112787543c0e40f9f38623ed0fd96c6bb",
+    "summary_one_sentence": "This documentary details the rise of Novak Djokovic from the war-torn courts of Serbia to his position as the most successful player in men's tennis history.",
+    "summary_short": "Novak Djokovic: The Wolf in Winter examines the life and career of one of tennis's ultimate champions. Emerging from a humble, hardscrabble upbringing in Serbia during a turbulent era, Djokovic developed a unique mental toughness and defensive mastery. The film highlights his relentless pursuit of excellence as he broke into the legendary rivalry between Roger Federer and Rafael Nadal. Ultimately, it captures his journey to breaking all-time records and securing his legacy as the sport's greatest competitor.",
+    "summary_long": "Novak Djokovic: The Wolf in Winter delves deeply into the personal and professional evolution of tennis GOAT Novak Djokovic. The narrative opens with his childhood in Belgrade, capturing how practicing amid military conflicts shaped his intense work ethic and unyielding mental resilience. As he enters the professional circuit, Djokovic faces steep challenges trying to establish himself alongside dominant forces like Roger Federer and Rafael Nadal. Through strict physical conditioning, dietary shifts, and tactical refinements, he gradually transforms into an unbeatable baseline presence. The documentary chronicles his pivotal Grand Slam victories, iconic championship battles, and periods of public scrutiny. Key moments highlight his unparalleled ability to overcome adversity and turn hostile crowd energy into fuel for performance. Beyond statistics, the film offers intimate insights into his mindset, personal sacrifices, and complex public persona. It concludes by reflecting on his historic record-breaking accomplishments and enduring impact on global sport.",
+    "synopsis": "Novak Djokovic: The Wolf in Winter offers an inspiring and comprehensive look into the life of tennis icon Novak Djokovic. Set against the backdrop of his modest beginnings in Serbia, the story traces his ascent through the ranks of professional tennis into an unstoppable force. Driven by fierce ambition and emotional fortitude, Djokovic continuously pushed the boundaries of physical and mental endurance to surpass established legends. Designed for both casual viewers and devoted tennis fans, this project delivers a powerful look at grit, self-belief, and the determination required to reach the pinnacle of athletic achievement.",
+    "keywords": [
+      "underdog to champion",
+      "sports biography",
+      "tennis GOAT",
+      "relentless resilience",
+      "war-torn childhood",
+      "mental toughness",
+      "elite athleticism",
+      "championship mentality",
+      "rise to dominance",
+      "endurance and grit",
+      "sporting history",
+      "serbian athletic pride",
+      "rivalry and triumph"
+    ],
+    "themes": [
+      {
+        "theme": "Resilience & Perseverance",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Legacy & Greatness",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Underdog Spirit & Siege Mentality",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Family Support",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Inspiring",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "He enters an unprecedented era of supremacy, claiming historic Grand Slam titles, achieving the non-calendar Year Grand Slam, and capturing the record for most weeks at World No. 1.",
+      "conflict": "As he breaks into the professional circuit, he must overcome significant physical challenges, health obstacles, and the overwhelming dominance of established legends Roger Federer and Rafael Nadal.",
+      "resolution": "Establishing his legacy as the most accomplished men's tennis player in history, Djokovic evolves into the elder statesman of the sport, continuing to compete at the highest level while cementing his goat status.",
+      "introduction": "Novak Djokovic begins his journey on the modest, hardscrabble courts of war-torn Serbia, developing a fierce resilience and an extraordinary passion for tennis.",
+      "risingAction": "Refining his conditioning, diet, and mental fortitude, Djokovic steadily ascends the ATP rankings, asserting himself as a dominant third force and consistently challenging the sport's status quo."
+    },
+    "characters": [
+      {
+        "name": "Novak Djokovic",
+        "role": "Hero",
+        "description": "The central protagonist whose journey from Serbia's hardscrabble courts to tennis greatness drives the narrative."
+      },
+      {
+        "name": "Rafael Nadal",
+        "role": "Villain",
+        "description": "The primary rival who serves as the ultimate antagonist and hurdle in Djokovic's quest for dominance."
+      },
+      {
+        "name": "Boris Becker",
+        "role": "Mentor",
+        "description": "The former champion who coached Djokovic during a pivotal era of his career, guiding him to major titles."
+      },
+      {
+        "name": "Andre Agassi",
+        "role": "Mentor",
+        "description": "The veteran champion who offered guidance and tactical insight during a reflective period of Djokovic's career."
+      },
+      {
+        "name": "Pete Sampras",
+        "role": "Supporting Character",
+        "description": "The tennis legend who served as Djokovic's childhood idol and benchmark for historical greatness."
+      },
+      {
+        "name": "Mary Carillo",
+        "role": "Other",
+        "description": "The expert commentator who provides external commentary, context, and perspective on Djokovic's legacy."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Novak Djokovic",
+        "target": "Jelena Djokovic",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Dijana Djokovic",
+        "description": "Son/Mother"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Marco Djokovic",
+        "description": "Brothers"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Rafael Nadal",
+        "description": "Rivals"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Andy Murray",
+        "description": "Rivals"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Maria Sharapova",
+        "description": "Peers/Friends"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Carlos Gomez-Herrera",
+        "description": "Coach/Player"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Gebhard Gritsch",
+        "description": "Trainer/Athlete"
+      },
+      {
+        "source": "Novak Djokovic",
+        "target": "Miljan Amanovic",
+        "description": "Physiotherapist/Athlete"
+      }
+    ],
+    "seo": {
+      "slug": "novak-djokovic-the-wolf-in-winter",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/novak-djokovic-the-wolf-in-winter](https://movnix.com/movie/novak-djokovic-the-wolf-in-winter)",
+        "name": "Novak Djokovic: The Wolf in Winter",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, who began playing on the hardscrabble courts of Serbia and rose to become the most accomplished champion in the history of men's tennis."
+      },
+      "keywords": [
+        "Novak Djokovic",
+        "The Wolf in Winter",
+        "Novak Djokovic documentary",
+        "tennis GOAT",
+        "Novak Djokovic movie",
+        "tennis history"
+      ],
+      "canonical": "[https://movnix.com/movie/novak-djokovic-the-wolf-in-winter](https://movnix.com/movie/novak-djokovic-the-wolf-in-winter)",
+      "metaTitle": "Novak Djokovic: The Wolf in Winter - Story of a Tennis Legend",
+      "openGraph": {
+        "og:title": "Novak Djokovic: The Wolf in Winter | The Rise of a Tennis GOAT",
+        "og:description": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, from Serbia's hardscrabble courts to becoming the most accomplished men's champion in history."
+      },
+      "twitterCard": {
+        "twitter:title": "Novak Djokovic: The Wolf in Winter | The Rise of a Tennis GOAT",
+        "twitter:description": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, from Serbia's hardscrabble courts to becoming the most accomplished men's champion in history."
+      },
+      "metaDescription": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, from Serbia's hardscrabble courts to becoming the most accomplished men's champion in history."
+    },
+    "faq": [
+      {
+        "answer": "'Novak Djokovic: The Wolf in Winter' is a biographical sports documentary detailing the life and career of tennis legend Novak Djokovic, tracing his rise from war-torn Serbia to becoming the most accomplished men's tennis player in history.",
+        "question": "What is 'Novak Djokovic: The Wolf in Winter' about?"
+      },
+      {
+        "answer": "The dominant genre is sports documentary and biographical documentary.",
+        "question": "What is the dominant genre of this title?"
+      },
+      {
+        "answer": "No, it is a standalone documentary focusing specifically on the life, career, and legacy of Novak Djokovic.",
+        "question": "Is this film part of a franchise or larger universe?"
+      },
+      {
+        "answer": "No, as a non-fiction documentary, there are no narrative post-credits or teaser scenes after the credits end.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "Yes, it includes exclusive interview footage with Novak Djokovic, along with insights from family members, coaches, rivals, and tennis analysts.",
+        "question": "Does the documentary feature interviews with Novak Djokovic himself?"
+      },
+      {
+        "answer": "It is generally rated PG or TV-PG, suitable for general audiences and tennis fans of all ages.",
+        "question": "What age rating or content classification does this film have?"
+      },
+      {
+        "answer": "The total runtime is approximately 1 hour and 45 minutes.",
+        "question": "How long is the runtime of the film?"
+      },
+      {
+        "answer": "It is available for streaming in HD and 4K Ultra HD on major streaming platforms, as well as digital video-on-demand.",
+        "question": "What formats is 'Novak Djokovic: The Wolf in Winter' available in?"
+      },
+      {
+        "answer": "Yes, the film covers broader themes of resilience, determination, and overcoming adversity, making it accessible and engaging for general audiences beyond avid tennis fans.",
+        "question": "Is this documentary suitable for viewers who aren't familiar with tennis?"
+      },
+      {
+        "answer": "It is available to stream on major digital and subscription streaming services where sports documentaries are hosted.",
+        "question": "Where can I watch 'Novak Djokovic: The Wolf in Winter'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or disturbing imagery."
+      },
+      "language": {
+        "score": 0,
+        "description": "No profanity or coarse language present."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or aggression."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to or depictions of drug, alcohol, or tobacco use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudiy, or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild emotional resonance surrounding personal perseverance and sports history."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 3,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-28 06:02:54.525275",
+    "updated_at": "2026-08-28 06:02:54.525275"
+  }
 }
