@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "3569263",
     "status": "Released",
-    "popularity": 6.8738,
-    "voteAverage": 6.6,
-    "voteCount": 318,
+    "popularity": 9.1113,
+    "voteAverage": 6.62,
+    "voteCount": 324,
     "homepage": "https://www.sonyclassics.com/film/bluemoon",
     "posterPath": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
     "backdropPath": "/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
@@ -716,8 +716,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.6,
-      "votesCount": 318
+      "ratingValue": 6.62,
+      "votesCount": 324
     },
     {
       "source": "imdb",
@@ -876,8 +876,8 @@
       "name": "Richard Linklater",
       "profilePath": "/xSctxeZQzQbZoaxIvcDeHlDjbiN.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -885,8 +885,8 @@
       "name": "Richard Linklater",
       "profilePath": "/xSctxeZQzQbZoaxIvcDeHlDjbiN.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1020,5 +1020,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1299655/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1299655,
+    "hash": "8e6efde5d117b19a82bab25e6ed658f763c3852ef31d8661368dfceef8d787e3",
+    "summary_one_sentence": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart wrestles with his declining self-worth in Sardi's bar while his former partner, Richard Rodgers, celebrates the triumphant opening night of 'Oklahoma!'",
+    "summary_short": "Set over the course of a single pivotal night, 'Blue Moon' explores the emotional fallout of one of American musical theater's greatest creative breakups. As Richard Rodgers revels in the massive success of his groundbreaking new musical 'Oklahoma!', his longtime collaborator Lorenz Hart sits nearby at Sardi's, drowning his doubts in booze and reflection. Faced with his own declining health and waning creative dominance, Hart is forced to reckon with his legacy and his former partner's bright future without him. The film balances sharp comedic banter with poignant historical drama, offering an intimate look at artistic rivalry and personal heartbreak.",
+    "summary_long": "On March 31, 1943, Broadway stands on the precipice of a new era with the opening night of Richard Rodgers and Oscar Hammerstein II's revolutionary musical, 'Oklahoma!'. Just down the street at Sardi's, legendary lyricist Lorenz Hart sits isolated, nursing a drink as the theatrical elite celebrate around him. For decades, the songwriting duo of Rodgers and Hart dominated Great American Songbook standards, but personal demons and alcohol dependency have fractured their partnership. As news of the show's overwhelming acclaim reaches the bar, Hart struggles with feelings of obsolescence, jealousy, and profound regret. Flashbacks and sharp-witted exchanges with bar patrons highlight the vibrant, chaotic history of his creative union with Rodgers. Throughout the evening, Hart engages in razor-sharp banter with friends and admirers, masking a painful vulnerability behind caustic humor. A tense face-to-face encounter between the former partners reveals the deep affection, artistic friction, and unspoken grief that defined their collaboration. As night turns to morning, Hart is left to confront the changing tides of theater and his own fragile sense of self-worth. ultimately, the film serves as a hauntingly witty character study of a brilliant mind facing his artistic twilight.",
+    "synopsis": "Set entirely on the historic night of March 31, 1943, 'Blue Moon' offers an intimate and witty look into the life of famed lyricist Lorenz Hart during a seismic shift in Broadway history. As his longtime creative partner Richard Rodgers celebrates the opening night of 'Oklahoma!'—his monumental new show created with Oscar Hammerstein II—Hart finds himself lingering in the booth of Sardi’s restaurant, confronting his fears of being left behind. Through poignant conversations, sharp humor, and nostalgic reflections, the narrative captures the melancholy and brilliance of a musical titan at a crossroads, delivering a moving drama about art, partnership, and the price of genius.",
+    "keywords": [
+      "1940s new york",
+      "sardi's",
+      "lorenz hart",
+      "richard rodgers",
+      "broadway theater",
+      "musical theatre history",
+      "lyricist",
+      "creative rivalry",
+      "former creative partners",
+      "professional envy",
+      "opening night drama",
+      "personal crisis",
+      "shattered confidence",
+      "artistic melancholy",
+      "showbusiness"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Self-Worth",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Jealousy & Bitterness",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Artistic Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Isolation & Regret",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Introspective",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Hart faces a pivotal emotional reckoning, coming head-to-head with the truth of his former partnership and making a crucial decision about whether to confront Rodgers or walk away.",
+      "conflict": "Hart must confront his inner turmoil and ego as his former artistic partner, Richard Rodgers, achieves massive acclaim for his new hit musical, 'Oklahoma!', leaving Hart to face a shifting theatrical landscape without him.",
+      "resolution": "Hart comes to a poignant, bittersweet acceptance regarding his past contributions to American musical theater and the fragile reality of his own artistic legacy.",
+      "introduction": "On the evening of March 31, 1943, celebrated lyricist Lorenz Hart sits isolated at Sardi’s bar, wrestling with feelings of professional abandonment and declining self-worth.",
+      "risingAction": "As news of the opening night success trickles in, interactions with acquaintances, Broadway insiders, and personal memories push Hart into a reflective tailspin, forcing him to reckon with his own dependencies, artistic identity, and creative artistic rift."
+    },
+    "characters": [
+      {
+        "name": "Lorenz Hart",
+        "role": "Hero",
+        "description": "The central protagonist battling his inner demons, alcoholism, and declining career as he confronts his former partner's massive new success."
+      },
+      {
+        "name": "Richard Rodgers",
+        "role": "Supporting Character",
+        "description": "Hart's legendary former musical partner whose new partnership and successful opening night serve as the narrative foil and catalyst for Hart's internal crisis."
+      },
+      {
+        "name": "Oscar Hammerstein II",
+        "role": "Mentor",
+        "description": "Rodgers' new collaborator whose success with 'Oklahoma!' represents a new direction in musical theatre and pushes Hart to reflect on his creative legacy."
+      },
+      {
+        "name": "Doc Bender",
+        "role": "Anti Hero",
+        "description": "A complex, morally ambiguous companion in Hart's inner circle who both enables his self-destructive habits and offers stark honesty about his reality."
+      },
+      {
+        "name": "Bar Companion / Sardi's Patron",
+        "role": "Comic Relief",
+        "description": "Lighthearted presence within Sardi's bar who provides brief moments of levity amidst Hart's solemn evening of self-reflection."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lorenz Hart",
+        "target": "Richard Rodgers",
+        "description": "Former Musical Theatre Writing Partners"
+      }
+    ],
+    "seo": {
+      "slug": "blue-moon",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/blue-moon](https://movnix.com/movie/blue-moon)",
+        "name": "Blue Moon",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”"
+      },
+      "keywords": [
+        "Blue Moon movie",
+        "Lorenz Hart",
+        "Richard Rodgers",
+        "Oklahoma musical",
+        "Blue Moon synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/blue-moon](https://movnix.com/movie/blue-moon)",
+      "metaTitle": "Blue Moon (1943) - Movie Overview, Plot & Details",
+      "openGraph": {
+        "og:title": "Blue Moon - Movie Overview",
+        "og:description": "On March 31, 1943, lyricist Lorenz Hart confronts his shattered self-confidence while Richard Rodgers celebrates the opening night of Oklahoma!."
+      },
+      "twitterCard": {
+        "twitter:title": "Blue Moon - Movie Overview",
+        "twitter:description": "On March 31, 1943, lyricist Lorenz Hart confronts his shattered self-confidence while Richard Rodgers celebrates the opening night of Oklahoma!."
+      },
+      "metaDescription": "In 1943, Lorenz Hart struggles with self-confidence in Sardi’s bar as former collaborator Richard Rodgers celebrates the hit opening of Oklahoma!."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Blue Moon is drama, specifically a biographical and character-driven drama.",
+        "question": "What is the dominant genre of Blue Moon?"
+      },
+      {
+        "answer": "The story follows legendary lyricist Lorenz Hart on the evening of March 31, 1943, as he confronts his shattered self-confidence inside Sardi’s bar while his former collaborator, Richard Rodgers, celebrates the opening night of his landmark musical, 'Oklahoma!'.",
+        "question": "What is the main plot of Blue Moon?"
+      },
+      {
+        "answer": "No, Blue Moon is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a focused historical character drama, there is no post-credit or mid-credit scene.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The central figures featured in the story are famous American lyricist Lorenz Hart and composer Richard Rodgers, known for their iconic musical theater collaboration, Rodgers and Hart.",
+        "question": "Who are the primary real-life historical figures featured in the story?"
+      },
+      {
+        "answer": "The movie takes place primarily on the evening of March 31, 1943, at Sardi’s bar in New York City.",
+        "question": "When and where does the story take place?"
+      },
+      {
+        "answer": "March 31, 1943, was the historic Broadway opening night of 'Oklahoma!', the revolutionary musical created by Richard Rodgers and Oscar Hammerstein II after Rodgers parted ways creatively with Lorenz Hart.",
+        "question": "Why is the date March 31, 1943, significant in the movie?"
+      },
+      {
+        "answer": "Yes, it is inspired by the real lives and complex dynamic between the legendary songwriting team Richard Rodgers and Lorenz Hart during a pivotal night in musical theater history.",
+        "question": "Is Blue Moon based on a true story?"
+      },
+      {
+        "answer": "Yes, fans of Broadway history, classic American songwriting, and the history behind Rodgers and Hart will find the film particularly engaging.",
+        "question": "Is Blue Moon suitable for musical theater fans?"
+      },
+      {
+        "answer": "The emotional core centers on themes of artistic rejection, changing creative partnerships, jealousy, pride, and personal insecurity.",
+        "question": "What is the emotional core of the film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening themes."
+      },
+      "language": {
+        "score": 2,
+        "description": "Potential mild strong language or period-typical slang, though none explicitly detailed."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction or threat of physical violence based on the provided overview."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate depiction or implied use of alcohol due to the setting in Sardi's bar."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit romantic situations indicated."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity focusing on themes of personal struggle, self-doubt, and insecurity."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 3,
+      "science": 0,
+      "suspense": 4,
+      "violence": 1
+    },
+    "created_at": "2026-08-21 14:03:44.726064",
+    "updated_at": "2026-08-21 14:03:44.726064"
+  }
 }
