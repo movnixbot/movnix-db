@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5875,
+    "popularity": 3.0577,
     "voteAverage": 5,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1527451",
@@ -237,5 +237,218 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1527451/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1527451,
+    "hash": "9d4daae559dde0a2da53744846372b9264eab577d6c090b2428572d737baff49",
+    "summary_one_sentence": "Seeking purpose and belonging away from her stifling everyday life, Luana immerses herself in the local black metal scene, only to be drawn to a charismatic singer whose radical beliefs threaten to tear the band apart.",
+    "summary_short": "Frustrated with society, her family, and her job at a crèche, Luana longs for stability and a genuine sense of belonging. She finds an escape in the local black metal scene and joins her cousin's band on tour as their social media manager. There, she falls deeply for the band's charismatic lead singer, Wiktor. However, as Wiktor's increasingly radical views spark severe tension within the group, Luana struggles to accept the troubling reality, refusing to let him go.",
+    "summary_long": "Luana feels completely trapped in her daily routine, burdened by frustration toward society, her family dynamics, and her unfulfilling job at a local crèche. Searching for an environment where she can truly belong, she gravitates toward the raw authenticity of the local black metal scene. Her journey takes a dramatic turn when she takes on the role of social media manager for her cousin's band during their tour. Immersed in the high-energy music world, she quickly becomes enamored with Wiktor, the band's charismatic frontman. As their romance develops, Wiktor begins revealing a far more radical and dangerous ideology that creates escalating friction among the band members. Despite clear warning signs and rising conflict, Luana turns a blind eye to Wiktor's dangerous extremism. Blended by her intense affection and her fear of losing the community she fought to find, she refuses to confront the truth. Ultimately, Luana remains dangerously anchored to Wiktor, torn between her desire for identity and the unsettling reality of the man she loves.",
+    "synopsis": "Trapped in an unsatisfying life defined by family friction and a dead-end crèche job, Luana searches for connection and purpose. She discovers a surprising sanctuary within the local black metal community and steps up to manage social media for her cousin's touring band. Along the road, she falls under the spell of Wiktor, the group's captivating lead singer. But as Wiktor's dark, radical views emerge and threaten the band's unity, Luana is forced to navigate the fragile boundaries of love, loyalty, and self-delusion.",
+    "keywords": [
+      "black metal scene",
+      "band on tour",
+      "social media manager",
+      "charismatic singer",
+      "radicalization",
+      "toxic relationship",
+      "search for belonging",
+      "social alienation",
+      "family tension",
+      "unhealthy obsession",
+      "music subculture",
+      "coming of age",
+      "blinded by love"
+    ],
+    "themes": [
+      {
+        "theme": "Identity & Belonging",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Radicalization & Blind Devotion",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Escapism & Alienation",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Conflict & Tension",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The internal turmoil reaches a boiling point when the band is forced to directly confront Wiktor's dangerous extremism, while Luana remains in emotional denial and refuses to cut ties with him.",
+      "conflict": "She finds her passion and community in the local black metal scene, eventually joining her cousin's band on tour as their social media manager and falling in love with their charismatic singer, Wiktor.",
+      "resolution": "Luana must face the consequences of her allegiance, deciding whether to cling to her toxic attachment or reevaluate her sense of self and belonging.",
+      "introduction": "Luana feels stuck in her daily life, dissatisfied with her job, family, and social surroundings, leading her to search for stability and belonging.",
+      "risingAction": "As the tour progresses, Wiktor exposes increasingly radical views that spark deep ideological and personal friction within the band."
+    },
+    "characters": [
+      {
+        "name": "Luana",
+        "role": "Hero",
+        "description": "The protagonist who seeks stability and belonging in the black metal scene, navigating personal frustration and her complex relationship with Wiktor."
+      },
+      {
+        "name": "Wiktor",
+        "role": "Villain",
+        "description": "The charismatic lead singer of the black metal band whose radical views create tension and test Luana's devotion."
+      },
+      {
+        "name": "Luana's Cousin",
+        "role": "Supporting Character",
+        "description": "Band member who connects Luana to the black metal scene and brings her along on tour."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Luana",
+        "target": "Wiktor",
+        "description": "Love interest / Charismatic black metal singer"
+      },
+      {
+        "source": "Luana",
+        "target": "Cousin",
+        "description": "Cousin / Band member (Luana acts as social media manager)"
+      },
+      {
+        "source": "Wiktor",
+        "target": "Cousin",
+        "description": "Bandmates / Tense relationship due to radical views"
+      }
+    ],
+    "seo": {
+      "slug": "wolves",
+      "jsonLd": {
+        "name": "Wolves",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Music"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Luana feels trapped by society, family, and work. She finds stability in the local black metal scene, but her love for charismatic singer Wiktor is tested when his radical views split the band."
+      },
+      "keywords": [
+        "Wolves movie",
+        "black metal drama film",
+        "Luana Wiktor Wolves",
+        "indie drama film",
+        "black metal scene movie"
+      ],
+      "canonical": "[https://movnix.com/movie/wolves](https://movnix.com/movie/wolves)",
+      "metaTitle": "Wolves - Drama Movie | Plot, Cast & Synopsis",
+      "openGraph": {
+        "og:title": "Wolves - Official Movie Synopsis & Details",
+        "og:description": "Luana finds belonging in the black metal scene, but her relationship with singer Wiktor forces her to face dangerous truths. Read the full synopsis."
+      },
+      "twitterCard": {
+        "twitter:title": "Wolves - Movie Synopsis & Details",
+        "twitter:description": "Seeking escape, Luana joins a black metal tour and falls for singer Wiktor—until radical views threaten to tear everything apart."
+      },
+      "metaDescription": " Luana finds belonging in the black metal scene, but her bond with charismatic singer Wiktor tests her limits as radical views threaten the band."
+    },
+    "faq": [
+      {
+        "answer": "Wolves is primarily a dramatic feature film centered around themes of youth disillusionment, subculture identity, and romance set within the black metal scene.",
+        "question": "What is the dominant genre of Wolves?"
+      },
+      {
+        "answer": "Wolves is a standalone drama film, not part of any pre-existing franchise, cinematic universe, or series.",
+        "question": "Is this movie part of a franchise or a standalone film?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Wolves; the story concludes fully before the credits start rolling.",
+        "question": "Is there a post-credit scene in Wolves?"
+      },
+      {
+        "answer": "The story follows Luana, a frustrated day-care worker who finds community in the local black metal scene. She joins her cousin's band on tour as their social media manager and falls in love with the singer, Wiktor, but struggles to face the reality of his increasingly radical views.",
+        "question": "What is the main plot of Wolves?"
+      },
+      {
+        "answer": "The main protagonist is Luana, a young woman seeking stability, belonging, and an escape from her stifling family life and day job.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Music, specifically black metal, serves as the central backdrop and catalyst for the story, driving the setting, character motivations, visual style, and emotional conflict.",
+        "question": "What role does music play in the movie?"
+      },
+      {
+        "answer": "Wiktor is the charismatic singer of the black metal band Luana tours with. He becomes her love interest, but his extremist and radical views create heavy tension within the group.",
+        "question": "Who is Wiktor and what is his role in the story?"
+      },
+      {
+        "answer": "The film explores themes of alienation, the desire for belonging, rebellion through music subcultures, love versus denial, and the dangers of political or ideological radicalization.",
+        "question": "What are the central themes explored in Wolves?"
+      },
+      {
+        "answer": "No, Wolves is a fictional narrative, though it draws realistic inspiration from the real-world dynamics, aesthetics, and history of extreme metal subcultures.",
+        "question": "Is Wolves based on a true story?"
+      },
+      {
+        "answer": "The film appeals to fans of character-driven indie dramas, coming-of-age stories exploring music subcultures, and viewers interested in dark romance and social commentary.",
+        "question": "Who is the target audience for this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild dark aesthetic and thematic elements typical of the black metal subculture, but lacking explicit horror or jump scares."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate potential for coarse language and profanity common within music subculture environments."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal explicit violence implied; main tension stems from radical ideological views and internal band conflicts rather than physical violence."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Moderate potential for alcohol or substance use associated with touring life and social scenes."
+      },
+      "sexualContent": {
+        "score": 3,
+        "description": "Mild romantic themes and emotional entanglements; no explicit sexual content indicated in the narrative overview."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving feelings of isolation, manipulation, radicalization, and unhealthy attachment."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 7,
+      "science": 0,
+      "suspense": 6,
+      "violence": 3
+    },
+    "created_at": "2026-08-30 02:01:24.250626",
+    "updated_at": "2026-08-30 02:01:24.250626"
+  }
 }
