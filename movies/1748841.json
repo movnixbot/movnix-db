@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 0.9317,
+    "popularity": 5.8324,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1748841",
@@ -37,11 +37,36 @@
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 11658,
+      "name": "Brainstorm Media",
+      "logoPath": "/hDKTXUEj1BR3Istbh2Zu5GOYvej.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 151875,
+      "name": "Dark Atlantic",
+      "logoPath": null,
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 119021,
+      "name": "Dark Tower Films",
+      "logoPath": null,
+      "originCountry": null
+    },
+    {
+      "tmdbId": 307750,
+      "name": "Dakoit Pictures",
+      "logoPath": null,
+      "originCountry": null
+    }
+  ],
   "keywords": [],
   "videos": [
     {
-      "name": "Dark Hollow (2026) Official Trailer",
+      "name": "Official Trailer",
       "key": "m2pwAGOnDfQ",
       "site": "YouTube",
       "size": 1080,
@@ -73,12 +98,192 @@
   ],
   "credits": [
     {
+      "tmdbPersonId": 1718872,
+      "name": "June Schreiner",
+      "profilePath": "/mNYbpltBiHQmS4SkmZYwQnTEKT4.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 2010824,
+      "name": "David Garelik",
+      "profilePath": "/11u6bYmuRjZkgZ7qZ8qoVGZuVE2.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 2149478,
+      "name": "J.Stephen Brantley",
+      "profilePath": "/pWeGiI6cPVFnqJHtoAzRiwtoVak.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 6416216,
+      "name": "Brennon Weese",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 6416217,
+      "name": "Ian Deighan",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 3553831,
+      "name": "Jonathan Spivey",
+      "profilePath": "/uUa0TffBvOtKJM58lsxzwrGe43i.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 2462060,
+      "name": "Sean-Michael Wilkinson",
+      "profilePath": "/o0mWqMYWwsF0163k0vbH90noybm.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 2247261,
+      "name": "Sharon Murray",
+      "profilePath": "/iv0jNDSens3URmbj1vMzNC1LGEU.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 2821047,
+      "name": "Harvey Roberts",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 106816,
+      "name": "Brian O'Neill",
+      "profilePath": "/1XcKwCNa5DYMayZb6FcT5yb54QE.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 1156047,
+      "name": "Annie Cook",
+      "profilePath": "/sha1RWPELmUMg6VGe7PGMVgwLFg.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 1833998,
+      "name": "Radu Spinghel",
+      "profilePath": "/25Q65CfA0ACi0cMhzBUVMEa2NCD.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
       "tmdbPersonId": 1982638,
       "name": "Daniel Byers",
       "profilePath": null,
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1058079,
+      "name": "Jon Bloch",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1982638,
+      "name": "Daniel Byers",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1982638,
+      "name": "Daniel Byers",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3033044,
+      "name": "George Henry Horton",
+      "profilePath": "/w0VV5M9zvZQhgp9q6ODcNPCstXv.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2591385,
+      "name": "Zachary Ludescher",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4059377,
+      "name": "Will Pinke",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3182622,
+      "name": "Ryan Scaringe",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4610458,
+      "name": "Anthony Gambol",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
