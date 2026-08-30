@@ -9,8 +9,8 @@
     "runtime": 107,
     "budget": "30000000",
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 6.5011,
+    "status": "Released",
+    "popularity": 6.2723,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.byanymeansmovie.com",
@@ -522,5 +522,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1380417/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1380417,
+    "hash": "59cfd0dac18dfadbd3005b9ef51c6138c94f4478e1f3eeedb868e12ba2bbb61e",
+    "summary_one_sentence": "In 1960s Mississippi, a young Black FBI agent relies on an unlikely and dangerous alliance with a notorious mob hitman to investigate the brutal murders of civil rights leaders.",
+    "summary_short": "Sent into the hostile heart of 1960s Mississippi, a young Black FBI agent is tasked with solving a series of brutal killings targeting prominent civil rights leaders. Facing deep-seated corruption and violent racial tension, he is forced to team up with Greg Scarpa, a ruthless mafia hitman enlisted by the bureau. Together, they navigate a dangerous web of racial violence and moral ambiguity, where the line between upholding justice and exacting vengeance quickly disappears.",
+    "summary_long": "Set against the violent backdrop of the American Civil Rights Movement in the 1960s, a young Black FBI agent receives a high-stakes assignment in deeply segregated Mississippi. A wave of brutal killings has targeted local civil rights leaders, leaving the community terrified and law enforcement largely complicit. Recognizing the limitations of standard agency protocol in such a hostile environment, high-level officials arrange an unconventional partnership. The agent is paired with Greg Scarpa, a ruthless and unpredictable hitman from the Colombo crime family who has been secretly recruited for his brutal interrogation tactics. As the duo penetrates the local network responsible for the murders, the young agent must constantly balance his dedication to the rule of law against Scarpa's lawless, violent methods. The hostile surroundings test the agent's endurance, personal ethics, and physical safety at every turn. Deeply buried secrets and widespread systemic corruption begin to emerge, complicating their mission to bring the perpetrators to light. As the body count rises and time runs short, the agent finds himself increasingly pulled into a psychological and physical battleground where vengeance threatens to overtake justice.",
+    "synopsis": "Set in the 1960s, By Any Means follows a young Black FBI agent dispatched to Mississippi to investigate a terrifying series of targeted murders against civil rights leaders. Operating in an environment saturated with racial hatred and institutional corruption, he is paired with an unorthodox asset: Greg Scarpa, a notorious real-life mafia hitman brought in by the bureau to extract information using coercive tactics. As the two men pursue those responsible for the violence, their diametrically opposed worldviews create intense friction, forcing the young agent to confront the moral cost of seeking justice through extraordinary and brutal means.",
+    "keywords": [
+      "1960s",
+      "civil rights era",
+      "Mississippi",
+      "FBI agent",
+      "mafia hitman",
+      "unlikely alliance",
+      "vigilante justice",
+      "racial tension",
+      "historical crime",
+      "Greg Scarpa",
+      "vengeance plot",
+      "moral ambiguity",
+      "investigation",
+      "deep south",
+      "murder investigation"
+    ],
+    "themes": [
+      {
+        "theme": "Justice vs. Vengeance",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Racial Injustice & Civil Rights",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Moral Compromise",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Unlikely Alliances",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Gritty",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The investigation reaches a violent boiling point as the agent and Scarpa confront the ringleaders behind the killings, forcing the agent to make a critical, split-second choice between legal justice and brutal retribution.",
+      "conflict": "To uncover the truth behind the murders, the agent is forced into an uneasy alliance with Greg Scarpa, a notorious and ruthless mafia hitman whose methods stand in stark contrast to federal law.",
+      "resolution": "In the aftermath of the deadly confrontation, the case reaches a turbulent conclusion, leaving the agent permanently altered by the moral compromises required to expose the truth.",
+      "introduction": "In 1960s Mississippi, a young Black FBI agent is assigned to investigate the brutal, targeted killings of prominent civil rights leaders during a volatile era of racial tension.",
+      "risingAction": "As the duo plunges deeper into the dangerous local network responsible for the violence, high-stakes interrogations and lethal threats force the agent to repeatedly test his moral boundaries and rely on Scarpa's deadly expertise."
+    },
+    "characters": [
+      {
+        "name": "Yahya Abdul-Mateen II's Character (Young Black FBI Agent)",
+        "role": "Hero",
+        "description": "A dedicated law enforcement officer navigating racism and danger in 1960s Mississippi to solve high-profile civil rights murders."
+      },
+      {
+        "name": "Greg Scarpa (played by Mark Wahlberg)",
+        "role": "Anti Hero",
+        "description": "A ruthless mafia hitman partnered with the FBI agent whose violent methods challenge the boundaries between justice and vengeance."
+      },
+      {
+        "name": "Unspecified Ku Klux Klan / Racist Perpetrators",
+        "role": "Villain",
+        "description": "The group or individuals responsible for the brutal targeted killings of civil rights leaders in 1960s Mississippi."
+      },
+      {
+        "name": "Nicole Beharie's Character",
+        "role": "Supporting Character",
+        "description": "A key figure providing emotional grounding, community context, or tactical support during the investigation."
+      },
+      {
+        "name": "David Strathairn's Character",
+        "role": "Mentor",
+        "description": "A senior law enforcement or government authority figure guiding or overseeing the agent's high-stakes mission."
+      },
+      {
+        "name": "Giancarlo Esposito's Character",
+        "role": "Supporting Character",
+        "description": "An influential local figure or civil rights leader connected to the ongoing struggle and investigation."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Young Black FBI Agent",
+        "target": "Greg Scarpa",
+        "description": "Unlikely Allies / Operational Partners"
+      },
+      {
+        "source": "Young Black FBI Agent",
+        "target": "Civil Rights Leaders",
+        "description": "Investigator / Target Group Protection"
+      },
+      {
+        "source": "Greg Scarpa",
+        "target": "FBI Agent's Superiors",
+        "description": "Asset / Confidential Informant"
+      },
+      {
+        "source": "Young Black FBI Agent",
+        "target": "Perpetrators of Klan Violence",
+        "description": "Investigator / Antagonists"
+      },
+      {
+        "source": "Greg Scarpa",
+        "target": "Perpetrators of Klan Violence",
+        "description": "Enforcer / Interrogator"
+      }
+    ],
+    "seo": {
+      "slug": "by-any-means",
+      "jsonLd": {
+        "name": "By Any Means",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Historical"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders, teaming up with notorious mafia hitman Greg Scarpa."
+      },
+      "keywords": [
+        "By Any Means movie",
+        "By Any Means plot",
+        "Greg Scarpa movie",
+        "1960s Mississippi FBI film",
+        "civil rights thriller",
+        "mafia FBI crime drama"
+      ],
+      "canonical": "[https://movnix.com/movie/by-any-means](https://movnix.com/movie/by-any-means)",
+      "metaTitle": "By Any Means (Movie) - Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "By Any Means - Justice and Vengeance Blur in 1960s Mississippi",
+        "og:description": "When a young Black FBI agent allies with mafia hitman Greg Scarpa to hunt down killers in 1960s Mississippi, justice turns into a deadly game of vengeance."
+      },
+      "twitterCard": {
+        "twitter:title": "By Any Means - 1960s FBI & Mafia Crime Thriller",
+        "twitter:description": "An FBI agent and a notorious mafia hitman unite to investigate targeted civil rights killings in 1960s Mississippi."
+      },
+      "metaDescription": "A 1960s FBI agent teams up with mafia hitman Greg Scarpa to investigate civil rights killings in Mississippi in By Any Means. Explore the thriller today."
+    },
+    "faq": [
+      {
+        "answer": "By Any Means is primarily a crime thriller and historical drama that combines elements of a neo-noir detective story with a suspenseful, period-accurate setting.",
+        "question": "What is the dominant genre of By Any Means?"
+      },
+      {
+        "answer": "The film follows a young Black FBI agent dispatched to 1960s Mississippi to investigate a series of brutal murders targeting civil rights leaders. To uncover the truth, he is forced to partner with notorious mafia hitman Greg Scarpa, complicating his mission as justice and revenge become blurred.",
+        "question": "What is the plot of By Any Means?"
+      },
+      {
+        "answer": "Yes, it is inspired by the real-life historical connection between the FBI and mob figure Greg 'The Grim Reaper' Scarpa, who was recruited by federal agents during the 1960s to carry out illicit investigations in the American South.",
+        "question": "Is By Any Means based on a true story?"
+      },
+      {
+        "answer": "No, By Any Means is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there are no additional mid-credits or post-credits scenes. The story fully concludes before the end credits roll.",
+        "question": "Is there a post-credits scene in By Any Means?"
+      },
+      {
+        "answer": "The core dynamic centers on two main figures: an ambitious young Black FBI agent committed to upholding the law, and Greg Scarpa, a ruthless mafia enforcement operative who relies on brutal extrajudicial tactics.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "The movie is set in Mississippi during the height of the 1960s Civil Rights Movement.",
+        "question": "What time period and location does the film take place in?"
+      },
+      {
+        "answer": "The movie primarily explores themes of systemic racism, law enforcement morality, the ethics of vigilantism, corrupt alliances, and the fine line between legal justice and personal vengeance.",
+        "question": "What are the main thematic elements explored in the film?"
+      },
+      {
+        "answer": "Due to its intense historical violence, racial themes, mature language, and gritty portrayal of crime, the film is intended for mature audiences.",
+        "question": "What age rating or content warning applies to By Any Means?"
+      },
+      {
+        "answer": "While based on historical events surrounding the FBI's reliance on mobsters during the 1960s civil rights era, the screenplay was written directly for the screen.",
+        "question": "Is By Any Means based on a book?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Disturbing and tense elements related to murder investigations."
+      },
+      "language": {
+        "score": 5,
+        "description": "Likely strong language and period-typical racial slurs."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Depictions of brutal killings and mob-related hitman violence."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible period-typical alcohol and tobacco use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes surrounding racial violence, civil rights, and vigilantism."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-08-29 20:10:01.408842",
+    "updated_at": "2026-08-29 20:10:01.408842"
+  }
 }
