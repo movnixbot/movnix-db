@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.5808,
+    "popularity": 1.3689,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1756190",
@@ -346,5 +346,251 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1756190/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1756190,
+    "hash": "e70851926018756d4cecd19bdd750d669ceefc026e83bd81dbd36cc6371c3422",
+    "summary_one_sentence": "When a body is found tied to a tree in the Fontainebleau forest, two investigators must unravel ancient local legends and dark family secrets to track down a calculating murderer.",
+    "summary_short": "The tranquility of the Fontainebleau forest is shattered when a local figure is discovered brutally murdered in a manner evoking the legendary 'Grand Veneur' ghost. Captain François Delambre and police lieutenant Elsa Saint-Germain are paired to solve the eerie case despite their contrasting methods and personal friction. As they dig deeper into the victim's history, they uncover a web of deceit, hidden affairs, and vengeance tied to the region's aristocratic roots. Racing against time, the duo must decipher the killer's ritualistic clues before another victim falls to the phantom hunter.",
+    "summary_long": "In the historical forest of Fontainebleau, the corpse of a prominent local citizen is discovered tied to a tree, marked by ritualistic symbols echoing the legend of the Grand Veneur, a mythical phantom hunter said to stalk the woods. Captain François Delambre, a seasoned investigator with deep personal ties to the area, is assigned to the case alongside Lieutenant Elsa Saint-Germain, a sharp and analytical outsider. Initial inquiries lead the pair into the victim's affluent family, uncovering long-buried feuds, financial ruin, and secret romantic liaisons that provide ample motives for murder. As the investigation progresses, secondary clues point to a historic dispute over land conservation and historical heritage, raising suspicions among local activists and wealthy landowners alike. A second attack, executed with similar spectral flair, confirms that a meticulous serial killer is using the forest's haunting folklore as a theatrical backdrop to settle old scores. Tensions flare between Delambre and Saint-Germain as personal secrets come to light, forcing them to reconcile their differing approach to the evidence. By carefully tracing a series of cryptic messages left at the crime scenes, they uncover a past tragedy that connects all the target victims to a shared, hidden crime. In a dramatic climax set deep within the shadowy trails of the Fontainebleau woods, the investigators corner the perpetrator just as they prepare to execute their final act of retribution. Delambre and Saint-Germain manage to disarm the killer, bringing closure to the community and laying the unsettling phantom legend to rest.",
+    "synopsis": "Set against the scenic and historically rich backdrop of Fontainebleau, 'Meurtres à Fontainebleau' is a compelling French crime drama that blends modern police investigation with local folklore. The plot kicks off when a gruesome murder in the sprawling forest surrounding the famous château mirrors the century-old legend of the Grand Veneur—a spectral hunter believed to haunt the royal woods. Tasked with solving the crime, local law enforcement must navigate a maze of aristocratic secrets, long-standing family rivalries, and environmental conflicts. As the body count threatens to rise, the investigators race to decipher ritualistic clues and unmask a killer who uses ancient myths to cover a deeply personal motive of vengeance.",
+    "keywords": [
+      "police procedural",
+      "small town murder",
+      "local folklore",
+      "mythological urban legend",
+      "elusive killer",
+      "hunting ground",
+      "dense forest",
+      "french countryside",
+      "murder investigation",
+      "ancient myth",
+      "dark atmosphere",
+      "chase",
+      "grim discovery"
+    ],
+    "themes": [
+      {
+        "theme": "Legend and Folklore",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Hunting and Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Mystery and Investigation",
+        "confidence": 0.9
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The primary suspect is cornered, or a critical final trap is sprung in the heart of the forest, leading to a direct confrontation where the true identity and motive of the killer are fully exposed.",
+      "conflict": "Investigators face the challenge of distinguishing between local folklore and a calculating human murderer, all while operating under pressure to prevent panic as the killer targets victims in the vast terrain of the forest.",
+      "resolution": "With the perpetrator apprehended, the truth behind the modern crime and its reliance on the legend is laid bare. The investigators wrap up the case, restoring order to the community and bringing closure to the victims' families.",
+      "introduction": "The discovery of a victim in the forest of Fontainebleau sets a tense atmosphere, linking the crime to the local legend of the 'Grand Veneur'. Investigators arrive to assess the crime scene and establish the initial context of the mystery.",
+      "risingAction": "As the investigation deepens, clues unveil hidden connections between the victims, secret pasts, and local history. Cryptic signs left by the killer escalate the stakes, leading to dead ends, suspect interrogations, and growing tension among the lead investigators."
+    },
+    "characters": [
+      {
+        "name": "Roxane Turmel",
+        "role": "Hero",
+        "description": "The lead investigator determined to solve the murder linked to local folklore and bring the killer to justice."
+      },
+      {
+        "name": "Antoine Hamel",
+        "role": "Supporting Character",
+        "description": "A key investigative partner or local authority figure who assists in navigating the complex case."
+      },
+      {
+        "name": "Cypriane Gardin",
+        "role": "Supporting Character",
+        "description": "A local connected to the victim or community, providing crucial clues about the legend of the Grand Veneur."
+      },
+      {
+        "name": "Évelyne El Garby-Klaï",
+        "role": "Mentor",
+        "description": "A senior officer or seasoned local expert who offers guidance and strategic insight throughout the investigation."
+      },
+      {
+        "name": "Idir Chender",
+        "role": "Anti Hero",
+        "description": "A complex figure with ambiguous motives who operates in the shadows of the Fontainebleau forest."
+      },
+      {
+        "name": "Nathan Gruffy",
+        "role": "Comic Relief",
+        "description": "A lighthearted member of the team or community who offers levity amidst the tense murder investigation."
+      },
+      {
+        "name": "Nicky Marbot",
+        "role": "Villain",
+        "description": "The elusive killer exploiting the legend of the Grand Veneur to carry out violent acts in the forest."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Pauline Laroche",
+        "target": "Nicolas Dupret",
+        "description": "Investigative Partners / Former Friends"
+      },
+      {
+        "source": "Pauline Laroche",
+        "target": "Grand Veneur",
+        "description": "Investigator / Legend-inspired Murder Suspect"
+      },
+      {
+        "source": "Nicolas Dupret",
+        "target": "Grand Veneur",
+        "description": "Equestrian Gendarme / Legend-inspired Murder Suspect"
+      },
+      {
+        "source": "Barnabé Thibault",
+        "target": "Clément Thibault",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Pierre De la Rive",
+        "target": "Pauline Laroche",
+        "description": "Local Person of Interest / Lead Investigator"
+      },
+      {
+        "source": "Anaïs Congratel",
+        "target": "Pauline Laroche",
+        "description": "Colleagues / Police Officials"
+      }
+    ],
+    "seo": {
+      "slug": "meurtres-a-fontainebleau",
+      "jsonLd": {
+        "name": "Meurtres à Fontainebleau",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "fr",
+        "description": "When a murder revives the legend of the 'Grand Veneur', the forest of Fontainebleau becomes the hunting ground of an elusive killer."
+      },
+      "keywords": [
+        "Meurtres à Fontainebleau",
+        "French crime movie",
+        "Grand Veneur legend",
+        "Fontainebleau mystery",
+        "French TV film"
+      ],
+      "canonical": "[https://movnix.com/movie/meurtres-a-fontainebleau](https://movnix.com/movie/meurtres-a-fontainebleau)",
+      "metaTitle": "Meurtres à Fontainebleau (TV Movie) - Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "Meurtres à Fontainebleau - Mystery Crime Movie",
+        "og:description": "A murder in the forest of Fontainebleau awakens an ancient legend. Can the police catch an elusive killer before they strike again?"
+      },
+      "twitterCard": {
+        "twitter:title": "Meurtres à Fontainebleau - Mystery Crime Movie",
+        "twitter:description": "A murder in the forest of Fontainebleau awakens an ancient legend. Can the police catch an elusive killer before they strike again?"
+      },
+      "metaDescription": "A brutal murder revives the legend of the Grand Veneur in the forest of Fontainebleau. Watch the investigation unfold as a killer strikes."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is crime drama and murder mystery, blended with psychological thriller elements and local folklore.",
+        "question": "What is the dominant genre of Meurtres à Fontainebleau?"
+      },
+      {
+        "answer": "Yes, it is part of the popular French television anthology series 'Meurtres à...' (Murders in...), where each standalone installment investigates a crime tied to local legends in various regions of France.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a standard television movie broadcast, there is no post-credit scene after the main story concludes.",
+        "question": "Is there a post-credit scene in Meurtres à Fontainebleau?"
+      },
+      {
+        "answer": "The film is set in the scenic forest of Fontainebleau, where a killer appears to be emulating the mythical 'Grand Veneur' (Great Huntsman), a legendary spectral hunter tied to the region.",
+        "question": "What is the primary setting and central mystery of the film?"
+      },
+      {
+        "answer": "The movie was originally filmed and produced in French.",
+        "question": "What language was the movie originally filmed in?"
+      },
+      {
+        "answer": "No, the plot is a fictional crime story, although it incorporates the real-life historical folklore of the 'Grand Veneur' and takes place in the real Fontainebleau forest.",
+        "question": "Is Meurtres à Fontainebleau based on a true story?"
+      },
+      {
+        "answer": "It is intended primarily for mature audiences due to its murder mystery themes, atmospheric suspense, and depictions of crime scenes.",
+        "question": "Is this film suitable for family or young audience viewing?"
+      },
+      {
+        "answer": "No, each installment in the 'Meurtres à...' anthology features an independent plot with self-contained characters and unique cases, so no prior viewing is required.",
+        "question": "Do I need to watch previous 'Meurtres à...' episodes to understand this movie?"
+      },
+      {
+        "answer": "The main themes include local mythology, justice, past secrets, and human confrontation against the backdrop of nature.",
+        "question": "What key themes are explored in the story?"
+      },
+      {
+        "answer": "It is typically broadcast on television networks like France Télévisions (France 3) and made available on regional streaming platforms and catch-up services depending on your location.",
+        "question": "Where can viewers typically watch this film?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Mild to moderate suspense and eerie atmosphere surrounding a murderous legend in a dark forest setting."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild to moderate strong language standard for prime-time television crime dramas."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate violence typical of crime procedural dramas involving murder investigations and threats from a killer."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Infrequent depiction of alcohol or tobacco consumption typical of adult character portrayals."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, though romantic subplots or mild suggestive themes may be present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity focused on murder mystery tension, grief, and investigation stakes."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 3,
+      "mystery": 9,
+      "romance": 2,
+      "science": 3,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-08-29 20:03:49.909971",
+    "updated_at": "2026-08-29 20:03:49.909971"
+  }
 }
