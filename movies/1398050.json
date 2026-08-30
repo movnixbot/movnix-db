@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.1183,
-    "voteAverage": 6.725,
-    "voteCount": 80,
+    "popularity": 5.5266,
+    "voteAverage": 6.9,
+    "voteCount": 91,
     "homepage": "https://mock-movie-website.com/movies/1398050",
     "posterPath": "/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
     "backdropPath": "/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "R"
   },
   "collection": null,
   "genres": [
@@ -200,6 +201,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/mzpAu3pweQdSV9ykkSkDWIK5OWv.jpg",
+      "width": 1707,
+      "height": 2560,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fBWmdP1nopdmztJdMs14EKvfejQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
       "width": 3840,
       "height": 2160,
@@ -259,8 +274,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.725,
-      "votesCount": 80
+      "ratingValue": 6.9,
+      "votesCount": 91
     },
     {
       "source": "imdb",
@@ -394,7 +409,7 @@
     {
       "tmdbPersonId": 1726660,
       "name": "Chelcie Lynn",
-      "profilePath": "/3JP0HZRvLDQIWZdd0I6ix7McA01.jpg",
+      "profilePath": null,
       "character": "Fur Wife",
       "job": "Actor",
       "department": "Acting",
@@ -421,7 +436,7 @@
     {
       "tmdbPersonId": 77086,
       "name": "Jonas Pate",
-      "profilePath": "/rV3Li1nb8wj7UAHAHjM999Un2iN.jpg",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -475,7 +490,24 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Paramount Plus Premium",
+          "logo": "/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+        },
+        {
+          "name": "Paramount Plus Essential",
+          "logo": "/5wym1C0jAvJeGirPdgVpcW0CCuy.jpg"
+        },
+        {
+          "name": "Paramount+ Amazon Channel",
+          "logo": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
+        },
+        {
+          "name": "Paramount+ Roku Premium Channel",
+          "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
