@@ -10,9 +10,9 @@
     "budget": "18000000",
     "revenue": "34536061",
     "status": "Released",
-    "popularity": 11.7401,
-    "voteAverage": 6.776,
-    "voteCount": 1703,
+    "popularity": 9.182,
+    "voteAverage": 6.775,
+    "voteCount": 1720,
     "homepage": "https://www.paramountmovies.com/movies/novocaine",
     "posterPath": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
     "backdropPath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
@@ -1489,6 +1489,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/pKHhAtgahJfj3sXS9t0gUA4E1Bg.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
       "width": 3840,
       "height": 2160,
@@ -1900,13 +1907,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/sHoTguSQHFRnprqqrP74FqeLzeV.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.776,
-      "votesCount": 1703
+      "ratingValue": 6.775,
+      "votesCount": 1720
     },
     {
       "source": "imdb",
@@ -2061,6 +2075,15 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 544863,
+      "name": "Lars Jacobson",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 1361389,
       "name": "Dan Berk",
       "profilePath": "/cleKQ7QK8HELojR8nLbjpNmqJPS.jpg",
@@ -2079,24 +2102,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 544863,
-      "name": "Lars Jacobson",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 3393932,
-      "name": "Drew Simon",
-      "profilePath": "/2B81NagQvIQhOsfhq4L4JGh23Z3.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 74569,
       "name": "Joby Harold",
       "profilePath": "/kgcPJwDF5xZTfJ1CzU9eYy0LlIv.jpg",
@@ -2109,6 +2114,15 @@
       "tmdbPersonId": 958239,
       "name": "Tory Tunnell",
       "profilePath": "/wJEJ62WNnH2A0pjAwVj0heWYmfI.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3393932,
+      "name": "Drew Simon",
+      "profilePath": "/2B81NagQvIQhOsfhq4L4JGh23Z3.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
