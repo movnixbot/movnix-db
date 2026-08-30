@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5315,
-    "voteAverage": 7.7,
-    "voteCount": 6,
+    "popularity": 5.2875,
+    "voteAverage": 7.667,
+    "voteCount": 7,
     "homepage": "https://www.rekata.co/copy-of-andragogy",
     "posterPath": "/o8OCBngD7ded6iieicpDdXsk1xD.jpg",
     "backdropPath": "/4DUFiYoX7DBTFGrDSyW7lc8Wgm9.jpg",
@@ -642,8 +642,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.7,
-      "votesCount": 6
+      "ratingValue": 7.667,
+      "votesCount": 7
     },
     {
       "source": "crawled",
@@ -788,15 +788,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 4195958,
-      "name": "Iman Usman",
-      "profilePath": "/sIuDXBfkDvGSZK8DEVeK1HiImJN.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2542933,
       "name": "Siera Tamihardja",
       "profilePath": null,
@@ -824,8 +815,17 @@
       "order": null
     },
     {
-      "tmdbPersonId": 4447977,
-      "name": "Alicia Angelina",
+      "tmdbPersonId": 4195958,
+      "name": "Iman Usman",
+      "profilePath": "/sIuDXBfkDvGSZK8DEVeK1HiImJN.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4858625,
+      "name": "Defi Mahendra",
       "profilePath": null,
       "character": null,
       "job": "Writer",
@@ -842,8 +842,8 @@
       "order": null
     },
     {
-      "tmdbPersonId": 4858625,
-      "name": "Defi Mahendra",
+      "tmdbPersonId": 4447977,
+      "name": "Alicia Angelina",
       "profilePath": null,
       "character": null,
       "job": "Writer",
@@ -882,7 +882,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
