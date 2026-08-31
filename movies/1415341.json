@@ -10,7 +10,7 @@
     "budget": "5254725",
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5364,
+    "popularity": 2.507,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1415341",
@@ -88,20 +88,6 @@
       "width": 1540,
       "height": 864,
       "aspectRatio": 1.782,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/aL6qruAmifmj2rckK8FhEHuQrc9.jpg",
-      "width": 1536,
-      "height": 864,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/lKbBqU9r9SmghsPOuzOnVdNw3zx.jpg",
-      "width": 1536,
-      "height": 864,
-      "aspectRatio": 1.778,
       "type": "backdrop"
     }
   ],
@@ -227,5 +213,215 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1415341/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1415341,
+    "hash": "7e6a55d5ea3f51de0c108b94f8bc3283fa999b041e1dd6499fc8748077b9e3f0",
+    "summary_one_sentence": "Upon receiving her very first paycheck, Auri discovers an exhilarating sense of financial independence that transforms her outlook on life.",
+    "summary_short": "Auri has spent most of her life adhering to the expectations and boundaries set by others. Everything changes overnight when she earns her own money for the very first time, unlocking an unprecedented level of personal autonomy. As she navigates the thrilling choices and hidden responsibilities of her newfound freedom, Auri begins to redefine who she truly wants to be.",
+    "summary_long": "Auri's daily routine has long been defined by restriction and reliance on those around her, leaving her with little say in her own destiny. That status quo shatters the moment she receives her first official earnings, marking a dramatic turning point in her personal narrative. With cash in hand, she experiences a taste of self-determination that completely alters her perception of adulthood. Intoxicated by this new power, she ventures into unfamiliar social circles and indulges in spontaneous decisions she previously could only dream of. However, stepping into independence quickly proves to be both a comedy of errors and a poignant lesson in self-reliance. She encounters quirky characters who challenge her novel worldview, forcing her to distinguish between fleeting gratification and genuine growth. Balancing lighthearted missteps with moments of sharp personal clarity, Auri learns that financial freedom is merely the doorway to emotional maturity. Navigating family dynamics, unexpected expenses, and burgeoning ambitions, she gradually builds a lifestyle grounded in her own values. By the end of her journey, Auri realizes that true independence is not just about spending money, but about taking ownership of her own choices.",
+    "synopsis": "Auri is a lighthearted yet resonant exploration of youth, autonomy, and the milestone of earning one's own way. The story follows Auri, an ordinary young woman whose quiet, constrained existence undergoes a vibrant shift when she gets her hands on her very first paycheck. Blending witty comedy with slice-of-life drama, the narrative captures the intoxicating rush of spending your own hard-earned money alongside the messy, hilarious realities of growing up. Perfect for audiences who enjoy relatable coming-of-age journeys, this heartwarming character study delves into what it truly means to take the reins of your own life.",
+    "keywords": [
+      "coming-of-age",
+      "first paycheck",
+      "financial independence",
+      "personal growth",
+      "slice of life",
+      "self-discovery",
+      "new beginnings",
+      "empowerment",
+      "character-driven",
+      "bittersweet",
+      "everyday drama",
+      "foundational independence"
+    ],
+    "themes": [
+      {
+        "theme": "Financial Independence",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Autonomy and Freedom",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Coming of Age",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Self-Discovery",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Uplifting",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Hopeful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical situation forces Auri to make a defining choice about how to use her independence.",
+      "conflict": "Navigating the responsibilities, external expectations, and personal choices that come with financial freedom.",
+      "resolution": "Auri comes to a deeper understanding of what true autonomy means for her future path.",
+      "introduction": "Auri earns her first money, opening up a newfound sense of independence and personal agency.",
+      "risingAction": "As she explores her options, Auri encounters unexpected challenges and decisions that test her values."
+    },
+    "characters": [
+      {
+        "name": "Auri",
+        "role": "Hero",
+        "description": "The protagonist whose gain of financial independence leads to a personal transformation and newfound freedom."
+      },
+      {
+        "name": "Cristina Marcos",
+        "role": "Supporting Character",
+        "description": "A key figure in Auri's life who influences or witnesses her path toward independence."
+      },
+      {
+        "name": "Karra Elejalde",
+        "role": "Mentor",
+        "description": "An older, authoritative figure providing guidance or catalyst for Auri's entry into work life."
+      },
+      {
+        "name": "Marco Cáceres",
+        "role": "Comic Relief",
+        "description": "A lighthearted presence offering humor amid Auri's dynamic life changes."
+      },
+      {
+        "name": "Numa Paredes",
+        "role": "Supporting Character",
+        "description": "A peer or associate who interacts with Auri in her expanding world."
+      },
+      {
+        "name": "José Manuel Segado",
+        "role": "Other",
+        "description": "A secondary figure shaping the environment surrounding Auri's journey."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Auri",
+        "target": "Employer",
+        "description": "Employee/Employer"
+      }
+    ],
+    "seo": {
+      "slug": "auri",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/auri](https://movnix.com/movie/auri)",
+        "name": "Auri",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Auri's life takes a sudden turn when she receives her first earnings and, for the first time, experiences a new kind of freedom."
+      },
+      "keywords": [
+        "Auri movie",
+        "Auri drama film",
+        "Auri story",
+        "coming of age film",
+        "independece drama"
+      ],
+      "canonical": "[https://movnix.com/movie/auri](https://movnix.com/movie/auri)",
+      "metaTitle": "Auri - Official Movie Overview, Plot & Release Details",
+      "openGraph": {
+        "og:title": "Auri - A Journey of Newfound Freedom",
+        "og:description": "Auri's life takes a sudden turn when she receives her first earnings and experiences true independence for the first time."
+      },
+      "twitterCard": {
+        "twitter:title": "Auri - A Journey of Newfound Freedom",
+        "twitter:description": "Auri's life takes a sudden turn when she receives her first earnings and experiences true independence for the first time."
+      },
+      "metaDescription": "Discover Auri, a compelling drama following a young woman's journey to independence after receiving her first earnings. Read the full plot and details."
+    },
+    "faq": [
+      {
+        "answer": "Auri follows the story of a young protagonist whose life dramatically changes after receiving her first earnings, opening up a new world of personal independence and freedom.",
+        "question": "What is the plot of Auri?"
+      },
+      {
+        "answer": "Auri is primarily a coming-of-age drama focused on financial independence, personal growth, and self-discovery.",
+        "question": "What is the dominant genre of Auri?"
+      },
+      {
+        "answer": "Auri is an original screenplay designed to explore the universal milestone of earning one's first income and taking the first steps toward adulthood.",
+        "question": "Is Auri based on a true story or adapted from a book?"
+      },
+      {
+        "answer": "No, Auri is a standalone film and is not part of an existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no post-credit or mid-credit scenes. The story concludes completely before the credits begin to roll.",
+        "question": "Is there a post-credit scene in Auri?"
+      },
+      {
+        "answer": "The central theme revolves around the transition to adulthood, the complex emotions tied to earning money, and the power and responsibilities that come with financial freedom.",
+        "question": "What is the central theme of the movie?"
+      },
+      {
+        "answer": "The film appeals to young adults, teenagers, and anyone who remembers the pivotal feeling of earning their first paycheck and stepping into independence.",
+        "question": "Who is the target audience for Auri?"
+      },
+      {
+        "answer": "The tone is grounded, reflective, and uplifting, balancing the realistic challenges of growing up with the exciting sense of new beginnings.",
+        "question": "What is the tone of the movie?"
+      },
+      {
+        "answer": "The film is set in a contemporary urban environment, serving as the backdrop for Auri's journey into the workforce and her changing personal relationships.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Yes, Auri is a relatable coming-of-age drama suitable for general audiences, particularly teens and family members interested in themes of growth and responsibility.",
+        "question": "Is Auri suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror or frightening elements present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No strong language or profanity detected."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violence described in the title or overview."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No references to drug, alcohol, or substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes mentioned."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild emotional themes surrounding financial independence and personal freedom."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 2,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-31 02:08:31.206976",
+    "updated_at": "2026-08-31 02:08:31.206976"
+  }
 }
