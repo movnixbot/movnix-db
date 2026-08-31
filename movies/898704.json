@@ -10,9 +10,9 @@
     "budget": "150000000",
     "revenue": "742066",
     "status": "Released",
-    "popularity": 17.7076,
-    "voteAverage": 5.8,
-    "voteCount": 30,
+    "popularity": 20.0693,
+    "voteAverage": 6.118,
+    "voteCount": 34,
     "homepage": "https://www.vert-ent.com/library/desert-warrior",
     "posterPath": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
     "backdropPath": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
@@ -265,6 +265,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/zXmBshAazv0zB1OVZD0EN8BypsQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
       "width": 3840,
       "height": 2160,
@@ -349,16 +356,9 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/bkd2kRWKp9f0DSOeMW1rf80AVjp.jpg",
-      "width": 2160,
-      "height": 1214,
-      "aspectRatio": 1.779,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/7TaHar51yswkQPzo2fK5Tr1YVRS.jpg",
-      "width": 1440,
-      "height": 810,
+      "filePath": "/oSt67eubCBJ2U0C9vZ2izQ7tHq1.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -366,8 +366,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.8,
-      "votesCount": 30
+      "ratingValue": 6.118,
+      "votesCount": 34
     },
     {
       "source": "crawled",
@@ -521,15 +521,6 @@
       "order": null
     },
     {
-      "tmdbPersonId": 4016,
-      "name": "Jeremy Bolt",
-      "profilePath": "/pqbpSnsM5Ord6t6Fx7AqCb0bGqo.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1420608,
       "name": "Erica Beeney",
       "profilePath": null,
@@ -539,18 +530,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 35021,
-      "name": "David Self",
-      "profilePath": null,
+      "tmdbPersonId": 4016,
+      "name": "Jeremy Bolt",
+      "profilePath": "/pqbpSnsM5Ord6t6Fx7AqCb0bGqo.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
       "tmdbPersonId": 77357,
       "name": "Rupert Wyatt",
       "profilePath": "/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 35021,
+      "name": "David Self",
+      "profilePath": null,
       "character": null,
       "job": "Writer",
       "department": "Writing",
