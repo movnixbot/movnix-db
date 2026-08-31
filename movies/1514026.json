@@ -8,11 +8,11 @@
     "releaseDate": "2026-08-27",
     "runtime": 95,
     "budget": null,
-    "revenue": null,
+    "revenue": "5363827",
     "status": "Released",
-    "popularity": 13.1058,
-    "voteAverage": 7.4,
-    "voteCount": 5,
+    "popularity": 40.3962,
+    "voteAverage": 7.8,
+    "voteCount": 13,
     "homepage": "https://roadsideattractions.com/filmography/Buddy/",
     "posterPath": "/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
     "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
@@ -100,17 +100,17 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/1qpgMYBPbm2bief81IIF6qqjjhm.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
       "width": 1944,
       "height": 2880,
       "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1qpgMYBPbm2bief81IIF6qqjjhm.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -128,17 +128,17 @@
       "type": "poster"
     },
     {
-      "filePath": "/876i4Ysk9Sb70hZNAExvJlIwFLt.jpg",
-      "width": 2000,
-      "height": 2963,
-      "aspectRatio": 0.675,
-      "type": "poster"
-    },
-    {
       "filePath": "/ef6atRlG4k8Y3hciqDwxezmald8.jpg",
       "width": 1365,
       "height": 2048,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/876i4Ysk9Sb70hZNAExvJlIwFLt.jpg",
+      "width": 2000,
+      "height": 2963,
+      "aspectRatio": 0.675,
       "type": "poster"
     },
     {
@@ -413,13 +413,62 @@
       "height": 1444,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/uBkXwmrivl2A3hI5ovLkB2tCmnk.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/pa5U0THGpqEmKf3R4LvuwBL5CbT.jpg",
+      "width": 1509,
+      "height": 849,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/94iCX0TLofZHqkrSah6TSlEfDVP.jpg",
+      "width": 3420,
+      "height": 1923,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/2rI4aN6HzSRtdiBUaWie5lWbvH8.jpg",
+      "width": 1283,
+      "height": 722,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/oQFU9ncW1RLh4QRiIA0MHA92q4c.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/o9NArCekOJZxdusjrshlgBnQMv6.jpg",
+      "width": 3199,
+      "height": 1800,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/2XXU8s6jKOy7AjWQnSR39X8KPA7.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.4,
-      "votesCount": 5
+      "ratingValue": 7.8,
+      "votesCount": 13
     },
     {
       "source": "imdb",
@@ -473,7 +522,7 @@
       "tmdbPersonId": 335,
       "name": "Michael Shannon",
       "profilePath": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg",
-      "character": "Charlie the Train / Willie (voice)",
+      "character": "Willie (voice)",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -515,13 +564,40 @@
       "order": 8
     },
     {
+      "tmdbPersonId": 2578299,
+      "name": "Jonathan Yurco",
+      "profilePath": null,
+      "character": "Dark Buddy (suit)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 6277088,
+      "name": "Devon Hawkes Ludlow",
+      "profilePath": "/qm6THY80trbeCDD3VtKMOj6lR8i.jpg",
+      "character": "Charlie the Train (voice)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 6436428,
+      "name": "Jimmica Collins",
+      "profilePath": "/nWqwqhsLKj3bMjKNzdf38TpWg3v.jpg",
+      "character": "Betty Bunny (voice)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
       "tmdbPersonId": 4505121,
       "name": "Madison Polan",
       "profilePath": "/rFlA9iYyefyFTWv1YIMdMoUFgfZ.jpg",
       "character": "Hannah",
       "job": "Actor",
       "department": "Acting",
-      "order": 9
+      "order": 12
     },
     {
       "tmdbPersonId": 2140091,
@@ -530,40 +606,13 @@
       "character": "Derek",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 13
     },
     {
       "tmdbPersonId": 4966857,
       "name": "Seamus Flynn",
       "profilePath": null,
       "character": "Timothy",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 2851330,
-      "name": "Bennie Taylor",
-      "profilePath": null,
-      "character": "Mailman Miles",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 1764367,
-      "name": "Mark Aaron Buerkle",
-      "profilePath": "/g6cGJkrgEYqF9fM7RReSLivxbxx.jpg",
-      "character": "Therapist (Day Player)",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 2025638,
-      "name": "Phuong Kubacki",
-      "profilePath": "/uUgZ9EhaUJaxWhHoqPBZp3mGAhz.jpg",
-      "character": "Nurse Nancy",
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -659,7 +708,14 @@
       "buy": []
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "Chris Sawin",
+      "content": "If you like puppets, practical effects, and grotesque horror that is disguised as something cutesy, then *Buddy* is a must-see. As a horror film, it’s surprising because it feels fresh and original with not only its comedic roots and psychological elements but also because it thrusts the audience into a bloodthirsty wonderland ruled by a demented orange unicorn eager to twist your head off.\r\n\r\nhttps://bit.ly/ItsBuddy",
+      "rating": 9,
+      "createdAt": "2026-08-28T18:56:42Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
@@ -685,5 +741,220 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1514026/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1514026,
+    "hash": "37749f95901512496f8c9bfdf7a1ca1163dc7ec3e3bde75345758d8c5e825770",
+    "summary_one_sentence": "A surreal TV production spiraling into chaos as a magical, singing orange unicorn named Buddy descends into madness and holds his cast hostage inside their own show.",
+    "summary_short": "Inside the vibrant yet disturbing world of a fictional children's program, a magical orange unicorn named Buddy exerts total control over his costars. As Buddy's mental state rapidly deteriorates, the whimsical set transforms into a claustrophobic nightmare. The trapped cast must navigate his increasingly demented demands while attempting to survive the bizarre televised dimension. Ultimately, the series blends absurd dark humor with psychological terror as the line between performance and imprisonment vanishes.",
+    "summary_long": "The narrative unfolds behind the scenes of a seemingly innocent TV show led by Buddy, an eccentric, singing orange unicorn with magical abilities. What begins as a colorful, musical spectacle quickly turns sinister as Buddy begins displaying erratic and psychotic behavior. Fearing his fading grip on reality, Buddy uses his mystical powers to seal the studio, effectively trapping the cast and crew inside a surreal, inescapable televised realm. Forced to continue performing in endless, twisted takes, the cast members are subjected to Buddy's violent mood swings and sadistic games. As the unicorn's delusions deepen, the show's cheery set corrupts into a fever dream of psychological horror and absurd dark comedy. The hostages are forced to play along with Buddy's increasingly surreal musical numbers just to stay alive. Internal rivalries among the cast surface as desperation sets in, with some attempting to plot an escape while others succumb to the madness. Buddy's descent reaches a breaking point as the boundary between the fiction of the show and the harsh reality of their captivity completely collapses. The story reaches a tense, climactic confrontation where the survivors must outwit their magical tormentor before the final curtain falls.",
+    "synopsis": "Buddy is a dark, genre-bending fusion of horror, comedy, and drama that explores the terrifying breakdown of a beloved television icon. Set within a claustrophobic, surreal TV-show dimension, the story follows the cast of a children's program controlled by Buddy—a singing, magical orange unicorn whose cheerful exterior conceals a growing, dangerous instability. As Buddy's psychosis takes hold, the vibrant studio environment transforms into a psychological trap where the performers are forced to stage endless scenes at the whim of their demented host. Blending sharp dark humor with surreal horror elements, the narrative examines themes of control, captivity, and the illusion of entertainment as the desperate cast looks for any way to survive the ultimate nightmare production.",
+    "keywords": [
+      "demented host",
+      "held hostage",
+      "singing unicorn",
+      "magical unicorn",
+      "surreal tv show",
+      "meta fiction",
+      "tv studio dimension",
+      "hostage situation",
+      "psychological breakdown",
+      "dark comedy",
+      "surreal horror",
+      "unhinged character",
+      "children's show satire",
+      "bizarre reality",
+      "trapped characters"
+    ],
+    "themes": [
+      {
+        "theme": "Loss of Control",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Psychological Horror",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Trapped in Reality",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Illusion of Entertainment",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Surreal",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Demented",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Psychological Horror",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension reaches its absolute boiling point as Buddy's madness peaks, forcing the cast into a desperate, high-stakes confrontation to escape the dimension before his control becomes absolute.",
+      "conflict": "As the performers realize they are effectively being held hostage in this alternate reality, Buddy's cheerful demeanor begins to crack, revealing a deeply unstable and controlling nature.",
+      "resolution": "The immediate nightmare of Buddy's surreal world draws to a close, leaving the surviving cast to deal with the psychological aftermath and the strange reality of what they endured.",
+      "introduction": "The cast of a children's television show finds themselves trapped inside a surreal TV-show dimension governed by Buddy, a bright orange, magical singing unicorn who leads the program.",
+      "risingAction": "Buddy's behavior grows increasingly erratic and demented, escalating the psychological tension as the trapped cast members attempt to navigate his bizarre rules and find a way to break free without triggering his wrath."
+    },
+    "characters": [
+      {
+        "name": "Buddy",
+        "role": "Villain",
+        "description": "A magical, singing orange unicorn who loses his sanity and holds his fellow TV-show cast members hostage in a surreal dimension."
+      },
+      {
+        "name": "Hostage TV-Show Cast Members",
+        "role": "Hero",
+        "description": "The ensemble of actors trapped inside the surreal dimension who must survive and try to overcome Buddy's increasingly unhinged behavior."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Buddy",
+        "target": "Cast",
+        "description": "Hostage Taker / Hostages"
+      },
+      {
+        "source": "Buddy",
+        "target": "TV Crew",
+        "description": "Unstable Star / Captive Production Team"
+      }
+    ],
+    "seo": {
+      "slug": "buddy",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/buddy](https://movnix.com/movie/buddy)",
+        "name": "Buddy",
+        "@type": "Movie",
+        "genre": [
+          "Dark Comedy",
+          "Surreal",
+          "Psychological Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+      },
+      "keywords": [
+        "Buddy movie",
+        "dark comedy unicorn",
+        "surreal thriller",
+        "psychological horror TV show",
+        "Buddy synopsis"
+      ],
+      "canonical": "[https://movnix.com/movie/buddy](https://movnix.com/movie/buddy)",
+      "metaTitle": "Buddy | Surreal Dark Comedy & Psychological Thriller",
+      "openGraph": {
+        "og:title": "Buddy | A Magical Unicorn's Descent Into Madness",
+        "og:description": "A magical, singing orange unicorn traps his TV show cast in a surreal dimension as his sanity deteriorates. Discover the dark surreal world of Buddy."
+      },
+      "twitterCard": {
+        "twitter:title": "Buddy | Surreal Dark Comedy & Psychological Thriller",
+        "twitter:description": "A magical orange unicorn traps his TV show cast in a surreal dimension as madness takes over. Get all details on Buddy."
+      },
+      "metaDescription": "A magical orange unicorn traps his TV show cast in a surreal dimension as madness takes over. Explore Buddy's synopsis, cast details, and release info."
+    },
+    "faq": [
+      {
+        "answer": "Buddy follows a magical, singing orange unicorn who traps his cast members in a surreal, TV-show dimension as his mental state increasingly unravels.",
+        "question": "What is the plot of Buddy?"
+      },
+      {
+        "answer": "The dominant genre of Buddy is psychological surreal horror mixed with dark comedy and fantasy elements.",
+        "question": "What is the dominant genre of Buddy?"
+      },
+      {
+        "answer": "No, Buddy is a standalone original film and is not part of an existing franchise.",
+        "question": "Is Buddy part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene at the end of the film.",
+        "question": "Is there a post-credit scene in Buddy?"
+      },
+      {
+        "answer": "Buddy is intended for mature audiences due to its dark themes, psychological horror, and surreal narrative.",
+        "question": "What target audience is Buddy intended for?"
+      },
+      {
+        "answer": "Despite featuring an animated-style unicorn and singing elements, Buddy is not suitable for children because of its unsettling hostage premise and demented themes.",
+        "question": "Is Buddy suitable for children?"
+      },
+      {
+        "answer": "The primary setting is a distorted, surreal TV-show dimension created and controlled by the titular character.",
+        "question": "What is the primary setting of Buddy?"
+      },
+      {
+        "answer": "Yes, the main character sings throughout the film, though the songs carry eerie and sinister tones given the context.",
+        "question": "Does Buddy feature musical performances?"
+      },
+      {
+        "answer": "The film explores themes of control, performative identity, mental deterioration, and the claustrophobia of media environments.",
+        "question": "What are the primary themes explored in Buddy?"
+      },
+      {
+        "answer": "Buddy is available through select theatrical distributions and on major digital streaming platforms.",
+        "question": "Where can I watch Buddy?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "High levels of surreal, psychological horror involving dynamic instability, unhinged behavior, and inescapable hostage scenarios."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language typical of psychological or surreal thrillers."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high psychological violence and physical threat stemming from a hostage situation and dynamic decay into demented behavior."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug or alcohol references indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the premises."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity driven by psychological pressure, loss of control, and chaotic host dynamics."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 5,
+      "fantasy": 9,
+      "mystery": 7,
+      "romance": 0,
+      "science": 2,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-30 00:10:50.209412",
+    "updated_at": "2026-08-30 00:10:50.209412"
+  }
 }
