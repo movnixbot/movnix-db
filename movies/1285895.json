@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.5828,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 3.7159,
+    "voteAverage": 4,
+    "voteCount": 1,
     "homepage": "http://latefamemovie.com",
     "posterPath": "/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
     "backdropPath": "/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
@@ -256,6 +256,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 4,
+      "votesCount": 1
+    },
     {
       "source": "rotten_tomatoes",
       "ratingValue": 92,
@@ -538,5 +543,217 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1285895/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1285895,
+    "hash": "4401b3ca519f6943d5f59ba840a07703c48371737aa176c96f5b27b8e0cb052a",
+    "summary_one_sentence": "When a group of eccentric young creatives rediscover the forgotten works of legendary New York poet Ed Saxberger, his long-dormant artistic passion is reignited alongside the intriguing presence of an enigmatic actress named Gloria.",
+    "summary_short": "Ed Saxberger, a once-celebrated New York poet who has long retreated into anonymity, finds his life unexpectedly upended when a bohemian group of young artists stumbles upon his early writings. Enchanted by his unfulfilled genius, they draw him back into the vibrant, chaotic world of contemporary culture. Central to this new dynamic is Gloria, a captivating actress whose enigmatic allure challenges Ed's worldviews and artistic sensibilities. As past ambitions collide with late-in-life recognition, Ed must navigate the dizzying reality of sudden, unexpected fame.",
+    "summary_long": "Ed Saxberger is an aging, solitary figure in New York City whose past as a promising poet has been virtually forgotten by the modern world. Having long abandoned his artistic pursuits for a quiet, unremarked existence, Ed is caught off guard when a bohemian group of youthful creatives unexpectedly discovers his old published work. Intrigued by his raw vision, this energetic collective seeks him out, eager to revive his legacy and bring his poetry back into the light. Flattered and bewildered by the sudden attention, Ed is drawn into their inner circle, experiencing a profound revival of his own creative drive. However, as he settles into this unexpected renaissance, the boundary between admiration and exploitation begins to blur. Amidst the group, a bewitching stage actress named Gloria exerts a powerful, mysterious pull over Ed, complicating his rekindled passions. As events unfold, Ed finds himself grappling with the superficiality of contemporary artistic trends and the motives of those around him. Ultimately, he is forced to confront what it truly means to receive fame late in life and whether this newfound adoration is genuine or merely a fleeting whim of youthful whim.",
+    "synopsis": "Late Fame explores the sudden cultural revival of Ed Saxberger, an aging and forgotten New York poet whose early literary output becomes the object of obsession for a collective of young, trend-setting creatives. Led by their desire to unearth lost artistic voices, the group invites Ed into their vibrant, fast-paced world, breathing new energy into his stagnant life. As Ed begins to navigate the modern art scene, he becomes deeply entangled with Gloria, a charismatic actress whose presence profoundly alters the dynamic between Ed and his newfound admirers. Rich with character-driven drama, the narrative delves into themes of artistic legacy, late-life rediscovery, the fleeting nature of recognition, and the complex relationships that form across different generations of artists.",
+    "keywords": [
+      "aging artist",
+      "artistic rediscovery",
+      "bohemian subculture",
+      "creative mentorship",
+      "eccentric artists",
+      "forgotten legacy",
+      "literary scene",
+      "mentor and protege",
+      "muse",
+      "new york city",
+      "poet",
+      "second chance at fame",
+      "artistic inspiration",
+      "young creatives"
+    ],
+    "themes": [
+      {
+        "theme": "Artistic Revival and Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Generational Connection",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fame and Validation",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Inspiration and Passion",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Inspiring",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Artistic",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Intriguing",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Saxberger faces a crucial moment of self-reckoning when the harsh realities and motivations of his young patrons collide with his revived artistic ego.",
+      "conflict": "A group of passionate young artists discovers Saxberger's early work, thrusting him back into the spotlight and challenging his long-held resignation to obscurity.",
+      "resolution": "Saxberger emerges with a refined understanding of fame, legacy, and the true value of his own voice beyond the fleeting applause of others.",
+      "introduction": "Aging and reclusive poet Ed Saxberger leads a quiet life in New York, his brief literary career long forgotten by the public and himself.",
+      "risingAction": "As Saxberger integrates into the dynamic social circle, the magnetic presence of actress Gloria and the group's adulation reawaken his creative ambition, forcing him to navigate the intoxicating yet volatile nature of newfound validation."
+    },
+    "characters": [
+      {
+        "name": "Ed Saxberger",
+        "role": "Hero",
+        "description": "A legendary, aging New York poet whose forgotten works regain attention, prompting a late-in-life artistic reignition."
+      },
+      {
+        "name": "Gloria",
+        "role": "Other",
+        "description": "A bewitching actress whose presence shifts the dynamics among the group of young creatives celebrating Ed's work."
+      },
+      {
+        "name": "Group of Young Creatives",
+        "role": "Supporting Character",
+        "description": "An eccentric circle of young artists whose intrigue and admiration draw Ed back into the creative spotlight."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ed Saxberger",
+        "target": "Group of Young Creatives",
+        "description": "Inspiration/Manees/Admirers"
+      },
+      {
+        "source": "Ed Saxberger",
+        "target": "Gloria",
+        "description": "Mutual intrigue/Romantic interest"
+      },
+      {
+        "source": "Group of Young Creatives",
+        "target": "Gloria",
+        "description": "Colleagues/Shared artistic circle"
+      }
+    ],
+    "seo": {
+      "slug": "late-fame",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/late-fame](https://movnix.com/movie/late-fame)",
+        "name": "Late Fame",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
+      },
+      "keywords": [
+        "Late Fame",
+        "Late Fame movie",
+        "Ed Saxberger",
+        "poetry movie",
+        "drama movie",
+        "Gloria Late Fame"
+      ],
+      "canonical": "[https://movnix.com/movie/late-fame](https://movnix.com/movie/late-fame)",
+      "metaTitle": "Late Fame - Official Movie Synopsis & Details",
+      "openGraph": {
+        "og:title": "Late Fame - Official Movie Synopsis & Details",
+        "og:description": "Ed Saxberger's forgotten poetry captivates young creatives and actress Gloria, reigniting his artistic passion in Late Fame."
+      },
+      "twitterCard": {
+        "twitter:title": "Late Fame - Official Movie Synopsis & Details",
+        "twitter:description": "Ed Saxberger's forgotten poetry captivates young creatives and actress Gloria, reigniting his artistic passion in Late Fame."
+      },
+      "metaDescription": "Ed Saxberger's forgotten poetry captivates young creatives and actress Gloria, reigniting his artistic passion in Late Fame."
+    },
+    "faq": [
+      {
+        "answer": "Late Fame follows legendary New York poet Ed Saxberger, whose forgotten works captivate an eccentric group of young creatives. This unexpected recognition reignites his long-dormant artistic passion, which becomes further intertwined with the bewitching presence of an actress named Gloria.",
+        "question": "What is Late Fame about?"
+      },
+      {
+        "answer": "The dominant genre of Late Fame is drama, with strong elements of artistic exploration and character study.",
+        "question": "What is the dominant genre of Late Fame?"
+      },
+      {
+        "answer": "Late Fame is an adaptation of Arthur Schnitzler's 1901 classic novella Late Fame (originally titled Spätfame).",
+        "question": "Is Late Fame based on a book or an original story?"
+      },
+      {
+        "answer": "No, Late Fame is a standalone feature film and is not part of any franchise or cinematic universe.",
+        "question": "Is Late Fame part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "The film stars Willem Dafoe as the poet Ed Saxberger and Sandra Hüller as the captivating actress Gloria.",
+        "question": "Who stars in Late Fame?"
+      },
+      {
+        "answer": "Late Fame is directed by Kent Jones, with a screenplay written by Samy Burch.",
+        "question": "Who is the director of Late Fame?"
+      },
+      {
+        "answer": "No, Late Fame does not feature a post-credits scene or any extra mid-credits sequence.",
+        "question": "Is there a post-credits scene in Late Fame?"
+      },
+      {
+        "answer": "The film focuses on themes of artistic legacy, late-in-life recognition, the influence of youth on aging artists, and the complex nature of creative inspiration.",
+        "question": "What are the central themes of Late Fame?"
+      },
+      {
+        "answer": "The story is set in New York, centering on the city's modern creative circles and literary subcultures.",
+        "question": "Where does the story of Late Fame take place?"
+      },
+      {
+        "answer": "Late Fame is intended primarily for mature audiences due to its sophisticated character drama, complex dialogue, and adult thematic elements.",
+        "question": "Is Late Fame suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening imagery."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong language indicated based on overview."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or physical conflict described."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Possible mild alcohol or smoking context typical of social creative settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic intrigue described; no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional themes surrounding aging, artistic ambition, and creative passion."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 1,
+      "comedy": 4,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 5,
+      "science": 0,
+      "suspense": 3,
+      "violence": 0
+    },
+    "created_at": "2026-08-29 08:03:18.832475",
+    "updated_at": "2026-08-29 08:03:18.832475"
+  }
 }
