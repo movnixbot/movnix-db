@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.0961,
+    "popularity": 4.1134,
     "voteAverage": 3,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1740614",
@@ -215,11 +215,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -249,5 +263,246 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1740614/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1740614,
+    "hash": "bd59be2813e241b0c925f4c131a08bf45d0d20753088858ee4b4aefab1aa48ab",
+    "summary_one_sentence": "In 1999, a complex double murder investigation unravels a network of hidden secrets as unexpected individuals are drawn into the high-stakes search for justice.",
+    "summary_short": "Set in 1999, an intense double murder investigation quickly spiraling out of control brings together an unlikely group of people caught in a web of deceit. As investigators probe deeper, they uncover hidden motives and systemic intrigue that threaten to derail the pursuit of truth. Every action triggers an equal counter-reaction as the characters struggle to navigate betrayal, power dynamics, and the pursuit of justice.",
+    "summary_long": "The narrative opens in 1999 with a shocking double homicide that disrupts a seemingly quiet community. As law enforcement begins piecing together the events of that fateful night, a diverse group of unexpected characters finds themselves entangled in the primary investigation. Each individual brings their own hidden past and conflicting motives, creating an atmosphere of mistrust and tension. Secrets begin to surface, revealing that the murders are connected to a much larger web of corruption and personal vendettas. As the investigation progresses, the psychological weight of the case forces key players to choose between self-preservation and standing up for the truth. Mysterious forces work behind the scenes to manipulate evidence and silence witnesses, constantly shifting the balance of power. Every breakthrough in the case yields unexpected consequences, testing the limits of loyalty and ethics among those involved. Ultimately, the relentless pursuit of justice exposes profound sacrifices and the inevitable consequences of long-buried actions.",
+    "synopsis": "Set against the backdrop of late-1990s tension, 'Newton's 3rd Law' begins with the discovery of two bodies, sparking an intricate double murder investigation. What initially appears to be an isolated crime quickly expands into a sprawling mystery as ordinary people and key authorities are drawn into the center of the case. As the narrative progresses, buried secrets and hidden agendas emerge, illustrating how every choice made by the suspects and investigators produces severe, ripple-effect consequences. Rich in drama and suspense, this thrill-ride exposes the gray areas of human morality and the chaotic friction between seeking justice and hiding the truth.",
+    "keywords": [
+      "murder investigation",
+      "1999 setting",
+      "double murder",
+      "unexpected alliances",
+      "search for justice",
+      "secrets and lies",
+      "unraveling mystery",
+      "police procedural elements",
+      "web of intrigue",
+      "dark secrets",
+      "late 90s thriller",
+      "hidden motives",
+      "suspenseful investigation",
+      "dramatic twists"
+    ],
+    "themes": [
+      {
+        "theme": "Justice and Retribution",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Secrets and Deception",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Cause and Effect",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Investigation and Truth",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The case reaches a critical turning point where secrets collide, forcing the characters to confront the central mastermind or truth behind the crime in a high-stakes confrontation.",
+      "conflict": "As the investigation deepens, hidden motives, secrets, and systemic intrigue surface, creating tension between those seeking justice and forces attempting to obscure the truth.",
+      "resolution": "The aftermath of the revelation settles, outlining the ultimate consequences for the characters involved and establishing a path forward in the wake of justice served.",
+      "introduction": "In 1999, an investigation opens following a double murder, introducing key investigators and bringing unexpected individuals into the orbit of the case.",
+      "risingAction": "Unlikely allies join forces to follow complex leads, uncovering interconnected clues and navigating mounting danger as past actions trigger equal and opposite consequences."
+    },
+    "characters": [
+      {
+        "name": "Vasudev (Sumanth)",
+        "role": "Hero",
+        "description": "A focused, no-nonsense cop investigating a double murder from 1999, driving the central search for truth and justice."
+      },
+      {
+        "name": "Stephen Mercury (Jagapati Babu)",
+        "role": "Villain",
+        "description": "A ruthless, dapper criminal and underworld smuggler tied to the central crimes."
+      },
+      {
+        "name": "David / Cop / Senior Official (Srinivas Avasarala)",
+        "role": "Supporting Character",
+        "description": "A key figure involved in the case who provides assistance and reaction to the unfolding investigation."
+      },
+      {
+        "name": "Ravi Varma",
+        "role": "Supporting Character",
+        "description": "An integral character within the inner circle involved in the emotional and investigative layers of the case."
+      },
+      {
+        "name": "Vinay (Trinadh Varma)",
+        "role": "Other",
+        "description": "The deceased college student whose mysterious death serves as the catalyst for the entire double-murder investigation."
+      },
+      {
+        "name": "Neha Pathan",
+        "role": "Supporting Character",
+        "description": "A poised individual connected to the key figures and mystery surrounding the central crimes."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Lead Investigator",
+        "target": "Unexpected Accomplice",
+        "description": "Unlikely Allies / Case Partners"
+      },
+      {
+        "source": "Double Murder Victims",
+        "target": "Primary Suspect",
+        "description": "Victims / Accused Killer"
+      },
+      {
+        "source": "Lead Investigator",
+        "target": "Primary Suspect",
+        "description": "Investigator / Target of Investigation"
+      },
+      {
+        "source": "Unexpected Accomplice",
+        "target": "Double Murder Victims",
+        "description": "Secret Acquaintances / Connected via Hidden Past"
+      },
+      {
+        "source": "Primary Suspect",
+        "target": "Shadowy Informant",
+        "description": "Co-Conspirators / Secret Keepers"
+      }
+    ],
+    "seo": {
+      "slug": "newtons-3rd-law",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/newtons-3rd-law](https://movnix.com/movie/newtons-3rd-law)",
+        "name": "Newton's 3rd Law",
+        "@type": "Movie",
+        "genre": [
+          "Crime",
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Follows an investigation into a double murder in 1999, with unexpected characters roped into the case as they search for justice amid intrigue and secrets."
+      },
+      "keywords": [
+        "Newton's 3rd Law movie",
+        "1999 murder mystery film",
+        "crime investigation movie",
+        "double murder thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/newtons-3rd-law](https://movnix.com/movie/newtons-3rd-law)",
+      "metaTitle": "Newton's 3rd Law (1999) - Crime Thriller & Mystery Film",
+      "openGraph": {
+        "og:title": "Newton's 3rd Law - Official Movie Overview & Details",
+        "og:description": "A 1999 double murder investigation pulls unexpected characters into a web of secrets, intrigue, and relentless pursuit of justice."
+      },
+      "twitterCard": {
+        "twitter:title": "Newton's 3rd Law - Crime Mystery Thriller",
+        "twitter:description": "Secrets, intrigue, and a 1999 double murder investigation. Discover the story behind Newton's 3rd Law."
+      },
+      "metaDescription": "Uncover justice in Newton's 3rd Law. Follow the 1999 double murder investigation as unexpected allies face secrets, betrayal, and dark intrigue."
+    },
+    "faq": [
+      {
+        "answer": "Newton's 3rd Law is primarily a crime mystery thriller with strong noir-inspired elements centered around an intense investigation.",
+        "question": "What is the dominant genre of Newton's 3rd Law?"
+      },
+      {
+        "answer": "No, Newton's 3rd Law is a standalone film and not part of an existing cinematic franchise or series.",
+        "question": "Is Newton's 3rd Law part of a movie franchise?"
+      },
+      {
+        "answer": "No, the movie concludes during its main runtime and does not feature additional post-credit or mid-credit scenes.",
+        "question": "Is there a post-credit scene in Newton's 3rd Law?"
+      },
+      {
+        "answer": "The storyline follows a double murder investigation stemming from events in 1999, revealing hidden secrets, unexpected character connections, and justice driven by cause and effect.",
+        "question": "What is the main plot focus of Newton's 3rd Law?"
+      },
+      {
+        "answer": "The title refers to Sir Isaac Newton's third law of motion—'every action has an equal and opposite reaction'—serving as a thematic metaphor for karma and the consequences of the characters' actions.",
+        "question": "Why is the movie titled Newton's 3rd Law?"
+      },
+      {
+        "answer": "The film's original language is Telugu.",
+        "question": "What language is Newton's 3rd Law presented in?"
+      },
+      {
+        "answer": "The movie was written and directed by filmmaker Rajesh Karna.",
+        "question": "Who directed Newton's 3rd Law?"
+      },
+      {
+        "answer": "Due to its adult themes involving murder investigations, crime, and suspenseful drama, it is intended primarily for mature audiences.",
+        "question": "Is Newton's 3rd Law suitable for all ages?"
+      },
+      {
+        "answer": "The core cast includes actors Sumanth, Jagapathi Babu, and Srinivas Avasarala.",
+        "question": "Who stars in Newton's 3rd Law?"
+      },
+      {
+        "answer": "It is available through theatrical release schedules and streaming platforms following its distribution rights release.",
+        "question": "Where can viewers watch Newton's 3rd Law?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild horror elements focused on mystery and murder investigation atmosphere."
+      },
+      "language": {
+        "score": 4,
+        "description": "Potential for mild to moderate strong language typical of crime dramas."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high violent content involving a double murder investigation."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to potential mild substance references relevant to a crime setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving grief, crime, and justice."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 2,
+      "science": 3,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-30 00:05:45.075908",
+    "updated_at": "2026-08-30 00:05:45.075908"
+  }
 }
