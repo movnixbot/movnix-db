@@ -10,9 +10,9 @@
     "budget": "12000000",
     "revenue": "16300000",
     "status": "Released",
-    "popularity": 14.408,
-    "voteAverage": 6.3,
-    "voteCount": 6,
+    "popularity": 16.9166,
+    "voteAverage": 6.857,
+    "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1305672",
     "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
     "backdropPath": "/bO0nnTk3Vzt7hwnRKa3nOpawZPt.jpg",
@@ -73,6 +73,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/sCyjVoYxWFyzmjPXJHTaYidDkGo.jpg",
       "width": 1778,
       "height": 2667,
@@ -84,13 +91,6 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/cTS9RoLLxctrteAXLBZDdJ9Y4D3.jpg",
-      "width": 2000,
-      "height": 2667,
-      "aspectRatio": 0.75,
       "type": "poster"
     },
     {
@@ -122,17 +122,17 @@
       "type": "poster"
     },
     {
+      "filePath": "/cTS9RoLLxctrteAXLBZDdJ9Y4D3.jpg",
+      "width": 2000,
+      "height": 2667,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
       "filePath": "/s4mP8En72KWYUjYeXf20bRiqeeo.jpg",
       "width": 1000,
       "height": 1407,
       "aspectRatio": 0.711,
-      "type": "poster"
-    },
-    {
-      "filePath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -174,8 +174,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 6
+      "ratingValue": 6.857,
+      "votesCount": 7
     },
     {
       "source": "crawled",
@@ -320,21 +320,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 130975,
-      "name": "Shi Jianquan",
-      "profilePath": "/lhWXxSgrZNViJLBCweiD4kdEO8Z.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1287732,
       "name": "Feng Xiaogang",
       "profilePath": "/lOzjy8W2JxlOF4vBtL3Ev7uXdpV.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 130975,
+      "name": "Shi Jianquan",
+      "profilePath": "/lhWXxSgrZNViJLBCweiD4kdEO8Z.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -424,5 +424,212 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1305672/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1305672,
+    "hash": "38388ae502b3e8d27f43cc5e9f41204c7c528c7e35e3e0238b0932e875563068",
+    "summary_one_sentence": "Upon the founding of the People's Republic of China, a dedicated public security officer devotes four decades of his life to monitoring and pursuing a suspicious local schoolteacher.",
+    "summary_short": "On October 1, 1949, newly assigned police station director Xiao Dali enters the city and immediately grows suspicious of primary school teacher Feng Jingbo. Driven by a soldier's vigilance and a deep sense of duty, Dali moves next door to Feng to keep a close watch on his daily activities. Over the course of nearly forty years, their intertwined lives turn into a quiet, lifelong game of cat-and-mouse. Through political shifts and passing decades, Dali remains unwavering in his pursuit to unmask the truth.",
+    "summary_long": "The story opens on October 1, 1949, the historical day marking the founding of the People's Republic of China. Xiao Dali, a seasoned soldier, transitions into civil service as he is appointed the director of a local public security police station in the newly reorganized city. Shortly after taking office, Dali encounters Feng Jingbo, a seemingly ordinary primary school teacher whose behavior and background arouse deep suspicion. Guided by his refined instincts as a combat veteran and an unyielding commitment to public security, Dali determines that Feng bears watching. To maintain constant surveillance, Dali strategically takes up residence right next door to the teacher, entering into his immediate personal orbit. What begins as a routine investigation gradually transforms into an enduring, multi-decade confrontation embedded within the neighborhood's evolving social fabric. Over the span of nearly forty years, both men experience the profound political, economic, and cultural transformations sweeping across China. Despite the passage of time and changing personal circumstances, Dali never abandons his post or loses sight of his target. His relentless dedication turns the neighborhood dynamic into an extraordinary, lifelong investigation defined by patience, vigilance, and duty.",
+    "synopsis": "Set against the backdrop of modern Chinese history beginning on October 1, 1949, this drama chronicles the lifelong tension between a committed law enforcement officer and a mystery-shrouded civilian. When Xiao Dali takes charge of a city public security station on the day of the nation's founding, his sharp instincts lead him to investigate primary school teacher Feng Jingbo. To unearth the reality behind his suspicions, Dali becomes Feng's direct neighbor, initiating a subtle psychological contest that spans nearly four decades. The narrative offers a reflective look at police dedication, neighborly dynamics, and how personal duty intersects with historical change over the course of a lifetime.",
+    "keywords": [
+      "decades-long pursuit",
+      "undercover vigilance",
+      "post-revolution china",
+      "neighbor dynamic",
+      "police officer protagonist",
+      "suspicion and obsession",
+      "schoolteacher secret",
+      "ideological conflict",
+      "historical drama",
+      "cat and mouse",
+      "public security",
+      "lifelong rivalry",
+      "1940s china",
+      "duty and devotion"
+    ],
+    "themes": [
+      {
+        "theme": "Duty and Vigilance",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Lifelong Pursuit",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Ideological & Political Suspicion",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The psychological chess match between the officer and the schoolteacher reaches its peak when critical long-hidden secrets come to light, forcing a final reckoning after decades of tension.",
+      "conflict": "Driven by his duty as a public security officer, Dali develops a persistent suspicion regarding Feng Jingbo's true identity and intentions, choosing to live as his neighbor to maintain close oversight.",
+      "resolution": "Decades of dedicated pursuit come to a definitive close, illustrating the quiet resolution and lifelong impact of Xiao Dali's unwavering commitment to his duty.",
+      "introduction": "On October 1, 1949, newly assigned police station director Xiao Dali enters the city following the founding of the People's Republic of China and crosses paths with primary school teacher Feng Jingbo, whose suspicious background immediately draws Dali's attention.",
+      "risingAction": "As years turn into decades, Dali maintains relentless surveillance over Feng, navigating shifting social landscapes while carefully uncovering clues and unraveling the mystery surrounding his neighbor's past."
+    },
+    "characters": [
+      {
+        "name": "Xiao Dali",
+        "role": "Hero",
+        "description": "A dedicated public security director and former soldier who spends nearly four decades vigilantly pursuing the truth while living alongside his suspect."
+      },
+      {
+        "name": "Feng Jingbo",
+        "role": "Villain",
+        "description": "A mysterious primary school teacher whose suspicious nature and secrets trigger Xiao Dali's decades-long investigation and surveillance."
+      },
+      {
+        "name": "Supporting Characters",
+        "role": "Supporting Character",
+        "description": "Family members, neighborhood residents, and fellow police station colleagues who populate Xiao Dali and Feng Jingbo's community over the forty-year span."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Xiao Dali",
+        "target": "Feng Jingbo",
+        "description": "Rivals / Long-term Adversaries"
+      },
+      {
+        "source": "Xiao Dali",
+        "target": "Feng Jingbo",
+        "description": "Neighbors"
+      }
+    ],
+    "seo": {
+      "slug": "i-know-who-you-are",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/i-know-who-you-are](https://movnix.com/movie/i-know-who-you-are)",
+        "name": "I Know Who You Are",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "On October 1, 1949, Xiao Dali becomes a public security police station director and begins a nearly four-decade pursuit of primary school teacher Feng Jingbo."
+      },
+      "keywords": [
+        "I Know Who You Are",
+        "I Know Who You Are drama",
+        "I Know Who You Are synopsis",
+        "Xiao Dali",
+        "Feng Jingbo",
+        "Chinese historical drama"
+      ],
+      "canonical": "[https://movnix.com/movie/i-know-who-you-are](https://movnix.com/movie/i-know-who-you-are)",
+      "metaTitle": "I Know Who You Are | Synopsis & Overview",
+      "openGraph": {
+        "og:title": "I Know Who You Are - Official Synopsis & Plot",
+        "og:description": "Follow Xiao Dali's four-decade pursuit of primary school teacher Feng Jingbo, starting on the founding day of the People's Republic of China in 1949."
+      },
+      "twitterCard": {
+        "twitter:title": "I Know Who You Are - Official Synopsis & Plot",
+        "twitter:description": "Follow Xiao Dali's four-decade pursuit of primary school teacher Feng Jingbo, starting on the founding day of the People's Republic of China in 1949."
+      },
+      "metaDescription": "Discover I Know Who You Are: Public security director Xiao Dali begins a four-decade pursuit of mysterious teacher Feng Jingbo starting in 1949."
+    },
+    "faq": [
+      {
+        "answer": "The story begins on October 1, 1949, during the founding of the People's Republic of China. Public security police station director Xiao Dali suspects primary school teacher Feng Jingbo and moves next door to him, embarking on a continuous, nearly four-decade-long investigation into his identity.",
+        "question": "What is the plot of I Know Who You Are?"
+      },
+      {
+        "answer": "The primary genres are drama, historical suspense, and mystery, focusing on political intrigue, police investigation, and human relationships over several decades.",
+        "question": "What is the dominant genre of I Know Who You Are?"
+      },
+      {
+        "answer": "While it draws heavy inspiration from historical contexts and the post-1949 security environment in China, the specific narrative and primary characters are fictionalized.",
+        "question": "Is I Know Who You Are based on a true story?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not part of an established cinematic universe or multi-part film franchise.",
+        "question": "Is this work part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively before the end credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main characters are Xiao Dali, a dedicated public security official, and Feng Jingbo, a enigmatic primary school teacher under surveillance.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "The story starts on October 1, 1949, and spans nearly forty years, chronicling the prolonged dynamic and confrontation between the two main characters across decades of Chinese history.",
+        "question": "What time period does the narrative cover?"
+      },
+      {
+        "answer": "Key themes include devotion to duty, relentless persistence, psychological confrontation, vigilance, and the long-term impact of ideological conflicts on individual lives.",
+        "question": "What is the main theme of the story?"
+      },
+      {
+        "answer": "It is generally suitable for mature audiences and teens, as it focuses on historical drama and psychological suspense rather than explicit content.",
+        "question": "Is I Know Who You Are suitable for family viewing?"
+      },
+      {
+        "answer": "Availability varies by region, but it can typically be found on regional streaming platforms featuring Chinese historical and drama series.",
+        "question": "Where can I watch I Know Who You Are?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements, limited to tension from investigation."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild, period-appropriate political or operational vocabulary."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Low to moderate potential for action violence or conflict given the historical public security setting."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal potential for period-accurate usage like tobacco smoking."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderately high emotional intensity surrounding a life-long pursuit and suspicion across decades."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-30 19:03:27.327312",
+    "updated_at": "2026-08-30 19:03:27.327312"
+  }
 }
