@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "3108495",
     "status": "Released",
-    "popularity": 7.1097,
-    "voteAverage": 7.7,
-    "voteCount": 23,
+    "popularity": 8.3531,
+    "voteAverage": 7.6,
+    "voteCount": 25,
     "homepage": "https://mock-movie-website.com/movies/1266800",
     "posterPath": "/8qPtHYpeRgRQUDVYk5M8X37Rkbb.jpg",
     "backdropPath": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
@@ -212,6 +212,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/ele1e4X160diRhWasAFeptlbNVd.jpg",
+      "width": 1080,
+      "height": 1620,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
       "width": 3840,
       "height": 2160,
@@ -341,8 +348,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.7,
-      "votesCount": 23
+      "ratingValue": 7.6,
+      "votesCount": 25
     },
     {
       "source": "imdb",
@@ -406,6 +413,15 @@
       "name": "Gilles de Maistre",
       "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 49870,
+      "name": "Gilles de Maistre",
+      "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
+      "character": null,
       "job": "Screenplay",
       "department": "Writing",
       "order": null
@@ -417,15 +433,6 @@
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 49870,
-      "name": "Gilles de Maistre",
-      "profilePath": "/47Ui0AtxxYcS0WgldY5MrX3eOgp.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     }
   ],
