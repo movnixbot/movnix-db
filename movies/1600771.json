@@ -6,11 +6,11 @@
     "originalTitle": "आखरी सवाल",
     "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
     "releaseDate": "2026-05-15",
-    "runtime": 150,
+    "runtime": 117,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9845,
+    "popularity": 2.9783,
     "voteAverage": 1,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1600771",
@@ -165,7 +165,7 @@
       "tmdbPersonId": 1391773,
       "name": "Tridha Choudhury",
       "profilePath": "/nCb7ZgqAbL7gcgfUsdWHw9yZo2I.jpg",
-      "character": "Sara",
+      "character": "Saara",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -219,7 +219,7 @@
       "tmdbPersonId": 3298233,
       "name": "Archana Iyer",
       "profilePath": null,
-      "character": null,
+      "character": "Vicky's Mother",
       "job": "Actor",
       "department": "Acting",
       "order": 9
@@ -241,6 +241,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 11
+    },
+    {
+      "tmdbPersonId": 2472389,
+      "name": "Deepak Antani",
+      "profilePath": null,
+      "character": "Mahatma Gandhi",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
     },
     {
       "tmdbPersonId": 3016975,
@@ -332,5 +341,245 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1600771/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1600771,
+    "hash": "7543cd641c9cf36f4511ad3f23eac172dd852fe0ecf90f864d338b117779f8ac",
+    "summary_one_sentence": "When a brilliant scholar publicly accuses his revered mentor of bias, a personal faculty dispute escalates into a sensationalized national media trial.",
+    "summary_short": "Brilliant yet volatile scholar Vicky sparks a fierce national controversy after publicly charging his legendary mentor, Professor Gopal Nadkarni, with institutional bias. The localized academic disagreement rapidly spirals out of control when outside forces intervene to exploit the conflict. Co-opted by a sensationalist news anchor and an ambitious political activist, the personal dispute transforms into a high-stakes, televised intellectual trial watched by millions.",
+    "summary_long": "Vicky is an exceptionally gifted scholar whose volatile temperament often gets the better of him. His academic career takes a dramatic turn when he openly accuses his esteemed and legendary mentor, Professor Gopal Nadkarni, of deep-rooted institutional bias. What initially seems like an internal faculty dispute quickly catches the attention of hungry media figures looking for the next viral story. A ruthless, sensationalist news anchor seizes upon the narrative, broadcasting the conflict to a massive audience and stoking public outrage. Simultaneously, an ambitious political activist maneuvers into the fray to leverage the controversy for personal and ideological gain. As the two factions manipulate the situation, Vicky's personal grievance is completely hijacked and amplified beyond his control. The grievance evolves into a high-stakes televised event, turning the mentor-student divide into an intense national debate on ethics and influence. As millions tune in, both Vicky and Professor Nadkarni are forced to navigate the treacherous waters of public scrutiny and opportunistic media dynamics. Ultimately, the scandal exposes the fragile nature of reputation and the dangerous reach of modern sensationalism.",
+    "synopsis": "Aakhri Sawal follows Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a private disagreement within academic walls is quickly co-opted by a sensationalist news anchor and an ambitious political activist. Together, they transform the personal feud into a televised 'intellectual trial' watched by millions, turning a quest for truth into a high-stakes media spectacle.",
+    "keywords": [
+      "institutional bias",
+      "mentor-protege conflict",
+      "academic feud",
+      "media trial",
+      "sensationalism",
+      "political activism",
+      "public accusation",
+      "moral crusade",
+      "power dynamic",
+      "intellectual debate",
+      "volatile protagonist",
+      "scandal",
+      "courtroom-style drama",
+      "character clash"
+    ],
+    "themes": [
+      {
+        "theme": "Institutional Bias and Discrimination",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Media Sensationalism",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Political Opportunism",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Mentor vs. Protégé Conflict",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Public vs. Private Trial",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The disagreement culminates in a live, national 'intellectual trial' watched by millions, where Vicky and Nadkarni face off under maximum public and political scrutiny.",
+      "conflict": "The relationship fractures when Vicky publicly accuses Professor Nadkarni of institutional bias, transforming an internal academic dispute into an intense personal dispute.",
+      "resolution": "The fallout of the public trial forces both scholars and the surrounding trial manipulators to confront the true cost of their ambitions and the systemic biases exposed.",
+      "introduction": "Vicky, a brilliant but volatile scholar, works under the guidance of his legendary mentor, Professor Gopal Nadkarni, within an esteemed academic institution.",
+      "risingAction": "External forces exploit the feud as a sensationalist news anchor and an ambitious political activist hijack the story, turning the grievance into a high-stakes televised media spectacle."
+    },
+    "characters": [
+      {
+        "name": "Vicky",
+        "role": "Anti Hero",
+        "description": "A brilliant but volatile scholar who sparks a national conflict by publicly accusing his mentor of bias, driven by deep conviction yet causing widespread turmoil."
+      },
+      {
+        "name": "Professor Gopal Nadkarni",
+        "role": "Mentor",
+        "description": "A legendary academic figure whose institutional influence and past relationship with Vicky make him the central target of the academic and televised trial."
+      },
+      {
+        "name": "Sensationalist News Anchor",
+        "role": "Supporting Character",
+        "description": "An opportunistic media personality who hijacks the faculty conflict to create a high-stakes televised trial for national viewership."
+      },
+      {
+        "name": "Ambitious Political Activist",
+        "role": "Supporting Character",
+        "description": "A political figure who exploits the public dispute between Vicky and Nadkarni to advance a broader political agenda."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Vicky",
+        "target": "Professor Gopal Nadkarni",
+        "description": "Protege/Mentor (Conflict/Accuser)"
+      },
+      {
+        "source": "Sensationalist News Anchor",
+        "target": "Vicky",
+        "description": "Media Exploiter/Publicity Driver"
+      },
+      {
+        "source": "Sensationalist News Anchor",
+        "target": "Professor Gopal Nadkarni",
+        "description": "Public Inquisitor/Media Hostile"
+      },
+      {
+        "source": "Ambitious Political Activist",
+        "target": "Vicky",
+        "description": "Opportunistic Ally/Political Exploiter"
+      },
+      {
+        "source": "Ambitious Political Activist",
+        "target": "Professor Gopal Nadkarni",
+        "description": "Political Opponent/Institutional Critic"
+      }
+    ],
+    "seo": {
+      "slug": "aakhri-sawal",
+      "jsonLd": {
+        "name": "Aakhri Sawal",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Vicky",
+            "@type": "Person"
+          },
+          {
+            "name": "Professor Gopal Nadkarni",
+            "@type": "Person"
+          }
+        ],
+        "description": "Vicky, a brilliant but volatile scholar, ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised intellectual trial watched by millions."
+      },
+      "keywords": [
+        "Aakhri Sawal",
+        "Aakhri Sawal movie",
+        "Aakhri Sawal film plot",
+        "Vicky Gopal Nadkarni drama",
+        "intellectual trial movie",
+        "Indian drama film"
+      ],
+      "canonical": "[https://movnix.com/movie/aakhri-sawal](https://movnix.com/movie/aakhri-sawal)",
+      "metaTitle": "Aakhri Sawal - Official Movie Overview & Plot Details",
+      "openGraph": {
+        "og:title": "Aakhri Sawal - A Scandal Turned Televised Trial",
+        "og:description": "When scholar Vicky accuses his mentor Professor Gopal Nadkarni of bias, a media circus turns a private dispute into a national trial."
+      },
+      "twitterCard": {
+        "twitter:title": "Aakhri Sawal - Official Movie Overview",
+        "twitter:description": "A private academic dispute becomes a sensationalist news trial watched by millions. Read the plot of Aakhri Sawal."
+      },
+      "metaDescription": "A scholar's dispute with his mentor turns into a televised trial watched by millions. Discover the plot and themes of the drama movie Aakhri Sawal."
+    },
+    "faq": [
+      {
+        "answer": "Aakhri Sawal is primarily an intellectual drama and social thriller centered around academic politics, ethics, and media sensationalism.",
+        "question": "What is the dominant genre of Aakhri Sawal?"
+      },
+      {
+        "answer": "The story follows Vicky, a brilliant scholar who accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias, leading to a high-stakes televised confrontation manipulated by media and political figures.",
+        "question": "What is the main plot of Aakhri Sawal?"
+      },
+      {
+        "answer": "While it draws inspiration from real-world debates surrounding institutional bias and media trials, Aakhri Sawal is a fictional story.",
+        "question": "Is Aakhri Sawal based on a true story?"
+      },
+      {
+        "answer": "No, Aakhri Sawal is a standalone story and is not part of any cinematic universe or franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit or mid-credit scene. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in Aakhri Sawal?"
+      },
+      {
+        "answer": "The central dispute involves Vicky, the volatile scholar making the accusation, and Professor Gopal Nadkarni, his respected academic mentor.",
+        "question": "Who are the primary characters in the conflict?"
+      },
+      {
+        "answer": "A sensationalist news anchor hijacks the private academic dispute to host a televised intellectual trial, turning it into a national public spectacle for ratings.",
+        "question": "What role does the media play in the story?"
+      },
+      {
+        "answer": "The film explores themes of institutional bias, mentor-protege dynamics, media manipulation, political opportunism, and the quest for truth versus public perception.",
+        "question": "What key themes does Aakhri Sawal explore?"
+      },
+      {
+        "answer": "It is suited for audiences who enjoy thought-provoking dramas, legal/intellectual debates, dynamic character studies, and social critiques of modern news media.",
+        "question": "Who is the target audience for this film?"
+      },
+      {
+        "answer": "The title, which translates to 'The Final Question,' refers to the pivotal question raised during the televised debate that determines the truth behind the accusations.",
+        "question": "Where does the title Aakhri Sawal come from?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening themes depicted."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild potential for argumentative or sensationalized speech given the public and media trial setting."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No physical violence described in the overview; the conflict is entirely intellectual, academic, and media-driven."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No reference to substance use, drug abuse, alcohol, or smoking."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romance mentioned."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity surrounding public public scrutiny, political involvement, character defamation, and high-stakes media trials."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 3,
+      "suspense": 8,
+      "violence": 2
+    },
+    "created_at": "2026-08-20 01:04:59.52739",
+    "updated_at": "2026-08-20 01:04:59.52739"
+  }
 }

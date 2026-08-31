@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.1195,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 1.137,
+    "voteAverage": 2,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1741207",
     "posterPath": "/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg",
     "backdropPath": "/mc6TNaoIWxtxFQA6ogFQee9V1qK.jpg",
@@ -21,12 +21,12 @@
   "collection": null,
   "genres": [
     {
-      "tmdbId": 53,
-      "name": "Thriller"
+      "tmdbId": 27,
+      "name": "Horror"
     },
     {
-      "tmdbId": 18,
-      "name": "Drama"
+      "tmdbId": 53,
+      "name": "Thriller"
     },
     {
       "tmdbId": 1,
@@ -74,6 +74,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
