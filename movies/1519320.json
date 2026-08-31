@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.9104,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 3.3985,
+    "voteAverage": 8.667,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1519320",
     "posterPath": "/y0GWktbAm0KZolM1Yv3H1crDWIw.jpg",
     "backdropPath": "/7dF74RO4IOlZ45Ml1lx1jGzc5iG.jpg",
@@ -34,7 +34,15 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "AEW All In: London - The Buy In",
+      "key": "R1Aq466zfG4",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Featurette"
+    }
+  ],
   "images": [
     {
       "filePath": "/y0GWktbAm0KZolM1Yv3H1crDWIw.jpg",
@@ -192,6 +200,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8.667,
+      "votesCount": 3
+    },
     {
       "source": "crawled",
       "ratingValue": 7,

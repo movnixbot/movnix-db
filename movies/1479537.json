@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.7478,
-    "voteAverage": 8,
-    "voteCount": 1,
+    "popularity": 3.7389,
+    "voteAverage": 7.7,
+    "voteCount": 3,
     "homepage": "https://www.badcounselors.com/",
     "posterPath": "/raWg26WVDQeqbTizRjdgJpCHssd.jpg",
     "backdropPath": "/xuihdxr0dqf3PxPQHXDH02Tok4I.jpg",
@@ -254,8 +254,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8,
-      "votesCount": 1
+      "ratingValue": 7.7,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -481,7 +481,23 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "RU",
+      "title": "Плохие вожатые",
+      "type": "неофициальное"
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Плохие воспитатели",
+      "type": "неофициальное"
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "Плохие советчики",
+      "type": "неофициальное"
+    }
+  ],
   "externalIds": {
     "imdbId": "tt6633934",
     "wikidataId": "Q140461397",
@@ -495,7 +511,12 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Angel Studios",
+          "logo": "/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
+        }
+      ],
       "buy": []
     }
   },

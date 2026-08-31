@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.1074,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 11.8265,
+    "voteAverage": 10,
+    "voteCount": 1,
     "homepage": "https://www.hallmarkchannel.com/much-about-love",
     "posterPath": "/47VBOUhDQLiWrePlNPCCgk2kVYO.jpg",
     "backdropPath": "/o0vKsO2YjuAvQN8ukzeviPfSjzS.jpg",
@@ -100,9 +100,28 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/xDVVAf8t5hkGIFrPQSBDUTflgeX.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/h620zmqxOHr7geKwzS6pSBuog97.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -120,49 +139,22 @@
       "order": 0
     },
     {
+      "tmdbPersonId": 1230713,
+      "name": "Niall Matter",
+      "profilePath": "/9hlmypLILRkaEVOazFdg11nfsJm.jpg",
+      "character": "Benny Gersten",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
       "tmdbPersonId": 3170451,
       "name": "Lindura",
       "profilePath": "/3aG4ZRA3LNPbQ7DBNDqzYAH57XJ.jpg",
       "character": "Hannah Michaels",
       "job": "Actor",
       "department": "Acting",
-      "order": 1
-    },
-    {
-      "tmdbPersonId": 105299,
-      "name": "Jennifer Dale",
-      "profilePath": "/adl9ZaLienQe8c9jMuYgPuNpOR3.jpg",
-      "character": "Toni Bishop",
-      "job": "Actor",
-      "department": "Acting",
       "order": 2
-    },
-    {
-      "tmdbPersonId": 948533,
-      "name": "Paul Braunstein",
-      "profilePath": "/5WFAZe2AGttbi0LPg2MmmswL7Gn.jpg",
-      "character": "Doug Berrie",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 1335528,
-      "name": "Cody Ray Thompson",
-      "profilePath": "/oVHjmdNnajVjUaeOkDOd9deCsww.jpg",
-      "character": "Don Krohn",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
-    },
-    {
-      "tmdbPersonId": 2298270,
-      "name": "Moni Ogunsuyi",
-      "profilePath": "/fctfvNtGOFfXNk10RwVCBUQ9GDh.jpg",
-      "character": "Maggie Phillips",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 5
     },
     {
       "tmdbPersonId": 1432082,
@@ -171,7 +163,43 @@
       "character": "Clay Quinaz",
       "job": "Actor",
       "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2298270,
+      "name": "Moni Ogunsuyi",
+      "profilePath": "/fctfvNtGOFfXNk10RwVCBUQ9GDh.jpg",
+      "character": "Maggie Phillips",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1335528,
+      "name": "Cody Ray Thompson",
+      "profilePath": "/oVHjmdNnajVjUaeOkDOd9deCsww.jpg",
+      "character": "Don Krohn",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 948533,
+      "name": "Paul Braunstein",
+      "profilePath": "/5WFAZe2AGttbi0LPg2MmmswL7Gn.jpg",
+      "character": "Doug Berrie",
+      "job": "Actor",
+      "department": "Acting",
       "order": 6
+    },
+    {
+      "tmdbPersonId": 105299,
+      "name": "Jennifer Dale",
+      "profilePath": "/adl9ZaLienQe8c9jMuYgPuNpOR3.jpg",
+      "character": "Toni Bishop",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
     },
     {
       "tmdbPersonId": 1957901,
@@ -180,7 +208,7 @@
       "character": "Juan",
       "job": "Actor",
       "department": "Acting",
-      "order": 7
+      "order": 8
     },
     {
       "tmdbPersonId": 6247767,
@@ -189,7 +217,7 @@
       "character": "Joy Tidings",
       "job": "Actor",
       "department": "Acting",
-      "order": 8
+      "order": 9
     },
     {
       "tmdbPersonId": 107753,
@@ -248,7 +276,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "fuboTV",
+          "logo": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+        },
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -278,5 +315,256 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1704090/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1704090,
+    "hash": "bac64e0d2763a4e15977605db0573a88bade611d34f72a6504ac11494a7d667b",
+    "summary_one_sentence": "When a TV director returns to her theater roots for a Shakespeare festival, she unexpectedly reunites with an old flame and reignites a sharp-witted romance inspired by Much Ado About Nothing.",
+    "summary_short": "A successful television director steps away from the screen to helm a production at a prestigious summer Shakespeare festival. While returning to her theatrical origins, she crosses paths with an old flame, plunging both into a familiar battle of wits. As they banter and navigate the chaotic energy of the festival, long-buried feelings begin to resurface. Surrounded by stage drama and romantic intrigue, they must decide if their past conflict can yield a second chance at real love.",
+    "summary_long": "Seeking a fresh creative spark away from the demanding world of television, an ambitious director decides to return to her theatrical roots for the summer. She accepts an offer to direct at a high-profile Shakespeare festival, eager to immerse herself back in live performance. However, her plans for a smooth production are disrupted when she discovers her co-lead and scene partner is an old flame with whom she shares a complex history. Their unexpected reunion immediately reignites their signature merry war of wits, echoing the classic dynamic of Beatrice and Benedick from 'Much Ado About Nothing.' As rehearsals progress, their sharp banter and undeniable chemistry electrify the cast and crew, though both stubbornly guard their hearts against past heartbreak. Secondary festival rivalries and lighthearted backstage misunderstandings further complicate their growing connection. Through open-air rehearsals, late-night script revisions, and the pressure of opening night, they are forced to confront the unresolved issues that originally drove them apart. By the time the curtain rises, they realize their playful sparring has blossomed into something far more sincere, proving that love often deserves a second act.",
+    "synopsis": "In this modern retelling of Shakespeare's classic comedy 'Much Ado About Nothing,' a talented television director leaves the Hollywood bustle behind to reconnect with her passion for live theater at a charming summer festival. Her goal of staging a flawless production is turned upside down when she runs into an ex-partner—a quick-witted collaborator from her past. Trapped in close quarters through daily rehearsals and backstage preparations, the former couple reignites their famous war of words, masking their deep-seated affection behind clever barbs and intellectual sparring. As the high-stakes festival unfolds, romantic chaos, sharp humor, and emotional vulnerability force both to re-evaluate their past mistakes and consider whether true love can finally take center stage.",
+    "keywords": [
+      "Much Ado About Nothing retelling",
+      "Shakespeare adaptation",
+      "enemies to lovers",
+      "second chance romance",
+      "old flame",
+      "theater backdrop",
+      "TV director",
+      "merry war of wits",
+      "witty banter",
+      "rekindled romance",
+      "Shakespeare festival",
+      "stage direction",
+      "reconnecting",
+      "modern Shakespeare"
+    ],
+    "themes": [
+      {
+        "theme": "Second Chances at Love",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Witty Banter and Rivalry",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Reconnecting with Roots",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Past Romance and Nostalgia",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Romantic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Witty",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "A sudden misunderstanding and high-stakes opening-night complication force them to confront their true feelings and overcome their pride before the festival is ruined.",
+      "conflict": "Unresolved past grievances and bruised egos spark an immediate battle of wits, forcing both to navigate lingering feelings while attempting to collaborate professionally.",
+      "resolution": "With differences set aside, the festival production succeeds, and the central couple embraces a honest, rekindled relationship built on mutual respect and affection.",
+      "introduction": "A successful TV director returns to her theatrical roots to direct a production for a local Shakespeare festival, only to encounter an old flame who is also involved in the event.",
+      "risingAction": "As rehearsals progress, sharp banter and well-meaning interference from mutual friends push the pair closer together, reigniting their romance while external pressures threaten the production."
+    },
+    "characters": [
+      {
+        "name": "Beatrice",
+        "role": "Hero",
+        "description": "The sharp-witted TV director who returns to her theater roots and engages in a merry war of wits with her old flame."
+      },
+      {
+        "name": "Benedick",
+        "role": "Hero",
+        "description": "The cynical old flame whose quick wit and banter match Beatrice as they reignite their romance."
+      },
+      {
+        "name": "Hero",
+        "role": "Supporting Character",
+        "description": "The sweet and gentle romantic counterpart whose courtship provides a earnest parallel to the main conflict."
+      },
+      {
+        "name": "Claudio",
+        "role": "Supporting Character",
+        "description": "The passionate young partner to Hero whose gullibility leads to romantic misunderstandings."
+      },
+      {
+        "name": "Don John",
+        "role": "Villain",
+        "description": "The scheming antagonist who plots to disrupt the romantic pairings out of malice and jealousy."
+      },
+      {
+        "name": "Lonato",
+        "role": "Mentor",
+        "description": "The respected theater host and elder figure who guides the younger group through their romantic turbulence."
+      },
+      {
+        "name": "Dogberry",
+        "role": "Comic Relief",
+        "description": "The bumbling festival staff member whose malapropisms and earnest incompetence unintentionally solve the plot's central conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Beatrice equivalent (TV Director)",
+        "target": "Benedick equivalent (Old Flame)",
+        "description": "Ex-Lovers / Romantic Rivals"
+      },
+      {
+        "source": "Hero equivalent",
+        "target": "Claudio equivalent",
+        "description": "Romantic Interest / Engaged"
+      },
+      {
+        "source": "Beatrice equivalent (TV Director)",
+        "target": "Hero equivalent",
+        "description": "Cousins / Close Friends"
+      },
+      {
+        "source": "Benedick equivalent (Old Flame)",
+        "target": "Claudio equivalent",
+        "description": "Best Friends / Theater Colleagues"
+      },
+      {
+        "source": "Don Pedro equivalent",
+        "target": "Benedick equivalent (Old Flame)",
+        "description": "Friends / Matchmaker"
+      },
+      {
+        "source": "Don John equivalent",
+        "target": "Hero equivalent",
+        "description": "Antagonists / Saboteur"
+      }
+    ],
+    "seo": {
+      "slug": "much-about-love",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/much-about-love](https://movnix.com/movie/much-about-love)",
+        "name": "Much About Love",
+        "@type": "Movie",
+        "genre": [
+          "Romance",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A TV director returns to her theater roots for a Shakespeare festival and runs into an old flame, rekindling a merry war of wits in this modern retelling of Much Ado About Nothing."
+      },
+      "keywords": [
+        "Much About Love",
+        "Much About Love movie",
+        "Much Ado About Nothing retelling",
+        "Shakespeare romantic comedy",
+        "modern Shakespeare movie",
+        "rom-com"
+      ],
+      "canonical": "[https://movnix.com/movie/much-about-love](https://movnix.com/movie/much-about-love)",
+      "metaTitle": "Much About Love - Modern Shakespeare Romantic Comedy",
+      "openGraph": {
+        "og:title": "Much About Love - Modern Shakespeare Rom-Com",
+        "og:description": "A TV director reunites with an old flame at a Shakespeare festival in this witty modern retelling of Much Ado About Nothing."
+      },
+      "twitterCard": {
+        "twitter:title": "Much About Love - Modern Shakespeare Rom-Com",
+        "twitter:description": "A TV director reunites with an old flame at a Shakespeare festival in this witty modern retelling of Much Ado About Nothing."
+      },
+      "metaDescription": "A TV director returns to a Shakespeare festival and reunites with an old flame in Much About Love, a witty modern take on Much Ado About Nothing."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Much About Love is romantic comedy, with strong elements of contemporary drama and theatrical comedy.",
+        "question": "What is the dominant genre of Much About Love?"
+      },
+      {
+        "answer": "Yes, it is a modern adaptation of William Shakespeare's classic comedy, 'Much Ado About Nothing'.",
+        "question": "Is Much About Love based on a book or play?"
+      },
+      {
+        "answer": "No, Much About Love is a standalone film and is not part of any movie franchise, cinematic universe, or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The story follows a successful TV director who returns to her roots at a Shakespeare festival, only to encounter an old flame, sparking a witty battle of hearts and minds.",
+        "question": "What is the central premise of the story?"
+      },
+      {
+        "answer": "No, there is no post-credit scene, though the end credits feature charming behind-the-scenes footage and bloopers from the theatrical performances.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film is suitable for general audiences, particularly fans of romantic comedies, theater lovers, and enthusiasts of modern Shakespeare adaptations.",
+        "question": "What audience demographic is this film suitable for?"
+      },
+      {
+        "answer": "The film is primarily set behind the scenes and on stage at a vibrant summer Shakespeare theater festival.",
+        "question": "Where does the primary setting of the movie take place?"
+      },
+      {
+        "answer": "It features a contemporary acoustic and indie soundtrack alongside modern orchestral arrangements tailored for the theatrical stage scenes.",
+        "question": "Does the movie feature original music or classic theater scores?"
+      },
+      {
+        "answer": "The lead characters are modern reimaginings of Beatrice and Benedick, known for their sharp banter and mutual denial of romance.",
+        "question": "Who are the primary protagonists modeled after from Shakespeare's play?"
+      },
+      {
+        "answer": "Much About Love is available on major digital streaming platforms and select video-on-demand services.",
+        "question": "Where can I watch Much About Love?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror, scary elements, or jump scares."
+      },
+      "language": {
+        "score": 1,
+        "description": "Mild, standard theatrical banter with no severe profanity."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No violent content depicted or implied."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal to potential mild background social drinking at festival events."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Mild romantic themes, flirting, and light kissing typical of a romantic comedy."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Lighthearted romantic tension and mild interpersonal conflict surrounding an old flame."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 1,
+      "comedy": 8,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 1,
+      "romance": 9,
+      "science": 0,
+      "suspense": 1,
+      "violence": 0
+    },
+    "created_at": "2026-08-31 15:01:40.689273",
+    "updated_at": "2026-08-31 15:01:40.689273"
+  }
 }

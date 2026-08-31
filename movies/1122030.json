@@ -8,11 +8,11 @@
     "releaseDate": "2026-07-02",
     "runtime": 141,
     "budget": "10500000",
-    "revenue": "6675000",
+    "revenue": "1856084",
     "status": "Released",
-    "popularity": 27.2492,
-    "voteAverage": 5.417,
-    "voteCount": 13,
+    "popularity": 35.6669,
+    "voteAverage": 5.4,
+    "voteCount": 14,
     "homepage": "https://www.yashrajfilms.com/movies/alpha",
     "posterPath": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
     "backdropPath": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
@@ -45,7 +45,7 @@
   "keywords": [],
   "videos": [
     {
-      "name": "ALPHA Official Trailer | Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol | Shiv Rawail | Netflix India",
+      "name": "Official Trailer [ENG SUB]",
       "key": "YP1uSAggr6Y",
       "site": "YouTube",
       "size": 2160,
@@ -194,13 +194,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/7BZfcruJSMM4FCzljbdfxjFSDLF.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
       "width": 2178,
       "height": 1225,
@@ -211,6 +204,20 @@
       "filePath": "/g6yzmw7POfL1kJxIwOpNLOljtCI.jpg",
       "width": 3072,
       "height": 1728,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/alZ8ytR0zGpYqVumBCDYLFmcjzA.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7BZfcruJSMM4FCzljbdfxjFSDLF.jpg",
+      "width": 3840,
+      "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -278,13 +285,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/alZ8ytR0zGpYqVumBCDYLFmcjzA.jpg",
-      "width": 1920,
-      "height": 1080,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/cWtUUTuDCrhqoHzEKRSA02ivjpC.jpg",
       "width": 3840,
       "height": 2160,
@@ -295,8 +295,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.417,
-      "votesCount": 13
+      "ratingValue": 5.4,
+      "votesCount": 14
     },
     {
       "source": "rotten_tomatoes",
@@ -508,7 +508,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
