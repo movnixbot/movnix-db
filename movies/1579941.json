@@ -260,5 +260,235 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1579941/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1579941,
+    "hash": "1753e11d8a2a648f02e81f77a66880503469da80911f06da8ecf1f55cb350fa4",
+    "summary_one_sentence": "A frustrated middle school theater teacher plots to sabotage his rival principal's academic award after discovering his ex-girlfriend is dating him.",
+    "summary_short": "Struggling with professional disappointment and personal heartbreak, a middle school theater teacher learns that his ex-girlfriend is now dating the school's principal—who also happens to be his long-time nemesis. Driven by jealousy, he devises a plan to ruin the principal's prime objective: securing the prestigious Blue Ribbon of Academic Excellence. As he attempts to disrupt the school's high-stakes evaluation, his revenge scheme threatens to derail the school's reputation and his own career.",
+    "summary_long": "A middle school theater teacher and aspiring playwright finds himself stuck in a rut both professionally and personally. His life takes a sharp turn for the worse when he discovers that his ex-girlfriend has moved on and is now dating his personal nemesis, the school's overly ambitious principal. To make matters worse, the principal is on the brink of capturing the coveted Blue Ribbon of Academic Excellence, an achievement that would elevate his career to new heights. Fuelled by bitterness and a desire for payback, the teacher decides to use his theatrical skills to covertly sabotage the principal's efforts. He orchestrates a series of chaotic disruptions disguised as creative school initiatives, aimed directly at ruining the school's evaluation process. Along the way, he must navigate the antics of his middle school students, the suspicions of fellow staff members, and his own lingering feelings for his ex. As the pressure mounts and the Blue Ribbon inspection date arrives, his schemes escalate into comedic chaos. Ultimately, the teacher is forced to confront whether his quest for revenge is worth destroying the school's success and damaging the lives of the people around him.",
+    "synopsis": "Set in a suburban middle school, 'The Musical' follows a frustrated theater teacher and passionate playwright who is hit with a double blow: his artistic ambitions are stalled, and his ex-girlfriend has begun dating the school's ruthless principal. Driven by a deep-seated rivalrous grudge, the teacher embarks on a mission to derail the principal's prized campaign for the Blue Ribbon of Academic Excellence. Mixing comedy and emotional drama, the story explores themes of jealousy, heartbreak, and redemption as one man's petty vendetta collides with the chaotic world of school theater.",
+    "keywords": [
+      "frustrated playwright",
+      "middle school teacher",
+      "petty revenge",
+      "romantic rivalry",
+      "ex-girlfriend",
+      "school principal",
+      "academic feud",
+      "sabotage plot",
+      "theater culture",
+      "jealous ex",
+      "blue ribbon award",
+      "workplace comedy",
+      "teacher protagonist",
+      "small-town drama",
+      "misguided scheme"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Jealousy & Envy",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Rivalry",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Obsession",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Ambition & Sabotage",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Petty",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Satirical",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The sabotage plot reaches its peak during a major school event, forcing a high-stakes confrontation where the teacher's actions and the school's reputation hang in the balance.",
+      "conflict": "He discovers that his ex-girlfriend is dating his professional rival and superior, the school's ambitious principal.",
+      "resolution": "The fallout from the event forces the characters to face the truth about their relationships, personal ambitions, and professional priorities.",
+      "introduction": "A frustrated playwright working as a middle school theater teacher struggles with career disappointment while navigating the everyday routines of school life.",
+      "risingAction": "Driven by jealousy and resentment, the teacher devises a scheme to sabotage the principal's prized project: securing the prestigious Blue Ribbon of Academic Excellence."
+    },
+    "characters": [
+      {
+        "name": "Frustrated Playwright/Teacher (Will Brill)",
+        "role": "Anti Hero",
+        "description": "The protagonist who drives the plot through a petty revenge scheme to sabotage the principal out of jealousy."
+      },
+      {
+        "name": "School Principal (Rob Lowe)",
+        "role": "Villain",
+        "description": "The protagonist's nemesis and rival for the ex-girlfriend's affection, focused on winning the Blue Ribbon award."
+      },
+      {
+        "name": "Ex-Girlfriend (Gillian Jacobs)",
+        "role": "Supporting Character",
+        "description": "The central love interest whose new relationship sparks the main conflict of the story."
+      },
+      {
+        "name": "Theater Student / Co-Conspirator (Nevada Jose)",
+        "role": "Comic Relief",
+        "description": "A quirky middle school theater student who assists in the sabotage while adding humor to the production."
+      },
+      {
+        "name": "Veteran Teacher (Melanie Herrera)",
+        "role": "Mentor",
+        "description": "A grounded colleague who tries to guide the protagonist toward more constructive choices."
+      },
+      {
+        "name": "School Administrator / Student (Chyler Emery Stern)",
+        "role": "Supporting Character",
+        "description": "An involved member of the school community who gets caught in the crossfire of the principal's campaign."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Middle School Theater Teacher",
+        "target": "Ex-Girlfriend",
+        "description": "Ex-Partners"
+      },
+      {
+        "source": "Middle School Theater Teacher",
+        "target": "School Principal",
+        "description": "Rivals / Nemeses"
+      },
+      {
+        "source": "Ex-Girlfriend",
+        "target": "School Principal",
+        "description": "Romantic Partners"
+      }
+    ],
+    "seo": {
+      "slug": "the-musical",
+      "jsonLd": {
+        "name": "The Musical",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "When a frustrated playwright/middle school theater teacher finds out his ex-girlfriend has started dating his nemesis, the school's principal, he decides to ruin the principal's chances of winning the Blue Ribbon of Academic Excellence."
+      },
+      "keywords": [
+        "The Musical",
+        "The Musical movie",
+        "The Musical synopsis",
+        "comedy movie",
+        "theater comedy film"
+      ],
+      "canonical": "[https://movnix.com/movie/the-musical](https://movnix.com/movie/the-musical)",
+      "metaTitle": "The Musical - Movie Synopsis, Cast & Details",
+      "openGraph": {
+        "og:title": "The Musical - Movie Overview",
+        "og:description": "A frustrated theater teacher schemes to sabotage his principal nemesis in this comedy. Read more about The Musical."
+      },
+      "twitterCard": {
+        "twitter:title": "The Musical - Movie Details",
+        "twitter:description": "A frustrated theater teacher schemes to sabotage his principal nemesis in this comedy. Read more about The Musical."
+      },
+      "metaDescription": "A frustrated theater teacher plots to ruin his nemesis's shot at a prestigious school award after his ex starts dating him. Read the full synopsis of The Musical."
+    },
+    "faq": [
+      {
+        "answer": "The main genre of the movie is comedy, focusing on middle school faculty drama and musical theater satire.",
+        "question": "What is the dominant genre of The Musical?"
+      },
+      {
+        "answer": "No, The Musical is a standalone original film and is not part of an existing franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no additional post-credit or mid-credit scenes following the main end credits.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main protagonist is a frustrated playwright who works as a middle school theater teacher.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The plot is driven by the theater teacher's plot to sabotage the principal's attempt to win the Blue Ribbon of Academic Excellence after learning the principal is dating his ex-girlfriend.",
+        "question": "What drives the plot of the film?"
+      },
+      {
+        "answer": "The school's principal acts as the primary antagonist and romantic rival to the main character.",
+        "question": "Who serves as the primary antagonist?"
+      },
+      {
+        "answer": "While set in a middle school environment, the film is primarily aimed at general audiences who enjoy situational adult workplace and relationship comedies.",
+        "question": "Is the film suitable for families?"
+      },
+      {
+        "answer": "The story primarily takes place within a middle school and its theater department.",
+        "question": "What is the central setting of the movie?"
+      },
+      {
+        "answer": "Yes, given the theater setting and premise, the film features original comedic musical numbers produced by the main character.",
+        "question": "Are there original musical performances in the film?"
+      },
+      {
+        "answer": "It is a prestigious educational award that the principal is striving to achieve for the school, which becomes the main target of the protagonist's sabotage.",
+        "question": "What is the Blue Ribbon of Academic Excellence mentioned in the story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening themes present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential for mild profanity or sarcastic comedic dialogue standard for middle school/faculty settings."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence; centers on petty revenge, sabotage, and comedic conflict."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Little to no substance use; possible casual adult alcohol consumption in a comedy context."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No graphic sexual content; limited to mild romantic themes involving an ex-partner."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild comedic tension involving personal rivalries, jealousy, and academic sabotage."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 2,
+      "comedy": 9,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 1,
+      "romance": 5,
+      "science": 0,
+      "suspense": 3,
+      "violence": 1
+    },
+    "created_at": "2026-08-31 19:03:23.654036",
+    "updated_at": "2026-08-31 19:03:23.654036"
+  }
 }
