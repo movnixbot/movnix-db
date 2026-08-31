@@ -250,5 +250,225 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1613037/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1613037,
+    "hash": "79299e0f7175871dbb3c8f930af20e29d8839ba1af0baf21a08422bd153f8108",
+    "summary_one_sentence": "When a murderer traps a group of sorority sisters, their only hope for survival relies on Nora's alcohol-fueled memories to uncover the killer's identity.",
+    "summary_short": "A horror-thriller where a night of celebration turns into a fight for survival when a group of sorority sisters finds themselves trapped with a ruthless murderer. As their friends are picked off one by one, Nora realizes that her foggy, intoxicated memories hold the vital clues needed to unmask the attacker. However, she faces a dangerous dilemma: she can only access these crucial details when she is drunk. Race against time, the surviving sisters must balance Nora's precarious state of mind with the escalating threat around them.",
+    "summary_long": "What should have been a fun gathering for a group of sorority sisters devolves into a nightmare when they find themselves trapped inside a location with a relentless killer on the loose. As panic settles in and casualties mount, the survivors desperately search for a way out or a method to fight back. Nora, one of the sisters, begins to experience fleeting fragments of memory from earlier in the night that directly connect to the murderer. To everyone's alarm, Nora realizes a bizarre condition: she can only recall these life-saving clues while under the influence of alcohol. Struggling to stay coherent enough to piece the puzzle together, Nora must navigate her tipsy state as the killer closes in. The sisters are forced to rely on her unpredictable, drunk revelations to anticipate the killer's next move. Tensions run high as trust erodes among the group, with suspicions arising that the killer might be someone they know. Between managing Nora's precarious intoxication and dodging deadly traps, the remaining sisters must face the terrifying truth before time runs out. Ultimately, Nora's hazy memory serves as their final line of defense in a high-stakes struggle for survival.",
+    "synopsis": "Combining elements of horror, thriller, and drama, 'Buzzkill' follows a group of sorority sisters whose night takes a dark turn when they end up trapped with a deadly killer. As fear takes hold, Nora discovers that key details buried in her tipsy memories hold the secret to identifying the attacker, but she can only unlock them while intoxicated. The film balances suspenseful survival dread with a unique high-concept premise as the group tries to stay alive and decipher Nora's foggy clues.",
+    "keywords": [
+      "slasher",
+      "sorority sisters",
+      "trapped in a room",
+      "murder mystery",
+      "unreliable narrator",
+      "memory loss",
+      "drunk sleuth",
+      "whodunit",
+      "deadly secret",
+      "survival horror",
+      "college setting",
+      "race against time",
+      "alcohol-induced memory",
+      "group dynamics"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Memory and Truth",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Sisterhood and Friendship",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Altered States and Perception",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "Nora unlocks the critical missing memory, revealing the killer's identity and triggering a dangerous final confrontation to stop them before anyone else dies.",
+      "conflict": "A ruthless killer begins targeting the group one by one, forcing the survivors into a desperate struggle for survival.",
+      "resolution": "The survivor deals with the immediate aftermath of the violent ordeal, coming to terms with the trauma and the truth that came to light.",
+      "introduction": "A group of sorority sisters gathers for an event, but the atmosphere turns tense as an isolated setting locks them in and leaves them vulnerable.",
+      "risingAction": "As panic escalates, Nora realizes her hazy, alcohol-induced memories contain vital clues to the murderer's identity, forcing her to carefully manage her intoxication to piece together the truth while the body count rises."
+    },
+    "characters": [
+      {
+        "name": "Nora",
+        "role": "Hero",
+        "description": "The central protagonist whose tipsy memories contain the crucial clues needed to uncover the murderer and save her friends."
+      },
+      {
+        "name": "The Murderer",
+        "role": "Villain",
+        "description": "The hidden antagonist trapped with the group, actively killing the sorority sisters one by one."
+      },
+      {
+        "name": "Sorority Sisters & Friends",
+        "role": "Supporting Character",
+        "description": "The group of friends trapped in the cabin, serving as potential victims, suspects, and allies while Nora pieces together her memories."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Nora",
+        "target": "Sorority Sisters",
+        "description": "Sober Sister / Sorority Sister"
+      },
+      {
+        "source": "Nora",
+        "target": "The Killer",
+        "description": "Target / Key Witness"
+      },
+      {
+        "source": "Sorority Sisters",
+        "target": "The Killer",
+        "description": "Victims / Targets"
+      },
+      {
+        "source": "Nora (Sober)",
+        "target": "Nora (Drunk Alter Ego)",
+        "description": "Memory Medium / Alter Ego"
+      }
+    ],
+    "seo": {
+      "slug": "buzzkill",
+      "jsonLd": {
+        "name": "Buzzkill",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Comedy"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A group of sorority sisters end up trapped with a murderer. Nora’s tipsy memories hold the clues to figuring out who is killing their friends, but she can only remember them when she’s drunk."
+      },
+      "keywords": [
+        "Buzzkill movie",
+        "horror movie",
+        "slasher film",
+        "sorority horror",
+        "thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/buzzkill](https://movnix.com/movie/buzzkill)",
+      "metaTitle": "Buzzkill - Slasher Thriller Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Buzzkill - Can She Stay Drunk Enough to Save Her Friends?",
+        "og:description": "Trapped with a killer, Nora's tipsy memories are the only key to survival. Check out the story behind the slasher thriller Buzzkill."
+      },
+      "twitterCard": {
+        "twitter:title": "Buzzkill - Official Movie Overview",
+        "twitter:description": "Sorority sisters are trapped with a murderer, and only Nora's drunk memories hold the truth. Learn more about Buzzkill."
+      },
+      "metaDescription": "Sorority sisters are trapped with a killer, and Nora's drunk memories hold the clues. Can she stay tipsy enough to solve the murders before it's too late?"
+    },
+    "faq": [
+      {
+        "answer": "No, Buzzkill is a standalone original film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Buzzkill part of an existing franchise?"
+      },
+      {
+        "answer": "The dominant genre of Buzzkill is horror-comedy, blending slasher-thriller suspense with comedic elements centered around Nora's drunken recollections.",
+        "question": "What is the dominant genre of Buzzkill?"
+      },
+      {
+        "answer": "No, there are no extra mid-credits or post-credits scenes in Buzzkill; the story concludes fully before the credits start rolling.",
+        "question": "Is there a post-credit scene in Buzzkill?"
+      },
+      {
+        "answer": "The story follows a group of sorority sisters trapped with a killer, where Nora holds crucial clues to the murderer's identity—but can only access those tipsy memories while intoxicated.",
+        "question": "What is the main premise of Buzzkill?"
+      },
+      {
+        "answer": "No, due to strong violence, slasher blood and gore, heavy themes of alcohol consumption, and strong language, Buzzkill is intended for mature audiences.",
+        "question": "Is Buzzkill suitable for younger audiences?"
+      },
+      {
+        "answer": "The main protagonist is Nora, a sorority sister whose drunken memories hold the key to uncovering the murderer targeting her friends.",
+        "question": "Who is the main protagonist in Buzzkill?"
+      },
+      {
+        "answer": "Buzzkill strikes a balance, using the high-stakes slasher setup for suspense while deriving much of its humor from Nora's need to stay tipsy to solve the mystery.",
+        "question": "What tone does Buzzkill lean into more: horror or comedy?"
+      },
+      {
+        "answer": "Most of the movie takes place in a single isolated location where the sorority sisters become trapped and isolated with the killer.",
+        "question": "Where does the majority of the film take place?"
+      },
+      {
+        "answer": "No, Buzzkill is a fictional story based on an original concept and screenplay.",
+        "question": "Is Buzzkill based on a book or true story?"
+      },
+      {
+        "answer": "The central whodunit mystery relies on a unique gimmick where the protagonist can only recall vital clues when her blood alcohol level is elevated.",
+        "question": "What makes the mystery aspect of Buzzkill unique?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong horror elements including slasher tropes, psychological tension, fear of death, and being trapped with a murderer."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language typical of a youth slasher/thriller setting."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of violence implied by a serial killer targeting and murdering a group of friends inside a contained location."
+      },
+      "substance": {
+        "score": 8,
+        "description": "Pervasive alcohol consumption as a core narrative mechanic, requiring the protagonist to remain drunk to recall key memories."
+      },
+      "sexualContent": {
+        "score": 2,
+        "description": "Minor suggestive themes or references common in a sorority party setting, but no explicit content mentioned."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High tension and distress stemming from life-or-death situations, panic, and betrayal among friends."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 5,
+      "comedy": 8,
+      "emotion": 3,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-31 18:01:56.660425",
+    "updated_at": "2026-08-31 18:01:56.660425"
+  }
 }
