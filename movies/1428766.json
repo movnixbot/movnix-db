@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.3147,
-    "voteAverage": 6,
-    "voteCount": 1,
+    "popularity": 7.856,
+    "voteAverage": 6.5,
+    "voteCount": 6,
     "homepage": "https://sanctuarypictures.com.au/penny-lane-is-dead/",
     "posterPath": "/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg",
     "backdropPath": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
@@ -28,6 +28,10 @@
     {
       "tmdbId": 53,
       "name": "Thriller"
+    },
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
     },
     {
       "tmdbId": 1,
@@ -144,8 +148,13 @@
   "ratings": [
     {
       "source": "tmdb",
+      "ratingValue": 6.5,
+      "votesCount": 6
+    },
+    {
+      "source": "imdb",
       "ratingValue": 6,
-      "votesCount": 1
+      "votesCount": 136
     },
     {
       "source": "crawled",
@@ -297,8 +306,28 @@
     "us": {
       "flatrate": [
         {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
+        {
+          "name": "AMC Plus Apple TV channel",
+          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+        },
+        {
+          "name": "AMC+ Amazon Channel",
+          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+        },
+        {
           "name": "AMC+ Roku Premium Channel",
           "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+        },
+        {
+          "name": "AMC+",
+          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+        },
+        {
+          "name": "Shudder",
+          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
         }
       ],
       "buy": []
