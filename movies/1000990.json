@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.7416,
-    "voteAverage": 6,
-    "voteCount": 11,
+    "popularity": 2.7276,
+    "voteAverage": 5.667,
+    "voteCount": 12,
     "homepage": "https://mock-movie-website.com/movies/1000990",
     "posterPath": "/2jWVQPOHvMfnOokoougM4blUlYk.jpg",
     "backdropPath": "/iR3kcb9uXP9HmBa4CidYx2BUFru.jpg",
@@ -222,8 +222,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 11
+      "ratingValue": 5.667,
+      "votesCount": 12
     },
     {
       "source": "crawled",
@@ -363,6 +363,15 @@
       "name": "David Roux",
       "profilePath": "/473HnGXJtup6o92OsfJaQ7DzpTZ.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2125006,
+      "name": "David Roux",
+      "profilePath": "/473HnGXJtup6o92OsfJaQ7DzpTZ.jpg",
+      "character": null,
       "job": "Screenplay",
       "department": "Writing",
       "order": null
@@ -374,15 +383,6 @@
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2125006,
-      "name": "David Roux",
-      "profilePath": "/473HnGXJtup6o92OsfJaQ7DzpTZ.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
       "order": null
     },
     {
@@ -404,7 +404,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "Mrs.",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt37526897",
     "wikidataId": "Q138835378",
