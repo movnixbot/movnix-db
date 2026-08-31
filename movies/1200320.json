@@ -875,5 +875,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1200320/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1200320,
+    "hash": "ec822a7c7c62bdb9f25caf8f3f36b2f72c8c9aa46f8c86aa155b5a7f1a006c84",
+    "summary_one_sentence": "In 1859, a widowed doctor must transport a freed slave and her deadly, cursed daughter across the perilous American West to seek a remote faith healer.",
+    "summary_short": "Set during the summer of 1859, a grieving, widowed physician reluctantly embarks on a five-day trek across a violent frontier. He is tasked with escorting a recently freed slave and her enigmatic Caucasian child, who possesses a terrifying affliction: any living thing she touches instantly dies. While the mother believes her child is demonically possessed, the skeptical doctor suspects a rare medical illness, forcing them to journey together toward a distant faith healer in a desperate bid for answers.",
+    "summary_long": "Against the backdrop of the American West in 1859, a grieving widowed physician finds his rational worldview challenged when he takes on an extraordinary task. He agrees to guide a recently freed slave and her mysteriously light-skinned daughter on a dangerous five-day journey across treacherous territory. The central conflict lies in the nature of the girl's horrific curse, as every living organism that comes into physical contact with her mysteriously dies. Her desperate mother is convinced that the girl is harboring a dark, demonic possession that requires spiritual redemption. Conversely, the physician remains steadfast in his scientific beliefs, attributing the lethal phenomenon to an undiscovered physical ailment he deems 'The Sickness.' As they navigate the bloody frontier, they face external threats from ruthless outlaws and harsh wilderness alongside the constant, volatile danger posed by the child herself. The expedition becomes a psychological battleground between faith and medicine, superstition and science. Throughout their journey toward a legendary local Faith Healer, all three travelers are forced to confront their past traumas and personal grief. Ultimately, their path leads them toward an uncertain fate where the boundaries between supernatural horror and medical anomaly blur.",
+    "synopsis": "Set in the summer of 1859, 'Killing Faith' is a dark Western thriller that follows a widowed physician struggling with his own grief on the violent American frontier. His routine life is upended when he agrees to accompany a recently freed slave and her Caucasian daughter on a hazardous five-day pilgrimage toward a legendary Faith Healer in a remote town. The young girl carries a terrifying and lethal curse: any living creature she touches perishes instantly. Driven by desperation, her mother believes the affliction is a demonic possession requiring spiritual intervention, while the doctor desperately clings to his scientific background, insisting the deadly touch is the result of a rare pathogen he calls 'The Sickness.' As the trio traverses the blood-soaked landscape, they must survive both the lawless dangers of the West and the chilling peril travelling beside them. The film presents a suspenseful exploration of grief, belief, and survival, pitting cold medical rationale against deep spiritual conviction.",
+    "keywords": [
+      "1850s",
+      "deadly touch",
+      "faith healer",
+      "demonic possession",
+      "supernatural illness",
+      "reluctant doctor",
+      "freed slave",
+      "american west",
+      "period thriller",
+      "southern gothic",
+      "dangerous journey",
+      "grief and loss",
+      "mysterious child",
+      "frontier medicine"
+    ],
+    "themes": [
+      {
+        "theme": "Faith vs. Science",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Race and Freedom",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Isolation and Identity",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Mysterious",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Somber",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The group reaches the distant town and confronts the enigmatic Faith Healer, forcing a dramatic showdown where medical science, spiritual conviction, and the true nature of the girl's deadly power converge.",
+      "conflict": "A fundamental ideological clash erupts between supernatural belief and medical skepticism: the mother is convinced her daughter is possessed, while the doctor insists the child suffers from a rare affliction—all while facing the terrifying reality that any living thing the girl touches instantly dies.",
+      "resolution": "The journey concludes as the doctor, mother, and child deal with the aftermath of their encounter, forever altered by the revelation of what truly drives the girl's affliction and the personal sacrifices made along the trail.",
+      "introduction": "In the summer of 1859, a widowed physician agrees to escort a recently freed slave and her mysterious Caucasian daughter on a high-stakes, five-day journey across the dangerous Western frontier.",
+      "risingAction": "As the trio navigates the brutal landscape and external threats of the bloody West, tensions escalate within the group while the girl's lethal condition triggers increasingly dangerous encounters and tests the boundaries of the doctor's rational worldview."
+    },
+    "characters": [
+      {
+        "name": "Dr. Miller",
+        "role": "Hero",
+        "description": "A widowed, skeptical physician who reluctantly embarks on a dangerous journey to treat and protect a mysterious child."
+      },
+      {
+        "name": "Faith",
+        "role": "Other",
+        "description": "A mysterious Caucasian girl whose touch causes the death of any living thing, driving the main conflict of the story."
+      },
+      {
+        "name": "Sarah",
+        "role": "Supporting Character",
+        "description": "A recently freed slave and mother determined to bring her possessed daughter to a distant faith healer for help."
+      },
+      {
+        "name": "The Faith Healer",
+        "role": "Mentor",
+        "description": "A distant religious figure sought out by the group to cure or purge the child of her deadly curse."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Widowed Physician",
+        "target": "Freed Slave",
+        "description": "Protector / Traveling Companion"
+      },
+      {
+        "source": "Freed Slave",
+        "target": "Mysterious Daughter",
+        "description": "Mother / Daughter"
+      },
+      {
+        "source": "Widowed Physician",
+        "target": "Mysterious Daughter",
+        "description": "Skeptical Caretaker / Doctor"
+      },
+      {
+        "source": "Freed Slave",
+        "target": "Faith Healer",
+        "description": "Seeker of Aid"
+      },
+      {
+        "source": "Mysterious Daughter",
+        "target": "Faith Healer",
+        "description": "Target of Healing / Exorcism"
+      }
+    ],
+    "seo": {
+      "slug": "killing-faith",
+      "jsonLd": {
+        "name": "Killing Faith",
+        "@type": "Movie",
+        "genre": [
+          "Western",
+          "Thriller",
+          "Mystery",
+          "Horror"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "In the summer of 1859, a widowed physician reluctantly agrees to take a recently freed slave and her mysterious Caucasian daughter on a five-day journey through the bloody West to find a distant town's Faith Healer."
+      },
+      "keywords": [
+        "Killing Faith movie",
+        "Killing Faith plot",
+        "1859 Western film",
+        "supernatural Western thriller",
+        "faith healer movie"
+      ],
+      "canonical": "[https://movnix.com/movie/killing-faith](https://movnix.com/movie/killing-faith)",
+      "metaTitle": "Killing Faith (1859 Western Thriller) - Movie Overview & Details",
+      "openGraph": {
+        "og:title": "Killing Faith - Supernatural Western Thriller",
+        "og:description": "A doctor and a freed slave embark on a deadly 1859 trek to cure a young girl whose touch brings absolute death."
+      },
+      "twitterCard": {
+        "twitter:title": "Killing Faith - Supernatural Western Thriller",
+        "twitter:description": "A doctor and a freed slave embark on a deadly 1859 trek to cure a young girl whose touch brings absolute death."
+      },
+      "metaDescription": "A physician guides a freed slave and her deadly, possessed daughter across the bloody 1859 West to find a Faith Healer. Every living thing she touches dies."
+    },
+    "faq": [
+      {
+        "answer": "Set in the summer of 1859, the film follows a widowed physician who reluctantly agrees to escort a recently freed slave and her mysterious Caucasian daughter on a dangerous five-day journey across the West to locate a distant town's Faith Healer. The mother suspects her daughter is possessed, while the doctor attributes her condition to a disease, though every living thing the girl touches mysteriously dies.",
+        "question": "What is the release plot of Killing Faith?"
+      },
+      {
+        "answer": "The dominant genres of Killing Faith are Western, supernatural thriller, and period drama.",
+        "question": "What is the dominant genre of Killing Faith?"
+      },
+      {
+        "answer": "Killing Faith is an original standalone movie and is not part of an existing franchise or cinematic universe.",
+        "question": "Is Killing Faith part of a franchise or an original movie?"
+      },
+      {
+        "answer": "No, Killing Faith does not have a post-credits or mid-credits scene. The narrative concludes fully before the credits start.",
+        "question": "Is there a post-credits scene in Killing Faith?"
+      },
+      {
+        "answer": "The story takes place during the summer of 1859 in the American West.",
+        "question": "When is Killing Faith set?"
+      },
+      {
+        "answer": "The core characters are a widowed physician, a recently freed enslaved woman, and her mysterious, lethal Caucasian daughter.",
+        "question": "Who are the main characters in Killing Faith?"
+      },
+      {
+        "answer": "The central conflict is the clash between faith and science—the mother believes her daughter is demonically possessed, while the doctor believes she suffers from a mysterious physical illness—compounded by the fatal power of the girl's touch.",
+        "question": "What central conflict drives the journey in Killing Faith?"
+      },
+      {
+        "answer": "The movie is intended for mature audiences due to elements of supernatural horror, Western violence, thematic dark elements, and period-typical hardship.",
+        "question": "What age rating or content warning does Killing Faith carry?"
+      },
+      {
+        "answer": "The story is set across a five-day journey through the rugged and dangerous territory of the American West.",
+        "question": "Where does the journey in Killing Faith take place?"
+      },
+      {
+        "answer": "No, due to its dark supernatural premises, life-threatening stakes, and tense dramatic themes, it is best suited for teenage and adult audiences.",
+        "question": "Is Killing Faith suitable for family viewing?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong supernatural horror themes involving demonic possession, lethal touch, and eerie mystery."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential period-accurate strong or offensive language given the 1859 historical setting and themes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Implied lethal force and supernatural death through touch, set against the backdrop of the 'bloody West'."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minor potential for historical medical substance or alcohol use typical of the setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high psychological and thematic intensity dealing with slavery, grief, death, possession, and fatal disease."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 7,
+      "mystery": 9,
+      "romance": 1,
+      "science": 3,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-30 18:01:51.337812",
+    "updated_at": "2026-08-30 18:01:51.337812"
+  }
 }
