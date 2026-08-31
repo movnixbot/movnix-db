@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5117,
-    "voteAverage": 6.5,
-    "voteCount": 2,
+    "popularity": 3,
+    "voteAverage": 5,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1269075",
     "posterPath": "/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
     "backdropPath": "/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
@@ -132,8 +132,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 2
+      "ratingValue": 5,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -237,6 +237,15 @@
       "name": "Yim Linq",
       "profilePath": null,
       "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2721651,
+      "name": "Yim Linq",
+      "profilePath": null,
+      "character": null,
       "job": "Director",
       "department": "Directing",
       "order": null
@@ -248,15 +257,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2721651,
-      "name": "Yim Linq",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     }
   ],
