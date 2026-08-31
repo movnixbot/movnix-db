@@ -10,11 +10,11 @@
     "budget": "24000000",
     "revenue": "136599112",
     "status": "Released",
-    "popularity": 12.8281,
-    "voteAverage": 7.297,
-    "voteCount": 342,
+    "popularity": 11.3557,
+    "voteAverage": 7.3,
+    "voteCount": 350,
     "homepage": "https://mock-movie-website.com/movies/1291608",
-    "posterPath": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+    "posterPath": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
     "backdropPath": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
     "collectionId": 1628043,
     "certification": "NR"
@@ -48,7 +48,7 @@
     {
       "tmdbId": 212774,
       "name": "B62 Studios",
-      "logoPath": null,
+      "logoPath": "/vJJpxg9pjFKDsoMFXFEfA0MZttp.png",
       "originCountry": "IN"
     },
     {
@@ -77,7 +77,7 @@
   ],
   "images": [
     {
-      "filePath": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+      "filePath": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -102,13 +102,6 @@
       "width": 946,
       "height": 1420,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/po7U3As6Jp2zG9RopavoZMkdnr1.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -329,6 +322,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/1Nvd80zpLt0Es7ExVE4M7ZEzD8v.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wqZb83pptPDUo3sD8z0R6pwArU1.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
       "width": 2153,
       "height": 1211,
@@ -389,13 +396,6 @@
       "width": 2003,
       "height": 1127,
       "aspectRatio": 1.777,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/3GGum7CC3Nof0XcoqozMbCKxFb9.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
@@ -493,8 +493,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.297,
-      "votesCount": 342
+      "ratingValue": 7.3,
+      "votesCount": 350
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 8.3,
+      "votesCount": 138488
     },
     {
       "source": "crawled",
