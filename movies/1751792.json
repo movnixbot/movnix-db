@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.0453,
+    "popularity": 1.9073,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.ufc.com/event/ufc-fight-night-august-29-2026",
@@ -292,5 +292,263 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1751792/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1751792,
+    "hash": "3f00988724be3b5ab305435817f9206dfddf8e5da593b51b39618336fbf5803a",
+    "summary_one_sentence": "Umar Nurmagomedov takes on Song Yadong in an intense bantamweight main event at UFC Fight Night 286 in Shanghai.",
+    "summary_short": "UFC Fight Night 286 brings elite mixed martial arts action to the SPD Bank Oriental Sports Center in Shanghai, China. The headlining bout features former bantamweight title contender Umar Nurmagomedov going head-to-head against home-country favorite Song Yadong. Both fighters battle for high-stakes positioning in the crowded bantamweight division, delivering an action-packed spectacle for fans across the globe.",
+    "summary_long": "UFC Fight Night 286 delivers an explosive slate of mixed martial arts action live from the SPD Bank Oriental Sports Center in Shanghai, China. At the peak of the card is a high-profile bantamweight clash between former championship challenger Umar Nurmagomedov and dynamic striker Song Yadong. Driven by their pursuit of the top spot in the 135-pound division, both elite competitors bring their contrasting fighting styles into the Octagon. Nurmagomedov relies on his relentless wrestling background and technical grappling skills to control the pace. Meanwhile, Song counters with powerful striking combinations, sharp counter-punching, and the electric energy of his home crowd. As the fight unfolds, each round presents a strategic game of chess mixed with pure physical intensity. The event highlights the global reach of the UFC, bringing world-class combat sports to East Asia. Beyond the main event, the card offers dramatic finishes, tactical battles, and high stakes for all fighters involved. Ultimately, the night stands out as a pivotal chapter for the bantamweight division's future title picture.",
+    "synopsis": "UFC Fight Night: Nurmagomedov vs. Song showcases world-class mixed martial arts competition live from the SPD Bank Oriental Sports Center in Shanghai, China. The showcase event features a premier bantamweight clash between top contender Umar Nurmagomedov and powerhouse striker Song Yadong, alongside a full card of competitive bouts representing the peak of international combat sports drama.",
+    "keywords": [
+      "mixed martial arts",
+      "bantamweight division",
+      "main event",
+      "home crowd favorite",
+      "combat sports",
+      "striking vs grappling",
+      "championship contender",
+      "knockout finish",
+      "shanghai sports center",
+      "underdog victory",
+      "high stakes clash",
+      "full contact martial arts",
+      "octagon showdown"
+    ],
+    "themes": [
+      {
+        "theme": "National Pride and Home Turf Advantage",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Redemption and Title Contendership",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Clash of Combat Styles",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Family Legacy and Fighting Lineage",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Competitive",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Nurmagomedov and Song step into the Octagon for five championship rounds, clashing in high-intensity exchanges where game plans are tested under maximum pressure.",
+      "conflict": "Song Yadong defends home turf against the dominant, relentless wrestling and pressure style of Umar Nurmagomedov, with both fighters competing for a decisive path toward a UFC Bantamweight Championship opportunity.",
+      "resolution": "The fight reaches its conclusion as the final scores or stoppage determine the victor, shifting the dynamics of the bantamweight division's title picture.",
+      "introduction": "The UFC returns to Shanghai, setting the stage at the SPD Bank Oriental Sports Center with high-stakes international matchups contextually headlined by top bantamweight contenders Umar Nurmagomedov and Song Yadong.",
+      "risingAction": "As the main card unfolds, momentum shifts across early bouts while the headliners complete their final preparations, building tension as the tactical clash between Nurmagomedov's grappling and Song's sharp striking approaches."
+    },
+    "characters": [
+      {
+        "name": "Umar Nurmagomedov",
+        "role": "Hero",
+        "description": "Headlining fighter and top contender driving the central story of the event."
+      },
+      {
+        "name": "Song Yadong",
+        "role": "Hero",
+        "description": "Co-headliner fighting on home soil, serving as the main focus and opponent in the feature bout."
+      },
+      {
+        "name": "Yan Xiaonan",
+        "role": "Supporting Character",
+        "description": "Featured high-profile fighter adding local strength and narrative depth to the main card."
+      },
+      {
+        "name": "Denise Gomes",
+        "role": "Supporting Character",
+        "description": "Main card competitor providing crucial opposition in the women's division."
+      },
+      {
+        "name": "Kai Asakura",
+        "role": "Supporting Character",
+        "description": "Prominent international contender contributing to the event's high stakes."
+      },
+      {
+        "name": "Alex Perez",
+        "role": "Supporting Character",
+        "description": "Experienced veteran competitor serving as a key obstacle for rising talent."
+      },
+      {
+        "name": "Qileng Aori",
+        "role": "Supporting Character",
+        "description": "Local fan-favorite fighter filling out the supporting card action."
+      },
+      {
+        "name": "Su Mudaerji",
+        "role": "Supporting Character",
+        "description": "Exciting action fighter adding depth and momentum to the event."
+      },
+      {
+        "name": "Ce Liu",
+        "role": "Supporting Character",
+        "description": "Regional competitor showcasing skills on the international stage."
+      },
+      {
+        "name": "Levi Rodrigues Jr.",
+        "role": "Supporting Character",
+        "description": "Undercard fighter competing to build prospect standing on the global roster."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Umar Nurmagomedov",
+        "target": "Song Yadong",
+        "description": "Main Event Rivals / Bantamweight Competitors"
+      }
+    ],
+    "seo": {
+      "slug": "ufc-fight-night-286-nurmagomedov-vs-song",
+      "jsonLd": {
+        "name": "UFC Fight Night 286: Nurmagomedov vs. Song",
+        "@type": "SportsEvent",
+        "@context": "[https://schema.org](https://schema.org)",
+        "location": {
+          "name": "SPD Bank Oriental Sports Center",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN",
+            "addressLocality": "Shanghai"
+          }
+        },
+        "organizer": {
+          "url": "[https://www.ufc.com](https://www.ufc.com)",
+          "name": "Ultimate Fighting Championship",
+          "@type": "Organization"
+        },
+        "startDate": "2026-08-29",
+        "competitor": [
+          {
+            "name": "Umar Nurmagomedov",
+            "@type": "Person"
+          },
+          {
+            "name": "Song Yadong",
+            "@type": "Person"
+          }
+        ],
+        "description": "UFC Fight Night: Nurmagomedov vs. Song was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on August 29, 2026, at the SPD Bank Oriental Sports Center in Shanghai, China. A bantamweight bout between former UFC Bantamweight Championship challenger Umar Nurmagomedov and Song Yadong headlined this event."
+      },
+      "keywords": [
+        "UFC Fight Night 286",
+        "Nurmagomedov vs Song",
+        "UFC Shanghai",
+        "UFC Fight Night 2026",
+        "Umar Nurmagomedov",
+        "Song Yadong",
+        "UFC bantamweight bout",
+        "MMA event Shanghai"
+      ],
+      "canonical": "[https://movnix.com/movie/ufc-fight-night-286-nurmagomedov-vs-song](https://movnix.com/movie/ufc-fight-night-286-nurmagomedov-vs-song)",
+      "metaTitle": "UFC Fight Night 286: Nurmagomedov vs. Song (2026) - Watch & Event Details",
+      "openGraph": {
+        "og:title": "UFC Fight Night 286: Nurmagomedov vs. Song",
+        "og:description": "Catch all the action from UFC Fight Night 286 featuring the main event bantamweight battle between Umar Nurmagomedov and Song Yadong in Shanghai."
+      },
+      "twitterCard": {
+        "twitter:title": "UFC Fight Night 286: Nurmagomedov vs. Song",
+        "twitter:description": "UFC Fight Night: Umar Nurmagomedov vs. Song Yadong live from the SPD Bank Oriental Sports Center in Shanghai, China."
+      },
+      "metaDescription": "Watch UFC Fight Night 286: Umar Nurmagomedov vs. Song Yadong from August 29, 2026 at SPD Bank Oriental Sports Center in Shanghai, China."
+    },
+    "faq": [
+      {
+        "answer": "It was a mixed martial arts (MMA) event produced by the Ultimate Fighting Championship (UFC) that featured high-level professional MMA fights.",
+        "question": "What is UFC Fight Night 286: Nurmagomedov vs. Song?"
+      },
+      {
+        "answer": "The event took place on August 29, 2026, at the SPD Bank Oriental Sports Center in Shanghai, China.",
+        "question": "When and where did UFC Fight Night 286 take place?"
+      },
+      {
+        "answer": "The main event was a bantamweight bout between former UFC Bantamweight Championship challenger Umar Nurmagomedov and Song Yadong.",
+        "question": "Who fought in the main event of UFC Fight Night 286?"
+      },
+      {
+        "answer": "The dominant genre is live sports broadcasting, specifically professional combat sports and mixed martial arts.",
+        "question": "What is the dominant genre of this content?"
+      },
+      {
+        "answer": "Yes, it is part of the ongoing UFC Fight Night series under the Ultimate Fighting Championship (UFC) brand.",
+        "question": "Is UFC Fight Night 286 part of a franchise or series?"
+      },
+      {
+        "answer": "No, as a live sports event, there are no post-credit scenes. Broadcasts typically conclude with post-fight interviews and highlight packages.",
+        "question": "Is there a post-credit scene in the broadcast?"
+      },
+      {
+        "answer": "Replays and highlights are typically available via UFC Fight Pass, ESPN+, or regional broadcast rights holders depending on your location.",
+        "question": "Where can viewers watch or stream the event replays?"
+      },
+      {
+        "answer": "The main event took place in the Bantamweight division (135 lbs / 61.2 kg).",
+        "question": "In which weight division was the main event fought?"
+      },
+      {
+        "answer": "No, it was a UFC Fight Night event, which is broadcast on television and streaming networks rather than via traditional pay-per-view.",
+        "question": "Was this event a pay-per-view (PPV)?"
+      },
+      {
+        "answer": "It marked a high-profile return of the UFC to Shanghai, China, headlining one of China's premier fighters, Song Yadong.",
+        "question": "Why was this event significant for the host city?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, supernatural threats, macabre imagery, or jump scares."
+      },
+      "language": {
+        "score": 2,
+        "description": "Occasional mild profanity or aggressive sports commentary typical of live broadcast sporting events."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts real combat sports content involving full-contact striking, grappling, and physical pain, typical of live professional martial arts competitions."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Possible incidental background presence of alcohol advertisements common in sports broadcasting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate competitive intensity, high-stakes athletic pressure, and tense fight dynamics inherent to championship-level combat sports."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 10,
+      "comedy": 1,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 3,
+      "suspense": 8,
+      "violence": 9
+    },
+    "created_at": "2026-09-01 19:02:23.682098",
+    "updated_at": "2026-09-01 19:02:23.682098"
+  }
 }
