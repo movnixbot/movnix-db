@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 105.1031,
-    "voteAverage": 8.814,
-    "voteCount": 43,
+    "popularity": 164.0401,
+    "voteAverage": 9.109,
+    "voteCount": 151,
     "homepage": "https://www.warnerbros.com/movies/batman-knightfall-part-1-knightfall",
     "posterPath": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-    "backdropPath": "/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg",
+    "backdropPath": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
     "collectionId": 1560779,
     "certification": "R"
   },
@@ -23,8 +23,8 @@
     "tmdbId": 1560779,
     "name": "Batman: Knightfall Collection",
     "overview": null,
-    "posterPath": null,
-    "backdropPath": null
+    "posterPath": "/cqEmZZlr05YF9oKKEvh54Yh7z6p.jpg",
+    "backdropPath": "/lMfPpoLkYxdwZ6ZBiZyW0f1uJjf.jpg"
   },
   "genres": [
     {
@@ -42,6 +42,14 @@
     {
       "tmdbId": 878,
       "name": "Science Fiction"
+    },
+    {
+      "tmdbId": 80,
+      "name": "Crime"
+    },
+    {
+      "tmdbId": 18,
+      "name": "Drama"
     },
     {
       "tmdbId": 1,
@@ -64,6 +72,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Batman’s Therapy Call",
+      "key": "GWVUjCs5OMs",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
     {
       "name": "Full Movie Preview",
       "key": "Q8cfMszJ_Yg",
@@ -102,7 +117,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg",
+      "filePath": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -130,6 +145,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/lAGDxZHy2bnnByFvHMXsgvznwDW.jpg",
+      "width": 1500,
+      "height": 2250,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/g19IoButQepcHPShmzfPGYOWfTq.jpg",
       "width": 900,
       "height": 1350,
@@ -151,10 +173,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/pR1QYD8yrkF1dTQi6HctxUqh8KJ.jpg",
-      "width": 600,
-      "height": 929,
-      "aspectRatio": 0.646,
+      "filePath": "/uZswZZ3Th2ORyLOAbol9ZLuD8pr.jpg",
+      "width": 1206,
+      "height": 1680,
+      "aspectRatio": 0.718,
       "type": "poster"
     },
     {
@@ -162,6 +184,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pR1QYD8yrkF1dTQi6HctxUqh8KJ.jpg",
+      "width": 600,
+      "height": 929,
+      "aspectRatio": 0.646,
       "type": "poster"
     },
     {
@@ -208,6 +237,27 @@
     },
     {
       "filePath": "/7ESgU028QbgZd8wdKYaE3NXlf4P.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kgcvBCyk3cqxjozIqsemrynEGIb.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8Y4UZqibBnH800XTTm7VZU5en9w.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qJJTWt69ZUxFQU0SUh0dWN9bUqf.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -415,13 +465,25 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/s8UIvaFwKRWGo4sYmKsOYJqoKxY.jpg",
+      "width": 1366,
+      "height": 768,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.814,
-      "votesCount": 43
+      "ratingValue": 9.109,
+      "votesCount": 151
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 8.1,
+      "votesCount": 333
     },
     {
       "source": "crawled",
@@ -611,6 +673,16 @@
     {
       "iso_3166_1": "ES",
       "title": "Batman: El ocaso del Caballero Oscuro (Primera Parte)",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Batman: Knightfall Part I",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Batman: Knightfall Part 1",
       "type": ""
     }
   ],
