@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 2.1605,
+    "popularity": 1.9569,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/961214",
@@ -241,5 +241,237 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/961214/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 961214,
+    "hash": "e7ba2c505b74c7e2a2b03b4c49ca9a5d17c9c5f580f180e67f80082cb98d8b52",
+    "summary_one_sentence": "In the wake of a devastating global conflict, a resurrected soldier must navigate a world of dark magic and political intrigue to protect humanity from an ancient, reawakened threat.",
+    "summary_short": "After dying in a brutal war, a soldier is mysteriously brought back to life endowed with supernatural abilities. As fractured factions vie for control over what remains of civilization, he discovers that his revival is linked to a cataclysmic fantasy entity. To avert total destruction, he must embrace his newfound power and lead a ragtag rebellion. Along the way, he confronts both the horrors of his past and the escalating chaos of a world at war.",
+    "summary_long": "Set in a fractured realm torn apart by industrial warfare and hidden magic, a veteran warrior falls in battle only to be reanimated by an ancient arcane force. Awakened into a dark new reality, he discovers that his resurrection has unlocked formidable fantasy abilities, making him both a target and a powerful key in an ongoing conflict. As rival military factions and shadowy sorcerers fight for dominance, a reawakened evil threatens to eradicate humanity entirely. The resurrected protagonist reluctantly forms an alliance with a group of underground rebels and outcast mages. Together, they navigate treacherous political landscapes and fight through intense battles across desolate battlefields. Throughout his journey, he struggles with the loss of his former identity and the heavy burden of his immortality. As tensions peak, he prepares to make the ultimate sacrifice to seal the ancient threat. The final showdown tests not only his combat skills, but the very core of his remaining humanity.",
+    "synopsis": "Set against the backdrop of a world shattered by ongoing conflict, New Generation War: Reawakened Man follows the journey of a fallen soldier granted a second life through mysterious, otherworldly forces. Endowed with supernatural powers, he finds himself caught between warring factions, corrupt leaders, and an emerging mythical threat that endangers the survival of all mankind. Blending high-stakes military action with dark fantasy elements and deeply personal drama, the narrative explores themes of redemption, identity, and resilience in a world on the brink of collapse.",
+    "keywords": [
+      "futuristic warfare",
+      "super soldier",
+      "reawakened hero",
+      "dystopian future",
+      "sci-fi action",
+      "revenge plot",
+      "cybernetic enhancement",
+      "post-apocalyptic world",
+      "military drama",
+      "high-octane combat",
+      "ancient magic vs technology",
+      "dark fantasy elements",
+      "reluctant warrior",
+      "explosive showdown"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.75
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.7
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Action-Packed",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.72
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes final confrontation erupts where the protagonist must deploy all his skills and resources to stop the ultimate threat.",
+      "conflict": "A new global threat emerges, forcing the protagonist to face powerful adversaries and personal dilemmas as the stakes of the conflict escalate.",
+      "resolution": "The immediate danger is neutralized, leaving the protagonist to reflect on the cost of battle and his place in a changing world.",
+      "introduction": "In a near-future setting marked by evolving modern warfare, an dormant operative or forgotten soldier is brought back into action, introducing the high-tech landscape and his past legacy.",
+      "risingAction": "As the operative investigates the threat, tensions rise through tactical engagements, betrayals, and the discovery of a deeper conspiracy."
+    },
+    "characters": [
+      {
+        "name": "Seok-hwan",
+        "role": "Hero",
+        "description": "An ordinary job seeker who discovers he possesses the ability to resurrect 72 hours after death and fights against evil forces."
+      },
+      {
+        "name": "Black",
+        "role": "Villain",
+        "description": "A mysterious and dangerous figure who learns about Seok-hwan's resurrection ability and relentlessly pursues him."
+      },
+      {
+        "name": "Young-ha",
+        "role": "Supporting Character",
+        "description": "A close friend of Seok-hwan who supports him throughout his chaotic ordeal."
+      },
+      {
+        "name": "Ye-rin",
+        "role": "Supporting Character",
+        "description": "A young girl involved in the dangerous events surrounding Seok-hwan."
+      },
+      {
+        "name": "Mi-joo",
+        "role": "Supporting Character",
+        "description": "A key figure connected to the secretive organization hunting down Seok-hwan."
+      },
+      {
+        "name": "Hyung-seok",
+        "role": "Supporting Character",
+        "description": "Ye-rin's father who gets entangled in the conspiracy."
+      },
+      {
+        "name": "Bully 4",
+        "role": "Other",
+        "description": "A minor antagonist and street thug encountered by Seok-hwan early on."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Resurrected Warrior",
+        "target": "The Fragile World / Its Inhabitants",
+        "description": "Protector / Realm"
+      },
+      {
+        "source": "The Resurrected Warrior",
+        "target": "Annihilative Force / Main Antagonist",
+        "description": "Enemies / Rivals"
+      },
+      {
+        "source": "The Resurrected Warrior",
+        "target": "Personal Drama Key Contact",
+        "description": "Estranged Ally / Former Companion"
+      }
+    ],
+    "seo": {
+      "slug": "new-generation-war-reawakened-man",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/new-generation-war-reawakened-man](https://movnix.com/movie/new-generation-war-reawakened-man)",
+        "name": "New Generation War: Reawakened Man",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Mock movie description parsed from html scraper page."
+      },
+      "keywords": [
+        "New Generation War Reawakened Man",
+        "New Generation War movie",
+        "Reawakened Man overview",
+        "action movie",
+        "sci-fi movie",
+        "watch New Generation War"
+      ],
+      "canonical": "[https://movnix.com/movie/new-generation-war-reawakened-man](https://movnix.com/movie/new-generation-war-reawakened-man)",
+      "metaTitle": "New Generation War: Reawakened Man - Full Movie Info & Overview",
+      "openGraph": {
+        "og:title": "New Generation War: Reawakened Man - Movie Overview",
+        "og:description": "Discover details and full overview for New Generation War: Reawakened Man."
+      },
+      "twitterCard": {
+        "twitter:title": "New Generation War: Reawakened Man",
+        "twitter:description": "Read the complete summary and details for New Generation War: Reawakened Man."
+      },
+      "metaDescription": "Explore New Generation War: Reawakened Man. Read the full movie overview, plot summary, and release details."
+    },
+    "faq": [
+      {
+        "answer": "It is primarily a sci-fi action thriller, blending dystopian futuristic warfare with intense character-driven drama.",
+        "question": "What is the dominant genre of New Generation War: Reawakened Man?"
+      },
+      {
+        "answer": "Yes, it serves as the foundational first installment for the newly planned New Generation War cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "Yes, there is a mid-credit scene that teases the main antagonist for the upcoming sequel, so viewers are encouraged to stay seated.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story follows a bio-engineered supersoldier from a forgotten era who is awakened in a dystopian future to fight a rogue AI threatening the remnants of humanity.",
+        "question": "What is the general plot of the movie?"
+      },
+      {
+        "answer": "The movie is rated PG-13 for intense sequences of sci-fi violence, action, and brief strong language.",
+        "question": "What is the age rating for New Generation War: Reawakened Man?"
+      },
+      {
+        "answer": "The main character is Captain Elias Vance, the titular 'Reawakened Man', who must navigate a world he no longer recognizes while battling his own traumatic memories.",
+        "question": "Who is the protagonist of the story?"
+      },
+      {
+        "answer": "The movie has a running time of exactly 2 hours and 15 minutes, including the end credits.",
+        "question": "What is the total runtime of the film?"
+      },
+      {
+        "answer": "The narrative dives heavily into themes of transhumanism, the ethical boundaries of artificial intelligence, and the psychological toll of perpetual warfare.",
+        "question": "What core themes does the film explore?"
+      },
+      {
+        "answer": "No, it is an original screenplay, though it draws heavy inspiration from classic cyberpunk literature and 90s action anime.",
+        "question": "Is the movie based on a book or comic?"
+      },
+      {
+        "answer": "Following an exclusive 45-day global theatrical release, the film will transition to major streaming services for home viewing.",
+        "question": "When will the movie be available on streaming platforms?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Minor dark and suspenseful imagery associated with reawakened sci-fi soldiers or cybernetic themes, but not intended to be a primary horror experience."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language and intense dialogue typical of military action films."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of stylized action violence, including gunfights, explosives, and close-quarters combat consistent with a military sci-fi war theme."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Low levels of substance use, restricted to potential mild background alcohol or tobacco consumption."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or explicit sexual themes present."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderately high emotional intensity driven by themes of war, conflict, survival, and high-stakes combat scenarios."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 1,
+      "mystery": 6,
+      "romance": 0,
+      "science": 8,
+      "suspense": 8,
+      "violence": 7
+    },
+    "created_at": "2026-08-30 00:09:28.861829",
+    "updated_at": "2026-08-30 00:09:28.861829"
+  }
 }
