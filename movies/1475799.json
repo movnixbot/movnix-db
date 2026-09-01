@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 1.5229,
+    "popularity": 1.9091,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1475799",
-    "posterPath": "/9OhKdyPCATLYFtlOifos1pGAZg3.jpg",
+    "posterPath": "/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
     "backdropPath": "/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
     "collectionId": null
   },
@@ -51,7 +51,7 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/9OhKdyPCATLYFtlOifos1pGAZg3.jpg",
+      "filePath": "/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -117,6 +117,27 @@
       "filePath": "/fUnmgl10Yu4nePZ3XWsj2Syfclk.jpg",
       "width": 1280,
       "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/onZcIzUqUBQ5xOewaozMrjk4RD9.jpg",
+      "width": 1526,
+      "height": 858,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tTt9v7x1yE2OCchPFkECOPQiiZh.jpg",
+      "width": 1284,
+      "height": 723,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/rpkyWKWQGRkZzY2Jvq7rznMx12I.jpg",
+      "width": 1453,
+      "height": 817,
       "aspectRatio": 1.778,
       "type": "backdrop"
     }
@@ -327,5 +348,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1475799/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1475799,
+    "hash": "e2adeab3c46a16cdd9c02b5286d93a30c7fda373fe0d1cff2e0950d49d25f729",
+    "summary_one_sentence": "When a retired judge is murdered by a vengeful ex-convict, a loyal visually impaired man steps up to protect the judge's targeted daughter.",
+    "summary_short": "After a retired judge sends a dangerous criminal to prison, he finds his daughter's life in grave peril once the convict is released. Tragic events escalate when the judge is brutally murdered by the vengeful criminal. Driven by loyalty and honor, a visually impaired ally steps in to shield the endangered young woman. Together, they must outsmart a relentless predator in a high-stakes game of survival.",
+    "summary_long": "A respected retired judge finds his peaceful life shattered when a dangerous criminal he previously sentenced to prison is released with revenge on his mind. Realizing his young daughter has become the primary target of the criminal's malicious plots, the judge takes every precaution to secure her safety. Despite his efforts, the situation turns tragic when the ex-convict tracks down the judge and brutally murders him. Left vulnerable and isolated, the grieving daughter becomes an immediate target for the vengeful criminal. A visually impaired man who holds deep loyalty and gratitude toward the late judge vows to carry out his benefactor's final wish. Relying on his heightened remaining senses, sharp intellect, and unwavering courage, he assumes the role of her protector. The relentless antagonist pursues them, exploiting every advantage to eliminate both the daughter and her blind defender. Against overwhelming odds, the protector navigates treacherous obstacles to keep her out of harm's way while confronting the criminal's ruthless henchmen. In a climactic showdown, loyalty and inner strength are put to the ultimate test as they struggle to survive and bring justice to the fallen judge.",
+    "synopsis": "Haiwaan is a gripping thriller and drama that explores the themes of vengeance, loyalty, and protection in the face of relentless danger. The story centers on a retired judge who becomes the target of a dangerous ex-convict seeking retribution for the years he spent behind bars. As threats escalate against the judge's innocent daughter, the family's world is upended when the judge is tragically murdered. Following the tragedy, a devoted visually impaired man who owes a debt of gratitude to the late judge steps forward to defend the grieving young woman. Navigating a dangerous web of hostility with heightened senses and sharp instincts, the blind protector must shield her from a ruthless adversary determined to eliminate them both.",
+    "keywords": [
+      "retired judge",
+      "revenge plot",
+      "convict revenge",
+      "blind protagonist",
+      "visually impaired hero",
+      "protecting the daughter",
+      "murder investigation",
+      "loyal protector",
+      "justice and retribution",
+      "family in danger",
+      "wrongful death",
+      "deadly confrontation",
+      "cat and mouse game",
+      "legal background",
+      "stalker convict"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Loyalty",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Protection & Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Justice vs Vengeance",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "A high-stakes, violent confrontation erupts between the visually impaired protector and the ruthless convict as the threat to the daughter reaches its absolute peak.",
+      "conflict": "A dangerous convict previously sentenced by the judge is released, placing the judge's daughter in immediate peril and leaving the family vulnerable.",
+      "resolution": "The danger is brought to an end, securing the daughter's safety and honoring the legacy and justice the late judge stood for.",
+      "introduction": "A retired judge seeks a quiet life with his daughter, but tension brews due to lingering threats from his past on the bench.",
+      "risingAction": "Tragedy strikes when the judge is murdered. A visually impaired man fiercely loyal to the late judge steps forward to protect the targeted daughter, forcing him to rely on his heightened senses and wits to outmaneuver a lethal enemy."
+    },
+    "characters": [
+      {
+        "name": "Saif Ali Khan",
+        "role": "Hero",
+        "description": "A visually impaired man and loyal former associate of the judge who steps up to protect the judge's daughter from a dangerous killer."
+      },
+      {
+        "name": "Akshay Kumar",
+        "role": "Villain",
+        "description": "A vengeful convict and serial killer seeking blood-soaked retribution against the retired judge and his family."
+      },
+      {
+        "name": "Boman Irani",
+        "role": "Mentor",
+        "description": "A respected retired judge whose past ruling triggers the antagonist's revenge campaign."
+      },
+      {
+        "name": "Shriya Pilgaonkar",
+        "role": "Supporting Character",
+        "description": "The target of the convict's vengeance and the daughter of the deceased judge, protected by the protagonist."
+      },
+      {
+        "name": "Saiyami Kher",
+        "role": "Supporting Character",
+        "description": "A police inspector investigating the series of violent murders caused by the primary antagonist."
+      },
+      {
+        "name": "Rajpal Yadav",
+        "role": "Comic Relief",
+        "description": "Provides lighthearted and humorous moments amidst the overarching suspense and tension."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Retired Judge",
+        "target": "Daughter",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Retired Judge",
+        "target": "Ex-Convict",
+        "description": "Victim/Enforcer (Judge who imprisoned the convict)"
+      },
+      {
+        "source": "Ex-Convict",
+        "target": "Daughter",
+        "description": "Attacker/Target"
+      },
+      {
+        "source": "Visually Impaired Man",
+        "target": "Retired Judge",
+        "description": "Protege/Mentor (Loyal ally)"
+      },
+      {
+        "source": "Visually Impaired Man",
+        "target": "Daughter",
+        "description": "Protector/Protected"
+      },
+      {
+        "source": "Visually Impaired Man",
+        "target": "Ex-Convict",
+        "description": "Defender/Adversary"
+      }
+    ],
+    "seo": {
+      "slug": "haiwaan",
+      "jsonLd": {
+        "name": "Haiwaan",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter."
+      },
+      "keywords": [
+        "Haiwaan",
+        "Haiwaan movie",
+        "Haiwaan movie plot",
+        "Haiwaan overview",
+        "Haiwaan synopsis",
+        "crime thriller movie",
+        "action drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/haiwaan](https://movnix.com/movie/haiwaan)",
+      "metaTitle": "Haiwaan Movie - Plot, Cast & Overview",
+      "openGraph": {
+        "og:title": "Haiwaan Movie Overview & Synopsis",
+        "og:description": "When a retired judge is murdered by a former convict, a loyal visually impaired man steps up to protect the judge's daughter."
+      },
+      "twitterCard": {
+        "twitter:title": "Haiwaan Movie Overview & Synopsis",
+        "twitter:description": "When a retired judge is murdered by a former convict, a loyal visually impaired man steps up to protect the judge's daughter."
+      },
+      "metaDescription": "A retired judge's daughter is targeted by an ex-convict. After his murder, a loyal visually impaired man steps up to protect her in Haiwaan."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre of Haiwaan is crime thriller / psychological action thriller. It centers around a tense, deadly cat-and-mouse game between a dangerous convict and a visually impaired protector.",
+        "question": "What is the dominant genre of Haiwaan?"
+      },
+      {
+        "answer": "No, Haiwaan is a standalone film. It is not part of an existing film franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story resolves entirely before the end credits roll, standard for standalone suspense thrillers.",
+        "question": "Is there a post-credit scene in Haiwaan?"
+      },
+      {
+        "answer": "The film follows a retired judge struggling to protect his daughter from a vengeful convict he once sent to prison. When the judge is murdered, a visually impaired man loyal to him steps up to shield the young girl from the attacker.",
+        "question": "What is the core plot of Haiwaan?"
+      },
+      {
+        "answer": "Haiwaan is an official Hindi remake of Priyadarshan's 2016 Malayalam crime thriller 'Oppam'.",
+        "question": "Is Haiwaan based on an original story or an adaptation?"
+      },
+      {
+        "answer": "Saif Ali Khan stars as the visually impaired protagonist who uses his heightened senses and skills to protect the late judge's daughter.",
+        "question": "Who plays the visually impaired protagonist in the film?"
+      },
+      {
+        "answer": "Akshay Kumar plays the ruthless convict and killer pursuing the judge's family.",
+        "question": "Who plays the main antagonist/convict in the movie?"
+      },
+      {
+        "answer": "The movie is directed by veteran filmmaker Priyadarshan, marking his return to the high-stakes action thriller genre.",
+        "question": "Who directed Haiwaan?"
+      },
+      {
+        "answer": "Due to its dark themes, intense violence, suspenseful murder mystery plot, and psychological thriller elements, it is intended primarily for adult and older teenage audiences rather than young children.",
+        "question": "Is Haiwaan suitable for family viewing or kids?"
+      },
+      {
+        "answer": "Out of deep loyalty and gratitude toward the retired judge who helped him, he feels a personal obligation to keep the innocent young girl safe after her father's tragic murder.",
+        "question": "Why does the visually impaired man decide to protect the judge's daughter?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild suspense and thriller elements surrounding murder and stalking by an ex-convict."
+      },
+      "language": {
+        "score": 2,
+        "description": "Potential for mild aggressive tone and hostile dialogue standard for crime thrillers."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts murder, physical threats to a family member, and violent confrontation involving a revenge-seeking convict."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal or no substance use suggested."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or nudity indicated."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional intensity driven by grief, peril involving family, and life-threatening conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 6,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-08-26 20:12:19.648426",
+    "updated_at": "2026-08-26 20:12:19.648426"
+  }
 }
