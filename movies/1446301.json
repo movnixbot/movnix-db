@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1331,
-    "voteAverage": 8,
-    "voteCount": 1,
+    "popularity": 3.9056,
+    "voteAverage": 7,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1446301",
     "posterPath": "/f5O7hMhzug2qOCFIDwRCro4NqFL.jpg",
     "backdropPath": "/uFb6uM9QqUTExBF0RpYFtWMqX5d.jpg",
@@ -112,8 +112,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8,
-      "votesCount": 1
+      "ratingValue": 7,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -311,5 +311,236 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1446301/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1446301,
+    "hash": "aaa4f2067bb76f4481c5b5be0fe372b555aba7d8b4d62be2ad7746d4966e33a0",
+    "summary_one_sentence": "Facing her mother's sudden illness, eighteen-year-old Claudia must navigate the overwhelming burden of family caregiving while longing to live a normal teenage life.",
+    "summary_short": "At eighteen years old, Claudia finds her life upended when her mother's sudden illness shatters their family's fragile dynamics. Thrust into a caregiving role for a mother from whom she was long estranged, Claudia struggles to balance heavy familial duty with her own desire for freedom and youth. As the silent storm of illness unfolds, the entire family is forced to confront past fractures and redefine their bonds. Ultimately, Claudia must find a path through this new reality without losing her own sense of self.",
+    "summary_long": "Claudia is an eighteen-year-old girl on the brink of adulthood, eager to experience life like any other young woman her age. However, her world changes instantly when her mother is diagnosed with a sudden, debilitating illness that shakes the foundation of their home. Having experienced years of family estrangement, the abrupt shift forces everyone to abruptly step into roles they were never prepared to play. Claudia finds herself caught in a painful tug-of-war between filial obligation and her deep desire for personal independence. As the daily reality of caregiving sets in, long-buried emotional tension and unhealed wounds resurface among family members. Claudia must adapt to the relentless demands of her mother's care while attempting to hold onto her youth and identity. The illness acts as a silent storm, stripping away old resentments and demanding radical vulnerability from the family. Through shared hardship and quiet moments of sacrifice, the relational bonds between Claudia and her relatives begin to alter and evolve. As Claudia matures through this trial, she learns to navigate love, grief, and resilience, proving that survival means forging a new way forward together.",
+    "synopsis": "Claudia is an 18-year-old girl who never asked to be a hero, yet finds her youth disrupted when her mother falls severely ill. The diagnosis acts as a silent storm within a family already marked by emotional distance and estrangement, forcing each member to confront their shared past and redefine their traditional roles. Torn between a deep sense of duty to care for her ailing mother and the natural craving to live freely like any other teenager, Claudia struggles to navigate the heavy emotional and physical weight placed upon her shoulders. 'Yo no moriré de amor' explores the nuanced realities of young caregiving, family reconciliation, and the tender, chaotic process of growing up under extraordinary circumstances.",
+    "keywords": [
+      "family dynamics",
+      "coming of age",
+      "maternal illness",
+      "caregiver burden",
+      "estranged family",
+      "filial duty",
+      "emotional turbulence",
+      "personal autonomy",
+      "role reversal",
+      "youth vs responsibility",
+      "character-driven drama",
+      "family reconciliation",
+      "intimate realism"
+    ],
+    "themes": [
+      {
+        "theme": "Family Duty & Roles",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Sacrifice vs. Personal Autonomy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Coping with Illness & Mortality",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Family Reconciliation & Bond Transformation",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Coming of Age & Identity",
+        "confidence": 0.86
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.68
+      }
+    ],
+    "story_structure": {
+      "climax": "A critical turning point forces the family to confront their long-standing estrangement and face the emotional reality of their situation head-on.",
+      "conflict": "Claudia faces an internal and practical struggle between her sense of duty to care for her mother and her desire to live her own independent life.",
+      "resolution": "The family forms a redefined bond, and Claudia arrives at a new understanding of love, autonomy, and her place within her family.",
+      "introduction": "Claudia is an 18-year-old girl yearning for a normal youth, but her world changes when her mother falls ill, disrupting the fragile dynamic of their already estranged family.",
+      "risingAction": "As her mother's illness worsens, Claudia navigates shifting family roles, strained relationships, and the growing emotional weight of her caregiving responsibilities."
+    },
+    "characters": [
+      {
+        "name": "Claudia",
+        "role": "Hero",
+        "description": "An 18-year-old girl forced to take on heavy caregiver responsibilities for her ill mother while struggling between family duty and her desire to live a normal youth."
+      },
+      {
+        "name": "Julia",
+        "role": "Other",
+        "description": "Claudia's mother, whose Alzheimer's diagnosis disrupts the family dynamic and serves as the central catalyst for the story's emotional conflict."
+      },
+      {
+        "name": "Papá",
+        "role": "Supporting Character",
+        "description": "Claudia's father, who helps navigate the family's changing reality and caregiving responsibilities alongside Claudia."
+      },
+      {
+        "name": "Inés",
+        "role": "Supporting Character",
+        "description": "A close family member or acquaintance who assists in navigating the family's newly redefined roles."
+      },
+      {
+        "name": "Leire",
+        "role": "Supporting Character",
+        "description": "A friend or family relation providing a contrast to Claudia's situation and grounding her to life outside her household duties."
+      },
+      {
+        "name": "Alberto",
+        "role": "Supporting Character",
+        "description": "A secondary figure who interacts with Claudia as she tries to balance her youth with her home responsibilities."
+      },
+      {
+        "name": "Pepe",
+        "role": "Supporting Character",
+        "description": "A supporting individual within Claudia's community or extended circle."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Claudia",
+        "target": "Claudia's Mother",
+        "description": "Mother/Daughter, Caregiver/Care recipient"
+      },
+      {
+        "source": "Claudia",
+        "target": "Estranged Family",
+        "description": "Family members navigating redefined roles and emotional distance"
+      },
+      {
+        "source": "Claudia's Mother",
+        "target": "Estranged Family",
+        "description": "Family members strained by distance and sudden illness"
+      }
+    ],
+    "seo": {
+      "slug": "yo-no-morire-de-amor",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/yo-no-morire-de-amor](https://movnix.com/movie/yo-no-morire-de-amor)",
+        "name": "Yo no moriré de amor",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "At 18, Claudia doesn't want to be a hero. Her mother's illness erupts like a silent storm, forcing a redefinition of roles in a family long estranged. Torn between the duty to care for her mother and the desire to live like any other girl her age, Claudia searches for a way to navigate this new reality, which will transform the bonds between the entire family."
+      },
+      "keywords": [
+        "Yo no morire de amor",
+        "Yo no moriré de amor movie",
+        "Yo no moriré de amor synopsis",
+        "Spanish drama movie",
+        "Claudia family drama film",
+        "Yo no moriré de amor plot"
+      ],
+      "canonical": "[https://movnix.com/movie/yo-no-morire-de-amor](https://movnix.com/movie/yo-no-morire-de-amor)",
+      "metaTitle": "Yo no moriré de amor (2026) - Synopsis, Cast & Drama Movie Overview",
+      "openGraph": {
+        "og:title": "Yo no moriré de amor - Official Movie Overview & Synopsis",
+        "og:description": "When her mother's illness upends her family, 18-year-old Claudia must balance caregiving with her own youth. Discover the moving story of Yo no moriré de amor."
+      },
+      "twitterCard": {
+        "twitter:title": "Yo no moriré de amor - Movie Overview",
+        "twitter:description": "Torn between duty and youth, 18-year-old Claudia navigates a family crisis in Yo no moriré de amor. Read the overview and details."
+      },
+      "metaDescription": "At 18, Claudia navigates family duties and her mother's sudden illness in Yo no moriré de amor. Read the full synopsis, plot details, and watch the trailer."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a drama, focusing on coming-of-age themes, family dynamics, and the personal struggles of a young adult dealing with a severe family illness.",
+        "question": "What is the dominant genre of Yo no moriré de amor?"
+      },
+      {
+        "answer": "The story follows 18-year-old Claudia, whose life changes dramatically when her mother falls seriously ill. Claudia must balance her sense of familial duty as a caregiver with her desire to live her own youth, leading to a redefinition of relationships within her long-estranged family.",
+        "question": "What is the main plot of Yo no moriré de amor?"
+      },
+      {
+        "answer": "It is an original dramatic narrative centered on universal themes of youth, family duty, and coping with severe illness, rather than an adaptation of a specific non-fiction book or historical event.",
+        "question": "Is Yo no moriré de amor based on a true story or a book?"
+      },
+      {
+        "answer": "No, Yo no moriré de amor is a standalone film and is not connected to any existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, as a character-driven emotional drama, the story concludes before the credits roll, and there are no extra scenes after or during the credits.",
+        "question": "Is there a post-credits scene in Yo no moriré de amor?"
+      },
+      {
+        "answer": "The protagonist is Claudia, an 18-year-old navigating the shift into adulthood while thrust into the role of caregiver for her ailing mother.",
+        "question": "Who is the central character of the film?"
+      },
+      {
+        "answer": "Key themes include the burden of caregiving at a young age, mother-daughter relationships, coming of age, reconciliation within estranged families, and individual identity versus duty.",
+        "question": "What are the primary themes explored in the movie?"
+      },
+      {
+        "answer": "Yes, it is particularly resonant for teenagers and young adults as it covers coming-of-age struggles, though it deals with mature, emotional themes such as serious illness and family strain.",
+        "question": "Is Yo no moriré de amor suitable for teenage audiences?"
+      },
+      {
+        "answer": "While the title roughly translates to 'I Will Not Die of Love,' the core narrative centers on familial love, self-preservation, and personal growth rather than a conventional romantic storyline.",
+        "question": "Is this a romance movie?"
+      },
+      {
+        "answer": "The primary tension comes from Claudia's internal dilemma between pursuing her own life and identity as an 18-year-old versus fulfilling her sudden responsibilities toward her ill mother.",
+        "question": "Where does the emotional conflict of the film stem from?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jump scares, or frightening imagery."
+      },
+      "language": {
+        "score": 1,
+        "description": "Potential for mild, realistic conversational language typical of family drama."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or aggressive behavior."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Potential depiction of prescription medical treatments related to the mother's illness."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity focused on a parent's serious illness, family dysfunction, and heavy caretaking burdens on a young adult."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 0,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 3,
+      "science": 0,
+      "suspense": 2,
+      "violence": 0
+    },
+    "created_at": "2026-08-31 22:01:41.475062",
+    "updated_at": "2026-08-31 22:01:41.475062"
+  }
 }
