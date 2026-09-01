@@ -6,19 +6,25 @@
     "originalTitle": "Untold Raygun: Breaking Badly",
     "overview": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
     "releaseDate": "2026-09-01",
-    "runtime": 139,
+    "runtime": 72,
     "budget": null,
     "revenue": null,
-    "status": "In Production",
-    "popularity": 0.7644,
+    "status": "Released",
+    "popularity": 1.706,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1739202",
-    "posterPath": null,
-    "backdropPath": null,
-    "collectionId": null
+    "posterPath": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+    "backdropPath": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+    "collectionId": 1745820
   },
-  "collection": null,
+  "collection": {
+    "tmdbId": 1745820,
+    "name": "Untold Collection",
+    "overview": null,
+    "posterPath": null,
+    "backdropPath": null
+  },
   "genres": [
     {
       "tmdbId": 99,
@@ -33,22 +39,105 @@
   "keywords": [],
   "videos": [
     {
+      "name": "Sneak Peek",
+      "key": "pOY-Q5DXfcI",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
+    {
       "name": "Official Trailer",
-      "key": "QJYG0KCwLLM",
+      "key": "OCZg5l9BfRg",
       "site": "YouTube",
       "size": 1080,
       "type": "Trailer"
     }
   ],
-  "images": [],
+  "images": [
+    {
+      "filePath": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "width": 820,
+      "height": 1232,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xGHfFhfpDapm1GS4h4DPkSzSGjv.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pdwtnm9LHeu2FRzzd8R8qTfFSDO.jpg",
+      "width": 833,
+      "height": 1250,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+      "width": 1561,
+      "height": 878,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
     }
   ],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 6424825,
+      "name": "Rachael Gunn",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 1285876,
+      "name": "Chapman Way",
+      "profilePath": "/q5R9yh00hkuOylRnd8bdYXCpYeO.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1285877,
+      "name": "Maclain Way",
+      "profilePath": "/yhB5cUGOzpHiYN4rsnRZ2v28YRV.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    }
+  ],
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt43700441",
