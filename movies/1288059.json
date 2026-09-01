@@ -10,9 +10,9 @@
     "budget": "10000000",
     "revenue": "1268122",
     "status": "Released",
-    "popularity": 14.947,
-    "voteAverage": 5.9,
-    "voteCount": 21,
+    "popularity": 14.7932,
+    "voteAverage": 6.114,
+    "voteCount": 22,
     "homepage": "https://www.magpictures.com/iwantyoursex",
     "posterPath": "/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
     "backdropPath": "/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
@@ -175,6 +175,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/yCi2xWHESpofKizJUujKgdULqyt.jpg",
+      "width": 1878,
+      "height": 2817,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/ug3Yu6QxzUudrVghqadd4ssyjXQ.jpg",
       "width": 2000,
       "height": 3000,
@@ -329,13 +336,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/yCi2xWHESpofKizJUujKgdULqyt.jpg",
-      "width": 1878,
-      "height": 2817,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/mL3M6vl35poy05q1HaQkuVTkPsk.jpg",
       "width": 1500,
       "height": 2250,
@@ -407,6 +407,13 @@
     },
     {
       "filePath": "/pG7n2m6bSDJo7kapyrVSzgJlKhP.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -675,8 +682,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.9,
-      "votesCount": 21
+      "ratingValue": 6.114,
+      "votesCount": 22
     },
     {
       "source": "imdb",
@@ -826,33 +833,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1038307,
-      "name": "Seth Caplan",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1080589,
-      "name": "Teddy Schwarzman",
-      "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1971564,
-      "name": "Karley Sciortino",
-      "profilePath": "/aTNAV5xkQz4CKlRKMfx3vz4nf6F.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 19224,
       "name": "Gregg Araki",
       "profilePath": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg",
@@ -871,9 +851,36 @@
       "order": null
     },
     {
+      "tmdbPersonId": 1971564,
+      "name": "Karley Sciortino",
+      "profilePath": "/aTNAV5xkQz4CKlRKMfx3vz4nf6F.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1038307,
+      "name": "Seth Caplan",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2213707,
       "name": "Michael Heimler",
       "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1080589,
+      "name": "Teddy Schwarzman",
+      "profilePath": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
