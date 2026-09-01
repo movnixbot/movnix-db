@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5652,
-    "voteAverage": 10,
-    "voteCount": 1,
+    "popularity": 4.5092,
+    "voteAverage": 7.333,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1462861",
     "posterPath": "/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
     "backdropPath": "/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
@@ -115,6 +115,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/JsFbhI5A8xoODI5iouJcefv1Rh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/usGPVhKvLcRfPVnDdSnjRSP2Gov.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
       "width": 3840,
       "height": 2160,
@@ -132,8 +146,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 10,
-      "votesCount": 1
+      "ratingValue": 7.333,
+      "votesCount": 3
     },
     {
       "source": "crawled",
@@ -308,7 +322,7 @@
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt22406048",
-    "wikidataId": null,
+    "wikidataId": "Q136408434",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -320,7 +334,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
   "reviews": [],
