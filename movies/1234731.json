@@ -10,9 +10,9 @@
     "budget": "45000000",
     "revenue": "135148320",
     "status": "Released",
-    "popularity": 18.0684,
-    "voteAverage": 5.815,
-    "voteCount": 1417,
+    "popularity": 18.0595,
+    "voteAverage": 5.81,
+    "voteCount": 1422,
     "homepage": "https://anacondamovie.com",
     "posterPath": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
     "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
@@ -1900,8 +1900,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.815,
-      "votesCount": 1417
+      "ratingValue": 5.81,
+      "votesCount": 1422
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 5.6,
+      "votesCount": 55645
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 48,
+      "votesCount": null
     },
     {
       "source": "crawled",
