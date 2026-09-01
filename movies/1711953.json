@@ -6,13 +6,13 @@
     "originalTitle": "Red Rabbit Lodge",
     "overview": "In an attempt to put her traumatic past behind her Abigail Mason moves to Red Rabbit Lodge, a sanctuary for foreign students. Unbeknownst to her, he house has a history of blood, mayhem and a sadistic killer residing within the walls.",
     "releaseDate": "2026-06-19",
-    "runtime": 139,
+    "runtime": 84,
     "budget": "50000",
     "revenue": null,
     "status": "Released",
-    "popularity": 2.4529,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 2.5632,
+    "voteAverage": 3.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1711953",
     "posterPath": "/2v9fk0A4Eilh4HcbFlLT5WHK31M.jpg",
     "backdropPath": "/nnxMGNxIH7TG5dLi8IXhHmXib3k.jpg",
@@ -91,6 +91,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 3.5,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -266,7 +271,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
