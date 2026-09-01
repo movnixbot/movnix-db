@@ -1,22 +1,23 @@
 {
   "movie": {
     "tmdbId": 1739186,
-    "imdbId": null,
+    "imdbId": "tt43700434",
     "title": "Untold: The Testimony of Vince Young",
     "originalTitle": "Untold: The Testimony of Vince Young",
     "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
     "releaseDate": "2026-08-25",
-    "runtime": 139,
+    "runtime": 78,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.4641,
-    "voteAverage": 7,
-    "voteCount": 10,
-    "homepage": "https://mock-movie-website.com/movies/1739186",
+    "popularity": 6.2164,
+    "voteAverage": 6.643,
+    "voteCount": 7,
+    "homepage": "https://www.netflix.com/title/82020375",
     "posterPath": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
     "backdropPath": "/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
-    "collectionId": 1745820
+    "collectionId": 1745820,
+    "certification": "R"
   },
   "collection": {
     "tmdbId": 1745820,
@@ -27,11 +28,22 @@
   },
   "genres": [
     {
+      "tmdbId": 99,
+      "name": "Documentary"
+    },
+    {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 55570,
+      "name": "Campfire Studios",
+      "logoPath": "/mKD4k9RHPkauvQIQsyGb6tzNAWg.png",
+      "originCountry": "US"
+    }
+  ],
   "keywords": [],
   "videos": [
     {
@@ -58,10 +70,38 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/4VzJHhxHHpUw0J4HzlyU9BIXoHg.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
       "width": 957,
       "height": 1438,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kNcfuoLIVZmjiG0G5AvuVNF2siP.jpg",
+      "width": 600,
+      "height": 900,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vOOrUpuhl4d96M2lBZSlY0fNiA1.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7XlLUFXMm8vZqOe4PhfQur0aiRh.jpg",
+      "width": 841,
+      "height": 1264,
+      "aspectRatio": 0.665,
       "type": "poster"
     },
     {
@@ -74,12 +114,26 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 6.643,
+      "votesCount": 7
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
     }
   ],
   "credits": [
+    {
+      "tmdbPersonId": 1215298,
+      "name": "Vince Young",
+      "profilePath": "/zZer048TLbpJZ6l7tlydSJE1OUy.jpg",
+      "character": "Him self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
     {
       "tmdbPersonId": 2790482,
       "name": "John Henion",
@@ -90,9 +144,15 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "TR",
+      "title": "Perde Arkası: Vince Young'ın Hikayesi",
+      "type": ""
+    }
+  ],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt43700434",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
@@ -100,11 +160,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
@@ -134,5 +208,227 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1739186/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1739186,
+    "hash": "dfd2f473f422411b83549d802d63ccddddbabc29d74b91147dbbe9ccfb137727",
+    "summary_one_sentence": "This documentary examines the rise, fall, and complex post-college career of former Texas Longhorns quarterback and NFL star Vince Young.",
+    "summary_short": "After leading the Texas Longhorns to a historic Rose Bowl victory, Vince Young entered the NFL with massive expectations as the Rookie of the Year. However, his promising career was gradually derailed by injuries, high-profile conflicts with coaching staff, and personal hardship. Beyond the highlight reels, the film provides an intimate look at the mental and physical toll of professional sports stardom.",
+    "summary_long": "Vince Young solidified his legacy in college football history by delivering an iconic performance in the 2006 Rose Bowl, leading the Texas Longhorns to a national championship. Drafted third overall by the Tennessee Titans, he made an immediate impact, earning NFL Offensive Rookie of the Year honors and Pro Bowl selections. Despite early success on the field, underlying tensions with head coach Jeff Fisher and recurring injury setbacks began to strain his trajectory. As public scrutiny intensified, Young faced mental health struggles, financial mismanagement, and sudden personal losses that overshadowed his athletic talent. Moving between teams in search of a second act, he wrestled with the immense weight of expectation that followed his college dominance. The documentary juxtaposes his electric highlight reels with candid interviews from Young, teammates, and analysts. Ultimately, it paints a humanizing portrait of a sports icon navigating life after the spotlight fades.",
+    "synopsis": "An in-depth exploration of Texas football legend Vince Young, tracking his journey from national championship glory at the Rose Bowl to the triumphs and turmoil of his NFL career, detailing the personal and professional struggles behind his athletic legacy.",
+    "keywords": [
+      "Vince Young",
+      "Texas Longhorns",
+      "Rose Bowl",
+      "NFL star",
+      "american football",
+      "rise and fall",
+      "sports documentary",
+      "career-ending injuries",
+      "behind the highlights",
+      "personal tragedy",
+      "internal conflict",
+      "athletic legacy",
+      "unfulfilled potential",
+      "sports biography"
+    ],
+    "themes": [
+      {
+        "theme": "High Expectations vs. Reality",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Injury and Physical Toll",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Personal Loss and Adversity",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fame and Public Perception",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Reflective",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "Reaches a breaking point where physical setbacks and emotional strain coalesce, bringing his elite football career to an unexpected standstill.",
+      "conflict": "As high expectations mount, Young confronts the jarring friction between his public athletic identity and the immense pressures of professional football.",
+      "resolution": "Reflects on the complex realities beyond the highlight reels, offering a nuanced perspective on resilience, legacy, and life after the spotlight.",
+      "introduction": "Traces Vince Young's ascension to college football superstardom following his legendary performance at the 2006 Rose Bowl and his entry into the NFL as a highly anticipated prospect.",
+      "risingAction": "Navigates a turbulent pro career defined by lingering injuries, interpersonal conflicts with team management, intense media scrutiny, and personal tragedies."
+    },
+    "characters": [
+      {
+        "name": "Vince Young",
+        "role": "Hero",
+        "description": "A legendary college football quarterback whose triumphs and struggles form the central story of achievement, resilience, and personal conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Vince Young",
+        "target": "Mack Brown",
+        "description": "Coach/Player (University of Texas Head Coach)"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Steve McNair",
+        "description": "Mentor/Protege & Close Friend"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Jeff Fisher",
+        "description": "Coach/Player (Tennessee Titans Head Coach - strained relationship)"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Michael Griffin",
+        "description": "Teammates (Texas Longhorns & Tennessee Titans)"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Norm Chow",
+        "description": "Coach/Player (Tennessee Titans Offensive Coordinator)"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Matt Leinart",
+        "description": "Rivals (2006 Rose Bowl / USC Quarterback)"
+      },
+      {
+        "source": "Vince Young",
+        "target": "Bud Adams",
+        "description": "Owner/Player (Tennessee Titans Owner who drafted Vince Young)"
+      }
+    ],
+    "seo": {
+      "slug": "untold-the-testimony-of-vince-young",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/untold-the-testimony-of-vince-young](https://movnix.com/movie/untold-the-testimony-of-vince-young)",
+        "name": "Untold: The Testimony of Vince Young",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed."
+      },
+      "keywords": [
+        "Untold The Testimony of Vince Young",
+        "Vince Young documentary",
+        "Texas Longhorns Vince Young",
+        "NFL Vince Young story",
+        "Rose Bowl legend Vince Young",
+        "Untold series"
+      ],
+      "canonical": "[https://movnix.com/movie/untold-the-testimony-of-vince-young](https://movnix.com/movie/untold-the-testimony-of-vince-young)",
+      "metaTitle": "Untold: The Testimony of Vince Young - Watch Documentary | Movnix",
+      "openGraph": {
+        "og:title": "Untold: The Testimony of Vince Young",
+        "og:description": "The untold story of Texas Longhorns legend Vince Young—from Rose Bowl glory to NFL challenges and beyond."
+      },
+      "twitterCard": {
+        "twitter:title": "Untold: The Testimony of Vince Young",
+        "twitter:description": "The untold story of Texas Longhorns legend Vince Young—from Rose Bowl glory to NFL challenges and beyond."
+      },
+      "metaDescription": "Discover the story of Texas legend Vince Young after his iconic Rose Bowl win. Explore his NFL highs, injuries, and career journey on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The documentary examines the life and football career of former Texas Longhorns quarterback Vince Young, tracing his rise after his iconic Rose Bowl victory, his NFL career, and the challenges, injuries, and personal hurdles he faced along the way.",
+        "question": "What is Untold: The Testimony of Vince Young about?"
+      },
+      {
+        "answer": "Yes, it is an installment in Netflix's critically acclaimed Untold documentary anthology series, which focuses on compelling and complex stories from the sports world.",
+        "question": "Is Untold: The Testimony of Vince Young part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is sports documentary, combining biography and real-life sports history.",
+        "question": "What is the dominant genre of this title?"
+      },
+      {
+        "answer": "The main subject is Vince Young, the former college football star for the Texas Longhorns and NFL quarterback for the Tennessee Titans.",
+        "question": "Who is the main subject of this documentary?"
+      },
+      {
+        "answer": "No, like most documentary films in the Untold series, there are no post-credits scenes after the main credits finish rolling.",
+        "question": "Is there a post-credits scene in Untold: The Testimony of Vince Young?"
+      },
+      {
+        "answer": "It is available for streaming globally on Netflix as part of the Untold series.",
+        "question": "Where can I watch Untold: The Testimony of Vince Young?"
+      },
+      {
+        "answer": "The documentary highlights his historic 2006 Rose Bowl national championship performance, his Rookie of the Year season with the Tennessee Titans, his conflicts with coaching staff, injuries, and his life after professional football.",
+        "question": "What key events in Vince Young's career are highlighted?"
+      },
+      {
+        "answer": "The film takes an intimate, candid, and reflective tone, moving past simple sports highlight reels to explore personal struggles, mental health, and media scrutiny.",
+        "question": "What tone does the documentary take?"
+      },
+      {
+        "answer": "Yes, Vince Young provides direct first-person testimony and commentary throughout the documentary alongside insights from former teammates, coaches, and sports journalists.",
+        "question": "Does Vince Young appear in the documentary himself?"
+      },
+      {
+        "answer": "It is generally rated TV-MA or TV-14 depending on the region, primarily due to mature themes, discussions of mental health struggles, and occasional strong language.",
+        "question": "Is Untold: The Testimony of Vince Young suitable for general audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or frightening imagery."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent to moderate strong language during candid sports interviews and discussions."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to low violence, limited to standard contact sports collisions in football footage."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild or incidental references to alcohol or prescription substance use in a sports documentary context."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexually explicit material."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high emotional themes covering career struggles, sudden loss, conflict, and personal hardship."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-08-26 08:01:35.530066",
+    "updated_at": "2026-08-26 08:01:35.530066"
+  }
 }
