@@ -353,5 +353,377 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1750165/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1750165,
+    "hash": "5fcdbea7b4e0fd37c5bc141def3eb9216eea8335f1c2b460a86855dcb07f975c",
+    "summary_one_sentence": "NXT Heatwave 2026 brings high-octane professional wrestling action to Edinburg, Texas, featuring top developmental talent competing in high-stakes matches.",
+    "summary_short": "Produced by WWE for its developmental brand, NXT Heatwave 2026 marks the fifth annual iteration under the WWE umbrella and the twelfth overall event in Heatwave history. Taking place at the Bert Ogden Arena in Edinburg, Texas, the event follows Lucha Libre AAA Worldwide's Ola de Calor in a unique weekend of wrestling action. The spectacle highlights fierce rivalries, championship bouts, and dramatic athletic performances from NXT's premier superstars. Fans are treated to an intense evening of sports entertainment that showcases the future of professional wrestling.",
+    "summary_long": "NXT Heatwave 2026 continues the storied legacy of the iconic Heatwave brand, serving as a signature summer event for WWE's NXT division. Staged on August 30, 2026, at the Bert Ogden Arena in Edinburg, Texas, the broadcast immediately followed AAA's Ola de Calor, creating a historic cross-promotional backdrop in the region. The match card brings long-simmering rivalries to a explosive climax across multiple high-stakes contests. Championship titles are put on the line as rising stars and established brand leaders clash in the ring to secure their legacy. Throughout the night, dynamic ring work is complemented by intense backstage drama and strategic ringcraft. Each bout emphasizes the high physical demands and emotional storytelling characteristic of the NXT brand. Key rivalries reach pivotal turning points, altering the landscape of the championship divisions moving forward. The event captures the passion and athletic artistry of modern sports entertainment while solidifying the next generation of WWE superstars. Ultimately, NXT Heatwave 2026 delivers a memorable night of action that reshapes the future storylines of the brand.",
+    "synopsis": "NXT Heatwave 2026 is a premier professional wrestling television special and livestreaming event presented by WWE's developmental brand, NXT. Broadcasting live from the Bert Ogden Arena in Edinburg, Texas, the show captures the energy of intense summer rivalries and championship showdowns. Featuring an elite roster of up-and-coming talent alongside seasoned performers, the event delivers physical storytelling, athletic showcases, and dramatic match outcomes without spoiling the surprise results for viewers looking to experience the excitement firsthand.",
+    "keywords": [
+      "combat sports",
+      "staged rivalry",
+      "championship belt",
+      "title match",
+      "fatal four-way",
+      "heel turn",
+      "betrayal plot",
+      "sports entertainment",
+      "athletic theater",
+      "live event",
+      "developmental brand",
+      "high-stakes collision",
+      "underdog arc",
+      "grudge match"
+    ],
+    "themes": [
+      {
+        "theme": "Cross-Promotional Rivalry & Territorial Coexistence",
+        "confidence": 0.94
+      },
+      {
+        "theme": "Developmental Ambition & Brand Supremacy",
+        "confidence": 0.89
+      },
+      {
+        "theme": "Resilience & Endurance",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The night reaches its peak during the main event title defense, where high dramatic tension, near-falls, and key interventions determine the ultimate outcome.",
+      "conflict": "Top NXT Superstars clash over championships and personal rivalries, with intense grudge matches and titles on the line following weeks of escalating confrontations.",
+      "resolution": "The fallout from the matches establishes new championship hierarchies and sets the baseline trajectories for upcoming storylines across the NXT roster.",
+      "introduction": "WWE's NXT brand brings its annual Heatwave event to Edinburg, Texas, setting the stage immediately after AAA's Ola de Calor event in a cross-promotional back-to-back spectacle.",
+      "risingAction": "High-stakes matches unfold throughout the card, featuring high-flying athleticism and shifting momentum as competitors push themselves to their physical limits to gain the upper hand."
+    },
+    "characters": [
+      {
+        "name": "Peyton Prussin (Kendal Grey)",
+        "role": "Hero",
+        "description": "The defending NXT Women's Champion heading into Heatwave, fighting valiantly in a high-stakes title defense."
+      },
+      {
+        "name": "Lea Mitchell (Kelani Jordan)",
+        "role": "Hero",
+        "description": "The determined challenger who uses top-tier athleticism and resilience to capture the NXT Women's Championship."
+      },
+      {
+        "name": "Daria Hodder (Zaria)",
+        "role": "Hero",
+        "description": "A dominant powerhouse wrestler competing to unify titles in a Winner Takes All triple threat match."
+      },
+      {
+        "name": "Madison Dombkowski (Wren Sinclair)",
+        "role": "Supporting Character",
+        "description": "The tag partner and ally involved in title contention across the women's division."
+      },
+      {
+        "name": "Joe Ariola",
+        "role": "Supporting Character",
+        "description": "A developmental competitor supporting the broader NXT brand undercard roster."
+      },
+      {
+        "name": "Matt Farrelly (Grayson Waller)",
+        "role": "Villain",
+        "description": "An opportunistic, arrogant heel who outsmarts his opponents to capture the NXT Championship in a Fatal 4-Way match."
+      },
+      {
+        "name": "Mike Santana",
+        "role": "Anti Hero",
+        "description": "A gritty, intense veteran presence bringing hard-hitting ring style to high-stakes match lineups."
+      },
+      {
+        "name": "Zilla Fatu",
+        "role": "Anti Hero",
+        "description": "A powerhouse competitor fighting with relentless intensity for the NXT Championship main event."
+      },
+      {
+        "name": "Destinee Brown (Jaida Parker)",
+        "role": "Hero",
+        "description": "A tough competitor who overcomes external interferences to force a submission victory."
+      },
+      {
+        "name": "Tiana Caffey (Kali Armstrong)",
+        "role": "Supporting Character",
+        "description": "An athletic contender pushing the pace in championship multi-woman action."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tony D'Angelo",
+        "target": "Grayson Waller",
+        "description": "Rivals (NXT Championship match)"
+      },
+      {
+        "source": "Tony D'Angelo",
+        "target": "Cruz Montana",
+        "description": "Rivals (NXT Championship match)"
+      },
+      {
+        "source": "Tony D'Angelo",
+        "target": "Zilla Fatu",
+        "description": "Rivals (NXT Championship match)"
+      },
+      {
+        "source": "Grayson Waller",
+        "target": "Cruz Montana",
+        "description": "Rivals"
+      },
+      {
+        "source": "Grayson Waller",
+        "target": "Zilla Fatu",
+        "description": "Rivals"
+      },
+      {
+        "source": "Cruz Montana",
+        "target": "Zilla Fatu",
+        "description": "Rivals"
+      },
+      {
+        "source": "Kelani Jordan",
+        "target": "Kendal Grey",
+        "description": "Rivals (NXT Women's Championship match)"
+      },
+      {
+        "source": "Kendal Grey",
+        "target": "Wren Sinclair",
+        "description": "Tag Team Partners / Allies"
+      },
+      {
+        "source": "Kelani Jordan",
+        "target": "Wren Sinclair",
+        "description": "Rivals"
+      },
+      {
+        "source": "Myles Borne",
+        "target": "Tavion Heights",
+        "description": "Tag Team Partners (NXT Tag Team Champions)"
+      },
+      {
+        "source": "Jackson Drake",
+        "target": "Brad Baylor",
+        "description": "Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Jackson Drake",
+        "target": "Ricky Smokes",
+        "description": "Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Jackson Drake",
+        "target": "Myka Lockwood",
+        "description": "Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Brad Baylor",
+        "target": "Ricky Smokes",
+        "description": "Tag Team Partners / Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Brad Baylor",
+        "target": "Myka Lockwood",
+        "description": "Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Ricky Smokes",
+        "target": "Myka Lockwood",
+        "description": "Stablemates (The Vanity Project)"
+      },
+      {
+        "source": "Jackson Drake",
+        "target": "Myles Borne",
+        "description": "Rivals (NXT North American Championship match)"
+      },
+      {
+        "source": "Brad Baylor",
+        "target": "Myles Borne",
+        "description": "Rivals (NXT Tag Team Championship match)"
+      },
+      {
+        "source": "Brad Baylor",
+        "target": "Tavion Heights",
+        "description": "Rivals (NXT Tag Team Championship match)"
+      },
+      {
+        "source": "Ricky Smokes",
+        "target": "Myles Borne",
+        "description": "Rivals (NXT Tag Team Championship match)"
+      },
+      {
+        "source": "Ricky Smokes",
+        "target": "Tavion Heights",
+        "description": "Rivals (NXT Tag Team Championship match)"
+      },
+      {
+        "source": "Zaria",
+        "target": "Wren Sinclair",
+        "description": "Rivals (Title Unification match)"
+      },
+      {
+        "source": "Zaria",
+        "target": "Kali Armstrong",
+        "description": "Rivals (Title Unification match)"
+      },
+      {
+        "source": "Wren Sinclair",
+        "target": "Kali Armstrong",
+        "description": "Rivals (Title Unification match)"
+      },
+      {
+        "source": "Jaida Parker",
+        "target": "Nattie",
+        "description": "Rivals (Submission match)"
+      },
+      {
+        "source": "Nattie",
+        "target": "Nikkita Lyons",
+        "description": "Allies / Managers"
+      },
+      {
+        "source": "Nattie",
+        "target": "Karmen Petrovic",
+        "description": "Allies / Managers"
+      }
+    ],
+    "seo": {
+      "slug": "nxt-heatwave-2026",
+      "jsonLd": {
+        "name": "NXT Heatwave 2026",
+        "@type": "SportsEvent",
+        "@context": "https://schema.org",
+        "location": {
+          "name": "Bert Ogden Arena",
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "TX",
+            "addressCountry": "US",
+            "addressLocality": "Edinburg"
+          }
+        },
+        "organizer": {
+          "url": "https://www.wwe.com",
+          "name": "WWE",
+          "@type": "Organization"
+        },
+        "startDate": "2026-08-30",
+        "description": "The 2026 NXT Heatwave was a professional wrestling television special and livestreaming event produced by WWE for its NXT brand at Bert Ogden Arena.",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode"
+      },
+      "keywords": [
+        "NXT Heatwave 2026",
+        "WWE NXT Heatwave",
+        "WWE 2026 events",
+        "Bert Ogden Arena wrestling",
+        "NXT August 30 2026",
+        "WWE Heatwave stream"
+      ],
+      "canonical": "https://movnix.com/movie/nxt-heatwave-2026",
+      "metaTitle": "NXT Heatwave 2026: WWE Event Date, Venue & Overview",
+      "openGraph": {
+        "og:title": "NXT Heatwave 2026: WWE Live Event Details & Overview",
+        "og:description": "Catch NXT Heatwave 2026 from Bert Ogden Arena in Edinburg, Texas on August 30, 2026. Get full event coverage and details."
+      },
+      "twitterCard": {
+        "twitter:title": "NXT Heatwave 2026: WWE Live Event Details & Overview",
+        "twitter:description": "Catch NXT Heatwave 2026 from Bert Ogden Arena in Edinburg, Texas on August 30, 2026. Get full event coverage and details."
+      },
+      "metaDescription": "Discover NXT Heatwave 2026. Watch the fifth annual WWE NXT event live from Bert Ogden Arena in Edinburg, Texas on August 30, 2026."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of WWE's long-running Heatwave event series. Originally produced by Extreme Championship Wrestling (ECW), Heatwave was revived by WWE for its NXT developmental brand. The 2026 event marks the 5th annual NXT Heatwave and the 13th Heatwave overall.",
+        "question": "Is NXT Heatwave 2026 part of a franchise or event series?"
+      },
+      {
+        "answer": "The primary genre is professional wrestling, combining athletic performance, combat sports elements, and episodic sports entertainment storytelling.",
+        "question": "What is the primary genre and style of this event?"
+      },
+      {
+        "answer": "In professional wrestling broadcasts, traditional post-credit scenes do not exist, but major story developments or surprise attacks frequently occur immediately following the main event before the stream cuts to black.",
+        "question": "Are there any post-credit scenes or post-show segments?"
+      },
+      {
+        "answer": "The event took place live on Sunday, August 30, 2026, at the Bert Ogden Arena in Edinburg, Texas, United States.",
+        "question": "Where and when was NXT Heatwave 2026 filmed or broadcast live?"
+      },
+      {
+        "answer": "It was produced by WWE and broadcast live via platforms including The CW and ESPN Unlimited in the United States, as well as Netflix internationally.",
+        "question": "Which production company and network released NXT Heatwave 2026?"
+      },
+      {
+        "answer": "It was held immediately following Lucha Libre AAA Worldwide's 'Ola de Calor' event, which took place in the same venue earlier that day as part of a joint production effort.",
+        "question": "What parent or sibling events are connected to NXT Heatwave 2026?"
+      },
+      {
+        "answer": "The target audience consists of professional wrestling fans, particularly viewers of WWE NXT, sports entertainment enthusiasts, and youth-to-adult demographics looking for high-energy athletic drama.",
+        "question": "Who is the intended target audience for NXT Heatwave 2026?"
+      },
+      {
+        "answer": "It is a live professional wrestling television special and premium livestreaming event, not a scripted feature film.",
+        "question": "Is NXT Heatwave 2026 a film or a TV special?"
+      },
+      {
+        "answer": "While video packages and commentary summarize ongoing rivalries for casual viewers, having familiarity with weekly NXT storylines enhances context for the championships and match feuds.",
+        "question": "Do I need to watch previous NXT events to understand Heatwave 2026?"
+      },
+      {
+        "answer": "The live special features an approximate running time of around 2 to 3 hours, covering multiple championship matches and featured feuds.",
+        "question": "How long is the runtime for NXT Heatwave 2026?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, supernatural threats, or jump scares present."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild coarse language and occasional trash-talking or taunts standard in sports entertainment programming."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate physical violence typical of professional wrestling, including stylized combat, scripted physical confrontations, and impact moves, but generally presented as theatrical entertainment without severe real-world gore."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug use or alcohol consumption depicted."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content; mild suggestiveness limited to revealing athletic attire and routine character theatrics."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate intensity driven by dramatic storylines, rivalries, competitive tension, and energetic crowd involvement."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 8,
+      "comedy": 2,
+      "emotion": 5,
+      "fantasy": 0,
+      "mystery": 9,
+      "romance": 0,
+      "science": 7,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-09-01 13:01:52.075166",
+    "updated_at": "2026-09-01 13:01:52.075166"
+  }
 }
