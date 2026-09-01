@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 137.8099,
-    "voteAverage": 6.1,
-    "voteCount": 30,
+    "popularity": 134.0285,
+    "voteAverage": 6.047,
+    "voteCount": 32,
     "homepage": "https://mock-movie-website.com/movies/1130948",
     "posterPath": "/tXsTtSgguTsk5J115jokwK55awF.jpg",
     "backdropPath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
@@ -364,6 +364,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/a54YwgUQpdSH1jR2pmDULuujaQU.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
       "width": 3840,
       "height": 2160,
@@ -563,8 +570,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.1,
-      "votesCount": 30
+      "ratingValue": 6.047,
+      "votesCount": 32
     },
     {
       "source": "crawled",
@@ -709,15 +716,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 136427,
-      "name": "Efthimis Filippou",
-      "profilePath": "/ahr48ZPgUDSK8fVvc6b5yu1vVvW.jpg",
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 55018,
       "name": "Karim Aïnouz",
       "profilePath": "/hbxUnYlBs9flmWYKMi3VrOihc9n.jpg",
@@ -727,18 +725,27 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2335,
-      "name": "Michael Weber",
-      "profilePath": "/2m7qZvkzj7eb56U72TM9IxFrYd2.jpg",
+      "tmdbPersonId": 136427,
+      "name": "Efthimis Filippou",
+      "profilePath": "/ahr48ZPgUDSK8fVvc6b5yu1vVvW.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     },
     {
       "tmdbPersonId": 1427133,
       "name": "Viola Fügen",
       "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2335,
+      "name": "Michael Weber",
+      "profilePath": "/2m7qZvkzj7eb56U72TM9IxFrYd2.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -810,7 +817,14 @@
       ]
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "Martin Oaks",
+      "content": "**The collapse of an ephemeral dynasty**\r\n\r\nUnder the scorching sun of a luxurious Catalonia villa, four American siblings live in hedonistic isolation, squandering their immense fortune. Carefree and oblivious to the outside world, they ignore the demands of their strict, visually impaired patriarch, seeking validation solely through pop music, incestuous obsessions, and haute couture fashion. The fragile equilibrium of this superficial dynasty fractures when Jack, the eldest brother and the group's linchpin, announces his plans to move out with his new girlfriend, Martha. The intrusion of this outsider cuts their ties of codependency, driving one sibling to unearth the dark secrets surrounding their mother's suspicious death. From that moment on, generational lies collapse, and the family spirals into violent self-destruction under the premise that, much like rosebusps, families sometimes need radical pruning.\r\n\r\n\"Rosebush Pruning\" is an uncomfortable sociopolitical satire in which Karim Aïnouz uses a suffocating Mediterranean landscape to dissect the moral rot and existential vacuum of opulence. Hélène Louvart milks the saturation of the Catalan light to create a magnetic contrast between the scenic beauty of the surroundings and the inner ugliness of the characters. The screenplay by Efthimis Filippou (who freely reimagines Marco Bellocchio's classic, and is a frequent collaborator on Yorgos Lanthimos's films) injects that characteristic dark, absurd, and surreal humor that unsettles the audience by portraying the total disconnect of the wealthy.\r\n\r\nUnfortunately, the film repeatedly trips over itself in its eagerness to shock. It often prioritizes cheap thrills-gratuitously flirting with incest and psychological violence-instead of digging deeper into a social critique that is actually biting or original. This fixation on provocation, paired with a pacing that stalls in repetitive subplots, saps the tension just when the story cries out for a rising climax. Ultimately, lacking an emotional anchor or a relatable character to root for, the film feels cold, detached, and trapped in its own misanthropy. While \"Rosebush Pruning\" is certainly an interesting cinematic exercise, it runs the risk of being labeled a style-over-substance piece that dissolves into its own nihilism.",
+      "rating": 5,
+      "createdAt": "2026-08-31T21:10:08Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
