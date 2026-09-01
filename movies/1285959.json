@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 17.7588,
-    "voteAverage": 5.729,
-    "voteCount": 35,
+    "popularity": 21.0883,
+    "voteAverage": 5.511,
+    "voteCount": 44,
     "homepage": "https://mock-movie-website.com/movies/1285959",
     "posterPath": "/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
     "backdropPath": "/nItaRm9Kaz7xVkcIaFmxjlnfrME.jpg",
@@ -152,6 +152,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/fAlW9fQcsU35RnbTHELgnC8TiE2.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/mp7VwsqUcgJxMmFjhUMgIsZrAix.jpg",
       "width": 3840,
       "height": 2160,
@@ -190,8 +197,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.729,
-      "votesCount": 35
+      "ratingValue": 5.511,
+      "votesCount": 44
     },
     {
       "source": "imdb",
@@ -415,7 +422,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
