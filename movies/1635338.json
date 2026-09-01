@@ -228,5 +228,262 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1635338/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1635338,
+    "hash": "6c1b9d5ebe8ad247d5c9e65c2b660338506a2fa0433908b46e7c060d9371df01",
+    "summary_one_sentence": "In ancient Egypt, a prince raised in royalty discovers his true heritage and stands against his adopted brother to free the Hebrew people from slavery.",
+    "summary_short": "Raised alongside royalty in the heart of Egypt, Moses leads a privileged life unaware of his true origin as a Hebrew. Upon discovering his roots and witnessing the severe oppression of his people, he is driven to abandon his royal status and answer a divine call. Facing his beloved adopted brother who now rules as Pharaoh, Moses demands the release of the enslaved Hebrews. This tense conflict forces Moses to choose between the family that raised him and the divine mission to secure his people's freedom.",
+    "summary_long": "Moses grows up as a favored prince of Egypt, sharing a deep, brotherly bond with the future ruler of the realm. His life of privilege collapses when he discovers that he was actually born a Hebrew and saved from a deadly decree as an infant. Deeply disturbed by the horrific treatment of the enslaved Hebrews, Moses intervenes in a moment of brutality, an act that leaves him exiled in the desert. In isolation, he experiences a transformative divine encounter that charges him with returning to Egypt to liberate his people. Reentering the royal court, Moses must confront his adopted brother, who now wears the crown and refuses to grant the slaves their freedom. A dramatic clash of wills unfolds, marked by escalating plagues and growing unrest throughout the kingdom. Despite his profound love for his former home and family, Moses remains steadfast in his role as a prophet and guide. Ultimately, he prepares to lead a massive exodus out of bondage, forever altering the destiny of Egypt and the Hebrew nation.",
+    "synopsis": "Moses: Born of Water and Fire follows the epic journey of an Egyptian prince who discovers his humble, dangerous origins as a Hebrew child saved from execution. Raised in the peak of royal grandeur alongside the future Pharaoh, Moses enjoys a life of power and brotherly camaraderie until the stark reality of state-sanctioned slavery forces a crisis of identity. Driven into exile after defending an enslaved worker, he undergoes a profound spiritual awakening in the desert, receiving a command to return to the land of his youth as a divine messenger. Returning to Egypt, Moses must challenge the brother he once cherished in a desperate campaign for human liberty. The narrative explores themes of faith, identity, duty, and the immense personal cost of challenging an empire to free an enslaved nation.",
+    "keywords": [
+      "biblical epic",
+      "prince to prophet",
+      "brother vs brother",
+      "liberation theme",
+      "ancient egypt",
+      "exodus story",
+      "enslaved people",
+      "divine calling",
+      "confronting family",
+      "rebellious leader",
+      "historical drama",
+      "duty vs love",
+      "pharaoh",
+      "freedom struggle"
+    ],
+    "themes": [
+      {
+        "theme": "Brotherly Conflict",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Destiny",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Freedom & Bondage",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Leadership & Faith",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The conflict reaches its peak during the final, catastrophic confrontation between Moses and the Pharaoh, culminating in a dramatic bid for freedom as the Hebrew people attempt their escape from Egyptian forces.",
+      "conflict": "Moses discovers his true identity and witnesses the severe oppression of his birth people, forcing him to choose between his loyalty to the Egyptian royal family and his calling to liberate the slaves.",
+      "resolution": "With bondage broken, Moses leads his people into the desert toward a new destiny, forever changed from a prince into a leader and prophet for a liberated nation.",
+      "introduction": "Moses grows up with royal privilege as a prince of Egypt alongside his adopted brother, unaware of his true heritage or disconnected from the reality of the enslaved Hebrew people.",
+      "risingAction": "Fleeing into the wilderness after taking a stand, Moses encounters a divine calling to return to Egypt, where he demands his people's freedom and initiates a series of escalating confrontations against the pharaoh he once called a brother."
+    },
+    "characters": [
+      {
+        "name": "Moses",
+        "role": "Hero",
+        "description": "A former prince of Egypt turned prophet who leads the enslaved Hebrew people out of bondage."
+      },
+      {
+        "name": "Pharaoh (Rameses)",
+        "role": "Villain",
+        "description": "The current ruler of Egypt and Moses's adopted brother who refuses to free the enslaved Hebrews."
+      },
+      {
+        "name": "Jochebed (Moses' Birth Mother)",
+        "role": "Supporting Character",
+        "description": "Moses' biological mother who saves his life as an infant by putting him in a basket on the Nile."
+      },
+      {
+        "name": "Zipporah",
+        "role": "Supporting Character",
+        "description": "Moses' loyal wife who stands by him during his exile and calling as a leader."
+      },
+      {
+        "name": "Miriam",
+        "role": "Supporting Character",
+        "description": "Moses' sister who watches over him during his rescue and supports his mission to liberate their people."
+      },
+      {
+        "name": "Aaron",
+        "role": "Supporting Character",
+        "description": "Moses' brother and spokesperson who assists him in confronting Pharaoh and guiding the Hebrews."
+      },
+      {
+        "name": "Pharaoh's Daughter",
+        "role": "Supporting Character",
+        "description": "The Egyptian princess who adopts Moses from the river and raises him as royalty."
+      },
+      {
+        "name": "Jambres",
+        "role": "Other",
+        "description": "An Egyptian court magician who opposes Moses by replicating some of his signs."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Moses",
+        "target": "Ramses",
+        "description": "Adopted Brothers / Foes"
+      },
+      {
+        "source": "Moses",
+        "target": "Hebrew People",
+        "description": "Leader / Followers"
+      },
+      {
+        "source": "Moses",
+        "target": "Pharaoh",
+        "description": "Adoptive Father / Adopted Son"
+      },
+      {
+        "source": "Moses",
+        "target": "Bithiah",
+        "description": "Adoptive Mother / Adopted Son"
+      },
+      {
+        "source": "Moses",
+        "target": "Miriam",
+        "description": "Biological Siblings"
+      },
+      {
+        "source": "Moses",
+        "target": "Aaron",
+        "description": "Biological Siblings / Allies"
+      },
+      {
+        "source": "Moses",
+        "target": "Jochebed",
+        "description": "Biological Mother / Son"
+      }
+    ],
+    "seo": {
+      "slug": "moses-born-of-water-and-fire",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/moses-born-of-water-and-fire](https://movnix.com/movie/moses-born-of-water-and-fire)",
+        "name": "Moses: Born of Water and Fire",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "He was a prince of Egypt. Now he's a prophet of the enslaved. A man must confront the brother he loves to lead his people out of bondage."
+      },
+      "keywords": [
+        "Moses Born of Water and Fire",
+        "Moses movie",
+        "Prince of Egypt film",
+        "Moses prophet story",
+        "biblical epic movie",
+        "Movnix cinema"
+      ],
+      "canonical": "[https://movnix.com/movie/moses-born-of-water-and-fire](https://movnix.com/movie/moses-born-of-water-and-fire)",
+      "metaTitle": "Moses: Born of Water and Fire - Synopsis, Details & Updates | Movnix",
+      "openGraph": {
+        "og:title": "Moses: Born of Water and Fire - Official Movie Page",
+        "og:description": "A prince turns prophet to lead his people out of Egyptian bondage. Discover Moses: Born of Water and Fire."
+      },
+      "twitterCard": {
+        "twitter:title": "Moses: Born of Water and Fire",
+        "twitter:description": "A prince turned prophet confronts his brother to lead the enslaved to freedom."
+      },
+      "metaDescription": "From Egyptian prince to prophet. Follow Moses as he confronts his brother to lead his people out of bondage in Moses: Born of Water and Fire."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a Biblical drama and historical epic, focusing on the story of Moses leading the enslaved out of Egypt.",
+        "question": "What is the dominant genre of Moses: Born of Water and Fire?"
+      },
+      {
+        "answer": "No, it is a standalone Biblical feature film detailing the story of Exodus rather than part of a larger cinematic universe.",
+        "question": "Is this movie part of a cinematic universe or franchise?"
+      },
+      {
+        "answer": "No, the movie does not include any post-credits or mid-credits scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The film has a total running time of approximately 1 hour and 10 minutes (70 minutes).",
+        "question": "What is the runtime of Moses: Born of Water and Fire?"
+      },
+      {
+        "answer": "The film was written, produced, and directed by Dr. David Hoffman.",
+        "question": "Who directed and wrote the film?"
+      },
+      {
+        "answer": "The story centers on Moses, a former prince of Egypt turned prophet, who must confront the brother he grew up with—now the Pharaoh—to liberate his enslaved people.",
+        "question": "What is the central plot conflict in the movie?"
+      },
+      {
+        "answer": "The film is based on the biblical account of Exodus found in religious texts.",
+        "question": "Is Moses: Born of Water and Fire based on a true story or source material?"
+      },
+      {
+        "answer": "Moses: Born of Water and Fire was released on February 1, 2026.",
+        "question": "When was the film released?"
+      },
+      {
+        "answer": "Yes, it is rated TV-PG, making it generally suitable for family viewing with mild thematic elements depicting biblical struggles.",
+        "question": "Is the film suitable for families or children?"
+      },
+      {
+        "answer": "The movie is available on various digital platforms and free streaming services such as Tubi, Plex, The Roku Channel, and Apple TV.",
+        "question": "Where can viewers watch Moses: Born of Water and Fire?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 4,
+        "description": "Supernatural biblical events and plagues (e.g., waters turning to blood, pestilence) create unsettling and ominous imagery."
+      },
+      "language": {
+        "score": 1,
+        "description": "Minimal to no strong modern profanity, though period-appropriate conflict and heated exchanges occur."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depictions of biblical battles, ancient warfare, plagues, and corporal punishment of enslaved people."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background consumption of alcohol (e.g., wine at royal Egyptian banquets)."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Mild romantic themes and modest ancient attire with no explicit sexual content."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from brotherly betrayal, oppression, moral conflict, and mass tragedy."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 8,
+      "mystery": 4,
+      "romance": 2,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-09-01 16:01:53.273706",
+    "updated_at": "2026-09-01 16:01:53.273706"
+  }
 }
