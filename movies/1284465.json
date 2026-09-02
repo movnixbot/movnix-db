@@ -10,9 +10,9 @@
     "budget": "25000000",
     "revenue": "3200000",
     "status": "Released",
-    "popularity": 115.7806,
-    "voteAverage": 6.273,
-    "voteCount": 260,
+    "popularity": 119.3583,
+    "voteAverage": 6.3,
+    "voteCount": 267,
     "homepage": "https://a24films.com/films/the-death-of-robin-hood",
     "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
     "backdropPath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
@@ -54,6 +54,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Stories",
+      "key": "A1UKNvmb1Go",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser"
+    },
     {
       "name": "Official Clip",
       "key": "eH1Z9NcsukY",
@@ -771,6 +778,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/49BeD7y8ZkWiFJnRmUEnKO5p3DL.jpg",
+      "width": 1067,
+      "height": 1600,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zN3w5dfywWQBaWfwD3x7p5rd2Ts.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "width": 3840,
       "height": 2160,
@@ -1070,13 +1091,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/l0yJlistmGiELhAByLPo6KIXF11.jpg",
+      "width": 2859,
+      "height": 1608,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.273,
-      "votesCount": 260
+      "ratingValue": 6.3,
+      "votesCount": 267
     },
     {
       "source": "imdb",
@@ -1230,8 +1258,8 @@
       "name": "Michael Sarnoski",
       "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1239,14 +1267,14 @@
       "name": "Michael Sarnoski",
       "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
-      "tmdbPersonId": 4689938,
-      "name": "Alexander Black",
-      "profilePath": null,
+      "tmdbPersonId": 554,
+      "name": "Aaron Ryder",
+      "profilePath": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1262,9 +1290,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 554,
-      "name": "Aaron Ryder",
-      "profilePath": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
+      "tmdbPersonId": 4689938,
+      "name": "Alexander Black",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
