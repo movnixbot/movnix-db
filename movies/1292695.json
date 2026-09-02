@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "19382152",
     "status": "Released",
-    "popularity": 18.8001,
-    "voteAverage": 6.95,
-    "voteCount": 1088,
+    "popularity": 20.8485,
+    "voteAverage": 7,
+    "voteCount": 1091,
     "homepage": "https://www.warnerbros.com/movies/they-will-kill-you",
     "posterPath": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
     "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
@@ -388,6 +388,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/f2xDkzMOcQIWiDfoqakatFwDKNi.jpg",
+      "width": 2000,
+      "height": 2815,
+      "aspectRatio": 0.71,
+      "type": "poster"
+    },
+    {
       "filePath": "/8MmWafogKKc7nA2bZH8BSkytqhO.jpg",
       "width": 2000,
       "height": 3000,
@@ -420,13 +427,6 @@
       "width": 1023,
       "height": 1537,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/y1yW93zX633WxLjm3W51PjwXmIg.jpg",
-      "width": 1672,
-      "height": 2508,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -574,6 +574,13 @@
       "width": 832,
       "height": 1232,
       "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/y1yW93zX633WxLjm3W51PjwXmIg.jpg",
+      "width": 1672,
+      "height": 2508,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -735,13 +742,6 @@
       "width": 1155,
       "height": 1733,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/f2xDkzMOcQIWiDfoqakatFwDKNi.jpg",
-      "width": 2000,
-      "height": 2815,
-      "aspectRatio": 0.71,
       "type": "poster"
     },
     {
@@ -1569,13 +1569,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/1spkyZAby6PB83WT5A7KTrupqjS.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.95,
-      "votesCount": 1088
+      "ratingValue": 7,
+      "votesCount": 1091
     },
     {
       "source": "imdb",
@@ -1599,13 +1606,22 @@
       "order": 0
     },
     {
+      "tmdbPersonId": 4687,
+      "name": "Patricia Arquette",
+      "profilePath": "/jeThSouMatiuRiLkjDvSBLHpmq0.jpg",
+      "character": "Lily Woodhouse",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
       "tmdbPersonId": 2673750,
       "name": "Myha'la",
       "profilePath": "/hRc3igngt5dkpM08i0a3z7gkYWa.jpg",
       "character": "Maria Reaves",
       "job": "Actor",
       "department": "Acting",
-      "order": 1
+      "order": 2
     },
     {
       "tmdbPersonId": 19868,
@@ -1614,7 +1630,7 @@
       "character": "Ray",
       "job": "Actor",
       "department": "Acting",
-      "order": 2
+      "order": 3
     },
     {
       "tmdbPersonId": 10993,
@@ -1623,22 +1639,13 @@
       "character": "Kevin",
       "job": "Actor",
       "department": "Acting",
-      "order": 3
+      "order": 4
     },
     {
       "tmdbPersonId": 69122,
       "name": "Heather Graham",
       "profilePath": "/8PvramwVMWw4KKDt3u5ATAzekyV.jpg",
       "character": "Sharon",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
-    },
-    {
-      "tmdbPersonId": 4687,
-      "name": "Patricia Arquette",
-      "profilePath": "/jeThSouMatiuRiLkjDvSBLHpmq0.jpg",
-      "character": "Lily Woodhouse",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -1665,7 +1672,7 @@
       "tmdbPersonId": 3091751,
       "name": "Gabe Gabriel",
       "profilePath": "/nHWGkaGCeGLTqQfDmd1rx1ldH4z.jpg",
-      "character": "Short Steve",
+      "character": "Small Steve",
       "job": "Actor",
       "department": "Acting",
       "order": 8
@@ -1710,7 +1717,7 @@
       "tmdbPersonId": 146752,
       "name": "Darron Meyer",
       "profilePath": "/t5nDBaqALmeQkBlUOZDG2KBTM1v.jpg",
-      "character": "Ritchie",
+      "character": "Richie",
       "job": "Actor",
       "department": "Acting",
       "order": 13
@@ -1725,12 +1732,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1113116,
-      "name": "Andy Muschietti",
-      "profilePath": "/4ndnP2NNavhfGtJqihD4FVDsYMY.jpg",
+      "tmdbPersonId": 2008993,
+      "name": "Kirill Sokolov",
+      "profilePath": "/9ZaHNNeJDrMEiHOwSta7fYiG9Rq.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1743,21 +1750,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1094761,
-      "name": "Barbara Muschietti",
-      "profilePath": "/xWvPT4cOogigu2okyIXzN0VFhWc.jpg",
+      "tmdbPersonId": 1113116,
+      "name": "Andy Muschietti",
+      "profilePath": "/4ndnP2NNavhfGtJqihD4FVDsYMY.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 2008993,
-      "name": "Kirill Sokolov",
-      "profilePath": "/9ZaHNNeJDrMEiHOwSta7fYiG9Rq.jpg",
+      "tmdbPersonId": 1094761,
+      "name": "Barbara Muschietti",
+      "profilePath": "/xWvPT4cOogigu2okyIXzN0VFhWc.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
