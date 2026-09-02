@@ -379,5 +379,277 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1241803/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1241803,
+    "hash": "6bf5d71d4b9ac715114f0fb3d7f3351d627d3e4c9493bc392a1979cd6e81033a",
+    "summary_one_sentence": "After serving 19 years in prison, Jean Valjean seeks redemption while raising an orphaned girl and fleeing the relentless pursuit of Inspector Javert amid the turmoil of revolutionary France.",
+    "summary_short": "After serving a harsh 19-year prison sentence for stealing bread, Jean Valjean breaks parole to reinvent himself as a respected dignitary and seek redemption. He takes in Cosette, the young daughter of a dying factory worker, protecting her from the parasitic Thénardier family. As Cosette grows up and falls in love with the idealist Marius during a turbulent Parisian uprising, Valjean must constantly evade Inspector Javert, a lawman obsessed with bringing him to justice. Ultimately, Valjean fights to secure a peaceful, loving future for Cosette at the potential cost of his own freedom.",
+    "summary_long": "Paroled after 19 years of hard labor for stealing a loaf of bread, Jean Valjean finds himself a societal outcast until a merciful bishop inspires him to turn his life around. Adopting a new identity, Valjean prospers as a wealthy factory owner and benevolent mayor, though he is forced to flee when Inspector Javert discovers his true past. Before escaping, Valjean promises the dying worker Fantine that he will rescue her young daughter, Cosette, from the abusive, greedy Thénardiers. Valjean pays off the Thénardiers, takes Cosette under his wing, and raises her as his own daughter in Paris while keeping a low profile. Years later, a teenage Cosette falls deeply in love with Marius, a passionate student revolutionary fighting for social change in the 1832 June Rebellion. As political unrest boils over into armed violence on the barricades, Valjean risks everything to enter the conflict, saving Marius's life for Cosette's sake. During the chaos, Valjean also spares Javert's life, an act of mercy that shatters the inspector's rigid moral view and drives Javert to jump into the Seine. Having secured Cosette and Marius's happiness and future together, Valjean's identity is finally revealed to Marius, allowing him to pass away peacefully, redeemed and surrounded by those he loves.",
+    "synopsis": "Set against the backdrop of 19th-century France marked by poverty and social turmoil, Les Misérables tells the epic story of Jean Valjean, a former convict seeking spiritual rebirth. After breaking parole to build a righteous life, Valjean pledges to protect Cosette, an impoverished orphan girl mistreated by her guardians, the Thénardiers. Their quiet life together in Paris is constantly threatened by Inspector Javert, an unyielding lawman whose belief in rigid justice fuels a lifelong obsession with recapturing Valjean. When a student-led revolutionary movement erupts in the streets of Paris, the paths of Valjean, Cosette, her revolutionary lover Marius, and Javert converge, pushing each character to confront their deepest ideals of justice, mercy, sacrifice, and redemption.",
+    "keywords": [
+      "19th century France",
+      "French Revolution",
+      "redemption arc",
+      "relentless pursuer",
+      "cat-and-mouse hunt",
+      "mistaken identity",
+      "social inequality",
+      "poverty and struggle",
+      "sacrificial love",
+      "moral duty",
+      "orphaned child",
+      "class conflict",
+      "justice vs mercy",
+      "secret identity",
+      "political unrest"
+    ],
+    "themes": [
+      {
+        "theme": "Redemption",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Justice vs. Law",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Love and Compassion",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Social Injustice",
+        "confidence": 0.88
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "During the violent June Rebellion barricades, the intertwined fates of Valjean, Javert, and Marius come to a head as lives are placed directly in Valjean's hands amidst the conflict.",
+      "conflict": "Valjean seeks spiritual redemption and assumes a new identity as a respected town mayor, but Inspector Javert relentlessly pursues him, viewing him as a life-long criminal who cannot change.",
+      "resolution": "Valjean ensures the safety, love, and future of Cosette and Marius, securing his ultimate redemption and finding peace with his past.",
+      "introduction": "Jean Valjean is released from prison after serving 19 years for stealing a loaf of bread, bitter and hardened by a society that views him solely as a criminal.",
+      "risingAction": "Valjean takes in Fantine's orphaned daughter, Cosette, raising her while constantly evading Javert's pursuit. Years later in revolutionary Paris, Cosette falls in love with the student radical Marius as social unrest explodes."
+    },
+    "characters": [
+      {
+        "name": "Jean Valjean",
+        "role": "Hero",
+        "description": "An ex-convict seeking redemption who transforms into a compassionate protector and noble figure."
+      },
+      {
+        "name": "Inspector Javert",
+        "role": "Villain",
+        "description": "A relentless police inspector driven by a rigid sense of law and duty to hunt down Valjean."
+      },
+      {
+        "name": "Fantine",
+        "role": "Supporting Character",
+        "description": "A struggling, dying mother whose tragic plight drives Valjean's promise to care for her child."
+      },
+      {
+        "name": "Cosette",
+        "role": "Supporting Character",
+        "description": "Fantine's daughter, raised and protected by Valjean, representing hope, love, and a bright future."
+      },
+      {
+        "name": "Marius",
+        "role": "Supporting Character",
+        "description": "A idealist revolutionary caught in the Paris uprising who falls in love with Cosette."
+      },
+      {
+        "name": "The Thénardiers",
+        "role": "Villain",
+        "description": "Deceitful and abusive innkeepers who exploit Cosette for their own selfish greed."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jean Valjean",
+        "target": "Cosette",
+        "description": "Adoptive Father / Guardian"
+      },
+      {
+        "source": "Jean Valjean",
+        "target": "Inspector Javert",
+        "description": "Nemeses / Pursuer and Pursued"
+      },
+      {
+        "source": "Jean Valjean",
+        "target": "Fantine",
+        "description": "Protector / Benefactor"
+      },
+      {
+        "source": "Fantine",
+        "target": "Cosette",
+        "description": "Mother and Daughter"
+      },
+      {
+        "source": "Cosette",
+        "target": "Marius Pontmercy",
+        "description": "Lovers / Husband and Wife"
+      },
+      {
+        "source": "Jean Valjean",
+        "target": "Marius Pontmercy",
+        "description": "Savior / Father-in-Law"
+      },
+      {
+        "source": "Fantine",
+        "target": "The Thénardiers",
+        "description": "Victim / Exploitative Guardians"
+      },
+      {
+        "source": "The Thénardiers",
+        "target": "Cosette",
+        "description": "Abusive Caretakers"
+      },
+      {
+        "source": "The Thénardiers",
+        "target": "Jean Valjean",
+        "description": "Enemies / Extortionists"
+      },
+      {
+        "source": "Inspector Javert",
+        "target": "Marius Pontmercy",
+        "description": "Opposing Forces (Revolutionary vs. Law)"
+      }
+    ],
+    "seo": {
+      "slug": "les-miserables",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/les-miserables](https://movnix.com/movie/les-miserables)",
+        "name": "Les Misérables",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After 19 years in prison, Jean Valjean seeks redemption while raising Cosette and fleeing the relentless Inspector Javert amidst revolutionary Paris."
+      },
+      "keywords": [
+        "Les Misérables",
+        "Jean Valjean",
+        "Inspector Javert",
+        "Cosette",
+        "French Revolution movie",
+        "Les Miserables synopsis",
+        "Les Miserables overview"
+      ],
+      "canonical": "[https://movnix.com/movie/les-miserables](https://movnix.com/movie/les-miserables)",
+      "metaTitle": "Les Misérables - Synopsis, Plot & Movie Overview",
+      "openGraph": {
+        "og:title": "Les Misérables - Plot & Synopsis | Movnix",
+        "og:description": "Follow Jean Valjean's journey of redemption, sacrifice, and survival in revolutionary Paris as he protects Cosette from the relentless Inspector Javert."
+      },
+      "twitterCard": {
+        "twitter:title": "Les Misérables - Plot & Synopsis | Movnix",
+        "twitter:description": "Follow Jean Valjean's journey of redemption, sacrifice, and survival in revolutionary Paris as he protects Cosette from the relentless Inspector Javert."
+      },
+      "metaDescription": "Discover Les Misérables: Jean Valjean seeks redemption while pursued by Javert in revolutionary Paris. Explore plot details, themes, and overview."
+    },
+    "faq": [
+      {
+        "answer": "The story follows ex-convict Jean Valjean as he seeks redemption after serving 19 years for stealing a loaf of bread. He builds a new life while taking care of Fantine's orphaned daughter, Cosette, all while being relentlessly hunted by Inspector Javert amidst the turbulent backdrop of 19th-century revolutionary France.",
+        "question": "What is the primary plot of Les Misérables?"
+      },
+      {
+        "answer": "The dominant genres are historical drama, musical, and epic tragedy.",
+        "question": "What is the dominant genre of Les Misérables?"
+      },
+      {
+        "answer": "No, Les Misérables is not part of an expanded film franchise or cinematic universe. It is a standalone adaptation of Victor Hugo's classic 1862 novel and the acclaimed stage musical.",
+        "question": "Is this film part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene in Les Misérables.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main protagonist is Jean Valjean, a former prisoner who transforms his life into one dedicated to redemption, charity, and raising Cosette.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The main antagonist is Inspector Javert, a rigid lawman obsessed with moral absolutism and capturing Valjean.",
+        "question": "Who is the main antagonist pursuing Jean Valjean?"
+      },
+      {
+        "answer": "Valjean promises the dying factory worker Fantine that he will rescue, protect, and raise her young daughter, Cosette.",
+        "question": "What promise drives Jean Valjean's journey?"
+      },
+      {
+        "answer": "The climax of the story takes place during the June Rebellion of 1832 (the Paris Uprising) in revolutionary France.",
+        "question": "What historical event serves as the backdrop for the story?"
+      },
+      {
+        "answer": "The Thénardiers are deceitful and opportunistic innkeepers who mistreat and exploit young Cosette before Jean Valjean rescues her.",
+        "question": "Who are the Thénardiers?"
+      },
+      {
+        "answer": "Les Misérables is generally rated PG-13 due to suggestive material, violence, tactical battle scenes, and themes of prostitution, poverty, and suicide.",
+        "question": "Is Les Misérables suitable for all audiences?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild disturbing imagery involving harsh prison conditions, illness, poverty, and sewer escape scenes."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild profanity and period-typical insults, though generally restrained."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Depicts revolutionary conflict, street battles, shooting, and physical abuse of a child by caregivers."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Depictions of alcohol use, tavern scenes, and drunkenness."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "References to prostitution and sexual exploitation, though non-explicit in nature."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes involving systemic injustice, child exploitation, severe illness, tragic deaths, and moral dilemmas."
+      }
+    },
+    "movie_dna": {
+      "drama": 10,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 10,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 6,
+      "science": 0,
+      "suspense": 7,
+      "violence": 6
+    },
+    "created_at": "2026-09-02 06:06:19.414421",
+    "updated_at": "2026-09-02 06:06:19.414421"
+  }
 }
