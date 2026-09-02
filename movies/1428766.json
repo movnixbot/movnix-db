@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.856,
-    "voteAverage": 6.5,
-    "voteCount": 6,
+    "popularity": 7.3848,
+    "voteAverage": 6.6,
+    "voteCount": 7,
     "homepage": "https://sanctuarypictures.com.au/penny-lane-is-dead/",
     "posterPath": "/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg",
     "backdropPath": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
@@ -124,6 +124,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/vGZQCEnZpf0dLDW0Ok39uYl1aKG.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
       "width": 3840,
       "height": 2160,
@@ -148,8 +155,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 6
+      "ratingValue": 6.6,
+      "votesCount": 7
     },
     {
       "source": "imdb",
@@ -333,7 +340,14 @@
       "buy": []
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "Sierbahnn",
+      "content": "When you make a movie like this, there are a lot of preconceived notions about it, including popular tropes. This movie upends a lot of those tropes and makes this something quite interesting. By changing how the final girl works and how the main antagonists shifts, it becomes something rather unique and special. It is staged beautifully and acted with conviction. I like this movie a lot. I absolutely recommend it.",
+      "rating": 7,
+      "createdAt": "2026-09-01T11:15:30Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
@@ -359,5 +373,275 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1428766/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1428766,
+    "hash": "d9ea8371c89c457ee15febc229c0da50185141ddf4e0ef18e1769e30ba3b213c",
+    "summary_one_sentence": "In the sweltering Australian summer of 1986, three best friends must fight for their lives at a secluded beach house after a playful prank turns deadly.",
+    "summary_short": "During a scorching 1986 Australian summer, three lifelong friends retreat to an isolated beach house for an unforgettable weekend celebration. However, their carefree getaway darkens instantly when an innocent prank spirals out of control into a bloody disaster. As tensions boil and trust breaks down, the trip devolves into a brutal, claustrophobic struggle for survival. Trapped by the elements and their own deadly mistakes, they must face horrifying choices to make it through the night.",
+    "summary_long": "Set against the backdrop of a blistering 1986 Australian summer, three close friends gather at a remote coastal retreat for a sun-drenched weekend getaway. Eager to create lasting memories, the group immerses themselves in the local beach atmosphere and endless partying. The fun comes to a screeching halt when a mischievous prank backfires, triggering a cascading series of disastrous and violent events. Panic sets in as blood is spilled, forcing the group into a desperate bid to cover up the incident and protect themselves. Paranoia rapidly infects the friends, turning long-held secrets into explosive accusations while their isolation becomes a suffocating trap. As the brutal heat intensifies, external threats and internal mistrust collide to push every character to their absolute psychological limit. Survival becomes a violent game where no one can be trusted, and the bond between the friends is severed by gruesome necessity. By the time dawn breaks over the beach house, the devastating aftermath leaves the survivors forever marked by the horrific cost of one tragic mistake.",
+    "synopsis": "Set in 1986 during a scorching Aussie summer, three best friends head to a remote beach house for a weekend celebration, only for their sunny getaway to turn into a blood-soaked nightmare when a prank goes horribly wrong.",
+    "keywords": [
+      "1980s period piece",
+      "Australian Outback",
+      "scorching summer",
+      "beach house setting",
+      "prank gone wrong",
+      "fight for survival",
+      "blood-soaked",
+      "best friends dynamic",
+      "cabin in the woods vibe",
+      "slasher elements",
+      "isolation thriller",
+      "escalating tension",
+      "youth tragedy"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Friendship",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Guilt and Consequences",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Loss of Innocence",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "The situation reaches its peak intensity in a desperate, blood-soaked fight for survival against the harrowing fallout of their mistake.",
+      "conflict": "A high-spirited prank escalates drastically and goes wrong, suddenly shifting the weekend from a celebration into a life-or-death crisis.",
+      "resolution": "The violent ordeal draws to a close, leaving the surviving characters to process the devastating physical and emotional consequences of the fateful night.",
+      "introduction": "In 1986, three best friends head to a coastal Australian beach house to celebrate during a scorching summer, establishing their group dynamic and setting a festive tone.",
+      "risingAction": "Tensions boil over as the friends face immediate danger, forced to make split-second decisions while panic and distrust threaten to tear them apart from within."
+    },
+    "characters": [
+      {
+        "name": "Penny Lane",
+        "role": "Hero",
+        "description": "A promising student celebrating her university acceptance whose night is derailed after consuming a spiked cupcake."
+      },
+      {
+        "name": "Kat",
+        "role": "Anti Hero",
+        "description": "Penny's volatile and intensely jealous cousin who sets off the conflict with a cruel prank before things spiral out of control."
+      },
+      {
+        "name": "Angus",
+        "role": "Villain",
+        "description": "Kat's predatory drug-dealer boyfriend who turns the beach house gathering into a bloody fight for survival."
+      },
+      {
+        "name": "Toni",
+        "role": "Hero",
+        "description": "A relentless, brave, and loyal best friend who fights back fiercely to survive the night."
+      },
+      {
+        "name": "Amy",
+        "role": "Supporting Character",
+        "description": "One of the close best friends celebrating at the remote beach house party."
+      },
+      {
+        "name": "Merrick",
+        "role": "Villain",
+        "description": "A menacing older member of Angus's gang involved in running drugs."
+      },
+      {
+        "name": "Rodowsky",
+        "role": "Villain",
+        "description": "A member of Angus's violent crew that crashes the party."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Penny Lane",
+        "target": "Toni",
+        "description": "Best Friends/Romantic Partners"
+      },
+      {
+        "source": "Penny Lane",
+        "target": "Amy",
+        "description": "Best Friends"
+      },
+      {
+        "source": "Toni",
+        "target": "Amy",
+        "description": "Best Friends"
+      },
+      {
+        "source": "Penny Lane",
+        "target": "Kat",
+        "description": "Cousins/Rivals"
+      },
+      {
+        "source": "Kat",
+        "target": "Angus",
+        "description": "Girlfriend/Boyfriend and Accomplices"
+      },
+      {
+        "source": "Kat",
+        "target": "Toni",
+        "description": "Enemies/Antagonists"
+      },
+      {
+        "source": "Angus",
+        "target": "Merrick",
+        "description": "Criminal Associates"
+      },
+      {
+        "source": "Angus",
+        "target": "Rodowsky",
+        "description": "Criminal Associates"
+      },
+      {
+        "source": "Angus",
+        "target": "Penny Lane",
+        "description": "Attacker/Victim"
+      },
+      {
+        "source": "Toni",
+        "target": "Angus",
+        "description": "Enemies/Opponents"
+      }
+    ],
+    "seo": {
+      "slug": "penny-lane-is-dead",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/penny-lane-is-dead](https://movnix.com/movie/penny-lane-is-dead)",
+        "name": "Penny Lane Is Dead",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "en",
+        "description": "Set in 1986, during a scorching Aussie summer, three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong."
+      },
+      "keywords": [
+        "Penny Lane Is Dead",
+        "Penny Lane Is Dead movie",
+        "Australian horror film",
+        "1986 thriller movie",
+        "slasher horror 1980s",
+        "Movnix"
+      ],
+      "canonical": "[https://movnix.com/movie/penny-lane-is-dead](https://movnix.com/movie/penny-lane-is-dead)",
+      "metaTitle": "Penny Lane Is Dead (1986) - Plot, Details & Release Info",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/penny-lane-is-dead](https://movnix.com/movie/penny-lane-is-dead)",
+        "og:type": "video.movie",
+        "og:title": "Penny Lane Is Dead (1986) - Summer Turns Deadly",
+        "og:description": "Three best friends face a blood-soaked fight for survival when a beach house prank goes horribly wrong during a scorching Aussie summer."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Penny Lane Is Dead (1986) - Official Movie Details",
+        "twitter:description": "A scorching 1986 Aussie summer beach party turns into a bloody nightmare when a prank goes terribly wrong."
+      },
+      "metaDescription": "Set during a scorching 1986 Aussie summer, a beach house party turns into a blood-soaked fight for survival when a prank goes wrong."
+    },
+    "faq": [
+      {
+        "answer": "The film is set in 1986 during a scorching Australian summer.",
+        "question": "What is the release year or setting of Penny Lane Is Dead?"
+      },
+      {
+        "answer": "The story follows three best friends whose summer celebration at a beach house transforms into a violent struggle for survival after a prank goes disastrously wrong.",
+        "question": "What is the main plot of Penny Lane Is Dead?"
+      },
+      {
+        "answer": "The primary genres are horror and thriller, with strong elements of slasher and suspense.",
+        "question": "What is the dominant genre of the film?"
+      },
+      {
+        "answer": "No, it is a standalone horror film and not part of an existing franchise.",
+        "question": "Is Penny Lane Is Dead part of a franchise?"
+      },
+      {
+        "answer": "The narrative is set in Australia, specifically centered around a remote beach house.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, there is no post-credits scene after the end credits.",
+        "question": "Is there a post-credits scene?"
+      },
+      {
+        "answer": "The main conflict is ignited by a harmless prank that goes horribly wrong, spiraling into a bloody fight for survival.",
+        "question": "What triggers the main conflict in the story?"
+      },
+      {
+        "answer": "The story centers around a group of three best friends celebrating together during their summer break.",
+        "question": "Who are the primary characters in the film?"
+      },
+      {
+        "answer": "No, due to the intense violence, blood, and horror themes, it is intended for mature audiences.",
+        "question": "Is Penny Lane Is Dead suitable for younger audiences?"
+      },
+      {
+        "answer": "No, it is an original fictional horror story written specifically for the screen.",
+        "question": "Is the movie based on a true story or a book?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "Strong thriller and slasher elements with high tension and deadly stakes."
+      },
+      "language": {
+        "score": 6,
+        "description": "Frequent strong language typical of an intense adult thriller."
+      },
+      "violence": {
+        "score": 8,
+        "description": "High levels of violence involving a blood-soaked fight for survival following a prank gone wrong."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate alcohol or casual substance use associated with a party/beach house setting."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content indicated in the core premise."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense life-or-death situations and betrayal among close friends."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 7,
+      "comedy": 2,
+      "emotion": 6,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 8
+    },
+    "created_at": "2026-09-01 04:15:19.751981",
+    "updated_at": "2026-09-01 04:15:19.751981"
+  }
 }
