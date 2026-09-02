@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.6321,
+    "popularity": 1.6654,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1758145",
@@ -58,7 +58,80 @@
       "votesCount": 10
     }
   ],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 76673,
+      "name": "William L. Johnson",
+      "profilePath": "/uhrVyYAs53wO5B1u9i17GFGMm3p.jpg",
+      "character": "David Reynolds",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 167132,
+      "name": "Karen Abercrombie",
+      "profilePath": "/yDTPfrVXge69QZo8hc8GTDPnW9U.jpg",
+      "character": "Sarah Mitchell",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 18347,
+      "name": "Tonea Stewart",
+      "profilePath": "/wWmYTgwq6Llqhy4IoLC6FCUFQlq.jpg",
+      "character": "Ruth Hazel Reynolds",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 154060,
+      "name": "Kelly Perine",
+      "profilePath": "/5BDUR7EnygobWFxP8SXLatnijnE.jpg",
+      "character": "Marcus Wells",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 2588918,
+      "name": "Tee Ashira",
+      "profilePath": "/wqBXm54dbXcpu6yu1a88Df2KeFu.jpg",
+      "character": "Elaine Reynolds",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 122630,
+      "name": "Caryn Ward",
+      "profilePath": "/4I2uexX6yUzZV0vpgbuPGfontVH.jpg",
+      "character": "Angela Wilson",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 1201435,
+      "name": "M. Legend Brown",
+      "profilePath": null,
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1201436,
+      "name": "Micheal D. Brown",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    }
+  ],
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt42467740",
@@ -103,5 +176,221 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1758145/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1758145,
+    "hash": "d504c5bc45c5c2a1dbc23ba700de50dc596ebc4f41fe3bd7d4184679671f22f9",
+    "summary_one_sentence": "In a dark church on a quiet night, a desperate woman contemplating suicide and a grieving pastor struggling with his own lost conviction help each other confront hope.",
+    "summary_short": "Desperate and overwhelmed, Sarah Mitchell enters a quiet, darkened church with the intent to end her life. Inside, she encounters Pastor David Reynolds, who is quietly enduring his own severe crisis of faith and loss. Brought together in a moment of mutual spiritual isolation, the two begin an honest conversation about their pain. Through their unexpected encounter, both characters find the strength to confront their despair and rediscover hope.",
+    "summary_long": "On a quiet and heavy night, Sarah Mitchell reaches her absolute breaking point and steps into a dark, empty church, prepared to take her own life. Unbeknownst to her, Pastor David Reynolds is already inside, grappling with a profound personal crisis and the agonizing loss of his own faith. When David discovers Sarah in the sanctuary, he steps in not as a spiritual authority, but as a fellow human suffering through deep sorrow. As they open up to one another, Sarah reveals the immense pain driving her to end her life, while David confesses his own doubts and feelings of abandonment by God. Their raw, transparent conversation forces both of them to confront the grief and disillusionment they have been carrying alone. Instead of offering easy answers, David listens with deep empathy, finding his own pastoral purpose reawakened by Sarah's urgent need for comfort. In turn, Sarah sees that she is not alone in her brokenness, finding a glimmer of light in David's honest struggle. By the end of the night, their shared vulnerability anchors them back to life, offering a quiet yet powerful testament to the healing power of shared faith and human connection.",
+    "synopsis": "On a quiet night, Sarah Mitchell enters a dark, empty church carrying a burden so heavy she is prepared to end her life. Expecting solitude, she instead encounters Pastor David Reynolds, a man of God who is secretly fighting his own internal battle and a devastating loss of faith. As these two wounded souls cross paths in the quiet sanctuary, they engage in a raw and emotionally charged dialogue about suffering, doubt, and redemption. 'Where Is Your Faith' is a poignant narrative that explores how unexpected human connection can illuminate the darkest moments and restore a sense of hope when all seems lost.",
+    "keywords": [
+      "faith crisis",
+      "suicide prevention",
+      "church setting",
+      "pastor in crisis",
+      "late night encounter",
+      "emotional healing",
+      "restoration of hope",
+      "grief and loss",
+      "spiritual journey",
+      "character-driven",
+      "intimate drama",
+      "second chances",
+      "redemption",
+      "existential struggle",
+      "christian drama"
+    ],
+    "themes": [
+      {
+        "theme": "Faith and Doubt",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Hope and Healing",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Redemption",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.78
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "In a pivotal emotional confrontation, they directly face their deepest grief and choices, deciding whether to succumb to hopelessness or reach for redemption.",
+      "conflict": "Both characters face intense internal crises—Sarah feels driven to end her life, while Pastor David questions his calling and ability to offer spiritual guidance.",
+      "resolution": "Through mutual vulnerability, Sarah and David begin to rediscover purpose, opening a path toward healing, renewed hope, and restored faith.",
+      "introduction": "Sarah enters a quiet, darkened church in a state of deep personal despair, while Pastor David struggles silently with his own fading faith.",
+      "risingAction": "An unintended middle-of-the-night encounter brings the two together, forcing them to share their pain, exchange raw truths, and grapple with their shared doubts."
+    },
+    "characters": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Hero",
+        "description": "A woman at her lowest point seeking a reason to live, whose journey toward healing drives the narrative."
+      },
+      {
+        "name": "Pastor David Reynolds",
+        "role": "Mentor",
+        "description": "A struggling spiritual leader who guides Sarah while simultaneously confronting his own crisis of faith."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sarah Mitchell",
+        "target": "Pastor David Reynolds",
+        "description": "Fellow Soul Seekers / Mutual Support"
+      }
+    ],
+    "seo": {
+      "slug": "where-is-your-faith",
+      "jsonLd": {
+        "name": "Where Is Your Faith",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Karen Abercrombie",
+            "@type": "Person"
+          },
+          {
+            "name": "William L. Johnson",
+            "@type": "Person"
+          }
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Sarah Mitchell",
+            "@type": "Person"
+          },
+          {
+            "name": "Pastor David Reynolds",
+            "@type": "Person"
+          }
+        ],
+        "description": "On a quiet night, Sarah Mitchell enters a dark church ready to end her life. Inside, Pastor David Reynolds faces his own loss of faith. Together, they confront hope."
+      },
+      "keywords": [
+        "Where Is Your Faith movie",
+        "Karen Abercrombie",
+        "William L Johnson",
+        "christian drama film",
+        "faith based movie"
+      ],
+      "canonical": "[https://movnix.com/movie/where-is-your-faith](https://movnix.com/movie/where-is-your-faith)",
+      "metaTitle": "Where Is Your Faith (2026) - Karen Abercrombie Movie",
+      "openGraph": {
+        "og:title": "Where Is Your Faith - Starring Karen Abercrombie & William L. Johnson",
+        "og:description": "Two souls facing despair meet in a quiet church to confront grief, lost faith, and ultimate hope."
+      },
+      "twitterCard": {
+        "twitter:title": "Where Is Your Faith - Official Movie Page",
+        "twitter:description": "Karen Abercrombie and William L. Johnson star in a powerful story about grief, doubt, and finding hope."
+      },
+      "metaDescription": "On a dark night, Sarah (Karen Abercrombie) and Pastor David (William L. Johnson) confront grief, hope, and their shared loss of faith in a quiet church."
+    },
+    "faq": [
+      {
+        "answer": "Where Is Your Faith is a faith-based drama that explores themes of struggle, mental health, grief, and spiritual redemption.",
+        "question": "What is the dominant genre of Where Is Your Faith?"
+      },
+      {
+        "answer": "The film stars Karen Abercrombie as Sarah Mitchell and William L. Johnson as Pastor David Reynolds.",
+        "question": "Who are the lead actors in the film?"
+      },
+      {
+        "answer": "The story follows Sarah Mitchell, a woman entering a dark church contemplating ending her life on a quiet night, where she encounters Pastor David Reynolds, who is grappling with his own loss of faith. Together, they confront their pain and search for hope.",
+        "question": "What is the main premise of Where Is Your Faith?"
+      },
+      {
+        "answer": "No, Where Is Your Faith is a standalone drama film and is not part of a larger franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes naturally before the end credits roll.",
+        "question": "Is there a post-credit scene in Where Is Your Faith?"
+      },
+      {
+        "answer": "While the story addresses realistic personal struggles and crisis of faith, it is a fictional narrative created to deliver a message of hope and healing.",
+        "question": "Is Where Is Your Faith based on a true story?"
+      },
+      {
+        "answer": "The movie is tailored for audiences looking for uplifting, faith-focused narratives, spiritual encouragement, or stories dealing with emotional healing and overcoming despair.",
+        "question": "Who is the intended audience for this movie?"
+      },
+      {
+        "answer": "Key themes include crisis of faith, mental health awareness, emotional grief, compassion, forgiveness, and the power of human connection during desperate moments.",
+        "question": "What are the primary themes explored in the film?"
+      },
+      {
+        "answer": "The core of the movie takes place inside a quiet, dark church during a single pivotal night where the two main characters interact.",
+        "question": "Where does the primary setting of the movie take place?"
+      },
+      {
+        "answer": "Availability depends on distribution platforms, but faith-based dramas like this are typically available on select streaming services, digital video-on-demand platforms, or direct-to-video releases.",
+        "question": "Where can I watch Where Is Your Faith?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Atmospheric dark setting within a church, but no explicit horror or jumpscares present."
+      },
+      "language": {
+        "score": 0,
+        "description": "No explicit strong language or vulgarity indicated in the material."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Depicts intent and suicidal ideation, representing self-harm risk without direct physical violence against others."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or substance abuse referenced."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual themes present."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense emotional themes involving suicidal ideation, deep grief, despair, and loss of faith."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 0,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 2
+    },
+    "created_at": "2026-08-31 22:03:09.839895",
+    "updated_at": "2026-08-31 22:03:09.839895"
+  }
 }
