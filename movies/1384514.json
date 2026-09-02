@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 3.2477,
+    "popularity": 3.3766,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1384514",
@@ -243,10 +243,31 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IN",
+      "title": "Vvan: Force Of The Forrest",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "The Vvaan: Force of the Forrest",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "IN",
+      "title": "Vvan",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "IN",
+      "title": "Vvan - Force of the Forrest",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt34498564",
-    "wikidataId": null,
+    "wikidataId": "Q131102878",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -287,5 +308,267 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1384514/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1384514,
+    "hash": "19e51217babfe96311d018bbede0d58ee1ddaaa813b3e4bd7afa6edafd4fb8ca",
+    "summary_one_sentence": "When a skeptical urban man inadvertently awakens an ancient divine goddess by entering a forbidden forest, he must abandon his rational mindset to protect his ancestral village from total destruction.",
+    "summary_short": "Driven by logic and skepticism, a rational urban man returns to his ancestral village and openly defies a long-standing taboo against entering a sacred forbidden forest. His defiance disrupts a delicate spiritual balance, awakening an almighty divine goddess whose sudden presence threatens to unleash catastrophic power. Confronted with forces that defy all scientific understanding, he must embrace his destiny and step forward as the village's sole defender. Ultimately, he must reconcile reason with faith to save his people from imminent annihilation.",
+    "summary_long": "Deep within a remote rural village lies an ancient, shrouded forest strictly forbidden to all outsiders due to ages-old local spiritual traditions. A logical, urban-educated man returns to his roots, dismissing the villagers' warnings as mere superstitious folklore and choosing to venture straight into the restricted woods. His intrusive presence unwittingly triggers a terrifying cosmic rupture, awakening a powerful divine goddess who has slept undisturbed for generations. As malevolent divine wrath and unnatural phenomena begin to destabilize the region, the skeptic's rigid worldview completely unravels. Local authorities and elders prove powerless against the mounting supernatural threats, leaving the village teetering on the edge of destruction. Realizing that empirical logic cannot combat mystical fury, the protagonist comes to accept that certain forces operate beyond human comprehension. He embarks on a treacherous journey to uncover the origin of the goddess's wrath and learn the ancient rituals needed to appease her. Transforming from a reckless non-believer into a reluctant spiritual champion, he rallies his community to take a final stand against the encroaching chaos. Through immense courage, self-sacrifice, and newfound reverence for the divine, he fights to restore equilibrium and secure his people's survival.",
+    "synopsis": "The Vvaan is a high-stakes action-thriller and supernatural drama centered on the clash between modern rationalism and ancient divine power. The narrative follows a pragmatically minded city dweller who travels to his ancestral home, where life revolves around strict traditions designed to honor a mysterious, sacred forest. Driven by intellect and skepticism, the protagonist disregards the community's dire warnings and crosses the sacred boundary, accidentally unleashing an ancient deity. As supernatural phenomena begin to devastate the countryside, he is forced to confront supernatural realities that defy all logic, ultimately stepping into the role of the village's unexpected defender.",
+    "keywords": [
+      "ancient goddess",
+      "ancestral curse",
+      "forbidden forest",
+      "skeptic vs believer",
+      "folklore thriller",
+      "divine awakening",
+      "reluctant hero",
+      "village savior",
+      "mythological action",
+      "cosmic horror elements",
+      "tradition vs modernity",
+      "supernatural entity",
+      "impending annihilation",
+      "nature's wrath"
+    ],
+    "themes": [
+      {
+        "theme": "Logic vs. The Divine",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Duty & Salvation",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Ancestral Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Mysterious",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Epic",
+        "confidence": 0.78
+      }
+    ],
+    "story_structure": {
+      "climax": "The protagonist embraces his destiny, standing as the village's sole defender in a high-stakes confrontation against the overwhelming cosmic and ancient forces pushing toward destruction.",
+      "conflict": "Defying local warnings, the protagonist enters the forbidden forest and inadvertently awakens an ancient divine goddess, shattering his worldview and unleashing forces beyond human logic.",
+      "resolution": "With the village saved, the protagonist accepts a new reality that transcends mere logic, establishing a renewed balance between the modern world, ancestral tradition, and divine presence.",
+      "introduction": "A rational urban protagonist returns to his ancestral village, skeptical of local traditions and the looming, forbidden forest that surrounds the community.",
+      "risingAction": "As supernatural anomalies escalate and threaten the community with total annihilation, the protagonist struggles to reconcile his rational mindset with divine realities while stepping into an unexpected leadership role."
+    },
+    "characters": [
+      {
+        "name": "Sidharth Malhotra's Character",
+        "role": "Hero",
+        "description": "A rational urban man who defies the forbidden forest, awakens the goddess, and must rise as the village's sole savior against annihilation."
+      },
+      {
+        "name": "Tamannaah Bhatia's Character",
+        "role": "Supporting Character",
+        "description": "Represents the divine goddess or key mystical figure whose awakening shifts the balance of power beyond human logic."
+      },
+      {
+        "name": "Nimrat Kaur's Character",
+        "role": "Villain",
+        "description": "An antagonistic force or authority figure tied to the ancient village forces threatening the people's destruction."
+      },
+      {
+        "name": "Sunil Grover",
+        "role": "Comic Relief",
+        "description": "Provides lighthearted humor and comic beats amidst the supernatural tension in the village."
+      },
+      {
+        "name": "Maniesh Paul",
+        "role": "Comic Relief",
+        "description": "Adds comedic energy and witty rapport alongside the hero's journey."
+      },
+      {
+        "name": "Anup Soni",
+        "role": "Mentor",
+        "description": "A wise village elder or authority who guides the hero regarding ancestral traditions and local folklore."
+      },
+      {
+        "name": "Shweta Tiwari",
+        "role": "Supporting Character",
+        "description": "A grounded villager or maternal figure anchored in the village's traditions and plight."
+      },
+      {
+        "name": "Yo Yo Honey Singh",
+        "role": "Other",
+        "description": "Appears in a special musical performance or distinct stylized cameo character."
+      },
+      {
+        "name": "Manu Rishi Chadha",
+        "role": "Supporting Character",
+        "description": "A local resident providing key narrative context and village perspective."
+      },
+      {
+        "name": "Durgesh Kumar",
+        "role": "Comic Relief",
+        "description": "A quirky local villager who offers humorous reactions to the unfolding supernatural events."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Rational Urban Man",
+        "target": "Divine Forest Goddess",
+        "description": "Awakener / Awakened Entity"
+      },
+      {
+        "source": "Rational Urban Man",
+        "target": "Village Ancestors / Elders",
+        "description": "Defier / Tradition Keepers"
+      },
+      {
+        "source": "Rational Urban Man",
+        "target": "Villagers",
+        "description": "Protector / Savior"
+      },
+      {
+        "source": "Divine Forest Goddess",
+        "target": "Villagers",
+        "description": "Threat / Threatening Divine Power"
+      }
+    ],
+    "seo": {
+      "slug": "the-vvaan",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-vvaan](https://movnix.com/movie/the-vvaan)",
+        "name": "The Vvaan",
+        "@type": "Movie",
+        "genre": [
+          "Fantasy",
+          "Thriller",
+          "Action"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realize that some powers exist beyond logic and he must rise as the village's only savior to protect his people from annihilation."
+      },
+      "keywords": [
+        "The Vvaan",
+        "The Vvaan movie",
+        "The Vvaan synopsis",
+        "supernatural thriller movie",
+        "forbidden forest movie",
+        "divine goddess movie",
+        "mythological thriller"
+      ],
+      "canonical": "[https://movnix.com/movie/the-vvaan](https://movnix.com/movie/the-vvaan)",
+      "metaTitle": "The Vvaan Movie Overview: Plot, Cast & Release Details | Movnix",
+      "openGraph": {
+        "og:title": "The Vvaan - Logic Meets Ancient Divine Power",
+        "og:description": "When an urban skeptic defies a forbidden ancestral forest, he awakens a goddess and becomes his village's last hope against annihilation."
+      },
+      "twitterCard": {
+        "twitter:title": "The Vvaan - Logic Meets Ancient Divine Power",
+        "twitter:description": "When an urban skeptic defies a forbidden ancestral forest, he awakens a goddess and becomes his village's last hope against annihilation."
+      },
+      "metaDescription": "A rational urban man awakens an ancient divine goddess in a forbidden forest. Can he save his village from total annihilation? Read The Vvaan full synopsis."
+    },
+    "faq": [
+      {
+        "answer": "The film follows a rational urban man who defies his family's warnings and enters an ancestral forbidden forest. In doing so, he awakens a divine goddess and must accept that supernatural powers exist beyond logic to become the village's sole protector against total destruction.",
+        "question": "What is the core plot of The Vvaan?"
+      },
+      {
+        "answer": "The dominant genre is mythological thriller combined with supernatural fantasy and drama.",
+        "question": "What is the dominant genre of The Vvaan?"
+      },
+      {
+        "answer": "No, The Vvaan is a standalone original feature film.",
+        "question": "Is this movie part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene at the end of the film, though the ending resolves the main narrative arc.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story centers on a pragmatic, educated urban man who initially rejects his village's ancient superstitions until faced with undeniable divine forces.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "The central theme revolves around the clash between modern rationality and ancient divine faith, as well as the duty of stepping up to protect one's community.",
+        "question": "What is the primary theme of the film?"
+      },
+      {
+        "answer": "The ancestral forbidden forest acts as a sacred boundary holding an ancient divine goddess, serving as the central catalyst for the plot when the boundary is breached.",
+        "question": "What is the significance of the forbidden forest?"
+      },
+      {
+        "answer": "The movie contains intense supernatural elements, suspense, and mythological conflict, making it best suited for teens and adult audiences.",
+        "question": "Is The Vvaan suitable for family viewing?"
+      },
+      {
+        "answer": "The movie maintains an atmospheric, tense, and awe-inspiring tone as grounded logic gradually yields to mythic scale and drama.",
+        "question": "What tone does the movie maintain throughout?"
+      },
+      {
+        "answer": "The narrative takes place in a remote traditional village bordered by a mysterious, ancient forbidden forest.",
+        "question": "Where does the story take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 7,
+        "description": "High suspense and atmospheric horror involving forbidden ancestral forests and ancient powers."
+      },
+      "language": {
+        "score": 2,
+        "description": "Minimal to no strong language indicated in the core premise."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to high fantasy violence implied by forest awakening and threats of village annihilation."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No prominent drug or alcohol references in the main storyline."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present or implied."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity stemming from existential village threats, defiance of tradition, and high-stakes survival."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 9,
+      "mystery": 9,
+      "romance": 2,
+      "science": 3,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-08-31 16:02:11.368289",
+    "updated_at": "2026-08-31 16:02:11.368289"
+  }
 }
