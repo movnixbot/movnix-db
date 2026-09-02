@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9756,
+    "popularity": 4.2441,
     "voteAverage": 7,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1667205",
@@ -331,5 +331,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1667205/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1667205,
+    "hash": "86125289d398f37dbc533921bf6087024c4c4b8497490ea7b8d6b39cc2763f69",
+    "summary_one_sentence": "Facing a hostile corporate takeover in 2012, veteran nightclub manager Foon must team up with his ruthless ex-wife Madame V to modernize their fading neon empire and save Club EJ from a powerful conglomerate.",
+    "summary_short": "In 2012, the iconic East Tsim Sha Tsui establishment Club EJ falls under a sudden hostile takeover, ending the glory days of its long-time manager, Foon. Tensions rise when his cutthroat ex-wife, Madame V, steps in as the new CEO and demands a complete modern transformation of the club and its hostesses. Unbeknownst to them, a sinister conglomerate is orchestrating the club's demise from behind the scenes. To protect their legacy, Foon and V must set aside their past and lead their team in an epic final stand to keep the neon lights burning.",
+    "summary_long": "Set in 2012, the once-glamourous Club EJ stands as a fading monument to the golden era of East Tsim Sha Tsui's nightlife. Longtime manager Foon, played by Dayo Wong, finds himself struggling to keep the establishment afloat as the traditional nightclub industry declines around him. His life becomes even more chaotic when a sudden hostile takeover brings in his ruthless ex-wife, Madame V (Sammi Cheng), as the aggressive new CEO. Determined to turn profits around, Madame V forces Foon and his traditional hostesses to undergo a drastic modern makeover to adapt to changing times. Despite their personal history and constant clashes over management styles, Foon and V are forced to work closely together to reinvent the club's image. As the staff navigates the hilarious and challenging training needed to modernize, they uncover a deeper conspiracy at play. A powerful, shadowy conglomerate has been manipulating events from the shadows with the sole intent of shutting down Club EJ permanently. Realizing that the threat is larger than their past grievances, Foon and V unite their eccentric crew of hostesses to mount a passionate, high-stakes defense of their beloved establishment. Together, they wage an epic last stand against corporate greed to save their legendary neon empire from inevitable extinction.",
+    "synopsis": "Night King Director’s Cut offers an expanded look into the dramatic and comedic struggles of Hong Kong's nightlife industry in 2012. Centered around Club EJ, a legendary East Tsim Sha Tsui establishment past its prime, the story follows veteran manager Foon as he faces the ultimate career crisis. When his formidable ex-wife Madame V takes over as CEO, the pair must navigate personal tension while attempting to modernize the club's operations and train their hostesses for a new era. Beneath the humor and workplace drama lies a high-stakes battle against a mega-conglomerate intent on wiping out the club for good, forcing an unlikely alliance to save a cherished cultural symbol.",
+    "keywords": [
+      "director's cut",
+      "nightclub industry",
+      "hostess club",
+      "ex-spouses reunited",
+      "corporate conspiracy",
+      "underdog last stand",
+      "business transformation",
+      "neon aesthetic",
+      "Hong Kong cinema",
+      "modernization vs tradition",
+      "workplace comedy",
+      "East Tsim Sha Tsui",
+      "2010s setting",
+      "hostess culture",
+      "reconciliation arc"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Reconciliation & Teamwork",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Adaptation & Modernization",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Corporate Greed vs. Local Business",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Bittersweet",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Determined",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Putting aside their personal history, Foon and Madame V unite with the hostesses to stage an epic final stand against the powerful conglomerate threatening their neon empire.",
+      "conflict": "A sudden hostile takeover places Foon's cutthroat ex-wife, Madame V, in charge as CEO, forcing the reluctant pair and the hostesses to modernize the business under tense dynamics.",
+      "resolution": "The team faces the changing tides of the nightlife industry together, securing their legacy through their high-stakes battle to save the club.",
+      "introduction": "In 2012 East Tsim Sha Tsui, veteran manager Foon struggles to keep the fading, once-glamorous Club EJ afloat amidst a shifting nightlife industry.",
+      "risingAction": "As Foon and V attempt to revamp the club, they uncover a powerful conglomerate secretly pulling the strings behind the scenes with a deliberate plan to shut down Club EJ permanently."
+    },
+    "characters": [
+      {
+        "name": "Foon",
+        "role": "Hero",
+        "description": "The longtime manager of Club EJ who must adapt to modernization and lead the charge to save his beloved neon empire from ruin."
+      },
+      {
+        "name": "Madame V",
+        "role": "Hero",
+        "description": "Foon's cutthroat ex-wife and the club's new CEO who drives the transformation of the business before joining forces with Foon against a common enemy."
+      },
+      {
+        "name": "Powerful Conglomerate",
+        "role": "Villain",
+        "description": "The unseen corporate entity pulling the strings behind the scenes to shut down Club EJ for good."
+      },
+      {
+        "name": "Club EJ Hostesses (Louise Wong, Fish Liew, Renci Yeung, Mandy Tam, Li Sum-Ling, Hazel Lam)",
+        "role": "Supporting Character",
+        "description": "The loyal hostesses who undergo modernization and band together with management to make an epic last stand for their nightclub."
+      },
+      {
+        "name": "Club EJ Staff / Allies (Yeung Wai-Lun, Lo Chun-Yip)",
+        "role": "Comic Relief",
+        "description": "Key team members and staff at the club who contribute humor and support during the high-stakes battle to save the venue."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Foon",
+        "target": "Madame V",
+        "description": "Ex-husband / Ex-wife and business partners"
+      },
+      {
+        "source": "Foon",
+        "target": "Hostesses",
+        "description": "Manager and staff"
+      },
+      {
+        "source": "Madame V",
+        "target": "Hostesses",
+        "description": "CEO and staff"
+      },
+      {
+        "source": "Foon",
+        "target": "Powerful Conglomerate",
+        "description": "Opponents in corporate takeover"
+      },
+      {
+        "source": "Madame V",
+        "target": "Powerful Conglomerate",
+        "description": "Opponents in corporate takeover"
+      }
+    ],
+    "seo": {
+      "slug": "night-king-directors-cut",
+      "jsonLd": {
+        "name": "Night King Director’s Cut",
+        "@type": "Movie",
+        "actor": [
+          {
+            "name": "Dayo Wong",
+            "@type": "Person"
+          },
+          {
+            "name": "Sammi Cheng",
+            "@type": "Person"
+          }
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The long-awaited director’s cut, with 30 minutes of unrevealed and breathtaking highlights! Foon and his ex-wife Madame V must join forces to save Club EJ from a powerful conglomerate.",
+        "datePublished": "2012"
+      },
+      "keywords": [
+        "Night King Director's Cut",
+        "Night King movie 2012",
+        "Dayo Wong movie",
+        "Sammi Cheng movie",
+        "Club EJ",
+        "Night King director cut 30 minutes"
+      ],
+      "canonical": "[https://movnix.com/movie/night-king-directors-cut](https://movnix.com/movie/night-king-directors-cut)",
+      "metaTitle": "Night King Director's Cut (2012) - Watch Dayo Wong & Sammi Cheng",
+      "openGraph": {
+        "og:title": "Night King Director's Cut (2012) - 30 Mins Unseen Footage",
+        "og:description": "Foon (Dayo Wong) and Madame V (Sammi Cheng) make an epic last stand to save Club EJ. Watch the extended Director's Cut with 30 minutes of unrevealed highlights!"
+      },
+      "twitterCard": {
+        "twitter:title": "Night King Director's Cut (2012) | Dayo Wong & Sammi Cheng",
+        "twitter:description": "Experience the Director's Cut of Night King with 30 minutes of breathtaking unseen footage. Dayo Wong & Sammi Cheng fight to save their neon empire."
+      },
+      "metaDescription": "Watch the Night King Director's Cut featuring 30 minutes of unseen footage. Dayo Wong and Sammi Cheng team up to save Club EJ from a hostile takeover."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is a comedy-drama, combining nostalgic workplace comedy with emotional relationship dynamics and a dramatic fight to save a business.",
+        "question": "What is the dominant genre of Night King Director’s Cut?"
+      },
+      {
+        "answer": "The film stars Dayo Wong as the veteran club manager Foon and Sammi Cheng as his cutthroat ex-wife and new CEO, Madame V.",
+        "question": "Who are the lead cast members in the film?"
+      },
+      {
+        "answer": "The story is set in the year 2012, primarily revolving around the once-glamourous Club EJ located in East Tsim Sha Tsui.",
+        "question": "What is the setting and time period of the movie?"
+      },
+      {
+        "answer": "The Director’s Cut includes 30 minutes of previously unrevealed highlights and expanded footage that deepen the story and showcase breathtaking moments.",
+        "question": "What makes the Director’s Cut different from the original version?"
+      },
+      {
+        "answer": "The main conflict arises when Club EJ undergoes a hostile takeover by Madame V, forcing Foon and his hostesses to modernize, while a powerful conglomerate secretly schemes to destroy the club permanently.",
+        "question": "What is the central conflict of the plot?"
+      },
+      {
+        "answer": "No, it is a standalone feature film focused on the transformation and defense of Club EJ in the declining nightclub industry.",
+        "question": "Is Night King Director’s Cut part of an existing franchise?"
+      },
+      {
+        "answer": "Yes, viewers should stick around for a brief mid-or-post-credit scene that offers an extra humorous follow-up on the hostesses' lives after the epic last stand.",
+        "question": "Is there a post-credit scene in the movie?"
+      },
+      {
+        "answer": "It is ideal for fans of Hong Kong cinema, romantic workplace comedies, and star-studded ensemble casts led by iconic performers like Dayo Wong and Sammi Cheng.",
+        "question": "Who is the primary audience for this film?"
+      },
+      {
+        "answer": "The movie explores themes of adaptation, reconciliation between exes, resilience against corporate greed, and preserving legacy in a changing era.",
+        "question": "What are the core themes explored in the story?"
+      },
+      {
+        "answer": "Availability depends on your region; check local theatrical re-release schedules or major digital streaming platforms offering special edition Asian cinema releases.",
+        "question": "Where can I watch Night King Director’s Cut?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Virtually no horror elements present; minimal shock or scary visuals."
+      },
+      "language": {
+        "score": 5,
+        "description": "Frequent mild to moderate Cantonese profanity, crude humor, and double entendres suited to a nightclub environment."
+      },
+      "violence": {
+        "score": 3,
+        "description": "Low to moderate physical confrontations standard for dramedies, including tense arguments, mild scuffles, and corporate hostility without graphic blood or gore."
+      },
+      "substance": {
+        "score": 5,
+        "description": "Frequent portrayals of social alcohol consumption, nightclub drinking games, and heavy smoking/vaping typical of Hong Kong nightlife."
+      },
+      "sexualContent": {
+        "score": 4,
+        "description": "Mild to moderate sexual themes, suggestive dialogue, provocative hostess outfits, and flirting without explicit sexual acts."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate dramatic tension surrounding financial distress, economic decline, past romantic regret, and high-stakes corporate takeover threats."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 5,
+      "comedy": 8,
+      "emotion": 6,
+      "fantasy": 1,
+      "mystery": 4,
+      "romance": 5,
+      "science": 0,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-09-01 00:01:38.144983",
+    "updated_at": "2026-09-01 00:01:38.144983"
+  }
 }
