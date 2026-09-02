@@ -6,11 +6,11 @@
     "originalName": "포핸즈",
     "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
     "firstAirDate": "2026-08-29",
-    "lastAirDate": "2026-08-29",
+    "lastAirDate": "2026-08-30",
     "status": "Returning Series",
-    "popularity": 24.3644,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 52.9646,
+    "voteAverage": 9.571,
+    "voteCount": 7,
     "type": "Miniseries",
     "posterPath": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
     "backdropPath": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
@@ -337,6 +337,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/d5rwRepkKqXth8BsRL4N4UcJxWO.jpg",
+      "width": 1500,
+      "height": 2222,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pWf03qHF2IUalkEbyEKo2gXDnEm.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/eTzC7L3HgsNNBEkTpl9s3tVJUYv.jpg",
       "width": 2000,
       "height": 3000,
@@ -596,6 +610,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/atn3EIVmDgUggyj6DFKzxU07SX2.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
       "width": 3840,
       "height": 2160,
@@ -813,7 +834,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9.571,
+      "votesCount": 7
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 1878952,
@@ -987,11 +1014,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
