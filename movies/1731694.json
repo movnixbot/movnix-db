@@ -254,5 +254,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1731694/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1731694,
+    "hash": "8c8b370c34d9f18db68a31d053e313b1d378383ac2132cfdb1ca3322ddd666f9",
+    "summary_one_sentence": "The Mandalorian and Grogu gather with their misfit allies for a festive celebration of their heroics, only for an impending pirate threat to endanger the party.",
+    "summary_short": "After surviving countless perilous missions across the galaxy, Din Djarin and Grogu unite with their loyal allies for a grand party honoring their brave deeds. As the heroic crew exchanges lighthearted and action-packed tales of past adventures, the cheerful atmosphere is suddenly threatened by a rogue band of pirates. To save their gathering, the heroes must draw upon their signature teamwork and Mandalorian grit to thwart the unexpected villainous intrusion.",
+    "summary_long": "Following their legendary exploits across the galaxy, Din Djarin and his formidable companion Grogu convene with a colorful ensemble of misfit allies for a well-deserved celebration. The gathering serves as an epic party dedicated to honoring their shared triumphs and enduring bonds. Throughout the festivities, various companions take turns regaling the crowd with animated, exaggerated retellings of their most daring escapes and heroic battles. However, the joyful reunion takes a sharp turn when news of a looming pirate threat reaches the partygoers. Undeterred by the dark clouds forming over their event, the Mandalorian and Grogu quickly rally their allies to construct a defense. The team relies on their clever tactics, Mandalorian martial skills, and a bit of Force-assisted luck to confront the encroaching buccaneers. Each hero finds a unique moment to shine as they protect their comrades and preserve the spirit of their gathering. By turning potential disaster into a triumphant showcase of camaraderie, the crew proves that no pirate fleet can break their tight-knit coalition. Ultimately, the crisis serves to forge an even stronger bond among the heroes as they return to their well-earned festivities.",
+    "synopsis": "LEGO Star Wars: The Mandalorian brings a humorous and lighthearted twist to the acclaimed galactic saga. The story follows the iconic bounty hunter Din Djarin and his beloved ward Grogu as they host a massive festive gathering alongside their closest allies, celebrating their many triumphant adventures across the galaxy. As friends share stories of courage and battle, an unexpected pirate fleet threatens to disrupt the party, forcing the heroes to band together once again to save the day in classic LEGO fashion.",
+    "keywords": [
+      "lego star wars",
+      "mandalorian",
+      "grogu",
+      "bounty hunter",
+      "outer rim",
+      "space western",
+      "pirates",
+      "recounting tales",
+      "celebration",
+      "misfit crew",
+      "found family",
+      "humorous scifi",
+      "brick animation",
+      "scifi adventure"
+    ],
+    "themes": [
+      {
+        "theme": "Heroism and Celebration",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Found Family and Community",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Storytelling and Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Impending Threat and Survival",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Fun",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Adventurous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The heroes face off against the invading pirate forces in a chaotic, high-stakes battle to protect their celebration.",
+      "conflict": "A surprise pirate threat arrives to disrupt the festivities and endanger the crew.",
+      "resolution": "With the threat neutralized, the group restores peace and resumes their festive gathering.",
+      "introduction": "The Mandalorian, Grogu, and their allies gather for a lively party to celebrate their past heroic deeds.",
+      "risingAction": "The allies recount their prior adventures for inspiration while scrambling to rally their forces against the impending attack."
+    },
+    "characters": [
+      {
+        "name": "Din Djarin (The Mandalorian)",
+        "role": "Hero",
+        "description": "A stoic, honorable Mandalorian bounty hunter who protects Grogu and leads his crew of allies against galaxy-wide threats."
+      },
+      {
+        "name": "Peli Motto",
+        "role": "Comic Relief",
+        "description": "A eccentric, talkative starship mechanic on Tatooine who offers humorous commentary and assistance to Mando."
+      },
+      {
+        "name": "Ahsoka Tano",
+        "role": "Mentor",
+        "description": "A wise and skilled former Jedi Padawan who offers guidance on the Force and aids the group in their adventures."
+      },
+      {
+        "name": "Bo-Katan Kryze",
+        "role": "Supporting Character",
+        "description": "A formidable Mandalorian warrior and leader who fights alongside Din Djarin to unite their people."
+      },
+      {
+        "name": "Migs Mayfeld",
+        "role": "Anti Hero",
+        "description": "A sharp-tongued former Imperial sharpshooter with a complicated past who reluctantly aids Mando's missions."
+      },
+      {
+        "name": "Majordomo",
+        "role": "Supporting Character",
+        "description": "The verbose and overly formal Twi'lek bureaucrat who assists in managing local affairs on Tatooine."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The Mandalorian (Din Djarin)",
+        "target": "Grogu",
+        "description": "Protector / Adopted Child"
+      },
+      {
+        "source": "The Mandalorian (Din Djarin)",
+        "target": "Misfit Allies",
+        "description": "Comrades-in-arms / Friends"
+      },
+      {
+        "source": "Grogu",
+        "target": "Misfit Allies",
+        "description": "Friends / Companions"
+      },
+      {
+        "source": "The Mandalorian (Din Djarin)",
+        "target": "Pirates",
+        "description": "Adversaries / Enemies"
+      },
+      {
+        "source": "Misfit Allies",
+        "target": "Pirates",
+        "description": "Adversaries / Enemies"
+      }
+    ],
+    "seo": {
+      "slug": "lego-star-wars-the-mandalorian",
+      "jsonLd": {
+        "name": "LEGO Star Wars: The Mandalorian",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms."
+      },
+      "keywords": [
+        "LEGO Star Wars",
+        "The Mandalorian",
+        "Grogu",
+        "Star Wars LEGO special",
+        "LEGO Mandalorian"
+      ],
+      "canonical": "[https://movnix.com/movie/lego-star-wars-the-mandalorian](https://movnix.com/movie/lego-star-wars-the-mandalorian)",
+      "metaTitle": "LEGO Star Wars: The Mandalorian - Special & Story Overview",
+      "openGraph": {
+        "og:title": "LEGO Star Wars: The Mandalorian",
+        "og:description": "The Mandalorian and Grogu celebrate their heroism with allies until a pirate threat looms. Get all the details on this epic adventure."
+      },
+      "twitterCard": {
+        "twitter:title": "LEGO Star Wars: The Mandalorian",
+        "twitter:description": "The Mandalorian and Grogu celebrate their heroism with allies until a pirate threat looms. Get all the details on this epic adventure."
+      },
+      "metaDescription": "Join The Mandalorian and Grogu as they celebrate their heroism with friends until a pirate threat looms. Explore details and stream info."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the LEGO Star Wars franchise and takes place within the broader Star Wars universe, focusing on characters from The Mandalorian.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "The dominant genre is animated family comedy, blending Star Wars action and sci-fi elements with classic LEGO lighthearted humor.",
+        "question": "What is the dominant genre of this title?"
+      },
+      {
+        "answer": "No, there is no major post-credit scene that alters the story, though standard comedic credits typical of LEGO specials are featured.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The story centers on Din Djarin (The Mandalorian) and Grogu, alongside various misfit allies and friends from their galactic adventures.",
+        "question": "Who are the main characters featured in the story?"
+      },
+      {
+        "answer": "The plot follows The Mandalorian and Grogu attending an epic party celebrating their heroism, where friends recount past adventures while a looming pirate threat emerges.",
+        "question": "What is the primary plot of the special?"
+      },
+      {
+        "answer": "Yes, like most LEGO Star Wars content, it is family-friendly and designed for viewers of all ages.",
+        "question": "Is this suitable for young children and families?"
+      },
+      {
+        "answer": "No prior deep knowledge is strictly required, though familiarity with the main characters and key events of The Mandalorian will enhance the comedic references.",
+        "question": "Do I need to watch all seasons of The Mandalorian to understand this?"
+      },
+      {
+        "answer": "The primary conflict comes from a menacing pirate threat that interrupts the hero's celebratory party.",
+        "question": "Who is the main antagonist in this special?"
+      },
+      {
+        "answer": "No, the tone is significantly lighter and more playful, utilizing visual gags and satire characteristic of LEGO animation.",
+        "question": "Is the tone serious like the live-action series?"
+      },
+      {
+        "answer": "Yes, Grogu is a central character alongside The Mandalorian and plays a key role in both the celebration and handling the pirate threat.",
+        "question": "Is Grogu featured prominently in the story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal scary elements; very mild tension surrounding a lighthearted pirate threat."
+      },
+      "language": {
+        "score": 0,
+        "description": "Family-friendly dialogue with no vulgarity or strong language."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Comedic, cartoonish LEGO-style action violence with light blaster fire and slapstick pirate confrontation, lacking blood, gore, or graphic harm."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Mild depictions of fictional party celebratory drinks (such as blue milk) with no real-world drug or alcohol abuse."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Low emotional intensity focused on celebratory storytelling, teamwork, and heroic friendship."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 7,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 1,
+      "mystery": 3,
+      "romance": 0,
+      "science": 7,
+      "suspense": 4,
+      "violence": 3
+    },
+    "created_at": "2026-09-02 06:08:26.966283",
+    "updated_at": "2026-09-02 06:08:26.966283"
+  }
 }
