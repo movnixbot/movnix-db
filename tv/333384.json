@@ -8,9 +8,9 @@
     "firstAirDate": "2026-08-31",
     "lastAirDate": "2026-08-31",
     "status": "Returning Series",
-    "popularity": 0.345,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 0.5302,
+    "voteAverage": 8,
+    "voteCount": 1,
     "type": "Scripted",
     "posterPath": "/ycCT55fSujjlcDI3Og43z1XDrgX.jpg",
     "backdropPath": "/o5uc9Xuq5zYDqkoEmInadtiIjdM.jpg",
@@ -322,7 +322,12 @@
       "vote_average": 0
     }
   ],
-  "genres": [],
+  "genres": [
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
+    }
+  ],
   "companies": [],
   "keywords": [],
   "videos": [],
@@ -356,7 +361,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8,
+      "votesCount": 1
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 1380669,
@@ -492,9 +503,24 @@
       "job": "Actor",
       "department": "Acting",
       "order": 14
+    },
+    {
+      "tmdbPersonId": 2474353,
+      "name": "Vasily Sviridov",
+      "profilePath": "/p0wnbtuw0Na2kQLPzJ9RtNjYOjK.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "RU",
+      "title": "Pora na zavod",
+      "type": "transliteration"
+    }
+  ],
   "externalIds": {
     "imdbId": "tt38756429",
     "wikidataId": null,
