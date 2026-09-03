@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 2.709,
+    "popularity": 2.5393,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1215889",
     "posterPath": "/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
-    "backdropPath": null,
+    "backdropPath": "/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
     "collectionId": null,
     "certification": "NR"
   },
@@ -59,17 +59,17 @@
       "type": "poster"
     },
     {
+      "filePath": "/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
       "width": 1178,
       "height": 1768,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/nwLxmTHssK5us2BJJXLfyphWTX9.jpg",
-      "width": 1365,
-      "height": 2048,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -83,6 +83,13 @@
       "filePath": "/aW2Wj3OifylRzYeNR2Iwv9FxZyC.jpg",
       "width": 1638,
       "height": 2457,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/nwLxmTHssK5us2BJJXLfyphWTX9.jpg",
+      "width": 1365,
+      "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -120,6 +127,27 @@
       "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/hqp92TSjTKEQVE2kJllzXdpUWz3.jpg",
+      "width": 1652,
+      "height": 2478,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8uFXOungso9ri1iPErlesnKn5qF.jpg",
+      "width": 1652,
+      "height": 2478,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -174,6 +202,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 4
+    },
+    {
+      "tmdbPersonId": 2440021,
+      "name": "Sandesh Kulkarni",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
     },
     {
       "tmdbPersonId": 113667,
