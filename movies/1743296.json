@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.6697,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 3.9056,
+    "voteAverage": 5,
+    "voteCount": 1,
     "homepage": "https://canelonespelicula.com",
     "posterPath": "/s2g8wLNs6G5XYa5ivfUNuWbQTKQ.jpg",
     "backdropPath": "/hw8VcGRqjc0LAjdCiHVOsWFF1Ey.jpg",
@@ -88,6 +88,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 5,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -302,5 +307,252 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1743296/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1743296,
+    "hash": "5ea741f63ed4ae253c326e737b82eac56b037fff0d74d098e28381e4af0d592d",
+    "summary_one_sentence": "In this nocturnal thriller based on true events, a man kidnaps the mother of writer Hernán Casciari to avenge a decades-old childhood prank that ended in tragedy.",
+    "summary_short": "Inspired by real events, Daniel Olesnik kidnaps Chichita, the mother of writer Hernán Casciari, during a tense, suffocating night in 2015. Olesnik is driven by a deep-seated desire for vengeance over a 1987 prank orchestrated by Hernán and his friend Chiri that pushed his own mother to suicide. As the night unfolds, long-buried secrets and dark lingering trauma surface in a high-stakes standoff. What begins as a quest for closure quickly spirals into an inescapable and deadly struggle.",
+    "summary_long": "In 2015, a quiet night turns harrowing when Daniel Olesnik orchestrates the calculated kidnapping of Chichita, the elderly mother of renowned writer Hernán Casciari. Driven by bitter resentment, Olesnik seeks to settle a devastating blood debt that has consumed him for nearly three decades. The root of his hatred traces back to 1987, when a seemingly harmless childhood prank played by young Hernán and his best friend Chiri triggered a disastrous sequence of events. That prank ultimately drove Olesnik’s own mother to take her life, fracturing his world and leaving him obsessed with retribution. Confined within the tense, claustrophobic atmosphere of a single night, Chichita must navigate the unhinged psyche of her captor. Meanwhile, the shadow of Hernán’s past choices looms large over the unfolding crisis as the emotional toll of the tragedy comes due. Dark comedic beats intermingle with suffocating suspense as Olesnik forces a confrontation over accountability, grief, and long-standing guilt. As the hours tick away, the escalation of tension brings both captor and hostage closer to a violent point of no return. Ultimately, the night exposes the destructive power of lingering revenge and the irreversible consequences of thoughtless actions.",
+    "synopsis": "Inspired by remarkable true events, Cannelloni is a gripping nocturnal thriller that blends tense drama with dark, satirical undertones. The story takes place over the course of one suffocating night in 2015, following the unexpected abduction of Chichita—mother to famous author Hernán Casciari. Her captor, Daniel Olesnik, is a man haunted by a tragic event from 1987, when an ill-fated prank executed by a young Hernán and his friend Chiri resulted in the suicide of Olesnik's mother. Decades later, Olesnik returns to extract a deadly retribution for his family's ruin, trapping Chichita in a psychological game of survival. Blending elements of comedy, drama, and nail-biting suspense, the narrative dives deep into themes of guilt, historical consequences, and the destructive nature of unyielding vengeance.",
+    "keywords": [
+      "kidnapping",
+      "blood debt",
+      "revenge plot",
+      "single night timeline",
+      "nocturnal thriller",
+      "inspired by true events",
+      "past catching up",
+      "tragic consequences",
+      "suffocating atmosphere",
+      "escalating tension",
+      "prank gone wrong",
+      "family trauma",
+      "dark comedy thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Guilt and Consequences",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      }
+    ],
+    "story_structure": {
+      "climax": "The confrontation reaches a critical tipping point in the dead of night, where the true cost of the past prank comes to a head and Chichita's immediate survival hangs in the balance.",
+      "conflict": "Olesnik kidnaps Chichita to settle a perceived blood debt, forcing Hernán and his family into a desperate race against time to save her while confronting the ghost of their past.",
+      "resolution": "The explosive night reaches its conclusion, leaving the long-standing vendetta addressed and forced to a close amidst the immediate aftermath of the crisis.",
+      "introduction": "Hernán Casciari's mother, Chichita, is abruptly targeted during a single fateful night by Daniel Olesnik, driven by a decades-old grudge dating back to a 1987 prank.",
+      "risingAction": "Tension intensifies over the nocturnal hours as Olesnik's vengeful spiral deepens, trapping the characters in a suffocating psychological game with mounting stakes."
+    },
+    "characters": [
+      {
+        "name": "Chichita",
+        "role": "Hero",
+        "description": "Mother of Hernán Casciari who becomes the primary target and victim of the central night-long kidnapping plot."
+      },
+      {
+        "name": "Daniel Olesnik",
+        "role": "Villain",
+        "description": "The kidnapper seeking lethal vengeance for a 1987 prank that he holds responsible for his mother's suicide."
+      },
+      {
+        "name": "Hernán Casciari",
+        "role": "Supporting Character",
+        "description": "Writer whose past childhood prank unintentionally triggers the tragic and deadly chain of events."
+      },
+      {
+        "name": "Chiri",
+        "role": "Supporting Character",
+        "description": "Hernán's childhood friend who co-orchestrated the 1987 prank that set the blood debt in motion."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Daniel Olesnik",
+        "target": "Chichita",
+        "description": "Kidnapper / Victim"
+      },
+      {
+        "source": "Chichita",
+        "target": "Hernán Casciari",
+        "description": "Mother / Son"
+      },
+      {
+        "source": "Daniel Olesnik",
+        "target": "Hernán Casciari",
+        "description": "Vengeful Enemy / Target of Blood Debt"
+      },
+      {
+        "source": "Hernán Casciari",
+        "target": "Chiri",
+        "description": "Childhood Friends / Accomplices"
+      },
+      {
+        "source": "Daniel Olesnik",
+        "target": "Daniel's Mother",
+        "description": "Son / Mother (Deceased)"
+      },
+      {
+        "source": "Hernán Casciari",
+        "target": "Daniel's Mother",
+        "description": "Prankster / Victim of Prank"
+      },
+      {
+        "source": "Chiri",
+        "target": "Daniel's Mother",
+        "description": "Prankster / Victim of Prank"
+      },
+      {
+        "source": "Daniel Olesnik",
+        "target": "Chiri",
+        "description": "Vengeful Enemy"
+      }
+    ],
+    "seo": {
+      "slug": "cannelloni",
+      "jsonLd": {
+        "name": "Cannelloni",
+        "@type": "Movie",
+        "about": {
+          "name": "Inspired by true events",
+          "@type": "Thing"
+        },
+        "genre": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Inspired by true events, this nocturnal thriller follows the 2015 kidnapping of Chichita—mother of writer Hernán Casciari—by Daniel Olesnik in a deadly spiral of vengeance spanning decades."
+      },
+      "keywords": [
+        "Cannelloni movie",
+        "Hernán Casciari",
+        "Chichita kidnapping",
+        "Daniel Olesnik",
+        "true story thriller",
+        "Argentine thriller",
+        "nocturnal thriller",
+        "revenge thriller movie"
+      ],
+      "canonical": "[https://movnix.com/movie/cannelloni](https://movnix.com/movie/cannelloni)",
+      "metaTitle": "Cannelloni (2015 Thriller) - Hernán Casciari Story & Synopsis",
+      "openGraph": {
+        "og:title": "Cannelloni - A Deadly Thriller Inspired by True Events",
+        "og:description": "A 1987 prank sparks a suffocating spiral of vengeance in this nocturnal thriller following the 2015 kidnapping of Hernán Casciari's mother."
+      },
+      "twitterCard": {
+        "twitter:title": "Cannelloni - A Deadly Thriller Inspired by True Events",
+        "twitter:description": "A 1987 prank sparks a suffocating spiral of vengeance in this nocturnal thriller following the 2015 kidnapping of Hernán Casciari's mother."
+      },
+      "metaDescription": "In a single night, a deadly feud ignites when a mother is kidnapped to avenge a 1987 prank. Discover the tense nocturnal thriller inspired by true events."
+    },
+    "faq": [
+      {
+        "answer": "Cannelloni is a nocturnal thriller inspired by true events. It follows the 2015 kidnapping of Chichita, mother of writer Hernán Casciari, by Daniel Olesnik, who seeks revenge for a 1987 prank by Hernán and his friend Chiri that drove Olesnik's mother to suicide.",
+        "question": "What is Cannelloni about?"
+      },
+      {
+        "answer": "The dominant genre of Cannelloni is a nocturnal psychological thriller and revenge drama.",
+        "question": "What is the dominant genre of Cannelloni?"
+      },
+      {
+        "answer": "Yes, Cannelloni is inspired by true events involving writer Hernán Casciari, his friend Chiri, and the kidnapping of Hernán's mother, Chichita.",
+        "question": "Is Cannelloni based on a true story?"
+      },
+      {
+        "answer": "No, Cannelloni is a standalone film and is not part of an existing cinematic franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a focused real-time nocturnal thriller, Cannelloni does not feature any post-credit or mid-credit scenes.",
+        "question": "Is there a post-credit scene in Cannelloni?"
+      },
+      {
+        "answer": "The story takes place over the course of a single, tense night as the deadly spiral of vengeance unfolds.",
+        "question": "Over what timeframe does the plot of Cannelloni take place?"
+      },
+      {
+        "answer": "The primary antagonist is Daniel Olesnik, a man seeking to settle a blood debt and avenge his mother's suicide.",
+        "question": "Who is the primary antagonist in Cannelloni?"
+      },
+      {
+        "answer": "The central conflict is driven by Daniel Olesnik's desire for revenge against Hernán Casciari and his friend Chiri for a prank they played back in 1987.",
+        "question": "What is the main conflict driving the story?"
+      },
+      {
+        "answer": "Viewers can expect an inescapable, suffocating, suspenseful, and deadly atmosphere that builds steadily throughout the night.",
+        "question": "What tone can viewers expect from Cannelloni?"
+      },
+      {
+        "answer": "The key figures referenced are writer Hernán Casciari, his mother Chichita, his childhood friend Chiri, and Daniel Olesnik.",
+        "question": "Who are the key real-life figures depicted or referenced in the story?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 5,
+        "description": "Psychological tension, suffocating nocturnal atmosphere, and thriller elements related to home invasion and revenge."
+      },
+      "language": {
+        "score": 3,
+        "description": "Likely moderate strong language typical of intense thriller narratives, though unspecified in the overview."
+      },
+      "violence": {
+        "score": 6,
+        "description": "High potential for violence given the premises of kidnapping, blood debt, and a deadly spiral of vengeance."
+      },
+      "substance": {
+        "score": 1,
+        "description": "No explicit substance use mentioned in the summary."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the summary."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Very high emotional intensity involving maternal kidnapping, suicide driven by a past prank, and severe revenge themes."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 4,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 0,
+      "science": 0,
+      "suspense": 9,
+      "violence": 6
+    },
+    "created_at": "2026-09-02 20:08:01.46041",
+    "updated_at": "2026-09-02 20:08:01.46041"
+  }
 }
