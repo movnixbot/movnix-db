@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "564513",
     "status": "Released",
-    "popularity": 10.0546,
-    "voteAverage": 7.1,
-    "voteCount": 31,
+    "popularity": 12.4562,
+    "voteAverage": 7.152,
+    "voteCount": 33,
     "homepage": "https://mock-movie-website.com/movies/1245859",
     "posterPath": "/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
     "backdropPath": "/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
@@ -382,8 +382,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.1,
-      "votesCount": 31
+      "ratingValue": 7.152,
+      "votesCount": 33
     },
     {
       "source": "crawled",
@@ -404,7 +404,7 @@
     {
       "tmdbPersonId": 120932,
       "name": "Claire Foy",
-      "profilePath": "/4IS02g8RHFOG4YQUSZu8EDu7Oxa.jpg",
+      "profilePath": "/pI1lOswQWZRhc8TKu0MESulw9uF.jpg",
       "character": "Lady Savage",
       "job": "Actor",
       "department": "Acting",
@@ -528,8 +528,17 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 75585,
-      "name": "Mark Hopkins",
+      "tmdbPersonId": 1189506,
+      "name": "Peter Glanz",
+      "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1733919,
+      "name": "Oliver Roskill",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -537,12 +546,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1189506,
-      "name": "Peter Glanz",
-      "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
+      "tmdbPersonId": 75585,
+      "name": "Mark Hopkins",
+      "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -559,17 +568,8 @@
       "name": "Peter Glanz",
       "profilePath": "/4PBC9EPlm93B7n2VcySgJXXDbYY.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1733919,
-      "name": "Oliver Roskill",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
