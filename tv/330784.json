@@ -1,29 +1,464 @@
 {
   "tvShow": {
     "tmdbId": 330784,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
+    "imdbId": "tt43644041",
+    "name": "Tuzlu Kahve",
+    "originalName": "Tuzlu Kahve",
     "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
+    "firstAirDate": "2026-09-01",
+    "lastAirDate": "2026-09-01",
+    "status": "Returning Series",
+    "popularity": 6.2805,
+    "voteAverage": 6,
+    "voteCount": 1,
+    "type": "Scripted",
+    "posterPath": "/onerMNvo9vYIkk4djMNVSNcZWB2.jpg",
+    "backdropPath": "/i2C7xDd2Kc22GvQtgnvsFSzxa4T.jpg",
     "certification": null
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "6a72345559866143ae46b539",
+      "air_date": "2026-09-01",
+      "episodes": [
+        {
+          "air_date": "2026-09-01",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 7639445,
+          "name": "1.1",
+          "overview": "No description",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330784,
+          "still_path": "/f9Avt1KG8vn8iHXgUcFi3BxFr5u.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": [
+            {
+              "character": "",
+              "credit_id": "6a98939eb1e867faea8beefa",
+              "order": 500,
+              "adult": false,
+              "gender": 0,
+              "id": 6453254,
+              "known_for_department": "Acting",
+              "name": "Ayliz Duman",
+              "original_name": "Ayliz Duman",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "",
+              "credit_id": "6a9893afc76822203bb44020",
+              "order": 501,
+              "adult": false,
+              "gender": 2,
+              "id": 1992177,
+              "known_for_department": "Acting",
+              "name": "Mehmet Korhan Fırat",
+              "original_name": "Mehmet Korhan Fırat",
+              "popularity": 1.7683,
+              "profile_path": "/87Lri6GuddVrTOcy1Bi9ofcHx9m.jpg"
+            },
+            {
+              "character": "",
+              "credit_id": "6a9893ffe7a9e13a316272fc",
+              "order": 502,
+              "adult": false,
+              "gender": 0,
+              "id": 4206619,
+              "known_for_department": "Acting",
+              "name": "Tringa Shala",
+              "original_name": "Tringa Shala",
+              "popularity": 0.5314,
+              "profile_path": null
+            },
+            {
+              "character": "",
+              "credit_id": "6a98940fb27bec9189b8fb9d",
+              "order": 503,
+              "adult": false,
+              "gender": 0,
+              "id": 6453256,
+              "known_for_department": "Acting",
+              "name": "Zihni Can",
+              "original_name": "Zihni Can",
+              "popularity": 0,
+              "profile_path": null
+            }
+          ]
+        },
+        {
+          "air_date": "2026-09-08",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7728000,
+          "name": "Episode 2",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330784,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-15",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7728001,
+          "name": "Episode 3",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330784,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-22",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7728275,
+          "name": "Episode 4",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330784,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Season 1",
+      "networks": [
+        {
+          "id": 778,
+          "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+          "name": "Star TV",
+          "origin_country": "TR"
+        }
+      ],
+      "overview": "",
+      "id": 534448,
+      "poster_path": "/zo9OvCP48beTImvqsGufKTorowH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 10751,
+      "name": "Family"
+    },
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 189040,
+      "name": "Poll Films",
+      "logoPath": "/5OwTFNgHEx4wBNNUc69M2vrK67v.png",
+      "originCountry": "TR"
+    }
+  ],
   "keywords": [],
   "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "images": [
+    {
+      "filePath": "/onerMNvo9vYIkk4djMNVSNcZWB2.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/i2C7xDd2Kc22GvQtgnvsFSzxa4T.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/onerMNvo9vYIkk4djMNVSNcZWB2.jpg",
+      "width": 795,
+      "height": 1072,
+      "aspectRatio": 0.742,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+      "width": 901,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/haU6BYJIwU1z5olF94wsFAYIAtt.jpg",
+      "width": 1242,
+      "height": 1730,
+      "aspectRatio": 0.718,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3P5VzRrKXSDqfTyP7KbtReoEk66.jpg",
+      "width": 901,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/m2TGUs6ronL64NLhtEcsa9RBOk1.jpg",
+      "width": 680,
+      "height": 1000,
+      "aspectRatio": 0.68,
+      "type": "poster"
+    },
+    {
+      "filePath": "/bRw8Ac5YhQqqt44HXcZMvkOikNA.jpg",
+      "width": 805,
+      "height": 1200,
+      "aspectRatio": 0.671,
+      "type": "poster"
+    },
+    {
+      "filePath": "/b01pkRNXBBZQ5TZwdsPbThFjNdo.jpg",
+      "width": 1365,
+      "height": 768,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/i2C7xDd2Kc22GvQtgnvsFSzxa4T.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 6,
+      "votesCount": 1
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 1246603,
+      "name": "Nebahat Çehre",
+      "profilePath": "/sWqAQdUAM5RJS0xdksHJQbnB5tb.jpg",
+      "character": "Feryal İpekli",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 1258747,
+      "name": "Eda Ece",
+      "profilePath": "/14W0FDshCBbZc8Yem9kzC0CRw6k.jpg",
+      "character": "Derin Kutaygil",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 1255432,
+      "name": "Buğra Gülsoy",
+      "profilePath": "/czraxtVbKkDEhX7HPRlQc3mH1AP.jpg",
+      "character": "Mehmet Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 115012,
+      "name": "Binnur Kaya",
+      "profilePath": "/yYFWPDkScL4OgZPO5Z50rVwe5jQ.jpg",
+      "character": "Hatun Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 238632,
+      "name": "Şevval Sam",
+      "profilePath": "/vIvqB62VSsDCOKEPcWX1tPdQzrE.jpg",
+      "character": "Candan Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 145726,
+      "name": "Nevra Serezli",
+      "profilePath": "/5DArwRh28vTJmk7qG5oCQl4RjRZ.jpg",
+      "character": "Sitare Kutaygil",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 40024,
+      "name": "Settar Tanrıöğen",
+      "profilePath": "/zgVuK1f31l6TakyhsF59FzFahP0.jpg",
+      "character": "Osman Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 59752,
+      "name": "Cengiz Bozkurt",
+      "profilePath": "/fdxk6BXDPIALDUIpvAjqmBg9M6D.jpg",
+      "character": "Ünver İpekli",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 1254603,
+      "name": "Ceren Moray",
+      "profilePath": "/3K5s4wJqGc4JY2sTV4754Y3dnXa.jpg",
+      "character": "Aybüke",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 1258598,
+      "name": "Yasemin Özilhan",
+      "profilePath": "/oL29Rni2mVssFslHjBGrKtgknlu.jpg",
+      "character": "Elit İpekli",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 109139,
+      "name": "Sarp Apak",
+      "profilePath": "/5DxDhhLS7CWp6dSjDzrsaw0eclv.jpg",
+      "character": "Murat Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 1964255,
+      "name": "Enis Arıkan",
+      "profilePath": "/tQOHM5vpwsJrKF0XgpY13ddSis2.jpg",
+      "character": "Taylan Kutaygil",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 1572058,
+      "name": "Nergis Kumbasar",
+      "profilePath": "/fyGLBqOBMzGhYkRZPkYD1yUuTGv.jpg",
+      "character": "Tiraje Kutaygil",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 87222,
+      "name": "Hatice Aslan",
+      "profilePath": "/3AfcaaXYatSN5njBi3EbMzEG3Lg.jpg",
+      "character": "Nermin Destan",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 5916858,
+      "name": "Melis Fis",
+      "profilePath": "/xgkBU2VuWsKDSo5DaYKs200copy.jpg",
+      "character": "İpek Aydınoğlu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
+    },
+    {
+      "tmdbPersonId": 4649726,
+      "name": "Ece Yosmaoğlu",
+      "profilePath": "/7o2edjPhCpZczQJhWzdBKpnNrHT.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1839736,
+      "name": "Aslı Zengin",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3512332,
+      "name": "Polat Yağcı",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1904212,
+      "name": "Mustafa Kotan",
+      "profilePath": "/50A6r9nMd8NrkIvihfCIX1XGYDu.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2690969,
+      "name": "Banu Zengin",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": "tt43644041",
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": "tuzlukahvedizi",
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
