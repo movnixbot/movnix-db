@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.0388,
-    "voteAverage": 5.375,
-    "voteCount": 8,
+    "popularity": 34.9234,
+    "voteAverage": 6.3,
+    "voteCount": 14,
     "homepage": "https://www.neonrated.com/film/the-wrong-girls",
     "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
     "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
@@ -103,6 +103,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/linFfZIJLyuvcYG6Q2CBQYzefKI.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lDYmh3IzTmSkoFD1wdOtMtTFeZG.jpg",
       "width": 1270,
       "height": 1905,
@@ -153,6 +160,34 @@
     },
     {
       "filePath": "/ijuTxzbB0N67nGXaFR3jG8tTInX.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gqNqOBWuwG2oR4vcn3wQTPLsyiw.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fSr0wiOmafUzODVK1RTpnuKlP9G.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/pqw3TTTkdE1D1XqqHmzrejNc1F3.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/l5fCtMTd6HfWO0PZPkduIkdYnqr.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -236,20 +271,6 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/dgXFK36lQznc0faxB6yJLNJZXXp.jpg",
-      "width": 1280,
-      "height": 720,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/5lxysVyVIA0QTX7ssYcc0mQh38R.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
       "filePath": "/wXc30yv3O7ATJeb0gXtkdfcSnJL.jpg",
       "width": 3555,
       "height": 2000,
@@ -276,13 +297,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/de5Nk49tfmCVJ5wo9i3VtQgyFjd.jpg",
+      "width": 3307,
+      "height": 1860,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.375,
-      "votesCount": 8
+      "ratingValue": 6.3,
+      "votesCount": 14
     },
     {
       "source": "crawled",
@@ -431,8 +459,8 @@
       "name": "Dylan Meyer",
       "profilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -440,8 +468,8 @@
       "name": "Dylan Meyer",
       "profilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -541,10 +569,30 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+        }
+      ]
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "tender_buttkiss",
+      "content": "This is prime stoner comedy. Absurd premise, crazy antics and lots of good music. Yeah, it's not perfect, but it's everything I want out of a stoner movie featuring Alia Shawkat and Kristen Stewart. Silly and full of hi-jinxes and cats that can also talk! Hell yeah!",
+      "rating": 8,
+      "createdAt": "2026-09-02T05:43:22Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",

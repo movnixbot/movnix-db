@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.4271,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 9.2737,
+    "voteAverage": 9,
+    "voteCount": 2,
     "homepage": "https://www.netflix.com/title/82091553",
-    "posterPath": "/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
-    "backdropPath": null,
+    "posterPath": "/6DVDbbneXuhFHmqGvTVko2sVz0o.jpg",
+    "backdropPath": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
     "collectionId": null,
     "certification": "R"
   },
@@ -50,11 +50,18 @@
   ],
   "images": [
     {
-      "filePath": "/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
+      "filePath": "/6DVDbbneXuhFHmqGvTVko2sVz0o.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
+    },
+    {
+      "filePath": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
     },
     {
       "filePath": "/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
@@ -67,6 +74,13 @@
       "filePath": "/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
       "width": 500,
       "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gQIcEz6hC4ZuA88Ra1f4gwoHjBw.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -90,9 +104,56 @@
       "height": 1350,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/xAPPjiEQUSkmmFvvZFd6fy925N9.jpg",
+      "width": 1152,
+      "height": 1728,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4ZsSaTbddmCoSZc9qgyZt737AWv.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kV1kzZTlwwv6aiUvErbT5GMl2tp.jpg",
+      "width": 512,
+      "height": 768,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "width": 1363,
+      "height": 767,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/oHvNmKakGfykkvYeNXSy33ITxzD.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -124,7 +185,16 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
