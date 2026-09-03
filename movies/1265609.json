@@ -10,9 +10,9 @@
     "budget": "73000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 40.5952,
-    "voteAverage": 7.459,
-    "voteCount": 2386,
+    "popularity": 40.2276,
+    "voteAverage": 7.457,
+    "voteCount": 2392,
     "homepage": "https://www.netflix.com/title/81768525",
     "posterPath": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
     "backdropPath": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
@@ -218,6 +218,13 @@
       "filePath": "/rmc6BLjFTMtXRvwIXOdfFvyqVce.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xuQsnrKhNdZEe36njwAIY5XnARN.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -995,8 +1002,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.459,
-      "votesCount": 2386
+      "ratingValue": 7.457,
+      "votesCount": 2392
     },
     {
       "source": "imdb",
@@ -1020,40 +1027,13 @@
       "order": 0
     },
     {
-      "tmdbPersonId": 6065,
-      "name": "Dennis Quaid",
-      "profilePath": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
-      "character": "Army Sgt Maj Sheridan",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 1
-    },
-    {
       "tmdbPersonId": 1388314,
       "name": "Stephan James",
       "profilePath": "/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg",
       "character": "7",
       "job": "Actor",
       "department": "Acting",
-      "order": 2
-    },
-    {
-      "tmdbPersonId": 224181,
-      "name": "Jai Courtney",
-      "profilePath": "/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg",
-      "character": "Class President",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 3
-    },
-    {
-      "tmdbPersonId": 65344,
-      "name": "Esai Morales",
-      "profilePath": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg",
-      "character": "Army Officer Torres",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 4
+      "order": 1
     },
     {
       "tmdbPersonId": 4377249,
@@ -1062,7 +1042,43 @@
       "character": "15",
       "job": "Actor",
       "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 6065,
+      "name": "Dennis Quaid",
+      "profilePath": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+      "character": "Sheridan",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 65344,
+      "name": "Esai Morales",
+      "profilePath": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg",
+      "character": "Torres",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 224181,
+      "name": "Jai Courtney",
+      "profilePath": "/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg",
+      "character": "Squad Leader",
+      "job": "Actor",
+      "department": "Acting",
       "order": 5
+    },
+    {
+      "tmdbPersonId": 4099372,
+      "name": "Alex King",
+      "profilePath": "/D8J38ItNO357JpJOsnjwdSnh8A.jpg",
+      "character": "44",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
     },
     {
       "tmdbPersonId": 1251875,
@@ -1071,7 +1087,7 @@
       "character": "60",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 7
     },
     {
       "tmdbPersonId": 5208267,
@@ -1080,25 +1096,25 @@
       "character": "109",
       "job": "Actor",
       "department": "Acting",
-      "order": 7
-    },
-    {
-      "tmdbPersonId": 1925382,
-      "name": "Joshua Diaz",
-      "profilePath": "/dhqnloyyBe6iV4wbBiadLBgzgLt.jpg",
-      "character": "96",
-      "job": "Actor",
-      "department": "Acting",
       "order": 8
     },
     {
-      "tmdbPersonId": 3788309,
-      "name": "Heather Burridge",
-      "profilePath": "/q7hFhBMsI89FfuZJwTTGjAOCtZs.jpg",
-      "character": "122",
+      "tmdbPersonId": 1217765,
+      "name": "James Beaufort",
+      "profilePath": "/7CC5blDvn1tRoVoVW0ZPASepf23.jpg",
+      "character": "23",
       "job": "Actor",
       "department": "Acting",
       "order": 9
+    },
+    {
+      "tmdbPersonId": 3727794,
+      "name": "Jacob Hohua",
+      "profilePath": null,
+      "character": "72",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
     },
     {
       "tmdbPersonId": 234548,
@@ -1107,31 +1123,22 @@
       "character": "57",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 6079203,
+      "name": "Richard Cotta",
+      "profilePath": null,
+      "character": "13",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
     },
     {
       "tmdbPersonId": 1522920,
       "name": "Matt Testro",
       "profilePath": "/tg1JYlDK94uYjBngyH2LQm04YU3.jpg",
       "character": "38",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 143059,
-      "name": "Patrick Hughes",
-      "profilePath": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
-      "character": "Master Sergeant Hughes (Blackhawk)",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 4099372,
-      "name": "Alex King",
-      "profilePath": "/D8J38ItNO357JpJOsnjwdSnh8A.jpg",
-      "character": "44",
       "job": "Actor",
       "department": "Acting",
       "order": 13
@@ -1144,15 +1151,6 @@
       "job": "Actor",
       "department": "Acting",
       "order": 14
-    },
-    {
-      "tmdbPersonId": 62758,
-      "name": "Todd Lieberman",
-      "profilePath": "/mz9J5YIdMUe8i7VoIu5Fy0svgP5.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
     },
     {
       "tmdbPersonId": 143059,
@@ -1168,15 +1166,6 @@
       "name": "Patrick Hughes",
       "profilePath": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1217765,
-      "name": "James Beaufort",
-      "profilePath": "/7CC5blDvn1tRoVoVW0ZPASepf23.jpg",
-      "character": null,
       "job": "Screenplay",
       "department": "Writing",
       "order": null
@@ -1185,6 +1174,24 @@
       "tmdbPersonId": 143059,
       "name": "Patrick Hughes",
       "profilePath": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 62758,
+      "name": "Todd Lieberman",
+      "profilePath": "/mz9J5YIdMUe8i7VoIu5Fy0svgP5.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1217765,
+      "name": "James Beaufort",
+      "profilePath": "/7CC5blDvn1tRoVoVW0ZPASepf23.jpg",
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
