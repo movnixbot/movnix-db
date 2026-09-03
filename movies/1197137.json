@@ -10,9 +10,9 @@
     "budget": "30000000",
     "revenue": "132675749",
     "status": "Released",
-    "popularity": 13.419,
-    "voteAverage": 6.639,
-    "voteCount": 1301,
+    "popularity": 13.2495,
+    "voteAverage": 6.638,
+    "voteCount": 1309,
     "homepage": "http://www.blackphonemovie.com",
     "posterPath": "/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg",
     "backdropPath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
@@ -57,6 +57,12 @@
       "tmdbId": 33,
       "name": "Universal Pictures",
       "logoPath": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 89115,
+      "name": "Divide / Conquer",
+      "logoPath": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
       "originCountry": "US"
     }
   ],
@@ -1269,6 +1275,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/qYZGJmYnPL8tZIpWmAkddR7R6Er.jpg",
+      "width": 1023,
+      "height": 1537,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xU9ar5Onc3canr7MeudsuAuGKy3.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
       "width": 3840,
       "height": 2160,
@@ -1769,8 +1789,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.639,
-      "votesCount": 1301
+      "ratingValue": 6.638,
+      "votesCount": 1309
     },
     {
       "source": "imdb",
@@ -1938,15 +1958,6 @@
       "name": "Scott Derrickson",
       "profilePath": "/caapCMfXLifC7XveUiY653xWBsZ.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 55499,
-      "name": "Scott Derrickson",
-      "profilePath": "/caapCMfXLifC7XveUiY653xWBsZ.jpg",
-      "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
@@ -1958,15 +1969,6 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 928106,
-      "name": "C. Robert Cargill",
-      "profilePath": "/wU26chPT5GHacto4ILfv6QIevsu.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -1976,6 +1978,24 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 55499,
+      "name": "Scott Derrickson",
+      "profilePath": "/caapCMfXLifC7XveUiY653xWBsZ.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 928106,
+      "name": "C. Robert Cargill",
+      "profilePath": "/wU26chPT5GHacto4ILfv6QIevsu.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
