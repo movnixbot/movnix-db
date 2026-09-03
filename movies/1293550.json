@@ -6,13 +6,13 @@
     "originalTitle": "बंदर",
     "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
     "releaseDate": "2026-06-04",
-    "runtime": 140,
+    "runtime": 136,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.8515,
-    "voteAverage": 6,
-    "voteCount": 3,
+    "popularity": 9.2101,
+    "voteAverage": 6.5,
+    "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1293550",
     "posterPath": "/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg",
     "backdropPath": "/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
@@ -125,6 +125,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/rEKhXC8kX2u7aHPCZ1QFLdvehDY.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/xJhYJuTX3XeMHIvjzcGBgZsKtsj.jpg",
+      "width": 1001,
+      "height": 1501,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
       "width": 3200,
       "height": 1801,
@@ -191,8 +205,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 3
+      "ratingValue": 6.5,
+      "votesCount": 4
     },
     {
       "source": "imdb",
@@ -237,7 +251,7 @@
       "tmdbPersonId": 1450085,
       "name": "Sapna Pabbi",
       "profilePath": "/n0LTGi9ZrMtUWfZgahD0oyYDrFT.jpg",
-      "character": "Gayatri",
+      "character": "Gayatri Anand",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -246,7 +260,7 @@
       "tmdbPersonId": 1148989,
       "name": "Jitendra Joshi",
       "profilePath": "/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg",
-      "character": "Inspector Deore",
+      "character": "Deore",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -264,7 +278,7 @@
       "tmdbPersonId": 1906560,
       "name": "Raj B Shetty",
       "profilePath": "/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg",
-      "character": "Lizard Man",
+      "character": "Lizard Man 1",
       "job": "Actor",
       "department": "Acting",
       "order": 6
@@ -309,7 +323,7 @@
       "tmdbPersonId": 1872501,
       "name": "Jaimini Pathak",
       "profilePath": "/ylzo1CrivrWwznjhyL6fQSdIGoi.jpg",
-      "character": null,
+      "character": "Cop 1",
       "job": "Actor",
       "department": "Acting",
       "order": 11
@@ -327,7 +341,7 @@
       "tmdbPersonId": 3229350,
       "name": "Natesh Hegde",
       "profilePath": "/nvUPDWzk2oQur3sE4V4hgze3oyP.jpg",
-      "character": null,
+      "character": "Lizard Man 2",
       "job": "Actor",
       "department": "Acting",
       "order": 13
@@ -336,7 +350,7 @@
       "tmdbPersonId": 5034420,
       "name": "Agu Stanley Chiedozie",
       "profilePath": null,
-      "character": null,
+      "character": "Melo",
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -348,15 +362,6 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1439074,
-      "name": "Sudip Sharma",
-      "profilePath": null,
-      "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
       "order": null
     },
     {
@@ -375,6 +380,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1439074,
+      "name": "Sudip Sharma",
+      "profilePath": null,
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     },
     {
@@ -402,6 +416,24 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1439074,
+      "name": "Sudip Sharma",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3371333,
+      "name": "Abhishek Banerjee",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
@@ -455,5 +487,254 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1293550/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1293550,
+    "hash": "a07e27e91bcdc6db9547c033b12054a9e559bd27a70c72473c5fca78b122b4df",
+    "summary_one_sentence": "TV star Samar faces a nightmare when his ex-girlfriend falsely accuses him of rape after he cuts ties with her, plunging him into a corrupt legal battle.",
+    "summary_short": "Samar's life as a popular TV star unravels when his ex-girlfriend Gayatri accuses him of rape after he blocks all contact. Despite moving on and building a new relationship with Khushi, Samar is abruptly arrested and thrown into police custody. As he tries to clear his name, he must navigate a prejudiced justice system and hostile public perception to prove his innocence.",
+    "summary_long": "Samar is a celebrated television actor whose life seems on the right track as he begins a promising new relationship with Khushi. However, his past returns to haunt him when his ex-partner Gayatri struggles to accept the end of their relationship. After Samar blocks her communication, a bitter Gayatri files a formal police complaint accusing him of rape. The sudden allegations trigger a swift arrest, turning Samar's glitzy world upside down overnight. Locked inside a harrowing jail system, he encounters corrupt law enforcement officers and prejudiced legal hurdles. While Khushi and his legal team scramble to uncover evidence, Samar faces intense media trial and betrayal from industry peers. The trial exposes deep-seated flaws in the justice system, forcing Samar to fight relentlessly for his dignity and freedom against calculated malice.",
+    "synopsis": "Bandar is a tense dramatic thriller that explores the dark intersection of celebrity culture, personal vengeance, and legal vulnerability. The narrative follows Samar, a rising television actor whose life is derailed when a former partner, unable to cope with their breakup, levies severe criminal charges against him. As Samar is forced to endure a ruthless justice system and a court of public opinion, the story delves into themes of truth, power dynamics, and the psychological toll of fighting a biased system.",
+    "keywords": [
+      "false accusation",
+      "media spotlight",
+      "corrupt justice system",
+      "wrongful arrest",
+      "celebrity scandal",
+      "revenge plot",
+      "relationship fallout",
+      "ex-partner conflict",
+      "power dynamics",
+      "legal battle",
+      "personal spiral",
+      "moral ambiguity",
+      "manipulation"
+    ],
+    "themes": [
+      {
+        "theme": "Corrupt Justice System",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Revenge",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Betrayal",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Tensions reach a peak during a crucial court hearing where critical evidence and testimony collide, determining Samar's legal fate.",
+      "conflict": "After Samar cuts ties with his ex-partner Gayatri, she accuses him of rape, upending his public and personal life.",
+      "resolution": "The legal ordeal concludes, leaving Samar and those around him to process the lasting consequences on their lives, relationships, and reputations.",
+      "introduction": "Samar enjoys a successful career as a popular TV star while navigating a fresh romantic relationship with Khushi.",
+      "risingAction": "Samar is arrested and thrown into a web of legal battles, public scrutiny, and a corrupt criminal justice system while trying to clear his name."
+    },
+    "characters": [
+      {
+        "name": "Samar Mehra",
+        "role": "Anti Hero",
+        "description": "A fading, entitled TV star who faces arrest and systemic apathy after being accused of rape, operating in a moral gray area."
+      },
+      {
+        "name": "Gayatri",
+        "role": "Villain",
+        "description": "Samar's ex-girlfriend who files a rape accusation against him after he blocks her, setting his downfall in motion."
+      },
+      {
+        "name": "Khushi",
+        "role": "Supporting Character",
+        "description": "Samar's current girlfriend who attempts to navigate the fallout of the accusation before distancing herself."
+      },
+      {
+        "name": "Suhaani Mehra",
+        "role": "Supporting Character",
+        "description": "Samar's sister who offers grounded reality and refuses to indulge his toxic self-pity."
+      },
+      {
+        "name": "Deore",
+        "role": "Comic Relief",
+        "description": "A nonchalant, indifferent police inspector whose dark humor and apathy highlight the absurdity of the legal system."
+      },
+      {
+        "name": "Lijo",
+        "role": "Supporting Character",
+        "description": "A key figure encountered within the legal and correctional system during Samar's imprisonment."
+      },
+      {
+        "name": "Lizard Man",
+        "role": "Other",
+        "description": "An eccentric inmate within the prison hierarchy who embodies the dehumanizing state of the facility."
+      },
+      {
+        "name": "Samar's Lawyer",
+        "role": "Mentor",
+        "description": "The defense attorney guiding Samar through the complex and corrupt legal machinery."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Samar",
+        "target": "Gayatri",
+        "description": "Ex-Partners / Accuser and Accused"
+      },
+      {
+        "source": "Samar",
+        "target": "Khushi",
+        "description": "Romantic Partners"
+      },
+      {
+        "source": "Gayatri",
+        "target": "Khushi",
+        "description": "Love Rivals"
+      }
+    ],
+    "seo": {
+      "slug": "bandar-2026-movie",
+      "jsonLd": {
+        "name": "Bandar",
+        "@type": "Movie",
+        "@context": "https://schema.org",
+        "character": [
+          {
+            "name": "Samar",
+            "@type": "Person"
+          },
+          {
+            "name": "Gayatri",
+            "@type": "Person"
+          },
+          {
+            "name": "Khushi",
+            "@type": "Person"
+          }
+        ],
+        "description": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system."
+      },
+      "keywords": [
+        "Bandar movie",
+        "Bandar 2026",
+        "Samar Gayatri Khushi",
+        "Bobby Deol Bandar",
+        "Bandar plot summary",
+        "Bandar film schema"
+      ],
+      "canonical": "https://movnix.com/movie/bandar-2026-movie",
+      "metaTitle": "Bandar (2026) - Full Plot, Cast, SEO Overview & Details",
+      "openGraph": {
+        "og:title": "Bandar Movie: Plot Overview & Analysis",
+        "og:description": "When TV star Samar blocks contact with his ex Gayatri, she accuses him of rape. Watch his life unspool in the shadow of a corrupt justice system."
+      },
+      "twitterCard": {
+        "twitter:title": "Bandar Movie: Full Plot Summary & Cast Details",
+        "twitter:description": "Accused of rape by his ex Gayatri, TV star Samar faces arrest and systemic corruption while balancing his new relationship with Khushi."
+      },
+      "metaDescription": "TV star Samar's life spirals after ex-girlfriend Gayatri accuses him of rape. Trapped in a corrupt legal system, he faces arrest despite his new relationship."
+    },
+    "faq": [
+      {
+        "answer": "Bandar is primarily a legal drama and thriller centered around themes of false accusations, media trials, and systemic corruption.",
+        "question": "What is the dominant genre of Bandar?"
+      },
+      {
+        "answer": "The film follows TV star Samar, whose life turns upside down when his ex-partner Gayatri accuses him of rape after he cuts off contact, forcing him to navigate a corrupt legal system while trying to protect his new relationship with Khushi.",
+        "question": "What is the central premise of Bandar?"
+      },
+      {
+        "answer": "No, Bandar is a standalone film and is not part of an existing movie franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes in Bandar. The story fully concludes before the credits roll.",
+        "question": "Is there a post-credit scene in Bandar?"
+      },
+      {
+        "answer": "The central characters are Samar, a famous TV star accused of a serious crime; Gayatri, his vengeful ex-girlfriend; and Khushi, Samar's current partner who supports him through the ordeal.",
+        "question": "Who are the main characters in the story?"
+      },
+      {
+        "answer": "While the movie reflects realistic issues surrounding high-profile legal battles, celebrity trials, and police corruption, it is a fictional narrative.",
+        "question": "Is Bandar based on a true story?"
+      },
+      {
+        "answer": "Bandar explores themes of power dynamics, public perception, legal corruption, the consequences of personal relationships, and the search for justice.",
+        "question": "What key themes does the film explore?"
+      },
+      {
+        "answer": "Due to mature themes involving legal allegations, sexual violence topics, and intense courtroom drama, the film is intended for mature audiences.",
+        "question": "Is Bandar suitable for younger audiences?"
+      },
+      {
+        "answer": "The conflict triggers when Samar decides to cut off all contact with Gayatri, leading her to file a formal rape accusation against him out of retaliation.",
+        "question": "What drives the conflict between Samar and Gayatri?"
+      },
+      {
+        "answer": "Streaming and viewing availability depends on regional distribution rights and official streaming platform releases.",
+        "question": "Where can I watch or stream Bandar?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements; tension stems from realistic legal and personal drama rather than supernatural or scary themes."
+      },
+      "language": {
+        "score": 3,
+        "description": "Likely mild to moderate strong language driven by high-stress interpersonal conflict and legal distress."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Potential for physical confrontation involving arrest and police custody, but no explicit physical violence described."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible depiction of alcohol or tobacco use typical of high-stress drama, but no heavy drug focus indicated."
+      },
+      "sexualContent": {
+        "score": 6,
+        "description": "Involves sensitive maturity themes surrounding serious accusations of sexual assault and complex relationship dynamics."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense themes surrounding severe false allegations, betrayal, public disgrace, legal peril, and systemic corruption."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 6,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 4
+    },
+    "created_at": "2026-08-30 01:01:26.782201",
+    "updated_at": "2026-08-30 01:01:26.782201"
+  }
 }
