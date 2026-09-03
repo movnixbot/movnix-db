@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.2218,
+    "popularity": 1.4179,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/665669",
@@ -254,7 +254,7 @@
     },
     {
       "tmdbPersonId": 2115785,
-      "name": "Kim Si-a",
+      "name": "Kim Sia",
       "profilePath": "/2kh2hTeABBIyVwPEgRVij1Ldcil.jpg",
       "character": "Dong-ju",
       "job": "Actor",
@@ -405,5 +405,244 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/665669/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 665669,
+    "hash": "d7350d9955302fdaab97970b44f69f3a300b2ff07b1e265d1766e3152ceaa8b7",
+    "summary_one_sentence": "A blissfully happy celebrity couple finds their lives completely unravelled when a mysterious girl named Dong-ju appears, forcing them years later into a unwinnable battle surrounding a tragic middle-school death.",
+    "summary_short": "Professional baseball player Jung-gu and movie star Nam-mi enjoy a picture-perfect marriage and thriving careers. Their idyllic world shatters when a girl named Dong-ju suddenly enters their lives, upending everything they have built. Seven years after her initial arrival, Dong-ju becomes entangled in the mysterious death of a middle-school girl. Driven by necessity and love, Jung-gu and Nam-mi risk everything to fight an uphill legal and personal battle they stand little chance of winning.",
+    "summary_long": "Jung-gu, a prominent baseball player, and Nam-mi, an acclaimed movie star, live in the spotlight as one of the country's most celebrated power couples. Behind the public glamour, their private life is equally fulfilling, defined by mutual affection and professional success. However, their domestic bliss collapses instantly when a young girl named Dong-ju unexpectedly enters their household, exposing vulnerabilities and unraveling their stability. The sudden disruption fractures their reputation and tears at the fabric of their relationship over the course of seven turbulent years. Time fails to heal the damage, and the situation worsens when Dong-ju is implicated in the tragic death of a local middle-school student. Facing mounting public scrutiny, police investigations, and overwhelming moral dilemmas, Jung-gu and Nam-mi are forced back together to handle the fallout. Recognizing that the truth could destroy what remains of their lives, the couple resolves to stand by Dong-ju. They launch a desperate effort against powerful external forces, fully aware that the odds are stacked entirely against them. Ultimately, their choice forces them to confront the true meaning of family, loyalty, and sacrifice in the face of inevitable failure.",
+    "synopsis": "Jung-gu and Nam-mi are a glamorous celebrity couple living a seemingly charmed life—he is a successful professional baseball player and she is a popular movie star. Their world is upended when a girl named Dong-ju unexpectedly shows up, triggering a series of events that shatters their happiness and privacy. Seven years later, the dark consequences of her arrival resurface when Dong-ju is linked to the suspicious death of a middle-school girl. Pushed to their limits, Jung-gu and Nam-mi must navigate a complex web of crime, public scandal, and personal loyalty as they undertake a hopeless fight to protect what matters most.",
+    "keywords": [
+      "celebrity couple",
+      "family secret",
+      "unexpected visitor",
+      "shattered life",
+      "past catching up",
+      "seven year leap",
+      "murder investigation",
+      "tragedy",
+      "hopeless struggle",
+      "moral conflict",
+      "dark secrets",
+      "protecting family",
+      "fall from grace"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.81
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.82
+      },
+      {
+        "mood": "Tragic",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Despite facing overwhelming odds, relentless public scrutiny, and hostile forces, Jung-gu and Nam-mi wage a desperate, high-stakes battle to uncover the truth and protect Dong-ju.",
+      "conflict": "The sudden arrival of Dong-ju, Jung-gu's daughter, shatters the couple's idyllic life, destroying their reputations and triggering a steep fall from grace.",
+      "resolution": "Through shared sacrifice and unwavering perseverance, the fractured family heals their bond, discovering true strength and redemption in standing together.",
+      "introduction": "Jung-gu, a top baseball player, and Nam-mi, a famous movie star, enjoy a blissful marriage and thriving careers at the height of public success.",
+      "risingAction": "Seven years later, while living in the aftermath of their ruined lives, Dong-ju becomes entangled in the suspicious death of a middle-school student, forcing Jung-gu and Nam-mi to reunite."
+    },
+    "characters": [
+      {
+        "name": "Jung-gu",
+        "role": "Hero",
+        "description": "A successful baseball player and family man who embarks on a desperate fight to protect his family despite overwhelming odds."
+      },
+      {
+        "name": "Nam-mi",
+        "role": "Hero",
+        "description": "A movie star and Jung-gu's wife who stands beside her husband to navigate the crisis threatening their lives."
+      },
+      {
+        "name": "Dong-ju",
+        "role": "Anti Hero",
+        "description": "A mysterious young girl whose sudden appearance shatters the couple's life and who later becomes entangled in a tragic death."
+      },
+      {
+        "name": "Supporting Character",
+        "role": "Supporting Character",
+        "description": "Key figure involved in the surrounding investigation, local community, or familial history impacting the central conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Jung-gu",
+        "target": "Nam-mi",
+        "description": "Husband/Wife"
+      },
+      {
+        "source": "Jung-gu",
+        "target": "Dong-ju",
+        "description": "Protector/Intruder"
+      },
+      {
+        "source": "Nam-mi",
+        "target": "Dong-ju",
+        "description": "Protector/Intruder"
+      },
+      {
+        "source": "Dong-ju",
+        "target": "Middle-School Girl",
+        "description": "Suspect/Victim"
+      }
+    ],
+    "seo": {
+      "slug": "portrait-of-a-family",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/portrait-of-a-family](https://movnix.com/movie/portrait-of-a-family)",
+        "name": "Portrait of a Family",
+        "@type": "Movie",
+        "genre": [
+          "Drama",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Jung-gu",
+            "@type": "Person"
+          },
+          {
+            "name": "Nam-mi",
+            "@type": "Person"
+          },
+          {
+            "name": "Dong-ju",
+            "@type": "Person"
+          }
+        ],
+        "description": "Baseball player Jung-gu and movie star Nam-mi are a celebrity couple who are blissfully happy in their careers and marriage. One day, a girl named Dong-ju shows up and the couple's lives are instantly destroyed. Seven years later, as Dong-ju gets involved in the death of a middle-school girl, Jung-gu and Nam-mi decide to fight a battle they have no chance of winning."
+      },
+      "keywords": [
+        "Portrait of a Family",
+        "Portrait of a Family movie",
+        "Jung-gu Nam-mi movie",
+        "Korean thriller film",
+        "Portrait of a Family synopsis",
+        "Dong-ju drama movie"
+      ],
+      "canonical": "[https://movnix.com/movie/portrait-of-a-family](https://movnix.com/movie/portrait-of-a-family)",
+      "metaTitle": "Portrait of a Family (2026) Movie - Synopsis & Cast",
+      "openGraph": {
+        "og:title": "Portrait of a Family - Official Movie Synopsis & Details",
+        "og:description": "When a girl named Dong-ju shatters the bliss of a celebrity couple, a tragic sequence of events forces a fight against unwinnable odds 7 years later."
+      },
+      "twitterCard": {
+        "twitter:title": "Portrait of a Family Movie Synopsis",
+        "twitter:description": "A high-stakes dramatic thriller about a celebrity couple facing an unwinnable battle seven years after their lives are shattered."
+      },
+      "metaDescription": "A celebrity couple's blissful life unravels when a young girl enters their lives. Watch the gripping tragedy and fight for justice in Portrait of a Family."
+    },
+    "faq": [
+      {
+        "answer": "The movie centers on Jung-gu, a professional baseball player, and Nam-mi, a famous movie star, whose happy life together is shattered when a girl named Dong-ju suddenly enters their lives. Seven years later, when Dong-ju is implicated in the death of a middle-school student, the couple embarks on a desperate struggle to protect their family against overwhelming odds.",
+        "question": "What is the plot of Portrait of a Family?"
+      },
+      {
+        "answer": "Portrait of a Family is primarily a drama and suspense thriller with deep mystery and family tragedy elements.",
+        "question": "What is the dominant genre of Portrait of a Family?"
+      },
+      {
+        "answer": "No, Portrait of a Family is a standalone film and is not part of any existing movie franchise or cinematic universe.",
+        "question": "Is Portrait of a Family part of a franchise or universe?"
+      },
+      {
+        "answer": "No, the movie is based on an original fictional screenplay detailing the intense personal and legal conflicts of a high-profile couple.",
+        "question": "Is Portrait of a Family based on a true story or a book?"
+      },
+      {
+        "answer": "The main characters are Jung-gu, a successful baseball player; Nam-mi, a prominent movie actress; and Dong-ju, the young girl whose appearance disrupts their lives and later becomes involved in a tragedy.",
+        "question": "Who are the central characters in the film?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The narrative concludes fully before the end credits roll.",
+        "question": "Is there a post-credits scene in Portrait of a Family?"
+      },
+      {
+        "answer": "The film heavily explores themes of family unity, celebrity public scrutiny, legal and moral sacrifice, injustice, and the devastating consequences of secrets.",
+        "question": "What are the primary thematic elements explored in the movie?"
+      },
+      {
+        "answer": "No, due to mature themes involving criminal investigations, emotional trauma, and the death of a middle-school student, the film is intended for mature audiences.",
+        "question": "Is Portrait of a Family suitable for children?"
+      },
+      {
+        "answer": "The core conflict escalates seven years after Dong-ju's arrival, when she becomes entangled in the death of a classmate, forcing Jung-gu and Nam-mi into a legal and moral battle against powerful forces.",
+        "question": "What drives the conflict in the second half of the movie?"
+      },
+      {
+        "answer": "Availability depends on regional distribution. Check local theatrical listings, major video-on-demand services, or regional streaming platforms for current viewing options.",
+        "question": "Where can I watch Portrait of a Family?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Low horror levels, with tension stemming primarily from psychological stress and tragic crime drama rather than scary tropes."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate strong language during emotionally intense confrontations and high-stakes criminal disputes."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy dramatic violence related to physical altercations, criminal investigations, and the tragic death of a minor."
+      },
+      "substance": {
+        "score": 4,
+        "description": "Moderate substance use, including heavy adult drinking and smoking portrayed in connection with distress and career downfall."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content, focusing instead on family dynamics, career collapse, and legal struggle."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity involving the breakdown of a marriage, false accusations, child involvement in a fatal incident, and desperate sacrifices."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 3,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 4,
+      "science": 0,
+      "suspense": 8,
+      "violence": 5
+    },
+    "created_at": "2026-09-01 23:03:27.456156",
+    "updated_at": "2026-09-01 23:03:27.456156"
+  }
 }
