@@ -9,13 +9,13 @@
     "runtime": 139,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 0.2932,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 1.8342,
+    "voteAverage": 2,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1744876",
-    "posterPath": null,
-    "backdropPath": null,
+    "posterPath": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+    "backdropPath": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -25,15 +25,110 @@
       "name": "Documentary"
     },
     {
+      "tmdbId": 10402,
+      "name": "Music"
+    },
+    {
       "tmdbId": 1,
       "name": "Drama"
     }
   ],
-  "companies": [],
+  "companies": [
+    {
+      "tmdbId": 90527,
+      "name": "Anima Films",
+      "logoPath": null,
+      "originCountry": "AR"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
+  "videos": [
+    {
+      "name": "Fito Paez: El mundo cabe en una canción | Tráiler oficial | Netflix",
+      "key": "4P0PSlJDZvk",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9Hc0QF0bJPyGXlQBq8NdzqqE3L4.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+      "width": 805,
+      "height": 1210,
+      "aspectRatio": 0.665,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/iLcAUPOxi5GyivkwBK4PdGnrULK.jpg",
+      "width": 1464,
+      "height": 823,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ka6O5uu6eD354jhtMWz1lzf8OPK.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/zGlyPF6HOtZQryogrJRrmW97YdK.jpg",
+      "width": 1463,
+      "height": 823,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/74cXTqO39usvJWChYGTVggFzGIB.jpg",
+      "width": 1463,
+      "height": 823,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -45,10 +140,136 @@
       "tmdbPersonId": 138244,
       "name": "Fito Páez",
       "profilePath": "/cyYaFG0cd2wcqEg3cYW0ARFfrfa.jpg",
-      "character": null,
+      "character": "Self",
       "job": "Actor",
       "department": "Acting",
       "order": 0
+    },
+    {
+      "tmdbPersonId": 6439362,
+      "name": "Carlos Vandera",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 96478,
+      "name": "Mariela Vitale",
+      "profilePath": "/1Fopj6xHZnDzEflCg2KdWSLb2D3.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 4198666,
+      "name": "Eugenia Kolodziej",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1018108,
+      "name": "Charly García",
+      "profilePath": "/gWibpC67PftfN3nyWfkQmiAviLg.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1134927,
+      "name": "Luis Alberto Spinetta",
+      "profilePath": "/rjdAzvZ7pKGenjzmd1BfO0E4osp.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 2318315,
+      "name": "Juan Carlos Baglietto",
+      "profilePath": "/3Pq9pN0aC49G4Gl8wlt6JmZF3RX.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 1354317,
+      "name": "Fabiana Cantilo",
+      "profilePath": "/oG9nM9Xp4W2iqGrjCYxDISJ9vav.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 953,
+      "name": "Cecilia Roth",
+      "profilePath": "/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 137458,
+      "name": "Romina Ricci",
+      "profilePath": "/drgPnxHAckq5oCi9sOMzhHDKfKr.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 140862,
+      "name": "Joaquín Sabina",
+      "profilePath": "/8CT1H6RSEQpRUpUI6RAREvh3Ua3.jpg",
+      "character": "Self (archive footage)",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 5168005,
+      "name": "Diego Olivero",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 1822052,
+      "name": "Gustavo Borner",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 2634028,
+      "name": "Margarita Páez",
+      "profilePath": "/dvNnNrRoPkpHkEzwTwLNwxOjrFY.jpg",
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 6446259,
+      "name": "Martín Páez",
+      "profilePath": null,
+      "character": "Self",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 1087225,
@@ -57,6 +278,33 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2356651,
+      "name": "Sebastián Gamba",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 237956,
+      "name": "Nicolás Gueilburt",
+      "profilePath": "/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1087225,
+      "name": "Matías Gueilburt",
+      "profilePath": "/jcjHMZE5PjL9EA33WpiQ5MTELbY.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     }
   ],

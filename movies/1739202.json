@@ -2,21 +2,22 @@
   "movie": {
     "tmdbId": 1739202,
     "imdbId": "tt43700441",
-    "title": "Untold Raygun: Breaking Badly",
-    "originalTitle": "Untold Raygun: Breaking Badly",
+    "title": "Untold: Raygun: Breaking Badly",
+    "originalTitle": "Untold: Raygun: Breaking Badly",
     "overview": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
     "releaseDate": "2026-09-01",
     "runtime": 72,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.706,
-    "voteAverage": 7,
-    "voteCount": 1,
+    "popularity": 8.8536,
+    "voteAverage": 6.2,
+    "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1739202",
     "posterPath": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
     "backdropPath": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
-    "collectionId": 1745820
+    "collectionId": 1745820,
+    "certification": "NR"
   },
   "collection": {
     "tmdbId": 1745820,
@@ -90,6 +91,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/pgZoTGXmkQXoO7F8wgBmlyy6zxy.jpg",
+      "width": 600,
+      "height": 900,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
       "width": 1561,
       "height": 878,
@@ -100,8 +108,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7,
-      "votesCount": 1
+      "ratingValue": 6.2,
+      "votesCount": 4
     },
     {
       "source": "crawled",
@@ -148,11 +156,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+        }
+      ],
       "buy": []
     }
   },
