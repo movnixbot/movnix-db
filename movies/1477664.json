@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.5221,
+    "popularity": 2.792,
     "voteAverage": 6.5,
     "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1477664",
-    "posterPath": "/6jD2tsXjpYCW0LxoitsTklGALJS.jpg",
+    "posterPath": "/pAQS4Yq67CHGJpMDdk4SBkL14S.jpg",
     "backdropPath": "/6xUdJAfwYAXxQvrNqULJFds6VR5.jpg",
     "collectionId": null,
     "certification": "11"
@@ -50,7 +50,7 @@
   ],
   "images": [
     {
-      "filePath": "/6jD2tsXjpYCW0LxoitsTklGALJS.jpg",
+      "filePath": "/pAQS4Yq67CHGJpMDdk4SBkL14S.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -62,6 +62,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/pAQS4Yq67CHGJpMDdk4SBkL14S.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/A6xqSlKkiYM6BKPraFLkFlZ5IKJ.jpg",
@@ -296,7 +303,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "DK",
+      "title": "Vores Loefte",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt39335022",
     "wikidataId": null,
