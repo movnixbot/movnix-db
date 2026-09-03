@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.8864,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 3.114,
+    "voteAverage": 9,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1399253",
     "posterPath": "/6k0QkM5X2UfUuUgepzml6qpoWSX.jpg",
     "backdropPath": "/mnoxZcYA0v7USpiOAqs2GigVN4z.jpg",
@@ -103,6 +103,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/9rH6PU8BduV9cdB6mjbsE51vb8M.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/qn1POyav0kLBMoCXYS4zV6HHDK1.jpg",
       "width": 900,
       "height": 1350,
@@ -113,13 +120,6 @@
       "filePath": "/6k0QkM5X2UfUuUgepzml6qpoWSX.jpg",
       "width": 2000,
       "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/9rH6PU8BduV9cdB6mjbsE51vb8M.jpg",
-      "width": 1000,
-      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -136,9 +136,21 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/3raUW1hl3bY0U9p3oa3TVYToVe.jpg",
+      "width": 1381,
+      "height": 777,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -299,5 +311,238 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1399253/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1399253,
+    "hash": "4cdb41e31f15dfb9e0c212da0164c0a4fc7e4e1b3095773a58965d29bd8bdbc0",
+    "summary_one_sentence": "In Belo Horizonte, a grieving Black Brazilian family remains trapped in their isolated routines until the youngest child reveals a strange, hidden truth within their home that forces them to heal together.",
+    "summary_short": "Following a devastating loss, a mother and her children in Belo Horizonte silently retreat into individual routines to shield themselves from their emotional pain. Though haunting memories and nightmares isolate them from one another, the youngest sibling discovers a profound secret embedded within the walls of their house. Unable to make the family listen at first, the child's persistence eventually forces them all to face the truth. Confronting the deep roots of their sorrow allows the family to finally unite and embrace their shared grief with love and courage.",
+    "summary_long": "Set against the backdrop of Belo Horizonte, a Black Brazilian family struggles to rebuild their lives in the wake of a painful domestic loss. Instead of leaning on each other, the mother and her older children create emotional walls, throwing themselves into rigid daily routines to avoid confronting their grief. This internal suppression manifests as a mix of bittersweet memories and unsettling nightmares, leaving each family member isolated within the same living space. The youngest child, however, remains attuned to their surroundings and discovers that the house itself harbors a surreal secret within its four walls. Desperate to restore harmony, the child attempts to warn and inform the rest of the family, but the emotionally consumed adults and siblings repeatedly dismiss these efforts. As the atmosphere inside the home grows increasingly charged with unaddressed trauma, the supernatural reality of the secret can no longer be ignored. The revelation forces the entire family out of their detached routines and into direct confrontation with the reality of their loss. Ultimately, laying bare the true source of their pain allows them to break down their walls, find solace in each other's presence, and move forward bound by love, resilience, and newfound courage.",
+    "synopsis": "Set in Belo Horizonte, *Our Secret* is an intimate narrative exploring the quiet devastation of grief and the delicate process of familial healing. After experiencing a profound loss, a Black Brazilian mother and her children attempt to piece their daily lives back together, yet remain emotionally distant as they retreat into their own protective routines. While the older family members struggle with lingering memories and nightmares, the youngest child uncovers a mysterious, fantastical secret hidden within their home. Blending grounded family drama with subtle elements of fantasy, the story follows the child's effort to break through the family's silence, leading to an emotional reckoning where they must face their shared sorrow together.",
+    "keywords": [
+      "grief and loss",
+      "family trauma",
+      "house with a secret",
+      "Afro-Brazilian family",
+      "Belo Horizonte setting",
+      "unexpressed emotions",
+      "coping mechanisms",
+      "supernatural mystery",
+      "child who knows the truth",
+      "unbelieved child trope",
+      "healing through love",
+      "emotional defense mechanisms",
+      "haunted home",
+      "magical realism",
+      "confronting the past"
+    ],
+    "themes": [
+      {
+        "theme": "Grief and Loss",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Bonds",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Communication and Silence",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Healing and Acceptance",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Memory and Trauma",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Melancholy",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The secret within the house is ultimately unveiled, forcing the mother and her children to directly confront the reality of their loss and the deep roots of their collective grief.",
+      "conflict": "Unable to communicate their shared pain, the family remains emotionally isolated from one another, while the youngest child discovers a hidden secret within the walls of their home that the others refuse to hear.",
+      "resolution": "With the truth brought to light, the family breaks their isolation, uniting with love and courage to heal and traverse their shared sorrow together.",
+      "introduction": "In Belo Horizonte, a Black Brazilian family navigates the immediate aftermath of a recent loss, each member retreating into quiet routines and emotional silence to shield themselves from grief.",
+      "risingAction": "As the family's unaddressed trauma lingers between memory and nightmare, the youngest child repeatedly attempts to convey the truth about the house, meeting constant denial and deafness from the rest of the family."
+    },
+    "characters": [
+      {
+        "name": "Youngest Child",
+        "role": "Hero",
+        "description": "Understands the house's secret and persists in trying to reveal the truth, ultimately guiding the family to confront their grief and come together."
+      },
+      {
+        "name": "Mother",
+        "role": "Supporting Character",
+        "description": "Shields herself from the pain of grief through her daily routine while struggling to express her emotions to her children."
+      },
+      {
+        "name": "Older Children",
+        "role": "Supporting Character",
+        "description": "Cope with recent loss through individual routines and initially turn a deaf ear to the truth before facing their shared grief with love and courage."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Youngest Child",
+        "target": "Mother",
+        "description": "Parent/Child"
+      },
+      {
+        "source": "Youngest Child",
+        "target": "Older Siblings",
+        "description": "Siblings"
+      },
+      {
+        "source": "Mother",
+        "target": "Older Siblings",
+        "description": "Parent/Child"
+      },
+      {
+        "source": "The Family",
+        "target": "Deceased Family Member",
+        "description": "Grievers/Lost Loved One"
+      }
+    ],
+    "seo": {
+      "slug": "our-secret",
+      "jsonLd": {
+        "name": "Our Secret",
+        "@type": "Movie",
+        "genre": [
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "pt-BR",
+        "description": "A Black Brazilian family in the city of Belo Horizonte tries to rebuild their home after a recent loss, confronting memories, nightmares, and a house's deeply held secret.",
+        "countryOfOrigin": {
+          "name": "Brazil",
+          "@type": "Country"
+        },
+        "locationCreated": {
+          "name": "Belo Horizonte, Minas Gerais, Brazil",
+          "@type": "Place"
+        }
+      },
+      "keywords": [
+        "Our Secret movie",
+        "Brazilian cinema",
+        "Belo Horizonte film",
+        "Black Brazilian family drama",
+        "grief indie film",
+        "Our Secret plot summary"
+      ],
+      "canonical": "[https://movnix.com/movie/our-secret](https://movnix.com/movie/our-secret)",
+      "metaTitle": "Our Secret (Film) - Plot, Overview & Movie Info | Movnix",
+      "openGraph": {
+        "og:title": "Our Secret | Heartfelt Brazilian Family Drama",
+        "og:description": "A grieving Black Brazilian family in Belo Horizonte faces silent pain, hidden memories, and a secret held within their home's walls."
+      },
+      "twitterCard": {
+        "twitter:title": "Our Secret | Movie Overview & Details",
+        "twitter:description": "Follow a family's journey through grief, unspoken truths, and healing in Belo Horizonte."
+      },
+      "metaDescription": "In Belo Horizonte, a Black Brazilian family confronts grief and a hidden domestic secret to heal. Watch Our Secret trailer and explore plot details on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is drama, focusing on family dynamics, grief, and emotional healing.",
+        "question": "What is the dominant genre of Our Secret?"
+      },
+      {
+        "answer": "The story is set in the city of Belo Horizonte, Brazil.",
+        "question": "Where is the story set?"
+      },
+      {
+        "answer": "It follows a Black Brazilian family struggling to rebuild their home and cope with grief after a recent loss, until the youngest child tries to reveal a secret hidden within their home that forces them to confront their pain together.",
+        "question": "What is the central plot of the film?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not part of any existing film franchise.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, as a narrative family drama, there are no post-credit scenes.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The youngest child of the family is the only one who understands the house's secret and attempts to reveal it to the rest of the family.",
+        "question": "Who is the main perspective through which the mystery/secret is revealed?"
+      },
+      {
+        "answer": "The film explores key themes of grief, emotional isolation, family bonds, memory, trauma, and healing through love and courage.",
+        "question": "What themes does the film explore?"
+      },
+      {
+        "answer": "The family members isolate themselves in their individual routines, unable to express their feelings to one another or acknowledge the truth of their loss.",
+        "question": "What is the main conflict within the family?"
+      },
+      {
+        "answer": "Yes, it is designed for viewers who appreciate character-driven, emotionally deep narratives about familial healing and coping with loss.",
+        "question": "Is Our Secret suitable for audiences interested in emotional drama?"
+      },
+      {
+        "answer": "Confronted with the house's secret and the truth of their pain, the family faces their deep-rooted grief and unites to move forward with love and courage.",
+        "question": "How does the story resolve?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 3,
+        "description": "Mild eerie elements involving nightmares and a mysterious secret within the house."
+      },
+      "language": {
+        "score": 0,
+        "description": "No foul or explicit language indicated."
+      },
+      "violence": {
+        "score": 0,
+        "description": "No depiction of physical violence or physical conflict mentioned."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No drug, alcohol, or tobacco use indicated."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Strong emotional themes centered around grief, loss, trauma, and family coping mechanisms."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 1,
+      "comedy": 1,
+      "emotion": 10,
+      "fantasy": 3,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 6,
+      "violence": 1
+    },
+    "created_at": "2026-08-28 18:01:55.769476",
+    "updated_at": "2026-08-28 18:01:55.769476"
+  }
 }
