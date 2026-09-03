@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 2.0846,
+    "popularity": 3.0542,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.dontmovemovie.com/",
@@ -359,5 +359,242 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1375161/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1375161,
+    "hash": "0698c0b802f5abb4a550a6cc2cf5d054a78f3ef4b4234aa57d0fc24cdda1ba39",
+    "summary_one_sentence": "During a church retreat in the Ozark wilderness, a group must survive a relentless prehistoric spider that hunts by tracking vibration.",
+    "summary_short": "An annual church group retreat turns into a fight for survival when the attendees wander into a secluded section of the Ozark forest. Suspicion initially falls on Ricky, the group's troublemaker, but the true menace is a massive, web-weaving prehistoric arachnid. To avoid becoming its next meal, the survivors must remain completely still while finding a way to safety. Led by Megan, the remaining members must overcome internal tension and outsmart a monster that detects the slightest movement.",
+    "summary_long": "The annual wilderness retreat for a close-knit church group takes a tragic turn after they stray deep into an uncharted zone of the Ozark mountains. As members of the group begin disappearing or turning up dead, tension rises, and suspicion quickly shifts toward Ricky, a rebellious outcast with a bad reputation. However, the true predator hiding in the dense forest is far more terrifying: a giant, ancient arachnid that has spun a lethal labyrinth of webs across the canopy. The creature possesses terrifying instincts, relying entirely on vibration to track and capture its prey. Realizing that making a sound or stepping out of line triggers an instant attack, the group is forced into a deadly game of stealth where their only defense is to stay motionless. Internal conflicts and panicked missteps continually threaten to expose their location to the lurking monster. Amidst the chaos, Megan steps up to lead the terrified survivors, striving to maintain order and keep everyone calm under extreme duress. She must navigate the trap-laden woods and outwit a creature that turns their own reflexes against them. Ultimately, Megan and the survivors must unite and execute a desperate escape plan before the spider picks them off one by one.",
+    "synopsis": "Set against the dense, isolated backdrop of the Ozark wilderness, 'Don't Move' follows a church group whose routine annual retreat dissolves into a harrowing nightmare. After venturing off the beaten path, the group finds themselves hunted by a predatory prehistoric arachnid that uses sensitive vibration detection to stalk its prey. As paranoia mounts and accusations fly toward the group's resident troublemaker, Megan must keep the panic-stricken survivors focused on a singular, grueling rule of survival: freeze. Blending psychological dread with creature-feature suspense, the film explores leadership, trust, and nerve-shredding tension as the characters fight to escape an ancient threat.",
+    "keywords": [
+      "monster movie",
+      "giant spider",
+      "creature feature",
+      "survival horror",
+      "hunting by sound",
+      "ozarks setting",
+      "church group retreat",
+      "isolated wilderness",
+      "wrong accused",
+      "troubled youth",
+      "female protagonist",
+      "webbed trap",
+      "prehistoric threat",
+      "high stakes tension",
+      "dont move trope"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Trust and Suspicion",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Leadership Under Pressure",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Isolation",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Terrifying",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "Megan and the remaining group members face a desperate, high-stakes confrontation with the monster, where absolute stillness and careful strategy are their only chance at survival.",
+      "conflict": "Members of the group begin disappearing one by one, raising immediate tension and causing suspicion to fall directly on Ricky while the true threat remains hidden.",
+      "resolution": "The ordeal comes to a end as the survivors attempt to break free from the creature's labyrinth and escape the Ozark wilderness.",
+      "introduction": "A church group travels into a remote section of the Ozark wilderness for their annual retreat, establishing the setting, group dynamic, and Ricky's reputation as the group troublemaker.",
+      "risingAction": "The survivors discover they are trapped in webbed territory, stalked by an ancient, predatory arachnid that hunts through vibration, forcing Megan to step up, maintain order, and navigate the team through a lethal environment where any movement triggers an attack."
+    },
+    "characters": [
+      {
+        "name": "Megan",
+        "role": "Hero",
+        "description": "The determined leader who steps up to hold the surviving group together and guide them to safety against the deadly predator."
+      },
+      {
+        "name": "Ricky",
+        "role": "Anti Hero",
+        "description": "The group's troublemaker who initially faces suspicion from the others, but isn't the true threat."
+      },
+      {
+        "name": "Prehistoric Arachnid",
+        "role": "Villain",
+        "description": "A terrifying ancient monster deep in the Ozark wilderness that hunts its prey by sensing vibrations."
+      },
+      {
+        "name": "Church Group Members",
+        "role": "Supporting Character",
+        "description": "Members of the annual retreat who are targeted and picked off one by one as they navigate the forest."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Megan",
+        "target": "Ricky",
+        "description": "Leader/Troublemaker, Allies under threat"
+      },
+      {
+        "source": "Megan",
+        "target": "Church Retreat Group",
+        "description": "Protector/Leader"
+      },
+      {
+        "source": "Ricky",
+        "target": "Church Retreat Group",
+        "description": "Outcast/Target of suspicion"
+      },
+      {
+        "source": "Prehistoric Arachnid",
+        "target": "Church Retreat Group",
+        "description": "Predator/Prey"
+      }
+    ],
+    "seo": {
+      "slug": "dont-move",
+      "jsonLd": {
+        "name": "Don't Move",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller",
+          "Survival"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Megan",
+            "@type": "Person"
+          },
+          {
+            "name": "Ricky",
+            "@type": "Person"
+          }
+        ],
+        "description": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, where a terrifying prehistoric arachnid hunts them by vibration."
+      },
+      "keywords": [
+        "Don't Move movie",
+        "Ozark horror movie",
+        "survival horror",
+        "prehistoric spider film",
+        "Don't Move synopsis",
+        "creature feature"
+      ],
+      "canonical": "[https://movnix.com/movie/dont-move](https://movnix.com/movie/dont-move)",
+      "metaTitle": "Don't Move Movie Overview | Survival Horror in the Ozarks",
+      "openGraph": {
+        "og:title": "Don't Move - Official Movie Synopsis & Details",
+        "og:description": "Trapped in the Ozarks, a retreat group faces a prehistoric predator that hunts by sound and vibration. Don't make a sound. Don't move."
+      },
+      "twitterCard": {
+        "twitter:title": "Don't Move | Horror Thriller Synopsis",
+        "twitter:description": "When a church retreat in the Ozarks goes horribly wrong, survival means standing completely still. Watch out for what lurks in the webs."
+      },
+      "metaDescription": "A church group trapped in the Ozarks is hunted by a terrifying monster that senses movement. Can Megan lead them out alive? Read the full synopsis."
+    },
+    "faq": [
+      {
+        "answer": "The film follows a church group on an annual retreat in the Ozark wilderness. After wandering into forbidden territory, they are stalked by a giant prehistoric arachnid that hunts using vibration. They must stay completely still to survive while Megan attempts to lead the survivors to safety.",
+        "question": "What is the main plot of Don't Move?"
+      },
+      {
+        "answer": "The dominant genre is horror, specifically blending monster horror, survival thriller, and creature feature elements.",
+        "question": "What is the dominant genre of Don't Move?"
+      },
+      {
+        "answer": "Megan is the main protagonist who steps up to keep the remaining group members calm and lead them out of the forest alive.",
+        "question": "Who is the main protagonist of the film?"
+      },
+      {
+        "answer": "Suspicion initially falls on Ricky, the known troublemaker of the church group, before they realize a prehistoric creature is responsible.",
+        "question": "Who is initially suspected of bringing harm to the group?"
+      },
+      {
+        "answer": "The creature is a massive, prehistoric arachnid dwelling in webbed labyrinths that detects and hunts its prey strictly by sensing movement and ground vibrations.",
+        "question": "What makes the main monster unique in Don't Move?"
+      },
+      {
+        "answer": "The story is set deep within the dense forest and wilderness of the Ozark Mountains.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "No, Don't Move is a standalone creature feature horror film with a self-contained story.",
+        "question": "Is Don't Move part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene after the main ending credits conclude.",
+        "question": "Is there a post-credit scene in Don't Move?"
+      },
+      {
+        "answer": "The central survival rule is to remain entirely frozen and silent—literally 'Don't Move'—to avoid triggering the creature's vibration sensitivity.",
+        "question": "What is the key survival rule for the characters in the movie?"
+      },
+      {
+        "answer": "Fans of intense survival horror, giant monster movies, tense creature features, and high-suspense thrillers like A Quiet Place or Tremors will enjoy this film.",
+        "question": "Target audience-wise, who would enjoy Don't Move?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High tension and creature-feature terror centered around a claustrophobic, life-or-death scenario where any movement triggers an attack."
+      },
+      "language": {
+        "score": 4,
+        "description": "Moderate profanity and panic-driven strong language typical of high-stakes survival scenarios."
+      },
+      "violence": {
+        "score": 7,
+        "description": "Graphic creature attacks as members of a group are systematically picked off by a massive predatory spider."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Minimal to no substance use, though suspicion placed on a 'troublemaker' character may imply mild references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present in the premise."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "Sustained high anxiety, peril, acute fear of death, and interpersonal conflict under severe stress."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 7,
+      "comedy": 1,
+      "emotion": 5,
+      "fantasy": 2,
+      "mystery": 6,
+      "romance": 0,
+      "science": 3,
+      "suspense": 10,
+      "violence": 8
+    },
+    "created_at": "2026-09-01 02:01:51.135979",
+    "updated_at": "2026-09-01 02:01:51.135979"
+  }
 }
