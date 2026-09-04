@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.6079,
-    "voteAverage": 6.25,
-    "voteCount": 8,
+    "popularity": 19.3868,
+    "voteAverage": 6.188,
+    "voteCount": 16,
     "homepage": "https://mock-movie-website.com/movies/1479495",
-    "posterPath": "/wUot9PRZ2zAv3wXj6aMdZRbPzUP.jpg",
+    "posterPath": "/vWuVQi4iNXw7VCxxfCMXKS6NDOA.jpg",
     "backdropPath": "/8z7dSFZUge1JeboxpkvURHT1MeZ.jpg",
     "collectionId": null
   },
@@ -53,7 +53,7 @@
   ],
   "images": [
     {
-      "filePath": "/wUot9PRZ2zAv3wXj6aMdZRbPzUP.jpg",
+      "filePath": "/vWuVQi4iNXw7VCxxfCMXKS6NDOA.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -77,6 +77,13 @@
       "filePath": "/1fwfIF6T3CgHSI7oEmakFDhYh6A.jpg",
       "width": 750,
       "height": 1125,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/vWuVQi4iNXw7VCxxfCMXKS6NDOA.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -161,12 +168,12 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.25,
-      "votesCount": 8
+      "ratingValue": 6.188,
+      "votesCount": 16
     },
     {
       "source": "rotten_tomatoes",
-      "ratingValue": 89,
+      "ratingValue": 87,
       "votesCount": null
     },
     {
@@ -180,7 +187,7 @@
       "tmdbPersonId": 1878065,
       "name": "Dakota Gorman",
       "profilePath": "/4Hi6pNCVz4ZUYVL6hSsA9ouZMWf.jpg",
-      "character": null,
+      "character": "Lena Orchard",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -189,7 +196,7 @@
       "tmdbPersonId": 1178637,
       "name": "Todd Terry",
       "profilePath": "/vB9zZNg8qZPlSijYs84F4LpwVpo.jpg",
-      "character": null,
+      "character": "Clive \"C.S.\" Peters",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -198,7 +205,7 @@
       "tmdbPersonId": 1756597,
       "name": "James Austin Johnson",
       "profilePath": "/g9y0aABiKtB1FOIKmklDlgRpDof.jpg",
-      "character": null,
+      "character": "Jasper Deville",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -207,7 +214,7 @@
       "tmdbPersonId": 4561307,
       "name": "Liz Atwater",
       "profilePath": "/7snM7CLyKgTCKz4I3jFxWFtrT8c.jpg",
-      "character": null,
+      "character": "Ollie Peters",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -216,7 +223,7 @@
       "tmdbPersonId": 2589577,
       "name": "Jordan Mullins",
       "profilePath": "/dxIaDU6GL1CvHDX58ZeGFRxgkpi.jpg",
-      "character": null,
+      "character": "Officer Crump",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -255,6 +262,10 @@
     },
     "us": {
       "flatrate": [
+        {
+          "name": "Philo",
+          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+        },
         {
           "name": "AMC Plus Apple TV channel",
           "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
