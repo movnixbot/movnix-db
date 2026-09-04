@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "2730116",
     "status": "Released",
-    "popularity": 9.4556,
-    "voteAverage": 6.5,
-    "voteCount": 52,
+    "popularity": 13.8756,
+    "voteAverage": 6.6,
+    "voteCount": 53,
     "homepage": "https://mock-movie-website.com/movies/1497970",
     "posterPath": "/5qttWFjsO62k88civZaDMHiBTvy.jpg",
     "backdropPath": "/9VM1KI9sVZETl0d00FK7CnBzxiw.jpg",
@@ -785,8 +785,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.5,
-      "votesCount": 52
+      "ratingValue": 6.6,
+      "votesCount": 53
     },
     {
       "source": "imdb",
@@ -821,7 +821,7 @@
     {
       "tmdbPersonId": 77301,
       "name": "Jiang Wen",
-      "profilePath": "/sHkCsohuCUbVdKSnp11qejNOtZb.jpg",
+      "profilePath": "/u6VjywO6Z8nTqPGgFu7V6NDs1xj.jpg",
       "character": "Heavenly Master (voice)",
       "job": "Actor",
       "department": "Acting",
@@ -1028,5 +1028,206 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1497970/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1497970,
+    "hash": "b13f78189cf9e12d6d2ed4634ce214da26654ac3412aca07e7d9b492045d6001",
+    "summary_one_sentence": "When an iconic cat-and-mouse chase leads into a museum, Tom and Jerry trigger an ancient magical compass that hurls them backward through time, forcing the rivals to team up to return home.",
+    "summary_short": "During one of their chaotic indoor chases inside a museum, Tom and Jerry accidentally stumble upon and activate a mysterious ancient compass. The artifact's magical powers transport the duo to a distant historical era full of unfamiliar dangers and strange surroundings. To overcome the challenges of this ancient world and locate a way back to their own timeline, the legendary rivals must reluctantly set aside their feud and work as a team.",
+    "summary_long": "The eternal rivalry between Tom and Jerry takes an unexpected turn during a high-energy chase through the halls of a local history museum. In the midst of the chaos, the pair accidentally disturb a rare artifact exhibit and unleash the hidden powers of an ancient magical compass. A sudden burst of mystical energy sweeps both cat and mouse into a temporal vortex, stranding them in an unfamiliar and distant era. Separated from everything they know, Tom and Jerry quickly discover that survival in this unknown land requires more than their usual slapstick antics. Dangerous terrain, unfamiliar creatures, and era-specific obstacles force the traditional enemies into an uneasy truce. As they navigate through historical landscapes, they must uncover the secrets of the magical compass to reactivate its portal-opening capabilities. Working together proves challenging as their natural instincts often clash, leading to comedic mishaps along the way. Ultimately, through a combination of Jerry's sharp wits and Tom's physical resilience, the duo learns to synchronize their efforts to overcome the period's ultimate trial. Their journey highlights a surprising depth of camaraderie as they race against time to power the device and return to the safety of their modern world.",
+    "synopsis": "Tom and Jerry: Forbidden Compass brings the classic slapstick duo into an epic time-travel adventure filled with magic, humor, and heart. When an ordinary chase disrupts a museum display, Tom and Jerry trigger an ancient artifact that sweeps them into a long-lost historical epoch. Thrust into strange surroundings without their familiar domestic backdrop, the rivals are forced to navigate uncharted territory and unexpected perils together. Designed to entertain audiences of all ages, this animated feature combines high-stakes fantasy with comedic character dynamics, demonstrating that even the fiercest adversaries can become an unbeatable team when faced with the challenge of finding their way back home.",
+    "keywords": [
+      "time travel",
+      "slapstick comedy",
+      "cat and mouse",
+      "arch-rivals turned allies",
+      "reluctant partnership",
+      "museum chase",
+      "magical artifact",
+      "ancient compass",
+      "historical eras",
+      "lost in time",
+      "quest to return home",
+      "animated adventure",
+      "silent comedy elements",
+      "chaotic pursuit"
+    ],
+    "themes": [
+      {
+        "theme": "Cooperation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Time Travel",
+        "confidence": 0.8
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Adventurous",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Playful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Whimsical",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.6
+      }
+    ],
+    "story_structure": {
+      "climax": "The pair face their biggest hurdle yet as they must work in total unison during a high-stakes crisis to reactivate the compass before the gateway home closes forever.",
+      "conflict": "The compass activates and teleports the duo into a distant, unfamiliar historical era, leaving them stranded away from home.",
+      "resolution": "Having successfully calibrated the magical artifact, Tom and Jerry manage to return to their own time, though their truce quickly dissolves back into familiar mayhem.",
+      "introduction": "While engaged in their usual chaotic chase inside a museum, Tom and Jerry accidentally stumble upon an ancient magical compass.",
+      "risingAction": "Tom and Jerry must set aside their rivalry to navigate dangerous ancient environments, solve historical obstacles, and guard the compass from local threats."
+    },
+    "characters": [
+      {
+        "name": "Tom",
+        "role": "Hero",
+        "description": "A determined cat who must set aside his ongoing rivalry to navigate time travel and find a way home."
+      },
+      {
+        "name": "Jerry",
+        "role": "Hero",
+        "description": "A clever and resourceful mouse forced to team up with his usual antagonist to survive a distant era."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tom",
+        "target": "Jerry",
+        "description": "Rivals turned reluctant allies"
+      }
+    ],
+    "seo": {
+      "slug": "tom-and-jerry-forbidden-compass",
+      "jsonLd": {
+        "name": "Tom and Jerry: Forbidden Compass",
+        "@type": "Movie",
+        "genre": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home."
+      },
+      "keywords": [
+        "Tom and Jerry Forbidden Compass",
+        "Tom and Jerry movie",
+        "Tom and Jerry time travel",
+        "animated movie",
+        "family adventure movie"
+      ],
+      "canonical": "[https://movnix.com/movie/tom-and-jerry-forbidden-compass](https://movnix.com/movie/tom-and-jerry-forbidden-compass)",
+      "metaTitle": "Tom and Jerry: Forbidden Compass - Official Movie Overview & Plot",
+      "openGraph": {
+        "og:title": "Tom and Jerry: Forbidden Compass - A Time-Travel Adventure",
+        "og:description": "When a museum chase triggers an ancient magical compass, Tom and Jerry are lost in time! Can the classic rivals work together to get back home?"
+      },
+      "twitterCard": {
+        "twitter:title": "Tom and Jerry: Forbidden Compass",
+        "twitter:description": "Tom and Jerry get transported through time by a magical compass! See how they team up to find their way home."
+      },
+      "metaDescription": "Tom and Jerry trigger an ancient magical compass in a museum and get lost in time. Watch them team up to find their way home in this epic time-travel adventure."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the iconic Tom and Jerry franchise, featuring the classic cat-and-mouse duo in an original animated feature-length film.",
+        "question": "Is Tom and Jerry: Forbidden Compass part of a franchise?"
+      },
+      {
+        "answer": "The release date varies by platform and region, but it was produced as a direct-to-video and digital release for family streaming platforms.",
+        "question": "What is the release date of Tom and Jerry: Forbidden Compass?"
+      },
+      {
+        "answer": "While chasing each other inside a museum, Tom and Jerry discover an ancient magical compass that accidentally transports them through time, forcing them to team up to find a way back home.",
+        "question": "What is the main plot of Tom and Jerry: Forbidden Compass?"
+      },
+      {
+        "answer": "The dominant genres are Animated Comedy, Family, and Fantasy Adventure.",
+        "question": "What is the dominant genre of Tom and Jerry: Forbidden Compass?"
+      },
+      {
+        "answer": "No, standard animated features in this franchise typically do not have a story-altering post-credits scene, though short slapstick gags during the end credits are common.",
+        "question": "Is there a post-credit scene in Tom and Jerry: Forbidden Compass?"
+      },
+      {
+        "answer": "No, true to their traditional classic shorts, Tom and Jerry rely primarily on slapstick physical comedy, visual humor, and vocalized reactions rather than spoken dialogue.",
+        "question": "Do Tom and Jerry speak in this movie?"
+      },
+      {
+        "answer": "Yes, it is rated G or PG depending on the region, intended for general family audiences with mild slapstick cartoon violence.",
+        "question": "Is Tom and Jerry: Forbidden Compass suitable for young children?"
+      },
+      {
+        "answer": "The magical compass transports them back into ancient historical eras filled with legendary creatures, historical challenges, and time-specific obstacles.",
+        "question": "Where does the time travel take Tom and Jerry?"
+      },
+      {
+        "answer": "Beside their own rivalry, Tom and Jerry must deal with historical antagonists and magical guardians protecting the ancient secrets of the compass.",
+        "question": "Who is the main antagonist in Tom and Jerry: Forbidden Compass?"
+      },
+      {
+        "answer": "It is available on major digital video-on-demand platforms, digital storefronts (such as Amazon Prime Video and Apple TV), and streaming services hosting Warner Bros. Animation content.",
+        "question": "Where can I watch Tom and Jerry: Forbidden Compass?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Minor suspenseful moments involving magical elements and time travel peril, suitable for general audiences."
+      },
+      "language": {
+        "score": 0,
+        "description": "No coarse or offensive language."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mild slapstick cartoon violence typical of Tom and Jerry, including chases and physical comedy without blood or realistic harm."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or reference to alcohol, tobacco, or drugs."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes."
+      },
+      "emotionalIntensity": {
+        "score": 2,
+        "description": "Mild thematic tension related to being lost in time and needing to find a way back home."
+      }
+    },
+    "movie_dna": {
+      "drama": 2,
+      "action": 8,
+      "comedy": 9,
+      "emotion": 4,
+      "fantasy": 8,
+      "mystery": 6,
+      "romance": 0,
+      "science": 3,
+      "suspense": 5,
+      "violence": 6
+    },
+    "created_at": "2026-08-31 06:01:15.691569",
+    "updated_at": "2026-08-31 06:01:15.691569"
+  }
 }
