@@ -10,9 +10,9 @@
     "budget": "165000000",
     "revenue": "345166617",
     "status": "Released",
-    "popularity": 60.597,
-    "voteAverage": 7.508,
-    "voteCount": 1431,
+    "popularity": 81.2094,
+    "voteAverage": 7.493,
+    "voteCount": 1459,
     "homepage": "https://www.starwars.com/films/star-wars-the-mandalorian-and-grogu",
     "posterPath": "/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
     "backdropPath": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
@@ -1387,6 +1387,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/rfCdBIY15mJDdbNQPnxIg91QgPq.jpg",
+      "width": 1983,
+      "height": 2975,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/qSWiY6KAvkapXJWeyNrmDGYWQwr.jpg",
       "width": 2000,
       "height": 3000,
@@ -1639,6 +1646,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/1mmrn6GScBqOPaflozFxROi5edT.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gKcXcZ2iWC1wbt9PU8MhmvBVktQ.jpg",
       "width": 1744,
       "height": 2452,
@@ -1717,13 +1731,6 @@
     },
     {
       "filePath": "/k3xwZe7yrjgA1iQGRUI5SFfR1JG.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/1mmrn6GScBqOPaflozFxROi5edT.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -3207,6 +3214,27 @@
       "type": "poster"
     },
     {
+      "filePath": "/vDIjRb6aMuqNnugoUJVcSLtgbCC.jpg",
+      "width": 1076,
+      "height": 1614,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tOqo3y4pGQFmu0TpHxunMD48xqQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/msEVvBUCcfktzlQrJRYlIh9dPkg.jpg",
+      "width": 2000,
+      "height": 2818,
+      "aspectRatio": 0.71,
+      "type": "poster"
+    },
+    {
       "filePath": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
       "width": 3840,
       "height": 2160,
@@ -3786,13 +3814,20 @@
       "height": 720,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/fguTrftnMeYUg84wuvuhuzKQyqY.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.508,
-      "votesCount": 1431
+      "ratingValue": 7.493,
+      "votesCount": 1459
     },
     {
       "source": "imdb",
@@ -3951,15 +3986,6 @@
       "name": "Jon Favreau",
       "profilePath": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 15277,
-      "name": "Jon Favreau",
-      "profilePath": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
-      "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
@@ -3971,6 +3997,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 15277,
+      "name": "Jon Favreau",
+      "profilePath": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -4099,6 +4134,11 @@
       "iso_3166_1": "ES",
       "title": "Star Wars - The Mandalorian and Grogu",
       "type": ""
+    },
+    {
+      "iso_3166_1": "KR",
+      "title": "스타워즈: 만달로리안과 그로구",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -4114,27 +4154,32 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Disney Plus",
+          "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
