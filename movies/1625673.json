@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.9474,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 24.5885,
+    "voteAverage": 1,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1625673",
     "posterPath": "/1lskMEArKsp7pzQck90q6ttXAbn.jpg",
     "backdropPath": "/fI6VKNrW4YFi6TBCM2Ekngyi1Q1.jpg",
@@ -85,6 +85,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 1,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
