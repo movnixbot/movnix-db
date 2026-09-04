@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Planned",
-    "popularity": 13.2358,
+    "popularity": 13.6125,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1440098",
     "posterPath": "/7HH4BtNwt7WYaBN5pwCv0cCww4z.jpg",
-    "backdropPath": "/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
+    "backdropPath": "/uPkl3mUqzY2ghPfbNORi4gjn7Nj.jpg",
     "collectionId": 1440105
   },
   "collection": {
@@ -91,7 +91,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
+      "filePath": "/uPkl3mUqzY2ghPfbNORi4gjn7Nj.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -137,6 +137,13 @@
       "width": 1011,
       "height": 1350,
       "aspectRatio": 0.749,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wKSQposC5oLsZ6H7x69nWDob7aE.jpg",
+      "width": 1048,
+      "height": 1501,
+      "aspectRatio": 0.698,
       "type": "poster"
     },
     {
@@ -361,5 +368,226 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1440098/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1440098,
+    "hash": "fde7c6d59a471c3781a798484727b48c9c86e5fe07b427a8b51cbfe33b82e977",
+    "summary_one_sentence": "After surviving a kidnapping, a wealthy heiress falls for the protective bodyguard hired by her father, drawing both into a dangerous web of deception and hidden motives.",
+    "summary_short": "Following a harrowing kidnapping experience, Marfil Cortés is assigned a private bodyguard, Sebastian Moore, to ensure her continued safety. Though their initial dynamic is fraught with tension and clashing personalities, an undeniable attraction quickly develops between them. As they draw closer, they must navigate an environment rife with betrayal, where secret identities and ulterior motives threaten to unravel their growing bond.",
+    "summary_long": "Marfil Cortés, the privileged daughter of an influential Spanish businessman, finds her life upended when she is targeted and briefly held captive in a terrifying kidnapping attempt. Shaken by the incident, her protective father refuses to take any further risks with her safety and hires elite bodyguard Sebastian Moore to monitor her every move. At first, Marfil resents the constant intrusion on her freedom, leading to intense friction and headstrong clashes between her and the stoic Sebastian. However, as they spend long hours together under high pressure, their mutual antagonism gradually transforms into an intense, irresistible romantic attraction. Beneath the surface of their emerging romance, dark secrets linger, forcing both to question who can truly be trusted. Secrets from the past begin to emerge, exposing a complex network of deception surrounding Marfil's family, her father's empire, and the true motivations of those around her. Navigating a landscape where dangerous lies overshadow reality, Marfil and Sebastian must confront shifting allegiances that put their lives and trust to the ultimate test. Ultimately, they are forced to decide if their connection is strong enough to survive the deceit threatening to tear them apart.",
+    "synopsis": "Drawn Together centers on Marfil Cortés, a high-society heiress whose secure world shatters when she is kidnapped. Although she is released, the terrifying event prompts her father to implement strict security measures by placing her under the constant watch of bodyguard Sebastian Moore. What begins as a volatile relationship defined by resistance and control soon evolves into a passionate connection as the tension between them turns into affection. However, their bond is tested by an intricate network of lies, high-stakes drama, and hidden agendas, forcing them to discern truth from deception in a world where appearances are entirely misleading.",
+    "keywords": [
+      "bodyguard romance",
+      "wealthy heiress",
+      "kidnapping aftermath",
+      "enemies to lovers",
+      "forbidden attraction",
+      "deception and secrets",
+      "hidden identities",
+      "spanish elite",
+      "trust issues",
+      "high stakes romance",
+      "protective hero",
+      "romantic thriller",
+      "class difference",
+      "danger and intrigue"
+    ],
+    "themes": [
+      {
+        "theme": "Trust and Deception",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Forbidden Romance",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Protection and Survival",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Class and Power Dynamics",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Romantic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A confrontation exposes the true intentions of those closest to Marfil, forcing her and Sebastian to face life-altering secrets and immediate physical danger.",
+      "conflict": "Marfil resists the tight restrictions placed on her freedom, sparking immediate friction with the disciplined and guarded Sebastian as they clash over boundary, safety, and autonomy.",
+      "resolution": "The fallout from the unraveling deception leaves Marfil to navigate the consequences of the truth, forever changing her relationship with Sebastian and her path forward.",
+      "introduction": "Following a harrowing kidnapping attempt, high-society Spanish heiress Marfil Cortés is assigned a private bodyguard, Sebastian Moore, hired by her wealthy father to guarantee her protection.",
+      "risingAction": "As they spend more time together, mutual friction turns into a powerful, dangerous attraction, even as hidden agendas, secret motives, and betrayal surface around Marfil's inner circle."
+    },
+    "characters": [
+      {
+        "name": "Marfil Cortés",
+        "role": "Hero",
+        "description": "The central protagonist who survives a kidnapping and navigates a high-stakes world where secrets and true identities are concealed."
+      },
+      {
+        "name": "Sebastian Moore",
+        "role": "Supporting Character",
+        "description": "The dedicated bodyguard hired to protect Marfil who develops a strong, complex attraction to her despite initial conflict."
+      },
+      {
+        "name": "Marfil's Father",
+        "role": "Mentor",
+        "description": "A wealthy Spanish businessman who initiates the action by hiring Sebastian to keep his daughter safe."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marfil Cortés",
+        "target": "Sebastian Moore",
+        "description": "Love Interest / Bodyguard-Client"
+      },
+      {
+        "source": "Father of Marfil Cortés",
+        "target": "Marfil Cortés",
+        "description": "Father/Daughter"
+      },
+      {
+        "source": "Father of Marfil Cortés",
+        "target": "Sebastian Moore",
+        "description": "Employer/Employee"
+      }
+    ],
+    "seo": {
+      "slug": "drawn-together",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/drawn-together](https://movnix.com/movie/drawn-together)",
+        "name": "Drawn Together",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "character": [
+          {
+            "name": "Marfil Cortés",
+            "@type": "Person"
+          },
+          {
+            "name": "Sebastian Moore",
+            "@type": "Person"
+          }
+        ],
+        "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are."
+      },
+      "keywords": [
+        "Drawn Together movie",
+        "Marfil Cortés",
+        "Sebastian Moore",
+        "romantic thriller",
+        "bodyguard romance movie"
+      ],
+      "canonical": "[https://movnix.com/movie/drawn-together](https://movnix.com/movie/drawn-together)",
+      "metaTitle": "Drawn Together Movie Overview, Cast & Release Details | Movnix",
+      "openGraph": {
+        "og:title": "Drawn Together - Secrets, Danger, and Unstoppable Attraction",
+        "og:description": "After a terrifying kidnapping, heiress Marfil Cortés gets a new bodyguard—and a dangerous attraction. Read the plot breakdown and details on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Drawn Together - Plot Synopsis & Movie Info",
+        "twitter:description": "When a wealthy heiress clashes with her new bodyguard, trust becomes as dangerous as the enemies hiding in plain sight."
+      },
+      "metaDescription": "Discover Drawn Together. When heiress Marfil Cortés is assigned bodyguard Sebastian Moore, dangerous secrets and intense attraction ignite. Read the synopsis."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is romantic drama, with strong elements of suspense and romantic thriller given its kidnapping and bodyguard narrative.",
+        "question": "What is the dominant genre of Drawn Together?"
+      },
+      {
+        "answer": "Yes, Drawn Together is an adaptation based on Mercedes Ron's popular novel series, specifically serving as part of the 'Marfil' or 'Culpables' universe narrative arc.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "After Marfil Cortés, the daughter of a wealthy Spanish businessman, is kidnapped and released, her father hires a bodyguard named Sebastian Moore to protect her, leading to a complex romance between them.",
+        "question": "What is the main premise of the story?"
+      },
+      {
+        "answer": "No, there is no post-credit scene, though the ending leaves room for ongoing story arcs established in the original book series.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main characters are Marfil Cortés, a wealthy young woman targeted by kidnappers, and Sebastian Moore, the professional bodyguard hired to protect her.",
+        "question": "Who are the central characters in the story?"
+      },
+      {
+        "answer": "Their initial conflict stems from personality clashes and Marfil's resistance to having constant security, though this tension eventually develops into an undeniable attraction.",
+        "question": "What is the main source of conflict between Marfil and Sebastian?"
+      },
+      {
+        "answer": "A major theme is deception and trust, centered around the idea that no one in their world is truly who they claim to be.",
+        "question": "What underlying theme drives the plot forward?"
+      },
+      {
+        "answer": "It is an adaptation based on the best-selling literary work by author Mercedes Ron.",
+        "question": "Is Drawn Together an original screenplay or an adaptation?"
+      },
+      {
+        "answer": "It is targeted toward older teens and young adults (Mature/TV-MA or R-equivalent) due to its mature romantic themes, suspenseful violence, and emotional drama.",
+        "question": "What age rating or content level is expected for this title?"
+      },
+      {
+        "answer": "The story primarily takes place in high-society international settings, reflecting the wealthy background of Marfil's family and her father's Spanish business empire.",
+        "question": "Where does the story primarily take place?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild suspense and tension related to danger, coercion, and betrayal."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language during high-stress conflicts."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Moderate violence involving themes of kidnapping, physical threats, and bodyguard-related action."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild background references to alcohol consumption at formal or social events."
+      },
+      "sexualContent": {
+        "score": 5,
+        "description": "Moderate romantic and sensual themes focused on intense personal attraction."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderately high emotional intensity surrounding trauma, trust issues, and high-stakes romantic conflict."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 7,
+      "romance": 9,
+      "science": 0,
+      "suspense": 8,
+      "violence": 4
+    },
+    "created_at": "2026-08-30 04:01:21.550625",
+    "updated_at": "2026-08-30 04:01:21.550625"
+  }
 }
