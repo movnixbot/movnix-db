@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 143.5704,
-    "voteAverage": 6.2,
-    "voteCount": 10,
+    "popularity": 161.3942,
+    "voteAverage": 6,
+    "voteCount": 20,
     "homepage": "https://mock-movie-website.com/movies/1514682",
     "posterPath": "/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
     "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
@@ -171,6 +171,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/tjvXejJQ8ED7qHPy5C3C25A0G0C.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
       "width": 1920,
       "height": 1080,
@@ -188,8 +195,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.2,
-      "votesCount": 10
+      "ratingValue": 6,
+      "votesCount": 20
     },
     {
       "source": "imdb",
@@ -363,28 +370,35 @@
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
   },
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "Sierbahnn",
+      "content": "Antonio steals every scene he is in. Other than that this is a pretty decent little movie with sharks and badguys and people in the water. The cast does a good job, suspense is there, the plot and story works out, and apart from a massive leap of faith into complete disbelief in the end (well, two, if you count the flare) it stays relatively close to at least the pasture where reality spends most of its time.",
+      "rating": 6,
+      "createdAt": "2026-09-03T18:01:08Z"
+    }
+  ],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
