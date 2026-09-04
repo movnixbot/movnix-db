@@ -1,22 +1,23 @@
 {
   "movie": {
     "tmdbId": 1509381,
-    "imdbId": null,
+    "imdbId": "tt38891101",
     "title": "Oradour, ne m'oublie pas",
     "originalTitle": "Oradour, ne m'oublie pas",
     "overview": "Mock movie description parsed from html scraper page.",
-    "releaseDate": "2026-09-24",
+    "releaseDate": "2026-08-30",
     "runtime": 139,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.2573,
+    "popularity": 2.1666,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1509381",
-    "posterPath": "/i9glctGr9EM3RRN1s2yTw2WYPlK.jpg",
+    "posterPath": "/bSI2RoKBKistmF2Cjdyhj5K35ee.jpg",
     "backdropPath": "/nogvEvi8sZ9Mx1R64VuwBC3SHCQ.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "12"
   },
   "collection": null,
   "genres": [
@@ -59,13 +60,43 @@
       "name": "M2thep Entertainment",
       "logoPath": null,
       "originCountry": "FR"
+    },
+    {
+      "tmdbId": 309377,
+      "name": "BeHive Production",
+      "logoPath": null,
+      "originCountry": null
+    },
+    {
+      "tmdbId": 22123,
+      "name": "TF1",
+      "logoPath": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "originCountry": "FR"
+    },
+    {
+      "tmdbId": 2208,
+      "name": "RTL-TVi",
+      "logoPath": "/lyo2nqmPCpXBWvMIQhmVjvZvoHN.png",
+      "originCountry": "BE"
+    },
+    {
+      "tmdbId": 202584,
+      "name": "RTL Belgium",
+      "logoPath": "/xzwuvF1SmLz0O1TunE2eMWq8Rdn.png",
+      "originCountry": "BE"
+    },
+    {
+      "tmdbId": 264002,
+      "name": "RTL Play",
+      "logoPath": null,
+      "originCountry": "BE"
     }
   ],
   "keywords": [],
   "videos": [],
   "images": [
     {
-      "filePath": "/i9glctGr9EM3RRN1s2yTw2WYPlK.jpg",
+      "filePath": "/bSI2RoKBKistmF2Cjdyhj5K35ee.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -86,10 +117,24 @@
       "type": "poster"
     },
     {
+      "filePath": "/bSI2RoKBKistmF2Cjdyhj5K35ee.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/nogvEvi8sZ9Mx1R64VuwBC3SHCQ.jpg",
       "width": 1350,
       "height": 760,
       "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5X1qSpZmGJb9SEyGj6VntzMRXuw.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
       "type": "backdrop"
     }
   ],
@@ -131,7 +176,7 @@
     {
       "tmdbPersonId": 5007624,
       "name": "Giulia Sagner",
-      "profilePath": null,
+      "profilePath": "/kNLvkD0Pd0gjMxe3XyV35Iy1KGb.jpg",
       "character": "Sophie",
       "job": "Actor",
       "department": "Acting",
@@ -221,7 +266,7 @@
   ],
   "alternativeTitles": [],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt38891101",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
