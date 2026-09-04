@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.8613,
+    "popularity": 2.5218,
     "voteAverage": 6.3,
-    "voteCount": 11,
+    "voteCount": 14,
     "homepage": "https://mock-movie-website.com/movies/1609125",
     "posterPath": "/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
     "backdropPath": "/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
@@ -150,6 +150,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/3gDIMNUwSi5tKXRHP7Bh991LvBR.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/5gnwQujVcxj0a1zQx4eCxVnfujg.jpg",
+      "width": 594,
+      "height": 892,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
       "width": 3840,
       "height": 2160,
@@ -168,7 +182,7 @@
     {
       "source": "tmdb",
       "ratingValue": 6.3,
-      "votesCount": 11
+      "votesCount": 14
     },
     {
       "source": "crawled",
@@ -319,6 +333,11 @@
       "iso_3166_1": "CN",
       "title": "Shou zhe tian",
       "type": "romanized"
+    },
+    {
+      "iso_3166_1": "KR",
+      "title": "수차천",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -336,12 +355,16 @@
     "us": {
       "flatrate": [
         {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          "name": "Amazon Prime Video",
+          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
         },
         {
           "name": "Hi-YAH",
           "logo": "/pPoqVHcko7XoCRrPus4boDW90uM.jpg"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
         }
       ],
       "buy": [
@@ -394,5 +417,189 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1609125/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1609125,
+    "hash": "792737eb542c616949992e390feab139aa6a9a5002e17030e1f18f1c54e534d5",
+    "summary_one_sentence": "Framed for the theft of vital relief funds, local constable Xue Buyi must choose between risking everything to clear his name or upholding the law of a corrupt system.",
+    "summary_short": "Xue Buyi is a local constable who manages to maintain an uneasy peace by keeping his distance from his corrupt colleagues. His world collapses when he is framed for the high-stakes theft of thousands of dollars meant for relief funds. Torn between loyalty to his duty and his own survival, Xue Buyi must navigate a web of deceit to expose the true culprits. To find justice, he has to decide whether to follow the strict letter of the law or take matters into his own hands.",
+    "summary_long": "In a town plagued by institutional decay, local constable Xue Buyi has survived by keeping his head down and avoiding his corrupt colleagues. However, his quiet life ends abruptly when thousands of dollars in government relief funds vanish overnight. Desperate for a scapegoat, the corrupt local authorities frame Xue Buyi for the high-profile crime. Overnight, the officer becomes a hunted man in the very town he swore to protect. Forced onto the run, Xue Buyi begins investigating the theft on his own to uncover who orchestrated the setup. As he digs deeper, he uncovers a vast conspiracy involving influential power brokers who engineered the heist for personal gain. With enemies pursuing him at every turn, Xue Buyi struggles with a profound moral conflict: upholding the law he took an oath to honor or breaking it to survive. Ultimately, he realizes that bringing the real criminals to justice requires confronting the entire corrupt system head-on.",
+    "synopsis": "The Butcher's Blade is a high-stakes action drama centered on Xue Buyi, an upright local constable trying to maintain his integrity while surrounded by corrupt peers. When a massive sum of relief money disappears, Xue Buyi is framed for the theft and forced to run from the very law he serves. Forced to make an impossible choice between sworn duty and self-preservation, he sets out to expose the true conspirators behind the heist before time runs out.",
+    "keywords": [
+      "framed protagonist",
+      "corrupt law enforcement",
+      "wrongfully accused",
+      "moral dilemma",
+      "historical crime",
+      "duty vs justice",
+      "reluctant hero",
+      "relief fund theft",
+      "constable",
+      "vigilante justice",
+      "clearing one's name",
+      "corruption",
+      "outlaw hero"
+    ],
+    "themes": [
+      {
+        "theme": "Duty vs. Justice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Corruption and Betrayal",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Survival and Redemption",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "Xue Buyi directly confronts the conspirators behind the framing, bringing his personal sense of justice into direct collision with the legal system he serves.",
+      "conflict": "Xue Buyi is framed for the theft of essential relief funds, placing him in a desperate situation where remaining neutral is no longer an option.",
+      "resolution": "The truth behind the stolen relief funds is revealed, fundamentally changing Xue Buyi's standing and his relationship with the law.",
+      "introduction": "Local constable Xue Buyi leads a quiet, detached life, deliberate in maintaining his distance from the surrounding corruption of his colleagues.",
+      "risingAction": "As pressure mounts from both corrupt officials and the law, Xue Buyi navigates a precarious path, forced to decide whether to break his sworn oath to expose the real culprits."
+    },
+    "characters": [
+      {
+        "name": "Xue Buyi",
+        "role": "Hero",
+        "description": "A local constable who keeps his distance from corruption until he is framed for theft, forcing him into a moral dilemma to clear his name."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Xue Buyi",
+        "target": "Corrupt Colleagues",
+        "description": "Rivals / Antagonists"
+      }
+    ],
+    "seo": {
+      "slug": "the-butchers-blade",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/the-butchers-blade](https://movnix.com/movie/the-butchers-blade)",
+        "name": "The Butcher's Blade",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey."
+      },
+      "keywords": [
+        "The Butcher's Blade",
+        "The Butcher's Blade movie",
+        "Xue Buyi",
+        "crime thriller movie",
+        "martial arts film",
+        "action drama",
+        "corrupt constable movie"
+      ],
+      "canonical": "[https://movnix.com/movie/the-butchers-blade](https://movnix.com/movie/the-butchers-blade)",
+      "metaTitle": "The Butcher's Blade - Plot, Cast & Synopsis | Movnix",
+      "openGraph": {
+        "og:title": "The Butcher's Blade - Official Movie Synopsis",
+        "og:description": "Framed for theft, constable Xue Buyi faces an impossible choice: fight for justice or uphold the law. Discover the thrill of The Butcher's Blade."
+      },
+      "twitterCard": {
+        "twitter:title": "The Butcher's Blade Movie | Movnix",
+        "twitter:description": "Constable Xue Buyi is framed for stealing thousands in relief funds. Will he uphold the law or break it to clear his name?"
+      },
+      "metaDescription": "Framed for theft, local constable Xue Buyi must choose between clearing his name and upholding the law in The Butcher's Blade. Read the full synopsis on Movnix."
+    },
+    "faq": [
+      {
+        "answer": "The film follows local constable Xue Buyi, who is framed for stealing thousands of dollars in disaster relief funds. To save himself, he must choose between working outside the law to clear his name or upholding the legal system he swore to protect.",
+        "question": "What is the main plot of The Butcher's Blade?"
+      },
+      {
+        "answer": "The dominant genre is historical action-drama with prominent elements of crime mystery and martial arts.",
+        "question": "What is the dominant genre of The Butcher's Blade?"
+      },
+      {
+        "answer": "No, The Butcher's Blade is a standalone film and not currently part of a cinematic franchise or series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, there are no mid-credit or post-credit scenes, so the story concludes fully when the main credits begin.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The central protagonist is Xue Buyi, an honest local constable who previously kept his distance from his corrupt peers until he was targeted and framed.",
+        "question": "Who is the main protagonist of the story?"
+      },
+      {
+        "answer": "Xue Buyi is caught between his loyalty to the oath of law enforcement and the realization that the system around him is too corrupt to grant him a fair trial, forcing him to decide if vigilante action is justified.",
+        "question": "What is the primary moral conflict faced by Xue Buyi?"
+      },
+      {
+        "answer": "No, the movie is a fictional story centered on themes of law, institutional corruption, and personal justice.",
+        "question": "Is The Butcher's Blade based on a true story?"
+      },
+      {
+        "answer": "The theft of thousands of dollars in relief funds serves as the central catalyst for the plot, creating both a public crisis and the crime used to frame Xue Buyi.",
+        "question": "What role do the relief funds play in the storyline?"
+      },
+      {
+        "answer": "Fans of period action thrillers, martial arts films, and suspenseful detective or framed-hero narratives will particularly enjoy this story.",
+        "question": "What type of audience would enjoy The Butcher's Blade?"
+      },
+      {
+        "answer": "Yes, alongside its action elements, the film features a strong mystery arc as Xue Buyi works to uncover who actually stole the relief money and orchestrated his setup.",
+        "question": "Is The Butcher's Blade suitable for viewers seeking a mystery narrative?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal horror elements; brief tense or dark thematic moments related to corruption and betrayal."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate strong language appropriate for a crime and law enforcement drama."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong action violence, including physical confrontations, weapon usage suggested by martial arts/constable themes, and violent tension."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Occasional background depiction or mention of alcohol use in tavern/historical settings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content or nudity depicted."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity involving corruption, moral dilemmas, betrayal, and a protagonist falsely accused."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 7,
+      "comedy": 0,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 8,
+      "romance": 0,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-07-27 23:49:58.902473",
+    "updated_at": "2026-07-27 23:49:58.902473"
+  }
 }
