@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 15.7357,
+    "popularity": 16.068,
     "voteAverage": 6.2,
     "voteCount": 8,
     "homepage": "https://mock-movie-website.com/movies/1421155",
@@ -797,5 +797,245 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1421155/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1421155,
+    "hash": "1198d12d679366141b65a12c0e4f3f3ea9dbdd26c096be70add696479ba9fc2e",
+    "summary_one_sentence": "A former martial arts athlete must battle a ruthless network of loan sharks to save her younger brother from dangerous online gambling debts that threaten their family's survival.",
+    "summary_short": "To protect her family's safety, a former martial arts athlete is forced back into action when her younger brother becomes trapped in severe online gambling debt. As she navigates a dangerous underworld controlled by ruthless loan sharks, she must rely on her combat skills and unyielding resolve to survive. Confronting escalate violence and deception at every turn, she faces an uphill battle to liberate her brother. Ultimately, she must risk everything to tear down the syndicate and secure their freedom.",
+    "summary_long": "Life takes a dark turn for a former martial arts athlete when she discovers her younger brother has fallen into a trap of crippling online gambling debt. The financial burden rapidly escalates as aggressive loan sharks begin making severe threats against her family's physical safety. Realizing that traditional avenues offer no protection, she is forced to step back into the world of fighting to resolve the crisis. She investigates the shadowy network financing the illegal gambling operation, tracing the line of power directly to a powerful criminal syndicate. Using her elite combat expertise, she systematically breaks through the organization's enforcers, sending ripples through the city's underbelly. However, the syndicate's reach is vast, leading to violent confrontations and personal betrayals that test her endurance. As the stakes grow increasingly lethal, she must plan a decisive strike against the syndicate's core leadership. Balancing raw athleticism with tactical survival, she fights through a gauntlet of opponents to rescue her brother once and for all. Her ultimate showdown tests not only her physical prowess, but the absolute limits of her familial loyalty.",
+    "synopsis": "When an addictive trap of online gambling entangles a young man in unpayable debt, his sister—a former martial arts athlete—is thrust into a high-stakes struggle for survival. Target to escalating threats and violence from a sinister network of loan sharks, she must draw upon her forgotten fighting skills to defend her home. As she dives deeper into the crime syndicate's territory to negotiate her brother's freedom, she uncovers a ruthless system designed to destroy desperate families. Forced to choose between submission and retaliation, she embarks on an intense, action-packed journey to dismantle the criminals threatening her family's safety.",
+    "keywords": [
+      "former athlete",
+      "martial arts",
+      "loan sharks",
+      "online gambling debt",
+      "sibling protection",
+      "family in danger",
+      "debt bondage",
+      "desperate rescue",
+      "heroic sister",
+      "underworld confrontation",
+      "crime thriller",
+      "high stakes action",
+      "dramatic conflict"
+    ],
+    "themes": [
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Sacrifice",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Justice",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Intense",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.65
+      }
+    ],
+    "story_structure": {
+      "climax": "She faces off against the syndicate's leadership in a high-stakes confrontation where her physical capabilities and family devotion are tested to their ultimate limits.",
+      "conflict": "Her younger brother falls deep into online gambling debt, drawing the ruthless attention of a aggressive loan shark syndicate that threatens their family's safety.",
+      "resolution": "The immediate threat to her family is dealt with, forcing the siblings to reckon with the consequences of the debt and forge a path toward healing their broken trust.",
+      "introduction": "A former martial arts athlete tries to build a quiet life after stepping away from competition, anchored by her strong sense of responsibility toward her family.",
+      "risingAction": "Forced back into using her combat skills, she navigates the criminal underworld to protect her brother while the loan sharks escalate their intimidation tactics and demands."
+    },
+    "characters": [
+      {
+        "name": "Former Martial Arts Athlete",
+        "role": "Hero",
+        "description": "The protagonist who uses her martial arts skills and determination to protect her family and confront the loan shark network."
+      },
+      {
+        "name": "Younger Brother",
+        "role": "Supporting Character",
+        "description": "The sibling whose online gambling addiction and heavy debt trigger the main conflict and endanger the family."
+      },
+      {
+        "name": "Head of the Loan Shark Network",
+        "role": "Villain",
+        "description": "The ruthless antagonist operating the illegal lending business that threatens the protagonist's family."
+      },
+      {
+        "name": "Family Matriarch",
+        "role": "Mentor",
+        "description": "A parental figure offering moral support, emotional guidance, and wisdom during the family crisis."
+      },
+      {
+        "name": "Loyal Companion / Comic Relief",
+        "role": "Comic Relief",
+        "description": "A trusted ally who provides humorous moments to relieve tension while aiding the protagonist."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Former Martial Arts Athlete (Sister)",
+        "target": "Younger Brother",
+        "description": "Siblings"
+      },
+      {
+        "source": "Former Martial Arts Athlete (Sister)",
+        "target": "Predatory Loan Sharks",
+        "description": "Enemies / Antagonists"
+      },
+      {
+        "source": "Younger Brother",
+        "target": "Predatory Loan Sharks",
+        "description": "Debtor / Extortion Target"
+      },
+      {
+        "source": "Former Martial Arts Athlete (Sister)",
+        "target": "Family",
+        "description": "Protector / Family"
+      },
+      {
+        "source": "Younger Brother",
+        "target": "Family",
+        "description": "Family"
+      }
+    ],
+    "seo": {
+      "slug": "ikatan-darah",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/ikatan-darah](https://movnix.com/movie/ikatan-darah)",
+        "name": "Ikatan Darah",
+        "@type": "Movie",
+        "genre": [
+          "Action",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "id",
+        "description": "A former martial arts athlete must face a network of loan sharks to save her younger brother, who is trapped in online gambling debt and risking their family’s safety."
+      },
+      "keywords": [
+        "Ikatan Darah",
+        "Ikatan Darah movie",
+        "Ikatan Darah synopsis",
+        "indonesian action movie",
+        "martial arts movie",
+        "loan sharks movie",
+        "online gambling debt film"
+      ],
+      "canonical": "[https://movnix.com/movie/ikatan-darah](https://movnix.com/movie/ikatan-darah)",
+      "metaTitle": "Ikatan Darah (2026) - Action Drama Movie Details & Synopsis",
+      "openGraph": {
+        "og:url": "[https://movnix.com/movie/ikatan-darah](https://movnix.com/movie/ikatan-darah)",
+        "og:type": "video.movie",
+        "og:title": "Ikatan Darah - Action & Drama Movie Synopsis",
+        "og:description": "When online gambling debt threatens her family, a former martial arts athlete takes on a dangerous loan shark network to protect her younger brother."
+      },
+      "twitterCard": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Ikatan Darah - Official Movie Overview",
+        "twitter:description": "A former martial artist risks everything to save her brother from ruthless loan sharks and online gambling debt in Ikatan Darah."
+      },
+      "metaDescription": "A former martial arts athlete fights a ruthless loan shark network to save her brother from online gambling debt in Ikatan Darah."
+    },
+    "faq": [
+      {
+        "answer": "Ikatan Darah is primarily an action-drama film centered on martial arts combat, crime syndicates, and deep family stakes.",
+        "question": "What is the dominant genre of Ikatan Darah?"
+      },
+      {
+        "answer": "The film follows a former martial arts athlete who is forced to step into the dangerous world of loan sharks to save her younger brother after he falls deep into online gambling debt.",
+        "question": "What is the main plot of Ikatan Darah?"
+      },
+      {
+        "answer": "No, Ikatan Darah is a standalone movie with an original storyline focused on martial arts action and familial conflict.",
+        "question": "Is Ikatan Darah part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credit scene. The story concludes definitively before the credits roll.",
+        "question": "Is there a post-credit scene in Ikatan Darah?"
+      },
+      {
+        "answer": "The central protagonist is a skilled former martial arts athlete who uses her combat abilities to protect her brother and family from dangerous extortionists.",
+        "question": "Who is the main protagonist of the movie?"
+      },
+      {
+        "answer": "The central conflict is triggered by the protagonist's younger brother accumulating dangerous levels of online gambling debt, drawing aggressive loan sharks to their family.",
+        "question": "What drives the conflict in the film?"
+      },
+      {
+        "answer": "The fight choreography heavily showcases intense hand-to-hand combat and traditional martial arts techniques tailored to high-stakes street combat.",
+        "question": "What martial arts style is featured in the movie?"
+      },
+      {
+        "answer": "Key themes include family loyalty, sacrifice, redemption, the destructive consequences of addiction, and fighting against corrupt criminal networks.",
+        "question": "What are the central themes of Ikatan Darah?"
+      },
+      {
+        "answer": "Due to explicit martial arts violence, threats from loan shark syndicates, and mature themes regarding online gambling, the movie is intended for mature audiences.",
+        "question": "Is Ikatan Darah suitable for all ages?"
+      },
+      {
+        "answer": "'Ikatan Darah' translates to 'Blood Bond' or 'Blood Ties,' highlighting the unconditional family bonds that motivate the protagonist to put her life on the line for her brother.",
+        "question": "Where does the title 'Ikatan Darah' originate and what does it mean?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 1,
+        "description": "Minimal to no horror elements, focusing instead on action and thriller dynamics."
+      },
+      "language": {
+        "score": 5,
+        "description": "Moderate potential for coarse language, harsh threats, and aggressive dialogue typical of criminal conflict."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High likelihood of physical violence, combat action, and physical threats involving martial arts and loan sharks."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Low direct substance abuse themes, though crime networks may imply secondary underworld activity."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content indicated in the narrative premis."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional tension surrounding family endangerment, severe financial debt, and high-stakes criminal threats."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 8,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 4,
+      "romance": 1,
+      "science": 0,
+      "suspense": 8,
+      "violence": 6
+    },
+    "created_at": "2026-09-01 23:09:00.777282",
+    "updated_at": "2026-09-01 23:09:00.777282"
+  }
 }
