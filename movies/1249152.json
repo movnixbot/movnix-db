@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.0147,
-    "voteAverage": 8.3,
-    "voteCount": 10,
+    "popularity": 3.8984,
+    "voteAverage": 8.318,
+    "voteCount": 11,
     "homepage": "https://mock-movie-website.com/movies/1249152",
     "posterPath": "/pWosA9XyBhHgxo5hm9x3aDVknwu.jpg",
     "backdropPath": "/sVTrej8EtW6TtSQPuvtZumikGYO.jpg",
@@ -219,8 +219,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.3,
-      "votesCount": 10
+      "ratingValue": 8.318,
+      "votesCount": 11
     },
     {
       "source": "crawled",
@@ -338,13 +338,31 @@
       "order": 11
     },
     {
-      "tmdbPersonId": 1991622,
-      "name": "Senad Halilbasic",
+      "tmdbPersonId": 1933044,
+      "name": "Conrado Molina",
       "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
+      "character": "Matthias",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 1235721,
+      "name": "Stephanie Heinrich",
+      "profilePath": "/eCMcPCOR6kdmGQkAoijexRpv6Zn.jpg",
+      "character": "Mutter",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 6444194,
+      "name": "Felix Draschl",
+      "profilePath": null,
+      "character": "Alex",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 1628010,
@@ -353,6 +371,15 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1991622,
+      "name": "Senad Halilbasic",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -386,6 +413,15 @@
       "tmdbPersonId": 4492688,
       "name": "David Stöllinger",
       "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1258914,
+      "name": "Gerrit Klein",
+      "profilePath": "/yRylnWZu2nxMPto8JV3hCpTzMJp.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
