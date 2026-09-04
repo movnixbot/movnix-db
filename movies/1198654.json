@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.4077,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 7.5545,
+    "voteAverage": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1198654",
     "posterPath": "/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
     "backdropPath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
@@ -35,28 +35,22 @@
   ],
   "companies": [
     {
-      "tmdbId": 2395,
-      "name": "HanWay Films",
-      "logoPath": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
-      "originCountry": "GB"
-    },
-    {
       "tmdbId": 57430,
       "name": "Pulse Films",
       "logoPath": "/a637H7tJRLC9fdECq3vulT7W4jC.png",
       "originCountry": "GB"
     },
     {
-      "tmdbId": 140157,
-      "name": "CCM",
-      "logoPath": null,
-      "originCountry": null
+      "tmdbId": 149332,
+      "name": "Vice Studios",
+      "logoPath": "/3pvLAa2Q3bWiRLPgBGokWSRSvWe.png",
+      "originCountry": "US"
     },
     {
-      "tmdbId": 60148,
-      "name": "Viewfinder Films",
+      "tmdbId": 309467,
+      "name": "Good Oranges Films",
       "logoPath": null,
-      "originCountry": null
+      "originCountry": "GB"
     }
   ],
   "keywords": [],
@@ -99,17 +93,17 @@
       "type": "poster"
     },
     {
-      "filePath": "/dnWovrXeCAAdfoMb8saVlCNShOu.jpg",
-      "width": 800,
-      "height": 1200,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/9hwBNpCArXXUuHNbZnVcYwgyMcM.jpg",
       "width": 1280,
       "height": 1926,
       "aspectRatio": 0.665,
+      "type": "poster"
+    },
+    {
+      "filePath": "/69IbDJQrb6WiVjIYEvMclAPInns.jpg",
+      "width": 1322,
+      "height": 1886,
+      "aspectRatio": 0.701,
       "type": "poster"
     },
     {
@@ -120,10 +114,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/69IbDJQrb6WiVjIYEvMclAPInns.jpg",
-      "width": 1322,
-      "height": 1886,
-      "aspectRatio": 0.701,
+      "filePath": "/dnWovrXeCAAdfoMb8saVlCNShOu.jpg",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -148,6 +142,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/d1RunUJ9qilRR13Td5hZL8rJ0Ae.jpg",
+      "width": 1051,
+      "height": 1496,
+      "aspectRatio": 0.703,
+      "type": "poster"
+    },
+    {
       "filePath": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
       "width": 3840,
       "height": 2160,
@@ -167,9 +168,21 @@
       "height": 816,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
     {
       "source": "rotten_tomatoes",
       "ratingValue": 83,
