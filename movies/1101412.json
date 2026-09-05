@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 71.6522,
-    "voteAverage": 6,
-    "voteCount": 7,
+    "popularity": 92.2172,
+    "voteAverage": 5.7,
+    "voteCount": 9,
     "homepage": "https://mock-movie-website.com/movies/1101412",
     "posterPath": "/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
-    "backdropPath": "/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "backdropPath": "/aBtS3yCWReAen3OefxBXedbArFI.jpg",
     "collectionId": 1102372,
     "certification": "PG-13"
   },
@@ -172,7 +172,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+      "filePath": "/aBtS3yCWReAen3OefxBXedbArFI.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -225,6 +225,20 @@
       "width": 1296,
       "height": 1920,
       "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yvbMvvuoOmvJwFDmWGyzoZnpzGF.jpg",
+      "width": 829,
+      "height": 1200,
+      "aspectRatio": 0.691,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qvAUlBtvqbujBYjAw1MMiN2boXP.jpg",
+      "width": 829,
+      "height": 1200,
+      "aspectRatio": 0.691,
       "type": "poster"
     },
     {
@@ -572,6 +586,13 @@
     },
     {
       "filePath": "/GEGSBqmWO22SbXjmQXZCFeztDR.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eEiuLqEEcIXQbU4zwK7jxvaUc10.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -1148,8 +1169,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 7
+      "ratingValue": 5.7,
+      "votesCount": 9
     },
     {
       "source": "crawled",
@@ -1294,12 +1315,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 56501,
-      "name": "Michael Spierig",
-      "profilePath": "/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg",
+      "tmdbPersonId": 232626,
+      "name": "Jonathan Frank",
+      "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -1312,18 +1333,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 90812,
-      "name": "Scott Mann",
-      "profilePath": "/8WygpUzfdfztZQqxGE5zn3rCedJ.jpg",
+      "tmdbPersonId": 56501,
+      "name": "Michael Spierig",
+      "profilePath": "/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
-      "tmdbPersonId": 232626,
-      "name": "Jonathan Frank",
-      "profilePath": null,
+      "tmdbPersonId": 90812,
+      "name": "Scott Mann",
+      "profilePath": "/8WygpUzfdfztZQqxGE5zn3rCedJ.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
@@ -1410,6 +1431,11 @@
       "iso_3166_1": "MX",
       "title": "Vertigo 2: Punto Muerto",
       "type": ""
+    },
+    {
+      "iso_3166_1": "CA",
+      "title": "Vertige 2: Point Mort",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -1429,7 +1455,7 @@
       "buy": [
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
