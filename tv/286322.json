@@ -8,9 +8,9 @@
     "firstAirDate": "2026-08-31",
     "lastAirDate": "2026-08-31",
     "status": "Returning Series",
-    "popularity": 5.8285,
-    "voteAverage": null,
-    "voteCount": null,
+    "popularity": 10.8032,
+    "voteAverage": 8,
+    "voteCount": 1,
     "type": "Scripted",
     "posterPath": "/hjjW2A8WXdui99sgICKI4JRCXsd.jpg",
     "backdropPath": "/9rWY63NTKYDipn019ESiUDkQiT5.jpg",
@@ -32,7 +32,7 @@
           "runtime": null,
           "season_number": 1,
           "show_id": 286322,
-          "still_path": null,
+          "still_path": "/6YSclAIpndHe9OnehPoTwwY461S.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -49,7 +49,7 @@
           "runtime": null,
           "season_number": 1,
           "show_id": 286322,
-          "still_path": null,
+          "still_path": "/68x21fxIOi8n9P9bJXYHcteJlbx.jpg",
           "vote_average": 0,
           "vote_count": 0,
           "crew": [],
@@ -289,7 +289,13 @@
       "type": "backdrop"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8,
+      "votesCount": 1
+    }
+  ],
   "credits": [
     {
       "tmdbPersonId": 2295882,
@@ -310,12 +316,102 @@
       "order": 1
     },
     {
+      "tmdbPersonId": 4657520,
+      "name": "Kong Lingmei",
+      "profilePath": "/7FggOMFa88H7q8ovnTj7iBn73cQ.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 2308356,
+      "name": "Bao Wenjing",
+      "profilePath": "/bReh8ArX3DOSSEoIVbUoGait2lL.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 3567884,
+      "name": "Yan Peilun",
+      "profilePath": "/djiIoMHzXKaSZ7wcAzcN50HJs8s.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 939118,
+      "name": "Yang Haoyu",
+      "profilePath": "/ckiQnxLBzpHEl1hDpkMQcwZEySN.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 4549667,
+      "name": "Yang Yuguang",
+      "profilePath": "/xr9z4McaA20ijyfivY3HGCHqxxl.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 3398668,
+      "name": "Li Ping",
+      "profilePath": "/8qg3cAPKf9RqK7gJIfCmT8RJdJn.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 3700555,
+      "name": "Lin Junyi",
+      "profilePath": "/vG7vOJmbaFB9McMxEjLIET1A1g5.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 4549678,
+      "name": "Tu Dou",
+      "profilePath": "/7Jjy59rTBrrTTsulGRAldIGarLY.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
       "tmdbPersonId": 118711,
       "name": "Xu Zheng",
       "profilePath": "/yclQtqxPnlp7H4seiKltNfJjlrc.jpg",
       "character": null,
       "job": "Executive Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1303558,
+      "name": "Bao Bei'er",
+      "profilePath": "/2wlt5nOKPT7W00NYioLCbjMzzUK.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1820955,
+      "name": "He Keke",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
