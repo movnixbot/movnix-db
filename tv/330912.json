@@ -1,29 +1,452 @@
 {
   "tvShow": {
     "tmdbId": 330912,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
+    "imdbId": "tt36586787",
+    "name": "The Varnell Hill Show",
+    "originalName": "The Varnell Hill Show",
+    "overview": "Follow Varnell Hill as he fights to stay relevant in a rapidly changing entertainment landscape. Between network executives eager to modernize the show, a chaotic writers' room, celebrity guests, family drama, and his own outsized ego, Varnell quickly discovers that keeping a television empire together may be harder than building one in the first place.",
+    "firstAirDate": "2026-09-01",
+    "lastAirDate": "2026-09-01",
+    "status": "Returning Series",
+    "popularity": 3.7689,
     "voteAverage": null,
     "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "type": "Scripted",
+    "posterPath": "/nZbQHs1WCf2H8NJ8hzR0n5LoeT6.jpg",
+    "backdropPath": "/tE5EU20M9fHufcLXw2I8lM1hTMu.jpg",
+    "certification": "12"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "6a73d5c1f4ffb088b7ac6a06",
+      "air_date": "2026-09-01",
+      "episodes": [
+        {
+          "air_date": "2026-09-01",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 7645587,
+          "name": "Episode 1",
+          "overview": "",
+          "production_code": "",
+          "runtime": 30,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-01",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 7645597,
+          "name": "Episode 2",
+          "overview": "",
+          "production_code": "",
+          "runtime": 31,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-08",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 7645599,
+          "name": "Episode 3",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-15",
+          "episode_number": 4,
+          "episode_type": "standard",
+          "id": 7645601,
+          "name": "Episode 4",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-22",
+          "episode_number": 5,
+          "episode_type": "standard",
+          "id": 7645604,
+          "name": "Episode 5",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-29",
+          "episode_number": 6,
+          "episode_type": "standard",
+          "id": 7645606,
+          "name": "Episode 6",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-10-06",
+          "episode_number": 7,
+          "episode_type": "standard",
+          "id": 7645611,
+          "name": "Episode 7",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-10-13",
+          "episode_number": 8,
+          "episode_type": "finale",
+          "id": 7645613,
+          "name": "Episode 8",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 1,
+          "show_id": 330912,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [],
+          "guest_stars": []
+        }
+      ],
+      "name": "Season 1",
+      "networks": [
+        {
+          "id": 4330,
+          "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+          "name": "Paramount+",
+          "origin_country": "US"
+        }
+      ],
+      "overview": "",
+      "id": 534809,
+      "poster_path": "/yWe7mRmH82koRayJb47z2Ur8brf.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 35,
+      "name": "Comedy"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 226607,
+      "name": "BET Studios",
+      "logoPath": "/j0Sp6bR2fDtrJGZ44WNyjClL8AB.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 108987,
+      "name": "Jesse Collins Entertainment",
+      "logoPath": "/pMHL0KoxJ0U1cQoB24D4FwQWq3C.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 73956,
+      "name": "Runteldat Entertainment",
+      "logoPath": null,
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 232055,
+      "name": "Harvest Studios",
+      "logoPath": null,
+      "originCountry": null
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "key": "FChcXRz9wEM",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/nZbQHs1WCf2H8NJ8hzR0n5LoeT6.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tE5EU20M9fHufcLXw2I8lM1hTMu.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/nZbQHs1WCf2H8NJ8hzR0n5LoeT6.jpg",
+      "width": 889,
+      "height": 1333,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/zMkOHKUy4Koc7AU2BSf19owUXKq.jpg",
+      "width": 1400,
+      "height": 2100,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/yWe7mRmH82koRayJb47z2Ur8brf.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tE5EU20M9fHufcLXw2I8lM1hTMu.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    }
+  ],
   "ratings": [],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 88059,
+      "name": "Tommy Davidson",
+      "profilePath": "/cCG74gtJ8yLwfhWGtmvITytPlQf.jpg",
+      "character": "Varnell Hill",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 80597,
+      "name": "Kym Whitley",
+      "profilePath": "/kWo5pJe9Ogi3YQAocVoDMP1Sndj.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 52116,
+      "name": "Wendy Raquel Robinson",
+      "profilePath": "/3yaBYcN0BtlX9rTaatBQJxXOVPx.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 2841565,
+      "name": "Nick Cafero",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1714696,
+      "name": "Emmanuel Hudson",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1214427,
+      "name": "Chris Williams",
+      "profilePath": "/opLLZdBb1Wk7HmWsxMIkfdiPO36.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 78029,
+      "name": "Martin Lawrence",
+      "profilePath": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 88059,
+      "name": "Tommy Davidson",
+      "profilePath": "/cCG74gtJ8yLwfhWGtmvITytPlQf.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2916064,
+      "name": "Jesse Collins",
+      "profilePath": "/m1O8EQ2SCEBpLVm7aONC1LpCXAG.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2332616,
+      "name": "Dionne Harmon",
+      "profilePath": "/3GWCBb9YfDSqBE2Kqk6jNLvetVz.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3587446,
+      "name": "Stacy Lyles",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2834004,
+      "name": "Rae Proctor",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1460574,
+      "name": "Robert Lawrence",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4263590,
+      "name": "Mark J. Greenberg",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2215133,
+      "name": "Andrew Horne",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1258586,
+      "name": "Bentley Kyle Evans",
+      "profilePath": "/pSWEnwDuQca7iQnNtBXZcDN9Dei.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [],
+  "externalIds": {
+    "imdbId": "tt36586787",
+    "wikidataId": null,
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [
+        {
+          "name": "Paramount Plus Premium",
+          "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+        },
+        {
+          "name": "Paramount Plus Essential",
+          "logo": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+        },
+        {
+          "name": "Paramount Plus Apple TV channel",
+          "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+        },
+        {
+          "name": "Paramount+ Amazon Channel",
+          "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+        },
+        {
+          "name": "Paramount+ Roku Premium Channel",
+          "logo": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+        }
+      ],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",

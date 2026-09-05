@@ -10,9 +10,9 @@
     "budget": "8500000",
     "revenue": "11031947",
     "status": "Released",
-    "popularity": 13.5676,
-    "voteAverage": 5.912,
-    "voteCount": 274,
+    "popularity": 11.922,
+    "voteAverage": 5.871,
+    "voteCount": 279,
     "homepage": "https://mock-movie-website.com/movies/1010755",
     "posterPath": "/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg",
     "backdropPath": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
@@ -203,9 +203,16 @@
       "type": "poster"
     },
     {
-      "filePath": "/wgIyKTgJDhXwUCjlTSgfnMk0feu.jpg",
-      "width": 1365,
-      "height": 2048,
+      "filePath": "/xiaw5mrS1QNVYedQ8sC7Gz0mB2q.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/uVOgK5Fam7ffqjmbl89pcY4Efpa.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -220,6 +227,13 @@
       "filePath": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wgIyKTgJDhXwUCjlTSgfnMk0feu.jpg",
+      "width": 1365,
+      "height": 2048,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -560,6 +574,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/7hvLDo9Xt4NtYixsTSA3UiNeehI.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/yVNQWm7a5KWiwT4faNR58f0JBwK.jpg",
       "width": 1920,
       "height": 1080,
@@ -747,13 +768,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/yDgv9WW1DersJu6xLZwlVu4DW02.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.912,
-      "votesCount": 274
+      "ratingValue": 5.871,
+      "votesCount": 279
     },
     {
       "source": "imdb",
@@ -865,7 +893,7 @@
     {
       "tmdbPersonId": 2997200,
       "name": "Hannah Galway",
-      "profilePath": "/t9Ry8fAGQ0kuKP927JaDzLMkPnJ.jpg",
+      "profilePath": "/5vEWCUQAs7KHfNcarcUN810jwdE.jpg",
       "character": "Claire",
       "job": "Actor",
       "department": "Acting",
@@ -1031,45 +1059,45 @@
       "flatrate": [
         {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
           "name": "Starz Amazon Channel",
-          "logo": "/esiLBRzDUwodjfN8gA4qj7l3ZF7.jpg"
+          "logo": "/adymMNlhhLlJl5xccRCrsh3OehD.png"
         },
         {
           "name": "Starz",
-          "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
+          "logo": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
         },
         {
           "name": "Starz Apple TV channel",
-          "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
+          "logo": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
         },
         {
           "name": "Starz Roku Premium Channel",
-          "logo": "/9laPF1MAiUxlqM8T98F3Gj0bhzd.jpg"
+          "logo": "/tKembbxL7cYdDvFK70xBecbN0G8.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
