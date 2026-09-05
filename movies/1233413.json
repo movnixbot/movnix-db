@@ -10,9 +10,9 @@
     "budget": "100000000",
     "revenue": "371368759",
     "status": "Released",
-    "popularity": 34.3004,
-    "voteAverage": 7.512,
-    "voteCount": 5112,
+    "popularity": 36.959,
+    "voteAverage": 7.5,
+    "voteCount": 5120,
     "homepage": "https://www.sinnersmovie.com",
     "posterPath": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
     "backdropPath": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -3269,24 +3269,10 @@
       "type": "poster"
     },
     {
-      "filePath": "/v0dxuZBdshpggl0GJrft7sC3JEQ.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/sxW2utfXJjokrJtwKnQKgWuRgVq.jpg",
       "width": 850,
       "height": 1215,
       "aspectRatio": 0.7,
-      "type": "poster"
-    },
-    {
-      "filePath": "/2v67l1RvBOGnnOC47EYVMdLtncu.jpg",
-      "width": 1330,
-      "height": 1995,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -3392,13 +3378,6 @@
       "width": 1503,
       "height": 2256,
       "aspectRatio": 0.666,
-      "type": "poster"
-    },
-    {
-      "filePath": "/aOBAhL4Zv4QoB9pq0gaOvfr60la.jpg",
-      "width": 1330,
-      "height": 1995,
-      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -3741,6 +3720,13 @@
       "filePath": "/qfz7nA9PsHq7JlmBWegNwgZWvgx.jpg",
       "width": 2880,
       "height": 1620,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/xc9jBPrfKbxVabNtUOnY5jz3Ov7.jpg",
+      "width": 1600,
+      "height": 900,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -4819,8 +4805,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.512,
-      "votesCount": 5112
+      "ratingValue": 7.5,
+      "votesCount": 5120
     },
     {
       "source": "imdb",
@@ -4979,6 +4965,15 @@
       "name": "Ryan Coogler",
       "profilePath": "/dux4DCDaL6c639DTXGiV7nm1wcN.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1056121,
+      "name": "Ryan Coogler",
+      "profilePath": "/dux4DCDaL6c639DTXGiV7nm1wcN.jpg",
+      "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
@@ -4988,8 +4983,8 @@
       "name": "Ryan Coogler",
       "profilePath": "/dux4DCDaL6c639DTXGiV7nm1wcN.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -5005,15 +5000,6 @@
       "tmdbPersonId": 1639084,
       "name": "Sev Ohanian",
       "profilePath": "/ziIu96t59hQRX26wdCB1b1Sdj5F.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1056121,
-      "name": "Ryan Coogler",
-      "profilePath": "/dux4DCDaL6c639DTXGiV7nm1wcN.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -5106,11 +5092,16 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max",
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+        }
+      ],
       "buy": [
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         }
       ]
     },
@@ -5118,37 +5109,37 @@
       "flatrate": [
         {
           "name": "HBO Max Amazon Channel",
-          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
         },
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         },
         {
           "name": "Howdy Amazon Channel",
-          "logo": "/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
+          "logo": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
