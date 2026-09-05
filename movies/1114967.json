@@ -10,9 +10,9 @@
     "budget": "30000000",
     "revenue": "26117423",
     "status": "Released",
-    "popularity": 9.8961,
-    "voteAverage": 6.827,
-    "voteCount": 780,
+    "popularity": 12.8149,
+    "voteAverage": 6.8,
+    "voteCount": 785,
     "homepage": "https://www.goodfortune.movie",
     "posterPath": "/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
     "backdropPath": "/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
@@ -526,13 +526,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/kxjl01f5hs5IOvwsED9xvVejJkP.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/r7vPVZkVJAKCu1gNr45pQBOSm4H.jpg",
       "width": 2000,
       "height": 3000,
@@ -709,6 +702,13 @@
     },
     {
       "filePath": "/t81g15ichwQmSJlEGCVyGKUGJhZ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/kxjl01f5hs5IOvwsED9xvVejJkP.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -1572,8 +1572,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.827,
-      "votesCount": 780
+      "ratingValue": 6.8,
+      "votesCount": 785
     },
     {
       "source": "imdb",
@@ -1728,30 +1728,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 60187,
-      "name": "Anthony Katagas",
-      "profilePath": "/ysT6DasjRp2na6VcW26c8ncRQ7n.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 86626,
       "name": "Aziz Ansari",
       "profilePath": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 86626,
-      "name": "Aziz Ansari",
-      "profilePath": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
       "order": null
     },
     {
@@ -1767,6 +1749,24 @@
       "tmdbPersonId": 1020767,
       "name": "Alan Yang",
       "profilePath": "/4Qd6rqSZTeWwqUB8KWWgWLl9cw4.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 86626,
+      "name": "Aziz Ansari",
+      "profilePath": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 60187,
+      "name": "Anthony Katagas",
+      "profilePath": "/ysT6DasjRp2na6VcW26c8ncRQ7n.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1819,11 +1819,16 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Amazon Prime Video",
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+        }
+      ],
       "buy": [
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         }
       ]
     },
@@ -1831,33 +1836,33 @@
       "flatrate": [
         {
           "name": "Amazon Prime Video",
-          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
         },
         {
           "name": "Amazon Prime Video with Ads",
-          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
