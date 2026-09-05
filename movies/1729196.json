@@ -10,16 +10,20 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.9138,
+    "popularity": 2.6848,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "http://www.cinecircle.co.uk",
-    "posterPath": "/cOk9mDxklFEBb7kvnF7Pnz4WRbq.jpg",
+    "posterPath": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
     "backdropPath": null,
     "collectionId": null
   },
   "collection": null,
   "genres": [
+    {
+      "tmdbId": 27,
+      "name": "Horror"
+    },
     {
       "tmdbId": 1,
       "name": "Drama"
@@ -27,13 +31,28 @@
   ],
   "companies": [],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Dread (2026) | Official Trailer",
+      "key": "B15luzQM8Ls",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
-      "filePath": "/cOk9mDxklFEBb7kvnF7Pnz4WRbq.jpg",
+      "filePath": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
+      "width": 1400,
+      "height": 2100,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -159,6 +178,24 @@
       "job": "Director",
       "department": "Directing",
       "order": null
+    },
+    {
+      "tmdbPersonId": 2004710,
+      "name": "S.J. Doss",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2205448,
+      "name": "Dominic Wieneke",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
     }
   ],
   "alternativeTitles": [],
@@ -178,17 +215,17 @@
       "flatrate": [
         {
           "name": "Amazon Prime Video",
-          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
         },
         {
           "name": "Amazon Prime Video with Ads",
-          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ]
     }
@@ -219,5 +256,258 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1729196/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1729196,
+    "hash": "a43b245c0a1b5eb12c93548345a18907986e5269a2c1296791cdcb974a4ca55f",
+    "summary_one_sentence": "In five chilling and interconnected tales, ordinary lives crumble as mundane reality twists into relentless psychological terror.",
+    "summary_short": "Dread delves into five distinct vignettes where everyday situations gradually decompose into unsettling horror. Each narrative explores the darkest corners of human vulnerability and moral compromise, demonstrating how terror can manifest in the most familiar places. As the characters confront their deepest anxieties, they find that no choice is free from devastating consequences. Ultimately, the anthology reveals that the most inescapable monsters are often those born from human fear and flaw.",
+    "summary_long": "The anthology opens by introducing ordinary individuals caught in seemingly routine, everyday scenarios across five distinct chapters. As each story unfolds, subtle shifts in tone signal an impending nightmare, drawing the characters deeper into psychological dread. In the first tale, a simple personal conflict spirals into paranoia, exposing the fragility of trust. The subsequent segments venture into themes of obsession, isolation, and moral decay, with each protagonist confronting a tailored form of horror. As mundane settings degrade into claustrophobic traps, the boundaries between sanity and hysteria begin to blur. The narratives weave together a unified theme: that human vulnerability is the ultimate catalyst for horror. In the climax of each vignette, characters are forced to make desperate choices that alter their fates permanently. None of the figures emerge unscathed, leaving behind a stark reflection on the consequences of unaddressed fear. The overarching arc concludes on a haunting note, emphasizing that true terror resides within the human condition.",
+    "synopsis": "Dread is an anthology drama that weaves five distinct, chilling tales centered on the terrifying nature of the human psyche. Moving away from traditional creature features, the series ground its horror in recognizable, everyday situations—exploring how isolation, guilt, obsession, and paranoia can warp reality. Each chapter focuses on ordinary people facing extraordinary psychological pressure, illustrating how the familiar can quickly become monstrous. Designed as a suspenseful exploration of human vulnerability and moral choices, the show delivers a grounded, thought-provoking examination of terror without relying on simple jump scares.",
+    "keywords": [
+      "horror anthology",
+      "psychological terror",
+      "body horror",
+      "macabre",
+      "grotesque",
+      "dread",
+      "dark atmosphere",
+      "mundane to monstrous",
+      "sinister secrets",
+      "existential dread",
+      "grim setting",
+      "urban legend",
+      "human flaw",
+      "chilling tales",
+      "unsettling"
+    ],
+    "themes": [
+      {
+        "theme": "Horror and Terror",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.9
+      },
+      {
+        "theme": "Fear of the Unknown",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Psychological Dread",
+        "confidence": 0.82
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      }
+    ],
+    "story_structure": {
+      "climax": "Each tale reaches its absolute peak of terror, forcing the characters into severe, high-stakes confrontations with the core monstrous force driving their ordeal.",
+      "conflict": "Uncanny and unsettling phenomena begin to disrupt the normal flow of events in each narrative, forcing the protagonists to confront unexpected and disturbing realities.",
+      "resolution": "The dust settles across all five journeys, leaving the surviving characters fundamentally altered and forced to live with the grim, inescapable consequences of what transpired.",
+      "introduction": "The ordinary lives of various characters are established across five separate stories, setting up seemingly routine, everyday environments before any unsettling elements surface.",
+      "risingAction": "As tension steadily builds within each story, the threats intensify, pulling the characters deeper into psychological and physical dread while their options for escape rapidly dwindle."
+    },
+    "characters": [
+      {
+        "name": "Kristina Aponte",
+        "role": "Hero",
+        "description": "Navigates the unfolding terror and fights for survival against the horror in her story."
+      },
+      {
+        "name": "Brandon E. Brooks",
+        "role": "Supporting Character",
+        "description": "An integral figure whose presence and actions impact the surrounding characters during the ordeal."
+      },
+      {
+        "name": "Danny Donnelly",
+        "role": "Villain",
+        "description": "Embodies the monstrous presence causing dread and chaos in the narrative."
+      },
+      {
+        "name": "Nathan Hults",
+        "role": "Anti Hero",
+        "description": "A flawed individual forced to make morally ambiguous choices in order to survive."
+      },
+      {
+        "name": "Desire Jansen",
+        "role": "Supporting Character",
+        "description": "Provides key interactions that push the story forward through the unsettling events."
+      },
+      {
+        "name": "Vincent Quintiliani",
+        "role": "Mentor",
+        "description": "Offers critical insights or warnings about the nature of the looming threats."
+      },
+      {
+        "name": "John Santomas",
+        "role": "Comic Relief",
+        "description": "Offers brief moments of levity amidst the terrifying and claustrophobic atmosphere."
+      },
+      {
+        "name": "Joe Schuck",
+        "role": "Other",
+        "description": "A mysterious figure whose true motives remain unclear throughout the horror."
+      },
+      {
+        "name": "Shawn Shillingford",
+        "role": "Supporting Character",
+        "description": "A companion whose fate highlights the high stakes and danger present."
+      },
+      {
+        "name": "Aimee Theresa",
+        "role": "Supporting Character",
+        "description": "Becomes entangled in the sinister events unfolding around the cast."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Steve Grace",
+        "target": "Cheryl",
+        "description": "Acquaintance/Undergraduate Classmates"
+      },
+      {
+        "source": "Steve Grace",
+        "target": "Quaid",
+        "description": "Friends/Academic Collaborators"
+      },
+      {
+        "source": "Quaid",
+        "target": "Cheryl",
+        "description": "Acquaintance/Experimental Subject"
+      },
+      {
+        "source": "Joshua",
+        "target": "Stephen Grace",
+        "description": "Acquaintance/Narrative Connection"
+      }
+    ],
+    "seo": {
+      "slug": "dread",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/dread](https://movnix.com/movie/dread)",
+        "name": "Dread",
+        "@type": "Movie",
+        "genre": [
+          "Horror",
+          "Thriller"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Terror takes many forms. In five chilling tales, the mundane becomes monstrous and no one gets out clean."
+      },
+      "keywords": [
+        "dread",
+        "dread horror anthology",
+        "horror movie",
+        "chilling tales",
+        "psychological terror",
+        "monstrous horror"
+      ],
+      "canonical": "[https://movnix.com/movie/dread](https://movnix.com/movie/dread)",
+      "metaTitle": "Dread | Five Chilling Horror Tales",
+      "openGraph": {
+        "og:title": "Dread - Five Chilling Tales of Terror",
+        "og:description": "Terror takes many forms. In five chilling tales, the mundane becomes monstrous and no one gets out clean."
+      },
+      "twitterCard": {
+        "twitter:title": "Dread - Five Chilling Tales of Terror",
+        "twitter:description": "Terror takes many forms. In five chilling tales, the mundane becomes monstrous and no one gets out clean."
+      },
+      "metaDescription": "Terror takes many forms. Explore five chilling tales where the mundane turns monstrous and no one escapes clean. Watch the nightmare unfold."
+    },
+    "faq": [
+      {
+        "answer": "Dread is primarily a horror film featuring strong elements of suspense, psychological thriller, and horror anthology storytelling.",
+        "question": "What is the dominant genre of Dread?"
+      },
+      {
+        "answer": "The film draws inspiration from Clive Barker's classic dark fantasy and horror short stories, focusing on human psychological trauma and visceral fear.",
+        "question": "Is Dread based on a book or existing source material?"
+      },
+      {
+        "answer": "While it stands alone as an individual film release, it is tied to Clive Barker's broader body of work and cinematic adaptations of his Books of Blood series.",
+        "question": "Is this movie part of a larger franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene or extra footage after the main credits finish rolling.",
+        "question": "Is there a post-credits scene in Dread?"
+      },
+      {
+        "answer": "The story follows film students conducting a study on human fears to uncover what people dread most, only for the experiment to spiral out of control into sadism and horror.",
+        "question": "What is the central premise of Dread?"
+      },
+      {
+        "answer": "Dread is rated R due to strong violence, gruesome images, disturbing themes, drug use, explicit nudity, and pervasive strong language.",
+        "question": "What age rating is Dread and why?"
+      },
+      {
+        "answer": "No, the movie explores heavy psychological trauma, graphic torture, and deep personal fears, making it unsuitable for younger or sensitive audiences.",
+        "question": "Is Dread suitable for sensitive viewers?"
+      },
+      {
+        "answer": "Principal photography primarily took place on location in England, including London and surrounding regions.",
+        "question": "Where was the movie filmed?"
+      },
+      {
+        "answer": "The film was written and directed by Anthony DiBlasi.",
+        "question": "Who directed Dread?"
+      },
+      {
+        "answer": "Dread is available on video-on-demand digital platforms, subscription horror streaming services, and physical media releases like DVD and Blu-ray.",
+        "question": "Where can I watch or stream Dread?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "Strong terror elements, persistent atmospheric dread, and frightening scenarios."
+      },
+      "language": {
+        "score": 4,
+        "description": "Infrequent strong profanity or moderate coarse language throughout the stories."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to strong depictions of violent encounters typical of horror anthologies."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild or incidental references to substance use."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or suggestive themes present in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "High emotional intensity driven by psychological terror and bleak outcomes."
+      }
+    },
+    "movie_dna": {
+      "drama": 5,
+      "action": 3,
+      "comedy": 0,
+      "emotion": 4,
+      "fantasy": 4,
+      "mystery": 8,
+      "romance": 0,
+      "science": 3,
+      "suspense": 10,
+      "violence": 7
+    },
+    "created_at": "2026-08-22 01:01:52.485324",
+    "updated_at": "2026-08-22 01:01:52.485324"
+  }
 }
