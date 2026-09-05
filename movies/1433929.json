@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.5813,
-    "voteAverage": 6.2,
-    "voteCount": 10,
+    "popularity": 4.558,
+    "voteAverage": 6.1,
+    "voteCount": 23,
     "homepage": "https://mock-movie-website.com/movies/1433929",
     "posterPath": "/kyqgCGP7GkAeBD5wTErqoABzY1u.jpg",
     "backdropPath": "/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
@@ -75,14 +75,14 @@
       "type": "poster"
     },
     {
-      "filePath": "/6Pd6uqZUqRwxNY5K57J47fEmTDj.jpg",
+      "filePath": "/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
     {
-      "filePath": "/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
+      "filePath": "/xPaoGDyb7C30rBVDqLidUNl8Ef1.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -93,6 +93,13 @@
       "width": 1358,
       "height": 2038,
       "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6Pd6uqZUqRwxNY5K57J47fEmTDj.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
       "type": "poster"
     },
     {
@@ -145,6 +152,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/7rJ6Cgc7d1EL63opIlDRhbaUdsr.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/gtls3FXnHVo08RZXPFx58OGBAcP.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
       "width": 1920,
       "height": 1080,
@@ -190,8 +211,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.2,
-      "votesCount": 10
+      "ratingValue": 6.1,
+      "votesCount": 23
     },
     {
       "source": "crawled",
@@ -293,7 +314,7 @@
     {
       "tmdbPersonId": 1596069,
       "name": "Laurence Oltuski",
-      "profilePath": "/yx3oXAihWVKa2muB5HmuK7QSFmP.jpg",
+      "profilePath": null,
       "character": "Marie-Andrée",
       "job": "Actor",
       "department": "Acting",
@@ -329,7 +350,7 @@
     {
       "tmdbPersonId": 5396333,
       "name": "Beidja Yahiaoui",
-      "profilePath": null,
+      "profilePath": "/vxXP5OlhfMm0eDjTpRPkjRMuSQA.jpg",
       "character": "Samia",
       "job": "Actor",
       "department": "Acting",
@@ -408,7 +429,18 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "The Night Bus",
+      "type": "movie"
+    },
+    {
+      "iso_3166_1": "MX",
+      "title": "N121: Ultima parada",
+      "type": "pelicula"
+    }
+  ],
   "externalIds": {
     "imdbId": "tt35890599",
     "wikidataId": null,
