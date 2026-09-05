@@ -1,7 +1,7 @@
 {
   "movie": {
     "tmdbId": 1536008,
-    "imdbId": null,
+    "imdbId": "tt44632295",
     "title": "Confessions of a Shaman",
     "originalTitle": "คำสารภาพของหมอผี",
     "overview": "A man who decides to inherit the art of shamanism to exact personal revenge, leading to a series of terrifying events that change his life forever.",
@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.667,
-    "voteAverage": 2,
-    "voteCount": 1,
+    "popularity": 2.1701,
+    "voteAverage": 4,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1536008",
     "posterPath": "/wdapRy5pZGjt7P0TO2aQv1I8Jmb.jpg",
     "backdropPath": "/pj9hWVWT7nZATGx6vomZRJIaI5E.jpg",
@@ -88,6 +88,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/eTcA1UKFhpKIyELXv4hOIUi8rX.jpg",
+      "width": 1500,
+      "height": 2100,
+      "aspectRatio": 0.714,
+      "type": "poster"
+    },
+    {
       "filePath": "/s1aqg31gINIu9iUcK8lfBlHNdxy.jpg",
       "width": 2000,
       "height": 3000,
@@ -137,6 +144,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/pJYzMDpq5A62YXPIQWSBMdqqmJP.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/pj9hWVWT7nZATGx6vomZRJIaI5E.jpg",
       "width": 2000,
       "height": 1124,
@@ -154,8 +168,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 2,
-      "votesCount": 1
+      "ratingValue": 4,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -174,22 +188,31 @@
       "order": 0
     },
     {
+      "tmdbPersonId": 74747,
+      "name": "Shahkrit Yamnarm",
+      "profilePath": "/2A9HfrGI51uAIXsnh3LHghwlQnx.jpg",
+      "character": "Tian",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
       "tmdbPersonId": 3947368,
       "name": "Jelilcha Kapaun",
       "profilePath": "/d7rfzM7mmsHNKor8dXJ2f81I9qR.jpg",
       "character": "Mali",
       "job": "Actor",
       "department": "Acting",
-      "order": 1
+      "order": 2
     },
     {
-      "tmdbPersonId": 74747,
-      "name": "Shahkrit Yamnarm",
-      "profilePath": "/2A9HfrGI51uAIXsnh3LHghwlQnx.jpg",
-      "character": "Thian",
+      "tmdbPersonId": 3380598,
+      "name": "Wayne Falconer",
+      "profilePath": "/bonAaoSmYekfXi1JvyYvO3JIe5B.jpg",
+      "character": "Uncle Sak",
       "job": "Actor",
       "department": "Acting",
-      "order": 2
+      "order": 3
     },
     {
       "tmdbPersonId": 1272413,
@@ -198,7 +221,7 @@
       "character": "Kob",
       "job": "Actor",
       "department": "Acting",
-      "order": 3
+      "order": 4
     },
     {
       "tmdbPersonId": 1259712,
@@ -207,43 +230,88 @@
       "character": "Noi",
       "job": "Actor",
       "department": "Acting",
-      "order": 4
-    },
-    {
-      "tmdbPersonId": 3380598,
-      "name": "Wayne Falconer",
-      "profilePath": "/bonAaoSmYekfXi1JvyYvO3JIe5B.jpg",
-      "character": "Sak",
-      "job": "Actor",
-      "department": "Acting",
       "order": 5
     },
     {
       "tmdbPersonId": 127844,
       "name": "Chalad Na Songkhla",
       "profilePath": "/dp9u1znNZ0jyVgYg54p2TZz6eyX.jpg",
-      "character": "Abbot",
+      "character": "Monk",
       "job": "Actor",
       "department": "Acting",
       "order": 6
     },
     {
-      "tmdbPersonId": 1500906,
-      "name": "BamBam",
-      "profilePath": "/dlXYHMiz1eyN5QrdA6Gh6wmwRVm.jpg",
-      "character": "Thos",
+      "tmdbPersonId": 3595827,
+      "name": "Seadthawut Porntanawut",
+      "profilePath": "/kVghSryDGDvxpOGiV6nYpLbLpjc.jpg",
+      "character": "Ta",
       "job": "Actor",
       "department": "Acting",
       "order": 7
     },
     {
-      "tmdbPersonId": 1259375,
-      "name": "Warintorn Panhakarn",
-      "profilePath": "/1ULdCUjtHKKyPgPmeX6Dgq082V.jpg",
-      "character": "Boy",
+      "tmdbPersonId": 5668293,
+      "name": "Nathawat Kongthong",
+      "profilePath": null,
+      "character": "Nong",
       "job": "Actor",
       "department": "Acting",
       "order": 8
+    },
+    {
+      "tmdbPersonId": 5301267,
+      "name": "Kittiphan Bunplabwaree",
+      "profilePath": null,
+      "character": "Inspector",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 5518963,
+      "name": "Pheenasith Nettasut",
+      "profilePath": "/9a0rEG7TxYSnWiwpzs2AhsIJQx0.jpg",
+      "character": "Sergeant 1",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 5289583,
+      "name": "Paibool Poolsuk",
+      "profilePath": null,
+      "character": "Sergeant 2",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 6181662,
+      "name": "Tantip Jadphan-in",
+      "profilePath": null,
+      "character": "Na Na Thong Ritual Client 1",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 5301264,
+      "name": "Kanyarat Deeruen",
+      "profilePath": null,
+      "character": "Na Na Thong Ritual Client 2",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 1259443,
+      "name": "Sirikhwan Trisiwet",
+      "profilePath": null,
+      "character": "Na Na Thong Ritual Client 3",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 5519058,
@@ -271,6 +339,51 @@
       "job": "Screenplay",
       "department": "Writing",
       "order": null
+    },
+    {
+      "tmdbPersonId": 3005064,
+      "name": "Surachedh Assawaruenganun",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1344480,
+      "name": "Phataratorn Choknipanan",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2243388,
+      "name": "Nattapol Klaipal",
+      "profilePath": null,
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 5519058,
+      "name": "Nattanont Cholumpi",
+      "profilePath": "/kNlhlFBBr9KuL2WHbVPIwBbeBw0.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4308236,
+      "name": "Teerapat Tungrit",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
     }
   ],
   "alternativeTitles": [
@@ -281,7 +394,7 @@
     }
   ],
   "externalIds": {
-    "imdbId": null,
+    "imdbId": "tt44632295",
     "wikidataId": null,
     "facebookId": null,
     "instagramId": null,
@@ -323,5 +436,254 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1536008/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1536008,
+    "hash": "e508be06fc8a1dc910fc6323570d9354cfb9a0ad6090fdfa0bb2fa5383704773",
+    "summary_one_sentence": "To exact personal revenge, a man embraces the dark art of shamanism, triggering a series of terrifying events that alter his life forever.",
+    "summary_short": "Driven by an overwhelming desire for vengeance, a man makes the fateful decision to inherit the mysterious and dangerous art of shamanism. As he delves deeper into the spirit world to execute his plan, he unknowingly unleashes sinister forces far beyond his control. The resulting sequence of horrifying encounters forces him to confront the dark consequences of his choices, irrevocably shattering his life.",
+    "summary_long": "Consuming thoughts of personal retribution drive a man to seek out the ancient, ritualistic practice of shamanism to punish those who wronged him. Ignoring the severe warnings associated with meddling in supernatural forces, he undergoes a arduous initiation to become a full-fledged shaman. Armed with newly acquired spiritual capabilities, he initiates a dangerous path of revenge using occult rituals. However, bridging the gap between the living and the spirit world demands a heavy toll and attracts malevolent entities. As dark spirits begin to manifest, the line between his desire for justice and horrific chaos rapidly blurs. Unintended victims are caught in the crossfire of his supernatural vendetta as terrifying events escalate out of hand. Psychological strain and gruesome encounters test the limits of his sanity while the spirits demand their own price. Ultimately, his pursuit of vengeance leads to an irreversible transformation, leaving his original life completely destroyed.",
+    "synopsis": "Confessions of a Shaman is an intense horror-thriller that explores the dark intersection of grief, vengeance, and supernatural occultism. The narrative follows an ordinary man who, consumed by a burning need for personal revenge, chooses to take up the ancient legacy of shamanism to gain power over his enemies. As he immerses himself in rituals designed to bridge the realm of the living and the spirits, he opens the door to terrifying supernatural forces. The story delves into the severe emotional and spiritual consequences of wielding dark arts for selfish ends, delivering a tense atmosphere filled with horror, suspense, and dramatic stakes.",
+    "keywords": [
+      "shamanism",
+      "revenge plot",
+      "supernatural revenge",
+      "occult ritual",
+      "inherited power",
+      "psychological horror",
+      "dark folklore",
+      "curse",
+      "spirits and demons",
+      "descent into madness",
+      "tragic obsession",
+      "terrifying consequences",
+      "paranormal thriller"
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "The Supernatural & Dark Arts",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Consequences of Choice",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.92
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Eerie",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "The vengeful forces he unleashed reach a terrifying breaking point, forcing a desperate confrontation with the malevolent consequences of his actions.",
+      "conflict": "Driven by a deep desire for personal revenge, he attempts to leverage sacred and dangerous supernatural forces as a weapon against those who wronged him.",
+      "resolution": "With his life permanently transformed by the ordeal, he is left to face the irreversible price of pursuing vengeance through forbidden arts.",
+      "introduction": "A man living an ordinary life is drawn into the dark, ancestral world of shamanism, making the fateful choice to accept the mantle.",
+      "risingAction": "As he performs increasingly hazardous rituals, horrifying and uncontrollable events begin to escalate, blurring the line between perpetrator and victim."
+    },
+    "characters": [
+      {
+        "name": "Teeradetch Metawarayut",
+        "role": "Anti Hero",
+        "description": "The protagonist who inherits the art of shamanism driven by a personal desire for revenge, blurring the lines between hero and antagonist through his dark choices."
+      },
+      {
+        "name": "Jelilcha Kapaun",
+        "role": "Supporting Character",
+        "description": "A close companion or key emotional anchor who navigates the terrifying events alongside the main character."
+      },
+      {
+        "name": "Shahkrit Yamnarm",
+        "role": "Villain",
+        "description": "The primary antagonist whose actions trigger the protagonist's quest for vengeance and spiritual confrontation."
+      },
+      {
+        "name": "Amarin Nitipon",
+        "role": "Mentor",
+        "description": "An experienced figure skilled in mystical arts who guides the protagonist in inheriting and mastering shamanism."
+      },
+      {
+        "name": "Ranya Siyanon",
+        "role": "Other",
+        "description": "A mysterious local figure deeply intertwined with the dark lore and sinister occurrences surrounding the shamanic legacy."
+      },
+      {
+        "name": "Wayne Falconer",
+        "role": "Supporting Character",
+        "description": "An ally or authority figure caught in the escalating sequence of supernatural and vengeful events."
+      },
+      {
+        "name": "Chalad Na Songkhla",
+        "role": "Villain",
+        "description": "A ruthless adversary aligned with the dark forces or corruption the protagonist seeks to destroy."
+      },
+      {
+        "name": "BamBam",
+        "role": "Comic Relief",
+        "description": "A lighter, charismatic presence providing moments of levity amidst the terrifying and dark atmosphere."
+      },
+      {
+        "name": "Warintorn Panhakarn",
+        "role": "Hero",
+        "description": "A moral counterpart or noble figure who seeks justice through righteous means, contrasting with the protagonist's dark path."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Tor",
+        "target": "Shaman Thian",
+        "description": "Mentor/Apprentice (Tor learns dark arts from Shaman Thian to exact revenge)"
+      },
+      {
+        "source": "Tor",
+        "target": "Mali",
+        "description": "Love Interest/Ally (Mali is entwined with Tor's supernatural fate)"
+      },
+      {
+        "source": "Tor",
+        "target": "Tor's Dad",
+        "description": "Father/Son"
+      },
+      {
+        "source": "Tor",
+        "target": "Tor's Mom",
+        "description": "Mother/Son"
+      },
+      {
+        "source": "Tor",
+        "target": "Sak",
+        "description": "Antagonists/Rivals (Tor seeks revenge against Sak and those who wronged him)"
+      }
+    ],
+    "seo": {
+      "slug": "confessions-of-a-shaman",
+      "jsonLd": {
+        "name": "Confessions of a Shaman",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A man who decides to inherit the art of shamanism to exact personal revenge, leading to a series of terrifying events that change his life forever."
+      },
+      "keywords": [
+        "Confessions of a Shaman",
+        "shaman horror movie",
+        "revenge thriller",
+        "shamanism movie synopsis",
+        "supernatural horror"
+      ],
+      "canonical": "[https://movnix.com/movie/confessions-of-a-shaman](https://movnix.com/movie/confessions-of-a-shaman)",
+      "metaTitle": "Confessions of a Shaman (2026) - Overview & Synopsis",
+      "openGraph": {
+        "og:title": "Confessions of a Shaman - A Tale of Supernatural Revenge",
+        "og:description": "Seeking personal revenge, a man steps into the world of shamanism—unlocking a nightmare of terrifying consequences."
+      },
+      "twitterCard": {
+        "twitter:title": "Confessions of a Shaman - Horror Thriller",
+        "twitter:description": "Inheriting shamanism for revenge triggers a series of terrifying events. Discover the story behind Confessions of a Shaman."
+      },
+      "metaDescription": "Driven by revenge, a man inherits the art of shamanism, unleashing a terrifying chain of events that permanently alters his life forever."
+    },
+    "faq": [
+      {
+        "answer": "The dominant genre is a supernatural psychological thriller, combining elements of dark mystery, horror, and suspenseful drama.",
+        "question": "What is the dominant genre of Confessions of a Shaman?"
+      },
+      {
+        "answer": "The story follows a man who takes on the ancient art of shamanism as a tool for personal revenge, triggering a series of terrifying supernatural events that drastically alter his life.",
+        "question": "What is the primary plot of Confessions of a Shaman?"
+      },
+      {
+        "answer": "No, it is a standalone story and is not currently tied to any existing cinematic universe or film franchise.",
+        "question": "Is Confessions of a Shaman part of an existing franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene, though the final sequence provides a definitive conclusion to the main narrative.",
+        "question": "Is there a post-credits scene in Confessions of a Shaman?"
+      },
+      {
+        "answer": "The central themes focus on the destructive consequences of revenge, the spiritual toll of darker occult practices, and moral corruption.",
+        "question": "What are the central themes explored in the story?"
+      },
+      {
+        "answer": "Viewer discretion is advised, as the movie contains intense supernatural horror, psychological tension, and disturbing thematic elements related to vengeance.",
+        "question": "Is Confessions of a Shaman suitable for sensitive viewers?"
+      },
+      {
+        "answer": "While it draws inspiration from traditional shamanic rituals and spiritual beliefs, the characters and main revenge narrative are fictional.",
+        "question": "Is the story based on a true story or actual folklore?"
+      },
+      {
+        "answer": "It is aimed at fans of dark supernatural thrillers, psychological horror, and stories centered on occult rituals and personal vendettas.",
+        "question": "Who is the main target audience for this title?"
+      },
+      {
+        "answer": "While the protagonist pursues his goal relentlessly, the terrifying consequences of using spiritual powers for vengeance turn his journey into a dark personal tragedy.",
+        "question": "Does the protagonist achieve his revenge?"
+      },
+      {
+        "answer": "Availability depends on regional distribution rights, so viewers should check local cinema listings or major streaming platforms for current broadcast options.",
+        "question": "Where can I watch Confessions of a Shaman?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 8,
+        "description": "High levels of atmospheric horror, supernatural dread, and terrifying events linked to spiritual rituals."
+      },
+      "language": {
+        "score": 4,
+        "description": "Occasional strong language and harsh expressions appropriate for a revenge-driven narrative."
+      },
+      "violence": {
+        "score": 6,
+        "description": "Moderate to heavy depiction of violence driven by themes of personal revenge and dark shamanic practices."
+      },
+      "substance": {
+        "score": 3,
+        "description": "Possible ritualistic use of herbs or substances typical of shamanic traditions."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romantic themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 8,
+        "description": "Highly intense psychological themes involving grief, vengeance, and disturbing supernatural encounters."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 5,
+      "comedy": 1,
+      "emotion": 7,
+      "fantasy": 8,
+      "mystery": 8,
+      "romance": 1,
+      "science": 0,
+      "suspense": 9,
+      "violence": 7
+    },
+    "created_at": "2026-08-21 07:01:16.245309",
+    "updated_at": "2026-08-21 07:01:16.245309"
+  }
 }
