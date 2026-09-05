@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.8058,
+    "popularity": 1.6353,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1635423",
@@ -437,5 +437,224 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1635423/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1635423,
+    "hash": "166a1f11fbb8f22eaa5940c7ccae9b6ec4f8e87c69743ff845d609883aef3ed4",
+    "summary_one_sentence": "An aging war veteran and his tech-savvy Gen Z grandson embark on a heart-warming comedic road trip across Vietnam to reconnect with old comrades, bridging a profound generational divide through shared history and local spiritual traditions.",
+    "summary_short": "War veteran Mr. Thoi feels increasingly disconnected from the modern world until he convinces his grandson, Tri Binh, to accompany him on a cross-country journey to track down his surviving wartime brothers. Tri Binh, initially reluctant and glued to his smartphone, gradually learns to appreciate his grandfather's colorful past and the deep emotional scars he carries. Along the way, their humorous misadventures showcase the rich tapestry of Vietnamese family life, ancestor reverence, and cultural heritage. Ultimately, the trek transforms their relationship, allowing both generations to find common ground and mutual respect.",
+    "summary_long": "Mr. Thoi is a proud yet lonely military veteran living in contemporary Vietnam, struggling to communicate with a younger generation that seems indifferent to his wartime memories. Hoping to honor a past promise and pay respects to fallen comrades, he sets out on a journey across the country, enlisting the aid of his Gen Z grandson, Tri Binh. Tri Binh views the assignment as an unwanted chore, far removed from his digital lifestyle, but agrees to serve as driver and navigator. As the duo travels from bustling urban centers to remote rural villages, they encounter a series of comedic misunderstandings, quirky local personalities, and unexpected detours. Through every stop, traditional spiritual practices and ancestor worship intersect with modern technology, forcing the pair to navigate their cultural differences together. Mr. Thoi begins to understand the unique pressures faced by today's youth, while Tri Binh is deeply moved by the heroic sacrifices and unyielding loyalty of his grandfather's generation. Each reunion with an old comrade unlocks emotional stories of survival, bringing healing to long-held grief. By the time their trip reaches its conclusion, the intergenerational friction has dissolved into profound love, proving that heritage and modern life can harmoniously coexist.",
+    "synopsis": "Zero Meets Hero is an uplifting comedic drama that explores the vibrant intersection of traditional Vietnamese culture and contemporary youth lifestyle. The narrative centers on Mr. Thoi, an elderly war veteran determined to track down his former brothers-in-arms, and his grandson Tri Binh, a typical Gen Z youth initially resistant to his grandfather's traditional ways. As the two travel together, the story weaves a rich narrative around family bonds, national history, and spiritual beliefs, presenting a warm and humorous look at how different generations can learn from one another.",
+    "keywords": [
+      "intergenerational relationship",
+      "war veteran",
+      "Gen Z",
+      "road trip",
+      "reunion",
+      "Vietnamese spiritual beliefs",
+      "reconnecting with comrades",
+      "vietnam setting",
+      "cultural folklore",
+      "grandfather and grandson",
+      "comedy-drama",
+      "family reconciliation",
+      "remembrance",
+      "ancestor worship"
+    ],
+    "themes": [
+      {
+        "theme": "Generational Bonds",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Vietnamese Spiritual Beliefs",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Comradeship",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The journey reaches a critical emotional turning point where past wartime memories and present family truths collide, forcing both grandfather and grandson to fully confront what they mean to one another.",
+      "conflict": "The duo faces the challenge of bridging their deep generational divide as they embark on a road trip across Vietnam to locate and reunite with Mr. Thoi's long-lost wartime comrades.",
+      "resolution": "Having found peace with the past and newfound respect for each other, Mr. Thoi and Tri Binh return home with an unbroken generational bond and shared understanding.",
+      "introduction": "War veteran Mr. Thoi lives a quiet life until his Gen Z grandson, Tri Binh, enters his orbit, setting up a dynamic contrast between traditional Vietnamese values and modern youth culture.",
+      "risingAction": "As they travel together, comedic mishaps, cultural miscommunications, and encounters with local spiritual beliefs test their patience while bringing them closer to their destination and each other."
+    },
+    "characters": [
+      {
+        "name": "Mr. Thoi",
+        "role": "Mentor",
+        "description": "A war veteran whose past experiences, spiritual beliefs, and journey to find old comrades guide the narrative and bridge the generational gap with his grandson."
+      },
+      {
+        "name": "Tri Binh",
+        "role": "Hero",
+        "description": "Mr. Thoi's Gen Z grandson who embarks on the road trip alongside his grandfather, driving the central journey of personal growth and intergenerational bonding."
+      },
+      {
+        "name": "Comedic Companions & Comrades",
+        "role": "Comic Relief",
+        "description": "Characters encountered along the journey who bring humor, lightheartedness, and eccentric energy to the road trip dynamic."
+      },
+      {
+        "name": "Supporting Comrades & Relatives",
+        "role": "Supporting Character",
+        "description": "Friends, family members, and old war veterans who enrich the world, provide background context, and reinforce the themes of heritage and family."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mr. Thoi",
+        "target": "Tri Binh",
+        "description": "Grandfather/Grandson"
+      },
+      {
+        "source": "Tri Binh",
+        "target": "Mr. Thoi",
+        "description": "Grandson/Grandfather"
+      },
+      {
+        "source": "Mr. Thoi",
+        "target": "War Comrades",
+        "description": "Old Comrades/Brothers-in-Arms"
+      }
+    ],
+    "seo": {
+      "slug": "zero-meets-hero",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/zero-meets-hero](https://movnix.com/movie/zero-meets-hero)",
+        "name": "Zero Meets Hero",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Drama"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "vi",
+        "description": "War veteran Mr Thoi and his Gen Z grandson Tri Binh embark on a comedic journey to reunite with old war comrades, weaving together Vietnamese spiritual beliefs and generational bonds."
+      },
+      "keywords": [
+        "Zero Meets Hero",
+        "Vietnamese movie",
+        "comedy drama film",
+        "Mr Thoi",
+        "Tri Binh",
+        "Vietnamese cinema",
+        "generational comedy"
+      ],
+      "canonical": "[https://movnix.com/movie/zero-meets-hero](https://movnix.com/movie/zero-meets-hero)",
+      "metaTitle": "Zero Meets Hero | Vietnamese Comedy Drama Film",
+      "openGraph": {
+        "og:title": "Zero Meets Hero - A Generational Vietnamese Comedy",
+        "og:description": "Join war veteran Mr Thoi and his Gen Z grandson Tri Binh on a hilarious and heartwarming journey to reunite with old war comrades."
+      },
+      "twitterCard": {
+        "twitter:title": "Zero Meets Hero - Official Movie Details",
+        "twitter:description": "A war veteran and his Gen Z grandson embark on a comedic journey across Vietnam to reunite with old comrades."
+      },
+      "metaDescription": "War veteran Mr Thoi and his Gen Z grandson Tri Binh embark on a comedic journey to reunite with old comrades, bridging generations and Vietnamese tradition."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Mr Thoi, a war veteran, and his Gen Z grandson, Tri Binh, as they embark on a comedic cross-country journey to reunite with Mr Thoi's old war comrades, exploring generational differences and Vietnamese spiritual beliefs along the way.",
+        "question": "What is the plot of Zero Meets Hero?"
+      },
+      {
+        "answer": "The dominant genres are comedy and drama, blending road-trip humor and multi-generational family dynamics with elements of Vietnamese cultural and spiritual traditions.",
+        "question": "What is the dominant genre of Zero Meets Hero?"
+      },
+      {
+        "answer": "No, Zero Meets Hero is a standalone original film and is not part of an existing franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or a sequel?"
+      },
+      {
+        "answer": "Most comedy-drama road films of this style include short comedic outtakes or mid-credit scenes showing extra moments from the trip, though there is no major cinematic setup after the main credits roll.",
+        "question": "Is there a post-credit scene?"
+      },
+      {
+        "answer": "The main characters are Mr Thoi, an elderly war veteran with traditional values, and Tri Binh, his tech-savvy Gen Z grandson who accompanies him on his journey.",
+        "question": "Who are the main characters in the movie?"
+      },
+      {
+        "answer": "The movie highlights Vietnamese spiritual beliefs, ancestral reverence, respect for veterans, and the bridging of the generational divide between older generations and Gen Z.",
+        "question": "What cultural themes does the film explore?"
+      },
+      {
+        "answer": "Yes, the film is designed as a heart-warming family comedy-drama suitable for viewers of most ages, focusing on family reconciliation, humor, and mutual respect.",
+        "question": "Is Zero Meets Hero suitable for family viewing?"
+      },
+      {
+        "answer": "The film takes place across various scenic regions of Vietnam as the main characters travel to locate and reconnect with old war comrades.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Viewers can expect a lighthearted, witty, and heartwarming tone that balances comedic clash-of-generations scenarios with touching, emotional moments.",
+        "question": "What tone can viewers expect from the movie?"
+      },
+      {
+        "answer": "The title humorously contrasts Tri Binh, an everyday young man who feels unaccomplished ('Zero'), with his grandfather Mr Thoi, a decorated former soldier ('Hero'), emphasizing how both learn to see the heroism and value in each other.",
+        "question": "Why is the film titled Zero Meets Hero?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild spiritual elements and traditional ghost/folkloric beliefs presented primarily in a lighthearted or comedic tone."
+      },
+      "language": {
+        "score": 3,
+        "description": "Occasional mild profanity or modern slang typical of generational banter."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal violence; potential minor comedic action or brief historical war references without explicit graphic depiction."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Mild depictions of social drinking or smoking among older veterans."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content present."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional weight touching on war memories, aging, loss, and family reconciliation."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 3,
+      "comedy": 8,
+      "emotion": 8,
+      "fantasy": 4,
+      "mystery": 2,
+      "romance": 1,
+      "science": 0,
+      "suspense": 3,
+      "violence": 2
+    },
+    "created_at": "2026-08-30 19:06:23.573335",
+    "updated_at": "2026-08-30 19:06:23.573335"
+  }
 }
