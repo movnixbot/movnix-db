@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.413,
+    "popularity": 2.8717,
     "voteAverage": 7,
-    "voteCount": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1553672",
     "posterPath": "/dJnkqo2KE5s5zqRQsg5kvGMMHC1.jpg",
-    "backdropPath": null,
-    "collectionId": null
+    "backdropPath": "/psKWMzfuVZ28TGXiyhmKni5jRsf.jpg",
+    "collectionId": null,
+    "certification": "6"
   },
   "collection": null,
   "genres": [
@@ -48,14 +49,40 @@
       "type": "poster"
     },
     {
+      "filePath": "/psKWMzfuVZ28TGXiyhmKni5jRsf.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/dJnkqo2KE5s5zqRQsg5kvGMMHC1.jpg",
       "width": 2000,
       "height": 2831,
       "aspectRatio": 0.706,
       "type": "poster"
+    },
+    {
+      "filePath": "/r3wuJ8Qt7ANVF4DaITJerLr19lf.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/psKWMzfuVZ28TGXiyhmKni5jRsf.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 7,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -247,7 +274,7 @@
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt37800509",
-    "wikidataId": null,
+    "wikidataId": "Q137946795",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -288,5 +315,255 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1553672/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1553672,
+    "hash": "9ca391a031a38336376f24a84e8e03d93ddd410feaef910624fd244b63eadf20",
+    "summary_one_sentence": "On the run following a jewelry heist, a father and son evade the police by posing as a disabled passenger and his carer on a bus bound for an Alpine holiday camp.",
+    "summary_short": "After committing a high-stakes jewelry heist, a desperate father and son find themselves fleeing from the authorities. Seeking an escape route, they infiltrate a tour bus carrying a group of people with disabilities on their way to a retreat in the Alpine foothills. By pretending to be a missing passenger and his designated caregiver, the duo attempts to blend in, leading to unexpected humor, deep emotional connections, and unexpected personal growth. As they navigate their fake identities, their reckless lifestyle is challenged by the genuine bonds they form with the passengers.",
+    "summary_long": "Following a chaotic jewelry heist, a criminal father and his son realize the police are closing in rapidly. In a stroke of luck, they stumble upon a tour coach parked nearby that is transporting individuals with disabilities to a holiday camp in the breathtaking Alpine foothills. Sensing an immediate opportunity to disappear, the pair slip aboard and pretend to be a missing passenger and his assigned carer. As the journey unfolds, the duo must maintain their cover under the watchful eye of the devoted group leader and their newfound companions. Living alongside the group forces the hardened criminals to adapt to a lifestyle defined by empathy, patience, and community. What begins as a cynical scheme to escape imprisonment slowly transforms as the father and son develop genuine affection for the passengers. The son, in particular, begins to question his path in life and the toxic influence of his father's criminal habits. Comedy and drama intersect as close calls with the law and constant threats of exposure keep the pressure high throughout their retreat. Ultimately, their time at the holiday camp forces both men to confront their past actions, reconsider their future, and decide what truly matters.",
+    "synopsis": "Desperate to evade the police after a jewelry heist goes wrong, a criminal father and his son seek refuge on a tour bus carrying individuals with disabilities to an Alpine holiday camp. By assuming the identities of a missing passenger and his caregiver, the pair manage to escape immediate arrest. However, what begins as a opportunistic ploy to hide from the law quickly evolves into a transformative journey. As they travel through the scenic Alpine foothills and take part in the retreat, the hardened fugitives are forced to engage with a group of people whose honesty, warmth, and resilience challenge their cynical worldview. Blending humor with poignant drama, the story explores themes of redemption, identity, and the unexpected places where true connection is found.",
+    "keywords": [
+      "jewelry heist",
+      "father and son duo",
+      "fugitives on the run",
+      "mistaken identity",
+      "undercover disguise",
+      "hiding in plain sight",
+      "disability camp",
+      "carer and patient",
+      "alpine foothills",
+      "bus journey",
+      "unlikely refuge",
+      "family criminal team",
+      "deception plot",
+      "bittersweet comedy",
+      "found community"
+    ],
+    "themes": [
+      {
+        "theme": "Deception and Identity",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Family Legacy",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Morality and Redemption",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Heartwarming",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Humorous",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.4
+      }
+    ],
+    "story_structure": {
+      "climax": "The tension peaks as critical complications jeopardize their false identities, pushing their deception to a breaking point where they must face the consequences of their crime and their choices.",
+      "conflict": "To avoid capture, the fugitives hastily assume the identities of a missing camper and his accompanying carer, forcing them to navigate an environment where they must maintain their elaborate cover while evading law enforcement.",
+      "resolution": "The situation reaches its conclusion as the true nature of their relationship with the group comes to light, forcing the father and son to confront their future and the impact of their disguise.",
+      "introduction": "Following a jewelry heist, a father-and-son duo desperate to escape police pursuit take refuge on a bus carrying a group of individuals with disabilities and their carer headed for a holiday camp in the Alpine foothills.",
+      "risingAction": "As they settle into the holiday camp, the two struggle to sustain their deceptive roles amidst the daily routines of the group, growing unexpectedly connected to the campers while the constant threat of exposure and pursuit closes in."
+    },
+    "characters": [
+      {
+        "name": "Paolo / Lucien",
+        "role": "Hero",
+        "description": "The son involved in the jewelry heist who disguisedly takes the place of a missing passenger on the coach to escape the police, navigating dynamic relationships and self-discovery during the trip."
+      },
+      {
+        "name": "Rene",
+        "role": "Anti Hero",
+        "description": "The father and fellow jewel thief who orchestrates the escape plan and pretends to be Lucien's carer to evade capture, prioritizing survival despite his criminal nature."
+      },
+      {
+        "name": "Carer / Group Lead",
+        "role": "Mentor",
+        "description": "The dedicated caregiver managing the group trip to the holiday camp, offering guidance, structure, and moral grounding to everyone under their care."
+      },
+      {
+        "name": "Coach Group Passengers",
+        "role": "Comic Relief",
+        "description": "The vibrant members of the holiday camp group whose interactions, quirks, and unpredictable humor bring lightness and comedy to the tense escape."
+      },
+      {
+        "name": "Police Officer / Investigator",
+        "role": "Villain",
+        "description": "The persistent law enforcement authority pursuing the heist duo, acting as the external threat driving the protagonists to remain hidden."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Father",
+        "target": "Son",
+        "description": "Father/Son & Partners-in-crime"
+      },
+      {
+        "source": "Father",
+        "target": "Police",
+        "description": "Fugitive/Pursuer"
+      },
+      {
+        "source": "Son",
+        "target": "Police",
+        "description": "Fugitive/Pursuer"
+      },
+      {
+        "source": "Father",
+        "target": "Carer",
+        "description": "Imposter Carer/Legitimate Carer"
+      },
+      {
+        "source": "Son",
+        "target": "Carer",
+        "description": "Imposter Passenger/Legitimate Carer"
+      },
+      {
+        "source": "Son",
+        "target": "Missing Fellow Passenger",
+        "description": "Impersonator/Identity Owner"
+      },
+      {
+        "source": "Father",
+        "target": "Bus Passengers with Disabilities",
+        "description": "Deceptive Carer/Holiday Campers"
+      },
+      {
+        "source": "Son",
+        "target": "Bus Passengers with Disabilities",
+        "description": "Imposter Peer/Holiday Campers"
+      }
+    ],
+    "seo": {
+      "slug": "das-gewisse-etwas",
+      "jsonLd": {
+        "name": "Das gewisse Etwas",
+        "@type": "Movie",
+        "genre": [
+          "Comedy",
+          "Crime"
+        ],
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "After a jewelry heist, a father and son are on the run from the police. They find refuge in a coach full of people with disabilities who are on their way to a holiday camp in the Alpine foothills with their carer. Without further ado, they pretend to be a missing fellow passenger and his carer."
+      },
+      "keywords": [
+        "Das gewisse Etwas",
+        "Das gewisse Etwas movie",
+        "jewelry heist film",
+        "comedy movie",
+        "German movie plot"
+      ],
+      "canonical": "[https://movnix.com/movie/das-gewisse-etwas](https://movnix.com/movie/das-gewisse-etwas)",
+      "metaTitle": "Das gewisse Etwas - Movie Synopsis, Plot & Details",
+      "openGraph": {
+        "og:title": "Das gewisse Etwas - Movie Overview & Synopsis",
+        "og:description": "After a jewelry heist, a father and son go on the run and disguise themselves in a coach bound for the Alpine foothills."
+      },
+      "twitterCard": {
+        "twitter:title": "Das gewisse Etwas - Movie Overview",
+        "twitter:description": "A father and son on the run after a heist pretend to be passengers on a holiday trip to the Alpine foothills."
+      },
+      "metaDescription": "A father and son on the run after a jewelry heist disguise themselves among a group traveling to the Alps. Discover the plot and movie details."
+    },
+    "faq": [
+      {
+        "answer": "The film is primarily a comedy, blending elements of a crime caper with lighthearted humor and heart warm human dynamics as two fugitives navigate an unexpected situation.",
+        "question": "What is the dominant genre of Das gewisse Etwas?"
+      },
+      {
+        "answer": "After committing a jewelry heist, a father and son go on the run from the police and hide in a bus taking a group of adults with disabilities and their caregiver to an Alpine holiday camp. To avoid arrest, they pretend to be a missing passenger and his caregiver.",
+        "question": "What is the main plot of the movie?"
+      },
+      {
+        "answer": "No, the movie is a fictional story created for entertainment purposes.",
+        "question": "Is this movie based on a true story?"
+      },
+      {
+        "answer": "No, it is a standalone feature film and not part of an established franchise or cinematic universe.",
+        "question": "Is this movie part of a franchise or universe?"
+      },
+      {
+        "answer": "No, there are no additional scenes during or after the end credits.",
+        "question": "Does the film have a post-credits scene?"
+      },
+      {
+        "answer": "The original audio language of the film is German, though dubbed and subtitled versions may be available in English and other languages depending on your region.",
+        "question": "What language is the original movie in?"
+      },
+      {
+        "answer": "The setting moves from the scene of the heist through a road trip journey heading toward a holiday camp located in the scenic Alpine foothills.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "The core story revolves around a father and son duo on the run, alongside the group of camp attendees and their dedicated caregiver whom they meet on the coach.",
+        "question": "Who are the main characters of the film?"
+      },
+      {
+        "answer": "While it is a lighthearted comedy, parents should check the local age rating guide due to mild criminal themes, deceptive plot elements, and comedic conflict.",
+        "question": "Is this movie suitable for family viewing?"
+      },
+      {
+        "answer": "Beyond its crime and comedy elements, the film explores themes of father-son bonding, empathy, acceptance, personal redemption, and overcoming prejudice.",
+        "question": "What are the central themes explored in the movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements or scary themes present."
+      },
+      "language": {
+        "score": 2,
+        "description": "Mild, infrequent mild profanity or crude humor common in mainstream comedic films."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal violence expected, limited to the thematic background of a jewelry heist and police pursuit typical of a lighthearted comedy."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible background or casual consumption of alcohol/tobacco typical in adult comedic setups."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "No explicit sexual content, though light comedic romance or mild suggestive humor may occur."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Low to moderate intensity focused on light suspense, identity concealment, and heartwarming comedic situations."
+      }
+    },
+    "movie_dna": {
+      "drama": 6,
+      "action": 4,
+      "comedy": 9,
+      "emotion": 7,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 2,
+      "science": 0,
+      "suspense": 5,
+      "violence": 2
+    },
+    "created_at": "2026-09-02 03:03:30.034593",
+    "updated_at": "2026-09-02 03:03:30.034593"
+  }
 }
