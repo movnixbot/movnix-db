@@ -4,19 +4,20 @@
     "imdbId": "tt17052310",
     "title": "Tomorrow, You Pretty Ghost",
     "originalTitle": "Tomorrow, You Pretty Ghost",
-    "overview": "A horror story about keeping in touch with your high school friends.",
+    "overview": "Two high school theater kids, prone to playing elaborate tricks on their pals, pull off one last prank before graduation with grim consequences.",
     "releaseDate": "2026-08-25",
-    "runtime": 110,
+    "runtime": 115,
     "budget": "20000",
     "revenue": null,
     "status": "Released",
-    "popularity": 4.9055,
+    "popularity": 2.3619,
     "voteAverage": 4,
     "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1259256",
     "posterPath": "/uUA4SxBxwtO86CyC4Zqm8OSZXWa.jpg",
     "backdropPath": "/oEpVtMhUnXXnVI4g8mHLVHvzFZp.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "NR"
   },
   "collection": null,
   "genres": [
@@ -39,7 +40,15 @@
   ],
   "companies": [],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "key": "HHGM9FyJbGU",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
       "filePath": "/uUA4SxBxwtO86CyC4Zqm8OSZXWa.jpg",
@@ -71,6 +80,13 @@
     },
     {
       "filePath": "/8KKNNxOknqLwnORO5th5RJ1OvA.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/6InUsOaWTTf1OhX0cma5bH9Qx70.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
@@ -313,7 +329,7 @@
       "buy": [
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
@@ -344,5 +360,248 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1259256/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1259256,
+    "hash": "3c36e32c2c4dd68b0c00c4e4d6fc3c897fa85c018f71c58a5d63b60c0b8315b7",
+    "summary_one_sentence": "A group of high school friends finds their attempt to stay in touch turning into a chilling nightmare in this blend of dark comedy, drama, and horror.",
+    "summary_short": "In *Tomorrow, You Pretty Ghost*, maintaining high school friendships proves far more terrifying than simply growing apart. As time moves on, a tightly knit circle of former classmates attempts to preserve their bond despite changing lives and unspoken resentments. However, their routine catch-ups take a dark turn as past trauma and ghostly encounters begin to haunt their gatherings. The line between nostalgic connection and sinister obsession blurs in this unsettling blend of comedy, drama, and horror.",
+    "summary_long": "Years after graduation, a group of high school friends vows to keep their close connection alive through regular reunions and digital check-ins. What starts as a comforting tradition gradually becomes strained as adult responsibilities, shifting priorities, and unresolved conflicts emerge. Tension escalates when strange, unnatural occurrences begin to follow their group interactions, suggesting that something unnatural is clinging to their shared past. As subtle eerie phenomena escalate into terrifying hauntings, the group is forced to confront deep-seated secrets they thought were buried long ago. Bitter rivalries and old grudges surface alongside supernatural threats, testing whether their bond is built on genuine love or toxic codependency. One by one, the friends realize that their relentless hold on youth and each other has summoned a sinister presence that refuses to let them move on. Balancing dark humor with genuine emotional weight, the story highlights the horror of emotional stagnation. Ultimately, the survivors must decide whether to break the supernatural curse by letting go of their past or remain bound forever to a terrifying ghost of their youth.",
+    "synopsis": "A dark, atmospheric horror-drama infused with comedic moments, *Tomorrow, You Pretty Ghost* examines the emotional and supernatural terrifying consequences of refusing to let go of high school relationships. The narrative follows an old group of friends whose commitment to staying in touch spirals into eerie, unexplainable events. As subtle horrors infiltrate their everyday lives, the film delivers a spoiler-free exploration of nostalgia, toxic bonds, and the frightening realities of growing up.",
+    "keywords": [
+      "high school friends",
+      "long-distance friendship",
+      "supernatural haunts",
+      "ghostly encounter",
+      "reunion",
+      "nostalgia",
+      "dark comedy",
+      "horrific comedy",
+      "coming-of-age aftermath",
+      "spectral caller",
+      "unsettling mystery",
+      "psychological horror",
+      "social horror",
+      "paranormal communication"
+    ],
+    "themes": [
+      {
+        "theme": "Nostalgia and Aging",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Friendship and Distance",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Mortality and Ghosts of the Past",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Survival",
+        "confidence": 0.78
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Horror",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.75
+      },
+      {
+        "mood": "Dark",
+        "confidence": 0.7
+      }
+    ],
+    "story_structure": {
+      "climax": "The escalating horror reaches a critical breaking point when the friends are forced to directly face the terrifying entity or secret that has infested their connections.",
+      "conflict": "Strange, unsettling occurrences begin to surface during their communications, revealing that keeping in touch carries an uncanny threat that crosses the boundary between nostalgia and terror.",
+      "resolution": "The aftermath of the encounter unfolds, settling the immediate threat while leaving a lingering reflection on trauma, memory, and the painful permanence of old ties.",
+      "introduction": "The narrative introduces the central protagonist attempting to maintain long-standing bonds with a circle of high school friends as adult life and distance naturally begin to pull them apart.",
+      "risingAction": "As the friends exchange messages and attempt to reconnect, sinister phenomena escalate, forcing them to question the true nature of their shared past and the strange presence now haunting their group."
+    },
+    "characters": [
+      {
+        "name": "Abigail Sims",
+        "role": "Hero",
+        "description": "The central protagonist striving to maintain high school friendships while navigating the emerging psychological and supernatural horrors."
+      },
+      {
+        "name": "Everardo Barriga",
+        "role": "Villain",
+        "description": "The primary antagonist driving the story's supernatural threat and orchestrating the rift between the former friends."
+      },
+      {
+        "name": "David Brown",
+        "role": "Mentor",
+        "description": "The grounded friend who offers crucial advice, historical context, and guidance to help the protagonist understand the ghost."
+      },
+      {
+        "name": "Isabella Gerasole",
+        "role": "Supporting Character",
+        "description": "A dependable high school friend who helps unravel the mystery and supports the protagonist during perilous situations."
+      },
+      {
+        "name": "Cricket Arrison",
+        "role": "Comic Relief",
+        "description": "The eccentric friend who eases high-tension moments with sharp humor and lighthearted commentary."
+      },
+      {
+        "name": "Alyssa Blair",
+        "role": "Supporting Character",
+        "description": "A skeptical member of the friend group whose doubts slow down the group's response to the paranormal threat."
+      },
+      {
+        "name": "Jessy Morner-Ritt",
+        "role": "Anti Hero",
+        "description": "A complex former friend driven by self-interest and past grudges, acting with ambiguous motives that complicate the group's survival."
+      },
+      {
+        "name": "Luke Taylor",
+        "role": "Supporting Character",
+        "description": "A loyal companion who stands by the main cast during escalating horror events."
+      },
+      {
+        "name": "Austin Nasso",
+        "role": "Supporting Character",
+        "description": "An anxious member of the group whose presence highlights the emotional toll of keeping in touch."
+      },
+      {
+        "name": "Grant Crater",
+        "role": "Other",
+        "description": "A peripheral high school acquaintance whose past actions unwittingly trigger the central conflict."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "High School Friends",
+        "target": "Supernatural Entity",
+        "description": "Haunted By / Targets"
+      },
+      {
+        "source": "Reunited Group",
+        "target": "Shared Past",
+        "description": "Bound By / Reckoning With"
+      }
+    ],
+    "seo": {
+      "slug": "tomorrow-you-pretty-ghost",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/tomorrow-you-pretty-ghost](https://movnix.com/movie/tomorrow-you-pretty-ghost)",
+        "name": "Tomorrow, You Pretty Ghost",
+        "@type": "Movie",
+        "genre": "Horror",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A horror story about keeping in touch with your high school friends."
+      },
+      "keywords": [
+        "Tomorrow You Pretty Ghost",
+        "Tomorrow You Pretty Ghost movie",
+        "horror movie",
+        "high school friends horror",
+        "supernatural horror",
+        "psychological horror"
+      ],
+      "canonical": "[https://movnix.com/movie/tomorrow-you-pretty-ghost](https://movnix.com/movie/tomorrow-you-pretty-ghost)",
+      "metaTitle": "Tomorrow, You Pretty Ghost (2026) - Horror Story Details & Overview",
+      "openGraph": {
+        "og:title": "Tomorrow, You Pretty Ghost - A High School Reunion Horror Story",
+        "og:description": "Staying in touch with old friends turns into a living nightmare. Read more about Tomorrow, You Pretty Ghost on Movnix."
+      },
+      "twitterCard": {
+        "twitter:title": "Tomorrow, You Pretty Ghost - Horror Story Overview",
+        "twitter:description": "A chilling horror film about keeping in touch with high school friends. Details and overview on Movnix."
+      },
+      "metaDescription": "Discover Tomorrow, You Pretty Ghost, a haunting horror film exploring the chilling reality of trying to keep in touch with old high school friends."
+    },
+    "faq": [
+      {
+        "answer": "'Tomorrow, You Pretty Ghost' is primarily a horror comedy with elements of drama, blending spooky ghost story themes with dark humor about high school friendships.",
+        "question": "What is the dominant genre of 'Tomorrow, You Pretty Ghost'?"
+      },
+      {
+        "answer": "No, 'Tomorrow, You Pretty Ghost' is a standalone film and is not part of any existing franchise or cinematic universe.",
+        "question": "Is this movie part of an existing franchise or cinematic universe?"
+      },
+      {
+        "answer": "No, there is no post-credits or mid-credits scene in the film, so you do not need to wait until the very end of the credits for extra footage.",
+        "question": "Is there a post-credits scene in 'Tomorrow, You Pretty Ghost'?"
+      },
+      {
+        "answer": "The film follows high school theater kids who pull off one final elaborate prank before graduation, leading to grim consequences that haunt their friend group as they try to keep in touch.",
+        "question": "What is the basic plot of 'Tomorrow, You Pretty Ghost'?"
+      },
+      {
+        "answer": "The movie was written and directed by filmmaker duo Alex Morand and Rocky Pajarito.",
+        "question": "Who directed 'Tomorrow, You Pretty Ghost'?"
+      },
+      {
+        "answer": "No, it features horror elements, dark themes, and adult dialogue, making it better suited for older teenagers and adult audiences.",
+        "question": "Is 'Tomorrow, You Pretty Ghost' suitable for children or young viewers?"
+      },
+      {
+        "answer": "No, the movie is an original story created specifically for the screen.",
+        "question": "Is 'Tomorrow, You Pretty Ghost' based on a book or a true story?"
+      },
+      {
+        "answer": "The film is available on major digital and Video On Demand (VOD) platforms, including Amazon Prime Video, Apple TV, Google Play, and VOD services.",
+        "question": "Where can I watch 'Tomorrow, You Pretty Ghost'?"
+      },
+      {
+        "answer": "Beyond the scares and comedy, the movie explores themes of guilt, nostalgia, ironic detachment, and the difficulty of maintaining high school relationships as people grow apart.",
+        "question": "What core themes does the film explore alongside its horror story?"
+      },
+      {
+        "answer": "The ensemble cast includes Abigail Sims, Everardo Barriga, David Brown, Cricket Arrison, and Robert Schultz, among others.",
+        "question": "Who stars in 'Tomorrow, You Pretty Ghost'?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate horror elements centered around ghost themes, lingering grief, and haunting supernatural encounters."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate profanity typical of adolescent or young adult conversations."
+      },
+      "violence": {
+        "score": 2,
+        "description": "Minimal violence expected based on premise, though supernatural themes may contain mild physical conflict."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Possible minor depictions of casual alcohol or tobacco use in social gatherings."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No explicit sexual content indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity focused on nostalgia, dread, loss of connection, and mortality."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 3,
+      "comedy": 2,
+      "emotion": 8,
+      "fantasy": 6,
+      "mystery": 8,
+      "romance": 1,
+      "science": 1,
+      "suspense": 9,
+      "violence": 5
+    },
+    "created_at": "2026-08-31 05:01:33.921753",
+    "updated_at": "2026-08-31 05:01:33.921753"
+  }
 }
