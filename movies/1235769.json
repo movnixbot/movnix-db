@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 4.1788,
-    "voteAverage": 8,
-    "voteCount": 1,
+    "popularity": 3.6646,
+    "voteAverage": 9,
+    "voteCount": 2,
     "homepage": "https://www.lotteent.com/147",
     "posterPath": "/ikGwpqBx1Q9wdz9yEtBQTuYSxBE.jpg",
     "backdropPath": "/A58FVNOQ9qXxt0vdKGQ9kCo17El.jpg",
@@ -147,8 +147,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8,
-      "votesCount": 1
+      "ratingValue": 9,
+      "votesCount": 2
     },
     {
       "source": "crawled",
@@ -168,7 +168,7 @@
     },
     {
       "tmdbPersonId": 126881,
-      "name": "Gong Hyo-jin",
+      "name": "Kong Hyo-jin",
       "profilePath": "/u2ZDHJOHRkgzY0dpaORitoZjF4F.jpg",
       "character": "Jang-ju",
       "job": "Actor",
@@ -194,13 +194,40 @@
       "order": 3
     },
     {
-      "tmdbPersonId": 2228587,
-      "name": "Kim Young-sung",
-      "profilePath": "/slqUy6zlmG4nhl3shaZzDsY91MA.jpg",
-      "character": "Jang-ju's husband",
+      "tmdbPersonId": 1337780,
+      "name": "Byun Yo-han",
+      "profilePath": "/5kOBQYbgBTAf8nVzgx0ecCsJ1pW.jpg",
+      "character": "Baek Sang-hyun",
       "job": "Actor",
       "department": "Acting",
       "order": 4
+    },
+    {
+      "tmdbPersonId": 3443147,
+      "name": "Hwang Hyun-jung",
+      "profilePath": "/7bpJcgnnlNEky1DV7PG6NJjWnLw.jpg",
+      "character": "Gyeong-ju",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 927755,
+      "name": "Kim Hak-sun",
+      "profilePath": "/4SKruoQKCk3k0umArclsDftwuTM.jpg",
+      "character": "Mu-il",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 2228587,
+      "name": "Kim Young-sung",
+      "profilePath": "/slqUy6zlmG4nhl3shaZzDsY91MA.jpg",
+      "character": "Seok-man",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
     },
     {
       "tmdbPersonId": 5860896,
@@ -209,16 +236,61 @@
       "character": "Yun-ji",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
+      "order": 8
     },
     {
-      "tmdbPersonId": 1337780,
-      "name": "Byun Yo-han",
-      "profilePath": "/5kOBQYbgBTAf8nVzgx0ecCsJ1pW.jpg",
-      "character": null,
+      "tmdbPersonId": 4035663,
+      "name": "Nam Gwon-a",
+      "profilePath": "/3khEPr2t7Qnh3mnynkI4nPUmpG.jpg",
+      "character": "Pil-rye",
       "job": "Actor",
       "department": "Acting",
-      "order": 6
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 4632011,
+      "name": "Uhm Jun-ki",
+      "profilePath": "/iJMzw2DFvny6wUSPhHM6IkGDGZO.jpg",
+      "character": "Jo-man",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 2291096,
+      "name": "Kim Dae-han",
+      "profilePath": "/eMq2on2tsA0WwpJgyXwbljFtuKB.jpg",
+      "character": "Big Guy",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 4263,
+      "name": "Kim Jung-young",
+      "profilePath": "/sJVUh3dzF1dgItQDPbWsZAsnfzL.jpg",
+      "character": "Detective Nam",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 3245893,
+      "name": "Lee Gyu-hyeon",
+      "profilePath": "/p6qxDgYzgxHNlxug90m5D0szqT6.jpg",
+      "character": "Detective Oh",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 2593824,
+      "name": "Hwang Jae-yeol",
+      "profilePath": "/cyEibdvqNRurcNC63gqDSvX1qzE.jpg",
+      "character": "Detective Kim",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 2644366,
@@ -230,21 +302,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2644366,
-      "name": "Kim Mi-jo",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2255589,
       "name": "Park Sun-hye",
       "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2644366,
+      "name": "Kim Mi-jo",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
@@ -257,7 +329,7 @@
   ],
   "externalIds": {
     "imdbId": "tt38814489",
-    "wikidataId": null,
+    "wikidataId": "Q129511253",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
