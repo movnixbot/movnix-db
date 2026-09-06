@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.8976,
+    "popularity": 7.8628,
     "voteAverage": 7.1,
-    "voteCount": 18,
+    "voteCount": 20,
     "homepage": "https://muriel-dansembourg.com/film/7",
     "posterPath": "/y23B9EnC0LDw8zMKlpXJauyLH7k.jpg",
     "backdropPath": "/mN5HuZwSIueiA62F0LS3wBCFj55.jpg",
@@ -258,13 +258,20 @@
       "height": 1574,
       "aspectRatio": 1.779,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/cFq6AcAbNZmoz6FcQZ6I2gC44RK.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
       "ratingValue": 7.1,
-      "votesCount": 18
+      "votesCount": 20
     },
     {
       "source": "imdb",
@@ -418,6 +425,15 @@
       "name": "Muriel d'Ansembourg",
       "profilePath": "/o4hoJqor6I9q0oWH146GhV3gmtr.jpg",
       "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1422353,
+      "name": "Muriel d'Ansembourg",
+      "profilePath": "/o4hoJqor6I9q0oWH146GhV3gmtr.jpg",
+      "character": null,
       "job": "Writer",
       "department": "Writing",
       "order": null
@@ -439,18 +455,15 @@
       "job": "Producer",
       "department": "Production",
       "order": null
-    },
-    {
-      "tmdbPersonId": 1422353,
-      "name": "Muriel d'Ansembourg",
-      "profilePath": "/o4hoJqor6I9q0oWH146GhV3gmtr.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "RU",
+      "title": "По-настоящему обнажен",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt8760666",
     "wikidataId": "Q139568167",
