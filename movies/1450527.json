@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "1765893",
     "status": "Released",
-    "popularity": 6.2337,
-    "voteAverage": 5.962,
-    "voteCount": 91,
+    "popularity": 6.873,
+    "voteAverage": 5.9,
+    "voteCount": 93,
     "homepage": "https://www.forbiddenfruits.movie",
     "posterPath": "/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
     "backdropPath": "/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
@@ -561,6 +561,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/6VBwdiQ6Hl5s80R6ShnW2heW2ec.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
       "width": 3840,
       "height": 2160,
@@ -1026,8 +1033,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.962,
-      "votesCount": 91
+      "ratingValue": 5.9,
+      "votesCount": 93
     },
     {
       "source": "imdb",
@@ -1051,10 +1058,10 @@
       "order": 0
     },
     {
-      "tmdbPersonId": 3499255,
-      "name": "Lola Tung",
-      "profilePath": "/gnkrdZniagAbZQcYSoYcADKOQMg.jpg",
-      "character": "Pumpkin",
+      "tmdbPersonId": 1831598,
+      "name": "Jordan Duarte",
+      "profilePath": "/pxXjOQELD0lG2v1sey4WIzff9pw.jpg",
+      "character": "Texas Dad",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -1062,7 +1069,7 @@
     {
       "tmdbPersonId": 2117434,
       "name": "Victoria Pedretti",
-      "profilePath": "/dSrIMNn803L8fqqWjkCSRv4iOu1.jpg",
+      "profilePath": "/lzGbKFIBdecraIkofCB6YAOg1VR.jpg",
       "character": "Cherry",
       "job": "Actor",
       "department": "Acting",
@@ -1078,49 +1085,22 @@
       "order": 3
     },
     {
-      "tmdbPersonId": 2741137,
-      "name": "Emma Chamberlain",
-      "profilePath": "/qNvP5UNkidWuQwLZijX7En1NJwe.jpg",
-      "character": "Pickle",
+      "tmdbPersonId": 4602444,
+      "name": "Zack Thompson",
+      "profilePath": null,
+      "character": "Fries Boy",
       "job": "Actor",
       "department": "Acting",
       "order": 4
     },
     {
-      "tmdbPersonId": 17773,
-      "name": "Gabrielle Union",
-      "profilePath": "/toeSCybsYufRKfgz77AKy4C8axD.jpg",
-      "character": "Sharon",
+      "tmdbPersonId": 3499255,
+      "name": "Lola Tung",
+      "profilePath": "/gnkrdZniagAbZQcYSoYcADKOQMg.jpg",
+      "character": "Pumpkin",
       "job": "Actor",
       "department": "Acting",
       "order": 5
-    },
-    {
-      "tmdbPersonId": 3254841,
-      "name": "Hailey Summer",
-      "profilePath": "/hiJPmqUrlBaMgSgkdtwqmotXgyt.jpg",
-      "character": "Arizona Latte Barista",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 6
-    },
-    {
-      "tmdbPersonId": 1831598,
-      "name": "Jordan Duarte",
-      "profilePath": "/pxXjOQELD0lG2v1sey4WIzff9pw.jpg",
-      "character": "Texas Dad",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 7
-    },
-    {
-      "tmdbPersonId": 2446074,
-      "name": "David Pinard",
-      "profilePath": "/8vn6LZLFvxm1MhsLLMGzKMfvhgR.jpg",
-      "character": "Cookie Shop Guy",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 8
     },
     {
       "tmdbPersonId": 3701921,
@@ -1129,49 +1109,76 @@
       "character": "Johnny Montgomery",
       "job": "Actor",
       "department": "Acting",
+      "order": 6
+    },
+    {
+      "tmdbPersonId": 1400939,
+      "name": "Jacqueline Byers",
+      "profilePath": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg",
+      "character": "Momfluencer",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
+    },
+    {
+      "tmdbPersonId": 6102814,
+      "name": "Harrison Byers",
+      "profilePath": null,
+      "character": "Momfluencer's Son",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 2741137,
+      "name": "Emma Chamberlain",
+      "profilePath": "/qNvP5UNkidWuQwLZijX7En1NJwe.jpg",
+      "character": "Pickle",
+      "job": "Actor",
+      "department": "Acting",
       "order": 9
     },
     {
-      "tmdbPersonId": 5073542,
-      "name": "Charlie Larsen",
-      "profilePath": "/gPjg5PvcDxANfgqdu2gUz9K0muA.jpg",
-      "character": "Ashton",
+      "tmdbPersonId": 17773,
+      "name": "Gabrielle Union",
+      "profilePath": "/toeSCybsYufRKfgz77AKy4C8axD.jpg",
+      "character": "Sharon",
       "job": "Actor",
       "department": "Acting",
       "order": 10
+    },
+    {
+      "tmdbPersonId": 6061271,
+      "name": "Caroline Vartanian",
+      "profilePath": null,
+      "character": "Susan Alexandra Employee",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
+      "tmdbPersonId": 6102815,
+      "name": "Aidan Almanza",
+      "profilePath": null,
+      "character": "Daine's Employee",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 2446074,
+      "name": "David Pinard",
+      "profilePath": "/8vn6LZLFvxm1MhsLLMGzKMfvhgR.jpg",
+      "character": "Keep Calm and Cookie On Man",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
     },
     {
       "tmdbPersonId": 2116900,
       "name": "Siddharth Sharma",
       "profilePath": "/g1Sk0hNgeRcjcsaoTPh1j8BZiXm.jpg",
       "character": "Norman",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 1104715,
-      "name": "Jeff Sinasac",
-      "profilePath": "/88ppjZyeF0FAlzQX5PiR8UlOX6E.jpg",
-      "character": "Diner",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 12
-    },
-    {
-      "tmdbPersonId": 3374653,
-      "name": "Kwaku Adu-Poku",
-      "profilePath": "/aoL9Nk1bmMLSaD5wXVfCdzzYktO.jpg",
-      "character": "Cop #1",
-      "job": "Actor",
-      "department": "Acting",
-      "order": 13
-    },
-    {
-      "tmdbPersonId": 1197101,
-      "name": "Devery Jacobs",
-      "profilePath": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
-      "character": "Bluebonnet",
       "job": "Actor",
       "department": "Acting",
       "order": 14
@@ -1268,49 +1275,49 @@
       "flatrate": [
         {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
           "name": "AMC Plus Apple TV channel",
-          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+          "logo": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
         },
         {
           "name": "AMC+ Amazon Channel",
-          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+          "logo": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
         },
         {
           "name": "AMC+",
-          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+          "logo": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png"
         },
         {
           "name": "Shudder",
-          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
+          "logo": "/58O6yqUFM6qoOiBNAddJs7xNKc.png"
         },
         {
           "name": "Sundance Now",
-          "logo": "/1Edma9SrJnqkQW3BqFd2rJNHZvX.jpg"
+          "logo": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
