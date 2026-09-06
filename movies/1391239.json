@@ -9,8 +9,8 @@
     "runtime": 105,
     "budget": null,
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 4.7881,
+    "status": "Released",
+    "popularity": 5.2643,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://a24films.com/films/the-debut",
@@ -202,7 +202,7 @@
     {
       "tmdbPersonId": 13242,
       "name": "Paul Giamatti",
-      "profilePath": "/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg",
+      "profilePath": "/zjEoPF9hVW3NAdoMtryxPBPGtj4.jpg",
       "character": "Jerry",
       "job": "Actor",
       "department": "Acting",
@@ -212,10 +212,46 @@
       "tmdbPersonId": 1735828,
       "name": "Halle Bailey",
       "profilePath": "/1Gjdlx81P7xTeVwHNIDgjgmzZq5.jpg",
-      "character": null,
+      "character": "Stef",
       "job": "Actor",
       "department": "Acting",
       "order": 2
+    },
+    {
+      "tmdbPersonId": 58791,
+      "name": "Patrick Fabian",
+      "profilePath": "/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg",
+      "character": "Howard",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 1948602,
+      "name": "Colton Ryan",
+      "profilePath": "/vy2NSD9O8n7K1HFK5Kct1SHPk5U.jpg",
+      "character": "Zachary",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 2722528,
+      "name": "Bonnie Milligan",
+      "profilePath": "/mZVeabOBgDBhDcdZo1XeV4So9lk.jpg",
+      "character": "Trish",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 5857295,
+      "name": "Eldar Isgandarov",
+      "profilePath": "/qQAM7wKrppcjbfWpjS3ETX3yDJA.jpg",
+      "character": "Piotr",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
     },
     {
       "tmdbPersonId": 2378813,
@@ -224,7 +260,7 @@
       "character": null,
       "job": "Actor",
       "department": "Acting",
-      "order": 3
+      "order": 7
     },
     {
       "tmdbPersonId": 44735,
@@ -233,7 +269,16 @@
       "character": null,
       "job": "Actor",
       "department": "Acting",
-      "order": 4
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 40389,
+      "name": "Bernadette Peters",
+      "profilePath": "/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg",
+      "character": "Serena Cherry",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
     },
     {
       "tmdbPersonId": 20047,
@@ -242,16 +287,7 @@
       "character": "Cassie",
       "job": "Actor",
       "department": "Acting",
-      "order": 5
-    },
-    {
-      "tmdbPersonId": 40389,
-      "name": "Bernadette Peters",
-      "profilePath": "/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg",
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 6
+      "order": 10
     },
     {
       "tmdbPersonId": 2037463,
@@ -260,49 +296,13 @@
       "character": null,
       "job": "Actor",
       "department": "Acting",
-      "order": 7
-    },
-    {
-      "tmdbPersonId": 1948602,
-      "name": "Colton Ryan",
-      "profilePath": "/vy2NSD9O8n7K1HFK5Kct1SHPk5U.jpg",
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 8
+      "order": 11
     },
     {
       "tmdbPersonId": 1214403,
       "name": "Maulik Pancholy",
       "profilePath": "/89zHn7lNQEOfmOzv8A3LW3Gwqwm.jpg",
       "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 9
-    },
-    {
-      "tmdbPersonId": 5857295,
-      "name": "Eldar Isgandarov",
-      "profilePath": "/qQAM7wKrppcjbfWpjS3ETX3yDJA.jpg",
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 10
-    },
-    {
-      "tmdbPersonId": 2722528,
-      "name": "Bonnie Milligan",
-      "profilePath": "/mZVeabOBgDBhDcdZo1XeV4So9lk.jpg",
-      "character": null,
-      "job": "Actor",
-      "department": "Acting",
-      "order": 11
-    },
-    {
-      "tmdbPersonId": 58791,
-      "name": "Patrick Fabian",
-      "profilePath": "/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg",
-      "character": "Howard",
       "job": "Actor",
       "department": "Acting",
       "order": 12
@@ -328,7 +328,7 @@
     {
       "tmdbPersonId": 54693,
       "name": "Emma Stone",
-      "profilePath": "/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
+      "profilePath": "/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -386,6 +386,11 @@
       "iso_3166_1": "US",
       "title": "No One Cares",
       "type": "working title"
+    },
+    {
+      "iso_3166_1": "AR",
+      "title": "El Debut",
+      "type": ""
     }
   ],
   "externalIds": {
