@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 34.9234,
-    "voteAverage": 6.3,
-    "voteCount": 14,
+    "popularity": 24.4759,
+    "voteAverage": 5.579,
+    "voteCount": 19,
     "homepage": "https://www.neonrated.com/film/the-wrong-girls",
     "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
     "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
@@ -110,6 +110,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/aWHbh4mqGvjh9xJsFUnFX2wLulR.jpg",
+      "width": 1920,
+      "height": 2880,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lDYmh3IzTmSkoFD1wdOtMtTFeZG.jpg",
       "width": 1270,
       "height": 1905,
@@ -194,6 +201,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/iVvOpikjWYA83xJ7DfjpXe8TwEy.jpg",
+      "width": 1864,
+      "height": 2664,
+      "aspectRatio": 0.7,
+      "type": "poster"
+    },
+    {
       "filePath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
       "width": 3840,
       "height": 2160,
@@ -215,6 +229,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/xmCm8cDAIRHyHXZTjfM3UDzEwaP.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/1jrG9IDfNXiK8QZ219w5mdA941T.jpg",
       "width": 2421,
       "height": 1362,
@@ -230,13 +251,6 @@
     },
     {
       "filePath": "/7rO9kjZiZRgfflT8caIMskzIUEA.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/xmCm8cDAIRHyHXZTjfM3UDzEwaP.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -309,8 +323,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 14
+      "ratingValue": 5.579,
+      "votesCount": 19
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6,
+      "votesCount": 665
     },
     {
       "source": "crawled",
@@ -331,7 +350,7 @@
     {
       "tmdbPersonId": 61178,
       "name": "Alia Shawkat",
-      "profilePath": "/aUc0hlILKfDKhlKnWQliGjkQL9a.jpg",
+      "profilePath": "/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg",
       "character": "Molly",
       "job": "Actor",
       "department": "Acting",
@@ -459,8 +478,8 @@
       "name": "Dylan Meyer",
       "profilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -468,8 +487,8 @@
       "name": "Dylan Meyer",
       "profilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -554,7 +573,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "IL",
+      "title": "שבורות",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt35060353",
     "wikidataId": "Q132560837",
@@ -572,15 +597,23 @@
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }

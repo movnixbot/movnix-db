@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 11.0666,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 11.8241,
+    "voteAverage": 3,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1748841",
-    "posterPath": "/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
+    "posterPath": "/1s9IVDZetaGc8isbjslCZggsNSX.jpg",
     "backdropPath": "/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
     "collectionId": null
   },
@@ -75,7 +75,7 @@
   ],
   "images": [
     {
-      "filePath": "/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
+      "filePath": "/1s9IVDZetaGc8isbjslCZggsNSX.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -160,6 +160,11 @@
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 3,
+      "votesCount": 1
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -372,7 +377,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+        }
+      ]
     }
   },
   "reviews": [],
