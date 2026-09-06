@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.0428,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 4.1192,
+    "voteAverage": 4.5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1748756",
-    "posterPath": "/7hQX3DJlN5aH3mNCR7w84n2t2tr.jpg",
-    "backdropPath": null,
+    "posterPath": "/31hhDTGKK9PFzFCorfL0mypVlh.jpg",
+    "backdropPath": "/oD24mHAPRb4sPxg2K8CBVoIBqh3.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -53,11 +53,18 @@
   ],
   "images": [
     {
-      "filePath": "/7hQX3DJlN5aH3mNCR7w84n2t2tr.jpg",
+      "filePath": "/31hhDTGKK9PFzFCorfL0mypVlh.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
+    },
+    {
+      "filePath": "/oD24mHAPRb4sPxg2K8CBVoIBqh3.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
     },
     {
       "filePath": "/7hQX3DJlN5aH3mNCR7w84n2t2tr.jpg",
@@ -65,16 +72,54 @@
       "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/31hhDTGKK9PFzFCorfL0mypVlh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oD24mHAPRb4sPxg2K8CBVoIBqh3.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 4.5,
+      "votesCount": 2
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
     }
   ],
-  "credits": [],
+  "credits": [
+    {
+      "tmdbPersonId": 6448540,
+      "name": "JL Goddard",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2371466,
+      "name": "Chris Helton",
+      "profilePath": "/zgObXrlfj3bvBRjpjhOcQhXsurr.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    }
+  ],
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt33256086",
@@ -93,19 +138,19 @@
       "buy": [
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
