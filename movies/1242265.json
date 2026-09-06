@@ -10,9 +10,9 @@
     "budget": "45000000",
     "revenue": "2890908",
     "status": "Released",
-    "popularity": 17.429,
-    "voteAverage": 7.258,
-    "voteCount": 345,
+    "popularity": 21.4996,
+    "voteAverage": 7.228,
+    "voteCount": 357,
     "homepage": "https://www.fuzefilm.co.uk/",
     "posterPath": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
     "backdropPath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
@@ -742,14 +742,21 @@
       "type": "poster"
     },
     {
-      "filePath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
-      "width": 3840,
-      "height": 2160,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
+      "filePath": "/5h8aT9KI6P1Nmc6CVtgpAPrqKDF.jpg",
+      "width": 667,
+      "height": 1000,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
-      "filePath": "/1gukfyy8czrGRlLe5P7VB3WF69P.jpg",
+      "filePath": "/vRnUAx4zUgX6CwXS0mj6nhlqlU8.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
       "width": 3840,
       "height": 2160,
       "aspectRatio": 1.778,
@@ -774,6 +781,13 @@
       "width": 3800,
       "height": 2138,
       "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1gukfyy8czrGRlLe5P7VB3WF69P.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
       "type": "backdrop"
     },
     {
@@ -1102,8 +1116,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.258,
-      "votesCount": 345
+      "ratingValue": 7.228,
+      "votesCount": 357
     },
     {
       "source": "imdb",
@@ -1258,17 +1272,17 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 7583,
-      "name": "Gillian Berrie",
-      "profilePath": null,
+      "tmdbPersonId": 3055,
+      "name": "David Mackenzie",
+      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
-      "tmdbPersonId": 4303729,
-      "name": "Callum Grant",
+      "tmdbPersonId": 7583,
+      "name": "Gillian Berrie",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -1285,18 +1299,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 3055,
-      "name": "David Mackenzie",
-      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 3055,
-      "name": "David Mackenzie",
-      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+      "tmdbPersonId": 4303729,
+      "name": "Callum Grant",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1309,6 +1314,15 @@
       "character": null,
       "job": "Screenplay",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3055,
+      "name": "David Mackenzie",
+      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     }
   ],
@@ -1352,27 +1366,36 @@
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "HBO Max Amazon Channel",
+          "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+        }
+      ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
