@@ -10,8 +10,8 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.5772,
-    "voteAverage": 6.1,
+    "popularity": 6.6091,
+    "voteAverage": 6.084,
     "voteCount": 256,
     "homepage": "https://mock-movie-website.com/movies/1259983",
     "posterPath": "/oy9SBxmzL6pG5Lckh9o2Wa1IWBr.jpg",
@@ -252,6 +252,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/nIin8gosvk8td0MJT8E39vVgGb7.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/omOIzarzHL4srQeLd5oPlzEReuf.jpg",
       "width": 1920,
       "height": 1078,
@@ -297,7 +304,7 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.1,
+      "ratingValue": 6.084,
       "votesCount": 256
     },
     {
@@ -448,21 +455,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 225407,
-      "name": "Yann Gozlan",
-      "profilePath": "/f35QU6c4UYLlO8QaL0aLH1xvq7k.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1277830,
       "name": "Jean-Baptiste Delafon",
       "profilePath": "/8mlzICx2rBMMouU2zHMWgFbcwj.jpg",
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 225407,
+      "name": "Yann Gozlan",
+      "profilePath": "/f35QU6c4UYLlO8QaL0aLH1xvq7k.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
