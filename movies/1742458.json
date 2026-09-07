@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 14.1002,
+    "popularity": 12.4443,
     "voteAverage": 6,
-    "voteCount": 9,
+    "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1742458",
     "posterPath": "/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
     "backdropPath": "/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
@@ -68,14 +68,14 @@
       "type": "backdrop"
     },
     {
-      "filePath": "/5ULxAr3lOAMAdpX99tfayDm3HZB.jpg",
+      "filePath": "/oelmaFF3VT34Y14rz9Pi5NtR7TM.jpg",
       "width": 1023,
       "height": 1537,
       "aspectRatio": 0.666,
       "type": "poster"
     },
     {
-      "filePath": "/oelmaFF3VT34Y14rz9Pi5NtR7TM.jpg",
+      "filePath": "/5ULxAr3lOAMAdpX99tfayDm3HZB.jpg",
       "width": 1023,
       "height": 1537,
       "aspectRatio": 0.666,
@@ -85,6 +85,13 @@
       "filePath": "/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jZ0WjaHs2sDZQ8K0avEN50PXiZx.jpg",
+      "width": 1400,
+      "height": 2100,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -157,13 +164,39 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/sU2Ly927duwx6FrN2mXvUiM1C0y.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/2PPrgu7OOQMQTGFH15E8PkIZIkI.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/tpTVIhVHSPgDOyyi2BrfXq5tz8h.jpg",
+      "width": 1500,
+      "height": 844,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
       "ratingValue": 6,
-      "votesCount": 9
+      "votesCount": 10
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 4.6,
+      "votesCount": 227
     },
     {
       "source": "crawled",
