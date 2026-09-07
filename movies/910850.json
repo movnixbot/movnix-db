@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "18420625",
     "status": "Released",
-    "popularity": 5.1319,
-    "voteAverage": 7.333,
-    "voteCount": 12,
+    "popularity": 18.5854,
+    "voteAverage": 7.275,
+    "voteCount": 20,
     "homepage": "https://en.gundam-official.com/hathaway",
     "posterPath": "/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
     "backdropPath": "/dp9FPgUwPc2XIXYct2cQ1PgFv7f.jpg",
@@ -392,8 +392,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.333,
-      "votesCount": 12
+      "ratingValue": 7.275,
+      "votesCount": 20
     },
     {
       "source": "imdb",
@@ -598,13 +598,23 @@
     },
     {
       "iso_3166_1": "JP",
-      "title": "Kidou Senshi Gundam: Senkou no Hathaway - Kiruke no Majo",
+      "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
       "type": "romaji"
     },
     {
       "iso_3166_1": "US",
       "title": "Mobile Suit Gundam Hathaway's Flash: The Witch of Circe",
       "type": "literal translation"
+    },
+    {
+      "iso_3166_1": "MX",
+      "title": "Mobile Suit Gundam Hathaway: El hechizo de una ninfa",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CH",
+      "title": "Mobile Suit Gundam Hathaway- The Sorcery of Nymph Circe",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -616,11 +626,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+        }
+      ],
       "buy": []
     }
   },
