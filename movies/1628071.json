@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.4627,
+    "popularity": 6.0322,
     "voteAverage": 5.1,
     "voteCount": 7,
     "homepage": "https://mock-movie-website.com/movies/1628071",
@@ -141,6 +141,13 @@
     },
     {
       "filePath": "/lAAiC4gGEtYeyB3k6IhtnEKE2pQ.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/eRIFzE5QkIRmxsoiuVyTY13XIA.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -329,19 +336,19 @@
   ],
   "credits": [
     {
-      "tmdbPersonId": 3781713,
-      "name": "Philip Condron",
-      "profilePath": "/9UOSH64wTJONXJ3GWH39Ur6Oyjd.jpg",
-      "character": null,
+      "tmdbPersonId": 130597,
+      "name": "Dennis To Yu-Hang",
+      "profilePath": "/xQ4wrXt4L5u9A9yfkN4s8RzPuOJ.jpg",
+      "character": "Ip Man",
       "job": "Actor",
       "department": "Acting",
       "order": 0
     },
     {
-      "tmdbPersonId": 130597,
-      "name": "Dennis To Yu-Hang",
-      "profilePath": "/xQ4wrXt4L5u9A9yfkN4s8RzPuOJ.jpg",
-      "character": null,
+      "tmdbPersonId": 3781713,
+      "name": "Philip Condron",
+      "profilePath": "/9UOSH64wTJONXJ3GWH39Ur6Oyjd.jpg",
+      "character": "James",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -350,7 +357,7 @@
       "tmdbPersonId": 590919,
       "name": "Steven Dasz",
       "profilePath": "/AeNDnKWIvnPPeeaec7skalmEKoK.jpg",
-      "character": null,
+      "character": "Parker",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -390,6 +397,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 6
+    },
+    {
+      "tmdbPersonId": 6280271,
+      "name": "Addison Ford",
+      "profilePath": null,
+      "character": "Lei Yihu",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 7
     },
     {
       "tmdbPersonId": 2578785,
@@ -481,15 +497,15 @@
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
