@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.0196,
-    "voteAverage": 6.75,
-    "voteCount": 32,
+    "popularity": 7.5846,
+    "voteAverage": 6.8,
+    "voteCount": 33,
     "homepage": "https://www.true-brit.com/films/giant/",
     "posterPath": "/kd2AEp0yK5b3gNZILMcSJyY5NI3.jpg",
     "backdropPath": "/53Ey8CIdc9jeS7fB4TCyxQTCjm6.jpg",
@@ -156,6 +156,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/a6XrzxxrV1PPxQuswOeqOF3AGhj.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/1KKmUdFulYDVSV31nQt9LVm3Oue.jpg",
       "width": 2000,
       "height": 3000,
@@ -261,9 +268,30 @@
       "type": "poster"
     },
     {
+      "filePath": "/4vyDNjbOBMMYWHemIhf11YHIJYd.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7DOWFjsRNdtwAU5A4wOvonn3XEl.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/53Ey8CIdc9jeS7fB4TCyxQTCjm6.jpg",
       "width": 3840,
       "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/uXK4EGIudYZdxA17hViOAWPcSmz.jpg",
+      "width": 1920,
+      "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -385,18 +413,30 @@
       "height": 1688,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/zustsbe46OjxpJ4ysE4fu6coTq5.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.75,
-      "votesCount": 32
+      "ratingValue": 6.8,
+      "votesCount": 33
     },
     {
       "source": "imdb",
       "ratingValue": 7,
       "votesCount": 789
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 57,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -545,8 +585,8 @@
       "name": "Rowan Athale",
       "profilePath": "/91HmgUcTiXtF9cfgo6Z37z6suAv.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -554,17 +594,8 @@
       "name": "Rowan Athale",
       "profilePath": "/91HmgUcTiXtF9cfgo6Z37z6suAv.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 59522,
-      "name": "Stuart Ford",
-      "profilePath": "/5yUDf25eAUn9b0CVWrcNu0Ve9um.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -580,6 +611,15 @@
       "tmdbPersonId": 88324,
       "name": "Kevin Sampson",
       "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 59522,
+      "name": "Stuart Ford",
+      "profilePath": "/5yUDf25eAUn9b0CVWrcNu0Ve9um.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
