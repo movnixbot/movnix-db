@@ -10,9 +10,9 @@
     "budget": "7400000",
     "revenue": "2610000",
     "status": "Released",
-    "popularity": 7.1817,
+    "popularity": 8.7801,
     "voteAverage": 5.7,
-    "voteCount": 127,
+    "voteCount": 129,
     "homepage": "https://www.facesofdeathmovie.com",
     "posterPath": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
     "backdropPath": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
@@ -30,6 +30,10 @@
     {
       "tmdbId": 27,
       "name": "Horror"
+    },
+    {
+      "tmdbId": 80,
+      "name": "Crime"
     },
     {
       "tmdbId": 1,
@@ -58,6 +62,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "UK Trailer",
+      "key": "D6ScdXrsTMo",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
     {
       "name": "Barbie Ferreira confirms she's extremely online.",
       "key": "Caiw9gQ-YgQ",
@@ -120,13 +131,6 @@
       "site": "YouTube",
       "size": 1080,
       "type": "Teaser"
-    },
-    {
-      "name": "Faces of Death Teaser Trailer (2026)",
-      "key": "CZ8bpRcX7QM",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer"
     },
     {
       "name": "Coming to Theaters April 10",
@@ -793,12 +797,17 @@
     {
       "source": "tmdb",
       "ratingValue": 5.7,
-      "votesCount": 127
+      "votesCount": 129
     },
     {
       "source": "imdb",
       "ratingValue": 6.5,
       "votesCount": 1174
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 68,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -927,7 +936,7 @@
     {
       "tmdbPersonId": 3666938,
       "name": "Jonathan Shores",
-      "profilePath": null,
+      "profilePath": "/e1WAvbNvXMQtujk942I95QIrBNu.jpg",
       "character": "Nurse #2",
       "job": "Actor",
       "department": "Acting",
@@ -970,12 +979,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2035184,
-      "name": "Isa Mazzei",
-      "profilePath": "/oFgrqjGqgK2y6Rad8tZ354WNVUj.jpg",
+      "tmdbPersonId": 34970,
+      "name": "Susan Montford",
+      "profilePath": null,
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -988,12 +997,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 34970,
-      "name": "Susan Montford",
-      "profilePath": null,
+      "tmdbPersonId": 2035184,
+      "name": "Isa Mazzei",
+      "profilePath": "/oFgrqjGqgK2y6Rad8tZ354WNVUj.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -1039,45 +1048,45 @@
       "flatrate": [
         {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
           "name": "AMC Plus Apple TV channel",
-          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+          "logo": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
         },
         {
           "name": "AMC+ Amazon Channel",
-          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+          "logo": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
         },
         {
           "name": "AMC+ Roku Premium Channel",
-          "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+          "logo": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png"
         },
         {
           "name": "Shudder",
-          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
+          "logo": "/58O6yqUFM6qoOiBNAddJs7xNKc.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
