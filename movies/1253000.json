@@ -10,9 +10,9 @@
     "budget": "100000",
     "revenue": null,
     "status": "Released",
-    "popularity": 4.3251,
-    "voteAverage": 6,
-    "voteCount": 78,
+    "popularity": 4.2958,
+    "voteAverage": 5.957,
+    "voteCount": 81,
     "homepage": "https://www.shoutstudios.com/deathstalker",
     "posterPath": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
     "backdropPath": "/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg",
@@ -54,13 +54,13 @@
     {
       "tmdbId": 118155,
       "name": "Shout! Studios",
-      "logoPath": "/gZh4ZgiE9bNfDvdhwKE2peIhOY9.png",
+      "logoPath": "/1lBVhKMuTT2HXSCOgax07aWSik5.png",
       "originCountry": "US"
     },
     {
       "tmdbId": 25884,
       "name": "Raven Banner Entertainment",
-      "logoPath": null,
+      "logoPath": "/zL8l7rZGwALoDJQwvw4ZnCQfpgA.png",
       "originCountry": "CA"
     }
   ],
@@ -258,6 +258,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/x761E0PYLqAEyQKQhbbuKMREqte.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg",
       "width": 1920,
       "height": 1080,
@@ -333,13 +340,20 @@
       "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/oyuDzomlC3lrcqz7mAMM2Pxmntt.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6,
-      "votesCount": 78
+      "ratingValue": 5.957,
+      "votesCount": 81
     },
     {
       "source": "imdb",
@@ -494,12 +508,12 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1035749,
-      "name": "Avi Federgreen",
-      "profilePath": null,
+      "tmdbPersonId": 1038001,
+      "name": "Steven Kostanski",
+      "profilePath": "/7nXlOIJcc0Zm2IjzUvnoNS7nx5C.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -512,8 +526,8 @@
       "order": null
     },
     {
-      "tmdbPersonId": 54895,
-      "name": "Michael Paszt",
+      "tmdbPersonId": 1035749,
+      "name": "Avi Federgreen",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -521,12 +535,12 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1038001,
-      "name": "Steven Kostanski",
-      "profilePath": "/7nXlOIJcc0Zm2IjzUvnoNS7nx5C.jpg",
+      "tmdbPersonId": 54895,
+      "name": "Michael Paszt",
+      "profilePath": null,
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -556,53 +570,53 @@
       "flatrate": [
         {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
-          "name": "AMC Plus Apple TV Channel ",
-          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+          "name": "AMC Plus Apple TV channel",
+          "logo": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
         },
         {
           "name": "AMC+ Amazon Channel",
-          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+          "logo": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
         },
         {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          "name": "AMC+ Roku Premium Channel",
+          "logo": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png"
         },
         {
           "name": "Shudder",
-          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
+          "logo": "/58O6yqUFM6qoOiBNAddJs7xNKc.png"
         },
         {
           "name": "Shudder Amazon Channel",
-          "logo": "/qb6Lj5BhNJavdmRVDzAqAjd4Tj3.jpg"
+          "logo": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png"
         },
         {
-          "name": "Shudder Apple TV Channel",
-          "logo": "/kLfq0I2MwiUFUY9yI1GwOeKxX8f.jpg"
+          "name": "Shudder Apple TV channel",
+          "logo": "/56UClPygDruoT7kvuPeIMJC59Zx.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
@@ -646,5 +660,212 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1253000/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1253000,
+    "hash": "928f3e4e91fd51b03ce4c173767b985e08b974d45d99e2ad80d04284dcffbb56",
+    "summary_one_sentence": "After retrieving a cursed amulet from a fallen battlefield, the fierce warrior Deathstalker must battle monstrous assassins and dark magic to break the relic's curse.",
+    "summary_short": "In a realm dominated by dark magic, the formidable swordsman Deathstalker recovers a mysterious amulet from a corpse-strewn battlefield. His discovery immediately marks him for death, triggering a wave of attacks from grotesque monstrous assassins bound to the relic. To survive and prevent the realm from falling into total corruption, Deathstalker embarks on a high-stakes adventure to break the ancient curse.",
+    "summary_long": "Upon discovering a enigmatic, cursed amulet resting on a bloody battlefield, the legendary swordsman Deathstalker inadvertently binds his fate to a ancient dark magic. Shortly after taking the relic, he finds himself relentlessly hunted by monstrous assassins sent by sinister forces seeking to control the artifact's raw power. Forced to navigate a dangerous and treacherous landscape, Deathstalker relies on his lethal combat skills to fend off endless waves of supernatural attackers. As he delves deeper into the origins of the curse, he realizes that the amulet's dark power threatens to destroy everything in its path if left unchecked. Along his journey, he confronts deadly traps, foul sorcery, and formidable adversaries that test his physical and mental resilience. Understanding the stakes, the solitary warrior accepts the duty of confronting the evil entity orchestrating the dark assault. In a climatic battle against the forces of darkness, Deathstalker uses his raw martial prowess to break the curse once and for all. His perilous journey ultimately determines whether the realm will be saved or plunged into eternal shadow.",
+    "synopsis": "Deathstalker is an action-packed fantasy adventure following a powerful warrior who recovers a cursed amulet from a devastating battlefield. Marked by dark magic, Deathstalker becomes the target of relentless, monstrous assassins. To survive, he must travel across hazardous lands, unravel the secrets of the ancient relic, and confront a rising evil before the realm is consumed by darkness.",
+    "keywords": [
+      "cursed amulet",
+      "swordsman",
+      "dark magic",
+      "dark fantasy",
+      "monster assassins",
+      "battlefield",
+      "sword and sorcery",
+      "ancient curse",
+      "rising evil",
+      "lone hero",
+      "magic artifact",
+      "reluctant hero",
+      "high stakes action"
+    ],
+    "themes": [
+      {
+        "theme": "Survival",
+        "confidence": 0.92
+      },
+      {
+        "theme": "Facing Dark Powers",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Fate and Curses",
+        "confidence": 0.85
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Dark",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Suspenseful",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      }
+    ],
+    "story_structure": {
+      "climax": "Deathstalker confronts the ultimate source of evil in a high-stakes battle, risking everything to overcome the darkness.",
+      "conflict": "The amulet marks him as a target, drawing monstrous assassins and forcing him into a fight for survival against a growing malevolent power.",
+      "resolution": "With the evil threat neutralized, Deathstalker frees himself from the curse and begins the journey toward reclaiming his fate.",
+      "introduction": "Deathstalker, a formidable warrior, retrieves a cursed amulet from a fallen battlefield, unknowingly binding himself to ancient dark magic.",
+      "risingAction": "Hunted across dangerous lands, Deathstalker must evade deadly forces, unravel the origins of the curse, and prepare to face the mastermind behind the dark magic."
+    },
+    "characters": [
+      {
+        "name": "Deathstalker",
+        "role": "Hero",
+        "description": "A powerful swordsman who recovers a cursed amulet and must battle dark forces and monstrous assassins to break the magic."
+      },
+      {
+        "name": "The Dark Sorcerer",
+        "role": "Villain",
+        "description": "The rising evil behind the curse, who dispatches monstrous assassins to reclaim the amulet and eliminate Deathstalker."
+      },
+      {
+        "name": "The Wise Hermit",
+        "role": "Mentor",
+        "description": "An ancient practitioner of magic who informs Deathstalker about the amulet's history and how to shatter the curse."
+      },
+      {
+        "name": "Nico",
+        "role": "Comic Relief",
+        "description": "A talkative, sharp-witted companion who uses humor to defuse tension during perilous journeys."
+      },
+      {
+        "name": "Kira",
+        "role": "Supporting Character",
+        "description": "A skilled warrior who aids Deathstalker in combat against dark creatures and monstrous hunters."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Deathstalker",
+        "target": "Monstrous Assassins",
+        "description": "Enemies / Target of Assassination"
+      },
+      {
+        "source": "Deathstalker",
+        "target": "Rising Evil",
+        "description": "Adversaries / Nemesis"
+      }
+    ],
+    "seo": {
+      "slug": "deathstalker",
+      "jsonLd": {
+        "name": "Deathstalker",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse."
+      },
+      "keywords": [
+        "Deathstalker",
+        "Deathstalker movie",
+        "fantasy action movie",
+        "swordsman movie",
+        "cursed amulet",
+        "dark magic fantasy"
+      ],
+      "canonical": "[https://movnix.com/movie/deathstalker](https://movnix.com/movie/deathstalker)",
+      "metaTitle": "Deathstalker - Action Fantasy Movie | Dark Magic & Cursed Amulet",
+      "openGraph": {
+        "og:title": "Deathstalker - Dark Magic & Sword Action Movie",
+        "og:description": "Hunted by monstrous assassins and marked by dark magic, a powerful swordsman must face rising evil to break a deadly curse."
+      },
+      "twitterCard": {
+        "twitter:title": "Deathstalker - Dark Magic & Sword Action Movie",
+        "twitter:description": "Hunted by monstrous assassins and marked by dark magic, a powerful swordsman must face rising evil to break a deadly curse."
+      },
+      "metaDescription": "A powerful swordsman recovers a cursed amulet, drawing dark magic and monstrous assassins. Watch Deathstalker battle rising evil to break the curse."
+    },
+    "faq": [
+      {
+        "answer": "The film follows Deathstalker, a powerful warrior who recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic, he must fight off monstrous assassins, face a rising evil, and break the curse.",
+        "question": "What is the main plot of Deathstalker?"
+      },
+      {
+        "answer": "The film's dominant genres are dark fantasy, action, and classic sword-and-sorcery.",
+        "question": "What is the dominant genre of Deathstalker?"
+      },
+      {
+        "answer": "Yes, Deathstalker is part of a cult classic fantasy franchise originating from the 1980s sword-and-sorcery film series.",
+        "question": "Is this movie part of a franchise?"
+      },
+      {
+        "answer": "No, standard releases of the film conclude directly when the credits roll and do not feature a post-credits scene.",
+        "question": "Is there a post-credits scene in Deathstalker?"
+      },
+      {
+        "answer": "The protagonist is Deathstalker, a skilled and formidable warrior who finds himself caught in a web of dark magic.",
+        "question": "Who is the main protagonist in the film?"
+      },
+      {
+        "answer": "A cursed amulet found on a battlefield serves as the central MacGuffin and source of the protagonist's magical conflict.",
+        "question": "What artifact drives the central story of the movie?"
+      },
+      {
+        "answer": "Deathstalker is hunted by monstrous assassins and must confront a powerful, rising evil entity connected to the dark magic of the amulet.",
+        "question": "What kind of antagonists does the hero face?"
+      },
+      {
+        "answer": "His main goal is to break the dark curse that has marked him while surviving enemy attacks and defeating the evil forces behind it.",
+        "question": "What is Deathstalker's primary goal?"
+      },
+      {
+        "answer": "Yes, the narrative heavily incorporates dark magic, supernatural curses, and dangerous mythical creatures.",
+        "question": "Does the film feature magic and supernatural elements?"
+      },
+      {
+        "answer": "This movie is ideal for fans of retro action-adventure, high-stakes fantasy battles, and dark magic lore.",
+        "question": "Who is the target audience for this movie?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 6,
+        "description": "Moderate dark fantasy horror elements involving curses, dark magic, and menacing creature designs."
+      },
+      "language": {
+        "score": 3,
+        "description": "Mild to moderate action fantasy fantasy language likely present, though not specified in the premise."
+      },
+      "violence": {
+        "score": 7,
+        "description": "High levels of dark fantasy violence, including corpse-strewn battlefields and encounters with monstrous assassins."
+      },
+      "substance": {
+        "score": 0,
+        "description": "No substance use or drug references indicated in the overview."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content or explicit romance indicated in the overview."
+      },
+      "emotionalIntensity": {
+        "score": 6,
+        "description": "Moderate to high tension driven by dark curses, peril, and continual threat from assassins."
+      }
+    },
+    "movie_dna": {
+      "drama": 4,
+      "action": 9,
+      "comedy": 1,
+      "emotion": 4,
+      "fantasy": 10,
+      "mystery": 6,
+      "romance": 1,
+      "science": 0,
+      "suspense": 7,
+      "violence": 8
+    },
+    "created_at": "2026-08-02 14:06:21.948217",
+    "updated_at": "2026-08-02 14:06:21.948217"
+  }
 }
