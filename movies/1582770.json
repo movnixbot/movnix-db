@@ -10,7 +10,7 @@
     "budget": "14330000",
     "revenue": "152900759",
     "status": "Released",
-    "popularity": 14.7456,
+    "popularity": 11.9013,
     "voteAverage": 7.3,
     "voteCount": 159,
     "homepage": "https://mock-movie-website.com/movies/1582770",
@@ -30,6 +30,10 @@
     {
       "tmdbId": 28,
       "name": "Action"
+    },
+    {
+      "tmdbId": 12,
+      "name": "Adventure"
     },
     {
       "tmdbId": 80,
@@ -808,6 +812,11 @@
       "source": "imdb",
       "ratingValue": 8.5,
       "votesCount": 45701
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 33,
+      "votesCount": null
     },
     {
       "source": "crawled",

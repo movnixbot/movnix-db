@@ -10,14 +10,13 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.9327,
-    "voteAverage": 7.3,
-    "voteCount": 3,
+    "popularity": 7.8114,
+    "voteAverage": 6.75,
+    "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1575207",
     "posterPath": "/wh8Az2CLoBq1jDarvHNedX0CpEc.jpg",
     "backdropPath": "/r9XPwN4o9uZOEmw46fg6d9OIJQ5.jpg",
-    "collectionId": 632906,
-    "certification": "13+"
+    "collectionId": 632906
   },
   "collection": {
     "tmdbId": 632906,
@@ -145,6 +144,13 @@
     },
     {
       "filePath": "/r9XPwN4o9uZOEmw46fg6d9OIJQ5.jpg",
+      "width": 2400,
+      "height": 1350,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/j1Tzy1slmhHAJZ6kthfuySmTV0E.jpg",
       "width": 2400,
       "height": 1350,
       "aspectRatio": 1.778,
@@ -546,8 +552,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.3,
-      "votesCount": 3
+      "ratingValue": 6.75,
+      "votesCount": 4
     },
     {
       "source": "imdb",
@@ -761,11 +767,21 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     }
   },
@@ -795,5 +811,262 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1575207/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1575207,
+    "hash": "e5d3519318edbcdfa6674ff3a68778addd9652f3569eb55d1ce3ed25b3be4937",
+    "summary_one_sentence": "Returning to Indonesia from Cuba in March 1997, ITB student Dilan finds his personal romantic life entangled with the nation's rising political turmoil on the brink of the Reformation era.",
+    "summary_short": "After spending six months studying in Cuba, Dilan returns to Indonesia in March 1997 to resume his life as a university student at ITB. However, he enters a nation on the edge of massive historic change as the political climate grows increasingly hostile toward the New Order regime. While navigating student activism and social upheaval, Dilan must also balance complex romantic dynamics and personal ideals. As historical events unfold around him, he learns what it truly means to mature during a time of revolution.",
+    "summary_long": "In March 1997, Dilan steps back onto Indonesian soil after an impactful six-month stay studying in Cuba. Returning as an adult student at the Institut Teknologi Bandung (ITB), he finds that the once-familiar landscape of his youth has shifted into an intense pressure cooker of political dissent. The country is rapidly fracturing under the weight of political oppression, prompting university students across the nation to rally for widespread political reform. Dilan, who was once known as a lighthearted high school gang leader, now faces the complex social and ideological realities of young adulthood. Alongside his academic obligations and involvement in the student movement, Dilan attempts to maintain stability in his personal relationships. His dynamic with Ancika faces real tests as he struggles to reconcile his ideals with his day-to-day responsibilities. Furthermore, unexpected encounters with figures from his past force him to confront lingering romantic sentiments and unresolved memories. As protests intensify leading toward the historic downfall of the regime, Dilan is compelled to make definitive choices about his loyalty, his future, and the woman he truly loves.",
+    "synopsis": "Set against the backdrop of Indonesia's turbulent pre-Reformation period, Dilan 1997 follows Dilan, a charismatic university student at the Institut Teknologi Bandung (ITB) who returns home in March 1997 following a six-month stay in Cuba. Stepping into an environment rife with growing civil unrest, economic uncertainty, and anti-regime student activism, Dilan undergoes a profound personal evolution. Away from the nostalgia of his high school days, he must navigate the harsh realities of early adulthood while caught between political ideals and intense romantic dilemmas. The story delivers a poignant mix of youth culture, political drama, and heartfelt romance, exploring how national upheaval shapes individual destiny.",
+    "keywords": [
+      "1990s setting",
+      "reformation era",
+      "indonesian history",
+      "political tension",
+      "university life",
+      "student activist",
+      "returning home",
+      "coming of age",
+      "cuba returnee",
+      "historical romance",
+      "political turmoil",
+      "youth rebellion",
+      "nostalgia",
+      "social change",
+      "dramedy"
+    ],
+    "themes": [
+      {
+        "theme": "Political Unrest & Reformation",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Identity & Belonging",
+        "confidence": 0.85
+      },
+      {
+        "theme": "Youth & Rebellion",
+        "confidence": 0.8
+      },
+      {
+        "theme": "Survival & Uncertainty",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Nostalgic",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Romance",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Dramatic",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "The socio-political turmoil reaches a peak, forcing critical confrontations and decisions that alter the trajectory of Dilan's personal connections and future.",
+      "conflict": "Personal relationships and ideals clash against the background of escalating political tension and social unrest in Indonesia leading up to the Reformation movement.",
+      "resolution": "The narrative deals with the aftermath of the crisis, outlining how Dilan and those around him adapt to the changed world and face their next chapters.",
+      "introduction": "Dilan returns to Indonesia from Cuba in early 1997 as a college student at ITB, stepping back into a rapidly changing social landscape during a pivotal historical period.",
+      "risingAction": "As political pressures intensify on and off campus, Dilan faces mounting choices between his personal life, student activism, and the growing national crisis surrounding him."
+    },
+    "characters": [
+      {
+        "name": "Dilan",
+        "role": "Hero",
+        "description": "An ITB student returning from Cuba who navigates personal relationships and political tension during the 1997-1998 Indonesian Reformation."
+      },
+      {
+        "name": "Ancika Mehrunisa Rabu",
+        "role": "Supporting Character",
+        "description": "Dilan's pragmatic and independent partner during his college years who supports him through personal changes."
+      },
+      {
+        "name": "Milea Adnan Hussain",
+        "role": "Supporting Character",
+        "description": "Dilan's past high school love whose sudden reappearance forces him to confront unresolved feelings."
+      },
+      {
+        "name": "Irwan",
+        "role": "Supporting Character",
+        "description": "Dilan's peer and fellow activist who participates in the student political movement leading up to the Reformation."
+      },
+      {
+        "name": "Nunu",
+        "role": "Supporting Character",
+        "description": "A college associate involved in Dilan's campus network and social circle."
+      },
+      {
+        "name": "Dani",
+        "role": "Comic Relief",
+        "description": "A close friend who brings lighthearted moments and humorous banter into Dilan's college life."
+      },
+      {
+        "name": "Bundahara (Dilan's Mother)",
+        "role": "Mentor",
+        "description": "Dilan's caring mother who offers emotional guidance and steady family support through turbulent times."
+      },
+      {
+        "name": "Mang Anwar",
+        "role": "Comic Relief",
+        "description": "A neighborhood acquaintance known for his eccentric behavior and comic timing."
+      },
+      {
+        "name": "Mas Herdi",
+        "role": "Other",
+        "description": "Milea's adult partner whose presence creates complex dynamics with Dilan's past."
+      },
+      {
+        "name": "Papa Ancika",
+        "role": "Supporting Character",
+        "description": "Ancika's father who interacts with Dilan as he integrates into Ancika's family life."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dilan",
+        "target": "Milea",
+        "description": "Ex-Lover / Former Girlfriend"
+      },
+      {
+        "source": "Dilan",
+        "target": "Anhar",
+        "description": "Friend / Former High School Gang Member"
+      },
+      {
+        "source": "Dilan",
+        "target": "Akew",
+        "description": "Best Friend"
+      },
+      {
+        "source": "Dilan",
+        "target": "Bunda (Makarim)",
+        "description": "Mother / Son"
+      },
+      {
+        "source": "Dilan",
+        "target": "Piyan",
+        "description": "Close Friend / High School Classmate"
+      }
+    ],
+    "seo": {
+      "slug": "dilan-1997",
+      "jsonLd": {
+        "name": "Dilan 1997",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "inLanguage": "id",
+        "description": "Dilan is an ITB student who returned from Cuba in March 1997. In the midst of the heated political situation leading up to the Reformation."
+      },
+      "keywords": [
+        "Dilan 1997",
+        "Dilan 1997 movie",
+        "Dilan film",
+        "ITB student Dilan",
+        "Indonesian cinema 1997 Reformation"
+      ],
+      "canonical": "[https://movnix.com/movie/dilan-1997](https://movnix.com/movie/dilan-1997)",
+      "metaTitle": "Dilan 1997 Movie - Overview, Plot & Details",
+      "openGraph": {
+        "og:title": "Dilan 1997 Movie",
+        "og:description": "Dilan, an ITB student returning from Cuba in March 1997, navigates life during the turbulent prelude to Indonesia's Reformation."
+      },
+      "twitterCard": {
+        "twitter:title": "Dilan 1997 Movie",
+        "twitter:description": "Dilan, an ITB student returning from Cuba in March 1997, navigates life during the turbulent prelude to Indonesia's Reformation."
+      },
+      "metaDescription": "Follow Dilan, an ITB student returning from Cuba in March 1997 amidst Indonesia's turbulent political Reformation era."
+    },
+    "faq": [
+      {
+        "answer": "Yes, it is part of the popular Indonesian 'Dilan' media franchise created by Pidi Baiq, following earlier installments such as Dilan 1990, Dilan 1991, Milea: Suara dari Dilan, and Ancika 1995.",
+        "question": "Is Dilan 1997 part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are romantic drama and coming-of-age historical drama, blending personal relationship turmoil with political developments.",
+        "question": "What is the dominant genre of Dilan 1997?"
+      },
+      {
+        "answer": "The story follows Dilan as an ITB student returning from Cuba to Bandung, Indonesia, in March 1997 amidst the rising political unrest leading up to the 1998 Reformation movement.",
+        "question": "What is the main plot setting of Dilan 1997?"
+      },
+      {
+        "answer": "No, standard theatrical releases of the film do not feature a major post-credit scene, though the credits include thematic musical accompaniments and archival visuals.",
+        "question": "Is there a post-credit scene in Dilan 1997?"
+      },
+      {
+        "answer": "Yes, the film is an adaptation of the novel written by Pidi Baiq continuing the life story of the character Dilan.",
+        "question": "Is Dilan 1997 based on a novel?"
+      },
+      {
+        "answer": "The film is directed by Indonesian filmmaker Fajar Bustomi, who also directed previous entries in the Dilan film series.",
+        "question": "Who directs Dilan 1997?"
+      },
+      {
+        "answer": "The movie carries a mild teen/adult rating (such as PG-13 / R13 depending on the regional board) due to historical political themes, protests, and romantic drama elements.",
+        "question": "Is Dilan 1997 suitable for all audiences?"
+      },
+      {
+        "answer": "The backdrop features the late 1990s student activism, political tension, and social atmosphere in Indonesia right before the 1998 Reformation.",
+        "question": "What historical backdrop plays a major role in the movie?"
+      },
+      {
+        "answer": "While the movie introduces new elements of Dilan's college life and political involvement, watching the previous entries helps provide context for his backstory, character development, and past relationships.",
+        "question": "Do I need to watch previous Dilan movies to understand Dilan 1997?"
+      },
+      {
+        "answer": "Following its initial theatrical window, the movie is accessible on major digital streaming platforms such as Netflix in select territories.",
+        "question": "Where can Dilan 1997 be streamed or watched?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements present."
+      },
+      "language": {
+        "score": 2,
+        "description": "Possible mild realistic dialogue or youth slang."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Potential for political unrest and protest violence related to the 1997 Reformation era events."
+      },
+      "substance": {
+        "score": 2,
+        "description": "Depictions of social smoking or casual alcohol consumption typical of university student settings."
+      },
+      "sexualContent": {
+        "score": 1,
+        "description": "Minimal to no sexual content expected beyond mild romantic themes."
+      },
+      "emotionalIntensity": {
+        "score": 5,
+        "description": "Moderate emotional intensity driven by political turmoil, personal relationships, and historical events."
+      }
+    },
+    "movie_dna": {
+      "drama": 8,
+      "action": 3,
+      "comedy": 4,
+      "emotion": 8,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 9,
+      "science": 0,
+      "suspense": 4,
+      "violence": 2
+    },
+    "created_at": "2026-08-31 23:10:10.208514",
+    "updated_at": "2026-08-31 23:10:10.208514"
+  }
 }
