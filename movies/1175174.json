@@ -8,11 +8,11 @@
     "releaseDate": "2025-12-05",
     "runtime": 97,
     "budget": null,
-    "revenue": null,
+    "revenue": "4862325",
     "status": "Released",
-    "popularity": 3.9081,
-    "voteAverage": 6.683,
-    "voteCount": 186,
+    "popularity": 5.9081,
+    "voteAverage": 6.7,
+    "voteCount": 203,
     "homepage": "https://bleeckerstreetmedia.com/fackham-hall",
     "posterPath": "/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
     "backdropPath": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
@@ -291,6 +291,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/Zrk8LVIVwZZeWrNqrXWxNbkFIz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/bwQOW1DWTZKMwQzZPfPx8ICHaWX.jpg",
       "width": 2000,
       "height": 3000,
@@ -420,6 +427,13 @@
       "filePath": "/wM7io2NRLY5FwPaQlu20Raku6TL.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/tet06w1TAjwlix9vfQCzdYGKOtc.jpg",
+      "width": 1024,
+      "height": 1536,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -819,13 +833,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.683,
-      "votesCount": 186
+      "ratingValue": 6.7,
+      "votesCount": 203
     },
     {
       "source": "imdb",
       "ratingValue": 6.4,
       "votesCount": 2452
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 74,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -979,18 +998,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 963336,
-      "name": "Kris Thykier",
-      "profilePath": "/xpOiTmVBYRnQmqH0aiXi1wPUsiT.jpg",
+      "tmdbPersonId": 1403457,
+      "name": "Danny Perkins",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 1403457,
-      "name": "Danny Perkins",
-      "profilePath": null,
+      "tmdbPersonId": 963336,
+      "name": "Kris Thykier",
+      "profilePath": "/xpOiTmVBYRnQmqH0aiXi1wPUsiT.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1063,7 +1082,7 @@
   "alternativeTitles": [],
   "externalIds": {
     "imdbId": "tt29008225",
-    "wikidataId": null,
+    "wikidataId": "Q126004530",
     "facebookId": null,
     "instagramId": null,
     "twitterId": null
@@ -1077,37 +1096,33 @@
       "flatrate": [
         {
           "name": "HBO Max Amazon Channel",
-          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
-        },
-        {
-          "name": "YouTube TV",
-          "logo": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
         },
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
