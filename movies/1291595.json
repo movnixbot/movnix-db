@@ -8,11 +8,11 @@
     "releaseDate": "2026-08-19",
     "runtime": 106,
     "budget": "18000000",
-    "revenue": "115144947",
+    "revenue": "139204759",
     "status": "Released",
-    "popularity": 58.308,
-    "voteAverage": 6.529,
-    "voteCount": 106,
+    "popularity": 56.1565,
+    "voteAverage": 6.491,
+    "voteCount": 116,
     "homepage": "https://insidious.movie/",
     "posterPath": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
     "backdropPath": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
@@ -539,13 +539,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/vvfDx4wp9jOfW08KuHI7pNVqXLD.jpg",
-      "width": 1290,
-      "height": 1935,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/yBqyJlKMgbmIcTKVLCgtAYBQx6Z.jpg",
       "width": 1105,
       "height": 1657,
@@ -921,13 +914,6 @@
       "width": 1250,
       "height": 1853,
       "aspectRatio": 0.675,
-      "type": "poster"
-    },
-    {
-      "filePath": "/3sf5Zw9Mna1cb1YP5qEf6PrdGuS.jpg",
-      "width": 1232,
-      "height": 1853,
-      "aspectRatio": 0.665,
       "type": "poster"
     },
     {
@@ -1375,13 +1361,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.529,
-      "votesCount": 106
+      "ratingValue": 6.491,
+      "votesCount": 116
     },
     {
       "source": "imdb",
       "ratingValue": 6.3,
       "votesCount": 1433
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 58,
+      "votesCount": null
     },
     {
       "source": "crawled",

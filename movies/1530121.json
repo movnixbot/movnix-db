@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.8144,
-    "voteAverage": 5,
-    "voteCount": 1,
+    "popularity": 16.2816,
+    "voteAverage": 8.167,
+    "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1530121",
-    "posterPath": "/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
+    "posterPath": "/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
     "backdropPath": "/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
     "collectionId": null
   },
@@ -71,7 +71,7 @@
   ],
   "images": [
     {
-      "filePath": "/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
+      "filePath": "/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -85,6 +85,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
       "width": 1000,
       "height": 1500,
@@ -95,6 +102,48 @@
       "filePath": "/uFsyF2WSi7LFt00a8AptyBxbNQy.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/82ZV1Fyz8WRzAy9vgk2jnIWTgS9.jpg",
+      "width": 1013,
+      "height": 1500,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9cAocTUywHIVv8m590GYDTFNweg.jpg",
+      "width": 1024,
+      "height": 1535,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9C6Cm5NYcZzYVV4zhVBvhcUxuQJ.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7l7Tx565l9tnBTWXniPfnJF20k7.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/Athmtx06Un1OUWF33IVWExTPs6X.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/mCSkfY68IWDzZPoe2FcmXpVAUD6.jpg",
+      "width": 2000,
+      "height": 3000,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -160,13 +209,25 @@
       "height": 1600,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wNS7EVjSRlE2ttK1TUP1lrjxzEQ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5,
-      "votesCount": 1
+      "ratingValue": 8.167,
+      "votesCount": 6
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 4,
+      "votesCount": 193
     },
     {
       "source": "crawled",
@@ -179,7 +240,7 @@
       "tmdbPersonId": 11825,
       "name": "Maggie Grace",
       "profilePath": "/fEZSGno4ooPgFjuGzE7ogsWEHsh.jpg",
-      "character": null,
+      "character": "Amelia Pembrock",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -188,7 +249,7 @@
       "tmdbPersonId": 50398,
       "name": "Devon Sawa",
       "profilePath": "/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg",
-      "character": null,
+      "character": "Alan Kramer",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -197,7 +258,7 @@
       "tmdbPersonId": 1230868,
       "name": "Tiffany Haddish",
       "profilePath": "/pvAYqQD4LXavzDkBqCrC4IgVBur.jpg",
-      "character": null,
+      "character": "Captain Graysmith",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -206,7 +267,7 @@
       "tmdbPersonId": 2877,
       "name": "Ralph Macchio",
       "profilePath": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg",
-      "character": null,
+      "character": "Colin Ripley",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -219,6 +280,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 4
+    },
+    {
+      "tmdbPersonId": 2813662,
+      "name": "Sarah Murphree",
+      "profilePath": "/pZT6Xi9IW1N0rs09ht4eqo4GDUB.jpg",
+      "character": "Julie Trembley",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
     },
     {
       "tmdbPersonId": 2414296,
@@ -272,7 +342,28 @@
     },
     "us": {
       "flatrate": [],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+        }
+      ]
     }
   },
   "reviews": [],
