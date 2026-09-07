@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 3.1102,
+    "popularity": 5.5265,
     "voteAverage": 5.3,
     "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1135582",
@@ -253,6 +253,11 @@
       "source": "tmdb",
       "ratingValue": 5.3,
       "votesCount": 3
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 83,
+      "votesCount": null
     },
     {
       "source": "crawled",
