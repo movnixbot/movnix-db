@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 14.8391,
+    "popularity": 16.1615,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/82106490",
@@ -239,6 +239,16 @@
   ],
   "ratings": [
     {
+      "source": "imdb",
+      "ratingValue": 7.7,
+      "votesCount": 23
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 100,
+      "votesCount": null
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -249,7 +259,7 @@
       "tmdbPersonId": 20737,
       "name": "Jeon Do-yeon",
       "profilePath": "/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg",
-      "character": "Mi-ok",
+      "character": "Ahn Mi-ok",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -258,7 +268,7 @@
       "tmdbPersonId": 85008,
       "name": "Sul Kyung-gu",
       "profilePath": "/teD7AMzfNl4qhQO2b6MAWwLtPVn.jpg",
-      "character": "Ho-seok",
+      "character": "Choi Ho-seok",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -276,7 +286,7 @@
       "tmdbPersonId": 556435,
       "name": "Cho Yeo-jeong",
       "profilePath": "/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg",
-      "character": "Ye-ji",
+      "character": "Lee Ye-ji",
       "job": "Actor",
       "department": "Acting",
       "order": 3
@@ -285,7 +295,7 @@
       "tmdbPersonId": 2359937,
       "name": "Jo Yuri",
       "profilePath": "/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg",
-      "character": null,
+      "character": "Young Mi-ok",
       "job": "Actor",
       "department": "Acting",
       "order": 4

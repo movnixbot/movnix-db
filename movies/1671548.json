@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 16.782,
-    "voteAverage": 8.833,
-    "voteCount": 57,
+    "popularity": 19.7643,
+    "voteAverage": 8.875,
+    "voteCount": 60,
     "homepage": "https://mock-movie-website.com/movies/1671548",
     "posterPath": "/rjmhzdVS3Ia535pFawju857e2Na.jpg",
     "backdropPath": "/AwmlL79nKTcX5tzAhyoV298xXlz.jpg",
@@ -48,6 +48,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "\"1960\" Clip",
+      "key": "30SINcHhW5Q",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
     {
       "name": "Official US Trailer [Subtitled]",
       "key": "abeSQSbNXSk",
@@ -180,6 +187,13 @@
       "filePath": "/eZZYdHLqpEJNNJC7OqKnaLhUtpw.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3NLw65PCSlk0tLEiDVEVj4IFgxx.jpg",
+      "width": 770,
+      "height": 1155,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -355,13 +369,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.833,
-      "votesCount": 57
+      "ratingValue": 8.875,
+      "votesCount": 60
     },
     {
       "source": "imdb",
       "ratingValue": 8.6,
       "votesCount": 351
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 89,
+      "votesCount": null
     },
     {
       "source": "crawled",
