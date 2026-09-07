@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.4904,
-    "voteAverage": 1.8,
-    "voteCount": 2,
+    "popularity": 8.4152,
+    "voteAverage": 5.75,
+    "voteCount": 6,
     "homepage": "https://mock-movie-website.com/movies/1353926",
     "posterPath": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-    "backdropPath": "/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+    "backdropPath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -56,7 +56,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+      "filePath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -131,13 +131,20 @@
       "height": 1214,
       "aspectRatio": 1.779,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 1.8,
-      "votesCount": 2
+      "ratingValue": 5.75,
+      "votesCount": 6
     },
     {
       "source": "crawled",
@@ -278,6 +285,11 @@
       "iso_3166_1": "CN",
       "title": "乌合之众‎",
       "type": ""
+    },
+    {
+      "iso_3166_1": "US",
+      "title": "Keep Real",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -323,5 +335,205 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1353926/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1353926,
+    "hash": "21b7070d5f0840c2f68f153735daff33b75566b2c02afff8b4bb4a956bda9c06",
+    "summary_one_sentence": "Decades after defeating an alien invasion, a legendary hero struggles to assemble a new combat team in a peaceful town where local customs and social dynamics prove harder to navigate than extraterrestrial threats.",
+    "summary_short": "Thirty years after leading the Super Ying Association to a decisive victory over invading aliens, Superman Wang Changhai receives a new assignment. He is sent back to his hometown in Rheinland to form an elite combat squad. However, the town has enjoyed decades of peace, making the locals immune to urgency and heavily reliant on traditional social courtesies. Wang quickly realizes that maneuvering through human relationships, bureaucracy, and small-town politics presents a far greater obstacle to his mission than any alien invasion ever did.",
+    "summary_long": "Thirty years ago, Earth faced an existential alien threat that was ultimately squashed by the Super Ying Association, led by the renowned hero Wang Changhai. Following decades of peace, central authorities decide it is time to establish a new specialized combat squad to ensure long-term security, appointing Wang to lead the initiative. He is dispatched to his quiet hometown of Rheinland, a place that has long forgotten the horrors of war and embraced a slow, tranquil way of life. Expecting to easily recruit and train a disciplined unit, Wang is instead confronted with a web of deeply ingrained social expectations, local favors, and interpersonal drama. The townspeople prioritize harmony, personal ties, and traditional courtesies over military rigor, treating his urgent task as an unnecessary disturbance. Every attempt Wang makes to enforce order or initiate training is met with humorous misunderstandings, passive resistance, and bureaucratic delays. As tension mounts between his strict military duty and the relaxed rhythm of small-town culture, Wang finds himself completely overwhelmed. To succeed, he must learn to navigate the subtle rules of human relationships without losing sight of his original objective.",
+    "synopsis": "Keep Real follows former superhero leader Wang Changhai, who famously saved the world from an alien threat thirty years prior with the Super Ying Association. Assigned to establish a new combat squad in his peaceful hometown of Rheinland, Wang anticipates a straightforward tactical mission. Instead, he finds himself pitted against the subtle complexities of small-town social etiquette, local politics, and human sentiment. Blending comedy, sci-fi, and drama, the narrative explores the clash between a disciplined hero's sense of duty and the charming, yet frustratingly relaxed lifestyle of a community that has known peace for decades.",
+    "keywords": [
+      "superhero retired",
+      "small town politics",
+      "alien invasion aftermath",
+      "reluctant hero",
+      "social obligations",
+      "bureaucratic comedy",
+      "sci-fi drama",
+      "hometown return",
+      "squad building",
+      "culture clash",
+      "everyday absurdism",
+      "former savior"
+    ],
+    "themes": [
+      {
+        "theme": "Duty vs. Personal Relationships",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Post-War Readjustment",
+        "confidence": 0.88
+      },
+      {
+        "theme": "Small-Town Dynamics and Social Expectations",
+        "confidence": 0.82
+      },
+      {
+        "theme": "Heroic Responsibility",
+        "confidence": 0.75
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Comedic",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Lighthearted",
+        "confidence": 0.8
+      },
+      {
+        "mood": "Satirical",
+        "confidence": 0.75
+      }
+    ],
+    "story_structure": {
+      "climax": "A central tension peaks when Wang Changhai must address a pressing threat or mission deadline while navigating a massive deadlock created by local community loyalties and social obligations.",
+      "conflict": "Upon his arrival, Wang Changhai finds that his rigid operational mission is constantly stymied by complex local social customs, human courtesies, and personal favors unique to the town.",
+      "resolution": "Wang Changhai learns to reconcile his strict hero protocol with the nuanced realities of human relationships, successfully forging a team adapted to the town's unique environment.",
+      "introduction": "Thirty years after leading the Super Ying Association to defeat aliens, legendary veteran Wang Changhai is appointed to return to his peaceful hometown of Rheinland to establish a new combat squad.",
+      "risingAction": "As he attempts to recruit and organize squad members, everyday town politics and interpersonal dynamics generate escalating friction, turning routine tasks into layers of social obstacles."
+    },
+    "characters": [
+      {
+        "name": "Wang Changhai",
+        "role": "Hero",
+        "description": "A veteran superhero taskforce leader appointed to establish a combat squad in Rheinland, who finds himself struggling against local social complexities and human politeness."
+      },
+      {
+        "name": "Comic Relief",
+        "role": "Comic Relief",
+        "description": "Townsfolk and local squad members of Rheinland whose well-meaning social customs and pleasantries inadvertently derail and complicate Wang's serious military mission."
+      },
+      {
+        "name": "Rheinland Local Authority / Elders",
+        "role": "Supporting Character",
+        "description": "The community figures and residents in Rheinland whose hospitality and intricate social etiquette create passive obstacles for the combat squad."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Wang Changhai",
+        "target": "Super Ying Association",
+        "description": "Leader / Founder"
+      },
+      {
+        "source": "Wang Changhai",
+        "target": "Townspeople of Rheinland",
+        "description": "Hometown Commander / Local Community"
+      }
+    ],
+    "seo": {
+      "slug": "keep-real",
+      "jsonLd": {
+        "name": "Keep Real",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Thirty years ago, the Super Ying Association led by Superman Wang Changhai crushed the aliens. Years later, Wang Changhai was appointed to return to his hometown to set up a combat squad, but in the town of Rheinland, which had been peaceful for many years, human feelings and courtesies have left Wang Changhai overwhelmed, creating layers of obstacles to Wang's ability to complete his mission."
+      },
+      "keywords": [
+        "Keep Real movie",
+        "Super Ying Association",
+        "Wang Changhai",
+        "Keep Real synopsis",
+        "alien combat movie",
+        "Rheinland town movie"
+      ],
+      "canonical": "[https://movnix.com/movie/keep-real](https://movnix.com/movie/keep-real)",
+      "metaTitle": "Keep Real - Movie Overview, Plot & Details | Movnix",
+      "openGraph": {
+        "og:title": "Keep Real - Official Movie Overview",
+        "og:description": "Super Ying Association leader Wang Changhai faces new challenges returning home to set up an alien combat squad in the town of Rheinland."
+      },
+      "twitterCard": {
+        "twitter:title": "Keep Real - Official Movie Overview",
+        "twitter:description": "Super Ying Association leader Wang Changhai faces new challenges returning home to set up an alien combat squad in the town of Rheinland."
+      },
+      "metaDescription": "Discover Keep Real: Wang Changhai returns home to form an alien combat squad, but small-town customs and relationships pose unexpected obstacles."
+    },
+    "faq": [
+      {
+        "answer": "The story follows Superman Wang Changhai, former leader of the Super Ying Association, who returns to his hometown of Rheinland thirty years after defeating an alien invasion. Tasked with forming a new combat squad, he finds himself overwhelmed by local social obligations, human feelings, and town courtesies, which severely hinder his mission.",
+        "question": "What is \"Keep Real\" about?"
+      },
+      {
+        "answer": "Currently, \"Keep Real\" is presented as a standalone title centered on Wang Changhai's journey and his struggles with adapting to town life after his past heroics.",
+        "question": "Is \"Keep Real\" part of a franchise?"
+      },
+      {
+        "answer": "The dominant genres are sci-fi comedy and action-drama, blending superhero and alien invasion tropes with relatable, slice-of-life humor surrounding community relationships and social dynamics.",
+        "question": "What is the dominant genre of \"Keep Real\"?"
+      },
+      {
+        "answer": "The main protagonist is Wang Changhai, the leader of the legendary Super Ying Association, who previously led humanity's defense against aliens.",
+        "question": "Who is the main protagonist in \"Keep Real\"?"
+      },
+      {
+        "answer": "Specific post-credit details vary by release, but audiences are encouraged to stick around as titles in the sci-fi superhero genre often include a short mid- or post-credit teaser hinting at future developments.",
+        "question": "Is there a post-credit scene in \"Keep Real\"?"
+      },
+      {
+        "answer": "The primary setting is the peaceful town of Rheinland, Wang Changhai's long-abandoned hometown, where local social customs present unexpected challenges.",
+        "question": "Where does the story take place?"
+      },
+      {
+        "answer": "Rather than a cosmic threat, Wang Changhai's biggest obstacle is navigating local human feelings, social courtesies, and personal relationships in Rheinland, which constantly distract him from setting up his combat squad.",
+        "question": "What is the primary obstacle Wang Changhai faces in the movie?"
+      },
+      {
+        "answer": "Thirty years prior to the main story, aliens attempted to invade Earth but were thoroughly crushed by the Super Ying Association under Wang Changhai's leadership.",
+        "question": "What role do aliens play in the backstory of \"Keep Real\"?"
+      },
+      {
+        "answer": "The tone mixes lighthearted, humorous situations derived from local town politics and awkward social obligations with the serious underlying threat of assembling a military squad.",
+        "question": "What is the tone of \"Keep Real\"?"
+      },
+      {
+        "answer": "Fans of superhero comedies, slice-of-life stories with unusual protagonists, and sci-fi action fans who appreciate a character-driven narrative centered on homecomings and social friction will enjoy this title.",
+        "question": "Who would enjoy watching \"Keep Real\"?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 2,
+        "description": "Mild potential for eerie or foreign alien elements, but overall focuses more on community and administrative challenges."
+      },
+      "language": {
+        "score": 1,
+        "description": "No strong language indicated in the premise."
+      },
+      "violence": {
+        "score": 4,
+        "description": "Mentions past alien combat and setting up a combat squad, implying moderate action-oriented violence without graphic detail."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Possible mild social drinking or tobacco use in a small-town setting, but no direct references."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content depicted or suggested."
+      },
+      "emotionalIntensity": {
+        "score": 3,
+        "description": "Mild emotional tension revolving around local social dynamics, interpersonal obligations, and military duty friction."
+      }
+    },
+    "movie_dna": {
+      "drama": 7,
+      "action": 6,
+      "comedy": 6,
+      "emotion": 6,
+      "fantasy": 2,
+      "mystery": 3,
+      "romance": 1,
+      "science": 7,
+      "suspense": 4,
+      "violence": 5
+    },
+    "created_at": "2026-08-01 22:01:46.723694",
+    "updated_at": "2026-08-01 22:01:46.723694"
+  }
 }

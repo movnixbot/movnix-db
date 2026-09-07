@@ -10,14 +10,13 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 7.4545,
+    "popularity": 8.5566,
     "voteAverage": 7,
     "voteCount": 4,
     "homepage": "https://mock-movie-website.com/movies/1423253",
-    "posterPath": "/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
+    "posterPath": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
     "backdropPath": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
-    "collectionId": null,
-    "certification": "U/A 16+"
+    "collectionId": null
   },
   "collection": null,
   "genres": [
@@ -55,7 +54,7 @@
   "keywords": [],
   "videos": [
     {
-      "name": "Korean Kanakaraju | Official Trailer | Varun Tej | Satya | Merlapaka Gandhi | Netflix India",
+      "name": "Official Trailer [Subtitled]",
       "key": "kq0X2owCVKw",
       "site": "YouTube",
       "size": 2160,
@@ -64,7 +63,7 @@
   ],
   "images": [
     {
-      "filePath": "/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
+      "filePath": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -76,6 +75,13 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+      "width": 1000,
+      "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
@@ -92,13 +98,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-      "width": 1000,
-      "height": 1500,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/8BHX1dzhaH3P14n3Wl1037ExcKv.jpg",
       "width": 1000,
       "height": 1500,
@@ -109,6 +108,13 @@
       "filePath": "/su2pCp3z9tNfufl8ovUVzwqewbJ.jpg",
       "width": 1000,
       "height": 1500,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4sKTTPtNkexqpZxP7byrZu3v6zN.jpg",
+      "width": 600,
+      "height": 900,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -282,11 +288,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+        }
+      ],
       "buy": []
     }
   },
