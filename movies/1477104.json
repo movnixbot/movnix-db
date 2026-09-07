@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Post Production",
-    "popularity": 5.037,
+    "popularity": 5.9664,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.sky.com/watch/shaun-the-sheep-the-beast-of-mossy-bottom",
@@ -36,12 +36,16 @@
       "name": "Comedy"
     },
     {
-      "tmdbId": 878,
-      "name": "Science Fiction"
-    },
-    {
       "tmdbId": 10751,
       "name": "Family"
+    },
+    {
+      "tmdbId": 12,
+      "name": "Adventure"
+    },
+    {
+      "tmdbId": 27,
+      "name": "Horror"
     },
     {
       "tmdbId": 1,
@@ -155,6 +159,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/w442vP2SeAJFiy5fHcdxWFe6AKA.jpg",
+      "width": 2000,
+      "height": 2815,
+      "aspectRatio": 0.71,
       "type": "poster"
     },
     {
@@ -291,6 +302,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/yHshLVr2gHVuOcpSebxmesoVqiO.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/iUFQd0mzDOUCsc8qVwUcNhFIe2P.jpg",
       "width": 1920,
       "height": 1080,
@@ -299,13 +317,6 @@
     },
     {
       "filePath": "/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
-      "width": 1920,
-      "height": 1080,
-      "aspectRatio": 1.778,
-      "type": "backdrop"
-    },
-    {
-      "filePath": "/yBty9IhUUarPFqOf7Nd9CQUW49v.jpg",
       "width": 1920,
       "height": 1080,
       "aspectRatio": 1.778,
@@ -329,6 +340,13 @@
       "filePath": "/eILyBxBJfN0DmMc077Cq5svbnT6.jpg",
       "width": 2560,
       "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/yBty9IhUUarPFqOf7Nd9CQUW49v.jpg",
+      "width": 1920,
+      "height": 1080,
       "aspectRatio": 1.778,
       "type": "backdrop"
     },
@@ -660,6 +678,13 @@
       "height": 1111,
       "aspectRatio": 1.779,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/5FRDXunEVmmUHlGpnmbWYMr44ub.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -793,7 +818,7 @@
   ],
   "externalIds": {
     "imdbId": "tt36841161",
-    "wikidataId": null,
+    "wikidataId": "Q134694705",
     "facebookId": "shaunthesheepm",
     "instagramId": "shaunthesheep",
     "twitterId": "shaunthesheep"
