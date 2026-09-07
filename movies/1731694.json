@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 49.5858,
-    "voteAverage": 7.2,
-    "voteCount": 13,
+    "popularity": 60.0394,
+    "voteAverage": 7.222,
+    "voteCount": 18,
     "homepage": "https://www.disneyplus.com/browse/entity-e1234eda-704c-4729-a47e-e8be088bc61f",
     "posterPath": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
     "backdropPath": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
@@ -100,13 +100,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/6hD2CKUFaxUwFmRff2uJmxhPBgG.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/bkk77V9gxasV0mCOxbEIVEqdxzv.jpg",
       "width": 2000,
       "height": 2818,
@@ -129,6 +122,13 @@
     },
     {
       "filePath": "/sIFW5yg3iRNjn831FrPiSPzdqIk.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6hD2CKUFaxUwFmRff2uJmxhPBgG.jpg",
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
@@ -320,8 +320,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.2,
-      "votesCount": 13
+      "ratingValue": 7.222,
+      "votesCount": 18
     },
     {
       "source": "crawled",
@@ -475,7 +475,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "VN",
+      "title": "LEGO Chiến tranh giữa các vì sao: Người Mandalorian",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt43679852",
     "wikidataId": null,
