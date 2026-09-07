@@ -10,12 +10,12 @@
     "budget": "200000000",
     "revenue": null,
     "status": "Post Production",
-    "popularity": 5.2616,
+    "popularity": 5.7144,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://www.netflix.com/title/82054606",
     "posterPath": "/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
-    "backdropPath": null,
+    "backdropPath": "/2wUHJOhtKdeCF36pRCk34jGGhYP.jpg",
     "collectionId": 1458846
   },
   "collection": {
@@ -89,11 +89,25 @@
       "type": "poster"
     },
     {
+      "filePath": "/2wUHJOhtKdeCF36pRCk34jGGhYP.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
       "width": 715,
       "height": 1073,
       "aspectRatio": 0.666,
       "type": "poster"
+    },
+    {
+      "filePath": "/2wUHJOhtKdeCF36pRCk34jGGhYP.jpg",
+      "width": 2201,
+      "height": 1238,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -152,8 +166,8 @@
     {
       "tmdbPersonId": 27811,
       "name": "Peter Weller",
-      "profilePath": "/3xevrmofgDhXBqV0UzSLOgR3jkk.jpg",
-      "character": null,
+      "profilePath": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg",
+      "character": "Gus Booth",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -216,7 +230,7 @@
       "tmdbPersonId": 75344,
       "name": "Barry Livingston",
       "profilePath": "/3zcKDmYcOv18c4VxIoPqLuQbmen.jpg",
-      "character": null,
+      "character": "Disco Kingpin",
       "job": "Actor",
       "department": "Acting",
       "order": 12
@@ -322,6 +336,11 @@
       "iso_3166_1": "US",
       "title": "The Adventures of Cliff Booth",
       "type": "working title"
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "好莱坞往事2",
+      "type": ""
     }
   ],
   "externalIds": {
