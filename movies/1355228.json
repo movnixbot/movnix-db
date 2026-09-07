@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 37.7956,
-    "voteAverage": 7.5,
-    "voteCount": 1,
+    "popularity": 74.6825,
+    "voteAverage": 4.6,
+    "voteCount": 4,
     "homepage": "https://www.netflix.com/title/81787058",
-    "posterPath": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+    "posterPath": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
     "backdropPath": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
     "collectionId": null,
     "certification": "R"
@@ -53,10 +53,18 @@
     }
   ],
   "keywords": [],
-  "videos": [],
+  "videos": [
+    {
+      "name": "GANDHARI - OFFICIAL TRAILER",
+      "key": "TRyBiPD1bUc",
+      "site": "YouTube",
+      "size": 2160,
+      "type": "Trailer"
+    }
+  ],
   "images": [
     {
-      "filePath": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "filePath": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -136,8 +144,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.5,
-      "votesCount": 1
+      "ratingValue": 4.6,
+      "votesCount": 4
     },
     {
       "source": "crawled",
@@ -283,11 +291,25 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     },
     "us": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+        }
+      ],
       "buy": []
     }
   },

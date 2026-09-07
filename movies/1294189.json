@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "In Production",
-    "popularity": 35.1697,
+    "popularity": 30.8031,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1294189",
@@ -157,6 +157,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/gjZrMBibx3Utty6GUKBHTSnHlZf.jpg",
+      "width": 843,
+      "height": 1264,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
       "width": 3840,
       "height": 2160,
@@ -261,7 +268,7 @@
     {
       "tmdbPersonId": 3141,
       "name": "Marisa Tomei",
-      "profilePath": "/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg",
+      "profilePath": "/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg",
       "character": "Tara",
       "job": "Actor",
       "department": "Acting",
@@ -298,7 +305,7 @@
       "tmdbPersonId": 1562086,
       "name": "Stella Stocker",
       "profilePath": "/ilRVeYRcQrAeHYLMOPPzLzZMJcC.jpg",
-      "character": "Helene",
+      "character": "Helene (voice)",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -367,15 +374,6 @@
       "order": 12
     },
     {
-      "tmdbPersonId": 38576,
-      "name": "Al Corley",
-      "profilePath": "/7FYJ9s23DauPBo11cr81IaAjMEt.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 1416819,
       "name": "Mark Vanselow",
       "profilePath": "/6JujySQUNRPg1k1V0s51wzqZMwd.jpg",
@@ -394,9 +392,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 38577,
-      "name": "Eugene Musso",
-      "profilePath": null,
+      "tmdbPersonId": 38576,
+      "name": "Al Corley",
+      "profilePath": "/7FYJ9s23DauPBo11cr81IaAjMEt.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -405,6 +403,15 @@
     {
       "tmdbPersonId": 38578,
       "name": "Bart Rosenblatt",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 38577,
+      "name": "Eugene Musso",
       "profilePath": null,
       "character": null,
       "job": "Producer",
