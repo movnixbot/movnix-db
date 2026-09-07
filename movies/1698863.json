@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 83.8501,
-    "voteAverage": 4.04,
-    "voteCount": 433,
+    "popularity": 66.9779,
+    "voteAverage": 4.009,
+    "voteCount": 498,
     "homepage": "https://mock-movie-website.com/movies/1698863",
     "posterPath": "/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
     "backdropPath": "/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
@@ -114,6 +114,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/fXgFgtzAohNSwSFfrIDgVZX5FGx.jpg",
+      "width": 750,
+      "height": 1000,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ax81fBFisybfV5syZ6pGaHwCCUB.jpg",
+      "width": 1600,
+      "height": 2400,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
       "width": 2400,
       "height": 1350,
@@ -145,8 +159,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4.04,
-      "votesCount": 433
+      "ratingValue": 4.009,
+      "votesCount": 498
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 1.8,
+      "votesCount": 685
     },
     {
       "source": "crawled",
@@ -293,11 +312,11 @@
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         }
       ]
     }
