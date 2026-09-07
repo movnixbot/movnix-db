@@ -10,13 +10,14 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.8569,
-    "voteAverage": 4,
-    "voteCount": 1,
+    "popularity": 7.5363,
+    "voteAverage": 5,
+    "voteCount": 2,
     "homepage": "https://mock-movie-website.com/movies/1654516",
     "posterPath": "/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
     "backdropPath": "/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
-    "collectionId": null
+    "collectionId": null,
+    "certification": "R"
   },
   "collection": null,
   "genres": [
@@ -108,6 +109,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/dKmCzJ1YDSacWgU93Ais8x8fTLQ.jpg",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "type": "poster"
+    },
+    {
       "filePath": "/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
       "width": 1920,
       "height": 1080,
@@ -132,8 +140,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 4,
-      "votesCount": 1
+      "ratingValue": 5,
+      "votesCount": 2
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6.3,
+      "votesCount": 1289
     },
     {
       "source": "crawled",
@@ -146,7 +159,7 @@
       "tmdbPersonId": 1837688,
       "name": "Nimisha Sajayan",
       "profilePath": "/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg",
-      "character": "Babita Singh",
+      "character": "Babita Singh - Baby",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -218,7 +231,7 @@
       "tmdbPersonId": 4454948,
       "name": "Rajat Dahiya",
       "profilePath": null,
-      "character": "Bharadwaj",
+      "character": "Rupak Bharadwaj",
       "job": "Actor",
       "department": "Acting",
       "order": 8
@@ -245,10 +258,37 @@
       "tmdbPersonId": 3200426,
       "name": "Naval Shukla",
       "profilePath": "/lJAKcetFitMb4PgQAzQniYe9ROe.jpg",
-      "character": "Kishore Shukla",
+      "character": "SHO Prakash Aggarwal",
       "job": "Actor",
       "department": "Acting",
       "order": 11
+    },
+    {
+      "tmdbPersonId": 6460713,
+      "name": "Gaurav Kalushte",
+      "profilePath": null,
+      "character": "Charsi Boy",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 12
+    },
+    {
+      "tmdbPersonId": 4007913,
+      "name": "Alina",
+      "profilePath": null,
+      "character": "Bansi's Daughter",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 13
+    },
+    {
+      "tmdbPersonId": 2058169,
+      "name": "Kuldeep Sareen",
+      "profilePath": null,
+      "character": "Dussehra Contractor",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 2636871,
