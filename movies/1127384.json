@@ -10,9 +10,9 @@
     "budget": "40000000",
     "revenue": "7340233",
     "status": "Released",
-    "popularity": 73.478,
-    "voteAverage": 7.119,
-    "voteCount": 462,
+    "popularity": 84.83,
+    "voteAverage": 7.109,
+    "voteCount": 469,
     "homepage": "https://mock-movie-website.com/movies/1127384",
     "posterPath": "/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
     "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
@@ -453,13 +453,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/y1pDZPgtNItDdJmjZ1Sld0ScmRs.jpg",
-      "width": 1290,
-      "height": 1919,
-      "aspectRatio": 0.672,
-      "type": "poster"
-    },
-    {
       "filePath": "/pjL87XFgpepqh1t4giiKeFINvcU.jpg",
       "width": 500,
       "height": 750,
@@ -540,13 +533,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.119,
-      "votesCount": 462
+      "ratingValue": 7.109,
+      "votesCount": 469
     },
     {
       "source": "imdb",
       "ratingValue": 5.5,
       "votesCount": 7157
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 69,
+      "votesCount": null
     },
     {
       "source": "crawled",
