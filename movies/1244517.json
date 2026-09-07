@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": "243331",
     "status": "Released",
-    "popularity": 4.432,
-    "voteAverage": 6.655,
-    "voteCount": 29,
+    "popularity": 5.2709,
+    "voteAverage": 6.6,
+    "voteCount": 30,
     "homepage": "https://mock-movie-website.com/movies/1244517",
     "posterPath": "/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
     "backdropPath": "/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
@@ -306,8 +306,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.655,
-      "votesCount": 29
+      "ratingValue": 6.6,
+      "votesCount": 30
     },
     {
       "source": "imdb",
@@ -365,7 +365,7 @@
     {
       "tmdbPersonId": 85138,
       "name": "Demi Lovato",
-      "profilePath": "/hPIhEw4uyh7DQYIsbQCmqFmbTmU.jpg",
+      "profilePath": "/t2rk0O0C31ZLpKjmEOQgTQcDcR8.jpg",
       "character": "Nova Gutiérrez",
       "job": "Actor",
       "department": "Acting",
@@ -462,8 +462,26 @@
       "order": 14
     },
     {
+      "tmdbPersonId": 1232390,
+      "name": "Stephanie Laing",
+      "profilePath": "/ocmZQytvotTYezL1NDqbTpx9a3N.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
       "tmdbPersonId": 2889118,
       "name": "Jonathan Keasey",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4534489,
+      "name": "Brent Boivin",
       "profilePath": null,
       "character": null,
       "job": "Writer",
@@ -480,9 +498,9 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1232390,
-      "name": "Stephanie Laing",
-      "profilePath": "/ocmZQytvotTYezL1NDqbTpx9a3N.jpg",
+      "tmdbPersonId": 9827,
+      "name": "Rose Byrne",
+      "profilePath": "/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -493,14 +511,23 @@
       "name": "Stephanie Laing",
       "profilePath": "/ocmZQytvotTYezL1NDqbTpx9a3N.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 9827,
-      "name": "Rose Byrne",
-      "profilePath": "/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg",
+      "tmdbPersonId": 1023141,
+      "name": "Brent Stiefel",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1806079,
+      "name": "Justin Lothrop",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -518,33 +545,6 @@
     {
       "tmdbPersonId": 2901127,
       "name": "Danyelle Foord",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1806079,
-      "name": "Justin Lothrop",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 4534489,
-      "name": "Brent Boivin",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1023141,
-      "name": "Brent Stiefel",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -632,33 +632,33 @@
       "flatrate": [
         {
           "name": "Amazon Prime Video",
-          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
         },
         {
           "name": "Amazon Prime Video with Ads",
-          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
@@ -689,5 +689,223 @@
       "label": "English",
       "url": "https://cdn.jsdelivr.net/gh/movnixbot/movnix-db@main/subtitles/movie/1244517/en.vtt"
     }
-  ]
+  ],
+  "aiEnrichment": {
+    "tmdb_id": 1244517,
+    "hash": "c0bfd924d93e9487d9d9f0ded1fe3cbd1cba13b8d3f2388428e5dbdac33d79f2",
+    "summary_one_sentence": "When her stolen car is impounded, a homeless Seattle woman wages a relentless battle against an indifferent legal system to reclaim her home and dignity.",
+    "summary_short": "Amanda Ogle is a woman living out of her aging Toyota Camry on the streets of Seattle. When her vehicle is stolen and subsequently impounded, her primary shelter and source of stability disappear overnight. Thrust into a labyrinthine legal battle against an unfeeling bureaucracy, Amanda refuses to back down. Her fight to reclaim her car quickly grows into a powerful struggle for personal dignity and systemic reform.",
+    "summary_long": "In the city of Seattle, Amanda Ogle navigates the harsh realities of unhoused life from inside her trusty, aging Toyota Camry. The car serves as her sanctuary, holding her personal belongings and offering a modest sense of security. Tragedy strikes when the vehicle is stolen, but the situation deteriorates further after law enforcement recovers the car and hands it over to a private towing firm. Facing exorbitant impound fees and unyielding administrative hurdles, Amanda finds herself trapped in a system designed to penalize the vulnerable. Rather than surrendering to circumstance, she embarks on an arduous legal crusade against the towing company and municipal regulations. Along the way, she encounters widespread indifference, red tape, and institutional pushback that attempt to diminish her resolve. Despite overwhelming odds, Amanda amplifies her voice to demand accountability from local authorities and legal entities. Her persistent challenge brings light to the predatory practices surrounding impound laws that disproportionately affect those living in poverty. Ultimately, her battle transforms into a widespread symbol of resilience, illustrating how individual determination can confront and expose systemic failure.",
+    "synopsis": "Tow tells the moving story of Amanda Ogle, an unhoused woman whose life revolves around her sole refuge: an aging Toyota Camry parked on the streets of Seattle. When her vehicle is unexpectedly stolen, Amanda's struggle for survival deepens. The situation turns critical once the car is recovered by local authorities and placed into an impound lot, leaving her locked out of her home and burdened by massive, compounding storage fees. As Amanda attempts to retrieve her vehicle through proper channels, she is met with cold bureaucracy and predatory policies that trap vulnerable individuals in endless cycles of debt. Refusing to yield to an unfeeling legal framework, Amanda launches a courageous battle against the tow companies and municipal systems that profit off the marginalized. Tow explores themes of resilience, dignity, and justice, offering an intimate look at one woman's stand against institutional indifference.",
+    "keywords": [
+      "systemic failure",
+      "legal battle",
+      "homelessness",
+      "vehicle residency",
+      "indifferent bureaucracy",
+      "poverty",
+      "underdog story",
+      "seattle",
+      "resilience",
+      "human dignity",
+      "social realism",
+      "one woman vs the system",
+      "impounded car",
+      "stolen vehicle",
+      "bureaucratic nightmare"
+    ],
+    "themes": [
+      {
+        "theme": "Resilience & Survival",
+        "confidence": 0.98
+      },
+      {
+        "theme": "Systemic Injustice",
+        "confidence": 0.95
+      },
+      {
+        "theme": "Human Dignity",
+        "confidence": 0.92
+      }
+    ],
+    "moods": [
+      {
+        "mood": "Relentless",
+        "confidence": 0.95
+      },
+      {
+        "mood": "Melancholy",
+        "confidence": 0.9
+      },
+      {
+        "mood": "Inspiring",
+        "confidence": 0.88
+      },
+      {
+        "mood": "Emotional",
+        "confidence": 0.85
+      },
+      {
+        "mood": "Intense",
+        "confidence": 0.8
+      }
+    ],
+    "story_structure": {
+      "climax": "The fight escalates to a decisive legal showdown where Amanda presents her case against the predatory impoundment system, turning her personal struggle into a broader stand for justice.",
+      "conflict": "When her car is stolen and subsequently impounded, Amanda faces exorbitant fees and an indifferent bureaucratic system just to reclaim her essential home and transport.",
+      "resolution": "Amanda's perseverance exposes the flaws of the system, transforming her ordeal into an inspiring testament to human resilience, self-advocacy, and personal dignity.",
+      "introduction": "Amanda Ogle lives out of her aging Toyota Camry on the streets of Seattle, relying on her vehicle as her primary source of shelter and stability.",
+      "risingAction": "Refusing to back down, Amanda initiates a grueling, relentless legal battle, navigating systemic obstacles and institutional apathy that continuously threaten her dignity."
+    },
+    "characters": [
+      {
+        "name": "Amanda Ogle",
+        "role": "Hero",
+        "description": "A resilient woman living in her car who fights an indifferent legal system to reclaim her vehicle, dignity, and voice."
+      },
+      {
+        "name": "Towing Company / Systemic Opponents",
+        "role": "Villain",
+        "description": "The bureaucratic towing agency and predatory impound system that exploits vulnerable individuals through relentless legal barriers."
+      },
+      {
+        "name": "Legal Counsel / Legal Advocates",
+        "role": "Mentor",
+        "description": "Attorneys and consumer rights advocates who offer guidance and navigate the legal framework alongside Amanda."
+      },
+      {
+        "name": "Friends and Community Allies",
+        "role": "Supporting Character",
+        "description": "Fellow unhoused community members, local allies, and family who provide emotional support and solidarity throughout her struggle."
+      },
+      {
+        "name": "Eccentric Street Acquaintances",
+        "role": "Comic Relief",
+        "description": "Local personalities in Amanda's neighborhood who bring moments of humor, levity, and warmth amidst her legal battle."
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amanda Ogle",
+        "target": "City of Seattle / Legal System",
+        "description": "Litigant vs. Systemic Opponent"
+      },
+      {
+        "source": "Amanda Ogle",
+        "target": "Tow Truck / Impound Company",
+        "description": "Adversaries in Vehicle Reclamation Battle"
+      }
+    ],
+    "seo": {
+      "slug": "tow",
+      "jsonLd": {
+        "url": "[https://movnix.com/movie/tow](https://movnix.com/movie/tow)",
+        "name": "Tow",
+        "@type": "Movie",
+        "@context": "[https://schema.org](https://schema.org)",
+        "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure."
+      },
+      "keywords": [
+        "Tow movie",
+        "Tow film",
+        "Amanda Ogle",
+        "Seattle drama film",
+        "Tow movie synopsis",
+        "indie drama movies"
+      ],
+      "canonical": "[https://movnix.com/movie/tow](https://movnix.com/movie/tow)",
+      "metaTitle": "Tow (Movie) - Synopsis, Details & Systemic Justice Story",
+      "openGraph": {
+        "og:title": "Tow - A Story of Resilience and Systemic Justice",
+        "og:description": "Follow Amanda Ogle's relentless fight against an indifferent legal system after her home on wheels is stolen and impounded."
+      },
+      "twitterCard": {
+        "twitter:title": "Tow - A Story of Resilience and Systemic Justice",
+        "twitter:description": "Follow Amanda Ogle's relentless fight against an indifferent legal system after her home on wheels is stolen and impounded."
+      },
+      "metaDescription": "Discover Tow, a powerful story of resilience following Amanda Ogle's fight against systemic failure after her car is impounded in Seattle."
+    },
+    "faq": [
+      {
+        "answer": "Tow follows Amanda Ogle, a woman living in her aging Toyota Camry in Seattle, as she gets thrust into a relentless legal battle against an indifferent system after her car is stolen and impounded.",
+        "question": "What is the main plot of Tow?"
+      },
+      {
+        "answer": "The dominant genre of Tow is drama, with elements of a legal thriller and character study.",
+        "question": "What is the dominant genre of Tow?"
+      },
+      {
+        "answer": "Yes, the movie is based on the true story of Amanda Ogle and her real-life legal battle over her impounded car.",
+        "question": "Is Tow based on a true story?"
+      },
+      {
+        "answer": "No, Tow is a standalone film and is not part of any cinematic universe or franchise.",
+        "question": "Is Tow part of a franchise?"
+      },
+      {
+        "answer": "No, there is no post-credits scene. The movie ends cleanly after the main story concludes and closing credits roll.",
+        "question": "Is there a post-credits scene in Tow?"
+      },
+      {
+        "answer": "The film takes place primarily in Seattle, Washington, focusing on its streets and legal system.",
+        "question": "Where does the movie Tow take place?"
+      },
+      {
+        "answer": "The main protagonist is Amanda Ogle, a woman fighting for her dignity, rights, and her stolen vehicle.",
+        "question": "Who is the protagonist of the movie?"
+      },
+      {
+        "answer": "The film explores key themes of systemic failure, homelessness, resilience, human dignity, and legal perseverance.",
+        "question": "What are the primary themes explored in Tow?"
+      },
+      {
+        "answer": "Tow is intended for mature audiences, as it deals with grounded, dramatic real-world challenges, housing insecurity, and legal struggles.",
+        "question": "Is Tow appropriate for all ages?"
+      },
+      {
+        "answer": "Her aging Toyota Camry is not just a mode of transportation, but her actual home and last remaining shelter, making its loss a matter of basic survival and dignity.",
+        "question": "What makes Amanda Ogle's car so important to her?"
+      }
+    ],
+    "content_rating": {
+      "horror": {
+        "score": 0,
+        "description": "No horror elements, jumpscares, or supernatural themes present."
+      },
+      "language": {
+        "score": 3,
+        "description": "Potential for mild to moderate profanity given the intense real-world frustration and hardship."
+      },
+      "violence": {
+        "score": 1,
+        "description": "Minimal to no physical violence indicated; focuses primarily on legal and systemic conflict."
+      },
+      "substance": {
+        "score": 1,
+        "description": "Minimal potential substance reference related to unhoused urban life, but none specified."
+      },
+      "sexualContent": {
+        "score": 0,
+        "description": "No sexual content, nudity, or sexual themes indicated."
+      },
+      "emotionalIntensity": {
+        "score": 7,
+        "description": "High emotional intensity focused on homelessness, systemic injustice, poverty, and personal hardship."
+      }
+    },
+    "movie_dna": {
+      "drama": 9,
+      "action": 2,
+      "comedy": 1,
+      "emotion": 9,
+      "fantasy": 0,
+      "mystery": 2,
+      "romance": 0,
+      "science": 0,
+      "suspense": 6,
+      "violence": 2
+    },
+    "created_at": "2026-08-27 08:01:37.373295",
+    "updated_at": "2026-08-27 08:01:37.373295"
+  }
 }
