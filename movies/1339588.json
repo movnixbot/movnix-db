@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 10.1742,
-    "voteAverage": 6.91,
-    "voteCount": 39,
+    "popularity": 12.7934,
+    "voteAverage": 6.965,
+    "voteCount": 43,
     "homepage": "https://mock-movie-website.com/movies/1339588",
     "posterPath": "/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
     "backdropPath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
@@ -56,6 +56,20 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "\"Keep It Casual\" Official Clip",
+      "key": "hA1fv2eVjls",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
+    {
+      "name": "\"Getting To Know You\" Official Clip",
+      "key": "fcAhnmGm07o",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
     {
       "name": "Behind the Scenes of Finding Emily! Cast Discuss the 2000s Rom-Com Throwback",
       "key": "l3RVG4a8xN4",
@@ -374,6 +388,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/egPElljJxenQYhWxm3Fx0e3o4hR.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2ffDEtS9q6459Y21JEVAVNSrx05.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
       "width": 3413,
       "height": 1920,
@@ -463,18 +491,30 @@
       "height": 1440,
       "aspectRatio": 1.78,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/wJMWWKNwqdOcpAGfkvgXEYPqdug.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.91,
-      "votesCount": 39
+      "ratingValue": 6.965,
+      "votesCount": 43
     },
     {
       "source": "imdb",
       "ratingValue": 7.2,
       "votesCount": 939
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 89,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -669,6 +709,11 @@
       "iso_3166_1": "US",
       "title": "CC: Emily",
       "type": "working title"
+    },
+    {
+      "iso_3166_1": "RU",
+      "title": "В поисках Эмили",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -685,12 +730,7 @@
     },
     "us": {
       "flatrate": [],
-      "buy": [
-        {
-          "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
-        }
-      ]
+      "buy": []
     }
   },
   "reviews": [
