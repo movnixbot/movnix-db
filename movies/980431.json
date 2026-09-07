@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 80.5875,
-    "voteAverage": 9.19,
-    "voteCount": 1021,
+    "popularity": 89.9181,
+    "voteAverage": 9.2,
+    "voteCount": 1071,
     "homepage": "https://www.paramountplus.com/movies/video/ALVE01KRF3YJMCEJB92T78193MJ4HP",
     "posterPath": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
@@ -32,16 +32,16 @@
       "name": "Animation"
     },
     {
-      "tmdbId": 28,
-      "name": "Action"
-    },
-    {
       "tmdbId": 12,
       "name": "Adventure"
     },
     {
       "tmdbId": 14,
       "name": "Fantasy"
+    },
+    {
+      "tmdbId": 10751,
+      "name": "Family"
     },
     {
       "tmdbId": 1,
@@ -211,9 +211,9 @@
       "type": "poster"
     },
     {
-      "filePath": "/mm9anPWCdAKQ3abQRIl73cOg5Uh.jpg",
-      "width": 2000,
-      "height": 3000,
+      "filePath": "/88ZbXOMt3WVli9Okhl8BA7TlIOM.jpg",
+      "width": 1000,
+      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -246,6 +246,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/mm9anPWCdAKQ3abQRIl73cOg5Uh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/7U0SvMioSq4EyD6Vw1QGFKGA9vr.jpg",
       "width": 697,
       "height": 1024,
@@ -256,13 +263,6 @@
       "filePath": "/pD8VjQs0sMCglJQHtr9vVfwI65y.jpg",
       "width": 2000,
       "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/88ZbXOMt3WVli9Okhl8BA7TlIOM.jpg",
-      "width": 1000,
-      "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -743,20 +743,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/qM5N3xb6mALnRBfkBpyi0eY1CoO.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
-      "filePath": "/ka0OgPS7m9mphGepjOKt11mhm7g.jpg",
-      "width": 2000,
-      "height": 3000,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "width": 3840,
       "height": 2160,
@@ -1117,8 +1103,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 9.19,
-      "votesCount": 1021
+      "ratingValue": 9.2,
+      "votesCount": 1071
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 90,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -1272,18 +1263,18 @@
       "order": null
     },
     {
-      "tmdbPersonId": 1106862,
-      "name": "Maryann Garger",
-      "profilePath": null,
+      "tmdbPersonId": 936669,
+      "name": "Latifa Ouaou",
+      "profilePath": "/tqH1mKrJoVGcMmlCQpw4vnjyLjE.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
       "order": null
     },
     {
-      "tmdbPersonId": 936669,
-      "name": "Latifa Ouaou",
-      "profilePath": "/tqH1mKrJoVGcMmlCQpw4vnjyLjE.jpg",
+      "tmdbPersonId": 1106862,
+      "name": "Maryann Garger",
+      "profilePath": null,
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -1362,11 +1353,6 @@
       "type": "ქართული (MyKadri)"
     },
     {
-      "iso_3166_1": "IL",
-      "title": "האגדה של אנג: כשף האוויר האחרון",
-      "type": "the working title translated to hebrew"
-    },
-    {
       "iso_3166_1": "BR",
       "title": "Avatar Aang: O Último Mestre do Ar",
       "type": ""
@@ -1398,37 +1384,37 @@
       "flatrate": [
         {
           "name": "Paramount Plus Premium",
-          "logo": "/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+          "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
         },
         {
           "name": "Paramount Plus Essential",
-          "logo": "/5wym1C0jAvJeGirPdgVpcW0CCuy.jpg"
+          "logo": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
         },
         {
           "name": "Paramount+ Amazon Channel",
-          "logo": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
+          "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
         },
         {
           "name": "Paramount+ Roku Premium Channel",
-          "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
+          "logo": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
