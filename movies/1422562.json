@@ -10,9 +10,9 @@
     "budget": "4000000",
     "revenue": "5168044",
     "status": "Released",
-    "popularity": 4.6667,
-    "voteAverage": 6.3,
-    "voteCount": 74,
+    "popularity": 7.7493,
+    "voteAverage": 6.34,
+    "voteCount": 78,
     "homepage": "https://a24films.com/films/the-moment",
     "posterPath": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
     "backdropPath": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
@@ -649,6 +649,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/rcMdd0h92PsDPSHqUDTFgw50aDE.jpg",
+      "width": 959,
+      "height": 1454,
+      "aspectRatio": 0.66,
+      "type": "poster"
+    },
+    {
+      "filePath": "/2hBS63orQUVykIJob9PR7BrliON.jpg",
+      "width": 736,
+      "height": 1104,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
       "width": 3840,
       "height": 2160,
@@ -862,13 +876,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.3,
-      "votesCount": 74
+      "ratingValue": 6.34,
+      "votesCount": 78
     },
     {
       "source": "imdb",
       "ratingValue": 6.1,
       "votesCount": 3960
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 66,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -1092,7 +1111,7 @@
       "flatrate": [
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         }
       ],
       "buy": []
@@ -1101,33 +1120,33 @@
       "flatrate": [
         {
           "name": "HBO Max Amazon Channel",
-          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
         },
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
