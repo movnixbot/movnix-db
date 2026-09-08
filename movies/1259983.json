@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 6.6091,
-    "voteAverage": 6.084,
-    "voteCount": 256,
+    "popularity": 6.4206,
+    "voteAverage": 6.068,
+    "voteCount": 259,
     "homepage": "https://mock-movie-website.com/movies/1259983",
     "posterPath": "/oy9SBxmzL6pG5Lckh9o2Wa1IWBr.jpg",
     "backdropPath": "/omOIzarzHL4srQeLd5oPlzEReuf.jpg",
@@ -98,6 +98,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/qEtLpNXUuR8tmkE8lbj8Z4RVPil.jpg",
+      "width": 1754,
+      "height": 2631,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/gLEnkNw8BTudY3DpKICeqcxgrXV.jpg",
       "width": 2000,
       "height": 3000,
@@ -129,6 +136,13 @@
       "filePath": "/ufdcPu8CdcsC0c73pATNjYXEmMR.jpg",
       "width": 2000,
       "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/qFadWPYJkq4hASAT20macRtax9v.jpg",
+      "width": 1754,
+      "height": 2631,
       "aspectRatio": 0.667,
       "type": "poster"
     },
@@ -196,13 +210,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/qFadWPYJkq4hASAT20macRtax9v.jpg",
-      "width": 1754,
-      "height": 2631,
-      "aspectRatio": 0.667,
-      "type": "poster"
-    },
-    {
       "filePath": "/zvwWy0lW0v6VXyRGHdU0T0yKjl8.jpg",
       "width": 853,
       "height": 1280,
@@ -259,6 +266,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/gBP9AQZFY5FECdttQnFwXtJgj6S.jpg",
+      "width": 853,
+      "height": 1280,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oDQd50z4EnsEjafsPvEGtlRZKbF.jpg",
+      "width": 1944,
+      "height": 2880,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
       "filePath": "/omOIzarzHL4srQeLd5oPlzEReuf.jpg",
       "width": 1920,
       "height": 1078,
@@ -304,8 +325,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.084,
-      "votesCount": 256
+      "ratingValue": 6.068,
+      "votesCount": 259
     },
     {
       "source": "imdb",
@@ -455,21 +476,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1277830,
-      "name": "Jean-Baptiste Delafon",
-      "profilePath": "/8mlzICx2rBMMouU2zHMWgFbcwj.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 225407,
       "name": "Yann Gozlan",
       "profilePath": "/f35QU6c4UYLlO8QaL0aLH1xvq7k.jpg",
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1277830,
+      "name": "Jean-Baptiste Delafon",
+      "profilePath": "/8mlzICx2rBMMouU2zHMWgFbcwj.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
