@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 17.0213,
-    "voteAverage": 6.794,
-    "voteCount": 416,
+    "popularity": 18.1973,
+    "voteAverage": 6.787,
+    "voteCount": 422,
     "homepage": "https://www.netflix.com/title/81715790",
     "posterPath": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
     "backdropPath": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
@@ -551,18 +551,30 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/aWpet99Zl6HUaNsYGt0BwsQWkfO.jpg",
+      "width": 2560,
+      "height": 1440,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.794,
-      "votesCount": 416
+      "ratingValue": 6.787,
+      "votesCount": 422
     },
     {
       "source": "imdb",
       "ratingValue": 5.4,
       "votesCount": 15692
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 17,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -707,21 +719,21 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 2043,
-      "name": "John Davis",
-      "profilePath": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
       "tmdbPersonId": 68843,
       "name": "Jon Hurwitz",
       "profilePath": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
       "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 68844,
+      "name": "Hayden Schlossberg",
+      "profilePath": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -743,21 +755,21 @@
       "order": null
     },
     {
+      "tmdbPersonId": 2043,
+      "name": "John Davis",
+      "profilePath": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 68843,
       "name": "Jon Hurwitz",
       "profilePath": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 68844,
-      "name": "Hayden Schlossberg",
-      "profilePath": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
