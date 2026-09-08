@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "10154377",
     "status": "Released",
-    "popularity": 14.1918,
-    "voteAverage": 6.8,
-    "voteCount": 25,
+    "popularity": 13.3775,
+    "voteAverage": 6.7,
+    "voteCount": 27,
     "homepage": "https://spaweekend.movie/home/",
     "posterPath": "/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
     "backdropPath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
@@ -490,6 +490,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/upWO0b4CIUUl2U7O5C8vntiWn0.jpg",
+      "width": 788,
+      "height": 1182,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
       "width": 1920,
       "height": 1080,
@@ -577,8 +584,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.8,
-      "votesCount": 25
+      "ratingValue": 6.7,
+      "votesCount": 27
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 33,
+      "votesCount": null
     },
     {
       "source": "crawled",
