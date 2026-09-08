@@ -2,23 +2,29 @@
   "movie": {
     "tmdbId": 1739206,
     "imdbId": "tt43700444",
-    "title": "Untold Mr. T: I Pity The Fool",
-    "originalTitle": "Untold Mr. T: I Pity The Fool",
+    "title": "Untold Mr. T: I Pity the Fool",
+    "originalTitle": "Untold Mr. T: I Pity the Fool",
     "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
     "releaseDate": "2026-09-08",
-    "runtime": 139,
+    "runtime": 48,
     "budget": null,
     "revenue": null,
-    "status": "In Production",
-    "popularity": 0.4506,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 1.7264,
+    "voteAverage": 8.667,
+    "voteCount": 3,
     "homepage": "https://mock-movie-website.com/movies/1739206",
     "posterPath": "/zqL5x88i7loWlaCRJIxW0Wy48bB.jpg",
-    "backdropPath": null,
-    "collectionId": null
+    "backdropPath": "/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+    "collectionId": 1745820
   },
-  "collection": null,
+  "collection": {
+    "tmdbId": 1745820,
+    "name": "Untold Collection",
+    "overview": null,
+    "posterPath": null,
+    "backdropPath": null
+  },
   "genres": [
     {
       "tmdbId": 99,
@@ -49,14 +55,33 @@
       "type": "poster"
     },
     {
+      "filePath": "/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/zqL5x88i7loWlaCRJIxW0Wy48bB.jpg",
       "width": 500,
       "height": 750,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+      "width": 1561,
+      "height": 878,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 8.667,
+      "votesCount": 3
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
