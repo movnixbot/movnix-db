@@ -10,9 +10,9 @@
     "budget": "45000000",
     "revenue": "2890908",
     "status": "Released",
-    "popularity": 21.4996,
-    "voteAverage": 7.228,
-    "voteCount": 357,
+    "popularity": 24.2954,
+    "voteAverage": 7.217,
+    "voteCount": 367,
     "homepage": "https://www.fuzefilm.co.uk/",
     "posterPath": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
     "backdropPath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
@@ -735,13 +735,6 @@
       "type": "poster"
     },
     {
-      "filePath": "/65PJUjVatJ8CThw2SGC6rrBspo5.jpg",
-      "width": 1290,
-      "height": 1932,
-      "aspectRatio": 0.668,
-      "type": "poster"
-    },
-    {
       "filePath": "/5h8aT9KI6P1Nmc6CVtgpAPrqKDF.jpg",
       "width": 667,
       "height": 1000,
@@ -753,6 +746,20 @@
       "width": 1024,
       "height": 1536,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1O7oNZLT3UvWMZ2zLoIQ6kIEuXO.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/65PJUjVatJ8CThw2SGC6rrBspo5.jpg",
+      "width": 1290,
+      "height": 1932,
+      "aspectRatio": 0.668,
       "type": "poster"
     },
     {
@@ -1116,8 +1123,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.228,
-      "votesCount": 357
+      "ratingValue": 7.217,
+      "votesCount": 367
     },
     {
       "source": "imdb",
@@ -1272,26 +1279,8 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 3055,
-      "name": "David Mackenzie",
-      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 7583,
       "name": "Gillian Berrie",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2858152,
-      "name": "Sebastien Raybaud",
       "profilePath": null,
       "character": null,
       "job": "Producer",
@@ -1308,12 +1297,21 @@
       "order": null
     },
     {
-      "tmdbPersonId": 72156,
-      "name": "Ben Hopkins",
-      "profilePath": "/aRWnVuS30etQvFonmAQWR82CVLT.jpg",
+      "tmdbPersonId": 2858152,
+      "name": "Sebastien Raybaud",
+      "profilePath": null,
       "character": null,
-      "job": "Screenplay",
-      "department": "Writing",
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3055,
+      "name": "David Mackenzie",
+      "profilePath": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1323,6 +1321,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 72156,
+      "name": "Ben Hopkins",
+      "profilePath": "/aRWnVuS30etQvFonmAQWR82CVLT.jpg",
+      "character": null,
+      "job": "Screenplay",
+      "department": "Writing",
       "order": null
     }
   ],

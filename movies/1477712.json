@@ -10,9 +10,9 @@
     "budget": "5500000",
     "revenue": "5909790",
     "status": "Released",
-    "popularity": 19.1315,
+    "popularity": 18.5195,
     "voteAverage": 4.6,
-    "voteCount": 50,
+    "voteCount": 52,
     "homepage": "https://www.iconicreleasing.com/events/ice-cream-man/",
     "posterPath": "/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
     "backdropPath": "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
@@ -1021,6 +1021,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/vOaRgSwZ87KoFCnMhpdPIstGf9p.jpg",
+      "width": 728,
+      "height": 1091,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
       "width": 3162,
       "height": 1779,
@@ -1263,12 +1270,17 @@
     {
       "source": "tmdb",
       "ratingValue": 4.6,
-      "votesCount": 50
+      "votesCount": 52
     },
     {
       "source": "imdb",
       "ratingValue": 3.8,
       "votesCount": 1832
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 25,
+      "votesCount": null
     },
     {
       "source": "crawled",
