@@ -1,29 +1,957 @@
 {
   "tvShow": {
     "tmdbId": 301626,
-    "imdbId": null,
-    "name": "",
-    "originalName": null,
-    "overview": null,
-    "firstAirDate": null,
-    "lastAirDate": null,
-    "status": null,
-    "popularity": null,
-    "voteAverage": null,
-    "voteCount": null,
-    "type": null,
-    "posterPath": null,
-    "backdropPath": null,
-    "certification": null
+    "imdbId": "tt38128417",
+    "name": "A Tale of Two Cities",
+    "originalName": "A Tale of Two Cities",
+    "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
+    "firstAirDate": "2026-09-06",
+    "lastAirDate": "2026-09-06",
+    "status": "Returning Series",
+    "popularity": 23.3107,
+    "voteAverage": 9,
+    "voteCount": 8,
+    "type": "Miniseries",
+    "posterPath": "/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+    "backdropPath": "/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+    "certification": "TV-MA"
   },
-  "seasons": [],
-  "genres": [],
-  "companies": [],
+  "seasons": [
+    {
+      "_id": "68d6d1d11e26b5fddce1ae8e",
+      "air_date": "2026-09-06",
+      "episodes": [
+        {
+          "air_date": "2026-09-06",
+          "episode_number": 1,
+          "episode_type": "standard",
+          "id": 6555753,
+          "name": "Recalled to Life",
+          "overview": "London, 1782. Eighteen years after witnessing her father’s death, Lucie Manette receives news that he may still be alive. When her only lead, dashing Frenchman Charles Darnay, is arrested for treason, she turns to mercurial lawyer Sydney Carton for help.",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 301626,
+          "still_path": "/hLPtyPV5uofHkBKLZ4VXVgG6zGR.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a7d4317cd9edea888517a1e",
+              "adult": false,
+              "gender": 2,
+              "id": 2671507,
+              "known_for_department": "Production",
+              "name": "Daniel West",
+              "original_name": "Daniel West",
+              "popularity": 0.5852,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a7d45ad1b6d9f233fc8906a",
+              "adult": false,
+              "gender": 2,
+              "id": 1191682,
+              "known_for_department": "Directing",
+              "name": "Richard Clark",
+              "original_name": "Richard Clark",
+              "popularity": 0.6418,
+              "profile_path": "/w9dqITODW4foMxiGvNCaxMy892O.jpg"
+            },
+            {
+              "job": "Editor",
+              "department": "Editing",
+              "credit_id": "6a9e3254a0ac122d314b2174",
+              "adult": false,
+              "gender": 1,
+              "id": 1108465,
+              "known_for_department": "Editing",
+              "name": "Kim Gaster",
+              "original_name": "Kim Gaster",
+              "popularity": 0.3239,
+              "profile_path": null
+            },
+            {
+              "job": "Director of Photography",
+              "department": "Camera",
+              "credit_id": "6a9e325da0ac122d314b2178",
+              "adult": false,
+              "gender": 0,
+              "id": 2188448,
+              "known_for_department": "Camera",
+              "name": "Sergio Delgado",
+              "original_name": "Sergio Delgado",
+              "popularity": 0.522,
+              "profile_path": null
+            },
+            {
+              "job": "First Assistant Director",
+              "department": "Directing",
+              "credit_id": "6a9e32cf4aafd03126c74b46",
+              "adult": false,
+              "gender": 2,
+              "id": 1994999,
+              "known_for_department": "Directing",
+              "name": "Richard T. Harris",
+              "original_name": "Richard T. Harris",
+              "popularity": 0.3831,
+              "profile_path": null
+            }
+          ],
+          "guest_stars": [
+            {
+              "character": "CJ Stryver",
+              "credit_id": "6a9e310e66dc75956e60e20b",
+              "order": 500,
+              "adult": false,
+              "gender": 2,
+              "id": 2160722,
+              "known_for_department": "Acting",
+              "name": "Fehinti Balogun",
+              "original_name": "Fehinti Balogun",
+              "popularity": 1.2537,
+              "profile_path": "/lNpDOJn9wMkMg8XLqTvdwxDcztL.jpg"
+            },
+            {
+              "character": "Ernest Defarge",
+              "credit_id": "6a9e311a33e9b6d02a144074",
+              "order": 501,
+              "adult": false,
+              "gender": 2,
+              "id": 1672596,
+              "known_for_department": "Acting",
+              "name": "Théo Costa-Marini",
+              "original_name": "Théo Costa-Marini",
+              "popularity": 0.9361,
+              "profile_path": "/sudh3ObdoNGrwcgwC55seJZfqbB.jpg"
+            },
+            {
+              "character": "Thérèse Defarge",
+              "credit_id": "6a9e312b0686b89877c74b8c",
+              "order": 502,
+              "adult": false,
+              "gender": 1,
+              "id": 544666,
+              "known_for_department": "Acting",
+              "name": "Roxane Duran",
+              "original_name": "Roxane Duran",
+              "popularity": 1.1866,
+              "profile_path": "/zwti3l3qLSpkfPDECupl99y9jbo.jpg"
+            },
+            {
+              "character": "Alexandre Manette",
+              "credit_id": "6a9e313800c64c87725afeb8",
+              "order": 503,
+              "adult": false,
+              "gender": 2,
+              "id": 71490,
+              "known_for_department": "Acting",
+              "name": "Yannick Renier",
+              "original_name": "Yannick Renier",
+              "popularity": 0.9065,
+              "profile_path": "/4NM5J6KHjnH1LXEg6a3t1hGeWDx.jpg"
+            },
+            {
+              "character": "Young Lucie",
+              "credit_id": "6a9e315f4d871ea51d5afeb9",
+              "order": 504,
+              "adult": false,
+              "gender": 0,
+              "id": 6461968,
+              "known_for_department": "Acting",
+              "name": "Layla Ingleby",
+              "original_name": "Layla Ingleby",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Young Ernest",
+              "credit_id": "6a9e316e73400d7f9160e242",
+              "order": 505,
+              "adult": false,
+              "gender": 0,
+              "id": 1559339,
+              "known_for_department": "Acting",
+              "name": "Jules Balekdjian",
+              "original_name": "Jules Balekdjian",
+              "popularity": 0.5033,
+              "profile_path": null
+            },
+            {
+              "character": "Jarvis Lorry",
+              "credit_id": "6a9e3180ee9c3cdf13996ab4",
+              "order": 506,
+              "adult": false,
+              "gender": 0,
+              "id": 4566982,
+              "known_for_department": "Acting",
+              "name": "David Z. Miller",
+              "original_name": "David Z. Miller",
+              "popularity": 0.3073,
+              "profile_path": null
+            },
+            {
+              "character": "Bank Clerk",
+              "credit_id": "6a9e318d085e79c47b0c5b36",
+              "order": 507,
+              "adult": false,
+              "gender": 2,
+              "id": 2503031,
+              "known_for_department": "Acting",
+              "name": "Roderick Hill",
+              "original_name": "Roderick Hill",
+              "popularity": 0.6979,
+              "profile_path": "/eYvRKXAZEIjkSyHTVG4WBXfbw1V.jpg"
+            },
+            {
+              "character": "Innkeeper",
+              "credit_id": "6a9e3195f9c8f3de914b49e1",
+              "order": 508,
+              "adult": false,
+              "gender": 2,
+              "id": 1468185,
+              "known_for_department": "Acting",
+              "name": "George Eggay",
+              "original_name": "George Eggay",
+              "popularity": 0.3577,
+              "profile_path": null
+            },
+            {
+              "character": "Alice",
+              "credit_id": "6a9e31a307dd817a934b48b7",
+              "order": 509,
+              "adult": false,
+              "gender": 0,
+              "id": 6461973,
+              "known_for_department": "Acting",
+              "name": "Victoria Mackay",
+              "original_name": "Victoria Mackay",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Customs Officer",
+              "credit_id": "6a9e31ad33e9b6d02a144082",
+              "order": 510,
+              "adult": false,
+              "gender": 2,
+              "id": 1562099,
+              "known_for_department": "Acting",
+              "name": "Tyler Fayose",
+              "original_name": "Tyler Fayose",
+              "popularity": 0.5058,
+              "profile_path": "/vrn7qKR2eTagMkfMzQwL7uPuJr6.jpg"
+            },
+            {
+              "character": "John Barsad",
+              "credit_id": "6a9e31b64aafd03126c74b37",
+              "order": 511,
+              "adult": false,
+              "gender": 2,
+              "id": 95716,
+              "known_for_department": "Acting",
+              "name": "Ian Pirie",
+              "original_name": "Ian Pirie",
+              "popularity": 0.8448,
+              "profile_path": "/63VIC2jPUgrhSLvwAcbn3NeCFF5.jpg"
+            },
+            {
+              "character": "Jerry Cruncher",
+              "credit_id": "6a9e31c304a07bec244b4986",
+              "order": 512,
+              "adult": false,
+              "gender": 2,
+              "id": 1015829,
+              "known_for_department": "Acting",
+              "name": "Barry Aird",
+              "original_name": "Barry Aird",
+              "popularity": 0.9,
+              "profile_path": "/sVrVkarYgB6FAHX142dwG3RtoOh.jpg"
+            },
+            {
+              "character": "Gaspard",
+              "credit_id": "6a9e31d3319336991a9969df",
+              "order": 513,
+              "adult": false,
+              "gender": 2,
+              "id": 586744,
+              "known_for_department": "Acting",
+              "name": "Thomas Blanchard",
+              "original_name": "Thomas Blanchard",
+              "popularity": 0.6366,
+              "profile_path": "/NjQ8b8W3oEGz3IJwFKYTSxNJbr.jpg"
+            },
+            {
+              "character": "Juliette",
+              "credit_id": "6a9e31ee00c64c87725afee7",
+              "order": 514,
+              "adult": false,
+              "gender": 0,
+              "id": 6461982,
+              "known_for_department": "Acting",
+              "name": "Romy Baratin-Forest",
+              "original_name": "Romy Baratin-Forest",
+              "popularity": 0,
+              "profile_path": null
+            },
+            {
+              "character": "Watchman",
+              "credit_id": "6a9e31f5085e79c47b0c5b47",
+              "order": 515,
+              "adult": false,
+              "gender": 2,
+              "id": 2503065,
+              "known_for_department": "Acting",
+              "name": "Owen Good",
+              "original_name": "Owen Good",
+              "popularity": 0.4226,
+              "profile_path": "/sUqDeS9b5pKn4aAo0UCeBRwMYiT.jpg"
+            },
+            {
+              "character": "Prosecution Lawyer",
+              "credit_id": "6a9e320207dd817a934b48c2",
+              "order": 516,
+              "adult": false,
+              "gender": 2,
+              "id": 10736,
+              "known_for_department": "Acting",
+              "name": "Timothy Walker",
+              "original_name": "Timothy Walker",
+              "popularity": 0.502,
+              "profile_path": "/jzPnF3M2WS9wX51uZLCHt6CaBHm.jpg"
+            },
+            {
+              "character": "The Madame",
+              "credit_id": "6a9e320da3becbbfc4c74b91",
+              "order": 517,
+              "adult": false,
+              "gender": 1,
+              "id": 1800515,
+              "known_for_department": "Acting",
+              "name": "Linda Fekete",
+              "original_name": "Fekete Linda",
+              "popularity": 0.4027,
+              "profile_path": "/japWecsdADSXjA3F52jU6X2kE3Y.jpg"
+            },
+            {
+              "character": "Old Bailey Judge",
+              "credit_id": "6a9e32168ce03647c84b4939",
+              "order": 518,
+              "adult": false,
+              "gender": 2,
+              "id": 293843,
+              "known_for_department": "Acting",
+              "name": "Nicholas Murchie",
+              "original_name": "Nicholas Murchie",
+              "popularity": 0.5082,
+              "profile_path": "/774c6qNoi4u2YTOqBlMNBrOCVmP.jpg"
+            },
+            {
+              "character": "Attorney-General",
+              "credit_id": "6a9e321fa0ac122d314b215a",
+              "order": 519,
+              "adult": false,
+              "gender": 2,
+              "id": 1232652,
+              "known_for_department": "Acting",
+              "name": "Roger Ringrose",
+              "original_name": "Roger Ringrose",
+              "popularity": 0.5182,
+              "profile_path": "/wEKOhvCp3iglU36QcBLrbAy1bUn.jpg"
+            }
+          ]
+        },
+        {
+          "air_date": "2026-09-13",
+          "episode_number": 2,
+          "episode_type": "standard",
+          "id": 6555757,
+          "name": "Malunion",
+          "overview": "Lucie and Charles journey to Paris to search for her long-lost father.",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 301626,
+          "still_path": "/h8Dli5ahxNIjTzLcxe0YPBhYlg.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a7d4317cd9edea888517a1e",
+              "adult": false,
+              "gender": 2,
+              "id": 2671507,
+              "known_for_department": "Production",
+              "name": "Daniel West",
+              "original_name": "Daniel West",
+              "popularity": 0.5852,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a7d45ad1b6d9f233fc8906a",
+              "adult": false,
+              "gender": 2,
+              "id": 1191682,
+              "known_for_department": "Directing",
+              "name": "Richard Clark",
+              "original_name": "Richard Clark",
+              "popularity": 0.6418,
+              "profile_path": "/w9dqITODW4foMxiGvNCaxMy892O.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-20",
+          "episode_number": 3,
+          "episode_type": "standard",
+          "id": 6555758,
+          "name": "Mother's Ruin",
+          "overview": "As Lucie builds a new life for her father in London, Sydney and Charles face off for her affection.",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 301626,
+          "still_path": "/jrsNaTqO9M0avPhWCjneMq02d75.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a7d4317cd9edea888517a1e",
+              "adult": false,
+              "gender": 2,
+              "id": 2671507,
+              "known_for_department": "Production",
+              "name": "Daniel West",
+              "original_name": "Daniel West",
+              "popularity": 0.5852,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a7d45ad1b6d9f233fc8906a",
+              "adult": false,
+              "gender": 2,
+              "id": 1191682,
+              "known_for_department": "Directing",
+              "name": "Richard Clark",
+              "original_name": "Richard Clark",
+              "popularity": 0.6418,
+              "profile_path": "/w9dqITODW4foMxiGvNCaxMy892O.jpg"
+            }
+          ],
+          "guest_stars": []
+        },
+        {
+          "air_date": "2026-09-27",
+          "episode_number": 4,
+          "episode_type": "finale",
+          "id": 6555759,
+          "name": "Resurrection Man",
+          "overview": "Charles is arrested in Paris; desperate to save him, Lucie turns to Sydney Carton.",
+          "production_code": "",
+          "runtime": 60,
+          "season_number": 1,
+          "show_id": 301626,
+          "still_path": "/vNKWPkNXdnJKBcb3GrQsCYQ5MFu.jpg",
+          "vote_average": 0,
+          "vote_count": 0,
+          "crew": [
+            {
+              "job": "Writer",
+              "department": "Writing",
+              "credit_id": "6a7d4317cd9edea888517a1e",
+              "adult": false,
+              "gender": 2,
+              "id": 2671507,
+              "known_for_department": "Production",
+              "name": "Daniel West",
+              "original_name": "Daniel West",
+              "popularity": 0.5852,
+              "profile_path": null
+            },
+            {
+              "job": "Director",
+              "department": "Directing",
+              "credit_id": "6a7d45ad1b6d9f233fc8906a",
+              "adult": false,
+              "gender": 2,
+              "id": 1191682,
+              "known_for_department": "Directing",
+              "name": "Richard Clark",
+              "original_name": "Richard Clark",
+              "popularity": 0.6418,
+              "profile_path": "/w9dqITODW4foMxiGvNCaxMy892O.jpg"
+            }
+          ],
+          "guest_stars": []
+        }
+      ],
+      "name": "Miniseries",
+      "networks": [
+        {
+          "id": 6219,
+          "logo_path": "/4umnsbif8tOc6ILCmeO0pqRXWFP.png",
+          "name": "MGM+",
+          "origin_country": "US"
+        }
+      ],
+      "overview": "",
+      "id": 477122,
+      "poster_path": "/w0YFDk2YsaKGmZWWLynhvJUfRbl.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "genres": [
+    {
+      "tmdbId": 18,
+      "name": "Drama"
+    },
+    {
+      "tmdbId": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "companies": [
+    {
+      "tmdbId": 215486,
+      "name": "Federation Stories",
+      "logoPath": null,
+      "originCountry": "GB"
+    },
+    {
+      "tmdbId": 94297,
+      "name": "Thriker Films",
+      "logoPath": null,
+      "originCountry": "GB"
+    },
+    {
+      "tmdbId": 198278,
+      "name": "Federation Studios",
+      "logoPath": "/qythZiV7eBrkZtakeiNDU1UedX8.png",
+      "originCountry": "FR"
+    },
+    {
+      "tmdbId": 190164,
+      "name": "MGM+ Studios",
+      "logoPath": "/1ZjUvqLGbp5vUcY235LAvQyI6N3.png",
+      "originCountry": "US"
+    },
+    {
+      "tmdbId": 3324,
+      "name": "BBC",
+      "logoPath": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "originCountry": "GB"
+    }
+  ],
   "keywords": [],
-  "videos": [],
-  "images": [],
-  "ratings": [],
-  "credits": [],
+  "videos": [
+    {
+      "name": "MGM+ Official Trailer",
+      "key": "pf4sOGLOV9Y",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ],
+  "images": [
+    {
+      "filePath": "/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/naCgbjNdr4oi8c9GRqVPEKytZGL.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/oL2b0zBWPJGXS0x56EJMZq76AKl.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6ZdhndHIyDlCdNoba8BOtOPKn0k.jpg",
+      "width": 1350,
+      "height": 2001,
+      "aspectRatio": 0.675,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iz9RjWzr8nT2dJZORamxgq43ZQl.jpg",
+      "width": 1024,
+      "height": 1536,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/7HHNrt87GNJl2F5aRhNQPgDv4aG.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/jGsiPEVZLJSdBPrznkTDm6Rg2Py.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/r6gUonfmHgN9OjHkhjWvL4nT9u0.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/w0YFDk2YsaKGmZWWLynhvJUfRbl.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/wos0qwI8WHIdGdtCeBfZsoSRV8c.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/iHHgpGDcvot75BHecUB6uu01miY.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/3VOkpk0PGYz5J6a293mFnHFd9Dh.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/9EGYa51w81iQRqvPaiFKxah1lly.jpg",
+      "width": 1919,
+      "height": 1080,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+      "width": 1919,
+      "height": 1080,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/4ZQ6zNk3XIhPcLc6iHTLcJm9tnR.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lCrFDZh7vmOBKXXYZGgQzXZCJUQ.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/g2vH3Z5OfZZ2haNg65ciuno6S37.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/lKXUyFthrBlJ0M6lQlhluZN3g4q.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/cCsLL4ZsuVnlDcrWEHJRqyFxo8j.jpg",
+      "width": 1848,
+      "height": 1037,
+      "aspectRatio": 1.782,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/766RMrgckpcHPwVQ0sUG6TtsWR.jpg",
+      "width": 2048,
+      "height": 1151,
+      "aspectRatio": 1.779,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/hh3aEk95gKfcgYPmosCzvnVret7.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/iJf8nuPPL7JueglTRrdjFij3pXO.jpg",
+      "width": 3840,
+      "height": 2157,
+      "aspectRatio": 1.78,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/zbd1eP40p3fzXs7hx9DW747USSK.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/r2yBT5ChgdJ5ocqDchibWr3qPVZ.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/y7UCoDFBv3fPe78TLZCnSABkKiH.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jKIPIxECVWWpiG2n20FBixjkYww.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/5O8JIcVHaTbgCooZLSNjF1A2Qi2.jpg",
+      "width": 3836,
+      "height": 2160,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/gdcGiWT9qQ3UHXoHLMMiEtEcJDr.jpg",
+      "width": 3839,
+      "height": 2160,
+      "aspectRatio": 1.777,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/zBkU0XpGL2NCbElZf1g6w2SxeLa.jpg",
+      "width": 3836,
+      "height": 2160,
+      "aspectRatio": 1.776,
+      "type": "backdrop"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "tmdb",
+      "ratingValue": 9,
+      "votesCount": 8
+    }
+  ],
+  "credits": [
+    {
+      "tmdbPersonId": 78124,
+      "name": "François Civil",
+      "profilePath": "/vSkggoDmEHl820VMBzpGkjARU2z.jpg",
+      "character": "Charles Darnay",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 2517398,
+      "name": "Mirren Mack",
+      "profilePath": "/3xOiyeum1KDzlPqnfrPeEQh8kOE.jpg",
+      "character": "Lucie Manette",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 239019,
+      "name": "Kit Harington",
+      "profilePath": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg",
+      "character": "Sydney Carton",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 195666,
+      "name": "Sharon Duncan-Brewster",
+      "profilePath": "/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg",
+      "character": "Hester Lorry",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 6554,
+      "name": "Guillaume Gallienne",
+      "profilePath": "/nponKvpwED1CivIY3f2NlQGLWE9.jpg",
+      "character": "Alexandre Manette",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 2775115,
+      "name": "Léo Becker",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 239019,
+      "name": "Kit Harington",
+      "profilePath": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2671507,
+      "name": "Daniel West",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2614810,
+      "name": "Simon Meyers",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1073157,
+      "name": "Hong Khaou",
+      "profilePath": "/7npbshcBbJw6JcwoYgvuGiBYnLN.jpg",
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 4419220,
+      "name": "Polly Williams",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 6408396,
+      "name": "Sarah Best",
+      "profilePath": null,
+      "character": null,
+      "job": "Executive Producer",
+      "department": "Production",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "FR",
+      "title": "A Tale of Two Cities",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "UA",
+      "title": "Повість про двоє міст",
+      "type": ""
+    }
+  ],
+  "externalIds": {
+    "imdbId": "tt38128417",
+    "wikidataId": "Q136336633",
+    "facebookId": null,
+    "instagramId": null,
+    "twitterId": null
+  },
+  "watchProviders": {
+    "id": {
+      "flatrate": [],
+      "buy": []
+    },
+    "us": {
+      "flatrate": [
+        {
+          "name": "Philo",
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+        },
+        {
+          "name": "MGM Plus Roku Premium Channel",
+          "logo": "/surh9i8VYeeq9186fKHnUg5Q5dg.png"
+        },
+        {
+          "name": "MGM Plus",
+          "logo": "/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+        }
+      ],
+      "buy": []
+    }
+  },
+  "reviews": [],
   "streamingLinks": [
     {
       "source": "VidSrc (Fast)",
