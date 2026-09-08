@@ -2,20 +2,20 @@
   "movie": {
     "tmdbId": 1752999,
     "imdbId": null,
-    "title": "狄仁杰之玄龙六相",
+    "title": "Di Renjie: Six Dragon Phases",
     "originalTitle": "狄仁杰之玄龙六相",
-    "overview": "Mock movie description parsed from html scraper page.",
+    "overview": "When Di Renjie first took office as the Minister of the Court of Judicial Review, he was tasked with investigating the whereabouts of the six Xuanlong artifacts that Chancellor Han had left behind several years earlier. Di Renjie traveled between Taoist temples, secret cult strongholds, and ancient ruins in search of the artifacts, eventually discovering that using all six together would create an illusion that could cause people to die suddenly. Within the illusion of the ruins, Lord Li, consumed by his desire for immortality, succumbed to the poison and died. Di Renjie then destroyed all the artifacts, safeguarding the peace of the Tang Dynasty.",
     "releaseDate": "2026-08-20",
-    "runtime": 139,
+    "runtime": 76,
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 0.6882,
+    "popularity": 1.3361,
     "voteAverage": 2,
     "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1752999",
-    "posterPath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
-    "backdropPath": null,
+    "posterPath": "/z5VXKNZcczSjHpRlkhzZwTRlVyq.jpg",
+    "backdropPath": "/jcvvyNveIO9tD27PspoWwE2PA4w.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -38,11 +38,18 @@
   "videos": [],
   "images": [
     {
-      "filePath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
+      "filePath": "/z5VXKNZcczSjHpRlkhzZwTRlVyq.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "poster"
+    },
+    {
+      "filePath": "/jcvvyNveIO9tD27PspoWwE2PA4w.jpg",
+      "width": null,
+      "height": null,
+      "aspectRatio": null,
+      "type": "backdrop"
     },
     {
       "filePath": "/uGrCS9IX4B81sTcXU3WK5UZHzYw.jpg",
@@ -50,6 +57,27 @@
       "height": 1500,
       "aspectRatio": 0.667,
       "type": "poster"
+    },
+    {
+      "filePath": "/z5VXKNZcczSjHpRlkhzZwTRlVyq.jpg",
+      "width": 500,
+      "height": 750,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/etzwm9Bwa6g32TKmKkFXjW7Rk0z.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
+      "filePath": "/jcvvyNveIO9tD27PspoWwE2PA4w.jpg",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
@@ -64,8 +92,87 @@
       "votesCount": 10
     }
   ],
-  "credits": [],
-  "alternativeTitles": [],
+  "credits": [
+    {
+      "tmdbPersonId": 1314817,
+      "name": "Benny Chan Ho-Man",
+      "profilePath": "/cGNOprzxJntHcg6db0HZOdyCZX8.jpg",
+      "character": "狄仁杰",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 3826613,
+      "name": "Shang Na",
+      "profilePath": "/ioUraH2AahGD8NfrpDmnSc8zExS.jpg",
+      "character": "上官静儿",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 3797751,
+      "name": "Liu Jin",
+      "profilePath": "/4mndy96tAL04Lye5usXVTDbmqXv.jpg",
+      "character": "李宰相",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 2123472,
+      "name": "Ge Tian",
+      "profilePath": "/h2CUtRzRAq6VrfsyqgHYUa5wzaq.jpg",
+      "character": "武则天",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 5329407,
+      "name": "Li Qing'er",
+      "profilePath": "/cz549B56ZXzMPuy1Ta6rpYTytgR.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 1560207,
+      "name": "Cai Yifan",
+      "profilePath": "/69gPjcTz6relcOCP7U34dSVyGkh.jpg",
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
+    {
+      "tmdbPersonId": 3196684,
+      "name": "Fang Yinghua",
+      "profilePath": "/dBFEcznya2QLWEt5idbiXaq4azz.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3196684,
+      "name": "Fang Yinghua",
+      "profilePath": "/dBFEcznya2QLWEt5idbiXaq4azz.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    }
+  ],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "CN",
+      "title": "Di Ren Jie Zhi Xuan Long Liu Xiang",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": null,
     "wikidataId": null,
