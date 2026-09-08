@@ -10,9 +10,9 @@
     "budget": "30000000",
     "revenue": "132675749",
     "status": "Released",
-    "popularity": 13.2495,
-    "voteAverage": 6.638,
-    "voteCount": 1309,
+    "popularity": 15.9317,
+    "voteAverage": 6.64,
+    "voteCount": 1320,
     "homepage": "http://www.blackphonemovie.com",
     "posterPath": "/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg",
     "backdropPath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
@@ -1289,6 +1289,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/wyj7PPCsdaxSaar7e8yIwOMTXZn.jpg",
+      "width": 1333,
+      "height": 2000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/hN2NFYnFcgVFBWQclD8itQPfg8B.jpg",
+      "width": 1333,
+      "height": 2000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
       "width": 3840,
       "height": 2160,
@@ -1784,13 +1798,20 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/1iS2UroVEWj3QtEszPsECBqt4Yk.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.638,
-      "votesCount": 1309
+      "ratingValue": 6.64,
+      "votesCount": 1320
     },
     {
       "source": "imdb",
@@ -1813,7 +1834,7 @@
       "tmdbPersonId": 2803710,
       "name": "Mason Thames",
       "profilePath": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg",
-      "character": "Finney 'Finn' Blake",
+      "character": "Finn",
       "job": "Actor",
       "department": "Acting",
       "order": 0
@@ -1822,7 +1843,7 @@
       "tmdbPersonId": 1530558,
       "name": "Madeleine McGraw",
       "profilePath": "/6pCrbeTe4evCfn08sOeukWs6xg9.jpg",
-      "character": "Gwen Blake",
+      "character": "Gwen",
       "job": "Actor",
       "department": "Acting",
       "order": 1
@@ -1831,7 +1852,7 @@
       "tmdbPersonId": 569,
       "name": "Ethan Hawke",
       "profilePath": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg",
-      "character": "Albert Shaw / The Grabber",
+      "character": "Grabber",
       "job": "Actor",
       "department": "Acting",
       "order": 2
@@ -1849,7 +1870,7 @@
       "tmdbPersonId": 3586928,
       "name": "Miguel Mora",
       "profilePath": "/yVjtjXQ4WWlN8XiDYsHKdwcBRXU.jpg",
-      "character": "Ernesto Arellano",
+      "character": "Ernesto",
       "job": "Actor",
       "department": "Acting",
       "order": 4
@@ -1858,7 +1879,7 @@
       "tmdbPersonId": 4654,
       "name": "Jeremy Davies",
       "profilePath": "/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg",
-      "character": "Terrence Blake",
+      "character": "Terrence",
       "job": "Actor",
       "department": "Acting",
       "order": 5
@@ -1894,7 +1915,7 @@
       "tmdbPersonId": 5296,
       "name": "James Ransone",
       "profilePath": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
-      "character": "Max Shaw",
+      "character": "Max",
       "job": "Actor",
       "department": "Acting",
       "order": 9
@@ -1903,7 +1924,7 @@
       "tmdbPersonId": 1441215,
       "name": "Anna Lore",
       "profilePath": "/zNurGVtAxvVGnpgyG9kvBUG4nVf.jpg",
-      "character": "Hope Adler",
+      "character": "Hope",
       "job": "Actor",
       "department": "Acting",
       "order": 10
@@ -2063,17 +2084,17 @@
       "flatrate": [
         {
           "name": "Catchplay",
-          "logo": "/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg"
+          "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
         },
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         }
       ],
       "buy": [
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         }
       ]
     },
@@ -2081,29 +2102,29 @@
       "flatrate": [
         {
           "name": "Netflix",
-          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
         },
         {
           "name": "Netflix Standard with Ads",
-          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         }
       ]
     }
