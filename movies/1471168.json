@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 13.8624,
-    "voteAverage": 8.429,
-    "voteCount": 7,
+    "popularity": 51.0694,
+    "voteAverage": 7.3,
+    "voteCount": 59,
     "homepage": "https://mock-movie-website.com/movies/1471168",
     "posterPath": "/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
-    "backdropPath": "/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+    "backdropPath": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
     "collectionId": null
   },
   "collection": null,
@@ -76,11 +76,18 @@
       "type": "poster"
     },
     {
-      "filePath": "/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+      "filePath": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "width": 1080,
+      "height": 1621,
+      "aspectRatio": 0.666,
+      "type": "poster"
     },
     {
       "filePath": "/yoJNP8XGO0fCFt3pa7MGRx0KKYN.jpg",
@@ -111,6 +118,20 @@
       "type": "poster"
     },
     {
+      "filePath": "/eiJnBtdCY4jQxipN0ShDQwresEM.jpg",
+      "width": 842,
+      "height": 1264,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
       "width": 1848,
       "height": 1040,
@@ -123,13 +144,20 @@
       "height": 1040,
       "aspectRatio": 1.777,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/sr4z6ULrcI7AkjMFtscIWANRUCx.jpg",
+      "width": 2736,
+      "height": 1536,
+      "aspectRatio": 1.781,
+      "type": "backdrop"
     }
   ],
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.429,
-      "votesCount": 7
+      "ratingValue": 7.3,
+      "votesCount": 59
     },
     {
       "source": "crawled",
@@ -211,6 +239,42 @@
       "order": 7
     },
     {
+      "tmdbPersonId": 3326346,
+      "name": "Franco Rilla",
+      "profilePath": "/ytiNUYdjyEHoRIUmLLYr52knqwl.jpg",
+      "character": "Gastón",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 8
+    },
+    {
+      "tmdbPersonId": 1894409,
+      "name": "Christian Font",
+      "profilePath": "/fxR8nTA0rGBVFU6SW3hTl7sP8Oa.jpg",
+      "character": "Periodista tribunales 2",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 9
+    },
+    {
+      "tmdbPersonId": 4060069,
+      "name": "Federico Formento",
+      "profilePath": null,
+      "character": "Martín",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
+      "tmdbPersonId": 2749606,
+      "name": "Natalia Chiarelli",
+      "profilePath": "/kvUyeSbMCXIg8Ny7Mv1rn7XUOkK.jpg",
+      "character": "Dora",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 11
+    },
+    {
       "tmdbPersonId": 3729192,
       "name": "Daniela Goggi",
       "profilePath": "/5X1a95b0wgQjHvoXCOVbhVMpJR7.jpg",
@@ -283,7 +347,13 @@
       "order": null
     }
   ],
-  "alternativeTitles": [],
+  "alternativeTitles": [
+    {
+      "iso_3166_1": "US",
+      "title": "Barreda: Husband, Father, Murderer",
+      "type": ""
+    }
+  ],
   "externalIds": {
     "imdbId": "tt43706402",
     "wikidataId": null,
@@ -296,7 +366,7 @@
       "flatrate": [
         {
           "name": "Amazon Prime Video",
-          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
         }
       ],
       "buy": []
@@ -305,11 +375,11 @@
       "flatrate": [
         {
           "name": "Amazon Prime Video",
-          "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
         },
         {
           "name": "Amazon Prime Video with Ads",
-          "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
         }
       ],
       "buy": []
