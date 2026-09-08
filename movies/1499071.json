@@ -10,12 +10,12 @@
     "budget": null,
     "revenue": "46907049",
     "status": "Released",
-    "popularity": 3.9984,
+    "popularity": 5.7321,
     "voteAverage": 6.5,
-    "voteCount": 20,
+    "voteCount": 22,
     "homepage": "https://mock-movie-website.com/movies/1499071",
     "posterPath": "/9C3ZxhGJvdpxmNC5PhkBMwzTMRT.jpg",
-    "backdropPath": "/92W00NvclecWWsXDjCwr5f23KSk.jpg",
+    "backdropPath": "/q2ErBUKeS85UXM32nzvW44E8sG4.jpg",
     "collectionId": 404302,
     "certification": "NR"
   },
@@ -95,7 +95,7 @@
       "type": "poster"
     },
     {
-      "filePath": "/92W00NvclecWWsXDjCwr5f23KSk.jpg",
+      "filePath": "/q2ErBUKeS85UXM32nzvW44E8sG4.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -354,6 +354,13 @@
       "type": "backdrop"
     },
     {
+      "filePath": "/q2ErBUKeS85UXM32nzvW44E8sG4.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
+    },
+    {
       "filePath": "/b1ycUYUWvj14J8pgE3BjNxjwItk.jpg",
       "width": 3840,
       "height": 2160,
@@ -407,7 +414,12 @@
     {
       "source": "tmdb",
       "ratingValue": 6.5,
-      "votesCount": 20
+      "votesCount": 22
+    },
+    {
+      "source": "imdb",
+      "ratingValue": 6.6,
+      "votesCount": 379
     },
     {
       "source": "crawled",

@@ -10,11 +10,11 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 2.2691,
+    "popularity": 3.1102,
     "voteAverage": 7,
     "voteCount": 10,
     "homepage": "https://mock-movie-website.com/movies/1579941",
-    "posterPath": "/36pEPdTrYYP6SLeEJmfJpmO0Fs.jpg",
+    "posterPath": "/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
     "backdropPath": "/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
     "collectionId": null
   },
@@ -41,6 +41,12 @@
       "name": "Unapologetic Projects",
       "logoPath": "/h42S9Av3sIaHMGF8egYrAN1elo0.png",
       "originCountry": "US"
+    },
+    {
+      "tmdbId": 247808,
+      "name": "Blue Harbor Entertainment",
+      "logoPath": "/fw3oydqYP6BlzqqHEjBeaXgYso.png",
+      "originCountry": "US"
     }
   ],
   "keywords": [],
@@ -55,7 +61,7 @@
   ],
   "images": [
     {
-      "filePath": "/36pEPdTrYYP6SLeEJmfJpmO0Fs.jpg",
+      "filePath": "/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
       "width": null,
       "height": null,
       "aspectRatio": null,
@@ -67,6 +73,20 @@
       "height": null,
       "aspectRatio": null,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/ea6lOCN745jDRuyp6AfGfb8qLAt.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
     },
     {
       "filePath": "/36pEPdTrYYP6SLeEJmfJpmO0Fs.jpg",
@@ -88,9 +108,21 @@
       "height": 2160,
       "aspectRatio": 1.778,
       "type": "backdrop"
+    },
+    {
+      "filePath": "/b8s8eM90HbwBUG5jiEPg3BFjRzd.jpg",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.778,
+      "type": "backdrop"
     }
   ],
   "ratings": [
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 63,
+      "votesCount": null
+    },
     {
       "source": "crawled",
       "ratingValue": 7,
@@ -151,6 +183,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 5
+    },
+    {
+      "tmdbPersonId": 2927599,
+      "name": "Wade Stanton",
+      "profilePath": "/plvOFhit4bbBKWeTXO4M3gb3rUH.jpg",
+      "character": "Musical Attendee",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 6
     },
     {
       "tmdbPersonId": 1070297,
