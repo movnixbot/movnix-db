@@ -10,9 +10,9 @@
     "budget": "600000",
     "revenue": "133520",
     "status": "Released",
-    "popularity": 42.9676,
-    "voteAverage": 3.856,
-    "voteCount": 184,
+    "popularity": 26.9453,
+    "voteAverage": 3.705,
+    "voteCount": 202,
     "homepage": "https://www.wemadeathingstudios.com/projects/lesbian-space-princess",
     "posterPath": "/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
     "backdropPath": "/rS0ewRtB2ugDvbaVUoCXOpBOppM.jpg",
@@ -70,6 +70,13 @@
   ],
   "keywords": [],
   "videos": [
+    {
+      "name": "Kiki's been kidnapped by the straight white maliens",
+      "key": "jaLoQ-FHN5o",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Clip"
+    },
     {
       "name": "Clip | Magic Trick",
       "key": "i7PeeevB3FQ",
@@ -482,8 +489,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 3.856,
-      "votesCount": 184
+      "ratingValue": 3.705,
+      "votesCount": 202
     },
     {
       "source": "imdb",
@@ -633,15 +640,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1923073,
-      "name": "Emma Hough Hobbs",
-      "profilePath": "/pSKSmE9BIr4c9FELUxwLToWt1te.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2812436,
       "name": "Leela Varghese",
       "profilePath": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
@@ -657,6 +655,15 @@
       "character": null,
       "job": "Writer",
       "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1923073,
+      "name": "Emma Hough Hobbs",
+      "profilePath": "/pSKSmE9BIr4c9FELUxwLToWt1te.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -712,6 +719,11 @@
       "iso_3166_1": "RU",
       "title": "Лесбийская Негритянская Космическая Принцесса",
       "type": ""
+    },
+    {
+      "iso_3166_1": "VN",
+      "title": "Công chúa vũ trụ đồng tính nữ",
+      "type": ""
     }
   ],
   "externalIds": {
@@ -729,46 +741,54 @@
     "us": {
       "flatrate": [
         {
+          "name": "Amazon Prime Video",
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+        },
+        {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
           "name": "Fandor Amazon Channel",
-          "logo": "/3eVIcUeRXji5SBV7gEv4f5U4CqV.jpg"
+          "logo": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
         },
         {
           "name": "Midnight Pulp Amazon Channel",
-          "logo": "/ni2JXG9zznS4RYIGmeyBap1KwTD.jpg"
+          "logo": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png"
         },
         {
           "name": "RetroCrush Amazon Channel",
-          "logo": "/6cQvPAFHDOSq3cXPwcCbh3gCpOi.jpg"
+          "logo": "/qtw1f8sXwc57wAY6l0RuYzMOg4t.png"
         },
         {
           "name": "Cineverse Amazon Channel",
-          "logo": "/4WAnr9g4DkgCpvBIYFMZFR6PXZ2.jpg"
+          "logo": "/mkikn40hHk3K3Xis19dnzyRnHBB.png"
         }
       ],
       "buy": [
         {
           "name": "Amazon Video",
-          "logo": "/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         },
         {
           "name": "Apple TV Store",
-          "logo": "/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
         },
         {
           "name": "Google Play Movies",
-          "logo": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
         },
         {
           "name": "YouTube",
-          "logo": "/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg"
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
         },
         {
           "name": "Fandango At Home",
-          "logo": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
         }
       ]
     }
