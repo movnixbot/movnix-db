@@ -10,9 +10,9 @@
     "budget": "73000000",
     "revenue": null,
     "status": "Released",
-    "popularity": 38.0145,
-    "voteAverage": 7.466,
-    "voteCount": 2412,
+    "popularity": 38.1215,
+    "voteAverage": 7.469,
+    "voteCount": 2422,
     "homepage": "https://www.netflix.com/title/81768525",
     "posterPath": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
     "backdropPath": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
@@ -1002,13 +1002,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.466,
-      "votesCount": 2412
+      "ratingValue": 7.469,
+      "votesCount": 2422
     },
     {
       "source": "imdb",
       "ratingValue": 6.3,
       "votesCount": 86956
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 66,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -1234,6 +1239,11 @@
     {
       "iso_3166_1": "ES",
       "title": "Maquina de guerra",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CA",
+      "title": "La machine de guerre",
       "type": ""
     }
   ],

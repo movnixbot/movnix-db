@@ -9,10 +9,10 @@
     "runtime": 139,
     "budget": "32000000",
     "revenue": null,
-    "status": "Post Production",
-    "popularity": 8.2815,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "status": "Released",
+    "popularity": 8.8711,
+    "voteAverage": 10,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1228834",
     "posterPath": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
     "backdropPath": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
@@ -188,6 +188,11 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 10,
+      "votesCount": 1
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -339,6 +344,33 @@
       "order": null
     },
     {
+      "tmdbPersonId": 145612,
+      "name": "Guy Moshe",
+      "profilePath": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1018715,
+      "name": "Mark Bacci",
+      "profilePath": null,
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1664023,
+      "name": "Bazzel Baz",
+      "profilePath": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 4472963,
       "name": "Wendy Hinton Sweetmore",
       "profilePath": null,
@@ -372,33 +404,6 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1664023,
-      "name": "Bazzel Baz",
-      "profilePath": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 145612,
-      "name": "Guy Moshe",
-      "profilePath": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1018715,
-      "name": "Mark Bacci",
-      "profilePath": null,
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
       "order": null
     },
     {
