@@ -8,11 +8,11 @@
     "releaseDate": "2026-08-12",
     "runtime": 106,
     "budget": null,
-    "revenue": null,
+    "revenue": "305519",
     "status": "Released",
-    "popularity": 7.0734,
-    "voteAverage": 6.708,
-    "voteCount": 12,
+    "popularity": 6.4686,
+    "voteAverage": 6.7,
+    "voteCount": 13,
     "homepage": "https://www.berlinale.de/en/2026/programme/202609010.html",
     "posterPath": "/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
     "backdropPath": "/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
@@ -320,8 +320,13 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.708,
-      "votesCount": 12
+      "ratingValue": 6.7,
+      "votesCount": 13
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 86,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -421,22 +426,31 @@
       "order": 9
     },
     {
+      "tmdbPersonId": 3522733,
+      "name": "Louis Gaunt",
+      "profilePath": "/h1ar733aNuM674HIBvXNCiXC85q.jpg",
+      "character": "Tristan",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
+    },
+    {
       "tmdbPersonId": 1709739,
       "name": "Josie Walker",
       "profilePath": "/tnCtnm6eOAVQ5JXXltG40ZwYAPO.jpg",
       "character": "Brenda",
       "job": "Actor",
       "department": "Acting",
-      "order": 10
+      "order": 11
     },
     {
-      "tmdbPersonId": 1931013,
-      "name": "Barbara D'Alterio",
-      "profilePath": "/27CvF1AHtwQ6kJ1kepaUcMljE38.jpg",
-      "character": "Ralph's Mum",
+      "tmdbPersonId": 1545835,
+      "name": "Joe Hughes",
+      "profilePath": "/9kOvTPaf6kRp3bRTH8PKXyo6prW.jpg",
+      "character": "Michael",
       "job": "Actor",
       "department": "Acting",
-      "order": 11
+      "order": 12
     },
     {
       "tmdbPersonId": 111421,
@@ -445,25 +459,16 @@
       "character": "James Blunt",
       "job": "Actor",
       "department": "Acting",
-      "order": 12
+      "order": 13
     },
     {
-      "tmdbPersonId": 3417986,
-      "name": "George Jaques",
-      "profilePath": "/d7KBVnxDUAPGB3EuZmDF2sIgUrw.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 3417986,
-      "name": "George Jaques",
-      "profilePath": "/d7KBVnxDUAPGB3EuZmDF2sIgUrw.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
+      "tmdbPersonId": 1931013,
+      "name": "Barbara D'Alterio",
+      "profilePath": "/27CvF1AHtwQ6kJ1kepaUcMljE38.jpg",
+      "character": "Ralph's Mum",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 14
     },
     {
       "tmdbPersonId": 3417986,
@@ -481,6 +486,24 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3417986,
+      "name": "George Jaques",
+      "profilePath": "/d7KBVnxDUAPGB3EuZmDF2sIgUrw.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 3417986,
+      "name": "George Jaques",
+      "profilePath": "/d7KBVnxDUAPGB3EuZmDF2sIgUrw.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     }
   ],
