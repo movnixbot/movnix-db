@@ -10,9 +10,9 @@
     "budget": "20000000",
     "revenue": "2982197",
     "status": "Released",
-    "popularity": 12.7298,
-    "voteAverage": 5.657,
-    "voteCount": 181,
+    "popularity": 11.1291,
+    "voteAverage": 5.645,
+    "voteCount": 183,
     "homepage": "https://a24films.com/films/mother-mary",
     "posterPath": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
     "backdropPath": "/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
@@ -986,13 +986,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.657,
-      "votesCount": 181
+      "ratingValue": 5.645,
+      "votesCount": 183
     },
     {
       "source": "imdb",
       "ratingValue": 4,
       "votesCount": 563
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 69,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -1123,17 +1128,8 @@
       "name": "David Lowery",
       "profilePath": "/5zS78ZleGuxFB0XZBqQMbH4udME.jpg",
       "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 2666645,
-      "name": "Jonathan Saubach",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
@@ -1141,8 +1137,26 @@
       "name": "David Lowery",
       "profilePath": "/5zS78ZleGuxFB0XZBqQMbH4udME.jpg",
       "character": null,
-      "job": "Director",
-      "department": "Directing",
+      "job": "Writer",
+      "department": "Writing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1133332,
+      "name": "Toby Halbrooks",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 2285024,
+      "name": "Jeanie Igoe",
+      "profilePath": null,
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
       "order": null
     },
     {
@@ -1164,17 +1178,8 @@
       "order": null
     },
     {
-      "tmdbPersonId": 2285024,
-      "name": "Jeanie Igoe",
-      "profilePath": null,
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 1133332,
-      "name": "Toby Halbrooks",
+      "tmdbPersonId": 2666645,
+      "name": "Jonathan Saubach",
       "profilePath": null,
       "character": null,
       "job": "Producer",
