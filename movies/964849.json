@@ -10,9 +10,9 @@
     "budget": "5900000",
     "revenue": null,
     "status": "Released",
-    "popularity": 69.1748,
-    "voteAverage": 6.1,
-    "voteCount": 89,
+    "popularity": 49.5694,
+    "voteAverage": 6,
+    "voteCount": 111,
     "homepage": "https://mock-movie-website.com/movies/964849",
     "posterPath": "/e9ALgOANOJbcFpw84MbafK3xvD2.jpg",
     "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
@@ -109,6 +109,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/3J98hG0TDdjEmjIVtLEAQCKePbH.jpg",
+      "width": 664,
+      "height": 996,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/xtGUJJDyOsk3sMPwF1xYj6MkMUM.jpg",
       "width": 1707,
       "height": 2560,
@@ -141,6 +148,13 @@
       "width": 2000,
       "height": 3000,
       "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/1VuiYyYPw7KHpV6abwy5D58o36i.jpg",
+      "width": 989,
+      "height": 1481,
+      "aspectRatio": 0.668,
       "type": "poster"
     },
     {
@@ -315,13 +329,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.1,
-      "votesCount": 89
+      "ratingValue": 6,
+      "votesCount": 111
     },
     {
       "source": "imdb",
       "ratingValue": 6,
       "votesCount": 469
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 74,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -466,15 +485,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 1532135,
-      "name": "Ilja Rautsi",
-      "profilePath": "/yRRMU6k3pDeiUNrNrbgaPiW1w5f.jpg",
-      "character": null,
-      "job": "Writer",
-      "department": "Writing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 2020204,
       "name": "Hanna Bergholm",
       "profilePath": "/lM1dNsFJfvx9SzkxUMDEo1A4QY9.jpg",
@@ -490,6 +500,15 @@
       "character": null,
       "job": "Director",
       "department": "Directing",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 1532135,
+      "name": "Ilja Rautsi",
+      "profilePath": "/yRRMU6k3pDeiUNrNrbgaPiW1w5f.jpg",
+      "character": null,
+      "job": "Writer",
+      "department": "Writing",
       "order": null
     },
     {
@@ -530,30 +549,51 @@
       "flatrate": [
         {
           "name": "Philo",
-          "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          "logo": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
         },
         {
           "name": "AMC Plus Apple TV channel",
-          "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
+          "logo": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
         },
         {
           "name": "AMC+ Amazon Channel",
-          "logo": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+          "logo": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
         },
         {
           "name": "AMC+ Roku Premium Channel",
-          "logo": "/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+          "logo": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png"
         },
         {
           "name": "AMC+",
-          "logo": "/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
+          "logo": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png"
         },
         {
           "name": "Shudder",
-          "logo": "/vEtdiYRPRbDCp1Tcn3BEPF1Ni76.jpg"
+          "logo": "/58O6yqUFM6qoOiBNAddJs7xNKc.png"
         }
       ],
-      "buy": []
+      "buy": [
+        {
+          "name": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+        },
+        {
+          "name": "Apple TV Store",
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "name": "Google Play Movies",
+          "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+        },
+        {
+          "name": "YouTube",
+          "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+        },
+        {
+          "name": "Fandango At Home",
+          "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+        }
+      ]
     }
   },
   "reviews": [],
