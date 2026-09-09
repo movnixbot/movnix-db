@@ -10,9 +10,9 @@
     "budget": "40000000",
     "revenue": "7340233",
     "status": "Released",
-    "popularity": 84.83,
-    "voteAverage": 7.109,
-    "voteCount": 469,
+    "popularity": 80.0368,
+    "voteAverage": 7.118,
+    "voteCount": 473,
     "homepage": "https://mock-movie-website.com/movies/1127384",
     "posterPath": "/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
     "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
@@ -460,6 +460,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/y1pDZPgtNItDdJmjZ1Sld0ScmRs.jpg",
+      "width": 1290,
+      "height": 1919,
+      "aspectRatio": 0.672,
+      "type": "poster"
+    },
+    {
       "filePath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "width": 3840,
       "height": 2160,
@@ -533,8 +540,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 7.109,
-      "votesCount": 469
+      "ratingValue": 7.118,
+      "votesCount": 473
     },
     {
       "source": "imdb",
@@ -689,15 +696,6 @@
       "order": 14
     },
     {
-      "tmdbPersonId": 16938,
-      "name": "Renny Harlin",
-      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-      "character": null,
-      "job": "Director",
-      "department": "Directing",
-      "order": null
-    },
-    {
       "tmdbPersonId": 57756,
       "name": "Gene Simmons",
       "profilePath": "/c1t3QgTO4XTDZZG5Ndjxjt8Jt0a.jpg",
@@ -713,6 +711,15 @@
       "character": null,
       "job": "Producer",
       "department": "Production",
+      "order": null
+    },
+    {
+      "tmdbPersonId": 16938,
+      "name": "Renny Harlin",
+      "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+      "character": null,
+      "job": "Director",
+      "department": "Directing",
       "order": null
     },
     {
