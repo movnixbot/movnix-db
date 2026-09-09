@@ -10,7 +10,7 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 5.9156,
+    "popularity": 5.5184,
     "voteAverage": 6.7,
     "voteCount": 15,
     "homepage": "https://mock-movie-website.com/movies/1232667",
@@ -215,6 +215,11 @@
       "votesCount": 15
     },
     {
+      "source": "rotten_tomatoes",
+      "ratingValue": 88,
+      "votesCount": null
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -294,6 +299,15 @@
       "order": null
     },
     {
+      "tmdbPersonId": 20743,
+      "name": "Gigi Pritzker",
+      "profilePath": "/4GTd6m3gsIaXQnTcNW8KCnyM2B1.jpg",
+      "character": null,
+      "job": "Producer",
+      "department": "Production",
+      "order": null
+    },
+    {
       "tmdbPersonId": 105648,
       "name": "Nat Faxon",
       "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
@@ -306,15 +320,6 @@
       "tmdbPersonId": 1242110,
       "name": "Kevin J. Walsh",
       "profilePath": "/huPBnjbZmjuvnDENzCFzDRiU66C.jpg",
-      "character": null,
-      "job": "Producer",
-      "department": "Production",
-      "order": null
-    },
-    {
-      "tmdbPersonId": 20743,
-      "name": "Gigi Pritzker",
-      "profilePath": "/4GTd6m3gsIaXQnTcNW8KCnyM2B1.jpg",
       "character": null,
       "job": "Producer",
       "department": "Production",
@@ -356,11 +361,11 @@
       "flatrate": [
         {
           "name": "HBO Max Amazon Channel",
-          "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
         },
         {
           "name": "HBO Max",
-          "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         }
       ],
       "buy": []
