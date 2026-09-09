@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 8.6175,
-    "voteAverage": 5.167,
-    "voteCount": 6,
+    "popularity": 8.8624,
+    "voteAverage": 5.111,
+    "voteCount": 9,
     "homepage": "https://mock-movie-website.com/movies/1744876",
     "posterPath": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
     "backdropPath": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
@@ -112,8 +112,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 5.167,
-      "votesCount": 6
+      "ratingValue": 5.111,
+      "votesCount": 9
     },
     {
       "source": "crawled",
@@ -304,7 +304,12 @@
   },
   "watchProviders": {
     "id": {
-      "flatrate": [],
+      "flatrate": [
+        {
+          "name": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        }
+      ],
       "buy": []
     },
     "us": {
