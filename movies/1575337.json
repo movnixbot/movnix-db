@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 11.9462,
-    "voteAverage": 8.299,
-    "voteCount": 107,
+    "popularity": 12.6197,
+    "voteAverage": 8.207,
+    "voteCount": 111,
     "homepage": "https://www.netflix.com/title/81756595",
     "posterPath": "/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
     "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
@@ -382,6 +382,34 @@
       "type": "poster"
     },
     {
+      "filePath": "/2RNPonZPqqdts3QhRbZq8ItnD3U.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/26Io1UyZDCFcg5KeBkMsiRw7VOc.jpg",
+      "width": 1999,
+      "height": 3000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
+      "filePath": "/j6eipOCkpyLVMDVb9BEaIAduPQ6.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
+      "filePath": "/6NlvrJINFVsbXtKtFJqB6l9S1x9.jpg",
+      "width": 1999,
+      "height": 3000,
+      "aspectRatio": 0.666,
+      "type": "poster"
+    },
+    {
       "filePath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
       "width": 3840,
       "height": 2160,
@@ -539,13 +567,18 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 8.299,
-      "votesCount": 107
+      "ratingValue": 8.207,
+      "votesCount": 111
     },
     {
       "source": "imdb",
       "ratingValue": 7.1,
       "votesCount": 1479
+    },
+    {
+      "source": "rotten_tomatoes",
+      "ratingValue": 80,
+      "votesCount": null
     },
     {
       "source": "crawled",
@@ -775,7 +808,7 @@
       "flatrate": [
         {
           "name": "Netflix",
-          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
         }
       ],
       "buy": []
@@ -784,11 +817,11 @@
       "flatrate": [
         {
           "name": "Netflix",
-          "logo": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
         },
         {
           "name": "Netflix Standard with Ads",
-          "logo": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
         }
       ],
       "buy": []
