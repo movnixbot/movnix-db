@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 1.5963,
-    "voteAverage": 7,
-    "voteCount": 10,
+    "popularity": 2.3157,
+    "voteAverage": 2,
+    "voteCount": 1,
     "homepage": "https://mock-movie-website.com/movies/1322379",
     "posterPath": "/gQO9gL3JJCrmAQYNY2rTBxnMvK6.jpg",
     "backdropPath": "/vLPntcKWsx7yVw52l8yzCQRn3wN.jpg",
@@ -181,6 +181,11 @@
   ],
   "ratings": [
     {
+      "source": "tmdb",
+      "ratingValue": 2,
+      "votesCount": 1
+    },
+    {
       "source": "crawled",
       "ratingValue": 7,
       "votesCount": 10
@@ -245,7 +250,7 @@
       "tmdbPersonId": 2230934,
       "name": "Siripanya Jantila",
       "profilePath": null,
-      "character": null,
+      "character": "Top",
       "job": "Actor",
       "department": "Acting",
       "order": 6
@@ -254,7 +259,7 @@
       "tmdbPersonId": 149901,
       "name": "Somlek Sakdikul",
       "profilePath": "/vvpyrZQ6UZJfgpcZMUymsK5frE1.jpg",
-      "character": null,
+      "character": "Somchai",
       "job": "Actor",
       "department": "Acting",
       "order": 7
@@ -276,6 +281,15 @@
       "job": "Actor",
       "department": "Acting",
       "order": 9
+    },
+    {
+      "tmdbPersonId": 3529019,
+      "name": "Pijika Jittaputta",
+      "profilePath": "/qZDm7Xf2DCr5NyCpupCC35Ug5g5.jpg",
+      "character": "Teacher",
+      "job": "Actor",
+      "department": "Acting",
+      "order": 10
     },
     {
       "tmdbPersonId": 3970671,
