@@ -10,9 +10,9 @@
     "budget": null,
     "revenue": null,
     "status": "Released",
-    "popularity": 16.2992,
-    "voteAverage": 6.556,
-    "voteCount": 9,
+    "popularity": 15.6429,
+    "voteAverage": 6.583,
+    "voteCount": 12,
     "homepage": "https://www.netflix.com/title/82091553",
     "posterPath": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
     "backdropPath": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
@@ -148,6 +148,13 @@
       "type": "poster"
     },
     {
+      "filePath": "/uNL8xICZ6PPFyRwDWPkLOu6Z5qL.jpg",
+      "width": 2000,
+      "height": 3000,
+      "aspectRatio": 0.667,
+      "type": "poster"
+    },
+    {
       "filePath": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
       "width": 1363,
       "height": 767,
@@ -256,8 +263,8 @@
   "ratings": [
     {
       "source": "tmdb",
-      "ratingValue": 6.556,
-      "votesCount": 9
+      "ratingValue": 6.583,
+      "votesCount": 12
     },
     {
       "source": "crawled",
@@ -266,6 +273,60 @@
     }
   ],
   "credits": [
+    {
+      "tmdbPersonId": 6464972,
+      "name": "Michael Smoak",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 0
+    },
+    {
+      "tmdbPersonId": 3630038,
+      "name": "Garrett M. Graff",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 1
+    },
+    {
+      "tmdbPersonId": 6464973,
+      "name": "Anand Gopal",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 2
+    },
+    {
+      "tmdbPersonId": 3697229,
+      "name": "Jenny Pachucki",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 3
+    },
+    {
+      "tmdbPersonId": 3987458,
+      "name": "Mary Fletcher",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 4
+    },
+    {
+      "tmdbPersonId": 3629203,
+      "name": "Bruce Hoffman",
+      "profilePath": null,
+      "character": null,
+      "job": "Actor",
+      "department": "Acting",
+      "order": 5
+    },
     {
       "tmdbPersonId": 1102384,
       "name": "Brian Knappenberger",
@@ -299,6 +360,10 @@
         {
           "name": "Netflix",
           "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
         },
         {
           "name": "Netflix Standard with Ads",
